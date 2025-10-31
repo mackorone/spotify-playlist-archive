@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: Dotan",
+  "description": "De nieuwste pop songs. Cover: mermaidonmars",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "album": {
         "name": "Blame It On You",
         "url": "https://open.spotify.com/album/3iCfKKQ8KW8aicP8zadJMd"
       },
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 177118,
       "name": "Crush",
       "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
@@ -5152,7 +5170,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 160666,
       "name": "d\u00a3aler",
       "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
@@ -6604,6 +6622,24 @@
       "duration_ms": 231522,
       "name": "From The Jump (Duet Version)",
       "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
+    },
+    {
+      "album": {
+        "name": "FU & UF",
+        "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159399,
+      "name": "FU & UF",
+      "url": "https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW"
     },
     {
       "album": {
@@ -9793,6 +9829,24 @@
     },
     {
       "album": {
+        "name": "I'm So Pretty",
+        "url": "https://open.spotify.com/album/2PybMedC0ginMdfPl1EhMs"
+      },
+      "artists": [
+        {
+          "name": "mermaidonmars",
+          "url": "https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147266,
+      "name": "I'm So Pretty",
+      "url": "https://open.spotify.com/track/5DnNt5sIgBNQpvk0gun1JL"
+    },
+    {
+      "album": {
         "name": "I'm your first",
         "url": "https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE"
       },
@@ -11806,7 +11860,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
@@ -12970,7 +13024,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 197817,
       "name": "My Man on Willpower",
       "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
@@ -17151,6 +17205,24 @@
     },
     {
       "album": {
+        "name": "So Obsessed",
+        "url": "https://open.spotify.com/album/3VQLnwF8RKAlc2CpBxxquy"
+      },
+      "artists": [
+        {
+          "name": "JOLENE",
+          "url": "https://open.spotify.com/artist/6aGqPE45EorMfklKgsHoUc"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136581,
+      "name": "So Obsessed",
+      "url": "https://open.spotify.com/track/1hvyPr0k7ti5aab1bZG6xf"
+    },
+    {
+      "album": {
         "name": "Some Days Just Suck",
         "url": "https://open.spotify.com/album/0utPam0GBKLJ2aBaB7cpJF"
       },
@@ -19256,7 +19328,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 185533,
       "name": "Thirst Trap",
       "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"

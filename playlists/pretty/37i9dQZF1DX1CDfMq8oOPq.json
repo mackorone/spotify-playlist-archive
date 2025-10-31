@@ -1,6 +1,6 @@
 {
   "description": "as g\u00eameas com uma enxurrada de refs e quem tem d\u00f3 \u00e9 cavaco",
-  "num_followers": 80499,
+  "num_followers": 80737,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-10-24 18:48:15",
       "album": {
-        "name": "Serena & Venus (Lado A)",
-        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
-        }
-      ],
-      "duration_ms": 287350,
-      "name": "Umami",
-      "url": "https://open.spotify.com/track/0uSI4ZBnEMBdAKDulLPX1b"
-    },
-    {
-      "added_at": "2025-10-24 18:48:15",
-      "album": {
         "name": "O Jogo Virou",
         "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 157714,
       "name": "Setor Norte",
       "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
+    },
+    {
+      "added_at": "2025-10-24 18:48:15",
+      "album": {
+        "name": "Serena & Venus (Lado A)",
+        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "duration_ms": 287350,
+      "name": "Umami",
+      "url": "https://open.spotify.com/track/0uSI4ZBnEMBdAKDulLPX1b"
     },
     {
       "added_at": "2025-10-24 18:48:15",

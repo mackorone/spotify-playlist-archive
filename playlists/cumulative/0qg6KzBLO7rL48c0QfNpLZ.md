@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,282 songs - 2 day 8 hr 37 min
+1,283 songs - 2 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Habits \(Stay High\)](https://open.spotify.com/track/06pqBQTjITx3HYExoOYe3T) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [AVNT:GRD](https://open.spotify.com/artist/4bLWtJy0s6TputHQAeQV6V) | [Habits \(Say High\)](https://open.spotify.com/album/2nv0Y6vz1bVFpsPMr8TNKm) | 3:04 | 2024-06-21 | 2024-07-20 |
 | [Happy It Happened](https://open.spotify.com/track/6cUWWwem9BnJ5hR4HD36tV) | [Rayasa](https://open.spotify.com/artist/5hYGtyMCQoHCd7FOjyKxZN), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Happy It Happened](https://open.spotify.com/album/129tdWT1IrkXMl6PoFsw7d) | 2:07 | 2024-06-21 | 2024-07-20 |
 | [Hard Close](https://open.spotify.com/track/3jBHdVTLJIEpFFHUpm9tz0) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Hard Close](https://open.spotify.com/album/6NvH0RoUI0xtmsu620Anfq) | 2:14 | 2024-07-05 | 2025-03-14 |
+| [Haunting Me](https://open.spotify.com/track/13HyBy8sVih8i5Pq5udf3t) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [Haunting Me](https://open.spotify.com/album/2rO3BIIDq3FAFtHwm8vDHK) | 2:59 | 2025-10-31 |  |
 | [Haven](https://open.spotify.com/track/3UIcBILSKwze021TGlanVo) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Haven](https://open.spotify.com/album/1GTPtU7LpCj4rJIwlwei7g) | 2:13 | 2025-10-24 |  |
 | [Head Down For You](https://open.spotify.com/track/4Ty57TyhUNvVHQXsH5vrSD) | [Freyer](https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4), [Odeon](https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Head Down For You](https://open.spotify.com/album/7H4oXTvzUBSfEEF3UT2dtv) | 2:49 | 2024-09-27 | 2024-11-21 |
 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:29 | 2023-12-22 | 2024-09-15 |

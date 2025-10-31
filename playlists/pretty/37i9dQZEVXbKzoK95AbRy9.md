@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,083 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,131 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [DENTRO DA LAND ROVER \- Ao Vivo](https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [DEBAIXO DO MEU CHAPÉU, Vol\. 2](https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg) | 2:39 |
 | 50 | [Não é o Lugar, é a Pessoa](https://open.spotify.com/track/3WvQaS0tluzeCN1KR5tiFi) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Não é o Lugar, é a Pessoa](https://open.spotify.com/album/5r9XKN6hu56jJ1rAnCybTm) | 2:56 |
 
-Snapshot ID: `MJWFeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJbW+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

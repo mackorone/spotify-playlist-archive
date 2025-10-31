@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 828019,
+  "num_followers": 828074,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Sugar at the Gate",
-        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
       "artists": [
         {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Nigel Hall",
+          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
         }
       ],
-      "duration_ms": 174535,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
+      "duration_ms": 143606,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -367,22 +371,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Homegrown",
-        "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
+        "name": "Sugar at the Gate",
+        "url": "https://open.spotify.com/album/1alrC2sUf5sRGSvCV8I6Qh"
       },
       "artists": [
         {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "Nigel Hall",
-          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
+      "duration_ms": 174535,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -731,6 +731,26 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Time to Melt",
+        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        },
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Dream Free",
+      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 104067,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Time to Melt",
-        "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        },
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Dream Free",
-      "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "The Miraculous Hump Returns From The Moon",
-        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
-      },
-      "artists": [
-        {
-          "name": "Sopwith Camel",
-          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
-        }
-      ],
-      "duration_ms": 314653,
-      "name": "Fazon",
-      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Euphrates River (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0QAgVwKBZAZFMkCDzmmBBj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 256240,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/5i6CpkeePD4aKacf0cmZqg"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "The Miraculous Hump Returns From The Moon",
+        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
+      },
+      "artists": [
+        {
+          "name": "Sopwith Camel",
+          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
+        }
+      ],
+      "duration_ms": 314653,
+      "name": "Fazon",
+      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Tomorrow Again",
+        "url": "https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG"
+      },
+      "artists": [
+        {
+          "name": "Saint Saviour",
+          "url": "https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy"
+        },
+        {
+          "name": "Willy Mason",
+          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Rock Pools",
+      "url": "https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Tomorrow Again",
-        "url": "https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG"
-      },
-      "artists": [
-        {
-          "name": "Saint Saviour",
-          "url": "https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy"
-        },
-        {
-          "name": "Willy Mason",
-          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Rock Pools",
-      "url": "https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Freedom to Talk",
-        "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
-      },
-      "artists": [
-        {
-          "name": "Acidslop",
-          "url": "https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Lament for the Sky",
-      "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Tincture",
         "url": "https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 211279,
       "name": "Tincture",
       "url": "https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Freedom to Talk",
+        "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
+      },
+      "artists": [
+        {
+          "name": "Acidslop",
+          "url": "https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Lament for the Sky",
+      "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Stunning & Atrocious",
+        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 217047,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Turn The World On",
         "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Stunning & Atrocious",
-        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 217047,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
         "name": "Light Speaks the Quilt",
         "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
       },
@@ -1827,18 +1843,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+        "name": "Mamalarky",
+        "url": "https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43"
       },
       "artists": [
         {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
         }
       ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+      "duration_ms": 216840,
+      "name": "You Make Me Smile",
+      "url": "https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1859,22 +1875,6 @@
       "duration_ms": 199680,
       "name": "Progress",
       "url": "https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Mamalarky",
-        "url": "https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43"
-      },
-      "artists": [
-        {
-          "name": "Mamalarky",
-          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "You Make Me Smile",
-      "url": "https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp"
     },
     {
       "added_at": "2025-10-24 22:16:10",

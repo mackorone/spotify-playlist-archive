@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Dave, Kano
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Knucks
 
-2,187 songs - 4 day 12 hr 37 min
+2,188 songs - 4 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,7 @@
 | [Deh Deh](https://open.spotify.com/track/2NgHH0haXsEMQIrPCUkrUB) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Deh Deh](https://open.spotify.com/album/7yQUvPJcm1TLsCQ5XBDAq3) | 3:46 | 2020-07-11 | 2020-09-26 |
 | [Deluded \(feat\. MIST\)](https://open.spotify.com/track/7pX7Xw1Gca3uIzslTtUIlu) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Deluded \(feat\. MIST\)](https://open.spotify.com/album/6esq1fhTNxnphI657hVXr7) | 3:01 | 2020-11-03 | 2021-06-12 |
 | [Dem Blues](https://open.spotify.com/track/7K5Q7WYjhTGUtqToJAWyBQ) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Queen of the South](https://open.spotify.com/album/1nwgHyQOABtfjwCJUIB0GQ) | 2:39 | 2021-08-20 | 2021-09-25 |
-| [Dem Bwoy](https://open.spotify.com/track/4kKZY4vsqQ4hABOWUGb1QR) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Dem Bwoy](https://open.spotify.com/album/6wWDPAs204Gx3zPxlXl5VQ) | 2:17 | 2025-08-07 |  |
+| [Dem Bwoy](https://open.spotify.com/track/4kKZY4vsqQ4hABOWUGb1QR) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Dem Bwoy](https://open.spotify.com/album/6wWDPAs204Gx3zPxlXl5VQ) | 2:17 | 2025-08-07 | 2025-10-31 |
 | [Demon Time](https://open.spotify.com/track/5OBQfjgawtti00zzOp07RW) | [Sai So](https://open.spotify.com/artist/0oNjHw3OqiWxiBXiRmqamK) | [Demon Time](https://open.spotify.com/album/4TEVK7yDj4numgWmRqcCET) | 3:40 | 2020-08-11 | 2020-09-18 |
 | [Demon Time \(Remix\) \[feat\. M24, Potter Payper, Skore Beezy & HP Boyz\]](https://open.spotify.com/track/55PF7zInjcLnpkQQYXTnDT) | [Sai So](https://open.spotify.com/artist/0oNjHw3OqiWxiBXiRmqamK), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T), [Skore Beezy](https://open.spotify.com/artist/511F9pvkld6lrqNALBz2r1) | [Demon Time \(Remix\) \[feat\. M24, Potter Payper, Skore Beezy & HP Boyz\]](https://open.spotify.com/album/73r90Qdi66KvSAwXePQCaR) | 4:31 | 2020-11-28 | 2021-01-23 |
 | [Demons \- Edit](https://open.spotify.com/track/17e1qpIOIpM8vtIDna7IlQ) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Demons \(Edit\)](https://open.spotify.com/album/5dVVAd0BWs8KtgyhiokFNp) | 2:13 | 2021-04-23 | 2021-05-29 |
@@ -1210,6 +1210,7 @@
 | [Marathon](https://open.spotify.com/track/5cwrQTTQ08JwwF8qZV5i3M) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Reflection](https://open.spotify.com/album/7hTRt1r8CvY0UFxdlLuhDt) | 2:03 | 2024-03-01 | 2024-05-11 |
 | [Marathon Continues](https://open.spotify.com/track/4AiMQcJD1lTaowia5FIUMB) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Marathon Continues](https://open.spotify.com/album/5SZFzpbghIe9iLqrZO2Rkd) | 2:40 | 2024-05-17 | 2024-06-14 |
 | [Martin's Sofa](https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Martin's Sofa](https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O) | 4:00 | 2023-01-20 | 2023-07-28 |
+| [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [](https://open.spotify.com/album/null) | 2:43 | 2025-10-31 |  |
 | [Massacre](https://open.spotify.com/track/2eNYRh1TuRum5vAMk9VLc3) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:31 | 2023-08-03 | 2023-12-09 |
 | [Matching](https://open.spotify.com/track/0Zmsn4x6sA4ySnqnmxvOat) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [Matching](https://open.spotify.com/album/2Kov4OSKfl2bJ8zuG7L1eK) | 2:58 | 2021-02-20 | 2021-03-26 |
 | [Matching](https://open.spotify.com/track/5ypx7D0i1BemavF3cImt1y) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ), [Twin S](https://open.spotify.com/artist/1VJ9x40b4MIE9vkTBqNhwD) | [Matching](https://open.spotify.com/album/5vSolJj70kqdkrP8LONASr) | 2:40 | 2025-04-25 |  |
@@ -2167,7 +2168,7 @@
 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 | 2021-06-05 | 2022-04-15 |
 | [Writer's Block](https://open.spotify.com/track/6qwvEY4USRrNbOLjN7KHuG) | [Tskinz](https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap) | [Writer's Block](https://open.spotify.com/album/7GkZ6kUXHyYVa4npDZYwK8) | 1:55 | 2024-05-17 | 2024-06-08 |
 | [Writers Block](https://open.spotify.com/track/3vASP3wHrxVBNDOsAuEBAh) | [Queenie](https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO) | [Writers Block](https://open.spotify.com/album/52T2kYL27LnT541KG46plN) | 3:16 | 2024-03-08 | 2024-04-19 |
-| [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 | 2025-10-02 |  |
+| [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 | 2025-10-02 |  |
 | [WTF](https://open.spotify.com/track/6acxplUSIxGvE7GlOkuteI) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [WTF](https://open.spotify.com/album/0cx2C5WRAQc54psme3DlLV) | 3:05 | 2022-08-18 | 2022-10-01 |
 | [WW2](https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [WW2](https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52) | 3:21 | 2021-01-08 | 2021-06-19 |
 | [Xabsi](https://open.spotify.com/track/7jPGkISdoPTCMDU8RQvOo7) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Xabsi](https://open.spotify.com/album/4yubB7drdZKKBqafypuKuo) | 2:41 | 2020-11-13 | 2021-01-23 |

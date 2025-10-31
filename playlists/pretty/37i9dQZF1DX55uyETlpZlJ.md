@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,634 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,636 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Neene Neene](https://open.spotify.com/track/2O3L5N83B5Nj2quehgw3Eb) | [Basvanth Rao](https://open.spotify.com/artist/1040bqOKKb9lUD7N3EcuLx) | [Bengaluru Love Story](https://open.spotify.com/album/6M9GV46FbDkhLAIOstGyP0) | 4:32 |
 | 75 | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/track/5PEoCLYUefE52UMOCVQI8j) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Vicky Sakleshpur](https://open.spotify.com/artist/2yMbXfTch6OjYV8U5KWOZ4) | [Mayavi \(Afrobeat Version\) \[From "Bhoomi 2024"\]](https://open.spotify.com/album/3UxggTNHDvkfMM3jCDEM9z) | 4:21 |
 
-Snapshot ID: `AAAAANK8q1U0TVaWb497u/IRvQ2C5cc0`
+Snapshot ID: `AAAAAFnduPcTH7BuwOd6r9KOoDWfIo3M`

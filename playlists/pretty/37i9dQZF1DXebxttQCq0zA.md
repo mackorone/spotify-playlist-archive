@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,303 likes - 208 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,655 likes - 208 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 207 | [Anantya Vihara](https://open.spotify.com/track/6WasOjuMY55LEsikRF4sux) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Anantya Vihara](https://open.spotify.com/album/4cbKwmdw7OdUlQJ00gKz9l) | 2:51 |
 | 208 | [Shift of Attention](https://open.spotify.com/track/66EzXdty2mIEpEM1vwuX8m) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Shift of Attention](https://open.spotify.com/album/4QEligwKA6YIzCe7aHuclb) | 3:10 |
 
-Snapshot ID: `AAAAABOMIsCEO+YQD1cyWSCMum7kcvMZ`
+Snapshot ID: `AAAAAKfkxAq/ZxfUCfOWimSmnnLduX0F`

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: The Hertz
 
-1,541 songs - 3 day 15 hr 1 min
+1,543 songs - 3 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Hot Cocoa](https://open.spotify.com/track/0P860fWaQufIrjYPRbUKoc) | [RUMBU](https://open.spotify.com/artist/0KxIN3aA64bE2qIRJwLL3Z) | [Hot Cocoa](https://open.spotify.com/album/7GdOPwDjLRIX9OOXpxAp6t) | 3:02 | 2022-10-13 | 2023-02-03 |
 | [Hotel 65 \- Drowned Version](https://open.spotify.com/track/1BtoCu8cedlZ6sdaMqPoGS) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Hotel 65 \(Drowned Version\)](https://open.spotify.com/album/5vlEXVuDE61KTQqN6VrAwR) | 5:52 | 2024-02-22 | 2024-06-07 |
 | [Hotel V](https://open.spotify.com/track/1WhCMZuYVLqRoSHFTYkYCi) | [Distant Vega](https://open.spotify.com/artist/3nj7zqPOrLe1f2lPZN3W0U) | [Hotel V](https://open.spotify.com/album/4iLFOuFjU5pQfxjnNdHcki) | 3:23 | 2022-05-26 | 2022-09-09 |
+| [House of Cards](https://open.spotify.com/track/7lsXE4f6JvbQC2bVUsEQHI) | [The Crush](https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb) | [Samhain](https://open.spotify.com/album/486TNLvAmoExeXdB9Iiu4n) | 3:31 | 2025-10-29 |  |
 | [how to turn back time](https://open.spotify.com/track/2MoU4hW1nOM7yklUuZ65VG) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [how to turn back time](https://open.spotify.com/album/15OQPvRdza0fyAul8CiCyY) | 3:19 | 2024-05-23 | 2024-11-15 |
 | [HURTLOCKER](https://open.spotify.com/track/658tlWoalFd54qkaEtNEE2) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [HURTLOCKER](https://open.spotify.com/album/5OSUuLuyegVlm7hZedW5CJ) | 4:22 | 2022-08-11 | 2022-11-04 |
 | [Hush](https://open.spotify.com/track/6J1YPcD1DNYgde4dyKfiU4) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [Blue Hour](https://open.spotify.com/album/0fruFp7UTDJ1sLZDs01CAG) | 3:32 | 2023-12-21 | 2024-05-10 |
@@ -601,6 +602,7 @@
 | [Naive](https://open.spotify.com/track/0pPsYNkqfeCLz8tU7pml67) | [Art Is Not Limited](https://open.spotify.com/artist/5BpVkT2p2dszJSb9MVVpBI) | [Naive](https://open.spotify.com/album/50BsGgKq2VSOGZdCiyTFSi) | 3:28 | 2022-11-24 | 2023-02-03 |
 | [Naked & Bare](https://open.spotify.com/track/1VAGv5XfmDFvDKVn95OyAq) | [Abhinav Saxena](https://open.spotify.com/artist/6DnllNEDcZEheXYPuDKM40), [Yana Fortep](https://open.spotify.com/artist/4duXZgsYpWEMR2EU13jror) | [Naked & Bare](https://open.spotify.com/album/7wO83xrwO1I2dcdnkvMIdB) | 3:25 | 2025-09-25 |  |
 | [naMean](https://open.spotify.com/track/1Mqmnl8KLQ1f95I50NVOmN) | [bright](https://open.spotify.com/artist/74Ul6MwHluMULyDRZMxcUu) | [i2](https://open.spotify.com/album/33U8Ukv9u1hMQNQSOtFv24) | 2:25 | 2024-09-26 | 2025-02-14 |
+| [Nancy Nightmare](https://open.spotify.com/track/56pbBTkY6PAokTBZy84znF) | [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Nancy Nightmare](https://open.spotify.com/album/7bjgFaOouB7zLsHH2d5mb2) | 5:02 | 2025-10-29 |  |
 | [natural disaster](https://open.spotify.com/track/5bW5aItHudDXz2U2Eo4QGk) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [natural disaster](https://open.spotify.com/album/31O3lJUeKwqS0Z6AThr6It) | 4:10 | 2023-05-04 | 2023-09-01 |
 | [NEARLY GOD](https://open.spotify.com/track/6zb92zD4k9u5KdZOhxoxas) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [NEARLY GOD](https://open.spotify.com/album/4XuDUYzFzs6Zlrq1YYI7DR) | 4:36 | 2022-05-26 | 2022-09-09 |
 | [need/give me](https://open.spotify.com/track/2I5lObSyl2UqX6PrykvJAS) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [need/give me](https://open.spotify.com/album/5OS7a9coLERbREP13y3QBG) | 3:21 | 2023-11-16 | 2024-01-05 |

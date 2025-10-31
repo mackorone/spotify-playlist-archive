@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Madeon \\m/",
-  "num_followers": 346239,
+  "num_followers": 346243,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "Guts",
-        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
-      },
-      "artists": [
-        {
-          "name": "Ellie Dixon",
-          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
-        }
-      ],
-      "duration_ms": 126129,
-      "name": "Guts",
-      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
         "name": "CHOKE",
         "url": "https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 160457,
       "name": "CHOKE (with grandson & Zero 9:36)",
       "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
+      },
+      "artists": [
+        {
+          "name": "Ellie Dixon",
+          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
+        }
+      ],
+      "duration_ms": 126129,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -1711,6 +1711,46 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        {
+          "name": "COSBY",
+          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
+        },
+        {
+          "name": "sebo",
+          "url": "https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW"
+        }
+      ],
+      "duration_ms": 131062,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/3Bez7vjXWagRClOEWRkZYu"
       },
@@ -1735,46 +1775,6 @@
       "duration_ms": 254600,
       "name": "Rage",
       "url": "https://open.spotify.com/track/4efvHnBxgvaLqIUuMcnMCk"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 251034,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        },
-        {
-          "name": "COSBY",
-          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
-        },
-        {
-          "name": "sebo",
-          "url": "https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW"
-        }
-      ],
-      "duration_ms": 131062,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1907,26 +1927,6 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
-        "name": "Broken String",
-        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
     },
     {
       "added_at": "2025-10-10 04:00:45",
@@ -2191,30 +2191,6 @@
     {
       "added_at": "2025-10-10 04:00:45",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 255448,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
-    },
-    {
-      "added_at": "2025-10-10 04:00:45",
-      "album": {
         "name": "Forget My Name",
         "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
       },
@@ -2235,6 +2211,30 @@
       "duration_ms": 254896,
       "name": "Forget My Name",
       "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
+    },
+    {
+      "added_at": "2025-10-10 04:00:45",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 255448,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
     },
     {
       "added_at": "2025-10-10 04:00:45",

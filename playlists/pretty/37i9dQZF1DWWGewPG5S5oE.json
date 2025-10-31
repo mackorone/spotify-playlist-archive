@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5e02\u539f\u3072\u304b\u308a",
-  "num_followers": 47095,
+  "num_followers": 47105,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-10-21 15:00:17",
       "album": {
+        "name": "CROSSING",
+        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Crossing",
+      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
+    },
+    {
+      "added_at": "2025-10-21 15:00:17",
+      "album": {
         "name": "Green eyes",
         "url": "https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 290709,
       "name": "Green eyes",
       "url": "https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl"
-    },
-    {
-      "added_at": "2025-10-21 15:00:17",
-      "album": {
-        "name": "CROSSING",
-        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 270806,
-      "name": "Crossing",
-      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
       "added_at": "2025-10-21 15:00:17",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-10-21 15:00:17",
       "album": {
-        "name": "Questune",
-        "url": "https://open.spotify.com/album/4bqhOCK0Gb4iQ65EwRZ8uq"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Questune",
-      "url": "https://open.spotify.com/track/7fJppnEGxHyA3wHHl0qwLB"
-    },
-    {
-      "added_at": "2025-10-21 15:00:17",
-      "album": {
         "name": "Spark",
         "url": "https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj"
       },
@@ -951,6 +935,30 @@
       "duration_ms": 165733,
       "name": "Spark",
       "url": "https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3"
+    },
+    {
+      "added_at": "2025-10-21 15:00:17",
+      "album": {
+        "name": "Liquid Yellow Portraits",
+        "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
+      },
+      "artists": [
+        {
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
+        },
+        {
+          "name": "5lack",
+          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
+        },
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "duration_ms": 239057,
+      "name": "New Morning",
+      "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
     }
   ],
   "unique_name": "Modern Jazz Japan",

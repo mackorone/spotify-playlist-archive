@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,105 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,131 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [The Thing About Us](https://open.spotify.com/track/6iv02GFYLyihjmLKnDgtWM) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [The Thing About Us](https://open.spotify.com/album/6jeWOR4WLDY93oZ39yFAbd) | 3:09 |
 | 50 | [When You See Me](https://open.spotify.com/track/58u4CNAGjIrnS6XCqoFMaA) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Ain't In It For My Health](https://open.spotify.com/album/5q893GwwooRNMeDHmPXYi7) | 3:35 |
 
-Snapshot ID: `AAAAAJwd8wcIR77spy0UGKRrOcf6joIb`
+Snapshot ID: `AAAAAJkw83NJJqUsX/CQzEpZDYnTCmBu`

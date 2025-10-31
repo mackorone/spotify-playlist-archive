@@ -8130,7 +8130,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 123076,
       "name": "new dawn",
       "url": "https://open.spotify.com/track/36RaLQ0xc6jBTUYWF7B8a3"
@@ -8192,6 +8192,28 @@
       "duration_ms": 112694,
       "name": "New Places",
       "url": "https://open.spotify.com/track/1hdLhQA5jby4ZQLPhmtnau"
+    },
+    {
+      "album": {
+        "name": "Next Order",
+        "url": "https://open.spotify.com/album/0dwsvJYAIpkt94dfgE7Lfr"
+      },
+      "artists": [
+        {
+          "name": "Mister Decaf",
+          "url": "https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY"
+        },
+        {
+          "name": "Lost Neko",
+          "url": "https://open.spotify.com/artist/5fD2Klfkb8CJ6UaBQ9wPOJ"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113902,
+      "name": "Next Order",
+      "url": "https://open.spotify.com/track/7GMrLLMTuCKGFXNOIlFyqf"
     },
     {
       "album": {

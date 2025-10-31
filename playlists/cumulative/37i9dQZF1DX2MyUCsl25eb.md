@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-953 songs - 2 day 7 hr 2 min
+954 songs - 2 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2021-08-04 | 2022-08-13 |
 | [By Design \[Evel Knievel\]](https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [By Design \[Evel Knievel\]](https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS) | 3:45 | 2022-06-10 | 2022-06-18 |
 | [By Your Side](https://open.spotify.com/track/2vF2v8sdg86grSyhrgC4Nd) | [Jamie Grey](https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t) | [By Your Side](https://open.spotify.com/album/0p20xcCVQ3DN1LFtfRw3s2) | 3:14 | 2022-09-30 | 2023-05-06 |
+| [California](https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [California](https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO) | 4:24 | 2025-10-17 |  |
 | [Call Me](https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Call Me](https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn) | 3:28 | 2022-06-17 | 2022-06-25 |
 | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx) | 3:20 | 2022-10-07 | 2023-06-17 |
 | [Call Your Sister \- Sister Version](https://open.spotify.com/track/4buqFtGonvg2pTDZbuuDDg) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Call Your Sister \(Sister Version\)](https://open.spotify.com/album/6cjBjpVNxn8Zd7OoHANrTI) | 2:59 | 2022-09-09 | 2022-09-17 |

@@ -2,9 +2,9 @@
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek: Lewis Capaldi \(cover\), Ruben Hein, The Indien en meer
+> Nieuwe tijdloze muziek\. Cover: Teddy Swims
 
-751 songs - 1 day 19 hr 50 min
+752 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Leap Of Faith](https://open.spotify.com/track/01a7LTYpdceGcfRbOI2aN7) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Leap Of Faith](https://open.spotify.com/album/7b8MzBFxoAU3NlJcMAggJc) | 3:26 | 2023-02-23 | 2023-06-23 |
 | [Learn to Let Go](https://open.spotify.com/track/70q0mkrSJxRSWNmFRRpIZm) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Learn to Let Go](https://open.spotify.com/album/6A0H4yzf2rXgtK6RTKZPMF) | 4:18 | 2025-04-25 | 2025-07-04 |
 | [Leave It All To Fate](https://open.spotify.com/track/68nomfdEA770xqEPOIf6nh) | [The Road](https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA), [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Leave It All To Fate](https://open.spotify.com/album/5tkhKBjpB6xywz9uBLZ3dv) | 3:17 | 2023-10-27 | 2024-04-05 |
-| [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 | 2025-08-14 |  |
+| [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 | 2025-08-14 | 2025-10-31 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-23 | 2023-06-23 |
 | [Let Me Go Home](https://open.spotify.com/track/2ys5m1ZI9QkhFJlTjMc9Nw) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Let Me Go Home](https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl) | 2:56 | 2023-02-23 | 2023-04-14 |
 | [Let U Go](https://open.spotify.com/track/0wbmr3CTPwoh8LPm9c7lhM) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Let U Go](https://open.spotify.com/album/6IG6Mr0iTUnnYxnQx3PALc) | 2:55 | 2023-05-25 | 2023-09-22 |
@@ -525,6 +525,7 @@
 | [Say Goodbye](https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Say Goodbye](https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV) | 3:04 | 2024-02-29 | 2024-07-02 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-25 | 2023-10-28 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-18 | 2024-06-21 |
+| [Scary Movie](https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Scary Movie](https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd) | 3:03 | 2025-10-30 |  |
 | [school reunion](https://open.spotify.com/track/0jvuiMZpvrjxTK8iU76PRn) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [school reunion](https://open.spotify.com/album/3HLs4a8BLcCOtDCMEoUGx7) | 2:54 | 2023-08-24 | 2024-02-03 |
 | [Seconds Tick \- Radio Edit](https://open.spotify.com/track/4leW2fnedeluPuT9mUKOdf) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [Seconds Tick \(Radio Edit\)](https://open.spotify.com/album/7jFyNiHnIUQWrSEnah2mIT) | 3:57 | 2025-03-06 | 2025-06-21 |
 | [Secrets \(feat\. Lindsey Buckingham & Mick Fleetwood\)](https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Something Beautiful \(Deluxe\)](https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb) | 3:49 | 2025-09-30 |  |

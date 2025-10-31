@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 169749,
+  "num_followers": 169752,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAADGOCxbMMEYCPQTidpg+wTO",
+  "snapshot_id": "aQFZAAAAAADMzdgbF1ebsoQ1dQ+Up/6/",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension II",
         "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 154706,
       "name": "Someone For Me",
       "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension Tour//Live 2025",
-        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "Spinning Around - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/7EaiJEkUiLk9CGtSB11d1F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO: Guest List Edition",
         "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tension Tour//Live 2025",
+        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "Spinning Around - Live From The Tension Tour",
+      "url": "https://open.spotify.com/track/7EaiJEkUiLk9CGtSB11d1F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -631,38 +631,6 @@
       "duration_ms": 300666,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension Tour//Live 2025",
-        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Taboo / On A Night Like This - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/4G0q4mbG5ELNLaNfyOl1M6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
     },
     {
       "added_at": null,
@@ -687,6 +655,38 @@
       "duration_ms": 181146,
       "name": "My Oh My (with Bebe Rexha & Tove Lo)",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension Tour//Live 2025",
+        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Taboo / On A Night Like This - Live From The Tension Tour",
+      "url": "https://open.spotify.com/track/4G0q4mbG5ELNLaNfyOl1M6"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/45HaaeQWPzIHJDpvVdYXm8"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Miss a Thing",
-      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 213026,
       "name": "Vegas High",
       "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension Tour//Live 2025",
-        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 136760,
-      "name": "Last Night I Dreamt I Fell In Love - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/1esvXyzLLj5d4ct4SUfwHP"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 262893,
       "name": "Real Groove (Studio 2054 Remix)",
       "url": "https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension Tour//Live 2025",
+        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 136760,
+      "name": "Last Night I Dreamt I Fell In Love - Live From The Tension Tour",
+      "url": "https://open.spotify.com/track/1esvXyzLLj5d4ct4SUfwHP"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension Tour//Live 2025",
-        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Edge Of Saturday Night - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/17k5HNAL6ZVG95IxZmoreo"
+      "duration_ms": 239880,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

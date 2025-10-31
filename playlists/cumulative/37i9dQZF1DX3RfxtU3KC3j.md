@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Redd
 
-526 songs - 1 day 6 hr 2 min
+527 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bas Gaza](https://open.spotify.com/track/6Qn44GASFgg1XMSxfogyak) | [Hakan Kurtaş](https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt) | [Bas Gaza](https://open.spotify.com/album/219F077nj5iDZljQUrSWUx) | 2:49 | 2025-08-21 | 2025-09-05 |
 | [Bazen Sadece](https://open.spotify.com/track/08lzj8GrI7HCQRV0XPGb7b) | [Lil Dia](https://open.spotify.com/artist/03kA89I4rmsLuUFiZVlZD9) | [Bazen Sadece](https://open.spotify.com/album/6g6jdF0463b8tx66OE3GFa) | 3:23 | 2025-05-15 | 2025-06-06 |
 | [Başka Bir Gün](https://open.spotify.com/track/44jyDYnCU3v7CWyko68Ic3) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO), [Pamela](https://open.spotify.com/artist/3JAjt6oAXVTMvCYHsc0tIC) | [Başka Bir Gün](https://open.spotify.com/album/6u2LdxzuhygVuPeBz3pvAi) | 3:14 | 2025-08-28 | 2025-10-01 |
+| [Başkan](https://open.spotify.com/track/71uY2zWLLXPjGStRIVjbSf) | [Dalgakıran](https://open.spotify.com/artist/7vBbFZP3e28NENy44RxRlq) | [Bu Bizim Nazik İsyanımız](https://open.spotify.com/album/7yvQxIAm4IkdhExqS2uHJ6) | 4:18 | 2025-10-23 |  |
 | [Başkası Mı Var](https://open.spotify.com/track/3x5J0yx9hB223pzEV6GayS) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Başkası Mı Var](https://open.spotify.com/album/7vUAzjqCNo0XFUVLgvdPMX) | 3:45 | 2024-06-28 | 2025-01-10 |
 | [Bekledim](https://open.spotify.com/track/0CLcEhx4eNpXlTC7ed7LDc) | [Zemin Kat](https://open.spotify.com/artist/6pJlkFcAnfDmuvkadDVI6N) | [Bekledim](https://open.spotify.com/album/63DxYH2eyX3xJvVEFS6xba) | 2:48 | 2024-10-10 | 2024-11-08 |
 | [Belki Başka Hayatımda](https://open.spotify.com/track/2UqBVc9klnXiGiOkplS0Et) | [Deprem Gürdal](https://open.spotify.com/artist/3uFw51eUK6Vpx4slKNhQIC) | [Belki Başka Hayatımda](https://open.spotify.com/album/4AtTi1eAzIl8Y7DqmksDh4) | 3:07 | 2025-10-23 |  |

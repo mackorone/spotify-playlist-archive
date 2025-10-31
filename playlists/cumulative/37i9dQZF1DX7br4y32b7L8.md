@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-799 songs - 1 day 16 hr 12 min
+801 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [GuGu](https://open.spotify.com/track/4EIup0G510mGZl4ZQKzAdl) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [GuGu](https://open.spotify.com/album/1skMUlyCkVrvaAmkhBGb1T) | 1:30 | 2024-04-29 | 2024-09-12 |
 | [Gyal You a Party Animal](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal](https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h) | 3:34 | 2023-03-07 | 2023-05-10 |
 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2023-02-23 | 2023-03-15 |
+| [Had Ik Maar](https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn) | [Merijn Scholten](https://open.spotify.com/artist/46yeM7RxHuvvk41AbsT6BO) | [Had Ik Maar](https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm) | 2:04 | 2025-10-30 |  |
 | [HaHUA \(Doei Doei\)](https://open.spotify.com/track/4qWdCSPVYD4FeEPW6tS7jU) | [AUXBERGINE](https://open.spotify.com/artist/5ITnDaeBB9eLjQaDQUJwzi) | [HaHUA \(Doei Doei\)](https://open.spotify.com/album/0kMYgc76yYiikvTzgyQQfB) | 1:55 | 2024-03-07 | 2024-03-22 |
 | [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2024-02-14 | 2024-04-09 |
 | [Hardcore Will Never Die](https://open.spotify.com/track/2EMMqD9aKPLx1DJ90JHnaJ) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Koningsdag 2022](https://open.spotify.com/album/0Ag7wvNwmOYh8CugoVh6Jl) | 2:11 | 2023-07-18 | 2024-05-07 |
@@ -344,6 +345,7 @@
 | [Investeren In De Liefde](https://open.spotify.com/track/2wLap85rkCeiacx6QhXdF7) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [New Wave](https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0) | 2:57 | 2025-06-26 |  |
 | [Investeren In De Liefde](https://open.spotify.com/track/4gNUmFwSGsZNjzxsjcE0aM) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [New Wave](https://open.spotify.com/album/6yNagpRsQLiEsNts3ft9Ow) | 2:57 | 2024-07-10 | 2024-11-28 |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2025-06-27 | 2025-10-22 |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-10-30 |  |
 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-26 | 2024-02-15 |
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 | 2023-02-23 | 2023-10-03 |
 | [J'me tire](https://open.spotify.com/track/4w47YE9rjhmZUdtZjSCb82) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Subliminal \(La face cachée\)](https://open.spotify.com/album/5EU9LqPsBwrhq4Iqx0xMVd) | 4:09 | 2024-11-11 | 2025-10-02 |

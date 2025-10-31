@@ -4,7 +4,7 @@
 
 > 
 
-2,644 songs - 5 day 17 hr 51 min
+2,645 songs - 5 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [All I Want](https://open.spotify.com/track/5RFomRrHLzVah8stzaDtpu) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:23 | 2023-07-14 |  |
 | [ALL MY LIFE](https://open.spotify.com/track/7DBb1ZcFlItvRimzMwGo31) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [ALL MY LIFE](https://open.spotify.com/album/16vAhe50NocQKrsrsXYTek) | 2:46 | 2025-07-17 |  |
 | [All Night](https://open.spotify.com/track/3Koqpz5YLEFFjBEmoxb1UO) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [All Night](https://open.spotify.com/album/1Q0UDwLIQl3Q8mwMqx7jGG) | 2:08 | 2025-07-04 |  |
+| [All Night Long](https://open.spotify.com/track/5bgXJer9SQUZKhvg45BSyE) | [ALPHI](https://open.spotify.com/artist/6TUS92w9xO24LS2EzuRR2M) | [All Night Long](https://open.spotify.com/album/17Sur55miZ3REBHnebKf1o) | 2:51 | 2025-10-30 |  |
 | [All Night Long](https://open.spotify.com/track/6TuXaSw561XGioEwNbznaT) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [All Night Long](https://open.spotify.com/album/1EwtgUalTOJACZTnxX0mO5) | 3:06 | 2023-09-06 |  |
 | [All Night Long](https://open.spotify.com/track/0BLLqhxsqfprAGqunsWIV5) | [Zetamale](https://open.spotify.com/artist/7kDNYbq3Sz7yBk95R5wmR4) | [All Night Long](https://open.spotify.com/album/2NajpHWfiZA1xOX6Lp9BlT) | 4:00 | 2022-04-04 |  |
 | [All Of The Lights](https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [All Of The Lights](https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov) | 4:01 | 2023-06-26 |  |
@@ -2408,7 +2409,7 @@
 | [Turn It Up \- Radio Edit](https://open.spotify.com/track/4OV93O2nPaHRPbvPmGC9qy) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [I Said What EP \(Radio Edits\)](https://open.spotify.com/album/2lAuT3CMWB8aP0q8onUQCi) | 3:06 | 2024-04-01 |  |
 | [Turn It Up Loud](https://open.spotify.com/track/2U7SWa52sIDpIFrjrfMrT7) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Turn It Up Loud](https://open.spotify.com/album/3jHhdNMPtIDZSVp7DcF6pQ) | 4:09 | 2022-08-14 |  |
 | [Turn Off Your Mind](https://open.spotify.com/track/17ScTFrOP9KfP4fRA3X2Pf) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [Turn Off Your Mind](https://open.spotify.com/album/4usmn70Mrovzw6PGua71c5) | 2:33 | 2025-09-19 |  |
-| [TURN ON THE MICROWAVE](https://open.spotify.com/track/5viyUZt4ff4M0UGjEV7OXI) | [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD), [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [TURN ON THE MICROWAVE](https://open.spotify.com/album/4k0GdhCt31JEiG8rBFwXwU) | 2:38 | 2025-10-18 |  |
+| [TURN ON THE MICROWAVE](https://open.spotify.com/track/5viyUZt4ff4M0UGjEV7OXI) | [Opgekonkerd](https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD) | [TURN ON THE MICROWAVE](https://open.spotify.com/album/4k0GdhCt31JEiG8rBFwXwU) | 2:38 | 2025-10-18 |  |
 | [Turn The F Bass Up](https://open.spotify.com/track/5kNXmloCtElpwS8aNqEkbH) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0) | [Turn The F Bass Up](https://open.spotify.com/album/5opIHOpOPX7SYX64fxKSm6) | 3:05 | 2025-06-01 |  |
 | [Turn The Fucking Place Up](https://open.spotify.com/track/3xAjp5YYsfbJr1P4J3eI96) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Turn The Fucking Place Up](https://open.spotify.com/album/5J6ioX0QFaWJ0oKTjmeq8K) | 3:15 | 2024-04-19 |  |
 | [TURN THE MUSIC UP](https://open.spotify.com/track/18pwSYg3sjPJuZPv2xsr9X) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [TURN THE MUSIC UP](https://open.spotify.com/album/65WaOzpXFsnebqKA9kyfx0) | 2:43 | 2025-02-28 |  |

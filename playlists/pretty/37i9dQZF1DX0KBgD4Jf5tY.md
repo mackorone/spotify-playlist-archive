@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:03mwxB2gQpaYZNRm5nNjIU">Refo</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,485 likes - 69 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,486 likes - 69 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 68 | [I Santi Sono Caduti](https://open.spotify.com/track/5NDMllScGQ8G51pe0QboMk) | [Tyso](https://open.spotify.com/artist/1xpL9wX2SsWR4Pjs6Nsweb) | [I Santi Sono Caduti](https://open.spotify.com/album/7y29XkyLTco493TW2sHWmq) | 3:12 |
 | 69 | [Bulletproof](https://open.spotify.com/track/1ri7qgzvvkuuzrybIPv8jG) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Bulletproof](https://open.spotify.com/album/4Chq3QRyD8mU9j96S88vMJ) | 2:52 |
 
-Snapshot ID: `AAAAAD/8noqThInnpgYTxn5U57ecUF0e`
+Snapshot ID: `AAAAAOwtQtxlU6/cvFYW3ZDSYY+2NVZA`

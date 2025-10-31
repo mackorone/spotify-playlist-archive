@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Only the best Tech House 🔥 Submit: tstack.app&\#x2F;bassline\-therapy
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,824 likes - 74 songs - 3 hr 52 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,823 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

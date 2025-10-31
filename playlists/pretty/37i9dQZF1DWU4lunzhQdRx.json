@@ -1,6 +1,6 @@
 {
   "description": "are we okay? \ud83d\udc99",
-  "num_followers": 205801,
+  "num_followers": 205886,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-10-08 18:24:45",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 301986,
-      "name": "A Little Bit Stronger",
-      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
-    },
-    {
-      "added_at": "2025-10-08 18:24:45",
-      "album": {
         "name": "All I've Ever Known",
         "url": "https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 245987,
       "name": "Everleave",
       "url": "https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk"
+    },
+    {
+      "added_at": "2025-10-08 18:24:45",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "A Little Bit Stronger",
+      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
     },
     {
       "added_at": "2025-10-08 18:24:45",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-10-08 18:24:45",
       "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 259279,
+      "name": "Tin Man",
+      "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
+    },
+    {
+      "added_at": "2025-10-08 18:24:45",
+      "album": {
         "name": "we don't fight anymore",
         "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 220145,
       "name": "we don't fight anymore",
       "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
-    },
-    {
-      "added_at": "2025-10-08 18:24:45",
-      "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 259279,
-      "name": "Tin Man",
-      "url": "https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE"
     },
     {
       "added_at": "2025-10-08 18:24:45",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-10-08 18:24:45",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 241837,
-      "name": "Why Johnny",
-      "url": "https://open.spotify.com/track/3yCcJIX6VbB1DKXrIsm0BE"
-    },
-    {
-      "added_at": "2025-10-08 18:24:45",
-      "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
@@ -827,22 +811,34 @@
     {
       "added_at": "2025-10-08 18:24:45",
       "album": {
-        "name": "Wishful Drinking (with Sam Hunt)",
-        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 194544,
-      "name": "Wishful Drinking (with Sam Hunt)",
-      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+      "duration_ms": 241837,
+      "name": "Why Johnny",
+      "url": "https://open.spotify.com/track/3yCcJIX6VbB1DKXrIsm0BE"
+    },
+    {
+      "added_at": "2025-10-08 18:24:45",
+      "album": {
+        "name": "thirty one",
+        "url": "https://open.spotify.com/album/7zD1Xp405071FTXmxySeD9"
+      },
+      "artists": [
+        {
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "I Got the Boy",
+      "url": "https://open.spotify.com/track/6tbNaE7kvGNqS7FvJ0dzLB"
     }
   ],
   "unique_name": "sad girl country",

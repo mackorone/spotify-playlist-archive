@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en Volkspop. Cover: Gerard Joling, Billy Dans & Afro Bros",
+  "description": "Wekelijkse update met Hollands en Volkspop. Cover: Danny Froger",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 154012,
       "name": "Houdoe en de mazzel",
       "url": "https://open.spotify.com/track/043JB9ojSM6DZOaofz8qPU"
@@ -4244,7 +4244,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 216796,
       "name": "Kijk Om Je Heen",
       "url": "https://open.spotify.com/track/3U5KWLt1lWCIQIlpoxEGiU"
@@ -4851,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Later is morgen",
+        "url": "https://open.spotify.com/album/1vLp7a244zr0vtKgYmwDsp"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209683,
+      "name": "Later is morgen",
+      "url": "https://open.spotify.com/track/378mjBshMbo50ekhtSKRPH"
+    },
+    {
+      "album": {
         "name": "Leef Je Droom",
         "url": "https://open.spotify.com/album/56ab7ZDVQ5PjKGkTMDgv8w"
       },
@@ -5138,7 +5160,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 171106,
       "name": "Maak Van Je Leven Toch Een Feestje",
       "url": "https://open.spotify.com/track/7owG37XeaL7sDHEba9XfXu"
@@ -6306,6 +6328,24 @@
       "duration_ms": 165569,
       "name": "Ruud & Mieke",
       "url": "https://open.spotify.com/track/0oen0qWr9cBEbkytniF5gF"
+    },
+    {
+      "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/7u6sZ1c9u4mDfTfhpgYNSu"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166950,
+      "name": "Samen",
+      "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
     },
     {
       "album": {
@@ -7528,6 +7568,24 @@
       "duration_ms": 142285,
       "name": "Vraag Me Niets",
       "url": "https://open.spotify.com/track/2Ed0Hh28X8zPYSszIK90sS"
+    },
+    {
+      "album": {
+        "name": "Vreemde uit de kroeg",
+        "url": "https://open.spotify.com/album/1IaTfBznir2X6ZWUOtycic"
+      },
+      "artists": [
+        {
+          "name": "Danny Froger",
+          "url": "https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148954,
+      "name": "Vreemde uit de kroeg",
+      "url": "https://open.spotify.com/track/4WjLLhdrqjaCGgZ380aWlY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 17696,
+  "num_followers": 17705,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAADsoxte4XPLuDa9octR5F+u",
+  "snapshot_id": "aQFZAAAAAACd4DhIx4OhKfwsyad5wtSO",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 111266,
-      "name": "Row",
-      "url": "https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp"
+      "duration_ms": 183040,
+      "name": "abyss kiss",
+      "url": "https://open.spotify.com/track/4ry8TnIKq7vP1cUqN7eq5n"
     },
     {
       "added_at": null,
@@ -423,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "abyss kiss",
-      "url": "https://open.spotify.com/track/4ry8TnIKq7vP1cUqN7eq5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -452,9 +432,25 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 150266,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
+      "duration_ms": 111266,
+      "name": "Row",
+      "url": "https://open.spotify.com/track/4Op5aSB6JSVzp7Jhi5hQKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "symbol",
+      "url": "https://open.spotify.com/track/1uqRGTN9gQNf2SZ3BD6Txf"
     },
     {
       "added_at": null,
@@ -495,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "symbol",
-      "url": "https://open.spotify.com/track/1uqRGTN9gQNf2SZ3BD6Txf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -524,9 +504,25 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 228640,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
+      "duration_ms": 150266,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "instrumentals",
+        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 1272830,
+      "name": "music for indigo",
+      "url": "https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p"
     },
     {
       "added_at": null,
@@ -567,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "instrumentals",
-        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 1272830,
-      "name": "music for indigo",
-      "url": "https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p"
+      "duration_ms": 228640,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
     },
     {
       "added_at": null,
@@ -595,6 +595,38 @@
       "duration_ms": 263933,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
     },
     {
       "added_at": null,
@@ -619,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+        "name": "Live at Revolution Hall",
+        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
       },
       "artists": [
         {
@@ -628,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
+      "duration_ms": 92827,
+      "name": "indiana & sneezing",
+      "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
     },
     {
       "added_at": null,
@@ -644,25 +676,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Revolution Hall",
-        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 92827,
-      "name": "indiana & sneezing",
-      "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
+      "duration_ms": 197266,
+      "name": "blue and red horses",
+      "url": "https://open.spotify.com/track/0t3lffLJnXnuJri7pjeeX9"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 208180,
       "name": "happiness - live",
       "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "blue and red horses",
-      "url": "https://open.spotify.com/track/0t3lffLJnXnuJri7pjeeX9"
     },
     {
       "added_at": null,

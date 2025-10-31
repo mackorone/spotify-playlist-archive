@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 637894,
+  "num_followers": 637891,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAACZXXjjmE7UgOGWUEmPl9jq",
+  "snapshot_id": "aQFZAAAAAAC1QsaCGVa0CnUd//Q4HH7H",
   "tracks": [
     {
       "added_at": null,
@@ -527,18 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena: The Series Soundtrack",
-        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
       "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 183933,
-      "name": "Yo Fui Aquella - .",
-      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
+      "duration_ms": 290773,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
     },
     {
       "added_at": null,
@@ -559,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
       },
       "artists": [
         {
@@ -568,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 177066,
-      "name": "No Quiero Saber - 1990 Version",
-      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
+      "duration_ms": 183933,
+      "name": "Yo Fui Aquella - .",
+      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
     },
     {
       "added_at": null,
@@ -591,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
-        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
       "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 290773,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
+      "duration_ms": 177066,
+      "name": "No Quiero Saber - 1990 Version",
+      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
     },
     {
       "added_at": null,

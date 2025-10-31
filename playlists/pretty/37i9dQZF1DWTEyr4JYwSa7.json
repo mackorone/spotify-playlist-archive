@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui sent le sapin pis la joie!",
-  "num_followers": 60968,
+  "num_followers": 60984,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,18 @@
     {
       "added_at": "2025-10-24 18:14:42",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
       "added_at": "2025-10-24 18:14:42",
@@ -215,18 +215,18 @@
     {
       "added_at": "2025-10-24 18:14:42",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
       "added_at": "2025-10-24 18:14:42",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2025-10-24 18:14:42",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
+        "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+      "duration_ms": 223240,
+      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
+      "url": "https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP"
     },
     {
       "added_at": "2025-10-24 18:14:42",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2025-10-24 18:14:42",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
-        "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
-      "url": "https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP"
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
     },
     {
       "added_at": "2025-10-24 18:14:42",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-10-24 18:14:42",
       "album": {
-        "name": "Baby It\u2019s Not Christmas Without You",
-        "url": "https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ"
-      },
-      "artists": [
-        {
-          "name": "Stacey Ryan",
-          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Baby It\u2019s Not Christmas Without You",
-      "url": "https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl"
-    },
-    {
-      "added_at": "2025-10-24 18:14:42",
-      "album": {
         "name": "Chantons No\u00ebl!",
         "url": "https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 171560,
       "name": "Le petit renne au nez rouge",
       "url": "https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf"
+    },
+    {
+      "added_at": "2025-10-24 18:14:42",
+      "album": {
+        "name": "Baby It\u2019s Not Christmas Without You",
+        "url": "https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Baby It\u2019s Not Christmas Without You",
+      "url": "https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl"
     },
     {
       "added_at": "2025-10-24 18:14:42",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-10-24 18:14:42",
       "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Christmas Kisses",
+      "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
+    },
+    {
+      "added_at": "2025-10-24 18:14:42",
+      "album": {
         "name": "Les Plus Beaux Noels Du Monde",
         "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 182026,
       "name": "No\u00ebl au camp",
       "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
-    },
-    {
-      "added_at": "2025-10-24 18:14:42",
-      "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z"
-      },
-      "artists": [
-        {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Christmas Kisses",
-      "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
     },
     {
       "added_at": "2025-10-24 18:14:42",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2025-10-24 18:14:42",
       "album": {
-        "name": "Encore (Bonus Album)",
-        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
+        "name": "No\u00ebl brille encore",
+        "url": "https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A"
       },
       "artists": [
         {
-          "name": "Brigitte",
-          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
+          "name": "Laurence Nerbonne",
+          "url": "https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ"
         }
       ],
-      "duration_ms": 146426,
-      "name": "No\u00ebl blanc",
-      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
+      "duration_ms": 206666,
+      "name": "No\u00ebl brille encore",
+      "url": "https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk"
     },
     {
       "added_at": "2025-10-24 18:14:42",
@@ -1595,38 +1595,18 @@
     {
       "added_at": "2025-10-24 18:14:42",
       "album": {
-        "name": "No\u00ebl brille encore",
-        "url": "https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A"
+        "name": "Encore (Bonus Album)",
+        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
       },
       "artists": [
         {
-          "name": "Laurence Nerbonne",
-          "url": "https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ"
+          "name": "Brigitte",
+          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
         }
       ],
-      "duration_ms": 206666,
-      "name": "No\u00ebl brille encore",
-      "url": "https://open.spotify.com/track/1ebKEop7f6MPvqAhsw8zOk"
-    },
-    {
-      "added_at": "2025-10-24 18:14:42",
-      "album": {
-        "name": "Baby It's Cold Outside",
-        "url": "https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ"
-      },
-      "artists": [
-        {
-          "name": "Virginia To Vegas",
-          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
-        },
-        {
-          "name": "Alyssa Reid",
-          "url": "https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Baby It's Cold Outside",
-      "url": "https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F"
+      "duration_ms": 146426,
+      "name": "No\u00ebl blanc",
+      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
     },
     {
       "added_at": "2025-10-24 18:14:42",
@@ -1647,6 +1627,26 @@
       "duration_ms": 177213,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/3iSbqwNEwJBR3gRAHxF9ak"
+    },
+    {
+      "added_at": "2025-10-24 18:14:42",
+      "album": {
+        "name": "Baby It's Cold Outside",
+        "url": "https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        },
+        {
+          "name": "Alyssa Reid",
+          "url": "https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Baby It's Cold Outside",
+      "url": "https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F"
     },
     {
       "added_at": "2025-10-24 18:14:42",

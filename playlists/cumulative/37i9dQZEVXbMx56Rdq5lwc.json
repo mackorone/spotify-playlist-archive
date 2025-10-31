@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 127179,
       "name": "A\u0161 Tik \u017dmogus",
       "url": "https://open.spotify.com/track/070dsZFWXM5P1TsA966lta"
@@ -19626,7 +19626,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 256693,
       "name": "Laikas Keistis",
       "url": "https://open.spotify.com/track/64uZgjybWWpwhZ4JKZWQa8"
@@ -26306,7 +26306,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -28736,6 +28736,32 @@
       "duration_ms": 228889,
       "name": "Patogu ir Smagu",
       "url": "https://open.spotify.com/track/5OjNp0fejcQP97YdWPNVgg"
+    },
+    {
+      "album": {
+        "name": "Kostas Smoriginas su Vilniaus Sinfonietta ir VDU Kameriniu Orkestru",
+        "url": "https://open.spotify.com/album/3ZAM5IYHDQqrnewC0ar3aC"
+      },
+      "artists": [
+        {
+          "name": "Kostas Smoriginas",
+          "url": "https://open.spotify.com/artist/2o7nvhIbKvnfze3L46B8x4"
+        },
+        {
+          "name": "Vilniaus Sinfonietta",
+          "url": "https://open.spotify.com/artist/6O58JpkJHf1Z6rNNsv1z5p"
+        },
+        {
+          "name": "VDU Kamerinis Orkestras",
+          "url": "https://open.spotify.com/artist/6ZoqrYAFCCGwUVy6kQYDy5"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283960,
+      "name": "Pauk\u0161\u010diai",
+      "url": "https://open.spotify.com/track/1wv9vsbCvsMtOIS0aSCtyG"
     },
     {
       "album": {
@@ -32978,7 +33004,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 237666,
       "name": "Sav\u0119s per daug",
       "url": "https://open.spotify.com/track/5akw1IRooLXMwxRK9zVap2"
@@ -36278,7 +36304,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -36296,7 +36322,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -43718,7 +43744,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 189749,
       "name": "\u012ekliuvau",
       "url": "https://open.spotify.com/track/5jQhYcSbdOlnjyu0DpNJQk"

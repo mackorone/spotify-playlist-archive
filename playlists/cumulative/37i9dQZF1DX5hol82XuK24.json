@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231467,
+      "name": "Drink Deep",
+      "url": "https://open.spotify.com/track/21sDgrgghtQMdUGsCqGVXI"
+    },
+    {
+      "album": {
         "name": "Less",
         "url": "https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh"
       },

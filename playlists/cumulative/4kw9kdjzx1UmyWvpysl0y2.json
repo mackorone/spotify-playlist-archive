@@ -12721,6 +12721,24 @@
     },
     {
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/5EiAG62doKVGzLr0s6HF3T"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/3uvVRyy1yGLn7j3b5IzF1P"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2II1KH1QTYVhSLdfubOaVV"
       },

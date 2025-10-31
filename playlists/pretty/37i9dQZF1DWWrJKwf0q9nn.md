@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Armin van Buuren & KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,536 likes - 107 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,539 likes - 107 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

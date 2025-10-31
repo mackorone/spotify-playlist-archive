@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Winona Riders
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,894 likes - 103 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,887 likes - 103 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

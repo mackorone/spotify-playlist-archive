@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Night Keepers (\u5b88\u591c\u4eba)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: SoulFa (\u9748\u9b42\u6c99\u767c)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 193843,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/2TDK3J9sqhU6UMlkmMX0wz"
@@ -708,6 +708,28 @@
       "duration_ms": 222352,
       "name": "Balloon - Sunset Rollercoaster Remake",
       "url": "https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b"
+    },
+    {
+      "album": {
+        "name": "B3NCH PART\u00a5\u00a5",
+        "url": "https://open.spotify.com/album/2lmA4J4WhnAdeELSnFWg5V"
+      },
+      "artists": [
+        {
+          "name": "A.F",
+          "url": "https://open.spotify.com/artist/7fV3vqbqrK31dLIy3cDla9"
+        },
+        {
+          "name": "Dizzy Dizzo",
+          "url": "https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197073,
+      "name": "BANDO",
+      "url": "https://open.spotify.com/track/7kWgePJ550aDVw79A69L8a"
     },
     {
       "album": {
@@ -5730,7 +5752,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 406874,
       "name": "Robot in No Man's Land",
       "url": "https://open.spotify.com/track/2YHjtbpIHduMuK0yz2bOB6"
@@ -5806,7 +5828,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 193600,
       "name": "Running",
       "url": "https://open.spotify.com/track/0AV1eWrh1x86FFnVDJ4BZD"
@@ -7695,6 +7717,24 @@
     },
     {
       "album": {
+        "name": "We Talk To iPhone But Not Our Best Friend",
+        "url": "https://open.spotify.com/album/62b1b9z2OELU2sH8hwxIrj"
+      },
+      "artists": [
+        {
+          "name": "SoulFa \u9748\u9b42\u6c99\u767c",
+          "url": "https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169086,
+      "name": "We Talk To iPhone But Not Our Best Friend",
+      "url": "https://open.spotify.com/track/3D4xcSrCguzXYb5BqPWq1Z"
+    },
+    {
+      "album": {
         "name": "The Great Bremen Show",
         "url": "https://open.spotify.com/album/18GGV74KlTQ1WOOUaTeqP2"
       },
@@ -8224,6 +8264,28 @@
       "duration_ms": 105066,
       "name": "\u2060happy together",
       "url": "https://open.spotify.com/track/4ZoJli0xvzWQoSs7IodNTm"
+    },
+    {
+      "album": {
+        "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
+        "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        },
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227538,
+      "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
+      "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
     },
     {
       "album": {
@@ -9714,6 +9776,28 @@
       "duration_ms": 223368,
       "name": "\u6839\u672c\u4e0d\u662f\u6211\u5c0d\u624b",
       "url": "https://open.spotify.com/track/2K38uU4e957XLRNdO1C8NE"
+    },
+    {
+      "album": {
+        "name": "\u6885\u96e8 (feat.\u4eac \u82f1\u4e00)",
+        "url": "https://open.spotify.com/album/7bkvsUBGECXAHNZzfFDKFw"
+      },
+      "artists": [
+        {
+          "name": "Gestalt Girl",
+          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
+        },
+        {
+          "name": "\u4eac \u82f1\u4e00",
+          "url": "https://open.spotify.com/artist/0cEgadwEXRPfTZ1Xtg7pFa"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "\u6885\u96e8 - feat.\u4eac \u82f1\u4e00",
+      "url": "https://open.spotify.com/track/0itAw5Q6o1y6TE1GnVPLXW"
     },
     {
       "album": {

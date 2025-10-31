@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-423 songs - 21 hr 53 min
+424 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Taking Control](https://open.spotify.com/track/67p3rriE3VbvcsIuQjfVQ1) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Sam Ourt](https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Taking Control](https://open.spotify.com/album/7AnUMZAuOTuIIKYnkv5mhH) | 2:55 | 2022-02-03 | 2022-09-15 |
 | [Taking It Slow](https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Taking It Slow](https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r) | 2:40 | 2024-06-27 |  |
 | [Talk To Me](https://open.spotify.com/track/6mvMDGZ0Sq1wAnJ3BvRp9P) | [Siberian Express](https://open.spotify.com/artist/45fLfFzIAKudNKuSeD2y2c) | [Talk To Me](https://open.spotify.com/album/1pJcRSWjtIKwiqyz0pDgY2) | 2:55 | 2022-02-03 | 2022-09-15 |
+| [teamo](https://open.spotify.com/track/3vSa3awmVs6uJ5UsF2govU) | [c8o](https://open.spotify.com/artist/7BpMCntV4suo4ycD98VV6V) | [teamo](https://open.spotify.com/album/6I4YHk7PJmePPOn7W8JYjo) | 2:22 | 2025-10-30 |  |
 | [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 | 2023-08-10 | 2023-09-22 |
 | [tell me why](https://open.spotify.com/track/5NEQfRhATRpgW13dEM9hZ8) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [tell me why](https://open.spotify.com/album/5xkdPkP1kSyY8llMdnEUxn) | 2:42 | 2025-06-24 |  |
 | [Temptation](https://open.spotify.com/track/0eO2a2BzQujyK9MkLfOJxf) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Temptation](https://open.spotify.com/album/2XVLOitnajQuyW3Zi5SBqE) | 2:39 | 2023-08-18 | 2023-12-09 |

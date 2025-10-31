@@ -9323,24 +9323,6 @@
     },
     {
       "album": {
-        "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
-        "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
-      },
-      "artists": [
-        {
-          "name": "Maan Panu",
-          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
-        }
-      ],
-      "date_added": "2025-10-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159187,
-      "name": "I'M Done",
-      "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
-    },
-    {
-      "album": {
         "name": "I'm Scared (From \"Leo\")",
         "url": "https://open.spotify.com/album/55iZCHzl5CsBTT8QlAh1ZY"
       },
@@ -10130,6 +10112,24 @@
       "duration_ms": 219727,
       "name": "Itz A Hustle",
       "url": "https://open.spotify.com/track/1AezwlKp0gT3BRDXFvpiDj"
+    },
+    {
+      "album": {
+        "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
+        "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159187,
+      "name": "I\u2019m Done. - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
     },
     {
       "album": {
@@ -23574,7 +23574,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -23604,7 +23604,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -23972,7 +23972,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
@@ -23998,7 +23998,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"
@@ -25088,7 +25088,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 284779,
       "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
@@ -25464,7 +25464,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 194640,
       "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
       "url": "https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB"
@@ -26706,7 +26706,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 161000,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt"
@@ -27390,7 +27390,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 299333,
       "name": "Zaalima",
       "url": "https://open.spotify.com/track/4MU4Kfkd9EnkArK2ocQyqK"
@@ -27480,7 +27480,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 303680,
       "name": "Zara Sa",
       "url": "https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79"
@@ -27502,7 +27502,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 303680,
       "name": "Zara Sa",
       "url": "https://open.spotify.com/track/1DDSchs67kr1MGAZTkHHzu"

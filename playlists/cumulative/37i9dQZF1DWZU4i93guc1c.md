@@ -4,7 +4,7 @@
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Monokate
 
-500 songs - 1 day 2 hr 5 min
+501 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Долоні на стелю](https://open.spotify.com/track/349DARyT8qSROTqXsHlwga) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Долоні на стелю](https://open.spotify.com/album/6crNncwmPVifz4zR4h4zmi) | 3:00 | 2024-08-23 | 2024-09-14 |
 | [Дотепер і Назавжди](https://open.spotify.com/track/1I1aF22ajUjfNW6AItk1ls) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дотепер і Назавжди](https://open.spotify.com/album/7qLYUo6kFMy6SuBitznKUq) | 2:37 | 2024-12-06 | 2025-03-04 |
 | [Дотики](https://open.spotify.com/track/3KWAQF0u32HmmXfZhEvEgX) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Дотики](https://open.spotify.com/album/2lrqG9Hp9yeWf5EgXMh7uV) | 2:22 | 2024-06-27 | 2025-03-04 |
-| [Другу](https://open.spotify.com/track/6a8MhVXq4OVOYhCqXPMr2o) | [Nesamovyta](https://open.spotify.com/artist/2QDQwTdMmYzoJ4N0taK2Bn) | [Другу](https://open.spotify.com/album/36WA6DxeJTGyymK8NOu80e) | 2:35 | 2025-10-23 |  |
+| [Другу](https://open.spotify.com/track/6a8MhVXq4OVOYhCqXPMr2o) | [Nesamovyta](https://open.spotify.com/artist/2QDQwTdMmYzoJ4N0taK2Bn) | [Другу](https://open.spotify.com/album/36WA6DxeJTGyymK8NOu80e) | 2:35 | 2025-10-23 | 2025-10-31 |
 | [Дрі\-та\-та](https://open.spotify.com/track/1rp1R6XI2KVNgPyIewuh3d) | [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD), [Повар Даніл](https://open.spotify.com/artist/2eO3iYyG0WiLmfCwsNftCt) | [Дрі\-та\-та](https://open.spotify.com/album/5YAH8DAHCjdcoveHbA1B6U) | 2:07 | 2025-05-30 | 2025-07-01 |
 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 | 2024-06-27 | 2025-03-18 |
 | [Дурності](https://open.spotify.com/track/7FDzyn2TIcKQg03gcqRW8l) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Дурності](https://open.spotify.com/album/0jWKd0GPvk0VMjC3Sj54EE) | 2:16 | 2024-11-07 | 2024-12-07 |
@@ -325,6 +325,7 @@
 | [палітра](https://open.spotify.com/track/1iLLyVr8Gj4ttcJLovM8VL) | [sichneva](https://open.spotify.com/artist/4KS49UDA2SDyXcWlJFYNkh) | [палітра](https://open.spotify.com/album/2PXKjO0RWPJRPlGnAPXP2C) | 2:48 | 2024-08-23 | 2024-09-14 |
 | [пастельна палітра](https://open.spotify.com/track/35On2eOw2PYechTA9NEcjP) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN) | [пастельна палітра](https://open.spotify.com/album/5g3O92hyU8BqBOJVAGBSrb) | 2:53 | 2025-09-16 | 2025-10-24 |
 | [переобіжайся](https://open.spotify.com/track/4lUM5OhFgrjqS0uEy7FVpb) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [переобіжайся](https://open.spotify.com/album/0YALsuITpEtxvz12m4SNXp) | 2:57 | 2025-09-16 |  |
+| [перетвори наш дім](https://open.spotify.com/track/7xinmQtA5MGeUsZ5EDZboI) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [перетвори наш дім](https://open.spotify.com/album/6Ha4gJvRPxZVlt1Cg8VUfD) | 3:18 | 2025-10-23 |  |
 | [Песимісто](https://open.spotify.com/track/7qQRwcNK8wS9nG21mO1OiI) | [IDXO](https://open.spotify.com/artist/0j2boZFiCsD8UfYl9pMGcf) | [Песимісто](https://open.spotify.com/album/56yOSoqBkfifwoXt18kzpM) | 3:19 | 2025-01-24 | 2025-03-04 |
 | [Пил](https://open.spotify.com/track/2e0WWqJoY0bxwLg0DxLQIm) | [Artistka Chuprynenko](https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi) | [Пил](https://open.spotify.com/album/1LzAtNLgL3rYqXwCRPdcis) | 3:27 | 2024-10-04 | 2024-11-01 |
 | [плавить](https://open.spotify.com/track/3Lg76bdQ1Nl395dAhtaj15) | [Epolets](https://open.spotify.com/artist/09QRMWYyLUALbOUjP5rhUP), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [плавить](https://open.spotify.com/album/0qOHXw5uBzji6DlRdqMmLB) | 2:20 | 2024-06-27 | 2025-06-07 |

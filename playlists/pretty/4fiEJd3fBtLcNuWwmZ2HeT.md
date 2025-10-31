@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 387 songs - 22 hr 18 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 391 songs - 22 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -395,5 +395,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 385 | [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 |
 | 386 | [SickS ckS](https://open.spotify.com/track/2NEUbfNRmFYxd4tlcYgBfF) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/1uOwGiCEqP2wzogsNBSsiS) | 5:02 |
 | 387 | [すき、きらい](https://open.spotify.com/track/64ttfvrrWBI9mt6B3nrnZH) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [すき、きらい](https://open.spotify.com/album/17CK4Um2qgC3So9LLHYsN4) | 4:25 |
+| 388 | [Aegen](https://open.spotify.com/track/43gKYs7LrTod5UPSel4GEw) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Aegen](https://open.spotify.com/album/3VEIqbSK27bpVpq5IqUlA6) | 4:56 |
+| 389 | [画脂鏤氷](https://open.spotify.com/track/0cwFv4cJSL1z3RidyF5Uqr) | [かんてゐく](https://open.spotify.com/artist/7a3VEAgXx9IfbsDxmQRAZ3), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB) | [ViRGiN](https://open.spotify.com/album/5e4izHlNGtNLlw0pVfdF6X) | 3:21 |
+| 390 | [バッドエンド・エトセトラ](https://open.spotify.com/track/7jG8STJAaqnVZOETHa8bUV) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [バッドエンド・エトセトラ](https://open.spotify.com/album/3kDQISpwrueaYPtrvJGI3b) | 1:53 |
+| 391 | [Otona no Jijo](https://open.spotify.com/track/6BfDkvp3wJq7cA0xDWDHAI) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Sanman](https://open.spotify.com/album/0kYhbt34EkgHrtBq54eSog) | 3:18 |
 
-Snapshot ID: `AAAJevzKxNN9LvuKw6QzpECKERwfxDlg`
+Snapshot ID: `AAAJfmg8JSFxxpYtJmk462hpZx9xOQcD`

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Olivia Dean
 
-857 songs - 2 day 3 hr 10 min
+858 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,7 @@
 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 | 2024-12-18 |
 | [OOWEE \(feat\. Jill Scott & Ty Dolla $ign\)](https://open.spotify.com/track/6TjFekEFWYJuU7PI9K6Dk9) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OOWEE \(feat\. Jill Scott & Ty Dolla $ign\)](https://open.spotify.com/album/5dIeX3fErA2VsA2qk5rIhi) | 3:37 | 2025-09-05 |  |
 | [Open To Thyself](https://open.spotify.com/track/4BDNNrrapR46aXj7FoJBKH) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart](https://open.spotify.com/album/5scS19vWf1ahjNYDHepumB) | 4:40 | 2024-08-30 | 2024-09-14 |
-| [Other Side Of Love](https://open.spotify.com/track/7f7SdH5BDHcN7gtlzKBNQl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 2:18 | 2025-04-25 |  |
+| [Other Side Of Love](https://open.spotify.com/track/7f7SdH5BDHcN7gtlzKBNQl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 2:18 | 2025-04-25 | 2025-10-31 |
 | [Out My Body](https://open.spotify.com/track/6V45ZK1ld3TwuzfwO8NGbL) | [Kameron Corvet](https://open.spotify.com/artist/79RYjUmBXcD8b0ElqCo2rI) | [Out My Body](https://open.spotify.com/album/3yrIfriKbWMCKU0F2czQn7) | 3:36 | 2025-08-08 |  |
 | [Out My Hair](https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 2:58 | 2024-10-25 | 2025-04-19 |
 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 | 2025-04-04 |  |
@@ -619,6 +619,7 @@
 | [Remember \(feat\. Samara Joy, Robert Glasper\)](https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Remember](https://open.spotify.com/album/5F9W0ZzmESRfGUvMluW1kU) | 4:00 | 2024-08-23 | 2024-12-14 |
 | [Rescue](https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 4:59 | 2024-08-30 | 2024-12-14 |
 | [Rich Kids](https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Rich Kids](https://open.spotify.com/album/7xKUg94LStzFMZzbVBlWkK) | 3:18 | 2021-12-03 | 2022-08-27 |
+| [Ride The Wave](https://open.spotify.com/track/5l2QVAWQt8fsBDQg5dTTuP) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Astyn Turr](https://open.spotify.com/artist/2By37PSkMs1WNuiTY0CbQl) | [Ride The Wave](https://open.spotify.com/album/1gpf5wRHPn4pa6mocRFQSJ) | 3:36 | 2025-10-10 |  |
 | [Right My Wrongs](https://open.spotify.com/track/0kAy9nius3LMRVcE3W0I9J) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 2:20 | 2023-05-26 | 2025-05-24 |
 | [Right One, Wrong Time](https://open.spotify.com/track/2PJP7lSOD44N6kRN7o6MNQ) | [JeRonelle](https://open.spotify.com/artist/4zhiJYdxOO4c9ygljrq0DZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Right One, Wrong Time](https://open.spotify.com/album/0k0X8HA8QCyr5KIBDn9VpU) | 3:26 | 2025-02-07 | 2025-04-12 |
 | [Rock With Me](https://open.spotify.com/track/75BGY5VUAj0dWCBVf2vlws) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Rock With Me](https://open.spotify.com/album/17EOfZ7blnRypZf2R0VKU6) | 3:29 | 2025-08-22 | 2025-09-27 |

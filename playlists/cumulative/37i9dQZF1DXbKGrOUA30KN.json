@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 149911,
       "name": "1 Mal um die Welt",
       "url": "https://open.spotify.com/track/1634U1Hj1C5jUEB2pKtAJy"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 148070,
       "name": "1001",
       "url": "https://open.spotify.com/track/0Y7GYAir93tmk92oc6vzBk"
@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Aschenbecher",
+        "url": "https://open.spotify.com/album/51ktaA0HdiIGNPRODnBEhN"
+      },
+      "artists": [
+        {
+          "name": "ma\u00efa",
+          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Aschenbecher",
+      "url": "https://open.spotify.com/track/4wsPwygeXbplj6tsagzHGE"
+    },
+    {
+      "album": {
         "name": "ausnahmsweise",
         "url": "https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ"
       },
@@ -226,7 +244,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 178659,
       "name": "Auto",
       "url": "https://open.spotify.com/track/289I3nxe1LVSrTSJBMPb0k"
@@ -327,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Das sch\u00f6nste M\u00e4dchen der Welt",
+        "url": "https://open.spotify.com/album/2fuitv9wX2nfqTOLrPvoQh"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180988,
+      "name": "Das sch\u00f6nste M\u00e4dchen der Welt",
+      "url": "https://open.spotify.com/track/54h7GhGTN7expLX1qYVe8P"
+    },
+    {
+      "album": {
         "name": "das universum macht das schon.",
         "url": "https://open.spotify.com/album/2Baba5En9ZHm5P261qxtWB"
       },
@@ -342,6 +378,24 @@
       "duration_ms": 172207,
       "name": "das universum macht das schon.",
       "url": "https://open.spotify.com/track/2yAxv0W1clE4efCGld3LjV"
+    },
+    {
+      "album": {
+        "name": "DAS WICHTIGSTE",
+        "url": "https://open.spotify.com/album/3fyoEjmBa9Dofc4sDh5bPi"
+      },
+      "artists": [
+        {
+          "name": "HE/RO",
+          "url": "https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135705,
+      "name": "DAS WICHTIGSTE",
+      "url": "https://open.spotify.com/track/0tNIvDvRbXvj0upmLAJyB4"
     },
     {
       "album": {
@@ -410,7 +464,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 147404,
       "name": "dior sauvage",
       "url": "https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH"
@@ -432,6 +486,24 @@
       "duration_ms": 169002,
       "name": "Du Fehlst Hier",
       "url": "https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7"
+    },
+    {
+      "album": {
+        "name": "Die Wollen Nur Spielen",
+        "url": "https://open.spotify.com/album/5eggIcGiHPUAzuXmhSDXdI"
+      },
+      "artists": [
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170853,
+      "name": "Eigentlich wollte ich dir nie sagen",
+      "url": "https://open.spotify.com/track/6HuaKPtc8djPMFirBUydm8"
     },
     {
       "album": {
@@ -486,10 +558,28 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 128804,
       "name": "Endorphine",
       "url": "https://open.spotify.com/track/7enu8G9wzACrCOSsGrzXWA"
+    },
+    {
+      "album": {
+        "name": "Erst wenn die Sterne",
+        "url": "https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135693,
+      "name": "Erst wenn die Sterne",
+      "url": "https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV"
     },
     {
       "album": {
@@ -562,7 +652,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 148509,
       "name": "Gl\u00fccklich",
       "url": "https://open.spotify.com/track/1QCtEF7Gq6JwvyQp4sibdM"
@@ -580,7 +670,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 117991,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/75QCnBW56Y7iPjJ9d7Y9Wn"
@@ -656,6 +746,32 @@
       "duration_ms": 171104,
       "name": "Herz so laut",
       "url": "https://open.spotify.com/track/6maRpKmo8xAykRER7TrYf7"
+    },
+    {
+      "album": {
+        "name": "Herz \u00fcber Kopf",
+        "url": "https://open.spotify.com/album/7znwSVvZI4KMZwMbbym5Ew"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        },
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158796,
+      "name": "Herz \u00fcber Kopf",
+      "url": "https://open.spotify.com/track/4Lpps50Ott94n1tN80qfuQ"
     },
     {
       "album": {
@@ -778,7 +894,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 127542,
       "name": "Jetzt schreibst du ihr",
       "url": "https://open.spotify.com/track/37VvTvCjNMRY1OnePFujWL"
@@ -796,7 +912,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 169764,
       "name": "keinen namen",
       "url": "https://open.spotify.com/track/0G0ds36RlowQ1uV5f2um9X"
@@ -894,7 +1010,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 121008,
       "name": "Liebling",
       "url": "https://open.spotify.com/track/4jTkTLwpQ7UFoMxgp153ST"
@@ -937,6 +1053,46 @@
     },
     {
       "album": {
+        "name": "nah am meer gebaut",
+        "url": "https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh"
+      },
+      "artists": [
+        {
+          "name": "Carlo5",
+          "url": "https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a"
+        },
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158201,
+      "name": "nah am meer gebaut",
+      "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
+    },
+    {
+      "album": {
+        "name": "NEIN",
+        "url": "https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT"
+      },
+      "artists": [
+        {
+          "name": "ELIF",
+          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130961,
+      "name": "NEIN",
+      "url": "https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS"
+    },
+    {
+      "album": {
         "name": "NIRWANA",
         "url": "https://open.spotify.com/album/3aDMruaJit8uASJSo1aS6X"
       },
@@ -948,7 +1104,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 144462,
       "name": "NIRWANA",
       "url": "https://open.spotify.com/track/6clGRPJr49RZHyUrol7Vy4"
@@ -1096,7 +1252,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 205733,
       "name": "Pokerface",
       "url": "https://open.spotify.com/track/76OGISxLlx9JXYFhhJnokV"
@@ -1229,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Spiegelbild",
+        "url": "https://open.spotify.com/album/1dz0p7G7H5J6emAIVll695"
+      },
+      "artists": [
+        {
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157693,
+      "name": "Spiegelbild",
+      "url": "https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w"
+    },
+    {
+      "album": {
         "name": "Sp\u00fcrst du das auch",
         "url": "https://open.spotify.com/album/4r91wKpYcCe9Vu9VV25jGE"
       },
@@ -1266,6 +1440,24 @@
       "duration_ms": 145849,
       "name": "tanz vor dir",
       "url": "https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV"
     },
     {
       "album": {
@@ -1356,7 +1548,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 209685,
       "name": "Unter meinem Kissen",
       "url": "https://open.spotify.com/track/0sgINGKcJpc31YEXh32430"
@@ -1436,6 +1628,24 @@
       "duration_ms": 155908,
       "name": "vielleicht fehlst du mir",
       "url": "https://open.spotify.com/track/6e4ntmP3oc63oA7pt7ixjg"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174449,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm"
     },
     {
       "album": {
@@ -1529,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "WELT RETTEN",
+        "url": "https://open.spotify.com/album/4T5NEVTeXPguLpvmsx6Ca7"
+      },
+      "artists": [
+        {
+          "name": "Luna Antonia",
+          "url": "https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "WELT RETTEN",
+      "url": "https://open.spotify.com/track/209DNyPbNlLtXeTiunoL1f"
+    },
+    {
+      "album": {
         "name": "Wenn die Welt zerbricht",
         "url": "https://open.spotify.com/album/7lU5Nw0suoWYh3bDrp80Cf"
       },
@@ -1606,6 +1834,24 @@
       "duration_ms": 202973,
       "name": "Wundersch\u00f6n",
       "url": "https://open.spotify.com/track/1ofD3FXI7RsKj7iQ4vBblb"
+    },
+    {
+      "album": {
+        "name": "W\u00e4rst du mir nie passiert",
+        "url": "https://open.spotify.com/album/37jDHjcvjIRX0sf5iVUBgO"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232217,
+      "name": "W\u00e4rst du mir nie passiert",
+      "url": "https://open.spotify.com/track/5SZEk5aStVnpNZEL3UDkHq"
     },
     {
       "album": {

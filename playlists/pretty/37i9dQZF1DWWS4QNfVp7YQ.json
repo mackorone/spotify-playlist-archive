@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 95750,
+  "num_followers": 95785,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6"
-      },
-      "artists": [
-        {
-          "name": "HAMAL",
-          "url": "https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1"
-        }
-      ],
-      "duration_ms": 209077,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "\u00c1frica",
         "url": "https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 191115,
       "name": "\u00c1frica",
       "url": "https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6"
+      },
+      "artists": [
+        {
+          "name": "HAMAL",
+          "url": "https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE"
     },
     {
       "added_at": "2024-07-05 22:41:57",

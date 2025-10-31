@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Alice Phoebe Lou",
-  "num_followers": 40884,
+  "num_followers": 40885,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-09-30 22:00:28",
       "album": {
-        "name": "Fehler",
-        "url": "https://open.spotify.com/album/6X503VDEugjju8qP0WPhPa"
-      },
-      "artists": [
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
-        }
-      ],
-      "duration_ms": 149782,
-      "name": "Fehler",
-      "url": "https://open.spotify.com/track/20s81cl4XtUTiY5ZcCjhik"
-    },
-    {
-      "added_at": "2025-09-30 22:00:28",
-      "album": {
         "name": "TECHY MF",
         "url": "https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 174240,
       "name": "TECHY MF",
       "url": "https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb"
+    },
+    {
+      "added_at": "2025-09-30 22:00:28",
+      "album": {
+        "name": "Fehler",
+        "url": "https://open.spotify.com/album/6X503VDEugjju8qP0WPhPa"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "duration_ms": 149782,
+      "name": "Fehler",
+      "url": "https://open.spotify.com/track/20s81cl4XtUTiY5ZcCjhik"
     },
     {
       "added_at": "2025-09-30 22:00:28",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-09-30 22:00:28",
       "album": {
-        "name": "What Does She Have",
-        "url": "https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "What Does She Have",
-      "url": "https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc"
-    },
-    {
-      "added_at": "2025-09-30 22:00:28",
-      "album": {
         "name": "Fremde Stadt",
         "url": "https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 131360,
       "name": "Fremde Stadt",
       "url": "https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi"
+    },
+    {
+      "added_at": "2025-09-30 22:00:28",
+      "album": {
+        "name": "What Does She Have",
+        "url": "https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "What Does She Have",
+      "url": "https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc"
     },
     {
       "added_at": "2025-09-30 22:00:28",
@@ -792,7 +792,7 @@
           "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
         }
       ],
-      "duration_ms": 183401,
+      "duration_ms": 183186,
       "name": "berlin night life",
       "url": "https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh"
     },

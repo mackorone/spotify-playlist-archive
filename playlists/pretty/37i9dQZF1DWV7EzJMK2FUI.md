@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,067,149 likes - 500 songs - 1 day 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068,039 likes - 500 songs - 1 day 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 499 | [Lumberjacks'](https://open.spotify.com/track/4Za1MUR7dLiKbvYHxlMjhQ) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Lumberjacks'](https://open.spotify.com/album/5Hx0WztbDPWqBbjr2pjxyU) | 2:30 |
 | 500 | [Life in Space](https://open.spotify.com/track/1Z6vzQHFSxqJcgJfqPz3aZ) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 2:47 |
 
-Snapshot ID: `AAAAALjLplf7VL6OSvIBq56nEbsclpfb`
+Snapshot ID: `AAAAAFcAkGkIsGEs6rCek8yeC8/ATyQY`

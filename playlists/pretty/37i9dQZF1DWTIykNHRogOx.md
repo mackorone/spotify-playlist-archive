@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,252 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,265 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 30 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
 | 31 | [Ça ne saurait tarder](https://open.spotify.com/track/1aOR6tifyYNqMBFgOljtHv) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [Ça ne saurait tarder](https://open.spotify.com/album/5nMycdHbuXuCDaPzcq22Tc) | 4:57 |
 | 32 | [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 |
-| 33 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 |
+| 33 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:54 |
 | 34 | [Ma maison](https://open.spotify.com/track/6OvoSnPWS3rABAurxz3mp3) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ma maison](https://open.spotify.com/album/62hNv6Bgy9ssohDDn5a14W) | 3:04 |
 | 35 | [Le Vœu](https://open.spotify.com/track/41GX6q5XIhBslrEhzT8f8r) | [Marco Ferreira](https://open.spotify.com/artist/2eeWkCArv4Bxqqb82b7ona) | [Le Vœu](https://open.spotify.com/album/5EV5iAGebXLRmKklXiCEgo) | 1:57 |
 | 36 | [au lendemain](https://open.spotify.com/track/7vCljshKnwQYA3EA9TPz3X) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [au lendemain](https://open.spotify.com/album/1HcrZUaLl7QOvRPgu471Hd) | 3:05 |

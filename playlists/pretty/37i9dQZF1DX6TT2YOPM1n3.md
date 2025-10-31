@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to the greatest Pakistani hits 🎶 Cover: Umair
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,468 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,498 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 59 | [SHIKWA](https://open.spotify.com/track/3G6HBmFkfeuK6dNrnyFfO9) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [SHIKWA \(Side B\)](https://open.spotify.com/album/18grR25zEvxF4ToDL2zLde) | 3:22 |
 | 60 | [Tajdar\-E\-Haram \- Coke Studio Season 8](https://open.spotify.com/track/3BIpgJZyNEiSwcZknQxwrr) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Coke Studio: Season 8](https://open.spotify.com/album/0FUY81MasEucB0P4u3vtge) | 10:16 |
 
-Snapshot ID: `AAAAANnHI6k3OToRA45C+vBKNu3wzXTB`
+Snapshot ID: `AAAAAOu7Pbs7k6iysMOGviACjzLDoeto`

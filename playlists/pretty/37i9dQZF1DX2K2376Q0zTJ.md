@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: NTsKi
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,279 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,282 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 |
 | 50 | [Summer Dreams](https://open.spotify.com/track/1RlOymBs1osN3ZYy5aoZLa) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [Summer Dreams](https://open.spotify.com/album/5CGwVOkmcSzDvJEvSmByqW) | 4:22 |
 
-Snapshot ID: `AAAAABo+daSqojUwCySG5rZChPyFh8Dj`
+Snapshot ID: `AAAAAKUkRRmxRy+NlFSuzHL6ObADQH2B`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Apostolia Zoi",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Vasilis Dimas",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -344,6 +344,24 @@
       "duration_ms": 169813,
       "name": "Anexartiti - Live Version",
       "url": "https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT"
+    },
+    {
+      "album": {
+        "name": "Apo Do Ki Alles Pane",
+        "url": "https://open.spotify.com/album/4Dzk7lQQv6k4pZqYYPVAFY"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Dimas",
+          "url": "https://open.spotify.com/artist/3TQLcQaZaJ81spBgSvooqK"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173865,
+      "name": "Apo Do Ki Alles Pane",
+      "url": "https://open.spotify.com/track/03mRr0ZhhJn2j8wEZrIjIh"
     },
     {
       "album": {
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 227598,
       "name": "Na Peite Sto Paidi",
       "url": "https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK"

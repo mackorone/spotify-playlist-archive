@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/692MsllJlwgLsGtx3Hus7v"
+      },
+      "artists": [
+        {
+          "name": "M-Kids",
+          "url": "https://open.spotify.com/artist/4mNwryO7qTpiXHyoxTfAup"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/5VHW9u2VoMjKmNlX0L6RFC"
+    },
+    {
+      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },

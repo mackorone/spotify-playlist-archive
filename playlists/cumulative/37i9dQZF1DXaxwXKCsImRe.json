@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "We introduce new and exciting artists. New RADAR BNLX-artist: <a href=\"spotify:artist:67Hs92fNnRAgFBfL6EePwb\">Aaron Blommaert</a>",
+  "description": "We introduce new and exciting artists. New RADAR BNLX-artist: <a href=\"spotify:artist:7bfwKXhmR1JF1PiBzaxY2b\">n\u00e9om\u00ed</a>",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -256,6 +256,24 @@
       "duration_ms": 217581,
       "name": "Another year like that and we'd all be dead - Stripped",
       "url": "https://open.spotify.com/track/3opGpYcaarSepS5e9Qq05g"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "album": {
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 203615,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"

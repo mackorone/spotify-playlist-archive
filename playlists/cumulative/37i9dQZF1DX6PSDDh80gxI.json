@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Regaz indie qui sono benvenut* \ud83d\udc98 Cover: Baustelle e Tananai",
+  "description": "Regaz indie qui sono benvenut* \ud83d\udc98 Cover: Laila Al Habash",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 179728,
       "name": "Chiss\u00e0 (feat. Ditonellapiaga)",
       "url": "https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS"
@@ -2688,7 +2688,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 222533,
       "name": "IL PRIMO TAKE",
       "url": "https://open.spotify.com/track/3RNmrzkZ1AMGvjHIlvF57x"
@@ -4725,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "panna sPray",
+        "url": "https://open.spotify.com/album/3iFYncDX6fAuf8C0hxG6BL"
+      },
+      "artists": [
+        {
+          "name": "Piccolo",
+          "url": "https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167029,
+      "name": "panna sPray",
+      "url": "https://open.spotify.com/track/7h3eRZRld4KfTOJytwulFv"
+    },
+    {
+      "album": {
         "name": "Parole piccole",
         "url": "https://open.spotify.com/album/7flbF51b2TJ6YfD0A3rt5n"
       },
@@ -5152,6 +5170,24 @@
       "duration_ms": 193760,
       "name": "Pirati",
       "url": "https://open.spotify.com/track/55xjK6ctp9DFrkzL5NyYqB"
+    },
+    {
+      "album": {
+        "name": "Pita Gyros",
+        "url": "https://open.spotify.com/album/6ONKQXieAFJMMCGfMwA9UR"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160115,
+      "name": "Pita Gyros",
+      "url": "https://open.spotify.com/track/6Ii2DpNzwECTaOMhjTPnOu"
     },
     {
       "album": {
@@ -5690,7 +5726,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 174393,
       "name": "sbalzi d'umore",
       "url": "https://open.spotify.com/track/62mrphhxReT05rlu68jdYL"
@@ -5820,6 +5856,28 @@
       "duration_ms": 157825,
       "name": "Sempre peggio",
       "url": "https://open.spotify.com/track/2u6cZIiXloUPhWFLPOpfOw"
+    },
+    {
+      "album": {
+        "name": "SENTIMENTALE (feat. Levante)",
+        "url": "https://open.spotify.com/album/7c8aytE48LeoyyOTMxPTZE"
+      },
+      "artists": [
+        {
+          "name": "AIELLO",
+          "url": "https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4"
+        },
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167481,
+      "name": "SENTIMENTALE (feat. Levante)",
+      "url": "https://open.spotify.com/track/2HlhALqwfp1umQn56FEGZO"
     },
     {
       "album": {

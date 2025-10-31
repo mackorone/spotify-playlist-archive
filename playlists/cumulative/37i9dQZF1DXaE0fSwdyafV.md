@@ -2,7 +2,7 @@
 
 ### [Witchy](https://open.spotify.com/playlist/37i9dQZF1DXaE0fSwdyafV)
 
-> It's the witching hours\. Cover: Paris Paloma
+> It's the witching hours\. Cover: Florence + The Machine
 
 173 songs - 10 hr 58 min
 

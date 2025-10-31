@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSu9OYFMtl78.md) - [plain]
 
 > Sophisticated palates only\. Curated by: JaNa Craig
 
-[Spotify](https://open.spotify.com/user/spotify) - 943 likes - 143 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 952 likes - 143 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSu9OYFMtl78.md) - [plain]
 | 124 | [Ai Se Eu Te Pego](https://open.spotify.com/track/0INaMqjJJe1BZpnWuCxDzt) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Só Sucesso 40+](https://open.spotify.com/album/70UbzhKAg26uMHx2zh1Oqs) | 2:50 |
 | 125 | [Get In With Me](https://open.spotify.com/track/6bryx7HyB4lVDc0KQXuoJ0) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 2:00 |
 | 126 | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG) | 2:58 |
-| 127 | [For Me \(feat\. Brent Faiyaz\) \- Remix](https://open.spotify.com/track/1jPd5Qku1J3kBN5nonrYDg) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [For Me \(feat\. Brent Faiyaz\) \(Remix\)](https://open.spotify.com/album/0t9vOGHzv2RUWsPUpiEdeC) | 3:23 |
+| 127 | [For Me \- Remix](https://open.spotify.com/track/1jPd5Qku1J3kBN5nonrYDg) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [For Me \(Remix\)](https://open.spotify.com/album/0t9vOGHzv2RUWsPUpiEdeC) | 3:23 |
 | 128 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:55 |
 | 129 | [POOKIE'S REQUIEM](https://open.spotify.com/track/0CT22b8NYf47LKD5FSrJHO) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [POOKIE'S REQUIEM](https://open.spotify.com/album/3k3lBgSzva1P7XqfqxzmIj) | 1:48 |
 | 130 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |

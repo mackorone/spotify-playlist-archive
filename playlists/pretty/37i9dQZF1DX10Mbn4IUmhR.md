@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Teagan
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,206 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,205 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 12 | [Another Realm](https://open.spotify.com/track/5rJF1IPQqg8L11Cfb2p1Uq) | [Anke Richards](https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF) | [Another Realm](https://open.spotify.com/album/25TKi0tDSUdlaytM3fDFVi) | 2:33 |
 | 13 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 14 | [Written In The Stars](https://open.spotify.com/track/4S7ogayWqM9haoU5XALdsy) | [Mikey Mike](https://open.spotify.com/artist/1ppKQgaBBIQtbKS65MDUbq) | [All Of My Tomorrows](https://open.spotify.com/album/3AM8B0FEnBnYZJw7KA0egc) | 3:34 |
-| 15 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 15 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
 | 16 | [Fix Myself](https://open.spotify.com/track/5YMo4RRV1qm0855ir87MeO) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Fix Myself](https://open.spotify.com/album/6IOlmcK8SQp9BGGoXHDSW5) | 2:42 |
 | 17 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
-| 18 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
+| 18 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 19 | [use me!!!!!!!](https://open.spotify.com/track/5Kq49f1Yae96EXQgWKUbMM) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/74mjAz7XKkyRB8CAdLQngJ) | 2:04 |
 | 20 | [I DON'T FEEL LIKE, I SHOULD FEEL LIKE THIS](https://open.spotify.com/track/2eoHgEzKjjUveE1Tsnnou2) | [Ben Reid](https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J) | [I DON'T FEEL LIKE, I SHOULD FEEL LIKE THIS](https://open.spotify.com/album/0ik9PAhjlKQLEUcDMhYX2X) | 2:56 |
-| 21 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
+| 21 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 | 22 | [Emerald Eyes](https://open.spotify.com/track/6djSrV0BdcGtMRNSA2EQcb) | [Luvleigh](https://open.spotify.com/artist/3gHP5XQzzkVpM1DKgURIEd) | [Emerald Eyes](https://open.spotify.com/album/7xvUfYws1FSmlzaYo9si0N) | 3:15 |
-| 23 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
+| 23 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 24 | [Disappearing](https://open.spotify.com/track/1mPRTFBBg6vxlqQWyd72da) | [Crissy Holme](https://open.spotify.com/artist/2olUGakhYVNFAUSWEy8hiv) | [Disappearing](https://open.spotify.com/album/3snDiBhhOMRUyz5oH4SBdq) | 4:06 |
 | 25 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 26 | [Brand New Heart](https://open.spotify.com/track/06mkONZG5YWtvJKRcbnB0g) | [Chané](https://open.spotify.com/artist/2prZqMnNuyFYxrjIMIUkPE) | [Brand New Heart](https://open.spotify.com/album/1826okx8WPWNogpGHbF3HE) | 3:50 |

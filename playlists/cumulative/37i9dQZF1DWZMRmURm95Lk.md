@@ -2,9 +2,9 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Moder in cover.
+> Beat e rime, oggi come una volta\. Caparezza in cover.
 
-591 songs - 1 day 9 hr 25 min
+592 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [64 BARRE ALLA FINE DELL'ESTATE \(Red Bull 64 Bars\)](https://open.spotify.com/track/3QiRKKuMfrx1PFSia34jTS) | [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [64 BARRE ALLA FINE DELL'ESTATE \(Red Bull 64 Bars\)](https://open.spotify.com/album/4btGV1WaexjVDuymsHydUa) | 3:34 | 2025-09-25 |  |
 | [90](https://open.spotify.com/track/0rD8H43oOmGqkSPIZVw3QF) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Sacrosanto](https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1) | 2:43 | 2023-05-25 | 2025-07-05 |
 | [90](https://open.spotify.com/track/28jLZFleUGkmg036G819TD) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Sacrosanto](https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69) | 2:43 | 2023-11-02 | 2024-01-19 |
+| [A comic book saved my life](https://open.spotify.com/track/59ZgUigp6gHlNOBhJCOdDk) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Orbit Orbit](https://open.spotify.com/album/2qtPd2WzqpICxTS6FfMgPp) | 4:12 | 2025-10-30 |  |
 | [A Fuoco Lento](https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW) | [Fid Mella](https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp), [Zonta](https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [A Fuoco Lento](https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05) | 1:36 | 2024-05-23 |  |
 | [Ad occhi chiusi](https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Elisa Aramonte](https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl) | [Ad occhi chiusi](https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ) | 3:45 | 2022-09-22 | 2023-10-25 |
 | [Aeroplani](https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Disco Inverno](https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe) | 3:09 | 2024-04-25 |  |
@@ -231,7 +232,7 @@
 | [Il Mio Giorno Migliore](https://open.spotify.com/track/18Mm631s6Vr11mYyAJYL9A) | [Al Castellana](https://open.spotify.com/artist/6UVCwrEMPsmydH3KKffz4Z), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Il Mio Giorno Migliore](https://open.spotify.com/album/6ALhJ6zXjLDaiuy4OU2TjW) | 4:49 | 2022-09-09 | 2022-10-29 |
 | [Il Mio Paese Se Ne Frega 2025](https://open.spotify.com/track/0xf8uvBuvU4DbbOwdvcOIW) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Il Mio Paese Se Ne Frega 2025](https://open.spotify.com/album/5iwvr2befXYvnXKnWwAHaK) | 3:55 | 2025-04-03 | 2025-06-20 |
 | [il profumo delle rose \(feat\. Danno, Dj Craim\)](https://open.spotify.com/track/0NkjKhplGqGny5oQTYdk9s) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [TRUENO](https://open.spotify.com/album/2wk8kCqquBbU4taQ5kzSOq) | 2:47 | 2024-03-14 | 2024-03-24 |
-| [il profumo delle rose \(feat\. Danno, Dj Craim\)](https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [TRUENO](https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa) | 2:47 | 2024-03-14 |  |
+| [il profumo delle rose \(feat\. Danno, Dj Craim\)](https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [TRUENO](https://open.spotify.com/album/0rONrHzPeWE8cFpo5REOSa) | 2:47 | 2024-03-14 | 2025-10-31 |
 | [il profumo delle rose \(feat\. Danno, Dj Craim\)](https://open.spotify.com/track/7FijVHPAkDn7ZMFhD72sHO) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [TRUENO](https://open.spotify.com/album/6hzqMbs19My506LAgKl8Ld) | 2:47 | 2024-03-21 | 2024-04-19 |
 | [Il senso dell'odio](https://open.spotify.com/track/4dmlwM2UEHKR4BNQSm5zbN) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [The Island Chainsaw Massacre](https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y) | 3:40 | 2025-03-27 |  |
 | [Il Supermercato delle dittature](https://open.spotify.com/track/37tTbV5m09Nn5k6ucwIJmV) | [DJ Myke](https://open.spotify.com/artist/0agw9rAVju2v0Ot1OHYt7O), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ) | [Il Supermercato delle dittature](https://open.spotify.com/album/3f0bQj6OB4xM9yCOW9a3C8) | 3:57 | 2024-05-30 | 2024-12-06 |

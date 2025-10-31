@@ -1,13 +1,29 @@
 {
   "description": "Rustig aan doen op zondag met deze zachte popliedjes.",
-  "num_followers": 270086,
+  "num_followers": 270078,
   "original_name": "Easy On Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF8NnZT2S8xpATKngZKA8fhGByl7",
+  "snapshot_id": "AAAAAL9lpayP/JmNSSmejs2kIuXrr1Ar",
   "tracks": [
+    {
+      "added_at": "2025-10-01 08:15:22",
+      "album": {
+        "name": "Live 2025",
+        "url": "https://open.spotify.com/album/3qUcgoTrTxiMSMozG2q88m"
+      },
+      "artists": [
+        {
+          "name": "The Wanderer ",
+          "url": "https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK"
+        }
+      ],
+      "duration_ms": 150874,
+      "name": "Grateful - Live 2025",
+      "url": "https://open.spotify.com/track/0Php5GKm77MHHSILbU1qZO"
+    },
     {
       "added_at": "2025-10-01 08:15:22",
       "album": {
@@ -103,22 +119,6 @@
       "duration_ms": 220200,
       "name": "I Know (A Little)",
       "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
-    },
-    {
-      "added_at": "2025-10-01 08:15:22",
-      "album": {
-        "name": "Live 2025",
-        "url": "https://open.spotify.com/album/3qUcgoTrTxiMSMozG2q88m"
-      },
-      "artists": [
-        {
-          "name": "The Wanderer ",
-          "url": "https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK"
-        }
-      ],
-      "duration_ms": 150874,
-      "name": "Grateful - Live 2025",
-      "url": "https://open.spotify.com/track/0Php5GKm77MHHSILbU1qZO"
     },
     {
       "added_at": "2025-10-01 08:15:22",

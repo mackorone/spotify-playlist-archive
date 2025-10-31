@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1530851,
+  "num_followers": 1531231,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,30 @@
     {
       "added_at": "2025-10-24 04:00:04",
       "album": {
+        "name": "Casa Lopez",
+        "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Casa Lopez",
+      "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
+    },
+    {
+      "added_at": "2025-10-24 04:00:04",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 287320,
       "name": "Chapter 7 (feat. Ty)",
       "url": "https://open.spotify.com/track/04fnzAJxtQZFVbn8N3XrQm"
-    },
-    {
-      "added_at": "2025-10-24 04:00:04",
-      "album": {
-        "name": "Casa Lopez",
-        "url": "https://open.spotify.com/album/4uvJQ9YlVz1vrmMjYO3FX9"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Casa Lopez",
-      "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
     },
     {
       "added_at": "2025-10-24 04:00:04",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-10-24 04:00:04",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2025-10-24 04:00:04",
-      "album": {
         "name": "Simple Days",
         "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 125720,
       "name": "Simple Days",
       "url": "https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T"
+    },
+    {
+      "added_at": "2025-10-24 04:00:04",
+      "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2025-10-24 04:00:04",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2025-10-24 04:00:04",
       "album": {
+        "name": "Double Standards (feat. Sampha)",
+        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Double Standards (feat. Sampha)",
+      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
+    },
+    {
+      "added_at": "2025-10-24 04:00:04",
+      "album": {
         "name": "my friend",
         "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 244404,
       "name": "my friend",
       "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
-    },
-    {
-      "added_at": "2025-10-24 04:00:04",
-      "album": {
-        "name": "Double Standards (feat. Sampha)",
-        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Double Standards (feat. Sampha)",
-      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
     },
     {
       "added_at": "2025-10-24 04:00:04",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2025-10-24 04:00:04",
       "album": {
-        "name": "Choosing Shoes",
-        "url": "https://open.spotify.com/album/3Lomo0k5ws6mbFTRZN2RpK"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 167657,
-      "name": "Choosing Shoes",
-      "url": "https://open.spotify.com/track/4aeSDgqZ4kzHVX19jh0CNN"
-    },
-    {
-      "added_at": "2025-10-24 04:00:04",
-      "album": {
         "name": "We Do It Remixes",
         "url": "https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah"
       },
@@ -1883,6 +1863,22 @@
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
+    },
+    {
+      "added_at": "2025-10-24 04:00:04",
+      "album": {
+        "name": "Mi Casa, Su Casa",
+        "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
+      },
+      "artists": [
+        {
+          "name": "insyt.",
+          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+        }
+      ],
+      "duration_ms": 117933,
+      "name": "Truth Serum",
+      "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
     },
     {
       "added_at": "2025-10-24 04:00:04",
@@ -1911,18 +1907,22 @@
     {
       "added_at": "2025-10-24 04:00:04",
       "album": {
-        "name": "Mi Casa, Su Casa",
-        "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
+        "name": "Choosing Shoes",
+        "url": "https://open.spotify.com/album/3Lomo0k5ws6mbFTRZN2RpK"
       },
       "artists": [
         {
-          "name": "insyt.",
-          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 117933,
-      "name": "Truth Serum",
-      "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
+      "duration_ms": 167657,
+      "name": "Choosing Shoes",
+      "url": "https://open.spotify.com/track/4aeSDgqZ4kzHVX19jh0CNN"
     },
     {
       "added_at": "2025-10-24 04:00:04",

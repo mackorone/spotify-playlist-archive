@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcb6 Kannessa Turisti.",
+  "description": "100 Suomi \ud83d\udcb6 Kannessa M//O.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -11600,7 +11600,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 111593,
       "name": "MRR",
       "url": "https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ"
@@ -18412,6 +18412,24 @@
       "duration_ms": 144414,
       "name": "Toxic Mami",
       "url": "https://open.spotify.com/track/1TtJce46FJzvOEYQPRywyd"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN"
     },
     {
       "album": {

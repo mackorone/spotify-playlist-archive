@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAABIWU8yqtLB0DCPg8qcLDED",
+  "snapshot_id": "aQFZAAAAAACbsIDl/ATtwbBcxni5ML9v",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready to Call",
-        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Ready to Call",
-      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 154626,
       "name": "Slackerpop",
       "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ready to Call",
+        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 219405,
+      "name": "Ready to Call",
+      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Mean Everything",
-        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 232115,
-      "name": "You Mean Everything",
-      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 213426,
       "name": "Young (Belane)",
       "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Mean Everything",
+        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 232115,
+      "name": "You Mean Everything",
+      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weather Warning",
-        "url": "https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 250203,
-      "name": "Weather Warning",
-      "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 195066,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weather Warning",
+        "url": "https://open.spotify.com/album/7BmVhPGyq2fG5Cg0Y1v4VF"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 250203,
+      "name": "Weather Warning",
+      "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So No One Told You Life Was Gonna Be This Way",
-        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 171324,
-      "name": "Inbetween Days",
-      "url": "https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 300293,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/0P0mOSWEtA6suhu7zrcgOX"
+      "duration_ms": 59693,
+      "name": "Tar Ok",
+      "url": "https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a"
     },
     {
       "added_at": null,
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 167813,
-      "name": "Let's Run",
-      "url": "https://open.spotify.com/track/2Wwm67ZMDDj9gY2jPcwFLO"
+      "duration_ms": 300293,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/0P0mOSWEtA6suhu7zrcgOX"
     }
   ],
   "unique_name": "This Is The XCERTS",

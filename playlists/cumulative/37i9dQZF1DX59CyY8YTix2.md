@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 板歯目
 
-1,943 songs - 5 day 0 hr 22 min
+1,944 songs - 5 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Pouring rain](https://open.spotify.com/track/283XhglFDGqLrmrzi3HVY4) | [in sea hole](https://open.spotify.com/artist/2KLnNZUP9ocNkgB9afmZpR) | [Pouring rain](https://open.spotify.com/album/7osGWr1NQWBClmHpDOW2iv) | 4:37 | 2024-01-09 | 2024-01-17 |
 | [Power](https://open.spotify.com/track/6GoYRGZ4uLwr2FTEc4A7pZ) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Power](https://open.spotify.com/album/1ELo1NACe1pDRtJjsVC836) | 4:11 | 2022-06-02 | 2022-07-20 |
 | [Prepare Yourself!](https://open.spotify.com/track/3imhdLe85Nmrw9HiSGmbXz) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/4Ef7Fy5sLhUDU1LM5enHbQ) | 3:54 | 2024-02-13 | 2024-03-08 |
+| [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 |  |
 | [Pretty](https://open.spotify.com/track/2fI0XTQtwtTU2PCf1xFP30) | [A VIRGIN](https://open.spotify.com/artist/0dDP1gsPC4bWS5vnynu99s) | [Pretty](https://open.spotify.com/album/2znvO7eKY5hcWklq7jwHyP) | 3:04 | 2022-05-26 | 2022-06-08 |
 | [promise you](https://open.spotify.com/track/2AaPLoIRt6KDsgWcwjA2cv) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [promise you](https://open.spotify.com/album/5DPfuR1PdCaQT9GuZgpz4I) | 5:26 | 2023-12-12 | 2024-01-24 |
 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 | 2024-10-01 | 2024-10-09 |
@@ -958,7 +959,7 @@
 | [yumegiwa](https://open.spotify.com/track/6lv8b7SfJHzSermT8j3tS5) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [yumegiwa](https://open.spotify.com/album/1eZ3yndN14O5hLPlzNGS2f) | 3:42 | 2022-06-07 | 2022-06-23 |
 | [yunagieiso](https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [yunagieiso](https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM) | 3:57 | 2023-09-26 | 2023-10-18 |
 | [Y字路](https://open.spotify.com/track/1Bdco5s8iglJYo0zHFVcMF) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [Y字路](https://open.spotify.com/album/29qj5rbigArk4Z6jdj5PiN) | 3:49 | 2022-06-21 | 2022-07-27 |
-| [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 | 2025-01-14 |  |
+| [Zen](https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba) | 3:34 | 2025-01-14 | 2025-10-31 |
 | [Zenbu All Right!](https://open.spotify.com/track/5dVjN3wcqlKQNtiwC1qkQs) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Zenbu All Right!](https://open.spotify.com/album/0VMhDryBoZ4atoScgX1gTF) | 3:20 | 2025-06-10 | 2025-07-23 |
 | [ZERO](https://open.spotify.com/track/3WOGBhuAstV1hL3lhG466B) | [Hikaru Yamamoto](https://open.spotify.com/artist/6OBPvrOnFPqcKwi6oFz5Aa) | [ZERO](https://open.spotify.com/album/3gC95noi7mv4bqKpzIBjab) | 3:10 | 2022-06-07 | 2022-07-16 |
 | [Zettai Zetsumei](https://open.spotify.com/track/6b0Zum1HFQruf0TfAdKhVS) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Zettai Zetsumei](https://open.spotify.com/album/0WaQ5J5l4bmJVWtuAitTm5) | 3:32 | 2023-02-15 | 2023-03-01 |

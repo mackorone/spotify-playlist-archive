@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-1,059 songs - 2 day 7 hr 36 min
+1,060 songs - 2 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 | 2023-07-24 | 2023-12-14 |
 | [groove1](https://open.spotify.com/track/0FDjodDxf6qlzSDVKs8f3l) | [BeepBeepChild](https://open.spotify.com/artist/0cAcRTWMSeuezcHpxInChD), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [groove1](https://open.spotify.com/album/5CBneVRx0DZ2Obfxb6FSdY) | 3:07 | 2022-11-18 | 2022-12-02 |
 | [Guarantees](https://open.spotify.com/track/1HGjOjUOPntNujrvpD0D1k) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Guarantees](https://open.spotify.com/album/0o3iQuYunyNhzwrFUSWjrC) | 3:22 | 2022-12-09 | 2022-12-16 |
+| [Guardian Angel](https://open.spotify.com/track/7JFkL98dEjAzkGnBW8SJid) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Guardian Angel](https://open.spotify.com/album/5NO5T8NwwbpFCBpL8rFU81) | 3:43 | 2025-10-30 |  |
 | [Gucci](https://open.spotify.com/track/4UQuyiposzTgE7uOQM2DBB) | [J Bookey](https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2) | [Gucci](https://open.spotify.com/album/1E1Nsxo1DndfMRIsmhtVm7) | 3:02 | 2023-02-03 | 2023-05-09 |
 | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/track/0MS7sUW9VxvXjuDg9VZZIS) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/album/1gqpG7x5cMQuVCCo7iy7yL) | 2:12 | 2025-09-25 |  |
 | [GUMMI](https://open.spotify.com/track/4CE1DeTAXDCdbUBhlPtt03) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [GUMMI](https://open.spotify.com/album/7o1afJdvf4oDB98Pkw7JrF) | 3:29 | 2025-03-07 | 2025-05-27 |
@@ -1050,7 +1051,7 @@
 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 | 2025-09-18 |  |
 | [Yes or No](https://open.spotify.com/track/3SHHfub5pvTKqlhuneNesB) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Yes or No](https://open.spotify.com/album/6itvVk9uErBqEUUbfu3QYa) | 2:55 | 2021-03-19 | 2021-04-03 |
 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 | 2021-04-17 | 2024-02-09 |
-| [You \- Teddy Cream Remix](https://open.spotify.com/track/29i7c58ZNu7cTtQMCwnXaT) | [Marcia Hines](https://open.spotify.com/artist/7pUbbv62ajr1JDVFaftZJT), [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [You \(Teddy Cream Remix\)](https://open.spotify.com/album/4cpSvH68FTna8dYe7H3X5w) | 2:13 | 2025-06-30 |  |
+| [You \- Teddy Cream Remix](https://open.spotify.com/track/29i7c58ZNu7cTtQMCwnXaT) | [Marcia Hines](https://open.spotify.com/artist/7pUbbv62ajr1JDVFaftZJT), [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [You \(Teddy Cream Remix\)](https://open.spotify.com/album/4cpSvH68FTna8dYe7H3X5w) | 2:13 | 2025-06-30 | 2025-10-31 |
 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 | 2021-05-29 | 2021-06-04 |
 | [You Belong To Me](https://open.spotify.com/track/0L9oRCTObdZLvYOAljy7BD) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ) | [You Belong To Me](https://open.spotify.com/album/61zTk4TnNbUMlQIPQAJC27) | 2:42 | 2023-02-24 | 2023-05-30 |
 | [you broke me first \- Luca Schreiner Remix](https://open.spotify.com/track/0kTIH2zbc1jvIHoCOCoNnr) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [you broke me first \(Luca Schreiner Remix\)](https://open.spotify.com/album/5QYeXQ4AewfkmtDBlsxDtA) | 3:12 | 2020-11-03\* | 2021-06-28 |

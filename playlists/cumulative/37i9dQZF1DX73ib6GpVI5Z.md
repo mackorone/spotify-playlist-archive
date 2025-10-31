@@ -4,7 +4,7 @@
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-61 songs - 3 hr 14 min
+62 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [アンパンマンたいそう](https://open.spotify.com/track/0JULmVhkcHbK5iHaEGdVLC) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 4:31 | 2024-06-25 |  |
 | [アンパンマンのマーチ](https://open.spotify.com/track/0xfEbQ3G679YGytPMmgqp7) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット’18](https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw) | 2:50 | 2024-06-25 |  |
 | [アンパンマン絵かきうた](https://open.spotify.com/track/2hYWPlbUEBHlJQytuolX5i) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:35 | 2024-06-25 | 2025-09-10 |
-| [サンサンたいそう](https://open.spotify.com/track/1sctpYBPKRMBhzEHk55L97) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:14 | 2024-06-25 |  |
+| [サンサンたいそう](https://open.spotify.com/track/1sctpYBPKRMBhzEHk55L97) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:14 | 2024-06-25 | 2025-10-31 |
 | [ダ ダン ダン！](https://open.spotify.com/track/1tymhkUGldSZJGUAog9Zph) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:22 | 2024-06-25 |  |
 | [ドキンのララバイ](https://open.spotify.com/track/13ti30uTQEkVOwiMpjQl8y) | [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン げんき100ばいソングス ドキンちゃん](https://open.spotify.com/album/5wFdjDwHQqafk2KyhVDcAT) | 3:27 | 2024-06-25 |  |
 | [ドレミファアンパンマン](https://open.spotify.com/track/6e5GvWg3K0qdhx3y9Si2mn) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:33 | 2024-06-25 | 2024-09-12 |
@@ -62,6 +62,7 @@
 | [悪いはすてき](https://open.spotify.com/track/1qVFtQgFx5sGUS1i6EwNIy) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’25](https://open.spotify.com/album/7uK4Mwfz8uXuAdhK7wy0n7) | 2:20 | 2024-12-24 |  |
 | [悪い魔法の歌](https://open.spotify.com/track/5rwE1ixMleoipJxad4W6Jz) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho), [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [映画&テレビ30年記念商品「それいけ！アンパンマン　ムービーソングコレクション」](https://open.spotify.com/album/2YMkGQ6sJ8S4QOH5EpwTjZ) | 3:39 | 2024-12-24 |  |
 | [手のひらを太陽に](https://open.spotify.com/track/2yuxUdm5xftrvahbWaLCj2) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:40 | 2024-06-25 | 2024-09-12 |
+| [星にいのる \(2018サマーサンバ・バージョン\)](https://open.spotify.com/track/4GrpD8IX5W9hUiPWChVYZT) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [映画&テレビ30年記念商品「それいけ！アンパンマン　ムービーソングコレクション」](https://open.spotify.com/album/2YMkGQ6sJ8S4QOH5EpwTjZ) | 3:19 | 2024-12-24 |  |
 | [森の妖精 えほんのルルンの大冒険 \- BGM](https://open.spotify.com/track/3mXrenMXIKcESaJhdRZUa2) | [近藤浩章](https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 5:03 | 2024-06-25 |  |
 | [森は枯れても2024](https://open.spotify.com/track/55MQUePmTQwEE4kcX6fw6S) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 2:07 | 2024-06-25 |  |
 | [生きてるパンをつくろう ～ Brand New ver.](https://open.spotify.com/track/582MHViAtZy7kzB9zaegFx) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh), [佐久間レイ \(バタコさん\)](https://open.spotify.com/artist/2MiyJpd92keovja5ptjDNt) | [それいけ！アンパンマン ベストヒット’18](https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw) | 2:18 | 2024-06-25 | 2024-12-25 |

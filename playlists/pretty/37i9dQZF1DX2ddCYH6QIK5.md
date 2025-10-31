@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: berlinangst, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,095 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,096 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [I Got Love Lots](https://open.spotify.com/track/2NyJmuae9aZyjkRuPHvVB9) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [I Got Love Lots](https://open.spotify.com/album/2J6C391toXrLcDf9crTLwZ) | 2:28 |
 | 80 | [PILOT](https://open.spotify.com/track/2NqVNlEi1EURj6acNnjs7W) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [PILOT](https://open.spotify.com/album/6JjgeAEOPAR84qwQrB1SeQ) | 3:24 |
 
-Snapshot ID: `AAAAAMl0aOZs1PfvLP6T45t6bLzaNNaL`
+Snapshot ID: `AAAAAL3T8casN46PB+6hGV4l5lmlK7fj`

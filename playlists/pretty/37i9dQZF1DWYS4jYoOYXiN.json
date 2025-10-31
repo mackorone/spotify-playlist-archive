@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 97859,
+  "num_followers": 97885,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Lo Atar\u00e1 la Arache",
+      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "De Panama A Nueva York",
         "url": "https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 323040,
       "name": "Descarga Caliente",
       "url": "https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 272253,
-      "name": "Lo Atar\u00e1 la Arache",
-      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -387,8 +387,8 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
+        "name": "Mr. Watermelon Man",
+        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
       },
       "artists": [
         {
@@ -396,25 +396,9 @@
           "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
         }
       ],
-      "duration_ms": 182240,
-      "name": "We Got Latin Soul",
-      "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Latin Bugalu",
-        "url": "https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH"
-      },
-      "artists": [
-        {
-          "name": "Charlie Palmieri",
-          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK"
+      "duration_ms": 238053,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -435,6 +419,22 @@
       "duration_ms": 213426,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Latin Bugalu",
+        "url": "https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -471,8 +471,8 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Mr. Watermelon Man",
-        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
         }
       ],
-      "duration_ms": 238053,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/39DgsVDftJOLDqOdFmX7tf"
+      "duration_ms": 182240,
+      "name": "We Got Latin Soul",
+      "url": "https://open.spotify.com/track/6WFxCGBI5ybkoEKr5sJEfv"
     },
     {
       "added_at": "2024-07-18 20:57:58",

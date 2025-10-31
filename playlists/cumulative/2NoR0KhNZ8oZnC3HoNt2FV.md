@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2NoR0KhNZ8oZnC3HoNt2FV.md) - cumulative - [plain](/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV)
 
-### [Hip\-Hop and Play](https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV)
+### [Hip\-Hop and Play: Kodak Black New Album Takeover](https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV)
 
 > 
 
-1,207 songs - 2 day 19 hr 2 min
+1,210 songs - 2 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 | 2024-06-14 |  |
 | [ILMB](https://open.spotify.com/track/5krjmt2OcqlGP94YqRNXQg) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 3:04 | 2025-07-17 | 2025-07-24 |
 | [ILoveUIHateU](https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:15 | 2025-03-27 | 2025-04-25 |
+| [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 | 2025-10-30 |  |
 | [Imperfect Flower](https://open.spotify.com/track/31sPCnzgurJnFNcvcgWNjq) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [From the Neighborhood to the Stage](https://open.spotify.com/album/2s19QcF1PIILzRfS6Jjni3) | 2:58 | 2024-01-25 |  |
 | [In Da Club](https://open.spotify.com/track/3deUegCTzY5SH15lFlTbUP) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj) | 3:13 | 2023-11-30 | 2024-08-08 |
 | [In Da Club](https://open.spotify.com/track/6c7ggjWMidB7QSi9dAEZZC) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Best Of 50 Cent](https://open.spotify.com/album/3aZ8LB7XZK2Ptwi7tyIl9C) | 3:13 | 2024-01-25 | 2025-03-28 |
@@ -592,6 +593,7 @@
 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 | 2024-01-25 |  |
 | [Key to the Streets](https://open.spotify.com/track/0sHxp844QRmAnmTRObE2qM) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC) | [Wish Me Well 2](https://open.spotify.com/album/3jd6UpEJbfDoRxBBlcAFWw) | 4:41 | 2024-01-25 | 2025-03-28 |
 | [Keys](https://open.spotify.com/track/0pWcAU7btCRk7fnOpqmqsJ) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Fresh Out The Trenches](https://open.spotify.com/album/6BqhVDaCOylpg7UJduEmJ5) | 2:02 | 2024-08-23 |  |
+| [Keys To The City \- Extended](https://open.spotify.com/track/2hZG33vyGzKm8rZKky620t) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Keys To The City \(Extended\)](https://open.spotify.com/album/4sG9UGAiLKS81KAD9ZKJv8) | 3:18 | 2025-10-30 |  |
 | [KICK OUT](https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:50 | 2025-07-17 | 2025-07-24 |
 | [KICKDOOR](https://open.spotify.com/track/4Bh73fhtN2bTTAFJGsjqI7) | [Broadday](https://open.spotify.com/artist/2aWxX9jbDk9chH6DP97zIO) | [BROADDAY](https://open.spotify.com/album/18kdvpMaIjxGwIY0GyXlrC) | 2:15 | 2024-06-14 |  |
 | [Kill Jill \(feat\. Killer Mike & Jeezy\)](https://open.spotify.com/track/2TYyvCJgikY7B2AfHPE67M) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [BOOMIVERSE](https://open.spotify.com/album/6QYvXMy5cCaY4ixowAb5sw) | 4:24 | 2024-01-25 | 2025-03-28 |
@@ -1005,6 +1007,7 @@
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-10-30 |  |
 | [Still Cant Love \(feat\. King OSF & Fabolous\)](https://open.spotify.com/track/0VUGAUZYtIiVKlwX1GfxSh) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [King OSF](https://open.spotify.com/artist/5VYWaw1z5luk9NZqMIX2fh), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [ADHD](https://open.spotify.com/album/5qkWpkGMULLVnSHb3Sej4X) | 3:56 | 2024-01-25 | 2024-02-15 |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2024-12-12 | 2025-01-08 |
+| [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6saKboIoQgXKIHfQJVwv5i) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/album/0eVHBtiX6G7wMWErRoa9cW) | 3:19 | 2025-10-30 |  |
 | [Still Trappin'](https://open.spotify.com/track/1lw4FrPr3Y8R7Q1Mro2TMe) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [The Voice](https://open.spotify.com/album/33lOYXjswrDuzTqTNJYSWy) | 2:52 | 2024-01-25 |  |
 | [Stir Fry](https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:10 | 2024-01-25 |  |
 | [Stop Breathing](https://open.spotify.com/track/2lLG56qpLP3UbcLuzMvkWX) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:38 | 2025-03-27 | 2025-04-25 |

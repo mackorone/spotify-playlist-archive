@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,480 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,501 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [Loco Enamorado I Varieté \#4](https://open.spotify.com/track/0UaxhDrvCVcCWCqYQUeeFF) | [Tincho Di Salvo & Javi Zurro](https://open.spotify.com/artist/0mDd8pZbNfiDNBrL1qybaK), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Loco Enamorado I Varieté \#4](https://open.spotify.com/album/06ENwZMENzIYycxXAfAKYY) | 2:33 |
 | 50 | [Un Osito de Peluche de Taiwán](https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:07 |
 
-Snapshot ID: `MJWFeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJbW+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

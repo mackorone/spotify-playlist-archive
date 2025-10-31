@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover: young jonn",
-  "num_followers": 76181,
+  "num_followers": 76273,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,30 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
+      },
+      "artists": [
+        {
+          "name": "XVI",
+          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 146125,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
         "name": "Fuji",
         "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
@@ -379,26 +403,22 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
+        "name": "NBA",
+        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
       "artists": [
         {
-          "name": "XVI",
-          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 146125,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
+      "duration_ms": 169043,
+      "name": "NBA",
+      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -419,26 +439,6 @@
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
-        "name": "NBA",
-        "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "NBA",
-      "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "Back to Back",
-        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "Back to Back",
-      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
         "name": "Grit & Lust",
         "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 146129,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Ring",
-      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
         "name": "Shakespopi",
         "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 172560,
       "name": "100",
       "url": "https://open.spotify.com/track/7g1KHFtfJF1Xhp3QNIoEfH"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
-        "name": "eko",
-        "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "eko",
-      "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -671,22 +655,18 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+        "name": "eko",
+        "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+      "duration_ms": 174857,
+      "name": "eko",
+      "url": "https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -711,6 +691,26 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -767,6 +751,22 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
         "name": "Puff & Pass (Remix)",
         "url": "https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p"
       },
@@ -783,34 +783,6 @@
       "duration_ms": 161515,
       "name": "Puff & Pass (Remix)",
       "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
-        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
-        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        }
-      ],
-      "duration_ms": 217718,
-      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
-      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -847,6 +819,34 @@
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
+        "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
+        "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        }
+      ],
+      "duration_ms": 217718,
+      "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
+      "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
     },
     {
       "added_at": "2025-10-24 00:01:30",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-10-24 00:01:30",
       "album": {
+        "name": "I D R I S",
+        "url": "https://open.spotify.com/album/7wCBsfkkPKxSlxa5ivTB1w"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "Magba",
+      "url": "https://open.spotify.com/track/7nO3P6A5TEYfUYXjDk5z5x"
+    },
+    {
+      "added_at": "2025-10-24 00:01:30",
+      "album": {
         "name": "KEROSENE",
         "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 172035,
       "name": "Gimme Your Love",
       "url": "https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ"
-    },
-    {
-      "added_at": "2025-10-24 00:01:30",
-      "album": {
-        "name": "I D R I S",
-        "url": "https://open.spotify.com/album/7wCBsfkkPKxSlxa5ivTB1w"
-      },
-      "artists": [
-        {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "Magba",
-      "url": "https://open.spotify.com/track/7nO3P6A5TEYfUYXjDk5z5x"
     },
     {
       "added_at": "2025-10-24 00:01:30",

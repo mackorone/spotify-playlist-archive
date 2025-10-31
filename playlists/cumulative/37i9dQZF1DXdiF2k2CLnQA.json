@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Den b\u00e4sta och st\u00f6rsta rocklistan i Sverige! \ud83e\udd87",
+  "description": "Den b\u00e4sta och st\u00f6rsta rocklistan i Sverige! ",
   "name": "VOLUME SWEDEN",
   "tracks": [
     {
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 201049,
       "name": "Devil in my Head",
       "url": "https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj"
@@ -6486,6 +6486,24 @@
       "duration_ms": 188813,
       "name": "Venus",
       "url": "https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211863,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/4RZCiJgNU2GY3ii22Y5Pu9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-54 songs - 2 hr 25 min
+55 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [無知のち私](https://open.spotify.com/track/6NghTY2WeO3J0fFsKVIsCr) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [無知のち私](https://open.spotify.com/album/4Ro35MgJyiNq0PlYlqnEvP) | 3:01 | 2025-10-09 |  |
 | [爆ぜて咲く](https://open.spotify.com/track/615jr8wFWfeTiRhfAHSG9D) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [爆ぜて咲く](https://open.spotify.com/album/5Fiv8V10wlCa5Cop5FMmxr) | 3:41 | 2024-04-12 |  |
 | [理想的パラドクスとは](https://open.spotify.com/track/5TNgYaeJdFjrR9BfsEmwDY) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [理想的パラドクスとは](https://open.spotify.com/album/44MHX9OKTB297w51I0TfXM) | 3:49 | 2024-04-12 |  |
+| [生きて生きてゆく](https://open.spotify.com/track/5WX4KHLlmNhwvOKHtNulRu) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [生きて生きてゆく](https://open.spotify.com/album/4rmDFsakDZuSCrH9l5xr5u) | 3:22 | 2025-10-30 |  |
 | [碧いif](https://open.spotify.com/track/1E5HELkofxLwkULCOuHmcf) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [碧いif](https://open.spotify.com/album/7GND1Ea9u4vIRlC27NJf6i) | 2:39 | 2025-10-02 |  |
 | [空の箱 \- 井芹仁菜、河原木桃香](https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空の箱 \(井芹仁菜、河原木桃香\)](https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml) | 3:04 | 2024-04-12 |  |
 | [空白とカタルシス](https://open.spotify.com/track/4z8FBzJ2vYi390cYmMD7Yf) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空白とカタルシス](https://open.spotify.com/album/3igNo52F3h0N9TKxGmQCwW) | 3:10 | 2024-06-14 |  |

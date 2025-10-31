@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Courtney Barnett",
+  "description": "New and local indie noise. Cover: Psychedelic Porn Crumpets",
   "name": "Local Noise",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 233034,
       "name": "'Til Kingdom Come",
       "url": "https://open.spotify.com/track/4zR1HXnD4sqt1UGf7dFsgn"
+    },
+    {
+      "album": {
+        "name": "(I'm here for the) GIRLS",
+        "url": "https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140243,
+      "name": "(I'm here for the) GIRLS",
+      "url": "https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1"
     },
     {
       "album": {
@@ -146,7 +164,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 250268,
       "name": "3AM",
       "url": "https://open.spotify.com/track/4luxOEfutsNhpklD0kox93"
@@ -506,7 +524,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 236935,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4bsp96mZsE7nztuh2IATmt"
@@ -762,6 +780,24 @@
       "duration_ms": 148000,
       "name": "Another Reincarnation",
       "url": "https://open.spotify.com/track/7feuhV5wuR0h1lSUUFxPHL"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157027,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
     },
     {
       "album": {
@@ -1259,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Desiderata",
+        "url": "https://open.spotify.com/album/6p3X0gN36VGMzfuX6saai1"
+      },
+      "artists": [
+        {
+          "name": "Seaside",
+          "url": "https://open.spotify.com/artist/12A9HO7R8JCU46t4HiVQqH"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223124,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/4NCqL9ReBKw729aWzmWXb3"
+    },
+    {
+      "album": {
         "name": "Big Think",
         "url": "https://open.spotify.com/album/0pJ5K4bdIa2qMkKVABKaBF"
       },
@@ -1544,6 +1598,24 @@
       "duration_ms": 241493,
       "name": "Born Expecting",
       "url": "https://open.spotify.com/track/6KRViWpBKmKa6km7vZTO9x"
+    },
+    {
+      "album": {
+        "name": "Pogo Rodeo",
+        "url": "https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273372,
+      "name": "Born In the A.D's",
+      "url": "https://open.spotify.com/track/2HAYMQVH6T9haMNv5iqfkK"
     },
     {
       "album": {
@@ -2357,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141906,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ"
+    },
+    {
+      "album": {
         "name": "Cold Pizza",
         "url": "https://open.spotify.com/album/2JXOlIjcupCJWC2GdnrtDw"
       },
@@ -2674,7 +2764,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 277142,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/1XXJgRBU1WK801k4g5OwK0"
@@ -2829,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "DEATH CULT ZOMBIE",
+        "url": "https://open.spotify.com/album/4jeNB0UKUljys3WNSWC4Je"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216991,
+      "name": "DEATH CULT ZOMBIE",
+      "url": "https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd"
+    },
+    {
+      "album": {
         "name": "death row",
         "url": "https://open.spotify.com/album/0Q5ynDGoKolQtsKss22miz"
       },
@@ -2966,7 +3074,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 204514,
       "name": "Dipped",
       "url": "https://open.spotify.com/track/52hIY1Ik9gSGWALJWm0SgC"
@@ -3258,7 +3366,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 237645,
       "name": "Don\u2019t Let Them Tell You (It\u2019s Fair)",
       "url": "https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb"
@@ -4786,7 +4894,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 162132,
       "name": "Harder Man",
       "url": "https://open.spotify.com/track/5SVYj74Qb91h8WHlgnpk24"
@@ -4934,7 +5042,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 211313,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
@@ -5431,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "I Can't Look For You",
+        "url": "https://open.spotify.com/album/4HNHkY2rtWxQNUGFjNyCYO"
+      },
+      "artists": [
+        {
+          "name": "Bad Neighbour",
+          "url": "https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242007,
+      "name": "I Can't Look For You",
+      "url": "https://open.spotify.com/track/3OjfVuqoq0yrNqUSWo6lEP"
+    },
+    {
+      "album": {
         "name": "I Don't Understand How Planes Work",
         "url": "https://open.spotify.com/album/0KmQ6NDMm6hqeVGrs5pv5v"
       },
@@ -5586,7 +5712,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 189190,
       "name": "Idiot",
       "url": "https://open.spotify.com/track/5VD7uUXARSfqRZ1mALZhum"
@@ -5752,7 +5878,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 161658,
       "name": "Inspired To Do Nothing",
       "url": "https://open.spotify.com/track/16Qz0r7dMIeUaehBX0NwH3"
@@ -6130,7 +6256,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 253576,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6hRenyTQSnZznOEV1XVuc6"
@@ -6480,7 +6606,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 218761,
       "name": "living",
       "url": "https://open.spotify.com/track/0HfGVMPCyfCrVNKhbZC4ON"
@@ -6779,6 +6905,24 @@
     },
     {
       "album": {
+        "name": "Make My Mind Up",
+        "url": "https://open.spotify.com/album/03VAGqO2P3qjhga99wXn2s"
+      },
+      "artists": [
+        {
+          "name": "Sly Withers",
+          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198544,
+      "name": "Make My Mind Up",
+      "url": "https://open.spotify.com/track/6Y8QaIWaE5gBmpmw1lmK9D"
+    },
+    {
+      "album": {
         "name": "Seven Years",
         "url": "https://open.spotify.com/album/00jaCxWTiKThtLWVDk42DI"
       },
@@ -6880,7 +7024,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 221859,
       "name": "Manny's Ready to Roll",
       "url": "https://open.spotify.com/track/6GQgySvc7L8B740ekKc0kV"
@@ -8137,6 +8281,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231022,
+      "name": "One Lucky Man",
+      "url": "https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE"
+    },
+    {
+      "album": {
         "name": "One Metaphor",
         "url": "https://open.spotify.com/album/2LPd8kbzqnhQy3Hm3lEpD5"
       },
@@ -8332,6 +8494,24 @@
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "album": {
+        "name": "Blas\u00e9 Vengeance",
+        "url": "https://open.spotify.com/album/1xzzNu8p2E0n0DYEcupurm"
+      },
+      "artists": [
+        {
+          "name": "Lotte Gallagher",
+          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185344,
+      "name": "OUT OF PATIENCE",
+      "url": "https://open.spotify.com/track/1Wqbrtm5eHsjmcnsf6umUh"
     },
     {
       "album": {
@@ -8548,6 +8728,24 @@
       "duration_ms": 173556,
       "name": "Pay to Play",
       "url": "https://open.spotify.com/track/26Os2peVmd4Q9KYmMLm8JW"
+    },
+    {
+      "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/39VhwDmCfNxZIG6g3E3snv"
+      },
+      "artists": [
+        {
+          "name": "Death by Denim",
+          "url": "https://open.spotify.com/artist/1OXpN0Unpw1Xrpws4tIpUF"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228971,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/33YhipFgDdC8eP4xOFVDYd"
     },
     {
       "album": {
@@ -8937,6 +9135,24 @@
     },
     {
       "album": {
+        "name": "I'll fill your house with an army",
+        "url": "https://open.spotify.com/album/0556az3adGWLglb9E74CnU"
+      },
+      "artists": [
+        {
+          "name": "VOWWS",
+          "url": "https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Pulls Me Apart",
+      "url": "https://open.spotify.com/track/52WxDndshL3L1rGO2wrB1a"
+    },
+    {
+      "album": {
         "name": "Pyromaniac",
         "url": "https://open.spotify.com/album/7qVcvexLdcv1E632W9UWbD"
       },
@@ -9074,7 +9290,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 243597,
       "name": "REAL WORLD",
       "url": "https://open.spotify.com/track/33kQwC4teWE3WONTRQkxXX"
@@ -9560,7 +9776,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 204704,
       "name": "Salsa Verde",
       "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
@@ -9751,6 +9967,24 @@
     },
     {
       "album": {
+        "name": "Serpent Skin",
+        "url": "https://open.spotify.com/album/334WRk72JE7MT9va8IDixn"
+      },
+      "artists": [
+        {
+          "name": "Down And Out",
+          "url": "https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Serpent Skin",
+      "url": "https://open.spotify.com/track/1gXxraV26TuwUvtV5S1XBF"
+    },
+    {
+      "album": {
         "name": "Settling Down",
         "url": "https://open.spotify.com/album/5vekeb3JTodzTkN9DJ1Qie"
       },
@@ -9802,6 +10036,24 @@
       "duration_ms": 185262,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX"
+    },
+    {
+      "album": {
+        "name": "Shadowland",
+        "url": "https://open.spotify.com/album/0RdCEIJvDjwJve2G98UIAy"
+      },
+      "artists": [
+        {
+          "name": "Bad//Dreems",
+          "url": "https://open.spotify.com/artist/54f24706ua34STMhWSzPV7"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232233,
+      "name": "Shadowland",
+      "url": "https://open.spotify.com/track/55UcLytbMiRcXmReVQcpyz"
     },
     {
       "album": {
@@ -10219,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7cO3VWZieGiyYbZk77oqyV"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201358,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/494b5aTzaNZBVm2VKMGryH"
+    },
+    {
+      "album": {
         "name": "Sleeping Dogs",
         "url": "https://open.spotify.com/album/6pwByNKOnvpOvzNrUg242D"
       },
@@ -10576,7 +10846,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 155298,
       "name": "Spezial",
       "url": "https://open.spotify.com/track/0Co5koTVt517q1N5J9BNiM"
@@ -10898,7 +11168,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 191597,
       "name": "Strange Romance",
       "url": "https://open.spotify.com/track/11immKCgPMjtsHmRUvfC71"
@@ -11849,6 +12119,24 @@
     },
     {
       "album": {
+        "name": "The Real Contra Band",
+        "url": "https://open.spotify.com/album/4VeS0UCjBAsBhF0HH7Snsr"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189673,
+      "name": "The Real Contra Band",
+      "url": "https://open.spotify.com/track/4kBtmojfp18pLG6HPtn5xR"
+    },
+    {
+      "album": {
         "name": "The Star",
         "url": "https://open.spotify.com/album/7pQOpxeKg37wHO3U7xPBm9"
       },
@@ -11878,7 +12166,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 208752,
       "name": "The Wait Is Over",
       "url": "https://open.spotify.com/track/1eURH5K09qCz92S9xvJy5X"
@@ -12892,6 +13180,24 @@
       "duration_ms": 151646,
       "name": "What We're Livin' For - NRL Anthem",
       "url": "https://open.spotify.com/track/282EtkCLlLmxpEqSjmRga3"
+    },
+    {
+      "album": {
+        "name": "It's Okay I'm Ugly Too",
+        "url": "https://open.spotify.com/album/0skjYnNBwbhhElncApB11W"
+      },
+      "artists": [
+        {
+          "name": "OH! Daisy",
+          "url": "https://open.spotify.com/artist/4vHTaAnr8RGRXrjpIBatOQ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222324,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/1ZzyrvexReTUvK0Izt9j1Q"
     },
     {
       "album": {

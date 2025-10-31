@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 183428,
       "name": "Follow",
       "url": "https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97"
@@ -2312,6 +2312,24 @@
       "duration_ms": 357517,
       "name": "Full On",
       "url": "https://open.spotify.com/track/1u4De9AOyLd3OrwCFk9juE"
+    },
+    {
+      "album": {
+        "name": "Fur Elise (Hi-Tech)",
+        "url": "https://open.spotify.com/album/6AxJapHoeGaqSWwnVoLe2N"
+      },
+      "artists": [
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227702,
+      "name": "Fur Elise (Hi-Tech)",
+      "url": "https://open.spotify.com/track/5XjFyYKlXDFkegtlGNBodQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Mura Masa",
+  "description": "The home for alternative electronic music. Cover: Kelly Lee Owens",
   "name": "Altar",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 239950,
       "name": "100 dollar bill",
       "url": "https://open.spotify.com/track/6qIyMGqZ0VAaVr5WF7PZcC"
+    },
+    {
+      "album": {
+        "name": "132 TECHNO",
+        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334584,
+      "name": "132 TECHNO",
+      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
     },
     {
       "album": {
@@ -6263,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "D\u00c1MELO",
+        "url": "https://open.spotify.com/album/0VguaIWs5mM9nvFEELtQ9m"
+      },
+      "artists": [
+        {
+          "name": "ANNABEL STOP IT",
+          "url": "https://open.spotify.com/artist/2ZXG5sI9hPqon1Kgb5tw3O"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "D\u00c1MELO",
+      "url": "https://open.spotify.com/track/5twr7RrWkHrgBbvHmWaHfk"
+    },
+    {
+      "album": {
         "name": "D\u00e4mmerung",
         "url": "https://open.spotify.com/album/1RqKWY4TjWrpgMGvP5zn3L"
       },
@@ -7461,6 +7497,32 @@
     },
     {
       "album": {
+        "name": "Facilita",
+        "url": "https://open.spotify.com/album/3WmLwaeaQ07qodXo5Cmel0"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        },
+        {
+          "name": "Menor Teteu",
+          "url": "https://open.spotify.com/artist/3uxTvUjeRTQDfrB59A1zWb"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257435,
+      "name": "Facilita",
+      "url": "https://open.spotify.com/track/2VZ0ncmWdOyrsVKfc8fwa4"
+    },
+    {
+      "album": {
         "name": "Faisal (Envelops Me)",
         "url": "https://open.spotify.com/album/4ypZdBrZq9WRWbEkpqUA4D"
       },
@@ -7476,6 +7538,24 @@
       "duration_ms": 250291,
       "name": "Faisal (Envelops Me)",
       "url": "https://open.spotify.com/track/0J8dISXAmgPIOvOtYy64AT"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2XHyfupJblQtNZUQXernPN"
+      },
+      "artists": [
+        {
+          "name": "DOREY",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268872,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/7FHcKps307elS3AgocKDA9"
     },
     {
       "album": {
@@ -8818,7 +8898,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 255983,
       "name": "gbesoke",
       "url": "https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV"
@@ -11155,6 +11235,24 @@
     },
     {
       "album": {
+        "name": "i want u",
+        "url": "https://open.spotify.com/album/78eUFbwr1ZFPUwUfiJxsn0"
+      },
+      "artists": [
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209899,
+      "name": "i want u",
+      "url": "https://open.spotify.com/track/0Fjrpxcnm3Ddd8yxj8WwWu"
+    },
+    {
+      "album": {
         "name": "REVELATIONS",
         "url": "https://open.spotify.com/album/0uAiJ98cPhGiZxEHy9yBvs"
       },
@@ -11846,7 +11944,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 333779,
       "name": "Into Dust (Still Falling)",
       "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
@@ -16074,7 +16172,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 193754,
       "name": "None of That",
       "url": "https://open.spotify.com/track/0apyhAiGCKHDyUPrTvbOs2"
@@ -18590,7 +18688,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 165105,
       "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
       "url": "https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW"
@@ -24544,7 +24642,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"

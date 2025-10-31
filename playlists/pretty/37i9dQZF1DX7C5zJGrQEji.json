@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 10001,
+  "num_followers": 10011,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,30 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
+        "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
+      },
+      "artists": [
+        {
+          "name": "AySay",
+          "url": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Biophonica",
+          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4348UXOK0dbQb4oBQUM31f"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
         "name": "All We Are (feat. NATURE)",
         "url": "https://open.spotify.com/album/7INNPDLpph0YxtMFsZFH9p"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 150272,
       "name": "Naima (feat. NATURE)",
       "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
-        "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
-      },
-      "artists": [
-        {
-          "name": "AySay",
-          "url": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Biophonica",
-          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4348UXOK0dbQb4oBQUM31f"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -1003,30 +1003,26 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "Oregon Rain (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
+        "name": "Wale Nze Mbong (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3vBkdTiLc7K3ukaltgS4EQ"
       },
       "artists": [
         {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+          "name": "Allen Anjeh",
+          "url": "https://open.spotify.com/artist/2y1qlKit6uPc59VY12JZ0F"
+        },
+        {
+          "name": "Louis VI",
+          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Fay Funk",
-          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
-        },
-        {
-          "name": "Gentle Millennials",
-          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
         }
       ],
-      "duration_ms": 260657,
-      "name": "Oregon Rain (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
+      "duration_ms": 220000,
+      "name": "Wale Nze Mbong (feat. NATURE)",
+      "url": "https://open.spotify.com/track/66Cbh5T7nJ6pP6urJNospJ"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -1051,26 +1047,30 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "Wale Nze Mbong (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3vBkdTiLc7K3ukaltgS4EQ"
+        "name": "Oregon Rain (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
       },
       "artists": [
         {
-          "name": "Allen Anjeh",
-          "url": "https://open.spotify.com/artist/2y1qlKit6uPc59VY12JZ0F"
-        },
-        {
-          "name": "Louis VI",
-          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Fay Funk",
+          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
+        },
+        {
+          "name": "Gentle Millennials",
+          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Wale Nze Mbong (feat. NATURE)",
-      "url": "https://open.spotify.com/track/66Cbh5T7nJ6pP6urJNospJ"
+      "duration_ms": 260657,
+      "name": "Oregon Rain (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
     },
     {
       "added_at": "2025-09-24 00:01:01",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
+  "description": "Uma playlist de pura alma pop! Foto: Khiaro, Miguel Moura",
   "name": "Pop PT",
   "tracks": [
     {
@@ -1447,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Contigo para Sempre",
+        "url": "https://open.spotify.com/album/0nAkeLSbAEFN1H9gr3rwGI"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        },
+        {
+          "name": "Miguel Moura",
+          "url": "https://open.spotify.com/artist/2RNVpVAfgEuFNxHOILyK9q"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167624,
+      "name": "Contigo para Sempre",
+      "url": "https://open.spotify.com/track/3ci2RTjkUdQhmbVyh7Or0T"
+    },
+    {
+      "album": {
         "name": "Contra Probabilidades",
         "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
       },
@@ -1608,7 +1630,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 157413,
       "name": "c\u00e3es e gatos",
       "url": "https://open.spotify.com/track/5dIxvbZLwSGeDhL1A0ldMb"
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 178333,
       "name": "deixa falar de n\u00f3s",
       "url": "https://open.spotify.com/track/3uIei40nAPqY6qNCA8Q9oW"
@@ -3291,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Juro Por Deus",
+        "url": "https://open.spotify.com/album/50qOcNKLf2jN82oeDQsCsE"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218986,
+      "name": "Juro Por Deus",
+      "url": "https://open.spotify.com/track/4jEU6KEAcFEYYccgskquRC"
+    },
+    {
+      "album": {
         "name": "J\u00e1 N\u00e3o H\u00e1 Pardais No C\u00e9u",
         "url": "https://open.spotify.com/album/7tn6orwNXJ0V45s0H0piuR"
       },
@@ -3324,7 +3364,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 204100,
       "name": "J\u00e1 N\u00e3o Sais Daqui",
       "url": "https://open.spotify.com/track/2CmzvlSWvxgcHBiydvp34s"
@@ -5141,6 +5181,32 @@
     },
     {
       "album": {
+        "name": "Quanto Tempo Tem",
+        "url": "https://open.spotify.com/album/0fN3KrSOFJ89X9NXPhSvke"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        },
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203833,
+      "name": "Quanto Tempo Tem",
+      "url": "https://open.spotify.com/track/2Ydka52H6YTx151H9uB9Lf"
+    },
+    {
+      "album": {
         "name": "Vai-se Andando?",
         "url": "https://open.spotify.com/album/5fTnXdADvh4aZmFIVdFoGZ"
       },
@@ -5748,6 +5814,24 @@
       "duration_ms": 247973,
       "name": "Sem Que Estejas - ao vivo no Est\u00fadio Vale de Lobos",
       "url": "https://open.spotify.com/track/5FwwbhKqd8cYmC0FIHsjyX"
+    },
+    {
+      "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/1z71QlLb37aYs1JvwPeZX5"
+      },
+      "artists": [
+        {
+          "name": "Noninho Navarro",
+          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/4TYPZ4SO53xy6oWZc7eaF3"
     },
     {
       "album": {
@@ -6704,7 +6788,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 198728,
       "name": "\u00c0 Espera Do Fim",
       "url": "https://open.spotify.com/track/3HKfGY4DN6qvjTWsrxINRL"

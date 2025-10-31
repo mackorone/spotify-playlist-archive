@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,588 likes - 123 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,590 likes - 123 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 22 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
 | 23 | [That's Fine](https://open.spotify.com/track/6sCSk3cy0AtcXlzgIOaDjA) | [Mateo Dufour](https://open.spotify.com/artist/5BhU8yBWfPZN2J2OCefip6) | [Check This Sound](https://open.spotify.com/album/3tsNoGi5b4uXsX5yyQQDgO) | 6:40 |
 | 24 | [Mantra](https://open.spotify.com/track/6T9Rie6HYLSlFFM8nNgQzG) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Mantra](https://open.spotify.com/album/2uyDY44RGw1IGmYW6BZZhM) | 7:45 |
-| 25 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
+| 25 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Dawn Patrol](https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 |
 | 26 | [Elastrik](https://open.spotify.com/track/4YMWv3XtU6qjdUmrvrw9OI) | [Gaiser](https://open.spotify.com/artist/0zNtdoyO2ZA7hhYMNLh48Y) | [Some Slip](https://open.spotify.com/album/6dUopkCPdpDZoUknLuQy0c) | 6:18 |
 | 27 | [A Black Man in Space \- Sax Mix](https://open.spotify.com/track/1Zwv3mD1RuF0Wcp8kAtyg6) | [Son Of Raw](https://open.spotify.com/artist/2pOhC26lLz9bmTRJKuymKe) | [A Black Man in Space](https://open.spotify.com/album/3dd7fWPJd9Xbj2Ahw9BKRp) | 7:28 |
 | 28 | [Mami \- SOSA Remix](https://open.spotify.com/track/3BelLDoNYxRWMJQ8fImu55) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI \(SOSA Remix\)](https://open.spotify.com/album/5sgZhu2akIrxRl5xB7iaom) | 3:27 |

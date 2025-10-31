@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u6176\u795d RADAR \u97f3\u6a02\u4eba\u7a81\u7834 1000 \u4f4d\uff01\u91cd\u6eab RADAR \u65b0\u52e2\u529b\u6b77\u4f86\u6700\u53d7\u6b61\u8fce\u6b4c\u624b\u4f5c\u54c1\uff01Cover: \u827e\u871c\u8389 (AMILI) ",
+  "description": "\u6176\u795d RADAR \u97f3\u6a02\u4eba\u7a81\u7834 1000 \u4f4d\uff01\u91cd\u6eab RADAR \u65b0\u52e2\u529b\u6b77\u4f86\u6700\u53d7\u6b61\u8fce\u6b4c\u624b\u4f5c\u54c1\uff01Cover: \u738bADEN",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 209655,
       "name": "10ft",
       "url": "https://open.spotify.com/track/6IWdGMpcqJO3s9WVQx0Qnv"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Cloud Nine",
       "url": "https://open.spotify.com/track/59iGchL778biZ3FgVAF5d4"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 139574,
       "name": "cold.",
       "url": "https://open.spotify.com/track/1q0J313GngZkIUlI47e8iU"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 140201,
       "name": "EXX",
       "url": "https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 245449,
       "name": "FACES",
       "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 214333,
       "name": "igotchu",
       "url": "https://open.spotify.com/track/0zVyuJ44XNqqirJNNQDxRv"
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 185338,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/41312k36is0WtJUS5S3RTb"
@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 300888,
       "name": "REGRET",
       "url": "https://open.spotify.com/track/0q9slfcOo1wkkD0tNn7GdH"
@@ -4420,6 +4420,24 @@
       "duration_ms": 190932,
       "name": "Souffl\u00e9",
       "url": "https://open.spotify.com/track/6m7h2pLpDVSGFFFfFBS2VL"
+    },
+    {
+      "album": {
+        "name": "\u8718\u86db\u611f\u61c9",
+        "url": "https://open.spotify.com/album/6bYxf7apUtCugOhbkidjZR"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u871c\u8389AMILI",
+          "url": "https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165138,
+      "name": "Spida",
+      "url": "https://open.spotify.com/track/2l4y3zGp90AkpJUNEE8VkN"
     },
     {
       "album": {
@@ -5807,6 +5825,28 @@
     },
     {
       "album": {
+        "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
+        "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        },
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227538,
+      "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
+      "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
+    },
+    {
+      "album": {
         "name": "\u6211\u5176\u5be6\u4e00\u9ede\u90fd\u4e0d\u9177",
         "url": "https://open.spotify.com/album/5nu65vQRCMjyc47yNLfFKa"
       },
@@ -6284,7 +6324,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 176896,
       "name": "\u4e0d\u80fd\u9078\u64c7",
       "url": "https://open.spotify.com/track/1xEpcosFwHYz3oRterh3BY"
@@ -6848,7 +6888,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 196750,
       "name": "\u4f60\u8aaa\u9019\u53eb\u5929\u79e4\u5ea7\u4f46\u4f60\u559c\u6b61",
       "url": "https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj"
@@ -10308,7 +10348,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 253154,
       "name": "\u628a\u4f60\u6212\u6389",
       "url": "https://open.spotify.com/track/1kE44czQ8j4dcXeAP8LobX"
@@ -10590,7 +10630,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 256402,
       "name": "\u6539\u5929 Till Next Time",
       "url": "https://open.spotify.com/track/7K5HOjetxSS2hJ42igXOSN"
@@ -11388,7 +11428,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 213320,
       "name": "\u6bdb\u7dda\u7403\u5c11\u5973 Yarn",
       "url": "https://open.spotify.com/track/3V8mZv6oG5a6KzU8KUS8rW"
@@ -13312,7 +13352,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 238618,
       "name": "\u84bc\u767d (Netflix \u5f71\u96c6\u300a\u8ab0\u662f\u88ab\u5bb3\u8005\uff1a\u7b2c2\u5b63\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/1yirex810MCm6C0pZn7EP1"
@@ -14490,7 +14530,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 237204,
       "name": "\u9577\u591c\u8cfd\u8dd1 Nights",
       "url": "https://open.spotify.com/track/0DTfdzLVkHO4Mjv8IiF7xs"
@@ -14830,6 +14870,24 @@
       "duration_ms": 195000,
       "name": "\u99ac\u5152",
       "url": "https://open.spotify.com/track/1tfxHCZ0Z98B3Zx577OJjH"
+    },
+    {
+      "album": {
+        "name": "\u9a55\u50b2",
+        "url": "https://open.spotify.com/album/2lOCQ6QpMey0gJk1sLlAdy"
+      },
+      "artists": [
+        {
+          "name": "JUD \u9673\u6cf3\u5e0c",
+          "url": "https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245061,
+      "name": "\u9a55\u50b2 - \u96fb\u5f71\u300a\u81ea\u6bba\u901a\u544a\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/2xIW9AXKw4fOXg7SuTjg4e"
     },
     {
       "album": {

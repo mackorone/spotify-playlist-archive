@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-394 songs - 22 hr 51 min
+398 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Little Sly](https://open.spotify.com/track/2ATyWYSGQCmVLPPQQ7lNzG) | [Saica](https://open.spotify.com/artist/7qEEzVU8qrl6cgQypPkvK5) | [A Little Sly](https://open.spotify.com/album/2aFR7ecyJ3eAXDk5I8Z3NS) | 2:01 | 2025-05-05 |  |
 | [Absolute Territory](https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Absolute Territory](https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7) | 4:28 | 2022-09-24 |  |
 | [ACHE IN PULSE](https://open.spotify.com/track/0Iqcphch06zxuUFcljKjaI) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 3:28 | 2023-11-08 |  |
+| [Aegen](https://open.spotify.com/track/43gKYs7LrTod5UPSel4GEw) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Aegen](https://open.spotify.com/album/3VEIqbSK27bpVpq5IqUlA6) | 4:56 | 2025-10-30 |  |
 | [Aishite Aishite Aishite](https://open.spotify.com/track/4gpvY7b9wHA9G1ZsMDu15b) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 4:18 | 2025-07-25 |  |
 | [aishiteitanoni](https://open.spotify.com/track/16kqUisnDZz1DC789Ks1lE) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [aishiteitanoni](https://open.spotify.com/album/4hDLuHOt6Mo98I2SVufLji) | 3:39 | 2025-04-09 |  |
 | [Akujiki](https://open.spotify.com/track/565shq9eUdoknV8W0rUViP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:23 | 2024-12-03 |  |
@@ -169,6 +170,7 @@
 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 | 2024-11-18 |  |
 | [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [只野 楓](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 | 2024-12-03 |  |
 | [Only Wonder](https://open.spotify.com/track/66gqGFhqcoEjiCcp02rsir) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Frederhythm](https://open.spotify.com/album/47CP4H5sU69fTUPyI0SD4S) | 4:43 | 2023-12-24 |  |
+| [Otona no Jijo](https://open.spotify.com/track/6BfDkvp3wJq7cA0xDWDHAI) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Sanman](https://open.spotify.com/album/0kYhbt34EkgHrtBq54eSog) | 3:18 | 2025-10-30 |  |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-06-25 |  |
 | [Oyasumi.](https://open.spotify.com/track/0I7SycHSHC43o4ceBeGYpN) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Gulu Gulu Ryuushutsu Ongen Shuu \(Living Dead Edition\)](https://open.spotify.com/album/7qE4QTpPGAhBGrPxWVl28C) | 3:14 | 2025-09-25 |  |
 | [p.h.](https://open.spotify.com/track/3WxlfdEj9jL5PQiyFfQvcM) | [SEVENTHLINKS](https://open.spotify.com/artist/7GLKth0GUYwTRUDm217DHO) | [p.h.](https://open.spotify.com/album/7LwBnfRTz070DrRlVXiQwj) | 2:35 | 2024-09-09 |  |
@@ -299,6 +301,7 @@
 | [ハツコイソウ](https://open.spotify.com/track/7IEvo5fRMgBMt8OUqgfP0Z) | [FLG4](https://open.spotify.com/artist/63MKBngdiEGvCJhGfCDjMD) | [ハツコイソウ](https://open.spotify.com/album/5bD2jwdnOH59bDmh8UIfqX) | 2:51 | 2023-12-18 |  |
 | [バカ通信 \(feat\. 知声\)](https://open.spotify.com/track/4BC7to7tQh5gF7BsuccT60) | [isonosuke](https://open.spotify.com/artist/59J6Ko7gRBJamo9e1jAl9x), [Chis\-A](https://open.spotify.com/artist/4kmZaUQhElz6uF2s4Bd1Av) | [バカ通信](https://open.spotify.com/album/6ezc0MKyRoMRf1zWricVch) | 2:29 | 2024-07-08 |  |
 | [バグ \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン\)](https://open.spotify.com/track/3Lu59KjuBy96vEaMBgGPud) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [ノマド/バグ](https://open.spotify.com/album/5mZsk1IhSXRG4N2I37CRty) | 2:51 | 2024-02-19 |  |
+| [バッドエンド・エトセトラ](https://open.spotify.com/track/7jG8STJAaqnVZOETHa8bUV) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [バッドエンド・エトセトラ](https://open.spotify.com/album/3kDQISpwrueaYPtrvJGI3b) | 1:53 | 2025-10-30 |  |
 | [パステルレイン](https://open.spotify.com/track/6LgbWb24tqwQYOz2LznkMD) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ガールズブルー・ハッピーサッド](https://open.spotify.com/album/4zJnne9ViG9kIR8o8AntfK) | 3:32 | 2023-06-19 |  |
 | [ヒステリックナイトガール](https://open.spotify.com/track/1poGez6IaTb1gtJxkXdlb8) | [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [STYLEY!](https://open.spotify.com/album/7wO1gjRCpHhYPbEC7hthYk) | 5:06 | 2023-06-19 |  |
 | [ヒトガワリ](https://open.spotify.com/track/40KFocvzK7xc1jHzBDM8k4) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:26 | 2025-09-16 |  |
@@ -370,6 +373,7 @@
 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 | 2024-08-19 |  |
 | [熱愛発覚中](https://open.spotify.com/track/1nFrtehgfdwIFrA67nLxoF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [熱愛発覚中](https://open.spotify.com/album/7vN8Vr63Thjf3i6u0K9L95) | 3:29 | 2025-08-18 |  |
 | [独全絵図](https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:07 | 2025-02-17 |  |
+| [画脂鏤氷](https://open.spotify.com/track/0cwFv4cJSL1z3RidyF5Uqr) | [かんてゐく](https://open.spotify.com/artist/7a3VEAgXx9IfbsDxmQRAZ3), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB) | [ViRGiN](https://open.spotify.com/album/5e4izHlNGtNLlw0pVfdF6X) | 3:21 | 2025-10-30 |  |
 | [痛いの痛いの飛んでいけ](https://open.spotify.com/track/5Mi5wHBGH7ck5EghEhHIV1) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [痛いの痛いの飛んでいけ](https://open.spotify.com/album/3CM6XVo41OSyfplg443RRj) | 3:36 | 2025-07-20 |  |
 | [白銀の小舟](https://open.spotify.com/track/4c25GpjkCfkD0K4J3C0mCR) | [魔王魂](https://open.spotify.com/artist/5qcsl4mmKIvcKLs1e5vySU), [森田交一](https://open.spotify.com/artist/21rAvbCpRT7lmNK4d08QfL) | [魔王魂BEST1](https://open.spotify.com/album/1x254RwkdfRbe5zNRB9w8T) | 4:20 | 2024-09-02 |  |
 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 | 2023-12-29 |  |

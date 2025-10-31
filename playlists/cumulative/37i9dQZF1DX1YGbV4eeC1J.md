@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Lony Bway
 
-321 songs - 18 hr 2 min
+322 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Je T Aime](https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Je T Aime](https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj) | 4:16 | 2024-05-09 | 2024-10-04 |
 | [Jeraha](https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Jeraha](https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O) | 3:01 | 2022-05-26 | 2024-11-15 |
 | [Jinadi](https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Jinadi](https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp) | 2:38 | 2022-11-10 | 2023-01-20 |
-| [Juu](https://open.spotify.com/track/0u5J0a8oOTw9AVI07iD7yS) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Colorful Generation](https://open.spotify.com/album/0nIEkzSwKoMM2Chsgew9DV) | 2:50 | 2025-01-31 |  |
+| [Juu](https://open.spotify.com/track/0u5J0a8oOTw9AVI07iD7yS) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Colorful Generation](https://open.spotify.com/album/0nIEkzSwKoMM2Chsgew9DV) | 2:50 | 2025-01-31 | 2025-10-31 |
 | [Kama](https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Kama](https://open.spotify.com/album/4vqoy2PNlAqmQpcTKjCKui) | 3:08 | 2023-12-08 | 2024-04-26 |
 | [Katam \(feat\. Bien\)](https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Katam \(feat\. Bien\)](https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf) | 4:05 | 2025-06-09 |  |
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2022-05-26 | 2024-11-08 |
@@ -270,6 +270,7 @@
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 | 2023-07-07 |
 | [Sitaki Mapenzi](https://open.spotify.com/track/5xhHQNRjuITzj9eOFabWWi) | [Treyzah](https://open.spotify.com/artist/1ZEoQ0UaWVoJZE6JCZZUM3) | [Sitaki Mapenzi](https://open.spotify.com/album/2U44P4HPg9FlsYVsAP0457) | 2:40 | 2025-02-27 | 2025-06-20 |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 | 2023-07-28 |
+| [Siwezi](https://open.spotify.com/track/71dAnBhTrNKhsUfL7IJ8ht) | [RICH MAVOKO](https://open.spotify.com/artist/4aeCyyHNM1iZbxz48788cd) | [Siwezi](https://open.spotify.com/album/6kqYOHMLPw6yERhUiQ7QFP) | 2:33 | 2025-10-30 |  |
 | [Sugar](https://open.spotify.com/track/7geOX315j041sZXu7B1Kpf) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Sugar](https://open.spotify.com/album/0ala3wvsS9xR8wVcUyvfOh) | 3:25 | 2025-01-16 |  |
 | [Sunina](https://open.spotify.com/track/5CBvhD0E4XClAsdpug6KWK) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Sunina](https://open.spotify.com/album/5t77HSTbhdvM1n7KEh9urC) | 3:04 | 2023-06-08 | 2023-09-15 |
 | [Sunset](https://open.spotify.com/track/54EH4aks1rG4WL8HiG3szm) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Cuffed in Love](https://open.spotify.com/album/2VTrwsi53HGL2yYsEYTMgH) | 3:23 | 2024-02-22 | 2024-05-10 |

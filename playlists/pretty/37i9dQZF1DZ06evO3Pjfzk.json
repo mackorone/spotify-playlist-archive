@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 101658,
+  "num_followers": 101694,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAABrmq0cOgBPnrjT5IUPEAqr",
+  "snapshot_id": "aQFZAAAAAAAuD0ZqhJjwShSp8SdcEmiC",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 205509,
+      "name": "I Wrote You A Song (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
         "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 176053,
       "name": "Straight Up Sideways",
       "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever (Legendary Edition)",
-        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 205509,
-      "name": "I Wrote You A Song (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottoms Up",
-        "url": "https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ"
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 212386,
-      "name": "Bell Bottoms Up",
-      "url": "https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I"
+      "duration_ms": 219760,
+      "name": "Tougher",
+      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tougher",
-        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+        "name": "Bell Bottoms Up",
+        "url": "https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Tougher",
-      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+      "duration_ms": 212386,
+      "name": "Bell Bottoms Up",
+      "url": "https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I"
     },
     {
       "added_at": null,

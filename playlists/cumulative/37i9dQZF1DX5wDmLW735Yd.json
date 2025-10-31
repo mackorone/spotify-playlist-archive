@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Metrik",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Dimension, Karen Harding",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1164,10 +1164,32 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 193500,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/50LX9tHSztB3eSMU3gb9vI"
+    },
+    {
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/1P4JagrTbPQhlZ9pPLwl7N"
+      },
+      "artists": [
+        {
+          "name": "Javeon",
+          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
+        },
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/6GiVRfnfvWEAIR2SD8qRKY"
     },
     {
       "album": {
@@ -6165,6 +6187,28 @@
     },
     {
       "album": {
+        "name": "Entwined",
+        "url": "https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Entwined",
+      "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
+    },
+    {
+      "album": {
         "name": "Escape The Lights",
         "url": "https://open.spotify.com/album/4OkwmcPxyMpWL88ZvujwKf"
       },
@@ -7817,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193138,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
+    },
+    {
+      "album": {
         "name": "Get A Good Feeling",
         "url": "https://open.spotify.com/album/6dNMokUQFRKfTYGs6n1Qow"
       },
@@ -8514,6 +8576,46 @@
       "duration_ms": 271899,
       "name": "Green Lane",
       "url": "https://open.spotify.com/track/0Km4rKKA88V5GV7whzacYs"
+    },
+    {
+      "album": {
+        "name": "Anti/Thesis: Vol. 2",
+        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233083,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
+    },
+    {
+      "album": {
+        "name": "Guardian Angel",
+        "url": "https://open.spotify.com/album/5NO5T8NwwbpFCBpL8rFU81"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Guardian Angel",
+      "url": "https://open.spotify.com/track/7JFkL98dEjAzkGnBW8SJid"
     },
     {
       "album": {
@@ -15600,7 +15702,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 228000,
       "name": "Pozor",
       "url": "https://open.spotify.com/track/1UsayrR9fpA84zoYHSEP3Z"
@@ -16664,6 +16766,24 @@
       "duration_ms": 318171,
       "name": "Revolution Not Televised",
       "url": "https://open.spotify.com/track/0J1odRZupjNiGiQZyCYCl3"
+    },
+    {
+      "album": {
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/7aJCXVZIkrLbNMxpqOM7Hk"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/1C8IbiaB9p6Z15qmW6Wrfb"
     },
     {
       "album": {

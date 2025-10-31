@@ -4,7 +4,7 @@
 
 > indie folk latino de estación\. Foto: Diosque y Juliana Gattas
 
-345 songs - 18 hr 59 min
+346 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Día tras día](https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd) | [El Tio Valen](https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8) | [Día tras día](https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF) | 2:57 | 2024-09-26 | 2025-07-18 |
 | [Días En Casa](https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Días En Casa](https://open.spotify.com/album/6v6HHXpXjmwo2gA1S1gPuk) | 3:05 | 2023-05-12 | 2024-09-27 |
 | [El Alma](https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [El Alma](https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU) | 2:55 | 2022-05-20 | 2023-04-15 |
-| [El Campo \- acústico](https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [ODIO el ODIO \(Acústico\)](https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX) | 2:58 | 2025-07-18 |  |
+| [El Campo \- acústico](https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [ODIO el ODIO \(Acústico\)](https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX) | 2:58 | 2025-07-18 | 2025-10-31 |
 | [El Film](https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [El Film](https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT) | 3:01 | 2023-07-14 | 2023-10-07 |
 | [el film \- Versión Acústica](https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Acústico](https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5) | 2:49 | 2024-03-21 |  |
 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 | 2023-10-26 |  |
@@ -288,7 +288,7 @@
 | [Si bien fue poco](https://open.spotify.com/track/5UCnTmxuBMCZpIPtrHZS6v) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Si bien fue poco](https://open.spotify.com/album/4oHu1P0JdQ5ZWYqHQa4uEj) | 4:06 | 2025-07-18 |  |
 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 | 2024-10-17 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 | 2023-06-24 |
-| [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 | 2022-11-11 | 2025-10-28 |
+| [Sigo Llorando](https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Sigo Llorando](https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm) | 3:43 | 2022-11-11 |  |
 | [Sigue Avanzando](https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Sigue Avanzando](https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA) | 3:34 | 2022-05-20 | 2023-07-08 |
 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 | 2022-05-20 | 2023-04-15 |
 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 | 2023-06-09 |  |
@@ -353,5 +353,6 @@
 | [Yo Invito](https://open.spotify.com/track/0RYDPGXliFYXfRgs4mj7Ka) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Yo Invito](https://open.spotify.com/album/7qlKCd3D9RgF9NOq9vQeyH) | 3:11 | 2022-05-20 | 2023-04-15 |
 | [Ándate \- Reversión](https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Ketekalles](https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi) | 3:14 | 2025-07-18 | 2025-08-04 |
 | [Árboles](https://open.spotify.com/track/5y4J5an3AUHCgyAdi7a7Iq) | [Micaela Basadoni](https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU) | [Árboles](https://open.spotify.com/album/3m0R7fX6Gsd7fd7nyQ3FJd) | 2:34 | 2023-07-14 | 2023-08-12 |
+| [Último Ritual](https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Último Ritual](https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3) | 3:27 | 2025-10-27 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

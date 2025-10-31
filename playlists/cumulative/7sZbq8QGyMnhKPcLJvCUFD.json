@@ -14111,6 +14111,24 @@
     },
     {
       "album": {
+        "name": "teamo",
+        "url": "https://open.spotify.com/album/6I4YHk7PJmePPOn7W8JYjo"
+      },
+      "artists": [
+        {
+          "name": "c8o",
+          "url": "https://open.spotify.com/artist/7BpMCntV4suo4ycD98VV6V"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142434,
+      "name": "teamo",
+      "url": "https://open.spotify.com/track/3vSa3awmVs6uJ5UsF2govU"
+    },
+    {
+      "album": {
         "name": "techno on my mind",
         "url": "https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0"
       },

@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bais K\-Pop boy group? \(Cover: ATEEZ\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bais K\-Pop boy group? \(Cover: 82MAJOR\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-772 songs - 1 day 18 hr 6 min
+774 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,7 +548,7 @@
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-01-20 | 2025-09-21 |
 | [Ra Pam Pam](https://open.spotify.com/track/7aJSEhH3kzrcr4g0uGXUC7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 2nd Album \[Game Changer\]](https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU) | 3:31 | 2022-03-30 | 2022-07-28 |
 | [Rain To Be](https://open.spotify.com/track/3JUy6uHdxEGf5cqk7IxDrE) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Planet Nine : Alter Ego](https://open.spotify.com/album/4vGyxBRf0DK6Jhq0DyL87O) | 3:15 | 2022-01-27 | 2022-06-21 |
-| [RAINBOW](https://open.spotify.com/track/4UwbCuskjhRitFPT7EQAtV) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [RAINBOW](https://open.spotify.com/album/1qHCVMUHqjJVwooPBJBbjG) | 4:06 | 2025-10-21 |  |
+| [RAINBOW](https://open.spotify.com/track/4UwbCuskjhRitFPT7EQAtV) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [RAINBOW](https://open.spotify.com/album/1qHCVMUHqjJVwooPBJBbjG) | 4:06 | 2025-10-21 | 2025-10-31 |
 | [Rains in Heaven](https://open.spotify.com/track/2u30g2qcJJo13rES1Us8aW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/3FTFpShMTd8cB5vV7w0gf1) | 3:57 | 2024-08-23 | 2024-09-05 |
 | [RE=LOAD](https://open.spotify.com/track/7xbF0zvvjJ4oT4HvcYi85k) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEGUN](https://open.spotify.com/album/0uF2qZ5B62L4ZlfLkAXhd1) | 3:18 | 2022-04-15 | 2022-05-12 |
 | [READY 2 RUMBLE](https://open.spotify.com/track/1Vj1oP3Z1PJXsU2HpgEPvO) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [VCF](https://open.spotify.com/album/3mNJ0XCdr6TbY3TPN0k0tn) | 2:54 | 2025-09-09 | 2025-09-23 |
@@ -692,6 +692,7 @@
 | [TRICKY HOUSE](https://open.spotify.com/track/2MeEPaL5HsW9njvrtP0Agj) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 3:04 | 2023-03-30 | 2023-04-12 |
 | [TRIGGER](https://open.spotify.com/track/0KSkclPEYcFuBIC0SOGXLp) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 9th MINI ALBUM \[導火線 \(TRIGGER\)\]](https://open.spotify.com/album/2UsJY5vQEYesJJ9iTnm9UW) | 3:14 | 2024-11-01 | 2024-11-12 |
 | [TRIGGER](https://open.spotify.com/track/2GNSBV3MLrT5vSEwfgSCpG) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 2 : HOLE\]](https://open.spotify.com/album/6JUF0SnjI6ZUeQQUdZmdP9) | 3:01 | 2022-01-27 | 2022-04-11 |
+| [TROPHY](https://open.spotify.com/track/47Mu43nMCpr04YGL1AlLEp) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [Trophy](https://open.spotify.com/album/6oTUrlTjn5yEohEoQrXVTf) | 3:06 | 2025-10-30 |  |
 | [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-27 | 2023-10-31 |
 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 | 2025-03-28 |  |
 | [Tulips](https://open.spotify.com/track/1qISta7z0s8B6zc1awcCVU) | [SNUPER](https://open.spotify.com/artist/3RkN2CENR9zgHLKn2H3hcI) | [BLOSSOM](https://open.spotify.com/album/7beQFEkNFuQ8q39fp2psKX) | 3:09 | 2022-03-31 | 2022-04-13 |
@@ -736,8 +737,9 @@
 | [What If Love](https://open.spotify.com/track/5M2fQ0KSLYRwrpIm4SxDl8) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Code Name: Arrow](https://open.spotify.com/album/6lGBHQBYL3eRzQ2ONYaxYc) | 3:10 | 2022-10-12 | 2022-10-27 |
 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 | 2025-08-18 |  |
 | [WHAT'S GOIN' ON](https://open.spotify.com/track/5RYFLurX0Vg85bgnClS6im) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Single Album \[WHAT'S GOIN' ON\]](https://open.spotify.com/album/0DYLNTiiA03sjrXPHDaU7z) | 3:11 | 2022-01-27 | 2022-04-21 |
-| [What's wrong?](https://open.spotify.com/track/1NbVPLRPIqXL11QR61HBe9) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [NEW CHAPTER : DESEAR](https://open.spotify.com/album/7ExEpivtdJXCf5laAeA0Go) | 3:46 | 2025-10-15 |  |
+| [What's wrong?](https://open.spotify.com/track/1NbVPLRPIqXL11QR61HBe9) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [NEW CHAPTER : DESEAR](https://open.spotify.com/album/7ExEpivtdJXCf5laAeA0Go) | 3:46 | 2025-10-15 | 2025-10-31 |
 | [When I'm With You](https://open.spotify.com/track/2wzhZgSDjWgwB618a6eeua) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4CbiijbtjdFusL6uXiZJ2k) | 3:31 | 2024-11-11 | 2024-12-23 |
+| [Where's Your Love](https://open.spotify.com/track/1xyniN2EfQDYVTVnts12mG) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Sunflower](https://open.spotify.com/album/3TwaF8hv5hgstxZTL0RGXK) | 3:14 | 2025-10-30 |  |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-18 | 2022-10-25 |
 | [White](https://open.spotify.com/track/4RUF7vLA3KutJHfQ1eGWuA) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'White'](https://open.spotify.com/album/1YYdEA6ykYQ0dpXrqj7tWP) | 4:05 | 2022-03-22 | 2022-04-16 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-22 |  |
@@ -752,8 +754,8 @@
 | [With Us](https://open.spotify.com/track/7JxGvCpgu60COzVsmavYv9) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/5hJ1mbfea5r20mjtT6oHON) | 4:17 | 2022-03-22 | 2022-04-21 |
 | [Wolf](https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:50 | 2023-04-30 | 2023-05-10 |
 | [WONDER YOU](https://open.spotify.com/track/1zn7W0MAMQSo0bZeY4jyyq) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 8th EP Album GO Chapter 1 : GO Together](https://open.spotify.com/album/5dhQSeZvL4WtRwi4CaQBb6) | 3:17 | 2025-09-09 | 2025-09-14 |
-| [WONDERING](https://open.spotify.com/track/0SXgiQa0SLrGSFvO2t4cf1) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ) | 2:48 | 2025-10-10 | 2025-10-12 |
-| [WONDERING](https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP) | 2:48 | 2025-10-10 |  |
+| [WONDERING](https://open.spotify.com/track/0SXgiQa0SLrGSFvO2t4cf1) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ) | 2:48 | 2025-10-10 |  |
+| [WONDERING](https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP) | 2:48 | 2025-10-10 | 2025-10-31 |
 | [WONDERLAND](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2021-12-08 | 2023-04-22 |
 | [Woo Woo](https://open.spotify.com/track/7GemKTNrhp4Fs9GErgWIE9) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [SPECIAL GIFT \[Woo Woo\]](https://open.spotify.com/album/0t5Rqa89XrQu11AWnoCJoU) | 3:38 | 2023-01-06 | 2023-01-10 |
 | [X](https://open.spotify.com/track/0XTt8RvNdO1zxxTf0L7ZLr) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [5x](https://open.spotify.com/album/549FaK4UMSSCdbxKVLWaYL) | 2:51 | 2025-07-01 | 2025-07-22 |

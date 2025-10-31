@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 17254,
+  "num_followers": 17304,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-10-24 06:08:23",
       "album": {
+        "name": "glowing arcade",
+        "url": "https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "glowing arcade",
+      "url": "https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG"
+    },
+    {
+      "added_at": "2025-10-24 06:08:23",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5ou0IPh4SoYYIY6WDaP4iP"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 240000,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/5mobDbNXNDmjAa0vfiAbB4"
-    },
-    {
-      "added_at": "2025-10-24 06:08:23",
-      "album": {
-        "name": "glowing arcade",
-        "url": "https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "glowing arcade",
-      "url": "https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG"
     },
     {
       "added_at": "2025-10-24 06:08:23",

@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 127179,
       "name": "AJO",
       "url": "https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B"
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 274666,
       "name": "Antigonidon",
       "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
@@ -6133,6 +6133,32 @@
     },
     {
       "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
+    {
+      "album": {
         "name": "LIBERTA",
         "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
       },
@@ -6236,7 +6262,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -7994,7 +8020,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 165148,
       "name": "C'EST LA VIE",
       "url": "https://open.spotify.com/track/24lFkOGD335Gqix1VDFHYH"
@@ -30437,6 +30463,32 @@
     },
     {
       "album": {
+        "name": "Monomaxoi",
+        "url": "https://open.spotify.com/album/28chlVQ5zm268k64SXdfrl"
+      },
+      "artists": [
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Emmanouela",
+          "url": "https://open.spotify.com/artist/5M5XZEGQ9VyenOFcuaQwE1"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184532,
+      "name": "Monomaxoi",
+      "url": "https://open.spotify.com/track/3i1mrTnbN5CX8toNv9JUHP"
+    },
+    {
+      "album": {
         "name": "Interrail",
         "url": "https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34"
       },
@@ -33856,7 +33908,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 244922,
       "name": "Oneiro Tha 'Nai Ksana - Kounia",
       "url": "https://open.spotify.com/track/25JqyktP3AJulyV4wfthln"
@@ -45104,7 +45156,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -46098,7 +46150,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 171042,
       "name": "To Glenti - Matia Mou Kai Go Gia Sena Exo",
       "url": "https://open.spotify.com/track/6153saBJWv9QHvxQsdGryv"
@@ -50046,7 +50098,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 157578,
       "name": "Xiliometra",
       "url": "https://open.spotify.com/track/2zR6FzBG3hAfZoWz7MsqT1"

@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 219847,
       "name": "Cold Game",
       "url": "https://open.spotify.com/track/3qnfpioCY8qxwtkB32tPLy"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 288880,
       "name": "Man Up",
       "url": "https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO"
@@ -1664,6 +1664,28 @@
       "duration_ms": 216158,
       "name": "Picture Us Rollin' (feat. Blayne & Young Noble)",
       "url": "https://open.spotify.com/track/5hyPuKYcTkThoNZkQh6shm"
+    },
+    {
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/3N7Og743HnTDJ9qWk0E5u2"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196783,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5WMS50sTWFH4fyPPma2vwM"
     },
     {
       "album": {
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 157127,
       "name": "TRU",
       "url": "https://open.spotify.com/track/0C9387DgHuUFRcj1nwRRoK"

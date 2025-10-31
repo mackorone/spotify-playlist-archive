@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-511 songs - 1 day 0 hr 31 min
+512 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Dance With Me](https://open.spotify.com/track/3PKXTGsIpCDoBdUvb1FV2b) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ) | [Dance With Me](https://open.spotify.com/album/4EmOb8yIboAzx3XZp9gbTb) | 2:48 | 2023-05-26 | 2025-04-27 |
 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-09 | 2023-04-09 |
 | [Deeper \(feat\. Britt Lari\)](https://open.spotify.com/track/0ZkliuhJeGUEu674X81vYd) | [K3SS](https://open.spotify.com/artist/56HIHMnIOj1xfjzBtAVxA4), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Deeper \(feat\. Britt Lari\)](https://open.spotify.com/album/4MHyWFTymT76DoaChcI8Kj) | 2:45 | 2024-02-27 | 2025-04-27 |
+| [Demons](https://open.spotify.com/track/5ytTqkPLx9TyuUmLbG4rjt) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Demons](https://open.spotify.com/album/6FLXXwOkE4KDZolj0pPZrT) | 2:41 | 2025-10-31 |  |
 | [Desire!](https://open.spotify.com/track/7wfxzIxXJFda9GwSF972QU) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [Desire!](https://open.spotify.com/album/0KpUfDkkaa1BrVrZXspwWr) | 2:24 | 2025-04-26 |  |
 | [Destination](https://open.spotify.com/track/7pDbNJJyVfglnEjSI2Ka6j) | [Versue](https://open.spotify.com/artist/2dAFoJE1SfRcTUOJvtDnXa) | [Destination](https://open.spotify.com/album/09ZrrEnySnNaz6GPOzQLqi) | 4:16 | 2023-04-07 | 2023-04-15 |
 | [Disco Addiction](https://open.spotify.com/track/0ugzxiofEEtpkXUq12ZJgf) | [We Rose](https://open.spotify.com/artist/3JAYBjWnOGr7B9JYXHQjmv) | [Disco Addiction](https://open.spotify.com/album/4WYBOZHVZ96XsBMzCfDSo2) | 2:16 | 2024-11-05 | 2025-04-27 |

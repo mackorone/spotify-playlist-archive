@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-967 songs - 2 day 13 hr 33 min
+968 songs - 2 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,8 @@
 | [Niggy Nuts](https://open.spotify.com/track/1gVHT6x1gdFqO5JP6YFmu7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [10](https://open.spotify.com/album/7E2TsBS4jPmfdjjTRUJ9Hn) | 3:40 | 2024-06-20 | 2024-06-22 |
 | [Night](https://open.spotify.com/track/26X50tiIvOem3M7pvJ2bm5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Why \- The 2nd Mini Album](https://open.spotify.com/album/1ukBQWhQwWKqTGgs0YzRzU) | 3:13 | 2024-01-29 | 2025-06-28 |
 | [Nightmares](https://open.spotify.com/track/2f2hbFjim051DVx0o8o4rU) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Can You Keep a Secret?](https://open.spotify.com/album/3tZMuGcIqKDhj2fTK7L3qS) | 2:24 | 2024-01-29 | 2025-02-12 |
-| [Nightmares](https://open.spotify.com/track/78IrLSSFINroCLIrkym6gV) | [SpeedyTunes](https://open.spotify.com/artist/7JzWHfANlJQ7aA9HRhUvKE), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Nightmares](https://open.spotify.com/album/6LnIoYdiEmKYH2SBuIlTMi) | 2:24 | 2025-10-27 |  |
+| [Nightmares](https://open.spotify.com/track/4dCkSwVzvJnqsSXmmIlLi7) | [SpeedyTunes](https://open.spotify.com/artist/7JzWHfANlJQ7aA9HRhUvKE) | [Nightmares](https://open.spotify.com/album/1vPrk3zXnbCfUiW73MnG6J) | 2:24 | 2025-10-30 |  |
+| [Nightmares](https://open.spotify.com/track/78IrLSSFINroCLIrkym6gV) | [SpeedyTunes](https://open.spotify.com/artist/7JzWHfANlJQ7aA9HRhUvKE), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Nightmares](https://open.spotify.com/album/6LnIoYdiEmKYH2SBuIlTMi) | 2:24 | 2025-10-27 | 2025-10-31 |
 | [Nightmares \(feat\. Bilal & Pharrell Williams\)](https://open.spotify.com/track/37HUD7Mr1zOIDW1QuOgaZH) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 4:50 | 2024-01-29 |  |
 | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT) | 3:16 | 2025-01-09 | 2025-04-12 |
 | [No Turning Back \(feat\. James Junior\)](https://open.spotify.com/track/53KjgbrsKcLqTW4cstj06g) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [James Junior](https://open.spotify.com/artist/3V4lVinkwdxxhWtT58RUkr) | [No Turning Back](https://open.spotify.com/album/5p1fhgKxJDSXZQy4u0r26a) | 4:14 | 2024-09-12 |  |

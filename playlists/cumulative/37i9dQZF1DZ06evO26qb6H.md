@@ -4,7 +4,7 @@
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 54 min
+62 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [White Tee](https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [White Tee](https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV) | 1:53 | 2025-08-24 |  |
 | [Winter's Over](https://open.spotify.com/track/1zKTAM10B7Z5ES2A0SsQ3W) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Winter's Over](https://open.spotify.com/album/5FiAdqj0b6uDckZ1vU8Xcq) | 2:30 | 2025-04-06 |  |
 | [Woah](https://open.spotify.com/track/77dMaxGB1fCfpkB08w7Gtg) | [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Up In Smoke](https://open.spotify.com/album/0lUJNmaeTCl9aFrkJhUfzC) | 1:48 | 2025-02-13 | 2025-03-18 |
-| [Yeah Yeah \(feat\. 50 Cent and Murda Beatz\)](https://open.spotify.com/track/6g2P7z0NPbiVF1orkYVtFr) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Yeah Yeah \(feat\. 50 Cent and Murda Beatz\)](https://open.spotify.com/album/2hiGavzPxodvstp41CauLv) | 2:59 | 2023-12-13 |  |
+| [Yeah Yeah \(feat\. 50 Cent and Murda Beatz\)](https://open.spotify.com/track/6g2P7z0NPbiVF1orkYVtFr) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Yeah Yeah \(feat\. 50 Cent and Murda Beatz\)](https://open.spotify.com/album/2hiGavzPxodvstp41CauLv) | 2:59 | 2023-12-13 | 2025-10-31 |
+| [Yeah Yeah \(feat\. 50 Cent and Murda Beatz\)](https://open.spotify.com/track/3OvNXm7fnRtTAwi1mYiotJ) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Don Season 2](https://open.spotify.com/album/1mWXVCy3lYeeMADCjUgVto) | 3:00 | 2025-10-31 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

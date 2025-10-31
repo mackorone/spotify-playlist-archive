@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-874 songs - 1 day 22 hr 59 min
+875 songs - 1 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Edith](https://open.spotify.com/track/4NKi0W95HaJJPjHzM6iZJK) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 3:39 | 2020-04-03 | 2020-05-19 |
 | [Elvis Song](https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:10 | 2021-08-27 | 2025-08-27 |
 | [Emotion](https://open.spotify.com/track/28dSLj1n6swhs5WhTG4fJ8) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [My Happy Place](https://open.spotify.com/album/3SZ3cbYeS9O8edtb6OEUgg) | 3:38 | 2019-08-27\* | 2019-11-11 |
+| [Energy](https://open.spotify.com/track/0GbdRFNuQlPentgBfca1lL) | [Fly My Pretties](https://open.spotify.com/artist/2JFUTar95Bbf8uNItQNWgL), [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Elemental \(The Complete Show\)](https://open.spotify.com/album/74PnXvOU2WcUR6YnqPkiXr) | 2:58 | 2025-10-31 |  |
 | [Eternal Flame](https://open.spotify.com/track/2BJmGtlUq5abmG0i64xSzD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Eternal Flame](https://open.spotify.com/album/1GGbxiDMS1IfClccAeXm9W) | 2:35 | 2019-12-16 | 2020-05-19 |
 | [Eulogy for the Living](https://open.spotify.com/track/2vpHQ1P7huPZvQvL9HyGHv) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Divine Intervention](https://open.spotify.com/album/78DTvdE1hoKG6Dm7qA7sFS) | 3:33 | 2021-10-02 | 2025-08-27 |
 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 | 2022-07-28 | 2025-08-27 |

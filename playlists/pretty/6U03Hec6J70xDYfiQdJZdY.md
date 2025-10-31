@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6U03Hec6J70xDYfiQdJZdY.md) - [plain]
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-[Topsify](https://open.spotify.com/user/topsify) - 21,288 likes - 78 songs - 4 hr 17 min
+[Topsify](https://open.spotify.com/user/topsify) - 21,289 likes - 79 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/6U03Hec6J70xDYfiQdJZdY.md) - [plain]
 | 76 | [Return To Le Berry](https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Return To Le Berry](https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM) | 2:45 |
 | 77 | [The youth in me](https://open.spotify.com/track/11mQ8chWxC1fIbtFw8uxgi) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [The youth in me](https://open.spotify.com/album/4OjN9UkitFZyAy9vIf6Ene) | 2:22 |
 | 78 | [Chopin: Nocturne No\. 20 in C\-Sharp Minor, Op\. Posth.](https://open.spotify.com/track/2MSgFefjK0T7Iwjvr3OKqV) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Chopin: Piano Sonata No\. 2, Nocturnes, Barcarolle & Scherzo](https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9) | 4:26 |
+| 79 | [Softly](https://open.spotify.com/track/2gPb7WvxnTlAWhYSrFo0xD) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Softly](https://open.spotify.com/album/4V87c5AmGlHma109jbwk95) | 2:10 |
 
-Snapshot ID: `AAABQ4AJCYRAogJnMkB6pbrk6FV1O10e`
+Snapshot ID: `AAABRHLfEpahPXuY7tsV5cu0GoeuwUNA`

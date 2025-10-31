@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 23679,
+  "num_followers": 23688,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Cherry Bomb + Instrumentals",
-        "url": "https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 180613,
-      "name": "FIND YOUR WINGS - Instrumental",
-      "url": "https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 449773,
       "name": "Maiysha (So Long) (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Cherry Bomb + Instrumentals",
+        "url": "https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 180613,
+      "name": "FIND YOUR WINGS - Instrumental",
+      "url": "https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Can't You See (feat. The Notorious B.I.G.)",
-      "url": "https://open.spotify.com/track/174UISK3l7VRbigEHxEev7"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 275320,
       "name": "Nakamarra (feat. Q-Tip)",
       "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Can't You See (feat. The Notorious B.I.G.)",
+      "url": "https://open.spotify.com/track/174UISK3l7VRbigEHxEev7"
     },
     {
       "added_at": "2022-10-01 16:00:00",

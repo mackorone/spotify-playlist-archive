@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 233619,
+  "num_followers": 233648,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
+        "name": "Singalong (Live)",
+        "url": "https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 123733,
+      "name": "How Great Thou Art - Live",
+      "url": "https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7"
+    },
+    {
+      "added_at": "2025-09-14 09:26:33",
+      "album": {
         "name": "United We Stand (Live)",
         "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 329320,
       "name": "None But Jesus - Live",
       "url": "https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm"
-    },
-    {
-      "added_at": "2025-09-14 09:26:33",
-      "album": {
-        "name": "Singalong (Live)",
-        "url": "https://open.spotify.com/album/3ykkVPx4b9PDfp6rUmC3n9"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 123733,
-      "name": "How Great Thou Art - Live",
-      "url": "https://open.spotify.com/track/31Pg9jmlYPwG5jCEBbRwE7"
     },
     {
       "added_at": "2025-09-14 09:26:33",
@@ -1351,26 +1351,18 @@
     {
       "added_at": "2025-09-14 09:26:33",
       "album": {
-        "name": "I Don't Have Much",
-        "url": "https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw"
+        "name": "Kingdom Culture Worship",
+        "url": "https://open.spotify.com/album/21us72bpT0drS6w5ieLMJk"
       },
       "artists": [
         {
-          "name": "Mission House",
-          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
-        },
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
         }
       ],
-      "duration_ms": 314800,
-      "name": "I Don't Have Much",
-      "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
+      "duration_ms": 475000,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/2hKuhm3kV2lxDjVzS8pqr5"
     }
   ],
   "unique_name": "Miracles",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: verifiziert",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: error",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -5349,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197589,
+      "name": "Die H\u00e4lfte von Nichts",
+      "url": "https://open.spotify.com/track/47u568kIrGNx00Wmp2YBS0"
+    },
+    {
+      "album": {
         "name": "Die Jungs",
         "url": "https://open.spotify.com/album/7h0wgWuhyE6MXWNR9aUlDD"
       },
@@ -5906,7 +5924,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 144830,
       "name": "Du bist wie",
       "url": "https://open.spotify.com/track/4RjV7KgAaGvujkv1rpifRU"
@@ -8416,7 +8434,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 161360,
       "name": "Fremde Lippen",
       "url": "https://open.spotify.com/track/3ueqaUQpyhNop6rnqZQ6vO"
@@ -10666,6 +10684,24 @@
       "duration_ms": 190062,
       "name": "hello sunshine",
       "url": "https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY"
+    },
+    {
+      "album": {
+        "name": "Hellwach",
+        "url": "https://open.spotify.com/album/30T6qOz7vydXafpeSbXXBb"
+      },
+      "artists": [
+        {
+          "name": "H\u00e6nsen",
+          "url": "https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122207,
+      "name": "Hellwach",
+      "url": "https://open.spotify.com/track/1CIoxcTZUAIyMY1auIyL6A"
     },
     {
       "album": {
@@ -16903,6 +16939,28 @@
     },
     {
       "album": {
+        "name": "nah am meer gebaut",
+        "url": "https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh"
+      },
+      "artists": [
+        {
+          "name": "Carlo5",
+          "url": "https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a"
+        },
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158201,
+      "name": "nah am meer gebaut",
+      "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
+    },
+    {
+      "album": {
         "name": "Namen in Beton",
         "url": "https://open.spotify.com/album/2niO8XaCFBD3hirpgDWSiC"
       },
@@ -22132,7 +22190,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 171455,
       "name": "Sp\u00e4tsommer",
       "url": "https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL"
@@ -23189,7 +23247,7 @@
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 321000,
+      "duration_ms": 315630,
       "name": "Therapieplatz",
       "url": "https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W"
     },

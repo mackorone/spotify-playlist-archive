@@ -1,13 +1,29 @@
 {
   "description": "The home of Canadian country music. Cover: Meghan Patrick",
-  "num_followers": 83389,
+  "num_followers": 83392,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFlk/PaZGEbuk7KbiYuaoCVBs/ix",
+  "snapshot_id": "AAAAAC4TT+muo2iUNAOFfZk+m7lwiE3O",
   "tracks": [
+    {
+      "added_at": "2025-10-31 00:01:28",
+      "album": {
+        "name": "Sometimes It Don't",
+        "url": "https://open.spotify.com/album/0MIECkZ8dgC88NARYDTkS2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 210182,
+      "name": "Sometimes It Don't",
+      "url": "https://open.spotify.com/track/1V6ImmKDA2wOXfcJdAr4DW"
+    },
     {
       "added_at": "2025-10-24 04:25:20",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 210215,
       "name": "Both Can Be True",
       "url": "https://open.spotify.com/track/18oBIkNn8F7ACUvppfjE8n"
+    },
+    {
+      "added_at": "2025-10-31 00:01:28",
+      "album": {
+        "name": "The Longer You Hold On",
+        "url": "https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "The Longer You Hold On",
+      "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
     },
     {
       "added_at": "2025-10-24 04:25:20",
@@ -71,6 +103,26 @@
       "duration_ms": 186003,
       "name": "Taillight This Town",
       "url": "https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY"
+    },
+    {
+      "added_at": "2025-10-31 00:01:28",
+      "album": {
+        "name": "Knew It All Along (With Nic D)",
+        "url": "https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 183321,
+      "name": "Knew It All Along (With Nic D)",
+      "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
     },
     {
       "added_at": "2025-10-24 04:25:20",

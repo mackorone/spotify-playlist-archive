@@ -4,7 +4,7 @@
 
 > 
 
-464 songs - 1 day 6 hr 43 min
+465 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,5 +472,6 @@
 | [You Need Me](https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [You Need Me](https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH) | 6:04 | 2022-08-16 | 2022-10-22 |
 | [Your Skin](https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Your Skin](https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR) | 4:06 | 2024-04-12 | 2024-07-06 |
 | [ZOOM](https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ZOOM](https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK) | 3:45 | 2024-03-04 | 2024-06-11 |
+| [Ørken Bloom](https://open.spotify.com/track/3VS7DvoAjzOSYNtH9m1cHF) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Mt\. Sava](https://open.spotify.com/album/5VnepAtiaWrnSJPfvoQ1xv) | 3:40 | 2025-10-30 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

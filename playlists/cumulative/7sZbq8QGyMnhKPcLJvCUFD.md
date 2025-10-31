@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-780 songs - 1 day 15 hr 4 min
+781 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Take You On](https://open.spotify.com/track/1YxGxw82Jn4jmwh2uhOhfC) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Take You On](https://open.spotify.com/album/1jZ9WnKYVayDX73mL0wSMm) | 2:59 | 2023-08-08 | 2024-01-04 |
 | [Taking It Slow](https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Taking It Slow](https://open.spotify.com/album/6ndnVrxgFH5zjvzjhIxA2r) | 2:40 | 2024-06-27 |  |
 | [Talk That Way](https://open.spotify.com/track/190BbArduRGJbvuZsdRWBh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Talk That Way](https://open.spotify.com/album/6dBRpROjaS4RQ7TzV9FU8F) | 3:16 | 2022-09-07 | 2023-04-28 |
+| [teamo](https://open.spotify.com/track/3vSa3awmVs6uJ5UsF2govU) | [c8o](https://open.spotify.com/artist/7BpMCntV4suo4ycD98VV6V) | [teamo](https://open.spotify.com/album/6I4YHk7PJmePPOn7W8JYjo) | 2:22 | 2025-10-30 |  |
 | [techno on my mind](https://open.spotify.com/track/0LzVIF2KHflGWw0IoICeJI) | [speedboys](https://open.spotify.com/artist/76hBRyDANNijjY0veLBwc9) | [techno on my mind](https://open.spotify.com/album/66mlUUwwYRyKmfbq7ib9g0) | 2:57 | 2023-07-28 | 2023-08-10 |
 | [tell me why](https://open.spotify.com/track/5NEQfRhATRpgW13dEM9hZ8) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [tell me why](https://open.spotify.com/album/5xkdPkP1kSyY8llMdnEUxn) | 2:42 | 2025-06-24 |  |
 | [Tension](https://open.spotify.com/track/3PqHYu8WVkYgzvXuuUPiAr) | [EXXO](https://open.spotify.com/artist/1BxtvQL2w4dn5CnbtkYsGb) | [Tension](https://open.spotify.com/album/4Dy2wATW6kv9fRrjiG5ljD) | 2:40 | 2023-01-11 | 2023-04-28 |

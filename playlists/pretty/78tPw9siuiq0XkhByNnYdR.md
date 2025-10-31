@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78tPw9siuiq0XkhByNnYdR.md) - [plain]
 
 > The ultimate throwback party playlist featuring some of the greatest RnB jams.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 165,431 likes - 71 songs - 4 hr 57 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 165,419 likes - 71 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 268830,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 289399,
       "name": "Baba Yangu, Baba Yangu - Live",
       "url": "https://open.spotify.com/track/1pRSMBzKzEbMiWMerX8hBm"
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "The 37th Psalm (Live at Emperors Palace)",
+        "url": "https://open.spotify.com/album/1qLHR4gDkXhHEkqnqYkoQ2"
+      },
+      "artists": [
+        {
+          "name": "Ncebakazi Msomi",
+          "url": "https://open.spotify.com/artist/51g9htpUzFdCV8GhceWMpX"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470674,
+      "name": "Bulelani/Oh Give Thanks (Psalm 107:1) - Live",
+      "url": "https://open.spotify.com/track/6KGpgs31vrR8VA5OflfrQW"
+    },
+    {
+      "album": {
         "name": "By Your Mercy",
         "url": "https://open.spotify.com/album/1CeMJ8F8hcDd2GsDA9inj0"
       },
@@ -702,6 +720,24 @@
       "duration_ms": 582283,
       "name": "Chanzo - Live",
       "url": "https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw"
+    },
+    {
+      "album": {
+        "name": "Come magnify the Lord with me (Live From The Song Of Sons Project)",
+        "url": "https://open.spotify.com/album/3brGWRyscnHJ5s6iIpfPc0"
+      },
+      "artists": [
+        {
+          "name": "David Nkennor",
+          "url": "https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469107,
+      "name": "Come magnify the Lord with me - Live From The Song Of Sons Project",
+      "url": "https://open.spotify.com/track/4e5E0QxY0ITohtAlJpRGjV"
     },
     {
       "album": {
@@ -3378,7 +3414,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 269253,
       "name": "Ntate Kemang - Live",
       "url": "https://open.spotify.com/track/6PeraA6oM2pDVWXRLbKx8t"
@@ -3952,6 +3988,46 @@
       "duration_ms": 668390,
       "name": "Rohi (The Good Shepherd) - Live",
       "url": "https://open.spotify.com/track/1YwwfzEsBdfjprEuKzy8tC"
+    },
+    {
+      "album": {
+        "name": "Ruach Elohim (Live)",
+        "url": "https://open.spotify.com/album/5YXzvcAelTlwLiOMpVnESh"
+      },
+      "artists": [
+        {
+          "name": "Faith Captain",
+          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637370,
+      "name": "Ruach Elohim - Live",
+      "url": "https://open.spotify.com/track/4QDlHBxytxVy2xih18S6Qy"
+    },
+    {
+      "album": {
+        "name": "Same God II (Live)",
+        "url": "https://open.spotify.com/album/5gzsOlYRoeQRVyoadlirOq"
+      },
+      "artists": [
+        {
+          "name": "Segun John",
+          "url": "https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593626,
+      "name": "Same God II - Live",
+      "url": "https://open.spotify.com/track/0ZfahO1B3nAo20FKUptVaa"
     },
     {
       "album": {
@@ -4654,7 +4730,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 417390,
       "name": "Victory - Live",
       "url": "https://open.spotify.com/track/22knwcDjpzGLrWb1QoMTq4"

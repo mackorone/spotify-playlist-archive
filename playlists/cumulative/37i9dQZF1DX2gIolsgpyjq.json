@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: ILMA",
+  "description": "The best new music by independent artists in the Nordics. Cover: Scout",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 230250,
       "name": "A Big World",
       "url": "https://open.spotify.com/track/2JfaMXGWkDGQ6fCdszPJU4"
@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
+    },
+    {
+      "album": {
         "name": "(I'm in the Palm of Your Hand)",
         "url": "https://open.spotify.com/album/3c3VTNSnKNJgVggGYkLReq"
       },
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 291834,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin"
@@ -5930,7 +5948,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 150416,
       "name": "Driving me crazy",
       "url": "https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG"
@@ -6532,6 +6550,24 @@
       "duration_ms": 183601,
       "name": "EVERYDAY IS A NEW BEGINNING",
       "url": "https://open.spotify.com/track/6KWyM51UniwFc6rx3u20Ye"
+    },
+    {
+      "album": {
+        "name": "Everyday State Of Mind",
+        "url": "https://open.spotify.com/album/1Kypw9kyBIEnQVDDeZX8oJ"
+      },
+      "artists": [
+        {
+          "name": "KATMORE",
+          "url": "https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "Everyday State Of Mind",
+      "url": "https://open.spotify.com/track/4yUW97TNHN31bHOhQ6e3gK"
     },
     {
       "album": {
@@ -8762,7 +8798,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 164040,
       "name": "greenhead",
       "url": "https://open.spotify.com/track/0mYRnYzWUUWn59tK0kRnoq"
@@ -10044,7 +10080,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 189486,
       "name": "How Does It Make U Feel",
       "url": "https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59"
@@ -10467,6 +10503,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "\u00d8yunn",
+          "url": "https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181739,
+      "name": "I Know U Can Do It",
+      "url": "https://open.spotify.com/track/2yBBWkH5lyOAuEGruZikX7"
+    },
+    {
+      "album": {
         "name": "I Know, It's for the Better",
         "url": "https://open.spotify.com/album/6Xs8sKWiysw54dko2unHhy"
       },
@@ -10774,6 +10828,28 @@
       "duration_ms": 172551,
       "name": "i will follow",
       "url": "https://open.spotify.com/track/1ujInKDzMOYwYMtT9RE9Ua"
+    },
+    {
+      "album": {
+        "name": "morning star",
+        "url": "https://open.spotify.com/album/0Gip1MdeuJhxTYnYYVwTAQ"
+      },
+      "artists": [
+        {
+          "name": "matias",
+          "url": "https://open.spotify.com/artist/32BV5tztivPr5o2JmFdUTI"
+        },
+        {
+          "name": "Elo Kay",
+          "url": "https://open.spotify.com/artist/0h8dF9rrN4yXup064UWjNP"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220009,
+      "name": "i will never let the sun",
+      "url": "https://open.spotify.com/track/531BPeocObnDPwVdZj03BW"
     },
     {
       "album": {
@@ -12608,7 +12684,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 330500,
       "name": "Lately (feat. Lune)",
       "url": "https://open.spotify.com/track/2wjWaQsqwxSXjy7n79QRRx"
@@ -12998,6 +13074,24 @@
       "duration_ms": 185000,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/7vFYy30fpndZSStay8ASzV"
+    },
+    {
+      "album": {
+        "name": "LET ME LET GO",
+        "url": "https://open.spotify.com/album/0snTHloAIyrGul3LqsslOO"
+      },
+      "artists": [
+        {
+          "name": "8lanco",
+          "url": "https://open.spotify.com/artist/63Qoo1vrRqWqEq4JC1dtZs"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220568,
+      "name": "LET ME LET GO",
+      "url": "https://open.spotify.com/track/5cruzr53LKnRQHPzqPSSGd"
     },
     {
       "album": {
@@ -13724,7 +13818,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 192310,
       "name": "lost and found",
       "url": "https://open.spotify.com/track/1bZ8UqS0XyG8oAZlL6VST3"
@@ -14176,7 +14270,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 187623,
       "name": "MAJOR CONTEST",
       "url": "https://open.spotify.com/track/3pCWAgzVZ84h10NLQpXQay"
@@ -14509,6 +14603,24 @@
     },
     {
       "album": {
+        "name": "memories.",
+        "url": "https://open.spotify.com/album/7H04PsdRYYsFVOpoM1rBNu"
+      },
+      "artists": [
+        {
+          "name": "Elvira Alfaro",
+          "url": "https://open.spotify.com/artist/2X935u573aID4nnG97RwE9"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222584,
+      "name": "memories.",
+      "url": "https://open.spotify.com/track/6FRKnDyHuZFXNtXODvqLpE"
+    },
+    {
+      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/3Vdt2qXTXG8S66bRe7oSx8"
       },
@@ -14792,6 +14904,24 @@
       "duration_ms": 164732,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/77QoFtwtVcS9j8r9KecFFY"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Miranda",
+      "url": "https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA"
     },
     {
       "album": {
@@ -16166,6 +16296,24 @@
       "duration_ms": 197804,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6OZlNpSS7XpKRNFL07vVu7"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/7cwEcqIqx1KYoQZE8w3TyK"
+      },
+      "artists": [
+        {
+          "name": "LUJAIN",
+          "url": "https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205797,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/0nAQRskXeYqJhPiqpvcjtc"
     },
     {
       "album": {
@@ -21378,7 +21526,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 138080,
       "name": "stick horse",
       "url": "https://open.spotify.com/track/1BZisExwFCmX2eTJwOsF4E"
@@ -21869,6 +22017,24 @@
     },
     {
       "album": {
+        "name": "Sunny Skies",
+        "url": "https://open.spotify.com/album/5EKlKX9tSpUopgkkP3z52k"
+      },
+      "artists": [
+        {
+          "name": "Debbie Sings",
+          "url": "https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220045,
+      "name": "Sunny Skies",
+      "url": "https://open.spotify.com/track/4OO8sPtbrgkYmlUxzSXlo2"
+    },
+    {
+      "album": {
         "name": "Sunwarmed",
         "url": "https://open.spotify.com/album/59VwIN9sQruODzORauynKX"
       },
@@ -22302,7 +22468,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 200679,
       "name": "Technology",
       "url": "https://open.spotify.com/track/1yQbR35MXXMhF1GpCK8IQI"
@@ -22544,6 +22710,24 @@
       "duration_ms": 136946,
       "name": "The Basement",
       "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
+    },
+    {
+      "album": {
+        "name": "while i'm here",
+        "url": "https://open.spotify.com/album/6wXTMhn4RTCC4kqbi1ox5Z"
+      },
+      "artists": [
+        {
+          "name": "miint",
+          "url": "https://open.spotify.com/artist/5PKRj9m1a4XoPSNDmT2oJp"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146926,
+      "name": "the end",
+      "url": "https://open.spotify.com/track/5qX4Pk4CLO05NEJliJQERA"
     },
     {
       "album": {
@@ -25013,6 +25197,24 @@
     },
     {
       "album": {
+        "name": "Where's My Mind",
+        "url": "https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236747,
+      "name": "Where's My Mind",
+      "url": "https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu"
+    },
+    {
+      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/4ZDggeovpNBQaeHY40fJKZ"
       },
@@ -25688,7 +25890,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 159056,
       "name": "You Don't Wanna Be Mine",
       "url": "https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno"
@@ -25916,7 +26118,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 230400,
       "name": "Younger Self",
       "url": "https://open.spotify.com/track/0uyWyRYclJVmkI4uqwsljH"

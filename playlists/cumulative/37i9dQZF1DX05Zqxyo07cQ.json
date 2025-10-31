@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/2GRYrVnMsBf6hqrK9ExqoY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Envoy",
+          "url": "https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158035,
+      "name": "Chronology",
+      "url": "https://open.spotify.com/track/31ne58AShJD0B4osFf15eY"
+    },
+    {
+      "album": {
         "name": "Planetas",
         "url": "https://open.spotify.com/album/51pSIpoYAmWbiUArilRnSg"
       },
@@ -6842,7 +6860,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 220767,
       "name": "Infinis",
       "url": "https://open.spotify.com/track/5Dh4kP53BEnLe55I3jnBE7"
@@ -7764,6 +7782,24 @@
       "duration_ms": 166061,
       "name": "Lonely House",
       "url": "https://open.spotify.com/track/37ae1nlyrk8DUXemDLt9GL"
+    },
+    {
+      "album": {
+        "name": "Long Drive",
+        "url": "https://open.spotify.com/album/1RxAO4XIbiJP73YRf45x79"
+      },
+      "artists": [
+        {
+          "name": "Noah Moon",
+          "url": "https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150290,
+      "name": "Long Drive",
+      "url": "https://open.spotify.com/track/2sWJQnlTi2YMNNtzcsqFxC"
     },
     {
       "album": {
@@ -9002,7 +9038,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 168714,
       "name": "Neutrino",
       "url": "https://open.spotify.com/track/0ToCRAE0hwR8OVwIJgWBN0"
@@ -12210,7 +12246,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 169000,
       "name": "Soft Breeze",
       "url": "https://open.spotify.com/track/5HKT3UNQww3WEBJi5kVgzG"
@@ -14994,6 +15030,24 @@
       "duration_ms": 206769,
       "name": "Whispering Wind",
       "url": "https://open.spotify.com/track/34OU5mx0WLo18srNdK3mr0"
+    },
+    {
+      "album": {
+        "name": "White Mist",
+        "url": "https://open.spotify.com/album/5Pm9Q853Bhwe3qyHal42i0"
+      },
+      "artists": [
+        {
+          "name": "Tristan Axvall",
+          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "White Mist",
+      "url": "https://open.spotify.com/track/2y5hF6IeXqWkCfPbR4dVP3"
     },
     {
       "album": {

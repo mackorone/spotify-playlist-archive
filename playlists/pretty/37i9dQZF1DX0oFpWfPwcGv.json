@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 71302,
+  "num_followers": 71301,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "I Love The Nightlife",
+        "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
+      },
+      "artists": [
+        {
+          "name": "Alicia Bridges",
+          "url": "https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "I Love The Nightlife (Disco 'Round)",
+      "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "I Love The Nightlife",
-        "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
-      },
-      "artists": [
-        {
-          "name": "Alicia Bridges",
-          "url": "https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "I Love The Nightlife (Disco 'Round)",
-      "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
     },
     {
       "added_at": "2024-09-07 16:02:33",

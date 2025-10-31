@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,816 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,861 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 65 | [River \(It's Coming on Christmas\) \[Arr\. Lawson for Harp\]](https://open.spotify.com/track/2CvdacDle8YjsjXKLa3cQa) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [River \(It's Coming on Christmas\) \[Arr\. Lawson for Harp\]](https://open.spotify.com/album/5UjvjzZ3y7TTnSSVVmTZoQ) | 4:59 |
 | 66 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 |
 | 67 | [We Three Kings](https://open.spotify.com/track/3wE6NC3et1CbZjcvWIQXUp) | [Robin Meloy Goldsby](https://open.spotify.com/artist/2ZS0eOeBhk5GgOetMqP7xb) | [December](https://open.spotify.com/album/4x04WzKXt5q1tqUf5Eais1) | 4:22 |
-| 68 | [River](https://open.spotify.com/track/1ZemH3BLNCtIoGEfQVvSbR) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chloe Hearts Christmas](https://open.spotify.com/album/1htpG1vi3iNXgtqyl3YPig) | 3:27 |
+| 68 | [River](https://open.spotify.com/track/1ZemH3BLNCtIoGEfQVvSbR) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [Chloe Hearts Christmas](https://open.spotify.com/album/1htpG1vi3iNXgtqyl3YPig) | 3:27 |
 | 69 | [Largo From Winter](https://open.spotify.com/track/6qNxvuKuLORieVbQeKauYe) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Largo From Winter](https://open.spotify.com/album/060kov0LwToXCEdgQsYbac) | 3:48 |
 | 70 | [Christmas Letter](https://open.spotify.com/track/3oFDysBX3TkBDmy5cZuxJP) | [Cellist Yesle](https://open.spotify.com/artist/1EPr2hpZSt3xNbeXEyBEbj) | [Beautiful Cello](https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn) | 3:48 |
 | 71 | [The First Christmas](https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The First Christmas](https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg) | 2:47 |

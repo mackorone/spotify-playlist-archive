@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica per un autunno non proprio felice (\u00cbgo in cover)",
+  "description": "musica per un autunno non proprio felice (tommi e moth in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -346,6 +346,24 @@
       "duration_ms": 135849,
       "name": "12OZ. TO FREEDOM / saluti dal 2019",
       "url": "https://open.spotify.com/track/7JmTX8y6FcZiXVDYmL7XVw"
+    },
+    {
+      "album": {
+        "name": "15min",
+        "url": "https://open.spotify.com/album/2na248u9eZDlzMQ4woK6AT"
+      },
+      "artists": [
+        {
+          "name": "5070",
+          "url": "https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169137,
+      "name": "15min",
+      "url": "https://open.spotify.com/track/1tLKUZA9aT99GhvUj3MieH"
     },
     {
       "album": {
@@ -2286,6 +2304,24 @@
       "duration_ms": 176675,
       "name": "anni interi",
       "url": "https://open.spotify.com/track/4JqjVcGh2ZOGZCKSxgpRHx"
+    },
+    {
+      "album": {
+        "name": "ANNI LUCE",
+        "url": "https://open.spotify.com/album/7rlvct1CCjRsEiuZiJqQXV"
+      },
+      "artists": [
+        {
+          "name": "dentrokappa",
+          "url": "https://open.spotify.com/artist/24cG5G5HaHhX3pmVucqXng"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "ANNI LUCE",
+      "url": "https://open.spotify.com/track/0wIaGZQCRTYCZIByeC4JOi"
     },
     {
       "album": {
@@ -8413,6 +8449,28 @@
     },
     {
       "album": {
+        "name": "DRUGS",
+        "url": "https://open.spotify.com/album/6ZprUXOpg2q28l2DYviSzh"
+      },
+      "artists": [
+        {
+          "name": "Charliebrxwn",
+          "url": "https://open.spotify.com/artist/449o5Clw275Yk3I9mbpLAl"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153931,
+      "name": "DRUGS",
+      "url": "https://open.spotify.com/track/1EZ4ID0wjGpsHcPq27J5oE"
+    },
+    {
+      "album": {
         "name": "DUEMILADUE",
         "url": "https://open.spotify.com/album/4vDxZ4y2OsrKbr4LMebir7"
       },
@@ -12064,7 +12122,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 130531,
       "name": "ho Perso la Voce",
       "url": "https://open.spotify.com/track/4pIJx8MxUHnG2PUmdDC7n4"
@@ -17429,6 +17487,28 @@
     },
     {
       "album": {
+        "name": "dalle costole",
+        "url": "https://open.spotify.com/album/6OZiRp1faxls8F1aygNJ0z"
+      },
+      "artists": [
+        {
+          "name": "tommi",
+          "url": "https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd"
+        },
+        {
+          "name": "moth.",
+          "url": "https://open.spotify.com/artist/7IVTJLKDkABhe1gNoqgSEr"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "nebbia",
+      "url": "https://open.spotify.com/track/4BF8jS6NcLGHSMVxkCF5wS"
+    },
+    {
+      "album": {
         "name": "NEI MIEI BAGGY",
         "url": "https://open.spotify.com/album/3N76zBP7HY3REllWU1dgKB"
       },
@@ -17440,7 +17520,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 139122,
       "name": "NEI MIEI BAGGY",
       "url": "https://open.spotify.com/track/0Z05qanrc8NlgmdSz3m6yY"
@@ -19529,6 +19609,24 @@
     },
     {
       "album": {
+        "name": "panna sPray",
+        "url": "https://open.spotify.com/album/3iFYncDX6fAuf8C0hxG6BL"
+      },
+      "artists": [
+        {
+          "name": "Piccolo",
+          "url": "https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167029,
+      "name": "panna sPray",
+      "url": "https://open.spotify.com/track/7h3eRZRld4KfTOJytwulFv"
+    },
+    {
+      "album": {
         "name": "papercuts",
         "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
       },
@@ -20160,7 +20258,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 177230,
       "name": "Pezzi Di Vetro",
       "url": "https://open.spotify.com/track/6wlbzDiOGwFQZvHbvjY5XR"
@@ -24453,6 +24551,24 @@
     },
     {
       "album": {
+        "name": "SKINWALKER",
+        "url": "https://open.spotify.com/album/0ezU2YY0y4nFmxjVWnwWvY"
+      },
+      "artists": [
+        {
+          "name": "Your Grave",
+          "url": "https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140126,
+      "name": "SKINWALKER",
+      "url": "https://open.spotify.com/track/6A4zUWwVWfVG358ayPE8Gd"
+    },
+    {
+      "album": {
         "name": "Skullcrusher",
         "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
       },
@@ -26340,6 +26456,24 @@
       "duration_ms": 127950,
       "name": "STUPiDO",
       "url": "https://open.spotify.com/track/6WF6q9BW8OwjqIVEnQX2Vx"
+    },
+    {
+      "album": {
+        "name": "appassir\u00f2 (?)",
+        "url": "https://open.spotify.com/album/19KFDL1E5G9o8HDaDHECnY"
+      },
+      "artists": [
+        {
+          "name": "VERSAILLES",
+          "url": "https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "stupido e facile",
+      "url": "https://open.spotify.com/track/3ZZcoJMcgDGAp6vKFYRYHU"
     },
     {
       "album": {

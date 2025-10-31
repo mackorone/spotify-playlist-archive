@@ -4,7 +4,7 @@
 
 > 🔥🎉
 
-108 songs - 4 hr 43 min
+110 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 | 2025-07-17 |  |
 | [SINGLE \- Remix](https://open.spotify.com/track/6zZQ6eb8qIXl3xahcen5U8) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [SINGLE \(Remix\)](https://open.spotify.com/album/7IIgcyNYPS9YmVGF2EkV62) | 2:09 | 2025-07-17 |  |
 | [Snelle Jelle](https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Snelle Jelle](https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH) | 2:16 | 2025-08-28 |  |
+| [Spookstad \- NewTone Remix](https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [Spookstad \(NewTone Remix\)](https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ) | 5:13 | 2025-10-30 |  |
 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 | 2025-07-17 |  |
 | [Sukkel](https://open.spotify.com/track/7zYGIaIvLBtrrEfJxTuAUS) | [Bix](https://open.spotify.com/artist/7KbMCOvCe7lYFcRzdd9BJn), [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Sukkel](https://open.spotify.com/album/1Fq0937kbvelxVOvwebiXA) | 2:35 | 2025-07-17 | 2025-08-05 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-07-17 | 2025-09-26 |
@@ -103,6 +104,7 @@
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-07-17 |  |
 | [VAKANTIE](https://open.spotify.com/track/2hfPz8nEzVZ10Oxh6pYpCg) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B) | [VAKANTIE](https://open.spotify.com/album/6Mr626FzsXOb4lMsiOSZSV) | 1:50 | 2025-08-04 | 2025-08-26 |
 | [Vieze Dingen](https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Vieze Dingen](https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg) | 2:11 | 2025-07-17 | 2025-10-17 |
+| [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK) | 2:34 | 2025-10-30 |  |
 | [Wackelkontakt](https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB) | 2:48 | 2025-07-17 |  |
 | [Waka](https://open.spotify.com/track/1h3NOjMsuH3ij4rF5TeQTX) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Waka](https://open.spotify.com/album/1rZmQSUcTYNOFOGwwt2hkJ) | 2:40 | 2025-07-17 |  |
 | [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 | 2025-07-17 |  |

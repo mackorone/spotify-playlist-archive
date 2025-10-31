@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Dave, Kano",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Knucks",
   "name": "Rap UK",
   "tracks": [
     {
@@ -11112,7 +11112,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 137584,
       "name": "Dem Bwoy",
       "url": "https://open.spotify.com/track/4kKZY4vsqQ4hABOWUGb1QR"
@@ -24994,6 +24994,24 @@
       "duration_ms": 240363,
       "name": "Martin's Sofa",
       "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "MASQUERADE",
+      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
     },
     {
       "album": {
@@ -44590,6 +44608,10 @@
         {
           "name": "D-Block Europe",
           "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
       "date_added": "2025-10-02",

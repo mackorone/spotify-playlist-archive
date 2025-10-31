@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,104 songs - 2 day 13 hr 47 min
+1,105 songs - 2 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [Moment \- Worlds Version](https://open.spotify.com/track/7wfquD5DrEBAqqZEXJoJa2) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V), [Isaac App](https://open.spotify.com/artist/2OSFdgs18suoiLJWRcqiEy) | [Moment \(Worlds Version\)](https://open.spotify.com/album/7jLueD1XaPlGgP6NSogvXx) | 3:07 | 2022-08-01 | 2022-10-19 |
 | [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 | 2024-06-06 | 2024-08-29 |
 | [Momentum](https://open.spotify.com/track/5BeE7O0DuaWZKo3TOly1qz) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Momentum](https://open.spotify.com/album/372JR44CZxw21zfaM9UeFa) | 3:32 | 2025-02-04 | 2025-05-01 |
+| [Momentum](https://open.spotify.com/track/3uvVRyy1yGLn7j3b5IzF1P) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Momentum](https://open.spotify.com/album/5EiAG62doKVGzLr0s6HF3T) | 3:00 | 2025-10-30 |  |
 | [Money](https://open.spotify.com/track/7MorE45c2IBxEgksN84Fl2) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Money](https://open.spotify.com/album/2II1KH1QTYVhSLdfubOaVV) | 3:07 | 2025-01-16 | 2025-04-11 |
 | [Money Moves](https://open.spotify.com/track/3suSF65zOkTbdxe4Rqq4fl) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [Clique / Money Moves](https://open.spotify.com/album/0e6cA2frdBLzNMXHqGRjvX) | 2:43 | 2023-11-01 | 2024-02-15 |
 | [Monster](https://open.spotify.com/track/1qhfJLtwPoXN34TbQJegeA) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Monster](https://open.spotify.com/album/4wfYav7zgRz4hZMqP1t2O0) | 3:04 | 2022-09-15 | 2022-11-12 |

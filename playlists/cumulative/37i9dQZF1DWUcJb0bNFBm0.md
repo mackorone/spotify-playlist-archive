@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
-307 songs - 21 hr 8 min
+309 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Citylights and Moonlight](https://open.spotify.com/track/3qHYCSTTxPEbJkFZA5oFWe) | [Yüksen Buyers House](https://open.spotify.com/artist/02lJCDR0cRulPubuzOUt0l) | [Citylights and Moonlight](https://open.spotify.com/album/7LNsLMz985YhgFQZmGBSjJ) | 4:39 | 2025-09-19 | 2025-10-10 |
 | [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 4:32 | 2025-10-09 |  |
 | [Cold Memories](https://open.spotify.com/track/0FOvxRu8yGJDZCTnq2URja) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Cold Memories](https://open.spotify.com/album/5YTJMJamSw4YCZ2Iq4dXAS) | 3:58 | 2025-07-10 |  |
+| [Coming Color](https://open.spotify.com/track/0aIhAZTRZlVBPXmqGdLgTz) | [softsurf](https://open.spotify.com/artist/1vPcqBxbcs5XnSQ0EXPS7N) | [Gazing at a Mind](https://open.spotify.com/album/0vjCRWQj4PFbW9NTSUeo0y) | 3:14 | 2025-10-30 |  |
 | [Copeland Heights](https://open.spotify.com/track/3mcFfeXrk3MjYK1vv2ggeq) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [Sun Blanket](https://open.spotify.com/album/4ZTrujnFuaY7IMct5EX4Dd) | 5:17 | 2025-10-16 |  |
 | [Coronado](https://open.spotify.com/track/2gr2JVEnyf8n6vYgGCGg6g) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3RCdzzYn8jt5Mok5cf5NaE) | 3:19 | 2025-10-09 |  |
 | [Counting the Days](https://open.spotify.com/track/33Dyqa1eiiiQbpnBALSdwf) | [spacedog spacecat](https://open.spotify.com/artist/1A44P1fBFCagfLtDp7MT0O) | [Counting the Days](https://open.spotify.com/album/5g2DGU2fA5y0VH2h8Len2S) | 3:10 | 2024-06-27 | 2025-08-01 |
@@ -277,6 +278,7 @@
 | [washed up](https://open.spotify.com/track/3UOFNS7r9oRXEC84iEQF6D) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC), [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [washed up](https://open.spotify.com/album/0v8fYvE8ZOG18q1nrF0H9e) | 2:53 | 2025-03-20 |  |
 | [Wassup Rockers](https://open.spotify.com/track/1AOGe5TsKzahu1sgC1Zlce) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Wassup Rockers](https://open.spotify.com/album/5QYwmZRMhVHpwcB0UYMlBf) | 2:30 | 2025-10-23 |  |
 | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/track/2zAPVUH3KupXkv2IoTkGYY) | [The Wallflower Dept.](https://open.spotify.com/artist/1ykM1fXFLT1d83l7OAw1Yv), [Ananda Yala](https://open.spotify.com/artist/79gwnl8jXCn78lRxTGD0wL) | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/album/2am7oyB1E4rdwVzMSWiohy) | 4:11 | 2024-08-05 | 2024-12-05 |
+| [watermark](https://open.spotify.com/track/3B4Gx0i7whEmg41n30YcIq) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT) | [slow food](https://open.spotify.com/album/04DfHu8ikFwauBSOVeYFZd) | 3:31 | 2025-10-30 |  |
 | [Waters](https://open.spotify.com/track/5SPZ1OEGQDATZ2DvJ24Ofp) | [KREY](https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy) | [Waters](https://open.spotify.com/album/753AxIHX0QpH1WdRvuFxPF) | 3:44 | 2025-07-31 |  |
 | [We Shine at Night](https://open.spotify.com/track/30UtvytdKLQjvLZesEaR3v) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/4PbTT54u3bIOnYKjOIvn5c) | 6:27 | 2024-06-27 | 2025-08-01 |
 | [Whale blows rainbow](https://open.spotify.com/track/56CUFtGxKjUpOLmU9qxy5O) | [Tyrell](https://open.spotify.com/artist/6TjVmU32VkhCqd3kbqQ0jg) | [Whale blows rainbow](https://open.spotify.com/album/0blsoeRWMeUWMlFt3O7pNN) | 6:06 | 2024-06-27 | 2024-08-09 |

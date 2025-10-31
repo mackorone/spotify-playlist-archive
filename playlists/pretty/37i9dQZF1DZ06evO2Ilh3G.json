@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 118643,
+  "num_followers": 118654,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAABKoNjtYJzNHDGOCELrzdY7",
+  "snapshot_id": "aQFZAAAAAAB0IRM0Z1IRniJvVi9BRhO9",
   "tracks": [
     {
       "added_at": null,
@@ -911,6 +911,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "Disrespectful",
+      "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 228431,
       "name": "Dubai Shit",
       "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "Disrespectful",
-      "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
     },
     {
       "added_at": null,
@@ -1047,22 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIARI:OFFSET",
-        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "History",
-      "url": "https://open.spotify.com/track/1TlN08I8jGQ1K5KRIIuvJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 147986,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIARI:OFFSET",
+        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "History",
+      "url": "https://open.spotify.com/track/1TlN08I8jGQ1K5KRIIuvJt"
     }
   ],
   "unique_name": "This Is Offset",

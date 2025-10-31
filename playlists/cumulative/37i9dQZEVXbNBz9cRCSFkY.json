@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -13901,6 +13901,24 @@
     },
     {
       "album": {
+        "name": "No More Doubt",
+        "url": "https://open.spotify.com/album/7nRnVLbfj5ZAhK0xsZzIwo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Speaks",
+          "url": "https://open.spotify.com/artist/0AvtzKTYleNqdJXoZasQWG"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274480,
+      "name": "Passenger Seat",
+      "url": "https://open.spotify.com/track/2PTzfXh5Ut3hjRrWGyafz6"
+    },
+    {
+      "album": {
         "name": "Patutunguhan",
         "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
       },
@@ -19998,7 +20016,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 207349,
       "name": "Wi$h Li$t",
       "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"

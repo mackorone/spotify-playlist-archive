@@ -928,7 +928,7 @@
           "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
         }
       ],
-      "duration_ms": 247880,
+      "duration_ms": 247887,
       "name": "\u30ad\u30e9\u30ad\u30e9\u306e\u7070",
       "url": "https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX"
     },
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-10-21 15:00:16",
       "album": {
-        "name": "\u541b\u306b\u805e\u304d\u305f\u3044\u3072\u3068\u3064\u306e\u3053\u3068",
-        "url": "https://open.spotify.com/album/5bTD1CKUC4jEO0rg6Byp2J"
-      },
-      "artists": [
-        {
-          "name": "SHISHAMO",
-          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
-        }
-      ],
-      "duration_ms": 326449,
-      "name": "\u541b\u306b\u805e\u304d\u305f\u3044\u3072\u3068\u3064\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/6PAgNC3nJKQny6wHoFtN03"
-    },
-    {
-      "added_at": "2025-10-21 15:00:16",
-      "album": {
         "name": "\u66d6\u6627\u306aBEACH",
         "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 159000,
       "name": "\u66d6\u6627\u306aBEACH",
       "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+    },
+    {
+      "added_at": "2025-10-21 15:00:16",
+      "album": {
+        "name": "\u541b\u306b\u805e\u304d\u305f\u3044\u3072\u3068\u3064\u306e\u3053\u3068",
+        "url": "https://open.spotify.com/album/5bTD1CKUC4jEO0rg6Byp2J"
+      },
+      "artists": [
+        {
+          "name": "SHISHAMO",
+          "url": "https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv"
+        }
+      ],
+      "duration_ms": 326449,
+      "name": "\u541b\u306b\u805e\u304d\u305f\u3044\u3072\u3068\u3064\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/6PAgNC3nJKQny6wHoFtN03"
     },
     {
       "added_at": "2025-10-21 15:00:16",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-10-21 15:00:16",
       "album": {
+        "name": "\u30e9\u30a4\u30a2\u30fc",
+        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
+      },
+      "artists": [
+        {
+          "name": "Kucci",
+          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "\u30e9\u30a4\u30a2\u30fc",
+      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
+    },
+    {
+      "added_at": "2025-10-21 15:00:16",
+      "album": {
         "name": "handmade",
         "url": "https://open.spotify.com/album/04lBkRbV1tnWD42ZV0ZBTi"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 195680,
       "name": "\u30ca\u30a4\u30b9\u30a2\u30a4\u30c7\u30a3\u30a2\uff01",
       "url": "https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu"
-    },
-    {
-      "added_at": "2025-10-21 15:00:16",
-      "album": {
-        "name": "\u30e9\u30a4\u30a2\u30fc",
-        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
-      },
-      "artists": [
-        {
-          "name": "Kucci",
-          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\u30e9\u30a4\u30a2\u30fc",
-      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
     },
     {
       "added_at": "2025-10-21 15:00:16",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-10-21 15:00:16",
       "album": {
+        "name": "SCOOOOOP",
+        "url": "https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "duration_ms": 231606,
+      "name": "Present Perfect",
+      "url": "https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX"
+    },
+    {
+      "added_at": "2025-10-21 15:00:16",
+      "album": {
         "name": "\u307c\u304f\u306e\u30d9\u30ac",
         "url": "https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x"
       },
@@ -1168,25 +1184,9 @@
           "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
         }
       ],
-      "duration_ms": 212346,
+      "duration_ms": 212324,
       "name": "\u307c\u304f\u306e\u30d9\u30ac",
       "url": "https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x"
-    },
-    {
-      "added_at": "2025-10-21 15:00:16",
-      "album": {
-        "name": "Zen",
-        "url": "https://open.spotify.com/album/71vAsqLRt39WSKfA4eJYba"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "duration_ms": 214337,
-      "name": "Zen",
-      "url": "https://open.spotify.com/track/1xmVwW1NP4Hygz2GqTeS14"
     },
     {
       "added_at": "2025-10-21 15:00:16",

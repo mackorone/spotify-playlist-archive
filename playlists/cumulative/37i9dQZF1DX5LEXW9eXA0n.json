@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Choi Yu Ree(\ucd5c\uc720\ub9ac)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Jung Seung Hwan(\uc815\uc2b9\ud658)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -12893,6 +12893,24 @@
     },
     {
       "album": {
+        "name": "Last Light",
+        "url": "https://open.spotify.com/album/4gEqGE3PT2Ae7ciTJH8YSn"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Last Light",
+      "url": "https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI"
+    },
+    {
+      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/1al5wXHrHop6h0ZXKBvnO4"
       },
@@ -18795,6 +18813,24 @@
     },
     {
       "album": {
+        "name": "Called Love",
+        "url": "https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/6sgQEjL4Ii2ycEFoTWI5NQ"
+    },
+    {
+      "album": {
         "name": "Presentiment",
         "url": "https://open.spotify.com/album/39szLv79bxbtePUKOPAqZD"
       },
@@ -19286,6 +19322,28 @@
       "duration_ms": 252813,
       "name": "Reminisce about All",
       "url": "https://open.spotify.com/track/6nwnFPPSJLXOib8xvUfC3r"
+    },
+    {
+      "album": {
+        "name": "Reno (feat. Colde)",
+        "url": "https://open.spotify.com/album/1Odn0BcmtVhQswzJc4kuPi"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Reno - feat. Colde",
+      "url": "https://open.spotify.com/track/0kPhwAgoX0tB2lIO3zmRik"
     },
     {
       "album": {

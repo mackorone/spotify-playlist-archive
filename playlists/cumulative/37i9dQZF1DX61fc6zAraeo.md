@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-249 songs - 11 hr 26 min
+250 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 | 2024-02-29 |  |
 | [Let You Do This \(with Buy Now\)](https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Let You Do This](https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg) | 3:22 | 2024-02-07 | 2024-03-08 |
 | [Let's Call It Love](https://open.spotify.com/track/07TKDT070EpnvDSS0yhZdD) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Let's Call It Love](https://open.spotify.com/album/7fq2mXAXaSfgnvuc9CqiMR) | 2:20 | 2024-02-07 | 2024-03-07 |
+| [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 | 2025-10-30 |  |
 | [Lifted](https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Lifted](https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF) | 2:39 | 2024-12-03 | 2025-07-18 |
 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-05-07 |  |
 | [Lights Out](https://open.spotify.com/track/1fg2EDQRqMdrkDZE0JS2Wu) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Lights Out](https://open.spotify.com/album/6Y7JwDOKKOZPjvcLVQxoDc) | 3:00 | 2024-03-06 | 2024-07-27 |
@@ -229,7 +230,7 @@
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2025-03-27 |  |
 | [Tsunami](https://open.spotify.com/track/7Datvb4oPN6dHpfIYWgJii) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Tsunami](https://open.spotify.com/album/4N5GXjk84sniBmSGfwwgzP) | 2:16 | 2024-03-06 | 2024-05-23 |
 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 | 2025-03-27 |  |
-| [Underwater](https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Underwater](https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2) | 3:01 | 2024-03-21 |  |
+| [Underwater](https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Underwater](https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2) | 3:01 | 2024-03-21 | 2025-10-31 |
 | [V I B R A T I O N \(w/ Shift K3Y\)](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 | 2024-02-07 | 2024-07-05 |
 | [Waste My Time](https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Waste My Time](https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY) | 2:33 | 2024-02-07 | 2025-02-24 |
 | [Waste Your Love](https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Waste Your Love](https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd) | 2:47 | 2024-02-07 |  |

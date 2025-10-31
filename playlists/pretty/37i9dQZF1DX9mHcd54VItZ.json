@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Sophia Frank & Erin Elliot",
-  "num_followers": 25248,
+  "num_followers": 25281,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
+        "name": "TREAT HIM LIKE A BABY",
+        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "TREAT HIM LIKE A BABY",
+      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 210520,
       "name": "Dagdronk",
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
-        "name": "TREAT HIM LIKE A BABY",
-        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "TREAT HIM LIKE A BABY",
-      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
       "added_at": "2025-09-25 22:00:20",
@@ -601,24 +601,20 @@
       "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
-      "added_at": "2025-08-29 08:21:07",
+      "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "Hou Weer Moed",
-        "url": "https://open.spotify.com/album/6UJ9O5EIWbwqHDsDy9Ck8N"
+        "name": "Lego",
+        "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
       },
       "artists": [
         {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        },
-        {
-          "name": "Emile Swiegers",
-          "url": "https://open.spotify.com/artist/1QgprmdltHPfJ6FjdXvz2i"
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
         }
       ],
-      "duration_ms": 246291,
-      "name": "Hou Weer Moed",
-      "url": "https://open.spotify.com/track/34pyJmYIP3R26RuFvZ0ISo"
+      "duration_ms": 151329,
+      "name": "Lego",
+      "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
     },
     {
       "added_at": "2025-10-17 07:23:36",
@@ -637,20 +633,24 @@
       "url": "https://open.spotify.com/track/6YqIL8y2yetofQGOKbaDJ6"
     },
     {
-      "added_at": "2025-08-07 22:00:52",
+      "added_at": "2025-08-29 08:21:07",
       "album": {
-        "name": "Lego",
-        "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
+        "name": "Hou Weer Moed",
+        "url": "https://open.spotify.com/album/6UJ9O5EIWbwqHDsDy9Ck8N"
       },
       "artists": [
         {
-          "name": "Sonder Onderbroeke",
-          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        },
+        {
+          "name": "Emile Swiegers",
+          "url": "https://open.spotify.com/artist/1QgprmdltHPfJ6FjdXvz2i"
         }
       ],
-      "duration_ms": 151329,
-      "name": "Lego",
-      "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
+      "duration_ms": 246291,
+      "name": "Hou Weer Moed",
+      "url": "https://open.spotify.com/track/34pyJmYIP3R26RuFvZ0ISo"
     },
     {
       "added_at": "2025-08-29 08:21:07",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "Nou Toer Ons!",
-        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
-      },
-      "artists": [
-        {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Doen Sy Bes",
-      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
         "name": "Ultimate Zoid",
         "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
+        "name": "Nou Toer Ons!",
+        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
+      },
+      "artists": [
+        {
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Doen Sy Bes",
+      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
     }
   ],
   "unique_name": "SA Rock ",

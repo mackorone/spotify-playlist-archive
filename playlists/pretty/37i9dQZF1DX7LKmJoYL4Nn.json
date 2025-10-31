@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61644,
+  "num_followers": 61657,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -767,46 +767,6 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
-        "name": "\u6d41\u661f\u968a\u300cWILDLAND SURVIVOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/6UIrDDImQK1LXEhAvIkD8s"
-      },
-      "artists": [
-        {
-          "name": "\u6d41\u661f\u968a",
-          "url": "https://open.spotify.com/artist/67XI85b3PsLJyqfAqJe1Yp"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 211956,
-      "name": "WILDLAND SURVIVOR",
-      "url": "https://open.spotify.com/track/2cGM68GNqjGdUQDGlzuYuD"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
-      },
-      "artists": [
-        {
-          "name": "PIKAPIKA",
-          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "\u77ac\u304dSign\u2606",
-      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
         "name": "\u300c\u4eca\u65e5\u3082\u63a8\u3057\u304c\u63a8\u3057\u3067\u5c0a\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/694p5vvxMd6Fpf2BwdHKCD"
       },
@@ -879,6 +839,46 @@
       "duration_ms": 449210,
       "name": "\u4eca\u65e5\u3082\u63a8\u3057\u304c\u63a8\u3057\u3067\u5c0a\u3044",
       "url": "https://open.spotify.com/track/5S8D0cPG9I8hbJtZo2kyoD"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
+        "name": "\u300c\u77ac\u304dSign\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/22KZVcTQ9TclS3O8zRnlW7"
+      },
+      "artists": [
+        {
+          "name": "PIKAPIKA",
+          "url": "https://open.spotify.com/artist/3ArSSkmEcGsVIeGZqVyTRa"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "\u77ac\u304dSign\u2606",
+      "url": "https://open.spotify.com/track/01wK8qdoiA2FlYbSYQin0Y"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
+        "name": "\u6d41\u661f\u968a\u300cWILDLAND SURVIVOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/6UIrDDImQK1LXEhAvIkD8s"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u661f\u968a",
+          "url": "https://open.spotify.com/artist/67XI85b3PsLJyqfAqJe1Yp"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 211956,
+      "name": "WILDLAND SURVIVOR",
+      "url": "https://open.spotify.com/track/2cGM68GNqjGdUQDGlzuYuD"
     },
     {
       "added_at": "2025-10-28 15:00:03",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Trickstar",
+        "url": "https://open.spotify.com/album/0KVxcYIee4ypG2hmdFCPxH"
+      },
+      "artists": [
+        {
+          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
+          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "DIAMOND SUMMER",
+      "url": "https://open.spotify.com/track/4sZUYZdwICGvuDTQeM8ur0"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "ALKALOID \uff06 Double Face\u300c\u591c\u306b\u99c6\u3051\u308b\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 07",
         "url": "https://open.spotify.com/album/3rYOi7jld0iaQhBKB3Y796"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 260495,
       "name": "\u591c\u306b\u99c6\u3051\u308b",
       "url": "https://open.spotify.com/track/5blci0P2JzxqqzdlReqHwT"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
-        "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30eb\u30bf\u30fc\u30c9/\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3 \u62d3\u4e5f)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001 \u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)",
-          "url": "https://open.spotify.com/artist/2OL27gFXdNWKe6yfAdcvhO"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Twilight Pentagram",
-      "url": "https://open.spotify.com/track/5931MmDFddLnEmn5ggVCmr"
     },
     {
       "added_at": "2025-10-28 15:00:03",
@@ -1451,6 +1451,22 @@
       "duration_ms": 251573,
       "name": "Fight for Judge",
       "url": "https://open.spotify.com/track/0REh9JzsqKLZ2enJil2RG7"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
+        "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30eb\u30bf\u30fc\u30c9/\u6714\u9593 \u96f6(CV.\u5897\u7530 \u4fca\u6a39)\u3001\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3 \u62d3\u4e5f)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001 \u658e\u5bae \u5b97(CV.\u9ad8\u6a4b \u5e83\u6a39)\u3001\u9006\u5148 \u590f\u76ee(CV.\u91ce\u5cf6 \u5065\u5150)",
+          "url": "https://open.spotify.com/artist/2OL27gFXdNWKe6yfAdcvhO"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Twilight Pentagram",
+      "url": "https://open.spotify.com/track/5931MmDFddLnEmn5ggVCmr"
     },
     {
       "added_at": "2025-10-28 15:00:03",
@@ -1499,22 +1515,6 @@
       "duration_ms": 266033,
       "name": "Crystal Pleasure",
       "url": "https://open.spotify.com/track/7ogLBjP4g2LLiUSAX7x5hi"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "Eden \uff06 Trickstar \u300c(RE)PLAY\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 COVER SONG SERIES 05",
-        "url": "https://open.spotify.com/album/1ONZES9UjlepSH86dqCUcx"
-      },
-      "artists": [
-        {
-          "name": "Eden & Trickstar/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8 \u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f \u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742 \u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530 \u96c4\u99ac)\u3001\u6c37\u9df9 \u5317\u6597(CV.\u524d\u91ce \u667a\u662d)\u3001\u660e\u661f \u30b9\u30d0\u30eb(CV.\u67ff\u539f \u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd \u7965\u592a\u90ce)\u3001\u8863\u66f4 \u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
-          "url": "https://open.spotify.com/artist/4bsav98vA14A7gDX23V7Tt"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "(RE)PLAY",
-      "url": "https://open.spotify.com/track/2MOko0JhlAwtn8dwMYGoHq"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

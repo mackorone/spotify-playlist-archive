@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: HEAVENSGATE
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,301 likes - 113 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,328 likes - 113 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

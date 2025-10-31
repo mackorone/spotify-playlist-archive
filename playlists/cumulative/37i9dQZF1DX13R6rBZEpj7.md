@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-361 songs - 21 hr 9 min
+363 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,13 +141,13 @@
 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 | 2023-01-24 | 2024-04-19 |
 | [Gully](https://open.spotify.com/track/4XpseHcAaQbfUugViy1oav) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/540DGYXSZ8c1MOMlxug0QQ) | 3:30 | 2022-10-28 | 2023-03-04 |
 | [Gunshot!](https://open.spotify.com/track/1jP8GU1OKlwU1XUuIK2Vvm) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Gunshot!](https://open.spotify.com/album/3tI804XAYNNUOq8mxXdSpu) | 2:55 | 2024-11-14 | 2025-05-16 |
-| [Hahaha](https://open.spotify.com/track/3aBYOCcNWDCSwvaOB4k3nJ) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [Sam Silver](https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0) | [Hahaha](https://open.spotify.com/album/4uec8gsfL5WgMMs6TZ6wal) | 2:11 | 2025-09-18 |  |
+| [Hahaha](https://open.spotify.com/track/3aBYOCcNWDCSwvaOB4k3nJ) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [Sam Silver](https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0) | [Hahaha](https://open.spotify.com/album/4uec8gsfL5WgMMs6TZ6wal) | 2:11 | 2025-09-18 | 2025-10-31 |
 | [Hard Baller](https://open.spotify.com/track/6qjIc90us2mKdFNEr6qdZo) | [Biohzrd](https://open.spotify.com/artist/7Jhx0C8MWbjdZdcraPbOSc) | [Hard Baller](https://open.spotify.com/album/2B51oNisAJxOsYTXhjb9fI) | 3:37 | 2022-05-13 | 2022-10-29 |
 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 | 2022-04-15 | 2023-05-19 |
 | [Hard Hitters](https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl) | 3:52 | 2023-04-04 | 2024-03-14 |
 | [Haters](https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Haters](https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk) | 2:58 | 2024-07-05 | 2025-04-09 |
 | [Haunter](https://open.spotify.com/track/0IptiiymmfXv3j2NSCHlrm) | [Dr.Oscillator](https://open.spotify.com/artist/0rMuvMAwCY7ciR8ZL0HZyV) | [Cuckoo EP](https://open.spotify.com/album/7Joe9vMJE6545YJxhC0Mww) | 3:33 | 2022-05-20 | 2022-06-08 |
-| [Head's Gone](https://open.spotify.com/track/3bZ30vr6E19I2p1RPHAsFJ) | [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Head's Gone](https://open.spotify.com/album/5DSYVYwmhBUHTfoe4CyBnc) | 2:28 | 2025-07-24 |  |
+| [Head's Gone](https://open.spotify.com/track/3bZ30vr6E19I2p1RPHAsFJ) | [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Head's Gone](https://open.spotify.com/album/5DSYVYwmhBUHTfoe4CyBnc) | 2:28 | 2025-07-24 | 2025-10-31 |
 | [Heartbeat](https://open.spotify.com/track/6Oix0EalSiYYUBOO6xhAaZ) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC) | [Heartbeat](https://open.spotify.com/album/2zY0mxdrK2mopZ69Id9pQ9) | 3:35 | 2022-04-15 | 2022-07-23 |
 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 | 2023-09-22 |  |
 | [Higher](https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Higher](https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj) | 2:33 | 2025-08-28 |  |
@@ -166,6 +166,7 @@
 | [I Want You Back](https://open.spotify.com/track/2bnpB2SaoYdnVCAxQbSAuO) | [Mr Virgo](https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU) | [I Want You Back](https://open.spotify.com/album/43TzjTz1lUfZ0J6hPDyu0g) | 2:59 | 2022-04-15 | 2022-07-28 |
 | [I Would Like \- Chad Harrison Remix](https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO), [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [I Would Like \(Chad Harrison Remix\)](https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s) | 3:07 | 2025-04-17 |  |
 | [I Would Like \- J Fado Remix](https://open.spotify.com/track/36re6sfRZDkHynDCqE4pJN) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [I Would Like \(J Fado Remix\)](https://open.spotify.com/album/7gb3aTSQyXWTRYJRBfuJKu) | 2:18 | 2025-10-02 |  |
+| [I'm Not Deep in Love](https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [I'm Not Deep in Love](https://open.spotify.com/album/28ahczD4GBPIeeAd44DZ4H) | 2:33 | 2025-10-31 |  |
 | [Icon](https://open.spotify.com/track/3FzRX9CTMgu2Qn1wHE6ygo) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/2kwFtcaZUVlEK3liC4PywN) | 2:37 | 2022-04-15 | 2022-07-27 |
 | [Icon](https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [SK](https://open.spotify.com/artist/2NrLFUM3oJeTAs8ZX6gFoc) | [Icon](https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En) | 2:37 | 2023-04-04 | 2023-12-22 |
 | [If You Could Be My Sweetheart](https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [If You Could Be My Sweetheart](https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt) | 4:06 | 2025-04-17 |  |
@@ -369,5 +370,6 @@
 | [Wonder](https://open.spotify.com/track/6r3u99JfzeSrmnyHX5IB4A) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Wonder](https://open.spotify.com/album/0v1if7RJVBk2vjj2X9uMhx) | 4:27 | 2022-04-15 | 2022-06-01 |
 | [Wrong Answers Only](https://open.spotify.com/track/4aHi701FKuFYj7QSeSEftV) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wrong Answers Only](https://open.spotify.com/album/1mXBGKqlNCIglHpT3AbhN2) | 3:05 | 2022-04-15 | 2023-12-22 |
 | [Y'all Ready For Dis](https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Y'all Ready For Dis](https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv) | 3:17 | 2023-08-10 |  |
+| [You Could Be the One](https://open.spotify.com/track/0EFuNMasYGeMi4nYIWod4K) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Zibba](https://open.spotify.com/artist/5QiPfBDBHOGEdB8yCjNiEk) | [You Could Be the One](https://open.spotify.com/album/1DeVzwejnOXKBr8v4UQr4i) | 3:01 | 2025-10-31 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

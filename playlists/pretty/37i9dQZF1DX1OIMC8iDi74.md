@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Hex Cougar
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,495 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,464 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 49 | [CAPE CANAVERAL](https://open.spotify.com/track/66eqfWqjPxHmiA5pmu87Kv) | [KILLMATTER](https://open.spotify.com/artist/7xG6JYqkApsbZBCeKs7cJ5) | [CAPE CANAVERAL](https://open.spotify.com/album/561gjz1WBfKFkwgEgXfNUK) | 3:42 |
 | 50 | [Don't Stop](https://open.spotify.com/track/7kFVSmxMA3ma38E5CcMATM) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Zoso](https://open.spotify.com/artist/5TdtbE5NmNWmRK1Q41ClDK) | [Trippy Bee Vol\. 2](https://open.spotify.com/album/45NxdbwZZM5mJKCZoXQoPV) | 3:05 |
 | 51 | [THRASH \(PARTY STARTER\)](https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:11 |
-| 52 | [Cyanide](https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [MINDFULL](https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb) | 3:06 |
-| 53 | [Brain Tickler](https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Brain Tickler](https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg) | 2:24 |
+| 52 | [Brain Tickler](https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Brain Tickler](https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg) | 2:24 |
+| 53 | [Cyanide](https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [MINDFULL](https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb) | 3:06 |
 | 54 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 |
 | 55 | [onlybmyself](https://open.spotify.com/track/6KRw2IFzgxe2PxNjAnLyPt) | [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [onlybmyself](https://open.spotify.com/album/2j3hCU44IsCKSTVb7jlzvJ) | 3:06 |
 | 56 | [REDLINE DASH](https://open.spotify.com/track/2EiGLWYEH6x79f9ir0VEah) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 1:16 |

@@ -1372,6 +1372,24 @@
     {
       "album": {
         "name": "All Night Long",
+        "url": "https://open.spotify.com/album/17Sur55miZ3REBHnebKf1o"
+      },
+      "artists": [
+        {
+          "name": "ALPHI",
+          "url": "https://open.spotify.com/artist/6TUS92w9xO24LS2EzuRR2M"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171166,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/5bgXJer9SQUZKhvg45BSyE"
+    },
+    {
+      "album": {
+        "name": "All Night Long",
         "url": "https://open.spotify.com/album/1EwtgUalTOJACZTnxX0mO5"
       },
       "artists": [
@@ -49818,16 +49836,16 @@
       },
       "artists": [
         {
-          "name": "Invaderz",
-          "url": "https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD"
-        },
-        {
           "name": "Opgekonkerd",
           "url": "https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN"
         },
         {
           "name": "EQUAL2",
           "url": "https://open.spotify.com/artist/3gghhafHb61InwF1vnntja"
+        },
+        {
+          "name": "Invaderz",
+          "url": "https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD"
         }
       ],
       "date_added": "2025-10-18",

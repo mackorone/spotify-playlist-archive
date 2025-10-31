@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Châu Dương
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,371 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,375 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 74 | [Nhành Hoa Tím](https://open.spotify.com/track/5vGO7Tg3hcriIp6fdrhhlu) | [Try92](https://open.spotify.com/artist/3TAL7g0EaT0Az8Xr2Upv1b) | [Nhành Hoa Tím](https://open.spotify.com/album/286IpQju6r3wGPxx53Ywsh) | 4:17 |
 | 75 | [Không Thèm Lối Thoát](https://open.spotify.com/track/0IqqoVeuhFqTyUEcKWGyO4) | [HAEJUN](https://open.spotify.com/artist/5SfDgbeflZC8KQsIT86EMS) | [Không Thèm Lối Thoát](https://open.spotify.com/album/3pxtyasNo1C6A6RQYPdfns) | 2:29 |
 
-Snapshot ID: `AAAAAERREIoQMUJb/u/AGlEMNcmiF8pL`
+Snapshot ID: `AAAAAMPY3aKhLhsm+IbvdCVJggcQwAvW`

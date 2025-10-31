@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: Te\-G Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,846 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,850 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Jee Karda](https://open.spotify.com/track/57nxP1bAvXFlXNzZbnoi6T) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jee Karda](https://open.spotify.com/album/18qqjcST3ZppvlqntUduoJ) | 2:55 |
 | 50 | [Tan Machde Aa](https://open.spotify.com/track/29XCepTQ0x03YlqJzqLMDo) | [Meet Gill](https://open.spotify.com/artist/6iQQjo5jipZzr6ziZr22cp), [Mahla Kot](https://open.spotify.com/artist/5kBnS6WReOcjbXrei12di6), [SARDAR SIDHU](https://open.spotify.com/artist/0VWwIN5eZgRulKMCo3cSBF) | [Tan Machde Aa](https://open.spotify.com/album/1ER4zTocsFsOdeeaqL4yF0) | 2:18 |
 
-Snapshot ID: `AAAAADou1fNRHHj3JrH7DduA++EgnPvF`
+Snapshot ID: `AAAAACnRp1YeOzaWogo/qO6nhTBkSFn/`

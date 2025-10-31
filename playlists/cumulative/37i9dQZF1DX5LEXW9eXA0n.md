@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Choi Yu Ree\(최유리\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Jung Seung Hwan\(정승환\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,582 songs - 4 day 6 hr 43 min
+1,585 songs - 4 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,6 +706,7 @@
 | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/track/5tsFpHn90YwfYdfKGb0UnJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/album/3SHirl0IeccHW7cpPZXuLU) | 3:25 | 2022-03-24 | 2022-04-21 |
 | [Korean Ballad](https://open.spotify.com/track/6dXt2gwVdumUj1pFEyGg6w) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:43 | 2023-02-28 | 2023-06-23 |
 | [La Vie Rosée](https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 5:14 | 2024-04-26 | 2024-08-11 |
+| [Last Light](https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Last Light](https://open.spotify.com/album/4gEqGE3PT2Ae7ciTJH8YSn) | 4:04 | 2025-10-30 |  |
 | [Last Love](https://open.spotify.com/track/7y3tkXIxe9rv106X0Aouek) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Last Love](https://open.spotify.com/album/1al5wXHrHop6h0ZXKBvnO4) | 4:18 | 2025-10-22 |  |
 | [Last Love](https://open.spotify.com/track/3IIpNE0OGmMThMQO4uK3Fd) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Last Love](https://open.spotify.com/album/5YqWy3QakMPwKDt5ntfDN6) | 4:04 | 2023-01-20 | 2023-02-25 |
 | [last night](https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [last night](https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR) | 3:41 | 2025-05-12 | 2025-08-19 |
@@ -1025,6 +1026,7 @@
 | [poem in the wind](https://open.spotify.com/track/1lkRLQ8xIDxyj8oU8jXqDz) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [poem in the wind](https://open.spotify.com/album/3aCRKfh7AWFsjHKg3FqjaQ) | 3:57 | 2024-01-08 | 2024-04-03 |
 | [POWER OF LOVE](https://open.spotify.com/track/37aWSOZ4Oihn2bfMiD5neP) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [POWER OF LOVE](https://open.spotify.com/album/2wKTTgsFgEdOKiyFEOlbNs) | 3:41 | 2022-05-04 | 2022-05-17 |
 | [Prayer](https://open.spotify.com/track/2u9QZoVx2664QDOeefNG9U) | [GEMSTONE](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Prayer](https://open.spotify.com/album/4JAoW9GUMR1tpVix8kwsvg) | 4:48 | 2024-06-17 | 2024-07-12 |
+| [Prayer](https://open.spotify.com/track/6sgQEjL4Ii2ycEFoTWI5NQ) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Called Love](https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD) | 3:46 | 2025-10-30 |  |
 | [Presentiment](https://open.spotify.com/track/73vxAVH2iJfEofp8gKfh55) | [Son June Hyuk](https://open.spotify.com/artist/1FK7wpPPGDbPiPiM5lx5Re) | [Presentiment](https://open.spotify.com/album/39szLv79bxbtePUKOPAqZD) | 3:48 | 2023-07-17 | 2023-10-17 |
 | [Press](https://open.spotify.com/track/0M6VybCyWscrHKcf8ZIzgU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Press \(re;code Episode Ⅸ\)](https://open.spotify.com/album/4yOOZtIGZaX2uEBXUjl5s9) | 3:57 | 2022-01-26 | 2022-02-11 |
 | [Pretend](https://open.spotify.com/track/27e5QwFSRklIY7gfS1U6JP) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [The potato lab, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/05Q2jbEdlPcu1La61MH4tD) | 3:20 | 2025-03-31 | 2025-06-23 |
@@ -1052,6 +1054,7 @@
 | [Remember Me](https://open.spotify.com/track/6TJ6kw1jj1quL6pD8ghuTe) | [Hwagok\-dong green frog](https://open.spotify.com/artist/6JsXtC4vDIRzB4LXkrsWkL) | [Remember Me](https://open.spotify.com/album/4S3PPm1h7kb3tPejkalFmG) | 3:36 | 2024-06-11 | 2024-10-17 |
 | [Reminisce](https://open.spotify.com/track/4rawC7AAxKfUdDB75IVTXu) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Reminisce](https://open.spotify.com/album/6FJeK4tNoD7IOBVdSOr3Zq) | 4:04 | 2023-01-10 | 2023-02-25 |
 | [Reminisce about All](https://open.spotify.com/track/6nwnFPPSJLXOib8xvUfC3r) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 4:12 | 2022-03-31 | 2022-04-18 |
+| [Reno \- feat\. Colde](https://open.spotify.com/track/0kPhwAgoX0tB2lIO3zmRik) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Reno \(feat\. Colde\)](https://open.spotify.com/album/1Odn0BcmtVhQswzJc4kuPi) | 3:07 | 2025-10-30 |  |
 | [Repeatedly](https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Penthouse2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo) | 3:37 | 2022-01-17 | 2022-06-11 |
 | [Repetition \(Feat\. Shin Jong Wook\)](https://open.spotify.com/track/6pX5HtlcSumP8XgablXLbV) | [Noh Hyunwoo](https://open.spotify.com/artist/2UvVidJJv6g17OMmlpS39z), [신종욱](https://open.spotify.com/artist/3cxWvvIqZGNyWsgmdi0wsf) | [Repetition](https://open.spotify.com/album/7grs7APT3ALK9vNT3r2GdD) | 3:53 | 2022-03-31 | 2022-04-21 |
 | [RETURN](https://open.spotify.com/track/2LBE64f36ImF4tjAWM9dSD) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [REBORN](https://open.spotify.com/album/0hKzdrns5SkzuqV1ALfkZj) | 4:07 | 2024-06-04 | 2024-09-24 |

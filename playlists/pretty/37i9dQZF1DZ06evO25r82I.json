@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48630,
+  "num_followers": 48631,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAABrMp9XwVtrDhXMd/w5VtGh",
+  "snapshot_id": "aQFZAAAAAADUFlStK++cUlNrF54p3QDU",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Here It Goes",
+      "url": "https://open.spotify.com/track/0BXtDzijBaHpqlBkMOIJFl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Integrity Blues",
         "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 215706,
       "name": "Sure and Certain",
       "url": "https://open.spotify.com/track/48nnqkmwmjZ7ohyShSyKAm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chase This Light",
-        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Electable (Give It Up)",
-      "url": "https://open.spotify.com/track/6YF86Myf8ganLrq9QtCg0E"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 198506,
-      "name": "Heart Is Hard To Find",
-      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+      "duration_ms": 227733,
+      "name": "Movielike",
+      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Movielike",
-      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,

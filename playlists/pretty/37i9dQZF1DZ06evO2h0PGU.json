@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 52948,
+  "num_followers": 52956,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAAAoA4goHpjX6MvzmtG2gnPs",
+  "snapshot_id": "aQFZAAAAAACdkgOmYiWVxuG8nRGJK0oh",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 288546,
-      "name": "Despair",
-      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
+      "duration_ms": 250133,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 250133,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
+      "duration_ms": 288546,
+      "name": "Despair",
+      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Is EP",
-        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Kiss, Kiss",
-      "url": "https://open.spotify.com/track/1mhPIy7YFRXlWTqH2aLdVr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 171426,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Kiss, Kiss",
+      "url": "https://open.spotify.com/track/1mhPIy7YFRXlWTqH2aLdVr"
     },
     {
       "added_at": null,

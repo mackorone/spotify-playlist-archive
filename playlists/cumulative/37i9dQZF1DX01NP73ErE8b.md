@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Irama in cover
+> I brani italiani che abbiamo on repeat  🔁  Charlie Charles in cover
 
-422 songs - 21 hr 32 min
+424 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 | 2025-05-01 |  |
 | [Se t'innamori muori](https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Se t'innamori muori](https://open.spotify.com/album/0dmBgbxifl9HI6bTHoFwx8) | 3:10 | 2025-02-12 | 2025-05-16 |
 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 | 2025-09-11 |  |
+| [SENTIMENTALE \(feat\. Levante\)](https://open.spotify.com/track/2HlhALqwfp1umQn56FEGZO) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4), [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [SENTIMENTALE \(feat\. Levante\)](https://open.spotify.com/album/7c8aytE48LeoyyOTMxPTZE) | 2:47 | 2025-10-30 |  |
 | [Senza Una Stupida Storia](https://open.spotify.com/track/0603pYalC545IuB3RgWXPf) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Senza Una Stupida Storia](https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ) | 2:59 | 2025-09-11 |  |
 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 | 2025-05-29 |  |
 | [Sesso debole](https://open.spotify.com/track/1CBFC74w4ePcv2qFQuHbea) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Sesso debole](https://open.spotify.com/album/4BYcXoyTgkXKkB9ihVznMF) | 3:15 | 2025-06-12 | 2025-08-29 |
@@ -384,6 +385,7 @@
 | [T'aggio fatto vedè](https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI) | [ROMANTICA](https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv) | 3:04 | 2024-07-01 | 2024-07-19 |
 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 | 2024-10-03 | 2025-02-04 |
 | [TAKI](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TAKI](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 | 2025-05-22 | 2025-08-29 |
+| [TELEPATICAMENTE](https://open.spotify.com/track/2mIUdUGgBX58poEIN8lrJr) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [TELEPATICAMENTE](https://open.spotify.com/album/2N8g6dAH7YvaEaMKWfbEdF) | 2:45 | 2025-10-30 |  |
 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 | 2025-02-20 | 2025-03-28 |
 | [Ti Fidavi \(feat\. Capo Plaza\)](https://open.spotify.com/track/4FdRVbXlQTdmfDCQPNZYVp) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [rosa dei venti](https://open.spotify.com/album/1hrC8WmoDqNoIm9wY7vTYj) | 2:11 | 2025-03-20 | 2025-05-23 |
 | [Ti manca l’aria](https://open.spotify.com/track/2x1AF8mR82VKEci1bSZ5gI) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Ti manca l’aria](https://open.spotify.com/album/56b0zsCOziJ9ujXcqs93Jy) | 3:12 | 2025-04-03 | 2025-10-25 |

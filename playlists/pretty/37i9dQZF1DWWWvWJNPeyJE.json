@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 354202,
+  "num_followers": 354287,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "H.E.R. Volume 2",
-        "url": "https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Late Night Drive",
         "url": "https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 252371,
       "name": "Late Night Drive",
       "url": "https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "H.E.R. Volume 2",
+        "url": "https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Lights On",
+      "url": "https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu"
     },
     {
       "added_at": "2024-09-02 12:32:28",

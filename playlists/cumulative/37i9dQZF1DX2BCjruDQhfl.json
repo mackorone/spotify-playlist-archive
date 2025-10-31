@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 195372,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/2MpKxOCS3Axuw1pWGpg6Z1"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 171428,
       "name": "dichterbij (feat. Jayh)",
       "url": "https://open.spotify.com/track/5qBomtjM1hBlPFmWfBKkuV"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 157284,
       "name": "Diva (feat. Keizer)",
       "url": "https://open.spotify.com/track/4LWVGc1lPUwcTemuhx9fn9"
@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Lovin Lovin",
+        "url": "https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135638,
+      "name": "Lovin Lovin",
+      "url": "https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt"
+    },
+    {
+      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/6Ty7FKJeL2TyYDccUl9JyC"
       },
@@ -2052,6 +2070,24 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
+    },
+    {
+      "album": {
+        "name": "deims deims deims",
+        "url": "https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH"
+      },
+      "artists": [
+        {
+          "name": "kans",
+          "url": "https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "m\u2019n type",
+      "url": "https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB"
     },
     {
       "album": {
@@ -2614,6 +2650,24 @@
       "duration_ms": 220969,
       "name": "SAL\u00c9",
       "url": "https://open.spotify.com/track/3s9bioRl6YOwHBPuSsFnO8"
+    },
+    {
+      "album": {
+        "name": "Scorpio",
+        "url": "https://open.spotify.com/album/3JNtKX3ZoQ49e0WYufgDuq"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148775,
+      "name": "Scorpio",
+      "url": "https://open.spotify.com/track/4R4mobLX8HZljQdwjKIJXw"
     },
     {
       "album": {

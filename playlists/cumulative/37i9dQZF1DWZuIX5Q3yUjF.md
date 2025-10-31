@@ -2,15 +2,16 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> KIMONO in cover della playlist dell'R&B italiano 🫀
+> juni in cover della playlist dell'R&B italiano 🫀
 
-920 songs - 1 day 21 hr 27 min
+922 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["solo a guardarti mi annoio"](https://open.spotify.com/track/2BBDcNUVBewdGGkKOsLkzQ) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o) | ["solo a guardarti mi annoio"](https://open.spotify.com/album/5GLqhxGjKrb6LJcN2l9sOq) | 2:32 | 2025-06-26 | 2025-10-10 |
 | [\#1](https://open.spotify.com/track/2LlCEVOkJQyPQgy4GMOGbR) | [Gimmi](https://open.spotify.com/artist/0qPwpz51T4mzD9VC5yXvt9), [Artu10000000](https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h) | [RNBBOY](https://open.spotify.com/album/3hd9GR8CkFrnSd6jNhAsMn) | 2:48 | 2025-02-20 | 2025-06-13 |
 | ['A Passion](https://open.spotify.com/track/4ym7q5FBvi0hBpDLmdRrCA) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | ['A Passion](https://open.spotify.com/album/1TfcZ8uJZ9nZXiLBXknhBx) | 2:56 | 2024-12-12 | 2025-05-23 |
+| [+ fuori](https://open.spotify.com/track/4DU9uwudZcIQ7E2MtBXtbr) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C) | [+ fuori](https://open.spotify.com/album/3GoJS4Mpdr26Ou1vUkqqCv) | 2:40 | 2025-10-30 |  |
 | [1 secondo](https://open.spotify.com/track/04hZAHzIMGiFfnJiXFm2d5) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [1 secondo](https://open.spotify.com/album/7MTeZ7wPxGZF0zkcfNcL9p) | 2:15 | 2024-10-10 | 2025-04-18 |
 | [1000 Persone](https://open.spotify.com/track/2BoMWdcJU065H5iTnv59km) | [YOF](https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4), [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [1000 Persone](https://open.spotify.com/album/0cemiyQDsB9mhgt1kwIv4O) | 3:16 | 2025-10-23 |  |
 | [11:11](https://open.spotify.com/track/6vAWdsz8QiRgX8rVrfr6Vo) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [11:11](https://open.spotify.com/album/0ErGOW5ewcPle8WY9AEIU9) | 3:04 | 2023-06-15 | 2023-06-30 |
@@ -122,7 +123,7 @@
 | [Bruciami](https://open.spotify.com/track/3FdKyrHYU1MQVoKhyaPuVH) | [PABA](https://open.spotify.com/artist/1FXgKZygyeJ7sgiBygQ6gP) | [Bruciami](https://open.spotify.com/album/0dHoTlUchft7epHmdGdQsm) | 2:41 | 2023-06-22 | 2023-07-21 |
 | [Bugia](https://open.spotify.com/track/6Bw24711z7zzY57vlfRVrF) | [Stefano Pitasi](https://open.spotify.com/artist/0ozNQ8pTOdO2W2YBJpy9FD) | [Bugia](https://open.spotify.com/album/2fvBz6sntImVs5qGgNlsUq) | 2:54 | 2025-03-20 | 2025-06-13 |
 | [Buio \(al sicuro\)](https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Buio \(al sicuro\)](https://open.spotify.com/album/5e0vV5aXeDX55cMrwSXoA5) | 2:12 | 2024-01-18 | 2024-03-21 |
-| [BYE](https://open.spotify.com/track/33O4jaFPlQyRuiqZnm3FlQ) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [BYE](https://open.spotify.com/album/0y9jFLFxOsQJGzUnQrxUIF) | 3:02 | 2025-08-28 |  |
+| [BYE](https://open.spotify.com/track/33O4jaFPlQyRuiqZnm3FlQ) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [BYE](https://open.spotify.com/album/0y9jFLFxOsQJGzUnQrxUIF) | 3:02 | 2025-08-28 | 2025-10-31 |
 | [bye](https://open.spotify.com/track/73vaEVHisIS9lPpMWRH5HF) | [The 24 Project](https://open.spotify.com/artist/6ASG7r5gSsBTNJcXtsUOft), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [bye](https://open.spotify.com/album/3daw0XQDmosXPgbeUIQMh2) | 2:47 | 2023-01-19 | 2023-03-10 |
 | [C'AMMISCAMM ANCORA](https://open.spotify.com/track/4li77JVuCpb2Ggp2m6GBKK) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI) | [C'AMMISCAMM ANCORA](https://open.spotify.com/album/2LjYdhVS7Ho0e2kxb3hQmW) | 2:22 | 2024-09-12 | 2025-01-10 |
 | [C'est La Vie](https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S) | [KIM](https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL) | [C'est La Vie](https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR) | 1:30 | 2022-08-05 | 2022-10-14 |
@@ -655,6 +656,7 @@
 | [PIANETI \(feat\. Anna Carol, Caffellatte & Close Listen\)](https://open.spotify.com/track/3j3OwsJhMCmDLqlMl0LoWq) | [le medie](https://open.spotify.com/artist/3HcymkoePbCYw6KWA2yZph), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov), [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [PIANETI \(feat\. Anna Carol, Caffellatte & Close Listen\)](https://open.spotify.com/album/4azXeodCoDoC5pHkmdAo42) | 3:35 | 2025-06-05 |  |
 | [Pic Nic](https://open.spotify.com/track/6awMgaOPQTE9fKpdXPjOUO) | [Alessandra Tumolillo](https://open.spotify.com/artist/0EMZSYF5FmVWRRtANDOuZt) | [Pic Nic](https://open.spotify.com/album/5QqQhhDElbQi9ceUofwYYY) | 3:35 | 2024-04-15 | 2024-04-26 |
 | [piedixterra](https://open.spotify.com/track/3pjRBRPgpLonKovRM3IEKe) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [piedixterra](https://open.spotify.com/album/1Idmo4y713JrQhFTNaWzEb) | 3:18 | 2023-03-02 | 2023-06-23 |
+| [Pita Gyros](https://open.spotify.com/track/6Ii2DpNzwECTaOMhjTPnOu) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Pita Gyros](https://open.spotify.com/album/6ONKQXieAFJMMCGfMwA9UR) | 2:40 | 2025-10-30 |  |
 | [Player \(feat\. Joshua & Silent Bob\)](https://open.spotify.com/track/2tXuKyeDQuCqZsOn5LQEsm) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [BISTRO!](https://open.spotify.com/album/4TyK5OpO6xqUqnQNccWpSd) | 2:28 | 2025-09-18 |  |
 | [Plenilunio](https://open.spotify.com/track/6IZBQhT4RNSTreDogeiCfa) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Plenilunio](https://open.spotify.com/album/44715EEdXOjoBebHPBwoeh) | 2:58 | 2022-09-29 | 2022-10-14 |
 | [Poco Male](https://open.spotify.com/track/7zJ1aqU0mFdkVt3P71vRA6) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Originali](https://open.spotify.com/album/4DCWdIfX0huihDnmlsQyvU) | 3:22 | 2022-05-05 | 2023-01-14 |
@@ -873,7 +875,7 @@
 | [Ultimo Giro](https://open.spotify.com/track/4tOx6QdfZipbqLZhSREDxG) | [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD) | [Ultimo giro](https://open.spotify.com/album/7e3K5vxNW8fjGIGOvCIpAT) | 3:17 | 2022-06-16 | 2022-07-29 |
 | [Un altro Caffè](https://open.spotify.com/track/2Y1UU3K1Hi34Vw9QBZjhxv) | [Gheto Soffittaman](https://open.spotify.com/artist/62CPNMq6q0kqvEGTYbdZ4U) | [Un altro Caffè](https://open.spotify.com/album/3ncO7WlxH4hthTWDtTftPy) | 3:52 | 2024-09-05 | 2024-10-25 |
 | [Un altro giro](https://open.spotify.com/track/17MzhNVbLCBY0G19GjBV79) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Un altro giro](https://open.spotify.com/album/3K90ZmP4xzMIddScM0GEhu) | 2:31 | 2022-05-05 | 2022-06-10 |
-| [Un Attimo](https://open.spotify.com/track/2tXVODeQt2DPBbKuzzI6zz) | [Say it in Napulitan](https://open.spotify.com/artist/6vjrL1vLmYdxfQ2ctaUEV0), [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U) | [Napoli Stellata](https://open.spotify.com/album/1XvqDIcWE82u4BxsB8hZ8P) | 3:14 | 2025-07-03 |  |
+| [Un Attimo](https://open.spotify.com/track/2tXVODeQt2DPBbKuzzI6zz) | [Say it in Napulitan](https://open.spotify.com/artist/6vjrL1vLmYdxfQ2ctaUEV0), [ramé](https://open.spotify.com/artist/1h29htfGANrZucDHYItP7U) | [Napoli Stellata](https://open.spotify.com/album/1XvqDIcWE82u4BxsB8hZ8P) | 3:14 | 2025-07-03 | 2025-10-31 |
 | [Un motivo per piangere](https://open.spotify.com/track/5cqk26EGS39jEEjrMRMjOP) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Un motivo per piangere](https://open.spotify.com/album/0aPaUV9hl1iDAXuueXDIYO) | 3:29 | 2023-11-30 | 2024-01-26 |
 | [UN POSTO NUOVO](https://open.spotify.com/track/6gHqzNylTKgd2QcPsVgQZE) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [SP57](https://open.spotify.com/album/1KgbsghZgWMiXOZBeffgJr) | 2:24 | 2025-05-16 | 2025-08-01 |
 | [Un'altra festa](https://open.spotify.com/track/1KpgcZBATfN2xyoKcyj1TH) | [JeBel](https://open.spotify.com/artist/3V3DPjpU2au75BqpnX1HwI) | [Un'altra festa](https://open.spotify.com/album/0eYc4SuHZ26wkYQL0ygkDh) | 2:28 | 2023-09-28 | 2023-10-27 |

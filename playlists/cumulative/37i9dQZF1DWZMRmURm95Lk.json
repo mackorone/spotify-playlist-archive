@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. Moder in cover.",
+  "description": "Beat e rime, oggi come una volta. Caparezza in cover.",
   "name": "Radici Hip-Hop",
   "tracks": [
     {
@@ -338,6 +338,24 @@
       "duration_ms": 163771,
       "name": "90",
       "url": "https://open.spotify.com/track/28jLZFleUGkmg036G819TD"
+    },
+    {
+      "album": {
+        "name": "Orbit Orbit",
+        "url": "https://open.spotify.com/album/2qtPd2WzqpICxTS6FfMgPp"
+      },
+      "artists": [
+        {
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252890,
+      "name": "A comic book saved my life",
+      "url": "https://open.spotify.com/track/59ZgUigp6gHlNOBhJCOdDk"
     },
     {
       "album": {
@@ -5146,7 +5164,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 167625,
       "name": "il profumo delle rose (feat. Danno, Dj Craim)",
       "url": "https://open.spotify.com/track/4ggxeEirkrqdpDsTWoQB8j"

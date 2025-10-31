@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Rels B
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,398 likes - 69 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,356 likes - 69 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

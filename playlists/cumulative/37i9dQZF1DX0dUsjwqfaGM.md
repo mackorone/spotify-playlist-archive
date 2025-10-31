@@ -2,9 +2,9 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
 
-182 songs - 10 hr 31 min
+183 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Dạo Bước Dưới Mùa Hè](https://open.spotify.com/track/4nDM3iXzRzh3GkfXzC2zrX) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:34 | 2024-12-04 |  |
 | [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/65cM1nyMf9pFDZVV8xmPX9) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa \- Maxi Single](https://open.spotify.com/album/1hJ4ByH5DIbywauU2koZDT) | 4:41 | 2024-02-01 | 2024-04-19 |
 | [dự báo thời tiết hôm nay mưa](https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 4:41 | 2022-11-25 | 2024-09-27 |
-| [Emotion](https://open.spotify.com/track/2A1bhm6a6Na7dkP3c83OVt) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:06 | 2025-03-27 |  |
+| [Emotion](https://open.spotify.com/track/2A1bhm6a6Na7dkP3c83OVt) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:06 | 2025-03-27 | 2025-10-31 |
 | [FASHION RAPPER](https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO) | [PRVCY Rockey](https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Adam, The Litder](https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT) | [FASHION RAPPER](https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW) | 3:25 | 2024-10-03 |  |
 | [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 | 2024-06-24 | 2024-12-05 |
 | [Full Topping](https://open.spotify.com/track/1EsRw73jhu3MXExOpm0PtC) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx), [Đậu Tất Đạt](https://open.spotify.com/artist/37yCp3F1wG0gNrnaLkIdDV) | [Full Topping](https://open.spotify.com/album/63c8AmULeZChFUxk7Dzu1q) | 3:05 | 2024-09-26 | 2024-12-05 |
@@ -145,6 +145,7 @@
 | [SOS](https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 3:40 | 2024-06-24 |  |
 | [STAY FOR A WHILE](https://open.spotify.com/track/3krMz49aQyQny6U65HNHvA) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [STAY FOR A WHILE](https://open.spotify.com/album/3kaF1ubPMNkq47EkGptClH) | 3:47 | 2022-09-09 | 2024-09-27 |
 | [Summer Night](https://open.spotify.com/track/7k7wieI5FG61ZARVV5OT7z) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5) | [Summer Night](https://open.spotify.com/album/5Cskl93giLfcuwEJzKlvFw) | 2:51 | 2022-09-09 | 2023-08-02 |
+| [sweet savage](https://open.spotify.com/track/7FVZZ092GLjaU2NGvP72ie) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 2:21 | 2025-10-09 |  |
 | [Swimming Pool](https://open.spotify.com/track/1tAXRG24pKcKqSJB42JXcL) | [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P), [Juliet By Night](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Swimming Pool](https://open.spotify.com/album/7E2PC1UukNMvbnqadklf66) | 3:47 | 2024-04-02 | 2024-12-05 |
 | [Tan Ca](https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:08 | 2024-10-03 |  |
 | [The Sun](https://open.spotify.com/track/3b39uP6KnsHufr698HUL5T) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [The Sun](https://open.spotify.com/album/1Jvml0dIWxaI2N5CGpQa1G) | 3:53 | 2023-08-10 | 2024-12-05 |

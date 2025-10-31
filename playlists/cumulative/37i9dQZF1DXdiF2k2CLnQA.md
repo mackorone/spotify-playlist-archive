@@ -2,9 +2,9 @@
 
 ### [VOLUME SWEDEN](https://open.spotify.com/playlist/37i9dQZF1DXdiF2k2CLnQA)
 
-> Den bästa och största rocklistan i Sverige! 🦇
+> Den bästa och största rocklistan i Sverige!
 
-382 songs - 1 day 0 hr 10 min
+383 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Dead\_Alive](https://open.spotify.com/track/4pZJXU5qsZfWj5Gnp5UgSR) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Dead\_Alive](https://open.spotify.com/album/5jPF4nRhSoj1vsl1GX81qc) | 3:10 | 2025-06-26 | 2025-08-15 |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 | 2025-06-13 |
 | [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-04 | 2025-09-26 |
-| [Devil in my Head](https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Devil in my Head](https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22) | 3:21 | 2025-09-11 |  |
+| [Devil in my Head](https://open.spotify.com/track/04yrU3ucUOpWIzY7AG9CCj) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Devil in my Head](https://open.spotify.com/album/00Ql3MLPTUfQetuJ7SVo22) | 3:21 | 2025-09-11 | 2025-10-31 |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 | 2024-11-29 |
 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 | 2025-09-25 |  |
 | [Disaster](https://open.spotify.com/track/79pdnZdZDC7AAyio8d3KI2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Disaster](https://open.spotify.com/album/6Q8TEJkHFBDc3KQyoAv2va) | 3:45 | 2025-01-23 | 2025-03-07 |
@@ -358,6 +358,7 @@
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-27 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2024-11-07 | 2025-04-12 |
 | [Venus](https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Venus](https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j) | 3:08 | 2025-06-12 | 2025-10-24 |
+| [Villain](https://open.spotify.com/track/4RZCiJgNU2GY3ii22Y5Pu9) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [](https://open.spotify.com/album/null) | 3:31 | 2025-10-30 |  |
 | [Walk](https://open.spotify.com/track/3BID61NKkUQkX41pU5PtQG) | [AB/CD](https://open.spotify.com/artist/75IFS4w4dhyYMDGnTfzOAx) | [Walk](https://open.spotify.com/album/02kooDQ13rPXUwtcqQQH8u) | 3:10 | 2024-06-27 | 2024-09-20 |
 | [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 | 2025-09-25 |  |
 | [War With The World](https://open.spotify.com/track/6sfBDJFuHewjdxPk33IZyZ) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [War With The World](https://open.spotify.com/album/3BasJfXGxeCJqPQFNzoGej) | 3:41 | 2024-08-22 | 2025-04-12 |

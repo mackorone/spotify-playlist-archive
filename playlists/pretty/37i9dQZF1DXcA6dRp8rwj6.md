@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DAVE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,385 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,410 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 8 | [Shooting Stars](https://open.spotify.com/track/4Fd5xC4D5EEfPyufN5xS8I) | [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Shooting Stars](https://open.spotify.com/album/2jDbf9mqhQU9Hn92Xf5mej) | 2:32 |
 | 9 | [GET IT GIRL](https://open.spotify.com/track/3nIY1qfbRd0dJFjxmqbUq2) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [WELCOME HOME](https://open.spotify.com/album/2qIhMc7ZaIOCavfAbPuedc) | 2:47 |
 | 10 | [5th Floor \(10pm\)](https://open.spotify.com/track/5Nf83SalLU851KZtTC0P6S) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [5th Floor \(10pm\)](https://open.spotify.com/album/2bnJPXUQBTIObI5yD1yyZv) | 2:56 |
-| 11 | [Lean Beef Patty](https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/2vMpqIUldNe7m83WAUqIdC) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 1:47 |
+| 11 | [Lean Beef Patty](https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 1:47 |
 | 12 | [Pop Yo Shit](https://open.spotify.com/track/2JgLe7DD0kkeWddkTxVipY) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Pop Yo Shit](https://open.spotify.com/album/4Bh06WzdV5FoT8aMXzg8uJ) | 3:12 |
 | 13 | [Voicemail \(feat\. Rod Wave\)](https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Voicemail \(feat\. Rod Wave\)](https://open.spotify.com/album/1lxBTSaU3PS7NqFuN5cIA6) | 4:32 |
 | 14 | [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 |

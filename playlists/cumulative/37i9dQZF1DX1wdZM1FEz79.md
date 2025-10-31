@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 정새벽\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Darin\(다린\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-629 songs - 1 day 13 hr 3 min
+630 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Dawn](https://open.spotify.com/track/5zbTSY9o6rRNbcoN2yPosM) | [Chance](https://open.spotify.com/artist/4qtH69NwjHUulLj4verBCJ) | [Dawn](https://open.spotify.com/album/0fL3Kkh9t8rv1BkpckEqHD) | 3:29 | 2021-12-10 | 2022-04-16 |
 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 | 2024-08-12 | 2024-09-04 |
 | [Deadline](https://open.spotify.com/track/1jIeeKf8N3UXLct7FI0VQy) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:19 | 2022-03-31 | 2022-04-17 |
+| [dear \- monstera ver.](https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [dear \(monstera ver.\)](https://open.spotify.com/album/1n7j1w0rcDrbiQnKnBGmws) | 3:57 | 2025-10-30 |  |
 | [Dear DRan](https://open.spotify.com/track/5HiBQsMNcVehiKNUFiRsyu) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha), [무성](https://open.spotify.com/artist/4kYzRUks4PPzWaPQU8wMY9) | [Dear DRan](https://open.spotify.com/album/1ftozu6DmZ4J3OlPrjJFTn) | 3:11 | 2022-03-31 | 2022-06-07 |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-01-25 | 2023-02-15 |
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
@@ -412,7 +413,7 @@
 | [Running \- Acoustic](https://open.spotify.com/track/5MQoTAOrOjNafc4VPav9Rn) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [START\-UP \(Acoustic\)](https://open.spotify.com/album/6DaW5wC8oRPAuCSy4A4ggk) | 3:14 | 2021-12-10 | 2022-07-08 |
 | [salt](https://open.spotify.com/track/7uPCZiAnILMxx8F402dmne) | [YOUNG IN](https://open.spotify.com/artist/4oul845EBgCRnFKfMTZLOl) | [salt](https://open.spotify.com/album/0fLVOF1PoCGnV5s6qNlU85) | 3:08 | 2023-01-25 | 2023-02-25 |
 | [Sapiens](https://open.spotify.com/track/0FsbtDdRJI7QjRPmqthg3r) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Voice beside Guitar](https://open.spotify.com/album/70GhQ25UJGiA9zda20tcW4) | 3:34 | 2022-11-20 | 2022-11-25 |
-| [Sapporo](https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [Sapporo](https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty) | 3:18 | 2025-09-22 |  |
+| [Sapporo](https://open.spotify.com/track/0G32S1A2ao0pImqQLlYVSn) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [Sapporo](https://open.spotify.com/album/5iLSTZfnINNcRssJiqj8ty) | 3:18 | 2025-09-22 | 2025-10-31 |
 | [Sappy Love Song](https://open.spotify.com/track/003Z3hDiS7KMpstUZDVBVF) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Sappy Love Song](https://open.spotify.com/album/32V0RRuEcdnpY1DL1ln5iT) | 3:18 | 2021-12-10 | 2022-04-10 |
 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2021-12-10 | 2022-07-27 |
 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 | 2025-04-02 |

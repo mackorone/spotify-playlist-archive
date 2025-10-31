@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-145 songs - 7 hr 59 min
+146 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Enemy](https://open.spotify.com/track/6F5eJTix3ms5lvH71omyS3) | [TornPockets](https://open.spotify.com/artist/6pUEc7BVEFA6b6hUw4RMxA), [ach13ng'](https://open.spotify.com/artist/7nXNiHraAkhLlIMCFaBGc0) | [Enemy](https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF) | 3:31 | 2023-06-30 | 2025-04-18 |
 | [Eyes Kubwa](https://open.spotify.com/track/28zuGbSlhWOAqnh6NQYCsE) | [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV), [Sumgii](https://open.spotify.com/artist/2Qvj1it0OQswQ4zu836oWw) | [Eyes Kubwa](https://open.spotify.com/album/0OzxUgftqnlSp7RmWDj0cC) | 4:11 | 2024-02-08 |  |
 | [Faith](https://open.spotify.com/track/5XyjPieJxZ3nkaAYotAQ2r) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/1TsOQ7nu8nuEPYTZ3Xx6qK) | 3:33 | 2023-12-15 | 2024-04-19 |
-| [Faith](https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp) | 3:33 | 2023-11-10 |  |
+| [Faith](https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp) | 3:33 | 2023-11-10 | 2025-10-31 |
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 |  |
 | [Fever](https://open.spotify.com/track/2rI2lBqcWoHXKx1bZRxFT6) | [Soul Mannik](https://open.spotify.com/artist/31zOFFnpYOyCDdmJR4XAUd) | [Fever](https://open.spotify.com/album/6dc7UWyltNv3eeE3XTDISJ) | 2:38 | 2025-03-07 |  |
 | [find a way \(dusk\)](https://open.spotify.com/track/3uziTtMALrYxzKUUs09ezj) | [SHLM](https://open.spotify.com/artist/7zG9V7FPRowfauISu9Dy2U), [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB) | [Find A Way](https://open.spotify.com/album/15qqTdTiUNccxMQNoXDlvs) | 3:56 | 2024-05-30 |  |
@@ -62,6 +62,7 @@
 | [HIGH SPEDE](https://open.spotify.com/track/01OW8EwHqMLnUysHiLT9zE) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [HOLD ON TO DEER LIFE, THERE'S A BLCAK BOY BEHIND YOU!](https://open.spotify.com/album/6aScw5iFrLHQUzlO21rCUl) | 3:58 | 2023-11-10 | 2023-12-16 |
 | [Hivyo](https://open.spotify.com/track/7EYQaatLgZpHtZWUJsXwiz) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Blink](https://open.spotify.com/album/6vzfIdktz4sBazv4NSOz1n) | 3:18 | 2023-06-30 | 2024-09-27 |
 | [Home](https://open.spotify.com/track/6olvTBUwNCCChCBSeDeiWT) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [Midnight \(Vol\. I\)](https://open.spotify.com/album/62rjNTmAEK1xAcJRPYvSKs) | 1:35 | 2023-06-30 | 2024-04-13 |
+| [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/track/4uCsJlsvglqasORJnmmLng) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/album/2SsTE9YTu4w18gmMG7TH8s) | 3:37 | 2025-10-30 |  |
 | [I.L.Y.T](https://open.spotify.com/track/3yNHWokhFDXxUVWGzDQMkr) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [I.L.Y.T](https://open.spotify.com/album/1DOi6JPaZLKcdTMAkpxkcq) | 4:01 | 2024-08-02 |  |
 | [It's You](https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [It's You](https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM) | 2:34 | 2024-01-26 | 2024-12-06 |
 | [Just Another She \- Remix](https://open.spotify.com/track/6UyYrCjFdisFwd0ryUr24g) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ), [Thewrathofsponge](https://open.spotify.com/artist/7Hoj9MRu3nFiYfbWy3Reot) | [Just Another She \(Remix\)](https://open.spotify.com/album/7Bgei9RjJqWYyOr1iK3Ow1) | 3:21 | 2023-09-01 | 2024-04-27 |

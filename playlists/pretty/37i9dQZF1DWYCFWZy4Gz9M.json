@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 72477,
+  "num_followers": 72525,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-10-13 07:03:56",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Amida Boussou",
-          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Boulila",
-      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
-    },
-    {
-      "added_at": "2025-10-13 07:03:56",
-      "album": {
         "name": "Live in Casablanca",
         "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 569244,
       "name": "Lalla Mira",
       "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
+    },
+    {
+      "added_at": "2025-10-13 07:03:56",
+      "album": {
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+      },
+      "artists": [
+        {
+          "name": "Amida Boussou",
+          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "Boulila",
+      "url": "https://open.spotify.com/track/7K0e9c4yavJcHGpGr4VxpG"
     },
     {
       "added_at": "2025-10-13 07:03:56",
@@ -523,8 +523,8 @@
     {
       "added_at": "2025-10-13 07:03:56",
       "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+        "name": "Aicha",
+        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 481255,
-      "name": "Foulani Hiriza / Soye",
-      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
+      "duration_ms": 513816,
+      "name": "Youbati - Boulila",
+      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
     },
     {
       "added_at": "2025-10-13 07:03:56",
@@ -555,30 +555,6 @@
     {
       "added_at": "2025-10-13 07:03:56",
       "album": {
-        "name": "Assala",
-        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
-      },
-      "artists": [
-        {
-          "name": "Omri Mor",
-          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
-        },
-        {
-          "name": "Mehdi Nassouli",
-          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
-        },
-        {
-          "name": "Karim Ziad",
-          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
-        }
-      ],
-      "duration_ms": 473588,
-      "name": "44",
-      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
-    },
-    {
-      "added_at": "2025-10-13 07:03:56",
-      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -591,38 +567,6 @@
       "duration_ms": 417666,
       "name": "Hamadi",
       "url": "https://open.spotify.com/track/5iTnwSlkwGr0HX125tsfFR"
-    },
-    {
-      "added_at": "2025-10-13 07:03:56",
-      "album": {
-        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
-        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
-      },
-      "artists": [
-        {
-          "name": "Maalem Si Mohamed Chaouqi",
-          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
-        }
-      ],
-      "duration_ms": 291306,
-      "name": "Marhaba - Les Mlouks",
-      "url": "https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC"
-    },
-    {
-      "added_at": "2025-10-13 07:03:56",
-      "album": {
-        "name": "Aicha",
-        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 513816,
-      "name": "Youbati - Boulila",
-      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
     },
     {
       "added_at": "2025-10-13 07:03:56",
@@ -655,6 +599,62 @@
       "duration_ms": 362093,
       "name": "Mrahba",
       "url": "https://open.spotify.com/track/2zKuTLrINginlVwg75onMg"
+    },
+    {
+      "added_at": "2025-10-13 07:03:56",
+      "album": {
+        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
+        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
+      },
+      "artists": [
+        {
+          "name": "Maalem Si Mohamed Chaouqi",
+          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
+        }
+      ],
+      "duration_ms": 291306,
+      "name": "Marhaba - Les Mlouks",
+      "url": "https://open.spotify.com/track/5UH3CEKTwhw2PnxVEnF1TC"
+    },
+    {
+      "added_at": "2025-10-13 07:03:56",
+      "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 481255,
+      "name": "Foulani Hiriza / Soye",
+      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
+    },
+    {
+      "added_at": "2025-10-13 07:03:56",
+      "album": {
+        "name": "Assala",
+        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
+      },
+      "artists": [
+        {
+          "name": "Omri Mor",
+          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
+        },
+        {
+          "name": "Mehdi Nassouli",
+          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
+        },
+        {
+          "name": "Karim Ziad",
+          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
+        }
+      ],
+      "duration_ms": 473588,
+      "name": "44",
+      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
     },
     {
       "added_at": "2025-10-13 07:03:56",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-13 07:03:56",
       "album": {
-        "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
-        "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
-      },
-      "artists": [
-        {
-          "name": "The Sons of the Moon-Ouled Kamar",
-          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
-        }
-      ],
-      "duration_ms": 569226,
-      "name": "Bilaji",
-      "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
-    },
-    {
-      "added_at": "2025-10-13 07:03:56",
-      "album": {
         "name": "Safi",
         "url": "https://open.spotify.com/album/2zq89SVhvZSQH3Ek5L306z"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 309000,
       "name": "Mister X",
       "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
+    },
+    {
+      "added_at": "2025-10-13 07:03:56",
+      "album": {
+        "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
+        "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
+      },
+      "artists": [
+        {
+          "name": "The Sons of the Moon-Ouled Kamar",
+          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
+        }
+      ],
+      "duration_ms": 569226,
+      "name": "Bilaji",
+      "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
     },
     {
       "added_at": "2025-10-13 07:03:56",

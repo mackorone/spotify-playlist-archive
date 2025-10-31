@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,347 likes - 134 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,364 likes - 134 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 50 | [i heard you were looking like the moon](https://open.spotify.com/track/4Yw8XKDrmJSMNFqvd8JZJ6) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [special](https://open.spotify.com/album/0MCWANJq0mI70BGA7FibFx) | 3:43 |
 | 51 | [U](https://open.spotify.com/track/1fckVDRsaql38b9GfMjZ6x) | [hold](https://open.spotify.com/artist/4v1gmWIv1bjj1LTVnCeoCO) | [it'll pass](https://open.spotify.com/album/3CAGbSE3Xgq0PI6SlwCiRC) | 1:57 |
 | 52 | [skin](https://open.spotify.com/track/4D15H9FTw5zG1dMMBfQD1e) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [skin](https://open.spotify.com/album/29iYKOWHrTz5kAMWT8ick9) | 3:20 |
-| 53 | [Suicide Cleanup](https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc) | [Birth Day](https://open.spotify.com/artist/5xh1pPTD5t3q1FWs7OpmH6) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:21 |
+| 53 | [Suicide Cleanup](https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 2:21 |
 | 54 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 |
 | 55 | [keep me alive](https://open.spotify.com/track/5vMZjoGoHtB63HMxcDsHDS) | [miserable teens club](https://open.spotify.com/artist/3B7u3m6yYI8fRPBGL4HF9R) | [purgatory](https://open.spotify.com/album/0c65tQbCjVo9yTzbn1menW) | 4:43 |
 | 56 | [attempt to disagree](https://open.spotify.com/track/59tYpcZZzf6eSjp5fGaZzf) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lakehouse](https://open.spotify.com/album/2kUUcrTb16BTD6oXjOpjip) | 3:33 |

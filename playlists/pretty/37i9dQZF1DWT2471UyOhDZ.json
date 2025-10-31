@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Mumford & Sons, Hozier",
-  "num_followers": 93787,
+  "num_followers": 93831,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 143592,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Serious",
         "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 218335,
       "name": "Misery",
       "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Michelangelo Dying",
-        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 274443,
-      "name": "Mothers of Riches",
-      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -715,18 +699,38 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "100 Horses",
-        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+        "name": "Michelangelo Dying",
+        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
       },
       "artists": [
         {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
         }
       ],
-      "duration_ms": 226355,
-      "name": "100 Horses",
-      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
+      "duration_ms": 274443,
+      "name": "Mothers of Riches",
+      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "I See A Darkness",
+        "url": "https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 265346,
+      "name": "I See A Darkness",
+      "url": "https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -763,22 +767,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "I See A Darkness",
-        "url": "https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA"
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
       },
       "artists": [
         {
-          "name": "Anna Calvi",
-          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
         }
       ],
-      "duration_ms": 265346,
-      "name": "I See A Darkness",
-      "url": "https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B"
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "You're All I Got / So Long",
         "url": "https://open.spotify.com/album/6ZxZ4cvU5Fc3IYmA1k8XNz"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 202865,
       "name": "You're All I Got",
       "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Pale Song / Love Is",
         "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 188271,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 197703,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Drug Dealer",
-        "url": "https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "Drug Dealer",
-      "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Ginkgo",
         "url": "https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 188417,
       "name": "Chapel of Salt",
       "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Drug Dealer",
+        "url": "https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "Drug Dealer",
+      "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Pined For You My Whole Life",
-        "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Pined For You My Whole Life",
-      "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "We Are Love",
         "url": "https://open.spotify.com/album/34RkN67xQ6o5Hz3OZHc050"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Pined For You My Whole Life",
+        "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Pined For You My Whole Life",
+      "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Oranges",
         "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
       },
@@ -1267,58 +1267,6 @@
       "duration_ms": 172778,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Bitter Everyday",
-        "url": "https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "Bitter Everyday",
-      "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Everybody Laughs",
-        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "Ghost Train Orchestra",
-          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Everybody Laughs",
-      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Nettles",
-        "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 483692,
-      "name": "Nettles",
-      "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1343,6 +1291,26 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Everybody Laughs",
+        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Ghost Train Orchestra",
+          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Everybody Laughs",
+      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Is It Now?",
         "url": "https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq"
       },
@@ -1355,6 +1323,38 @@
       "duration_ms": 268940,
       "name": "Don't Wanna Dance",
       "url": "https://open.spotify.com/track/6tQx6PTEzKxVBlfCSslZwq"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Bitter Everyday",
+        "url": "https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Bitter Everyday",
+      "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Nettles",
+        "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 483692,
+      "name": "Nettles",
+      "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Heaven Is No Feeling",
-        "url": "https://open.spotify.com/album/5fwq4wZ66Fh8ebZ5uduuwT"
+        "name": "Medium Machine",
+        "url": "https://open.spotify.com/album/4yVAM4UcoUOYoxd2DcRGW0"
       },
       "artists": [
         {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
         }
       ],
-      "duration_ms": 228783,
-      "name": "Heaven Is No Feeling",
-      "url": "https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA"
+      "duration_ms": 148071,
+      "name": "Medium Machine",
+      "url": "https://open.spotify.com/track/3xMwy9ljKoGzh9jncmY8iu"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1487,34 +1487,34 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Medium Machine",
-        "url": "https://open.spotify.com/album/4yVAM4UcoUOYoxd2DcRGW0"
+        "name": "Heaven Is No Feeling",
+        "url": "https://open.spotify.com/album/5fwq4wZ66Fh8ebZ5uduuwT"
       },
       "artists": [
         {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
         }
       ],
-      "duration_ms": 148071,
-      "name": "Medium Machine",
-      "url": "https://open.spotify.com/track/3xMwy9ljKoGzh9jncmY8iu"
+      "duration_ms": 228783,
+      "name": "Heaven Is No Feeling",
+      "url": "https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA"
     },
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Down to be wrong",
-        "url": "https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg"
+        "name": "Lake Run Drive",
+        "url": "https://open.spotify.com/album/0swneIkCfAAXIl164byvJy"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
         }
       ],
-      "duration_ms": 249120,
-      "name": "Down to be wrong",
-      "url": "https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql"
+      "duration_ms": 226785,
+      "name": "Lake Run Drive",
+      "url": "https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Down to be wrong",
+        "url": "https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Down to be wrong",
+      "url": "https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Let All That We Imagine Be The Light",
         "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 273598,
       "name": "Hold",
       "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Lake Run Drive",
-        "url": "https://open.spotify.com/album/0swneIkCfAAXIl164byvJy"
-      },
-      "artists": [
-        {
-          "name": "The Man The Myth The Meatslab",
-          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
-        }
-      ],
-      "duration_ms": 226785,
-      "name": "Lake Run Drive",
-      "url": "https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam"
     },
     {
       "added_at": "2025-10-23 23:00:21",

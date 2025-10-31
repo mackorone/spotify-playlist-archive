@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: karan
+> Listen to the future\. Cover: Kidd Santhe
 
-242 songs - 13 hr 14 min
+243 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aku Nak Pic](https://open.spotify.com/track/2ksA18uUSJEtCOCG48DKjN) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ), [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [Aku Nak Pic](https://open.spotify.com/album/6vKg5nUvRZPHD7hy3CYBT5) | 2:44 | 2025-04-15 |  |
 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 | 2025-04-15 |  |
 | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/track/16dEsck7g3sl9GBgjNi9lj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx), [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/album/2FohZt2GfxsBBJwkHsrXps) | 2:29 | 2024-06-27 | 2025-04-16 |
+| [AMBANI MONEY](https://open.spotify.com/track/0FbFG2Oe58DgtBmVGVZJoR) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [AMBANI MONEY](https://open.spotify.com/album/700iQlRgavSFq8H3JMqxIj) | 2:47 | 2025-10-30 |  |
 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 | 2025-04-15 |  |
 | [Apocalypse!!!](https://open.spotify.com/track/01eeBhcadGcWdKT6pPvsRQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Apocalypse!!!](https://open.spotify.com/album/1Q3SaKJkTur2f8gNYieufg) | 2:45 | 2025-04-17 |  |
 | [Arus & Arah](https://open.spotify.com/track/65oQyasDR8yC76NLeVQ5Fi) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Arus & Arah](https://open.spotify.com/album/5Vva6ynjE5EkmvgnxmLpvi) | 3:30 | 2025-06-12 |  |

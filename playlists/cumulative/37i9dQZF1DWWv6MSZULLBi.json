@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Airport & Only The Truth",
+        "url": "https://open.spotify.com/album/2nN5fnuQxEFTCrlpJ5cDAa"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212430,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/0jHuokxBzpv5m80H0VlvAD"
+    },
+    {
+      "album": {
         "name": "aka's white wolf",
         "url": "https://open.spotify.com/album/6RwBmZb4xuBOQ3PQfpIsrE"
       },

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,749 likes - 60 songs - 2 hr 45 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,743 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fa Sure](https://open.spotify.com/track/3iltTfznFyCJr0laSm8uY3) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [30 Days](https://open.spotify.com/album/6hlq8hF5Li4rmAxBPtoRJW) | 2:02 |
-| 2 | [Celebration Moments \(feat\. Havoc\)](https://open.spotify.com/track/6NlKnkxhoVILJYZtVuUdyO) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Havoc](https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W) | [Celebration Moments \(feat\. Havoc\)](https://open.spotify.com/album/6WWfpZCJqp4OWKFqDHh8nK) | 3:56 |
-| 3 | [Doing My Best](https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:44 |
-| 4 | [Emergency](https://open.spotify.com/track/3nlq6ALlXjM9Ph3ohP1s4m) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Emergency](https://open.spotify.com/album/463NSKRGKqug4qqKofhDoC) | 3:01 |
+| 1 | [Emergency](https://open.spotify.com/track/3nlq6ALlXjM9Ph3ohP1s4m) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Emergency](https://open.spotify.com/album/463NSKRGKqug4qqKofhDoC) | 3:01 |
+| 2 | [Fa Sure](https://open.spotify.com/track/3iltTfznFyCJr0laSm8uY3) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [30 Days](https://open.spotify.com/album/6hlq8hF5Li4rmAxBPtoRJW) | 2:02 |
+| 3 | [Celebration Moments \(feat\. Havoc\)](https://open.spotify.com/track/6NlKnkxhoVILJYZtVuUdyO) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Havoc](https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W) | [Celebration Moments \(feat\. Havoc\)](https://open.spotify.com/album/6WWfpZCJqp4OWKFqDHh8nK) | 3:56 |
+| 4 | [Doing My Best](https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:44 |
 | 5 | [SHE DON'T WANNA TALK \(feat\. Monaleo\)](https://open.spotify.com/track/4uLbZEDVIZ9ALTuEwmfBf6) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [Ethan Marc](https://open.spotify.com/artist/2QTpxCp63cwsYfupIP74E4), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [How Ironic](https://open.spotify.com/album/15MgTdQxec1Lo11cYSsh8l) | 2:47 |
 | 6 | [In God's Hands](https://open.spotify.com/track/5J80ckyosk74sKZHnciNVy) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [In God's Hands](https://open.spotify.com/album/6h2j3OC1UVncuJOKrqtTPB) | 2:34 |
 | 7 | [ALL TYPA SHI](https://open.spotify.com/track/6n4Pjr07nTigD1LFQrZ1Gc) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#F.E.B](https://open.spotify.com/album/75RMWrQaADsBgO8lGpvj6l) | 2:06 |
 | 8 | [Cash Shit](https://open.spotify.com/track/0LtcUPbzzYdaGZYeq9ekxi) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [Cash Shit](https://open.spotify.com/album/26tsG8O27m1k8g6OW1MzpX) | 2:35 |
 | 9 | [Pop Yo Shit](https://open.spotify.com/track/2JgLe7DD0kkeWddkTxVipY) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Pop Yo Shit](https://open.spotify.com/album/4Bh06WzdV5FoT8aMXzg8uJ) | 3:12 |
-| 10 | [Flea Flickin](https://open.spotify.com/track/3mVP3VKelYDNLaoIg1NmGA) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [Flea Flickin](https://open.spotify.com/album/20b6X3aKOWMq8Ck3ePUJI4) | 2:32 |
+| 10 | [Flea Flickin](https://open.spotify.com/track/3mVP3VKelYDNLaoIg1NmGA) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Tee Romano](https://open.spotify.com/artist/2jqTneUf8hbgKmwzO5Mk0I) | [Flea Flickin](https://open.spotify.com/album/20b6X3aKOWMq8Ck3ePUJI4) | 2:32 |
 | 11 | [Naturally Beautiful](https://open.spotify.com/track/15mOkzycTx8WMPzp6MbP6U) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Saint](https://open.spotify.com/album/7qL7JUASlcS8jl4PgId4Bq) | 2:30 |
 | 12 | [Passaway](https://open.spotify.com/track/3MuUG5eKKfyvocwTI3dwwz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Passaway](https://open.spotify.com/album/07JiWRyd1CEghs8mOySQaO) | 3:52 |
 | 13 | [Free Sig](https://open.spotify.com/track/6fks4AIZ3SqaDbzQqqbFBi) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Free Sig](https://open.spotify.com/album/3Ayp57iVKGq77uN50AzXOL) | 2:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 59 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 |
 | 60 | [ASAP](https://open.spotify.com/track/4B5uXnQnWdDYnJzIGHLyTe) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [ASAP](https://open.spotify.com/album/3sPRCUZ4nQZWOqWL4MVqEf) | 3:40 |
 
-Snapshot ID: `AAAnDW4Lx8G0U7A/0MvwVZb7T1joCbzc`
+Snapshot ID: `AAAnDtyEoQnRavLv68mmlfDNQzYXmPfv`

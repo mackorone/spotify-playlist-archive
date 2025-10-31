@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: Aimyon",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: Vaundy",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -829,7 +829,7 @@
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 327546,
+      "duration_ms": 327554,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/0g1RQtrvfQI0zPsrHqVolq"
     },
@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/6694Ri652nB0EFEsAQLjpB"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/735mGGdbUzNDUg9IHPaVaV"
+    },
+    {
+      "album": {
         "name": "I wonder",
         "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
       },
@@ -1956,6 +1974,24 @@
       "duration_ms": 150000,
       "name": "Made 4 Two (feat. Charli Taft, SIRUP)",
       "url": "https://open.spotify.com/track/5RlWyohsph62rIAPBbgLGV"
+    },
+    {
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172291,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K"
     },
     {
       "album": {
@@ -5418,6 +5454,24 @@
       "duration_ms": 236083,
       "name": "\u4fee\u7f85",
       "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
+    },
+    {
+      "album": {
+        "name": "\u5049\u751f\u4eba",
+        "url": "https://open.spotify.com/album/63x5RuS6pMjBokIF7E7qBw"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208910,
+      "name": "\u5049\u751f\u4eba",
+      "url": "https://open.spotify.com/track/3g1Ca8PPhR4FBN6a66wkyq"
     },
     {
       "album": {

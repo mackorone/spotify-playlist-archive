@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: BIG FAF
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,271 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,275 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [奥歯痛い保険証ない](https://open.spotify.com/track/6CqR8me6RcWoP5z1W119WN) | [FANI](https://open.spotify.com/artist/7KsWPNNxVKsPuzFiFqipjL) | [Out the 貧乏](https://open.spotify.com/album/697aN77B1eOSpgZC8zEMZd) | 2:26 |
 | 99 | [Allright](https://open.spotify.com/track/4L9H1KQ1Up7debjuULAzq9) | [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Allright](https://open.spotify.com/album/3fWxLYSeWEJNX2E7xbKaM5) | 3:05 |
 
-Snapshot ID: `AAAAAM/OUDPHIv7+jWfQqT0+JM93A9Bl`
+Snapshot ID: `AAAAABh6053eFL/Ff/KeQxXqpFWiwAan`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,247 likes - 218 songs - 9 hr 22 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,273 likes - 218 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 82 | [Reason Not To Run](https://open.spotify.com/track/53Sz1kXE50nm6ryFSOjl3o) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [DJ TISCO](https://open.spotify.com/artist/52g7ZWlWaf2yqLchy2XuTh), [MiteX](https://open.spotify.com/artist/6HOEVqW2JrpV56Slza9BXq), [A\-Tom \(CH\)](https://open.spotify.com/artist/5JcX7RIB0Ugj2fmxaKFTdm) | [Reason Not To Run](https://open.spotify.com/album/5zWKlfPRRK3UsmkAFfrZmK) | 2:30 |
 | 83 | [So Many Faces](https://open.spotify.com/track/0Cg1lcCNWLSdXUdPGE1Rgd) | [hiraeth](https://open.spotify.com/artist/6U3EeZZGfO99IFDMIBaSms), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [So Many Faces](https://open.spotify.com/album/0G6UldF6wGE2Yq1Fu2xQob) | 2:12 |
 | 84 | [Morning Sun \(feat\. Pawl\)](https://open.spotify.com/track/3e2anvEqdHCR6ivQMB50lZ) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Pawl](https://open.spotify.com/artist/1ShHSfgvLgJ4i26xcXB232) | [Morning Sun \(feat\. Pawl\)](https://open.spotify.com/album/67V8496rxkqphKBpLz8zjC) | 2:40 |
-| 85 | [White Flag](https://open.spotify.com/track/7LgE8ldYlOZwEmYz6p1OjR) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Warm & Cold](https://open.spotify.com/artist/56qZnOS0zqyfUnJzZrsY9E) | [White Flag](https://open.spotify.com/album/5t29bD3QWgj6DcSR1x2rrN) | 2:09 |
+| 85 | [White Flag](https://open.spotify.com/track/7LgE8ldYlOZwEmYz6p1OjR) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Warm & Cold](https://open.spotify.com/artist/56qZnOS0zqyfUnJzZrsY9E), [THNK](https://open.spotify.com/artist/1JkAomV4XsVMKOGzWdgqnD) | [White Flag](https://open.spotify.com/album/5t29bD3QWgj6DcSR1x2rrN) | 2:09 |
 | 86 | [Waiting For You](https://open.spotify.com/track/4uLWlY98F6LnKZSGLy1Ohm) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Waiting For You](https://open.spotify.com/album/1qz08a4bbEiVN4P4nykzMq) | 2:30 |
 | 87 | [Breathe Me](https://open.spotify.com/track/2unaBmyInwN8BzEwxXrwqS) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [Breathe Me](https://open.spotify.com/album/6JPcg5lP7g7gBSSgvkS9GP) | 2:32 |
 | 88 | [Looking For You](https://open.spotify.com/track/4VUKHbTPXX49zHKDvZ3M89) | [SØR](https://open.spotify.com/artist/4wqTPLGPm1GE5jx1B7WsMi), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Looking For You](https://open.spotify.com/album/1MCLmNKbid1gymJErJMhof) | 2:33 |

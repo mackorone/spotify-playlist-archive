@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-457 songs - 1 day 2 hr 43 min
+458 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Rocket](https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Rocket](https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB) | 2:46 | 2025-05-22 |  |
 | [Roll On Buddy](https://open.spotify.com/track/716inKAgvoukiftOCG4l6l) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Roll On Buddy](https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM) | 3:23 | 2024-08-22 | 2024-10-25 |
 | [Roll With The Punches](https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES) | 3:32 | 2025-02-06 |  |
+| [Roses](https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Roses](https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw) | 3:44 | 2025-10-30 |  |
 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 | 2024-08-15 | 2025-01-03 |
 | [Rytmen av ett regn](https://open.spotify.com/track/284OgQhThXzkssDt6Hdreg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Rytmen av ett regn](https://open.spotify.com/album/5KUGbEBxb6DBveyI28Sstp) | 3:14 | 2024-06-27 | 2024-08-09 |
 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 | 2025-01-16 | 2025-05-30 |
@@ -462,7 +463,7 @@
 | [Zoe](https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Zoe](https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9) | 3:11 | 2025-01-09 | 2025-02-26 |
 | [Älskade vän](https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh) | [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR) | [Älskade vän](https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw) | 3:19 | 2025-05-29 |  |
 | [Änglarna](https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Änglarna](https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR) | 3:40 | 2024-08-22 | 2024-10-11 |
-| [Är det upp till dig och mig](https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG) | [Är det upp till dig och mig](https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd) | 4:25 | 2025-09-11 |  |
+| [Är det upp till dig och mig](https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG) | [Är det upp till dig och mig](https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd) | 4:25 | 2025-09-11 | 2025-10-31 |
 | [Ärligt misstag](https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU) | 2:29 | 2025-02-06 | 2025-09-05 |
 | [Ögonblick i livet](https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Ögonblick i livet](https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje) | 3:14 | 2024-06-27 | 2024-08-16 |
 

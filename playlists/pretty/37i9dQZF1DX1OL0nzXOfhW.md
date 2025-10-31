@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Tr33
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Billy Choi
 
 [Spotify](https://open.spotify.com/user/spotify) - 8,615 likes - 48 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [浪漫致死](https://open.spotify.com/track/374W8rmTZqcf7UTqpgVGcY) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [浪漫致死](https://open.spotify.com/album/5IfCa02BJLNx9Nzg91UNBr) | 2:51 |
-| 2 | [你知道你比晚霞好看嗎](https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN), [Seluu](https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o) | [你知道你比晚霞好看嗎](https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm) | 2:58 |
-| 3 | [沉船仔](https://open.spotify.com/track/4GKz6m57hsGpIA9IsKZwyX) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [沉船仔](https://open.spotify.com/album/6P9x2W060BFSpLFXxZKt6H) | 2:35 |
-| 4 | [By Yourside](https://open.spotify.com/track/0BjC8c6M1DbUdURTcCI2yg) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [By Yourside](https://open.spotify.com/album/3bXdcyT0H461hxkItZPHAL) | 3:07 |
-| 5 | [綠蔭吹成黃葉](https://open.spotify.com/track/3XGpWQQZ5Fbqwy3uFEqkGF) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [綠蔭吹成黃葉](https://open.spotify.com/album/2pa3gOjEpjLlfLaHlqP4Uw) | 3:26 |
+| 1 | [成就解鎖](https://open.spotify.com/track/1UhWP26NpSdF3jPvPPHLae) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [成就解鎖](https://open.spotify.com/album/4x8RbQgWx0kf4vyQL8i8Nm) | 3:04 |
+| 2 | [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/track/28MXl4LQOLVOWgBTmoXcx3) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/album/2JfKZz1GyNC0P7Q1vc3hcD) | 2:29 |
+| 3 | [分手 \- Remix](https://open.spotify.com/track/1I0sJkUcwSAALlKHRtXirN) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [分手 \(Remix\)](https://open.spotify.com/album/2zFWkEEqD2chvQjmoxpTf6) | 3:12 |
+| 4 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
+| 5 | [海連茶樓](https://open.spotify.com/track/6t4eZthvZCgHyQQOlwk2kx) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [海連茶樓](https://open.spotify.com/album/3arbSusbFLL3YRBYU7DuEw) | 3:27 |
 | 6 | [不要評論這首歌](https://open.spotify.com/track/2mWWXGMlMmm2zC2LVkIVGH) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [不要評論這首歌](https://open.spotify.com/album/6m7lyRuFArQlULXhum8NiN) | 3:10 |
 | 7 | [歌頓花園](https://open.spotify.com/track/02dfGgKRSaxADhn2yUfRH5) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌頓花園](https://open.spotify.com/album/25camrKxmkOfxpXuRJYe2A) | 3:58 |
 | 8 | [心中那位住客](https://open.spotify.com/track/6hgwn1nNPk8E8tEeoa6nwU) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [心中那位住客](https://open.spotify.com/album/0DveyseX1wZXbWiWKWqLJm) | 4:12 |
 | 9 | [全世界停電 第二年](https://open.spotify.com/track/6vGhndQaPCSX74TqP3lNe6) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [全世界停電 第二年](https://open.spotify.com/album/3QufEqxAe1zJncmGZuYXuF) | 4:12 |
 | 10 | [沒有送出的詩](https://open.spotify.com/track/5qLNCttpNjUaDoTsfryRuV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [沒有送出的詩](https://open.spotify.com/album/5gBZE79vF92KOaTFFpopCd) | 3:30 |
-| 11 | [成就解鎖](https://open.spotify.com/track/1UhWP26NpSdF3jPvPPHLae) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [成就解鎖](https://open.spotify.com/album/4x8RbQgWx0kf4vyQL8i8Nm) | 3:04 |
-| 12 | [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/track/28MXl4LQOLVOWgBTmoXcx3) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [168.5 \(feat\. Billy Choi\)](https://open.spotify.com/album/2JfKZz1GyNC0P7Q1vc3hcD) | 2:29 |
-| 13 | [分手 \- Remix](https://open.spotify.com/track/1I0sJkUcwSAALlKHRtXirN) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw), [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [分手 \(Remix\)](https://open.spotify.com/album/2zFWkEEqD2chvQjmoxpTf6) | 3:12 |
-| 14 | [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 |
-| 15 | [海連茶樓](https://open.spotify.com/track/6t4eZthvZCgHyQQOlwk2kx) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [海連茶樓](https://open.spotify.com/album/3arbSusbFLL3YRBYU7DuEw) | 3:27 |
+| 11 | [浪漫致死](https://open.spotify.com/track/374W8rmTZqcf7UTqpgVGcY) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [浪漫致死](https://open.spotify.com/album/5IfCa02BJLNx9Nzg91UNBr) | 2:51 |
+| 12 | [你知道你比晚霞好看嗎](https://open.spotify.com/track/2kutq7mQIFYUdGxHptsMlE) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN), [Seluu](https://open.spotify.com/artist/3NL3hiZCEKrItNzxZTJ15o) | [你知道你比晚霞好看嗎](https://open.spotify.com/album/6bbOpE8Z3gxj1ROQGtaNWm) | 2:58 |
+| 13 | [沉船仔](https://open.spotify.com/track/4GKz6m57hsGpIA9IsKZwyX) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [沉船仔](https://open.spotify.com/album/6P9x2W060BFSpLFXxZKt6H) | 2:35 |
+| 14 | [By Yourside](https://open.spotify.com/track/0BjC8c6M1DbUdURTcCI2yg) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [By Yourside](https://open.spotify.com/album/3bXdcyT0H461hxkItZPHAL) | 3:07 |
+| 15 | [綠蔭吹成黃葉](https://open.spotify.com/track/3XGpWQQZ5Fbqwy3uFEqkGF) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [綠蔭吹成黃葉](https://open.spotify.com/album/2pa3gOjEpjLlfLaHlqP4Uw) | 3:26 |
 | 16 | [戀愛BB班](https://open.spotify.com/track/1vV0CAFs85GStDGwSL08MC) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [戀愛BB班](https://open.spotify.com/album/6VPYnffOUibcBFAbDyIwIU) | 2:49 |
 | 17 | [還剩多少時間才能把你的臉忘了 \- 橋下十三郎 Demo](https://open.spotify.com/track/3b5H0HY81SpvaOubTILDsL) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [C Major](https://open.spotify.com/album/5ISlaZzUVuosWUpU9Uxv9l) | 3:44 |
 | 18 | [做好戀愛的覺悟](https://open.spotify.com/track/6Yu7H37OlomGNei9IyY9qN) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k), [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [做好戀愛的覺悟](https://open.spotify.com/album/2ZGwyUtV2Z6AOZWMMEsi50) | 3:33 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 47 | [Let go](https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Let go](https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO) | 3:50 |
 | 48 | [Cardigan](https://open.spotify.com/track/4LsjTHKqcBJOifEcwGGtmA) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Cardigan](https://open.spotify.com/album/0wEn3maDNRTOSrHSKczgIP) | 3:51 |
 
-Snapshot ID: `AAAAAMxCehyQ9CghA2DnFjySQ5uYebug`
+Snapshot ID: `AAAAABkRp1tgDqpDLHjf6sLU59TspDCy`

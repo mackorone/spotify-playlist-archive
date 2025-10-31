@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 126086,
+  "num_followers": 126105,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAACCUAgpxMS9lD0LZ87Rf1At",
+  "snapshot_id": "aQFZAAAAAAD1sQJeiPiEbZSPeWlZbPtr",
   "tracks": [
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "No tengo amigos",
+      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Escapatoria",
         "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 205060,
       "name": "Sin Escapatoria",
       "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "No tengo amigos",
-      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
     },
     {
       "added_at": null,
@@ -1035,26 +1035,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inhala",
-        "url": "https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS"
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Yayo",
-          "url": "https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ"
         }
       ],
-      "duration_ms": 245500,
-      "name": "Inhala",
-      "url": "https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI"
+      "duration_ms": 209847,
+      "name": "Si la muerte pregunta",
+      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
     }
   ],
   "unique_name": "This Is Dharius",

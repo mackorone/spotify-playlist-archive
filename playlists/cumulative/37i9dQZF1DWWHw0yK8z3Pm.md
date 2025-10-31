@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of country and folk\. Cover: The Strumbellas
+> Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-618 songs - 1 day 13 hr 34 min
+620 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 | 2025-01-31 |  |
 | [Don’t Let ‘Em \(Get Inside of Your Head\)](https://open.spotify.com/track/5Ji2fMtataaupfgg3SlLdS) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Don’t Let ‘Em \(Get Inside of Your Head\)](https://open.spotify.com/album/6t5AGNTVsSIsAGWhichoba) | 3:23 | 2025-10-24 |  |
 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 | 2023-02-03 | 2023-08-26 |
+| [Drift Away](https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Drift Away](https://open.spotify.com/album/6wTQPJhjkjRO50PVp2Wa2B) | 3:25 | 2025-10-31 |  |
 | [Drips and Drops](https://open.spotify.com/track/3sobW38S1XKJ8RyWeckrW1) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [Drips and Drops](https://open.spotify.com/album/1dbuSXkDC1bnfOEd3rzhse) | 4:01 | 2022-06-17 | 2023-04-22 |
 | [Driving Around](https://open.spotify.com/track/0UskdLSFEqspr1gMKADP27) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Driving Around](https://open.spotify.com/album/5qOU27Kapl0stO8FTbgClv) | 3:48 | 2022-07-08 | 2022-08-13 |
 | [Dumb Love](https://open.spotify.com/track/670Bvwf3RvKwENd1WcD6oy) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Servo / Dumb Love](https://open.spotify.com/album/1WOxqt0RZ7OcooCmfZVXZB) | 2:25 | 2025-10-06 | 2025-10-26 |
@@ -183,7 +184,7 @@
 | [East Wind](https://open.spotify.com/track/5w5jYQS9ke1bIGugVZZVNm) | [Caley Watts](https://open.spotify.com/artist/1UEaSQZqsJcuaDQfvz6mp2) | [East Wind](https://open.spotify.com/album/0VNAd70EMJvdCMzwTkGH0c) | 5:41 | 2024-11-22 | 2025-04-02 |
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2023-04-21 | 2024-09-21 |
 | [Easygoing](https://open.spotify.com/track/6oFAJFw5D8HjQFCWwf3XFr) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing](https://open.spotify.com/album/3bXAVr8a2qBMETr34sSNt0) | 3:53 | 2024-06-14 | 2025-02-08 |
-| [Easygoing \(more easy\)](https://open.spotify.com/track/43j2yjXjpaCyh6FE1JcTWl) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing \(more easy\)](https://open.spotify.com/album/3pFa9QipbSv9OiHkEUCG4C) | 4:16 | 2025-10-06 |  |
+| [Easygoing \(more easy\)](https://open.spotify.com/track/43j2yjXjpaCyh6FE1JcTWl) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing \(more easy\)](https://open.spotify.com/album/3pFa9QipbSv9OiHkEUCG4C) | 4:16 | 2025-10-06 | 2025-10-31 |
 | [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 | 2025-07-25 |  |
 | [Edge of Us](https://open.spotify.com/track/2dH2QAXL3JphxxZOjjCqCZ) | [Jaron Chidiac](https://open.spotify.com/artist/27W3Bt6tacaYmtAMMKxiFX) | [Edge of Us](https://open.spotify.com/album/49hhJpCaz9ClqJAWpiZPyT) | 3:02 | 2022-09-09 | 2023-04-22 |
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-06-06 |  |
@@ -260,7 +261,7 @@
 | [Hey Bob Dylan](https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5) | [Ron A.McNeill](https://open.spotify.com/artist/6NyXdmZQwTQvEN4xLDbTMQ) | [Waiting on the Day](https://open.spotify.com/album/6JAfOiMmqSdUxsEjEWvnyD) | 3:19 | 2023-04-21 | 2023-07-06 |
 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-15 | 2024-09-13 |
 | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj) | 4:50 | 2023-08-18 | 2024-10-11 |
-| [Hey There, Dolly](https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Hey There, Dolly](https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY) | 3:13 | 2024-05-10 |  |
+| [Hey There, Dolly](https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Hey There, Dolly](https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY) | 3:13 | 2024-05-10 | 2025-10-31 |
 | [Hey Who's Counting?](https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Palace Waiting](https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR) | 2:57 | 2022-09-16 | 2023-07-24 |
 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 | 2025-10-06 |  |
 | [Higher \(feat\. David Rawlings\)](https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Higher](https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8) | 3:23 | 2022-11-25 | 2023-09-29 |
@@ -535,6 +536,7 @@
 | [The Hurtin' Kind](https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:06 | 2024-05-10 | 2024-10-16 |
 | [The Less I Know](https://open.spotify.com/track/3a5EEvT2lSJQ2oEYF1ErKd) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [The Less I Know](https://open.spotify.com/album/7nu4XupNBoJZxSuqRqNCP0) | 3:09 | 2025-10-24 |  |
 | [The Long Way](https://open.spotify.com/track/5KOJUMQeo8SwT5G0pnaXm4) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [The Long Way](https://open.spotify.com/album/4wBMQcc5oKOxvL6PYVoVp9) | 3:33 | 2022-05-13 | 2023-04-22 |
+| [The Longer You Hold On](https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [The Longer You Hold On](https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv) | 2:52 | 2025-10-31 |  |
 | [The Modern Western World](https://open.spotify.com/track/6gJnNQ0HjkpjWNyWb7l263) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/167bm3icDEQTQdFwJnRS2c) | 2:20 | 2022-05-13 | 2022-06-30 |
 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 | 2023-04-21 | 2025-10-18 |
 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 | 2025-10-24 |  |

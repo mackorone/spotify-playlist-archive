@@ -1,6 +1,6 @@
 {
   "description": "For tiny adventures disguised as errands.",
-  "num_followers": 102538,
+  "num_followers": 102527,
   "original_name": "Tote ",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-03-21 14:13:29",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN"
-    },
-    {
-      "added_at": "2025-03-21 14:13:29",
-      "album": {
         "name": "Next Thing",
         "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 124021,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
+    },
+    {
+      "added_at": "2025-03-21 14:13:29",
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 278991,
+      "name": "Juliet",
+      "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
     },
     {
       "added_at": "2025-03-21 14:13:29",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-03-21 14:13:29",
       "album": {
-        "name": "Animal Kingdom",
-        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         }
       ],
-      "duration_ms": 278991,
-      "name": "Juliet",
-      "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
+      "duration_ms": 228800,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN"
     },
     {
       "added_at": "2025-03-28 22:32:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Zach Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,199 likes - 117 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,229 likes - 117 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

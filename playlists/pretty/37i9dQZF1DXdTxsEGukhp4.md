@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,768 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,763 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 33 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 |
 | 34 | [キューにストップできません！](https://open.spotify.com/track/5OX4Nq07ulpm1uleSR6wAQ) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キューにストップできません！](https://open.spotify.com/album/6oLeXGeM7Dv4wr1cB1E1X3) | 3:42 |
 | 35 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 36 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
-| 37 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
-| 38 | [Ba\-ra\-bam \(Korean Ver.\)](https://open.spotify.com/track/7lBeGbbEHo393JZ5Bs7XQU) | [Pororo the little penguin](https://open.spotify.com/artist/7y3p4KDHrEBAbtzlRva6MQ) | [Pororo Singalong NEW1](https://open.spotify.com/album/3N6ctq1yyfqNpdVPJ1sSZb) | 2:48 |
-| 39 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
-| 40 | [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 |
-| 41 | [すないぱー。](https://open.spotify.com/track/2aaahig7w9q4485WWnkpur) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [紺色に憧れて](https://open.spotify.com/album/43SWQqd7vTaZNecVGqYuc6) | 3:28 |
-| 42 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
-| 43 | [ビジュがレベチ](https://open.spotify.com/track/7vi2Wh16kaoy9MXTa7V7hP) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [ビジュがレベチ](https://open.spotify.com/album/3hXsYOcrMxpvmd7nt1VKHw) | 3:10 |
-| 44 | [ぷんぷん](https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 3:16 |
-| 45 | [野良猫](https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 4:01 |
-| 46 | [Shopping Bag](https://open.spotify.com/track/7tBm772bkeFyOFpcasf3UB) | [ピラフ星人](https://open.spotify.com/artist/7LCvObtg5MA10WBd4DiK1E) | [Dream Taxi](https://open.spotify.com/album/5v9C5LaLIO2MsjCJIBPFXM) | 2:07 |
-| 47 | [Sugar On My Tongue](https://open.spotify.com/track/1BrQRA3j6Ua6zj6xvb2mU7) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 2:33 |
-| 48 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 |
-| 49 | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ) | 3:50 |
+| 36 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
+| 37 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
+| 38 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 |
+| 39 | [Ba\-ra\-bam \(Korean Ver.\)](https://open.spotify.com/track/7lBeGbbEHo393JZ5Bs7XQU) | [Pororo the little penguin](https://open.spotify.com/artist/7y3p4KDHrEBAbtzlRva6MQ) | [Pororo Singalong NEW1](https://open.spotify.com/album/3N6ctq1yyfqNpdVPJ1sSZb) | 2:48 |
+| 40 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
+| 41 | [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 |
+| 42 | [すないぱー。](https://open.spotify.com/track/2aaahig7w9q4485WWnkpur) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [紺色に憧れて](https://open.spotify.com/album/43SWQqd7vTaZNecVGqYuc6) | 3:28 |
+| 43 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
+| 44 | [ビジュがレベチ](https://open.spotify.com/track/7vi2Wh16kaoy9MXTa7V7hP) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [ビジュがレベチ](https://open.spotify.com/album/3hXsYOcrMxpvmd7nt1VKHw) | 3:10 |
+| 45 | [ぷんぷん](https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 3:16 |
+| 46 | [野良猫](https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 4:01 |
+| 47 | [Shopping Bag](https://open.spotify.com/track/7tBm772bkeFyOFpcasf3UB) | [ピラフ星人](https://open.spotify.com/artist/7LCvObtg5MA10WBd4DiK1E) | [Dream Taxi](https://open.spotify.com/album/5v9C5LaLIO2MsjCJIBPFXM) | 2:07 |
+| 48 | [Sugar On My Tongue](https://open.spotify.com/track/1BrQRA3j6Ua6zj6xvb2mU7) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 2:33 |
+| 49 | [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 |
 | 50 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 
-Snapshot ID: `AAAAAHl4TG2AnqnOCbQLyiwPWdSKinCm`
+Snapshot ID: `AAAAADT3n8ph04zXkWGEHGtAXgXDiLre`

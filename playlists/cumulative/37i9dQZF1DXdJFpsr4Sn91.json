@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nousussa olevat hitit. \u2b06\ufe0f Kannessa Mirella.",
+  "description": "Nousussa olevat hitit. \u2b06\ufe0f Kannessa Minttu.",
   "name": "Nousussa",
   "tracks": [
     {
@@ -238,6 +238,28 @@
       "duration_ms": 232040,
       "name": "7 minuuttii",
       "url": "https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172150,
+      "name": "7 synti\u00e4 (feat. AHTI)",
+      "url": "https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8"
     },
     {
       "album": {
@@ -1660,6 +1682,32 @@
       "duration_ms": 185594,
       "name": "Benz",
       "url": "https://open.spotify.com/track/5Fs6Vjs2h8HlQWKgOENWes"
+    },
+    {
+      "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
     },
     {
       "album": {
@@ -5025,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "H.A.P.P.Y",
+        "url": "https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "H.A.P.P.Y",
+      "url": "https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj"
+    },
+    {
+      "album": {
         "name": "SEPPO MIXTAPE",
         "url": "https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g"
       },
@@ -8312,7 +8378,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 159058,
       "name": "Kunnes sammutaan (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/6dbYxywDRYRwgp6ZqoEhlb"
@@ -10940,7 +11006,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 111593,
       "name": "MRR",
       "url": "https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ"
@@ -11316,6 +11382,24 @@
       "duration_ms": 173880,
       "name": "M\u00e4 oon se tytt\u00f6",
       "url": "https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro"
+    },
+    {
+      "album": {
+        "name": "M\u00f6rk\u00f6",
+        "url": "https://open.spotify.com/album/3H7wJEr771ALFDB6ubgIlG"
+      },
+      "artists": [
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150772,
+      "name": "M\u00f6rk\u00f6",
+      "url": "https://open.spotify.com/track/4wj5L26lcaUtrEepdP6sJt"
     },
     {
       "album": {
@@ -11852,7 +11936,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 154054,
       "name": "NRO1 B\u00c4M\u00c4",
       "url": "https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt"
@@ -12338,7 +12422,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 228106,
       "name": "Ota varovasti - Vain el\u00e4m\u00e4\u00e4 kausi 16",
       "url": "https://open.spotify.com/track/15noY1bk3ACNXkvWE3zX25"
@@ -14050,7 +14134,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 182882,
       "name": "Rikki",
       "url": "https://open.spotify.com/track/3l33NHA1SJYhNemWAOvQkC"
@@ -15083,6 +15167,24 @@
     },
     {
       "album": {
+        "name": "Siks kai m\u00e4 oon sun (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/6puwcWcwlJ3sfSS6p07nfx"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149799,
+      "name": "Siks kai m\u00e4 oon sun (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/3zUWeZ6BDAIyPKAWbU9SQX"
+    },
+    {
+      "album": {
         "name": "Silverlines - prod. Labrinth",
         "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
@@ -15722,7 +15824,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 192476,
       "name": "Sun katu (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/0bDl2EdfvCosADB8Vya5Gc"
@@ -17395,6 +17497,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN"
+    },
+    {
+      "album": {
         "name": "TRAFIK!",
         "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
       },
@@ -17560,6 +17680,24 @@
       "duration_ms": 197054,
       "name": "Tuli mit\u00e4 vaan",
       "url": "https://open.spotify.com/track/5O37M1e9u0BvcMOVedVbYx"
+    },
+    {
+      "album": {
+        "name": "Tulipalo (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/3OUVPNY0XxqUms90hbTE8l"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188127,
+      "name": "Tulipalo (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/4dQM0IDDLjh4yzLVqW2S3G"
     },
     {
       "album": {
@@ -18315,6 +18453,24 @@
     },
     {
       "album": {
+        "name": "Vantaalainen (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/0IlkosgcmMdnAupG47k0mo"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177542,
+      "name": "Vantaalainen (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/1rn1Ln1GWJnmxn7oYyKQes"
+    },
+    {
+      "album": {
         "name": "Vapaus on suuri vankila (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/3a2NdIRAr6UDAwfCjitBhi"
       },
@@ -18526,7 +18682,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 183707,
       "name": "Viel\u00e41 (feat. SONNY) [Vain el\u00e4m\u00e4\u00e4 kausi 16]",
       "url": "https://open.spotify.com/track/5xVjCY7XrDnx5CBu6iKmvy"
@@ -19758,7 +19914,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 164285,
       "name": "\u00c4iti Teresa (feat. Bizi)",
       "url": "https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV"

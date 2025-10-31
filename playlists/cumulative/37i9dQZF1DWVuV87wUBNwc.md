@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> disiz & Theodora au sommet de la première playlist de France.
+> Lady Gaga au sommet de la première playlist de France.
 
 394 songs - 19 hr 59 min
 

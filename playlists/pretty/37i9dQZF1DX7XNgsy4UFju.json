@@ -1,13 +1,169 @@
 {
   "description": "The best indie tracks of the moment. Cover: fanclubwallet",
-  "num_followers": 161110,
+  "num_followers": 161105,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGJ57XUfXaYxP/CuPBO5CXNecXvj",
+  "snapshot_id": "AAAAACNT8fXzCLSy0wwBWXJOf47ZSOXi",
   "tracks": [
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "choke enough (Deluxe)",
+        "url": "https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 203818,
+      "name": "what's good",
+      "url": "https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "i wish i could rip off this old face",
+        "url": "https://open.spotify.com/album/1zxq5E8fjnSO1jC16diuXY"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "i wish i could rip off this old face",
+      "url": "https://open.spotify.com/track/5t3MKtYPpzPz4LfsqeTgpq"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "At My Best",
+        "url": "https://open.spotify.com/album/7yDkhM5joo3A3aDa3OJgI5"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "At My Best",
+      "url": "https://open.spotify.com/track/5XqbyTQDWGo6S2MYupzxTi"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 157027,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/6wTQPJhjkjRO50PVp2Wa2B"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 205065,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Aging Young Women",
+        "url": "https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 241133,
+      "name": "Aging Young Women",
+      "url": "https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Give Me More",
+        "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 190745,
+      "name": "Give Me More",
+      "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "When I Was Young",
+        "url": "https://open.spotify.com/album/4O9Ef9Lj2S4BAmQJcwWTml"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        },
+        {
+          "name": "Jesse Maranger",
+          "url": "https://open.spotify.com/artist/7wbrCaklJessMP9kVk9nIW"
+        }
+      ],
+      "duration_ms": 254885,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/6vmiXtZTxKKQcIAKCfhxyI"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/3gPTHyIsN8FuJg636miAA4"
+    },
     {
       "added_at": "2025-10-24 04:01:02",
       "album": {
@@ -23,6 +179,70 @@
       "duration_ms": 168771,
       "name": "Do You Hate Me?",
       "url": "https://open.spotify.com/track/32EOGF0LQ2ToSj98LIDcwU"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Bonne chance",
+        "url": "https://open.spotify.com/album/66MHqqazWOvCAM7tieOXgb"
+      },
+      "artists": [
+        {
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Bonne chance",
+      "url": "https://open.spotify.com/track/3anC3RBeKXHDdbzEHuxY4u"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/1beQxYmoPdiWl6KMv6Sn9A"
+      },
+      "artists": [
+        {
+          "name": "Rosewater Park",
+          "url": "https://open.spotify.com/artist/1kGy7SN3yICrgKkIpWkAfO"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Reckoning",
+      "url": "https://open.spotify.com/track/3FBweYQDuCeNOGUnVS5wwN"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Lake",
+        "url": "https://open.spotify.com/album/0AGofVEkEQjIFs3FnfDBep"
+      },
+      "artists": [
+        {
+          "name": "Passion Mango",
+          "url": "https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn"
+        }
+      ],
+      "duration_ms": 155638,
+      "name": "Lake",
+      "url": "https://open.spotify.com/track/2ArQQsHLoLkPDO0KYrgEEJ"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Airport & Only The Truth",
+        "url": "https://open.spotify.com/album/2nN5fnuQxEFTCrlpJ5cDAa"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 212430,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/0jHuokxBzpv5m80H0VlvAD"
     },
     {
       "added_at": "2025-10-24 04:01:02",

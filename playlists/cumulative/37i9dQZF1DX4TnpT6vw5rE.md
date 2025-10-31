@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-380 songs - 21 hr 16 min
+381 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
 | [Liberation](https://open.spotify.com/track/2CbHrpzQRhQ1uG0J2dMrCP) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Liberation](https://open.spotify.com/album/5zbwTRBUIfwLsC9SkQUX9t) | 3:16 | 2022-12-30 | 2025-04-13 |
 | [lilja](https://open.spotify.com/track/2APv5JlP1VXAxvFaQpDKbK) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [lilja](https://open.spotify.com/album/4IBHQXKDfFzJVwxonoZbYt) | 3:18 | 2025-05-14 |  |
+| [Linguistics](https://open.spotify.com/track/0egoChqEqVuED1YORjkImf) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Linguistics](https://open.spotify.com/album/5WcMB1nuISvmGnGPlaA3Zy) | 2:41 | 2025-10-01 |  |
 | [Lone Lights](https://open.spotify.com/track/0nxDy6ZzAAlwnHAzxLTd6r) | [Blue Saga](https://open.spotify.com/artist/3EUYJ46gohBhdmS96WqsbF) | [Lone Lights](https://open.spotify.com/album/6h2gZlVBiXYTYPgN9NF6I9) | 4:00 | 2025-07-15 |  |
 | [long lost](https://open.spotify.com/track/7L2ofInqnrSisKJxVPGE6K) | [eternal](https://open.spotify.com/artist/4wGMrwZjdj39HPuCm3Ui6U) | [long lost](https://open.spotify.com/album/2gQ3teUEg1TVZVubUji8Bn) | 2:08 | 2025-07-15 |  |
 | [Looking at the Stars](https://open.spotify.com/track/0oEsb9pPuLAa1pUagDv4BH) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Beauty and Truth](https://open.spotify.com/album/4ZczqJuCVIdZ2JOWDbR5Ie) | 3:13 | 2020-12-08\* | 2021-07-15 |
@@ -370,7 +371,7 @@
 | [waiting still](https://open.spotify.com/track/32vjhjj5KWfVlHfCMg6yLs) | [NÒWN](https://open.spotify.com/artist/6HSIq0RQ7mhLiRGUu79kCm) | [waiting still](https://open.spotify.com/album/3pPwfIMqCdccz4NB99sSd0) | 2:26 | 2025-07-15 |  |
 | [Walking on Air](https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [Walking on Air](https://open.spotify.com/album/7c05mEBhWNCuChYLnBCqjz) | 2:06 | 2025-02-26 |  |
 | [warmth](https://open.spotify.com/track/6NflHj3pdGn2f68gLZB4e8) | [halfsoul](https://open.spotify.com/artist/4lbFdz2lQ1V2gAlmCvVuy0) | [warmth](https://open.spotify.com/album/1z5ecrrqFd9no12g7t6Hz0) | 1:26 | 2025-10-01 |  |
-| [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* |  |
+| [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* | 2025-10-31 |
 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 | 2021-06-16 | 2024-09-20 |
 | [Waves of Serenity \- 174 Hz](https://open.spotify.com/track/6ytsuBO5hxj5lXqeEOEujs) | [Fikret Glep](https://open.spotify.com/artist/7Bsyycg7zsa7WcegU4WMde) | [Waves of Serenity](https://open.spotify.com/album/7H0jANfu8S7xlBh4kuk5pe) | 2:18 | 2022-11-22 | 2024-10-08 |
 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 | 2022-12-30 | 2023-04-16 |

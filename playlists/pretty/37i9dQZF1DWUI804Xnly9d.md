@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,934 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,023 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 36 | [Bas Tera Hi \- Duet Version](https://open.spotify.com/track/091vrTnIlp5dp9nzBl3Wjx) | [Kshitij Vishwakarma](https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi), [Mouly Ganguly](https://open.spotify.com/artist/420LD7mW7SHgUZzAXQwWUv) | [Bas Tera Hi](https://open.spotify.com/album/4wXHPC3IvGekemV9B9bRwt) | 3:09 |
 | 37 | [Bas Hum Yaha](https://open.spotify.com/track/5aT7J46t6jz1qUzMv8xXgG) | [Gaurav Prasad](https://open.spotify.com/artist/50UXkbx3OJnv57kDuYq4go), [KREITTON](https://open.spotify.com/artist/4y0XL6sCyRwXqdIhMLipNz), [Ayush Dolas](https://open.spotify.com/artist/1TDK3rn1aqm7QmZfcJO4Mk) | [Bas Hum Yaha](https://open.spotify.com/album/2GGsM7tiXBfIfW3xtJTZv3) | 3:27 |
 | 38 | [Toote Pankh](https://open.spotify.com/track/3L7GzVcwUDZQ0vll4os3zL) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW) | [Toote Pankh](https://open.spotify.com/album/23cm1sJykWZctkBQAbBz9W) | 3:44 |
-| 39 | [bemausam toofaan](https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [bemausam toofaan](https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ) | 4:05 |
+| 39 | [bemausam toofaan](https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Gup Shup](https://open.spotify.com/artist/7MaM4ydtuHdPZ9OyowpRzR) | [bemausam toofaan](https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ) | 4:05 |
 | 40 | [Raaste](https://open.spotify.com/track/3PBH3YK6DQ3PhOKG69kDTf) | [Mayank Thakur](https://open.spotify.com/artist/6aw1MJxB9XqzxPow8DINiV) | [Raaste](https://open.spotify.com/album/0610arumkxfIIU827Cczzu) | 3:03 |
 | 41 | [Hawa Banke](https://open.spotify.com/track/3J2v56A4A8sYZk3qhTvB21) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Hawa Banke](https://open.spotify.com/album/3UVN7cepGedF54XmIUT1Ms) | 4:00 |
 | 42 | [Zihaal e Miskin \- Acoustic Version](https://open.spotify.com/track/5pdlxHg7rN1Fwu7s5FBz5b) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Zihaal e Miskin \(Acoustic Version\)](https://open.spotify.com/album/5ZPtE4inm85dD7lyUp68RM) | 4:06 |

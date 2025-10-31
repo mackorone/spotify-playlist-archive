@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1709,
+  "num_followers": 1710,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Mercury Remixes",
         "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 207304,
       "name": "Violet - DJ Python Remix",
       "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Push Power ( a 1 )",
-        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
+        "name": "Kwong",
+        "url": "https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB"
       },
       "artists": [
         {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+          "name": "Knopha",
+          "url": "https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF"
         }
       ],
-      "duration_ms": 249261,
-      "name": "Push Power ( a 1 )",
-      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+      "duration_ms": 343384,
+      "name": "Corundrum",
+      "url": "https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr"
     }
   ],
   "unique_name": "Night Shift",

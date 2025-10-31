@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-315 songs - 1 day 3 hr 32 min
+316 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Feel Home](https://open.spotify.com/track/1gsatgs4xQi1FsCzaL50Ma) | [Liquexx](https://open.spotify.com/artist/5v5HDK4ZozQQZJ7NVL8phC), [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej) | [Feel Home](https://open.spotify.com/album/28EWTMUSAatw0LPVz2mCdc) | 4:23 | 2022-04-15 | 2022-05-21 |
 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 | 2022-04-15 |  |
 | [Flame](https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts) | [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Flame](https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB) | 5:49 | 2023-11-10 |  |
-| [Follow](https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Follow](https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui) | 3:03 | 2025-05-02 |  |
+| [Follow](https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Follow](https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui) | 3:03 | 2025-05-02 | 2025-10-31 |
 | [Foresight](https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Thorment](https://open.spotify.com/artist/1NnRsALz6e8q4avnRof6cd), [Synna](https://open.spotify.com/artist/1vBNxnNqXVC0oY4W7iOKNr) | [Foresight](https://open.spotify.com/album/5h8eQnis3E78Hf5n9hUFPa) | 5:03 | 2022-04-22 | 2022-07-25 |
 | [Formula](https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW) | [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D), [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B) | [Formula](https://open.spotify.com/album/5g4xZHRd0TKUyCTkhYwbXJ) | 4:31 | 2022-07-07 |  |
 | [Fragments of Insanity](https://open.spotify.com/track/3ufcdGKKbcNZq2bZ183HiI) | [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Fragments of Insanity](https://open.spotify.com/album/59G4Gwp024K3NUgdK5soeO) | 7:28 | 2022-04-15 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [Frequency \- Aura Vortex Remix](https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I) | [Day Din](https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9), [Coming Soon!!!](https://open.spotify.com/artist/4Iht6hiRR5kov66LO7fcOu), [Aura Vortex](https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies) | [Frequency \(Aura Vortex Remix\)](https://open.spotify.com/album/0YCowgi0iH0oCjtfFtuWUS) | 7:15 | 2022-04-15 | 2023-11-26 |
 | [Full Moon](https://open.spotify.com/track/1VdyrwMU78RwFjR8m5nbjB) | [Off Limits](https://open.spotify.com/artist/3lfps4zRbW0NyfIptTYmvn), [Davee](https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2), [Ela](https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj) | [Full Moon](https://open.spotify.com/album/3P3z3KduDcw91gjW49aFvz) | 4:33 | 2023-11-10 | 2023-11-26 |
 | [Full On](https://open.spotify.com/track/1u4De9AOyLd3OrwCFk9juE) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Full On](https://open.spotify.com/album/4igmQn3ygEbbJdeDd10xZC) | 5:57 | 2022-05-12 | 2022-07-26 |
+| [Fur Elise \(Hi\-Tech\)](https://open.spotify.com/track/5XjFyYKlXDFkegtlGNBodQ) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Fur Elise \(Hi\-Tech\)](https://open.spotify.com/album/6AxJapHoeGaqSWwnVoLe2N) | 3:47 | 2025-08-15 |  |
 | [Gaara](https://open.spotify.com/track/4h5ql8BUHKM6z2qFK5fTlx) | [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU), [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT), [Phenomenal](https://open.spotify.com/artist/3n1MLjPurbOnrhDXePNrQU) | [Gaara](https://open.spotify.com/album/1TyzaksHDkLbHF8Qwfnqn0) | 4:06 | 2022-05-12 | 2022-06-15 |
 | [Gayatri](https://open.spotify.com/track/0uETXz9EaPbQPgvHppOQYr) | [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o) | [Gayatri](https://open.spotify.com/album/7aXU3eXiTmoYJctFlBZfSR) | 5:11 | 2022-04-28 | 2022-09-30 |
 | [Gipsy Queen](https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Gipsy Queen EP](https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx) | 3:22 | 2024-08-30 |  |

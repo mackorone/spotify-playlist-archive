@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1338598,
+  "num_followers": 1338508,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 172778,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "Manning Fireworks",
@@ -687,6 +671,22 @@
       "duration_ms": 181040,
       "name": "Joker Lips",
       "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 172778,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Solar Power (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Helen of Troy - Bonus Track",
-      "url": "https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "The Great Impersonator",
         "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
       },
@@ -775,18 +759,34 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "1:5",
-        "url": "https://open.spotify.com/album/2x618fYTKtUfUXMtFmznqu"
+        "name": "Solar Power (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ"
       },
       "artists": [
         {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 237139,
-      "name": "1:5",
-      "url": "https://open.spotify.com/track/4KkXlAj7HIXcKNquwVty43"
+      "duration_ms": 171594,
+      "name": "Helen of Troy - Bonus Track",
+      "url": "https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 217724,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6"
+        "name": "1:5",
+        "url": "https://open.spotify.com/album/2x618fYTKtUfUXMtFmznqu"
       },
       "artists": [
         {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
         }
       ],
-      "duration_ms": 217724,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN"
+      "duration_ms": 237139,
+      "name": "1:5",
+      "url": "https://open.spotify.com/track/4KkXlAj7HIXcKNquwVty43"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "His Loss",
-        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
-      },
-      "artists": [
-        {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
-        }
-      ],
-      "duration_ms": 150839,
-      "name": "His Loss",
-      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "A Wonder Day",
@@ -1431,6 +1415,22 @@
       "duration_ms": 209352,
       "name": "A Wonder Day",
       "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "His Loss",
+        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 150839,
+      "name": "His Loss",
+      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "Save My Heart",
         "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Someone That's Better",
-        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+        "name": "HEADPHONES",
+        "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
         }
       ],
-      "duration_ms": 133059,
-      "name": "Someone That's Better",
-      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+      "duration_ms": 196200,
+      "name": "HEADPHONES",
+      "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1495,22 +1511,6 @@
       "duration_ms": 337561,
       "name": "Racecar",
       "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "HEADPHONES",
-        "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "HEADPHONES",
-      "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "In This Room - EP",
-        "url": "https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr"
-      },
-      "artists": [
-        {
-          "name": "Ryan McMullan",
-          "url": "https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "In This Room",
-      "url": "https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "steal my soul",
         "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 141320,
       "name": "steal my soul",
       "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "In This Room - EP",
+        "url": "https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr"
+      },
+      "artists": [
+        {
+          "name": "Ryan McMullan",
+          "url": "https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "In This Room",
+      "url": "https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Emily and Me",
-        "url": "https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY"
+        "name": "Yours Always",
+        "url": "https://open.spotify.com/album/5yV45bSyW7plb2JtbFKO3K"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
         }
       ],
-      "duration_ms": 252453,
-      "name": "Emily and Me",
-      "url": "https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX"
+      "duration_ms": 158213,
+      "name": "Summer in June",
+      "url": "https://open.spotify.com/track/4LJk7omtHh7tZEMxbNEJHw"
     }
   ],
   "unique_name": "Easy",

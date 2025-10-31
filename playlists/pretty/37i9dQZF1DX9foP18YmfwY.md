@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,263 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,332 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 47 | [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Danúbia M.J](https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Gba Stage \(Ao Vivo\)](https://open.spotify.com/album/61PiZkJXZCwqEkbRERmpbQ) | 5:03 |
 | 48 | [Santo Antônio](https://open.spotify.com/track/0848hBIFahA1DrAcBnWRXx) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU), [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu) | [Santo Antônio](https://open.spotify.com/album/4asRiSXMZNppfhlXQ1VsTO) | 3:27 |
 | 49 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
-| 50 | [Com Tua Mão](https://open.spotify.com/track/2GTmkLdTSFj54cESYICauO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Com Tua Mão](https://open.spotify.com/album/5TSwbyM7ySxL5dw24cjwQm) | 4:15 |
-| 51 | [Acima dos Telhados \- Acoustic](https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [Acima dos Telhados \(Acoustic\)](https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x) | 6:35 |
+| 50 | [Acima dos Telhados \- Acoustic](https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [Acima dos Telhados \(Acoustic\)](https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x) | 6:35 |
+| 51 | [Com Tua Mão](https://open.spotify.com/track/2GTmkLdTSFj54cESYICauO) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Com Tua Mão](https://open.spotify.com/album/5TSwbyM7ySxL5dw24cjwQm) | 4:15 |
 | 52 | [Caminho no Deserto](https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Caminho no Deserto](https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr) | 6:45 |
 | 53 | [Abraça\-Me Forte](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [O Encontro](https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA) | 5:33 |
 | 54 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 |

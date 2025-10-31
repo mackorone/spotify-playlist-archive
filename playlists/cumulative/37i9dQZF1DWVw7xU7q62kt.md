@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-679 songs - 1 day 5 hr 42 min
+680 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,10 +395,11 @@
 | [Neon & Nicotine](https://open.spotify.com/track/5U8qv7VE4sXjksvPCUi0ku) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Neon & Nicotine](https://open.spotify.com/album/5nQcJWJUJmnADnAZqGnjtR) | 1:51 | 2025-07-18 | 2025-09-27 |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-08-22 | 2023-08-26 |
 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 | 2025-03-21 |
-| [new dawn](https://open.spotify.com/track/36RaLQ0xc6jBTUYWF7B8a3) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [new dawn](https://open.spotify.com/album/4rOzEkzTZ5Tt3BjilkQKnS) | 2:03 | 2025-10-10 |  |
+| [new dawn](https://open.spotify.com/track/36RaLQ0xc6jBTUYWF7B8a3) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [new dawn](https://open.spotify.com/album/4rOzEkzTZ5Tt3BjilkQKnS) | 2:03 | 2025-10-10 | 2025-10-31 |
 | [New Day](https://open.spotify.com/track/1BdwQ5nuLln2JAY6Jfm8EN) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Night Light, Morning Light](https://open.spotify.com/album/4KitFaXDFZ9xOt2hOwKtyn) | 2:08 | 2024-09-27 | 2025-09-13 |
 | [New Morning](https://open.spotify.com/track/1h4P6Xs2XI0oq4pDDxo9t4) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Above the Laws](https://open.spotify.com/album/2QxsIMxHb7w5VxBGAx4R6e) | 3:21 | 2024-11-15 | 2024-11-23 |
 | [New Places](https://open.spotify.com/track/1hdLhQA5jby4ZQLPhmtnau) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [New Places](https://open.spotify.com/album/586GzvNZZDpax1L3AxtM3o) | 1:52 | 2025-04-18 | 2025-04-25 |
+| [Next Order](https://open.spotify.com/track/7GMrLLMTuCKGFXNOIlFyqf) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Lost Neko](https://open.spotify.com/artist/5fD2Klfkb8CJ6UaBQ9wPOJ) | [Next Order](https://open.spotify.com/album/0dwsvJYAIpkt94dfgE7Lfr) | 1:53 | 2025-10-24 |  |
 | [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2023-08-22 | 2024-02-16 |
 | [Night Swim](https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 1:30 | 2023-08-22 | 2024-04-19 |
 | [Niigata](https://open.spotify.com/track/5yBsxiaKvNiI7sbqVlqC5A) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Niigata](https://open.spotify.com/album/5kG6HGQ6LweRDr6us00u71) | 2:38 | 2025-01-10 |  |

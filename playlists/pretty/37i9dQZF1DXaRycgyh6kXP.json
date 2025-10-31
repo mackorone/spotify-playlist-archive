@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 274446,
+  "num_followers": 274538,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 243263,
-      "name": "Loved",
-      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 252735,
       "name": "Inspirit",
       "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 243263,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
         "name": "Light Shines Through",
         "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 258084,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Flowerdrum",
-        "url": "https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk"
-      },
-      "artists": [
-        {
-          "name": "Juno Mamba",
-          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
-        },
-        {
-          "name": "Rino",
-          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
-        }
-      ],
-      "duration_ms": 248015,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
+        "name": "Flowerdrum",
+        "url": "https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk"
+      },
+      "artists": [
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        },
+        {
+          "name": "Rino",
+          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
+        }
+      ],
+      "duration_ms": 248015,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
+    },
+    {
+      "added_at": "2025-10-17 04:00:40",
+      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8"
       },
@@ -1523,18 +1539,22 @@
     {
       "added_at": "2025-10-17 04:00:40",
       "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Micachu",
+          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
         }
       ],
-      "duration_ms": 196893,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
+      "duration_ms": 246704,
+      "name": "Marilyn",
+      "url": "https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7"
     },
     {
       "added_at": "2025-10-17 04:00:40",
@@ -1567,26 +1587,6 @@
       "duration_ms": 299448,
       "name": "Way Ur Touchin Me",
       "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
-    },
-    {
-      "added_at": "2025-10-17 04:00:40",
-      "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Micachu",
-          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
-        }
-      ],
-      "duration_ms": 246704,
-      "name": "Marilyn",
-      "url": "https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7"
     },
     {
       "added_at": "2025-10-17 04:00:40",

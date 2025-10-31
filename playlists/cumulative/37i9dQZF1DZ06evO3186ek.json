@@ -583,6 +583,36 @@
     },
     {
       "album": {
+        "name": "Diamond (I See The Glory) feat. Mara Justine",
+        "url": "https://open.spotify.com/album/15kWLR6iLsBbWv2RpsKSgy"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343953,
+      "name": "Diamond (I See the Glory) feat. Mara Justine",
+      "url": "https://open.spotify.com/track/6l3QeX7dM6swS3ZuMsgPs5"
+    },
+    {
+      "album": {
         "name": "Maverick City, Vol. 1",
         "url": "https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt"
       },
@@ -1140,7 +1170,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 178285,
       "name": "I Thank God (Lofi Remix)",
       "url": "https://open.spotify.com/track/4ouPFv09OApND78EuLB06q"
@@ -1322,7 +1352,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 158896,
       "name": "Jireh - Lofi Remix",
       "url": "https://open.spotify.com/track/17ShT3cqakwxD14w8nLJm0"
@@ -2912,7 +2942,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 513188,
       "name": "Yes & Amen",
       "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"

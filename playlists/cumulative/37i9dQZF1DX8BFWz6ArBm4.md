@@ -2,9 +2,9 @@
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Apostolia Zoi
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Vasilis Dimas
 
-208 songs - 11 hr 39 min
+209 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Anasa](https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Anasa](https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD) | 4:43 | 2025-02-27 |  |
 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 | 2024-12-12 |  |
 | [Anexartiti \- Live Version](https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Parea Me Tin Ioulia](https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ) | 2:49 | 2024-11-21 | 2025-10-28 |
+| [Apo Do Ki Alles Pane](https://open.spotify.com/track/03mRr0ZhhJn2j8wEZrIjIh) | [Vasilis Dimas](https://open.spotify.com/artist/3TQLcQaZaJ81spBgSvooqK) | [Apo Do Ki Alles Pane](https://open.spotify.com/album/4Dzk7lQQv6k4pZqYYPVAFY) | 2:53 | 2025-10-30 |  |
 | [Apopse Thelo](https://open.spotify.com/track/5qMrZ7AN6LveKKAr16d5rr) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kalispera \(Aroma Elladas Edition\)](https://open.spotify.com/album/47rB6fuVlzNXXfEjC8vYws) | 3:32 | 2024-06-27 | 2024-08-24 |
 | [As Ta Leme Kala](https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [As Ta Leme Kala](https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz) | 2:53 | 2024-06-27 | 2024-11-22 |
 | [As Tous Na Lene](https://open.spotify.com/track/0GVmpYnNFON6Tihcuo3ysQ) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [As Tous Na Lene](https://open.spotify.com/album/3AjpvMusEJQuhIsAmWwwOT) | 3:25 | 2024-07-25 | 2024-12-13 |
@@ -116,7 +117,7 @@
 | [Mystiko](https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Mystiko](https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3) | 2:52 | 2024-06-27 | 2024-09-13 |
 | [Na Giriseis Pou](https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Na Giriseis Pou](https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo) | 2:46 | 2025-04-10 |  |
 | [Na M' Agapas](https://open.spotify.com/track/419XlcPiQkS7fPsAnnSL25) | [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF) | [Deka](https://open.spotify.com/album/2UnmILWDKGhCl9XbSiRcht) | 2:43 | 2025-10-23 |  |
-| [Na Peite Sto Paidi](https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Na Peite Sto Paidi](https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl) | 3:47 | 2025-06-13 |  |
+| [Na Peite Sto Paidi](https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Na Peite Sto Paidi](https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl) | 3:47 | 2025-06-13 | 2025-10-31 |
 | [Na Pernas](https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Na Pernas](https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI) | 4:21 | 2024-06-27 | 2025-05-16 |
 | [Nero](https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Nero](https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y) | 3:08 | 2025-09-04 |  |
 | [Nikises](https://open.spotify.com/track/1N5289ic1M2dNcyJWHwY92) | [Konstantinos Koutsavakis](https://open.spotify.com/artist/2N3NhoOodUZklC4W87Jyxu), [Lefteris Pantazis](https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q), [XRISTINA KITSOULI](https://open.spotify.com/artist/29sIVAnR1n6YeLhS8rHNky) | [Nikises](https://open.spotify.com/album/0Fu04JGmgZV2EM3fZHwFsB) | 3:38 | 2024-10-24 | 2024-11-08 |

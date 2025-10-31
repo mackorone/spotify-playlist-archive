@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22198,
+  "num_followers": 22196,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-10-24 18:44:33",
       "album": {
+        "name": "Caninana",
+        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Caninana",
+      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
+    },
+    {
+      "added_at": "2025-10-24 18:44:33",
+      "album": {
         "name": "Rolls Royce",
         "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 149333,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
-    },
-    {
-      "added_at": "2025-10-24 18:44:33",
-      "album": {
-        "name": "Caninana",
-        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Caninana",
-      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
     },
     {
       "added_at": "2025-10-24 18:44:33",

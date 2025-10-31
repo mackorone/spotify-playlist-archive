@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2124453,
+  "num_followers": 2124434,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "My Fun",
         "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 212945,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Feet Off The Ground (feat. Jade Bird)",
         "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 258188,
       "name": "Feet Off The Ground (feat. Jade Bird)",
       "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 212945,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1675,30 +1675,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Dancin' Around My Grave",
-        "url": "https://open.spotify.com/album/06H89MK9A5I2v7Baf2kFSF"
-      },
-      "artists": [
-        {
-          "name": "Andy Frasco & The U.N.",
-          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
-        },
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Doom Flamingo",
-          "url": "https://open.spotify.com/artist/0b94jN9hNa6rBGfzOcZAMr"
-        }
-      ],
-      "duration_ms": 179582,
-      "name": "Dancin' Around My Grave",
-      "url": "https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -1743,6 +1719,30 @@
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Dancin' Around My Grave",
+        "url": "https://open.spotify.com/album/06H89MK9A5I2v7Baf2kFSF"
+      },
+      "artists": [
+        {
+          "name": "Andy Frasco & The U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
+        },
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Doom Flamingo",
+          "url": "https://open.spotify.com/artist/0b94jN9hNa6rBGfzOcZAMr"
+        }
+      ],
+      "duration_ms": 179582,
+      "name": "Dancin' Around My Grave",
+      "url": "https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK"
     },
     {
       "added_at": "2025-05-02 04:00:31",

@@ -2,9 +2,9 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💶 Kannessa Turisti.
+> 100 Suomi 💶 Kannessa M//O.
 
-1,037 songs - 2 day 1 hr 18 min
+1,038 songs - 2 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [Morsian joka sormelle](https://open.spotify.com/track/0BLCPDBXURc7Ce5epoBOzO) | [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Morsian joka sormelle](https://open.spotify.com/album/1GDqDbL7oj8xDETYtTu9QC) | 2:33 | 2024-04-25 | 2024-05-10 |
 | [Motion](https://open.spotify.com/track/3teVYJtKx0RynxcYr5Uwq5) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Motion](https://open.spotify.com/album/1TFdVr0nYuJCvP1bdyZzBT) | 2:53 | 2025-05-29 | 2025-06-27 |
 | [Mowgli](https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Mowgli](https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO) | 2:16 | 2024-07-25 | 2024-08-30 |
-| [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 | 2025-08-21 |  |
+| [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 | 2025-08-21 | 2025-10-31 |
 | [Ms\. Bad](https://open.spotify.com/track/4CNnv8cGfLUKpuvSysGbbm) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ms\. Bad](https://open.spotify.com/album/0zA9UqxUrEQ2NpI9LkzsdZ) | 3:00 | 2025-07-10 | 2025-09-19 |
 | [Muija on ku kone](https://open.spotify.com/track/4H3tZOuDW6SQsexjO45nYe) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Muija on ku kone](https://open.spotify.com/album/18aAtK2ZIO8KXjf1COHs2S) | 2:35 | 2023-11-02 | 2023-12-01 |
 | [Muija on näläs](https://open.spotify.com/track/7Maax6CVfXC29rUyed8qS5) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1) | [Muija on näläs](https://open.spotify.com/album/0p3Aaw80uddWeuHo66Q0cs) | 3:22 | 2025-10-23 |  |
@@ -913,6 +913,7 @@
 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-25 |  |
 | [TOXIC B \(pidämustkii\)](https://open.spotify.com/track/32cwVMP4pZtxtf7weKt8E3) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [CAKE](https://open.spotify.com/album/0jt1rOi0cB3fNZOJjhBv5h) | 2:58 | 2024-01-11 | 2024-02-23 |
 | [Toxic Mami](https://open.spotify.com/track/1TtJce46FJzvOEYQPRywyd) | [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Toxic Mami](https://open.spotify.com/album/1pHANfdHmhxpzUZDJ3X48L) | 2:24 | 2024-05-16 | 2024-07-02 |
+| [Track 1](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [Tragedian Lyhyt Oppimäärä](https://open.spotify.com/track/6Vr8roAlaX2xFBV3juRJ5S) | [Pijall](https://open.spotify.com/artist/0CfkmCl2XN2IWxYcMzPMlq) | [MINNESOTA](https://open.spotify.com/album/749Cb2vryMtdSlD4Zk1jfW) | 3:42 | 2023-10-05 | 2023-10-20 |
 | [TRAP PRINSESSA](https://open.spotify.com/track/7ubxbH63j6aRQYZq00Of9Z) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [TRAP PRINSESSA](https://open.spotify.com/album/3Drp0KbEo6fBW8fKenUuM8) | 2:50 | 2025-08-28 | 2025-09-13 |
 | [Trapetsitaiteilen \(feat\. Louhi\)](https://open.spotify.com/track/3ru8ZqaLhygUIXQ9lXtqfK) | [Leo Luthando](https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6), [Louhi](https://open.spotify.com/artist/4hixqE8xjQRUmqgNTRtwYk) | [Trapetsitaiteilen \(feat\. Louhi\)](https://open.spotify.com/album/3sdWeACOIdDc2meu2TiEU5) | 2:33 | 2024-04-18 | 2024-05-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,287 likes - 47 songs - 2 hr 23 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,328 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,18 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 45 | [Everybody](https://open.spotify.com/track/5glulfNqVHMi9D8nXXeH8J) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Everybody](https://open.spotify.com/album/4ZCj0fAQM8WbSuqvnHT4J7) | 3:18 |
 | 46 | [Bunzzz](https://open.spotify.com/track/0FVvWhTlaAtcEbO8Bp6on0) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Bunzzz](https://open.spotify.com/album/7FPQMoNjZePas7ccKQcjNz) | 2:38 |
 | 47 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
+| 48 | [Bullshit](https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Bullshit](https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y) | 2:58 |
+| 49 | [Run It Up \(feat\. 24Hrs\)](https://open.spotify.com/track/4vCfipe9rh9mJ5aj0tL22x) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Run It Up \(feat\. 24Hrs\)](https://open.spotify.com/album/7pkL6AKMkRxZxavskhAbdf) | 4:42 |
+| 50 | [POP OUT](https://open.spotify.com/track/4rePkL5SpoLvbwRPzTvEM8) | [InntRaw](https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [KABU](https://open.spotify.com/artist/5QvkIWJdNyVeqs1FgVOEg7) | [POP OUT](https://open.spotify.com/album/3cyytgLBdw4X7RpGTanGkQ) | 3:16 |
+| 51 | [Wrong Is Right](https://open.spotify.com/track/1Uc9DYvDCAqIrvpcttsAt4) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Wrong Is Right](https://open.spotify.com/album/2yxgzyLuXyTFTPPYoJoKGS) | 2:51 |
+| 52 | [Blow Your Mind](https://open.spotify.com/track/4DeTlsPjmgrjeM4DgMSoMQ) | [NO STATIC](https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Blow Your Mind](https://open.spotify.com/album/7GgpqCm8zhQ6YEbCOnocno) | 3:37 |
+| 53 | [Pump It Up](https://open.spotify.com/track/5ul7KH94gNbcsZZABPCuAz) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Pump It Up](https://open.spotify.com/album/0HZDxChSYifZ3qBpuohwFm) | 2:51 |
+| 54 | [Bad Luck](https://open.spotify.com/track/6csDhb03N9jdJUmkif5UmG) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Bad Luck / Feel](https://open.spotify.com/album/0P5lz9M9GgAOmkPpOhDs2B) | 3:05 |
+| 55 | [Paranoia](https://open.spotify.com/track/6BayB2ZQFrLNHq6B08iPkH) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Paranoia](https://open.spotify.com/album/0c2Voo1ImAviPP3wXhqT74) | 2:46 |
+| 56 | [Got The Floor](https://open.spotify.com/track/6SJsQKpxQxQdpecwCsC304) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [Got The Floor](https://open.spotify.com/album/5wm4MfPZPLvriBfJ9WWGad) | 2:43 |
+| 57 | [Bass Go Boom](https://open.spotify.com/track/1eb6pqZnO5SzV6vdmjZook) | [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv), [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Bass Go Boom](https://open.spotify.com/album/1unmon0VuMkkbtt6rJUaTl) | 2:47 |
+| 58 | [House Music Machine](https://open.spotify.com/track/5EdtzFlfikiWYCSWPNqve6) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [House Music Machine](https://open.spotify.com/album/3MHlZ6UgvQht8rl4hqmYq3) | 3:13 |
+| 59 | [Off The Clock](https://open.spotify.com/track/6VoRHJReczgAxZnnQj0p8F) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Off The Clock](https://open.spotify.com/album/2K1w4YeF4TJ9vDWIWilGQ5) | 3:11 |
+| 60 | [Diet Coke](https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Diet Coke](https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO) | 2:35 |
 
-Snapshot ID: `AAAm8D29P0e6JhF50ETfGk+FRg3pX8mc`
+Snapshot ID: `AAAm9uv7Gi3/PyEU9GqsV6W89X9pfGLW`

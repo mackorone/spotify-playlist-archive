@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Ale Rossi\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,117 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,134 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
 | 100 | [Heart Sign](https://open.spotify.com/track/1Qd0XxITbWBYj5rOxdRBR7) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Heart Sign](https://open.spotify.com/album/0hdD2IrVbfDzOh57yj37Vd) | 2:12 |
 
-Snapshot ID: `AAAAAMLB7v9Ru+BmNJ00KWm8Iaw+Xpce`
+Snapshot ID: `AAAAAEYVP5nYqV3FHiMusfRDz/2+1F6K`

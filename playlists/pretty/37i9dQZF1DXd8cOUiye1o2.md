@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Latest Hindi drops, right here\. Listen now\. Cover: Thamma
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,961 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,256 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 16 | [Heaven \(feat\. Jonita\) \- Remix](https://open.spotify.com/track/7Dx38QOew4alphqY8GRmZp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Play \(The Remixes\)](https://open.spotify.com/album/3SVt9F02xRJpTHkiPR72rm) | 4:02 |
 | 17 | [O Mahiya](https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [O Mahiya](https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY) | 2:54 |
 | 18 | [Raat Baaqi Hai](https://open.spotify.com/track/7LILmhJtAVFhrlG9ZIahx1) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [AJAY SAHAAB](https://open.spotify.com/artist/4JtGTWhTTnYKcgHNgzoPSL) | [Raat Baaqi Hai](https://open.spotify.com/album/3PEIxWCCEmZSa6ckVyoTnA) | 4:15 |
-| 19 | [I'M Done](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
+| 19 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 20 | [Jogiya \(From "Bhoomi 2025"\)](https://open.spotify.com/track/538w9eujfTBKBruTuj5Tzh) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Jogiya \(From "Bhoomi 2025"\)](https://open.spotify.com/album/2KSpPceIc25p8AtAWTzSz6) | 4:09 |
 | 21 | [Hum Bas Tere Hain \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1sqTnmc6RgbeGrXiuABIPy) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Hum Bas Tere Hain \(From "Ek Deewane Ki Deewaniyat"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OgC71a6cTPxXm8bM6d7rY) | 4:28 |
 | 22 | [MOON](https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [MOON](https://open.spotify.com/album/7murKCe4fkPrgq4bkrnUTQ) | 3:03 |

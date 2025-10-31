@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 164728,
+  "num_followers": 164744,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-10-24 18:33:40",
       "album": {
+        "name": "Passageiro do Bem - LADO B",
+        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Qualquer Lugar",
+      "url": "https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG"
+    },
+    {
+      "added_at": "2025-10-24 18:33:40",
+      "album": {
         "name": "Beth",
         "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 256053,
       "name": "P\u00e9 do Meu Samba - Ao Vivo",
       "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
-    },
-    {
-      "added_at": "2025-10-24 18:33:40",
-      "album": {
-        "name": "Passageiro do Bem - LADO B",
-        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Qualquer Lugar",
-      "url": "https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG"
     },
     {
       "added_at": "2025-10-24 18:33:40",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-10-24 18:33:40",
       "album": {
-        "name": "Bis - Paulinho Da Viola",
-        "url": "https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Dan\u00e7a Da Solid\u00e3o",
-      "url": "https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw"
-    },
-    {
-      "added_at": "2025-10-24 18:33:40",
-      "album": {
         "name": "Baterista: Wilson Das Neves",
         "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 134533,
       "name": "Balan\u00e7o Zona Sul",
       "url": "https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv"
+    },
+    {
+      "added_at": "2025-10-24 18:33:40",
+      "album": {
+        "name": "Bis - Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Dan\u00e7a Da Solid\u00e3o",
+      "url": "https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw"
     },
     {
       "added_at": "2025-10-24 18:33:40",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-10-24 18:33:40",
       "album": {
-        "name": "Do It Yourself (New Bossa Remix)",
-        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
-      },
-      "artists": [
-        {
-          "name": "Markko Mendes",
-          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
-        },
-        {
-          "name": "DJ Hum",
-          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
-        }
-      ],
-      "duration_ms": 252142,
-      "name": "Do It Yourself - New Bossa Remix",
-      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
-    },
-    {
-      "added_at": "2025-10-24 18:33:40",
-      "album": {
         "name": "A Chave do Sucesso",
         "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 190904,
       "name": "Mercado das Flores",
       "url": "https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd"
+    },
+    {
+      "added_at": "2025-10-24 18:33:40",
+      "album": {
+        "name": "Do It Yourself (New Bossa Remix)",
+        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
+      },
+      "artists": [
+        {
+          "name": "Markko Mendes",
+          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+        }
+      ],
+      "duration_ms": 252142,
+      "name": "Do It Yourself - New Bossa Remix",
+      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
     },
     {
       "added_at": "2025-10-24 18:33:40",

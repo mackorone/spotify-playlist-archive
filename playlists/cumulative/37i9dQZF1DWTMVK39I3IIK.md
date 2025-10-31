@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  Dos Santos
+> de skarpeste knive i dansk musik  📸  Malte August
 
-338 songs - 17 hr 10 min
+341 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Deep Waters](https://open.spotify.com/track/747c4oOEq9CG037CUWnz0x) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Deep Waters](https://open.spotify.com/album/137GJAREvB0f5PFfqz4V4V) | 2:36 | 2025-09-11 | 2025-10-07 |
 | [Dele Af Mig](https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Dele Af Mig](https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga) | 2:47 | 2025-02-20 | 2025-05-18 |
 | [Dem, Vi Plejede At Være](https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 5:38 | 2024-06-27 | 2025-02-07 |
-| [Den Lykkelige Ungdom](https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Den Lykkelige Ungdom](https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo) | 2:43 | 2025-09-11 | 2025-10-02 |
+| [Den Lykkelige Ungdom](https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Den Lykkelige Ungdom](https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo) | 2:43 | 2025-09-11 |  |
 | [Den Store Forfører](https://open.spotify.com/track/5xwUSod7Kzw7RXHKgPdS88) | [Elias Boussnina](https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU) | [Den Store Forfører](https://open.spotify.com/album/7FP4HA1RfVwpP0LpMkxoZt) | 2:44 | 2025-07-10 | 2025-07-18 |
 | [Den Udødelige Historie](https://open.spotify.com/track/4FyI2dMr12t6aNisuEW9PT) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Den Udødelige Historie](https://open.spotify.com/album/1ZKRFDbKOtPOjYFldzIx3I) | 2:32 | 2024-08-29 | 2024-10-05 |
 | [Det er din kærlighed](https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Det er din kærlighed](https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0) | 3:47 | 2024-06-27 | 2025-02-07 |
@@ -73,6 +73,7 @@
 | [DIE FOR ME](https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [DIE FOR ME \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4) | 2:46 | 2024-06-27 | 2024-09-13 |
 | [Die For You](https://open.spotify.com/track/12ShYQUzYZel1n5f4icThX) | [CARLLO YABOY](https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie) | [Die For You](https://open.spotify.com/album/0fv5gmYtBNyd5yANUN0ASo) | 2:45 | 2025-07-03 | 2025-08-24 |
 | [Din Sang](https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Din Sang](https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD) | 2:56 | 2024-06-27 | 2025-02-11 |
+| [Din Yndlingssang](https://open.spotify.com/track/4cj5jbRFOL0nlQDa4DCwIv) | [Schæfer](https://open.spotify.com/artist/0x4ROTzcloLiDWCeJvYeMo) | [Din Yndlingssang](https://open.spotify.com/album/20YePk1yUX6DEYvlCf6vxR) | 3:44 | 2025-10-30 |  |
 | [Diskosnav](https://open.spotify.com/track/1rc40ngp3eY9POSvsfftYP) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Diskosnav](https://open.spotify.com/album/4NU6Dmiwn4tgGi42FFsakA) | 2:50 | 2025-09-04 | 2025-09-23 |
 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-09-19 | 2024-11-16 |
 | [Don't Go](https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Don't Go](https://open.spotify.com/album/7mSxEwgm8OdwnOjv8urJlD) | 3:09 | 2025-01-30 | 2025-05-02 |
@@ -120,7 +121,7 @@
 | [Ghosted](https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Too Bad We Grow Up](https://open.spotify.com/album/3JEsGLchf4cPvjSud2EefH) | 3:13 | 2025-06-05 | 2025-09-18 |
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 | 2025-01-24 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-27 | 2024-08-23 |
-| [Gode Dage Venter](https://open.spotify.com/track/6qRcNR61C16q4sSplRwe24) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/331nvnmllDG5iYUsEvbsS6) | 3:25 | 2025-10-23 |  |
+| [Gode Dage Venter](https://open.spotify.com/track/6qRcNR61C16q4sSplRwe24) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/331nvnmllDG5iYUsEvbsS6) | 3:25 | 2025-10-23 | 2025-10-31 |
 | [Grå Skyer](https://open.spotify.com/track/0sdW0LZgcaY5KGPzLrq55A) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Grå Skyer](https://open.spotify.com/album/6pikXZAx9cyLdYSisP5gBE) | 2:51 | 2025-03-07 | 2025-03-14 |
 | [gyldne løfter](https://open.spotify.com/track/4v1vC9ENhra6G8Qj95TJ9L) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [gyldne løfter](https://open.spotify.com/album/1OUMoazluzkG5nD8MI2BmQ) | 3:39 | 2025-03-20 | 2025-03-28 |
 | [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 | 2025-02-13 | 2025-09-05 |
@@ -239,12 +240,13 @@
 | [Pretty When I Cry](https://open.spotify.com/track/0NzUJ9Cm11emUvPzP7m0w1) | [Johanne Rosen](https://open.spotify.com/artist/3fDUHxQhNCg1E5pH7o13ph) | [Pretty When I Cry](https://open.spotify.com/album/1DXMET9Q9sSG6FakBVPb3j) | 3:04 | 2025-07-17 | 2025-07-25 |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
+| [PUPILLER](https://open.spotify.com/track/1xoSUw7Ph8zlE1VR526FBB) | [Cano](https://open.spotify.com/artist/2Qd4bMMZa3Wc5Qaawf9Oho), [Salomon Stampe](https://open.spotify.com/artist/75TXnvyqAZUdfmD54jAaKd) | [PUPILLER](https://open.spotify.com/album/7jQF1UbqL3UI2ez2rYhfcZ) | 2:44 | 2025-10-30 |  |
 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 | 2025-01-09 | 2025-01-24 |
 | [PÅ TIL DET SAMME](https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [PÅ TIL DET SAMME](https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO) | 1:56 | 2025-10-02 |  |
 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 | 2025-05-15 | 2025-09-12 |
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 | 2025-03-28 |
 | [Regn På Min Kind](https://open.spotify.com/track/5mcIyGl60e8Y1pk4hx8l6S) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Regn På Min Kind](https://open.spotify.com/album/6xscW4MSCl4g87YaQyd8BH) | 2:49 | 2025-03-27 | 2025-05-23 |
-| [Regner med i morgen](https://open.spotify.com/track/4CrI9DDQhs2r0Mwqo4fuSH) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [kh kh kh](https://open.spotify.com/album/7Ci8zGzBpTU42ZYe2A0BqM) | 3:06 | 2025-10-26 |  |
+| [Regner med i morgen](https://open.spotify.com/track/4CrI9DDQhs2r0Mwqo4fuSH) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [kh kh kh](https://open.spotify.com/album/7Ci8zGzBpTU42ZYe2A0BqM) | 3:06 | 2025-10-26 | 2025-10-31 |
 | [Regnvejr](https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [EP](https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8) | 3:16 | 2025-09-25 |  |
 | [Rend Mig I Røven](https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Rend Mig I Røven](https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR) | 3:20 | 2025-08-14 |  |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 | 2025-09-05 |
@@ -278,7 +280,7 @@
 | [Storebæltsbroen](https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Storebæltsbroen](https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q) | 2:59 | 2024-06-27 | 2025-08-01 |
 | [Storm](https://open.spotify.com/track/57zAO3UAUe7aP3rjrVAYJR) | [Holdo](https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC) | [Storm](https://open.spotify.com/album/56nT96slSLaC6UL8d0VIQH) | 3:00 | 2025-10-02 | 2025-10-24 |
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 | 2024-09-20 |
-| [Stuck in Traffic](https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Stuck in Traffic](https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F) | 3:15 | 2025-08-28 |  |
+| [Stuck in Traffic](https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Stuck in Traffic](https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F) | 3:15 | 2025-08-28 | 2025-10-31 |
 | [Styrke](https://open.spotify.com/track/2ev8YZ4KyMfRVSTujKhtWu) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT) | [Tro](https://open.spotify.com/album/03IN8a5iPH94Nb5SlQYimx) | 2:46 | 2025-01-30 | 2025-02-05 |
 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-05 | 2025-09-16 |
 | [Sunny](https://open.spotify.com/track/0I4KrchOuSukO393z4qwpB) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Sunny](https://open.spotify.com/album/4OwdPcbGEcmrYRHRxnL5t5) | 2:20 | 2025-06-19 | 2025-09-05 |
@@ -333,6 +335,7 @@
 | [Void](https://open.spotify.com/track/0FnPLGAM2kz47V99T5YskK) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Void](https://open.spotify.com/album/3VZSSQaS4szKE3aq2vNNEW) | 3:16 | 2025-10-23 |  |
 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 |  |
 | [Vågen igen](https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb) | 4:10 | 2024-10-24 | 2025-03-21 |
+| [Vægtløs](https://open.spotify.com/track/1D5t5C40UMsyIVxooccqQX) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [](https://open.spotify.com/album/null) | 2:57 | 2025-10-30 |  |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 | 2025-06-19 |  |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 | 2025-09-12 |
@@ -341,7 +344,7 @@
 | [Without You \(feat\. eee gee\)](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 | 2024-09-26 |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 | 2025-07-11 |
 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 | 2025-06-19 | 2025-10-17 |
-| [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 | 2025-09-11 |  |
+| [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 | 2025-09-11 | 2025-10-31 |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-27 | 2025-07-11 |
 | [Yourself](https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Yourself](https://open.spotify.com/album/6nui1QBsq4FYx8R6ncaqNL) | 2:45 | 2025-07-31 | 2025-08-08 |
 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 | 2025-07-03 | 2025-08-12 |

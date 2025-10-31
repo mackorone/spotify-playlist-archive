@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 49703,
+  "num_followers": 49694,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAADH7CdGqT44RGnEGP8UpwtF",
+  "snapshot_id": "aQFZAAAAAADpHZCy9t/hqR4EfSZgQfXV",
   "tracks": [
     {
       "added_at": null,
@@ -68,7 +68,7 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 192920,
+      "duration_ms": 192933,
       "name": "\u8272\u5f69",
       "url": "https://open.spotify.com/track/5H37zP5tQCneoCRJEMRcnV"
     },
@@ -152,7 +152,7 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 150506,
+      "duration_ms": 150500,
       "name": "\u507d\u9854",
       "url": "https://open.spotify.com/track/1CuCtAmIi4Gjk3q9wkWOKw"
     },
@@ -224,7 +224,7 @@
           "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 205973,
+      "duration_ms": 205966,
       "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t"
     },
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ever",
-        "url": "https://open.spotify.com/album/7x0EC8RQn7L2ZghQDGZ7qe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Ever",
-      "url": "https://open.spotify.com/track/3WiGi6UeOTH1hhjCaTTQwT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u8272\u5f69",
         "url": "https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 181266,
       "name": "\u611b\u3092\u89e3\u304f",
       "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ever",
+        "url": "https://open.spotify.com/album/7x0EC8RQn7L2ZghQDGZ7qe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Ever",
+      "url": "https://open.spotify.com/track/3WiGi6UeOTH1hhjCaTTQwT"
     },
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "doku",
-        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
       },
       "artists": [
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "safmusic",
-          "url": "https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7"
         }
       ],
-      "duration_ms": 187900,
-      "name": "a.m.3:21\uff08safmusic Remix\uff09",
-      "url": "https://open.spotify.com/track/7g7uPUI6kO8ru6JzpbZtVZ"
+      "duration_ms": 179266,
+      "name": "TORIHADA",
+      "url": "https://open.spotify.com/track/0NGNeVj68sBFcyyHwax4C0"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+        "name": "doku",
+        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
       },
       "artists": [
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "safmusic",
+          "url": "https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7"
         }
       ],
-      "duration_ms": 179253,
-      "name": "TORIHADA",
-      "url": "https://open.spotify.com/track/0NGNeVj68sBFcyyHwax4C0"
+      "duration_ms": 187900,
+      "name": "a.m.3:21\uff08safmusic Remix\uff09",
+      "url": "https://open.spotify.com/track/7g7uPUI6kO8ru6JzpbZtVZ"
     },
     {
       "added_at": null,
@@ -492,7 +492,7 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 242346,
+      "duration_ms": 242333,
       "name": "\u7802\u306e\u57ce",
       "url": "https://open.spotify.com/track/3GRFoiwlWZKMtdEm8TRpb7"
     },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "; semicolon",
         "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
       },
@@ -664,7 +664,7 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 270160,
+      "duration_ms": 270166,
       "name": "rain check",
       "url": "https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR"
     },
@@ -683,22 +683,6 @@
       "duration_ms": 215700,
       "name": "\u58f0\u660e",
       "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30aa\u30ea\u30b8\u30f3",
-        "url": "https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "\u30aa\u30ea\u30b8\u30f3",
-      "url": "https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
       "duration_ms": 228000,
       "name": "\u6843\u6e90\u90f7",
       "url": "https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30aa\u30ea\u30b8\u30f3",
+        "url": "https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "\u30aa\u30ea\u30b8\u30f3",
+      "url": "https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr"
     },
     {
       "added_at": null,
@@ -784,7 +784,7 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 175106,
+      "duration_ms": 175100,
       "name": "Sugarveil",
       "url": "https://open.spotify.com/track/34ozZofkGQZi2zzdTTdvtO"
     },

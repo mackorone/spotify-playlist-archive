@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Joe Armon\-Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,345 likes - 82 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,354 likes - 82 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 81 | [Flowers and Butterfly](https://open.spotify.com/track/0TnZDDsrZJHf05NMM6YkJW) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Flowers and Butterfly](https://open.spotify.com/album/0a4ChujBi0qpoWUmu405J4) | 4:05 |
 | 82 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 
-Snapshot ID: `AAAAAPmlsAn+r6Ftxfhp29MBpX05+Twr`
+Snapshot ID: `AAAAAMXU+ju+jHnOxKl9m7HjifLtixcj`

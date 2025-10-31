@@ -4,7 +4,7 @@
 
 > Spooky season is begonnen! Luister hier naar de meest griezelige halloween hits.👻
 
-153 songs - 8 hr 57 min
+154 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 | 2025-05-30 | 2025-09-23 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-05-30 | 2025-09-23 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 2:44 | 2025-05-30 | 2025-09-23 |
+| [Halloween](https://open.spotify.com/track/5VHW9u2VoMjKmNlX0L6RFC) | [M\-Kids](https://open.spotify.com/artist/4mNwryO7qTpiXHyoxTfAup) | [Cool](https://open.spotify.com/album/692MsllJlwgLsGtx3Hus7v) | 3:12 | 2025-10-30 |  |
 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 | 2025-09-22 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-05-30 | 2025-09-23 |
 | [Head Held High \- Acoustic](https://open.spotify.com/track/7zognYHwgpDhbx00OsIspn) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [The Journey \(Deluxe\)](https://open.spotify.com/album/2ahRllMpbdoEMTY0qRMQm6) | 3:48 | 2025-05-30 | 2025-09-23 |

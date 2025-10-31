@@ -8021,6 +8021,28 @@
     },
     {
       "album": {
+        "name": "Guardian Angel",
+        "url": "https://open.spotify.com/album/5NO5T8NwwbpFCBpL8rFU81"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Guardian Angel",
+      "url": "https://open.spotify.com/track/7JFkL98dEjAzkGnBW8SJid"
+    },
+    {
+      "album": {
         "name": "Gucci",
         "url": "https://open.spotify.com/album/1E1Nsxo1DndfMRIsmhtVm7"
       },
@@ -22576,7 +22598,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 133125,
       "name": "You - Teddy Cream Remix",
       "url": "https://open.spotify.com/track/29i7c58ZNu7cTtQMCwnXaT"

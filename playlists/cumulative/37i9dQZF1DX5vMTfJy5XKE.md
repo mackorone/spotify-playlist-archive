@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-899 songs - 2 day 0 hr 2 min
+900 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/track/3k2zUjp7hBGmQBWDgXrjPg) | [Moonalice](https://open.spotify.com/artist/03UgRdV3bSLEHGmdagyM0e) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/7uwvaWATDOxj94MPrDIkPC) | 3:18 | 2025-10-24 |  |
 | [Rockin’ Around The Christmas Tree](https://open.spotify.com/track/1hecBi6qXM8bjTPnJjr205) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Brett Young & Friends Sing The Christmas Classics](https://open.spotify.com/album/0qWmDshW80OTUuipP3Wvla) | 2:12 | 2021-12-24 | 2022-09-28 |
 | [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 | 2022-11-11 | 2023-10-04 |
+| [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/0YJ6rqKm8XLaVIWEjH0DJV) | [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Christmas With Friends](https://open.spotify.com/album/6TJ9X5OsTdbwWcqXgONRZf) | 3:29 | 2025-10-24 |  |
 | [Rudolph The Red\-Nosed Reindeer \(feat\. James Morrison\)](https://open.spotify.com/track/2DSuZdVBrxUB4R45yslZ5I) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY), [James Morrison](https://open.spotify.com/artist/0QWCnpfvnorRJej06j0J7v) | [Christmas Songbook](https://open.spotify.com/album/2iTOK6uvbkrs8lmYi0LpZ2) | 2:36 | 2023-11-17 | 2024-08-31 |
 | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/track/0QnznO6imspkpxHFY1c34b) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx), [Matthew Barber](https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX) | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/album/6lal9JhZK4ctetNcVb4OJK) | 2:36 | 2025-10-24 |  |
 | [Rudolph, the Red\-Nosed Reindeer](https://open.spotify.com/track/2mm8ljAmffVasjOkWVIgfW) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Gifts, Presents, and Treats from Valerie June](https://open.spotify.com/album/60XcRMgP7sDsFnXPctWmVb) | 1:46 | 2024-11-15 | 2025-09-27 |

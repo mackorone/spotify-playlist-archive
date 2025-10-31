@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 441087,
+  "num_followers": 441198,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Time To Say Goodbye",
         "url": "https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "My Beat Goes",
-        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "My Beat Goes",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Fire To The Rain",
         "url": "https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 144935,
       "name": "Fire To The Rain",
       "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1340,7 +1340,7 @@
           "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         }
       ],
-      "duration_ms": 159475,
+      "duration_ms": 159483,
       "name": "Pedro - W&W Remix",
       "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
     },
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Balling (L\u00c4UFF Remix)",
-        "url": "https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "L\u00c4UFF",
-          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
-        }
-      ],
-      "duration_ms": 260689,
-      "name": "Balling - L\u00c4UFF Remix",
-      "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Come On Baddie Let's Go Party",
         "url": "https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2"
       },
@@ -1471,6 +1451,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Balling (L\u00c4UFF Remix)",
+        "url": "https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "L\u00c4UFF",
+          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
+        }
+      ],
+      "duration_ms": 260689,
+      "name": "Balling - L\u00c4UFF Remix",
+      "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Jerk It Out",
         "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
       },
@@ -1483,26 +1483,6 @@
       "duration_ms": 153600,
       "name": "Jerk It Out",
       "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "All Of The Lights",
-        "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1523,6 +1503,26 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "All Of The Lights",
+        "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1832,7 +1832,7 @@
           "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
         }
       ],
-      "duration_ms": 176817,
+      "duration_ms": 176875,
       "name": "My Mama Dropped LSD in the 90's",
       "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
     },
@@ -1855,6 +1855,30 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Click Click Click",
+        "url": "https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Click Click Click",
+      "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1891,50 +1915,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Click Click Click",
-        "url": "https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Click Click Click",
-      "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Late At Night",
         "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
       },
@@ -1955,26 +1935,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Jump Jump Jump",
-        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
         },
         {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
         }
       ],
-      "duration_ms": 159473,
-      "name": "Jump Jump Jump",
-      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+      "duration_ms": 136800,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -2003,6 +1979,30 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Jump Jump Jump",
+        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "Jump Jump Jump",
+      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Mozart's Final Rave (Lacrimosa)",
         "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
       },
@@ -2023,6 +2023,22 @@
       "duration_ms": 105009,
       "name": "Mozart's Final Rave (Lacrimosa)",
       "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/75lVQpORGx9xwyyPr55Aa1"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 176934,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/1khBnYHMABE5yXgKs5p5of"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -2051,42 +2067,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Crawling",
-        "url": "https://open.spotify.com/album/75lVQpORGx9xwyyPr55Aa1"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
         }
       ],
-      "duration_ms": 176934,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/1khBnYHMABE5yXgKs5p5of"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN"
-      },
-      "artists": [
-        {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
-        },
-        {
-          "name": "Robbe",
-          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
-        },
-        {
-          "name": "Danny Ores",
-          "url": "https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY"
-        }
-      ],
-      "duration_ms": 127241,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg"
+      "duration_ms": 124867,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
     }
   ],
   "unique_name": "Bass Explosion",

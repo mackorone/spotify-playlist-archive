@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: L.A.B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,628 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,649 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 23 | [Get Away](https://open.spotify.com/track/02yYxxU7lRPeoWuWN0bPuw) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Revival](https://open.spotify.com/album/7x6HDpIHEr5Pg2hKp732YP) | 3:31 |
 | 24 | [Back In My Arms](https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh) | [Back In My Arms](https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr) | 3:45 |
 | 25 | [Still the One](https://open.spotify.com/track/5kt8ukMn43YK7eMYeD2tP8) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Still the One](https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2) | 2:19 |
-| 26 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
-| 27 | [Ms\. Beautiful](https://open.spotify.com/track/2OHHEGVzYWjvpDdC57kGg2) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [4 The People](https://open.spotify.com/album/3Rm9pkenoLVhmMMolEN4bd) | 3:43 |
+| 26 | [Ms\. Beautiful](https://open.spotify.com/track/2OHHEGVzYWjvpDdC57kGg2) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [4 The People](https://open.spotify.com/album/3Rm9pkenoLVhmMMolEN4bd) | 3:43 |
+| 27 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 |
 | 28 | [Home](https://open.spotify.com/track/2acveoZyxBzwbxw6Y3v18J) | [Son & Water](https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi), [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Home](https://open.spotify.com/album/7mKtYSUiaVa6nccctEBRo3) | 3:35 |
 | 29 | [Heart of a Lion](https://open.spotify.com/track/1tF5oLj3khkYMa65szhPBB) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Wiz Tokelau](https://open.spotify.com/artist/5ShiAPEQ5yAKJkcFcD6fBG) | [Heart of a Lion](https://open.spotify.com/album/4Hhzv9tY3RKq7RWHkztSXX) | 3:25 |
 | 30 | [Movin' About My Ways](https://open.spotify.com/track/5rBqEivSXbm8lFsX9rXMFs) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [DAK](https://open.spotify.com/artist/3In2BOfcdF10w1epRfkudd) | [Line Em Up](https://open.spotify.com/album/1cYJWFHmRfEz9MOAreN1C6) | 4:49 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 40 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
 | 41 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 |
 | 42 | [Do Anything](https://open.spotify.com/track/1P4EedNF1QADcxSIeB0ixa) | [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Do Anything](https://open.spotify.com/album/32zKVSCtzv4uCk0EbMGr3a) | 2:57 |
-| 43 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
-| 44 | [For the People](https://open.spotify.com/track/51AXsgpHP8R1QWzFZRWZJk) | [Nesian Mystik](https://open.spotify.com/artist/29qTQ8hGGr8QxXbVRaC7WC) | [Polysaturated](https://open.spotify.com/album/6HZlLnjU5CzMyFgCkdIqrF) | 3:14 |
+| 43 | [For the People](https://open.spotify.com/track/51AXsgpHP8R1QWzFZRWZJk) | [Nesian Mystik](https://open.spotify.com/artist/29qTQ8hGGr8QxXbVRaC7WC) | [Polysaturated](https://open.spotify.com/album/6HZlLnjU5CzMyFgCkdIqrF) | 3:14 |
+| 44 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 |
 | 45 | [Paradise 35](https://open.spotify.com/track/0ljIjlkoHRhuh3NtZFkq5q) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Classick J](https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq) | [Paradise 35](https://open.spotify.com/album/4dXtisZsrQGQ1HlihA9wVz) | 4:12 |
 | 46 | [Getting Stronger](https://open.spotify.com/track/0aRiRbMBJ4boE3hhhtlOsB) | [Adeaze](https://open.spotify.com/artist/24pxvLTDsfnox2HHlKf2mX) | [Always & for Real \(Deluxe Edition\)](https://open.spotify.com/album/6aYQiHlTI1VgSM3TKIMUr1) | 3:05 |
 | 47 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 |

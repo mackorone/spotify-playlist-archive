@@ -4,7 +4,7 @@
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 22 min
+53 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Introduction](https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:25 | 2025-07-12 |  |
 | [Jericho](https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:32 | 2025-07-12 |  |
 | [Jogo \(feat\. Boss6man\) \- speed up](https://open.spotify.com/track/1wSlKkVlDVVmH55siiWl1q) | [maskiking](https://open.spotify.com/artist/4935TUbJvVDvF0ciKIgWf0), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Boss6man](https://open.spotify.com/artist/2MpxgoxOjts3AjYXUBcT8V) | [Jogo \(feat\. Boss6man\) \[speed up\]](https://open.spotify.com/album/1GXjJ8RVyVabZpRPyQJkjy) | 2:19 | 2025-09-13 | 2025-10-19 |
+| [Jogo \(Smoke Up\)](https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ) | [maskiking](https://open.spotify.com/artist/4935TUbJvVDvF0ciKIgWf0), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Boss6man](https://open.spotify.com/artist/2MpxgoxOjts3AjYXUBcT8V) | [Jogo \(Smoke Up\)](https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr) | 2:49 | 2025-10-31 |  |
 | [Kilo](https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:12 | 2025-07-12 |  |
 | [Lock Up](https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:14 | 2025-07-12 |  |
 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 | 2025-10-12 |  |

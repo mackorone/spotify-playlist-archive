@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Kofee Bean
 
-169 songs - 9 hr 25 min
+170 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Desire](https://open.spotify.com/track/654SYg2HiYmZI3chN6erFl) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl) | [Desire](https://open.spotify.com/album/70yKNubVpLpVipULl9k5Pr) | 3:35 | 2025-08-21 |  |
 | [Do Me \- Remix](https://open.spotify.com/track/48ZJQls86YBeO0oSvsZvDf) | [Alloy Malik](https://open.spotify.com/artist/7iGL7mxv4v0aj4EtwQox88), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Do Me \(Remix\)](https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB) | 2:48 | 2022-06-06 | 2022-09-09 |
 | [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 | 2025-09-05 |
-| [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 | 2022-12-09 |  |
+| [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 | 2022-12-09 | 2025-10-31 |
 | [Dreams](https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Dreams](https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH) | 3:06 | 2023-11-16 |  |
 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 | 2025-10-02 |  |
 | [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 | 2023-12-09 |
@@ -82,6 +82,7 @@
 | [Legeza](https://open.spotify.com/track/4FragLnXmS8EJA9WPLr9fW) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Walter Yt](https://open.spotify.com/artist/1M3yIJrAXh63N36XijhgfA) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 3:26 | 2022-06-06 | 2023-07-01 |
 | [Little Faith](https://open.spotify.com/track/2DNOzgqgDrrB9j0LbMJs84) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Sandra Suubi](https://open.spotify.com/artist/33JYHmzZa3lNG7VtH0wNSM) | [Little Faith](https://open.spotify.com/album/6K43HxSlOV0wgIcJqgrege) | 3:15 | 2022-08-05 | 2023-12-09 |
 | [LOML](https://open.spotify.com/track/2HfrpJfxPzGwbGQSWOW33f) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Rush](https://open.spotify.com/album/7xWYTujEJTUvd26ddqrwCA) | 2:10 | 2025-07-24 |  |
+| [LONELY IN THE MORNING](https://open.spotify.com/track/2E9TRhcXedk2PBvrpiPlO0) | [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn), [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV), [Njovu](https://open.spotify.com/artist/3GBx2ug5FaA74dkpC4SYZj) | [LONELY IN THE MORNING](https://open.spotify.com/album/5QyWgWMNpGmnOhfFXbvD74) | 3:06 | 2025-10-30 |  |
 | [Love Letter](https://open.spotify.com/track/4p6jxHgZuMPL8fbv5oEg5X) | [UNiTY Originaal](https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V), [Lilly Ahabwe](https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl) | [Love Letter](https://open.spotify.com/album/7IasjQ1vyIPAPlOhvsM6S6) | 3:14 | 2023-08-25 | 2023-11-11 |
 | [Love So Hard](https://open.spotify.com/track/0wziWY68BtP0cCoysabecJ) | [Neliah](https://open.spotify.com/artist/3q7yaZhoTuqkL9Ku1aPcx5) | [Love So Hard](https://open.spotify.com/album/6ZeXSuv1si3Mobh4Z446Wz) | 3:40 | 2024-05-16 | 2024-06-22 |
 | [Lover Girl](https://open.spotify.com/track/3xvordMfsFsbPsuCWEdnAf) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [Lover Girl](https://open.spotify.com/album/6ZPwy1sInfO5kbh6G9N9n6) | 3:21 | 2023-02-10 | 2024-11-23 |

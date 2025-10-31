@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Vaundy
 
-2,671 songs - 6 day 22 hr 47 min
+2,672 songs - 6 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1533,6 +1533,7 @@
 | [なんて日々だっけ?](https://open.spotify.com/track/3ttrZsHEiL3ojEjOCzZvBY) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [なんて日々だっけ?](https://open.spotify.com/album/5I5xLwPlxFfOxlPpv5Qy2g) | 3:13 | 2023-03-28 | 2023-04-26 |
 | [なんとなく](https://open.spotify.com/track/4UDxmiKbNQhsvgqfHYegi0) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [なんとなく](https://open.spotify.com/album/2Um8i9Y6FdIQgDxEx8OKW4) | 3:35 | 2024-07-02 | 2024-07-31 |
 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 | 2024-10-22 | 2025-04-18 |
+| [ねてもさめても](https://open.spotify.com/track/5ab13LCZxgxF8JUV7gZuOz) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ねてもさめても](https://open.spotify.com/album/0LZliKYxi1AWvY3Yh3PByV) | 2:46 | 2025-10-30 |  |
 | [ねむれよ、ねむれ](https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 2:37 | 2024-01-30 | 2024-03-06 |
 | [のらりつらり](https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [のらりつらり](https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h) | 3:25 | 2023-07-11 | 2023-08-18 |
 | [はじめから自由だった](https://open.spotify.com/track/58y3Xk4J1uT7EpyYomT4pg) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [はじめから自由だった](https://open.spotify.com/album/1ZpAlTk2lqbFe8Nye8Aewz) | 3:19 | 2024-03-05 | 2024-07-17 |
@@ -1754,7 +1755,7 @@
 | [ジャンヌ・ダルクによろしく](https://open.spotify.com/track/6Ml2pFUdOxfmLmKMbJM9Ou) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ジャンヌ・ダルクによろしく](https://open.spotify.com/album/4Nf7lVjQa2vi4Ad18oqiD4) | 3:49 | 2024-09-10 | 2024-11-13 |
 | [ジャンピンジャックフラッシュ](https://open.spotify.com/track/2QcPl5pw6ZZLyWH669BnVh) | [MONOBRIGHT](https://open.spotify.com/artist/1fA0ExNzbvrQiX84L8SqQk) | [ジャンピンジャックフラッシュ](https://open.spotify.com/album/0TaPNDpQOkopVPdFnD4WHL) | 4:24 | 2025-09-02 | 2025-09-18 |
 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 | 2024-03-07 | 2024-05-10 |
-| [ジレンマ](https://open.spotify.com/track/6XyLt6RO5lQXoIn3XAtie2) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Seein' Your Ghost](https://open.spotify.com/album/04XIQYcGVoEtwONIjV9DBd) | 2:44 | 2025-10-28 |  |
+| [ジレンマ](https://open.spotify.com/track/6XyLt6RO5lQXoIn3XAtie2) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Seein' Your Ghost](https://open.spotify.com/album/04XIQYcGVoEtwONIjV9DBd) | 2:44 | 2025-10-28 |  |
 | [スイートピー](https://open.spotify.com/track/0K8YQCXjT5QCOJrdZFimG9) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [スイートピー](https://open.spotify.com/album/6Py14Bzgq3wiuUVdy6QGDS) | 4:12 | 2025-03-11 | 2025-04-04 |
 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 | 2024-07-09 | 2024-08-30 |
 | [スカーレット](https://open.spotify.com/track/5lU8PI88khcDDsN7Nc8Drm) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 4:31 | 2025-08-19 | 2025-09-03 |
@@ -1765,7 +1766,7 @@
 | [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2023-12-26 | 2023-12-30 |
 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 | 2025-07-08 | 2025-10-08 |
 | [スパークルダンサー](https://open.spotify.com/track/4fMj0cYyIkt4y1rkFYAvdg) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [スパークルダンサー](https://open.spotify.com/album/2nGj6Z51dHHa63WwF6BKdy) | 3:28 | 2023-01-24 | 2023-01-26 |
-| [スパートシンドローマー](https://open.spotify.com/track/0DKaod4U8DOyesrlwvQzVH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [スパートシンドローマー](https://open.spotify.com/album/7ivYLdm0eoIJ2Ew34JHRaK) | 3:44 | 2025-10-08 |  |
+| [スパートシンドローマー](https://open.spotify.com/track/0DKaod4U8DOyesrlwvQzVH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [スパートシンドローマー](https://open.spotify.com/album/7ivYLdm0eoIJ2Ew34JHRaK) | 3:44 | 2025-10-08 | 2025-10-31 |
 | [スピード \- Speed](https://open.spotify.com/track/2D3jMiMkKMmvchLMLXLG4T) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [スピード \- Speed](https://open.spotify.com/album/1b468g18LpNbntgka81SCM) | 3:38 | 2025-04-08 | 2025-04-16 |
 | [スプモーニ](https://open.spotify.com/track/4CvvoEOLzOdNKw3EWwbRW2) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [スプモーニ](https://open.spotify.com/album/7w85Rqgl7SMx8FikF73ntd) | 4:46 | 2024-08-06 | 2024-10-16 |
 | [スプートニク](https://open.spotify.com/track/23JERtxh6zgowlwWx1iEMx) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [スプートニク](https://open.spotify.com/album/5sEA6hsBrRbNekds1bDXMc) | 4:48 | 2024-01-09 | 2024-02-14 |

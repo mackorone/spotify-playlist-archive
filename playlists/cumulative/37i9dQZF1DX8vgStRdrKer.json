@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Calm In The Storm",
+        "url": "https://open.spotify.com/album/57DPztG9F6z6QYmWBKNfkT"
+      },
+      "artists": [
+        {
+          "name": "Tres Dei",
+          "url": "https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253442,
+      "name": "Calm In The Storm",
+      "url": "https://open.spotify.com/track/3XdwGutGxh8RLhXaNTUGtV"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 200724,
       "name": "Decided",
       "url": "https://open.spotify.com/track/24bnanTc0X1wQIxbFojZgc"
@@ -4502,7 +4520,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 150384,
       "name": "Heaven's Got My Back",
       "url": "https://open.spotify.com/track/0CxtJRvWV4wx9PgtpPuaII"
@@ -7117,6 +7135,28 @@
     },
     {
       "album": {
+        "name": "Living Waters",
+        "url": "https://open.spotify.com/album/1oIpFIzGcakV6rnvVTWDjP"
+      },
+      "artists": [
+        {
+          "name": "Toprock Gospel",
+          "url": "https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp"
+        },
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Living Waters",
+      "url": "https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV"
+    },
+    {
+      "album": {
         "name": "Lomhlengi / Uvukile (Live)",
         "url": "https://open.spotify.com/album/2hqvjazkKC4aQLYDkhZFv5"
       },
@@ -7783,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "More Than Enough",
+        "url": "https://open.spotify.com/album/4ILIZGOexhKYEfdSaO5Q3z"
+      },
+      "artists": [
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/3jeP2N4ZncGyBWNsfWpXj3"
+    },
+    {
+      "album": {
         "name": "MOST HIGH",
         "url": "https://open.spotify.com/album/0NuHWN44BKVoljjBUY6VmF"
       },
@@ -7834,7 +7892,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 170721,
       "name": "Move On",
       "url": "https://open.spotify.com/track/6DZopdGdHv6WIh6d1Qh0rZ"
@@ -7958,7 +8016,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 598181,
       "name": "My God Is Good",
       "url": "https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5"
@@ -10248,7 +10306,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 525048,
       "name": "Show Up - Live",
       "url": "https://open.spotify.com/track/64QSlc4hsh1ABuNkiyrIWg"
@@ -10408,7 +10466,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 218027,
       "name": "So Special",
       "url": "https://open.spotify.com/track/5rlDCAnLjPQEsnag4inqol"
@@ -12876,7 +12934,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 216962,
       "name": "Yeshua (Worship Rendition)",
       "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"

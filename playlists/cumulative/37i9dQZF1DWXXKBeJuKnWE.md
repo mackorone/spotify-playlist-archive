@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Bad Omens
 
-668 songs - 1 day 16 hr 9 min
+669 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 | 2025-05-08 |  |
 | [Sacrifice](https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Sacrifice](https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32) | 3:59 | 2025-10-03 |  |
 | [SAFE](https://open.spotify.com/track/5rLk33lqH3R81LUfQ6IPHD) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [SAFE](https://open.spotify.com/album/0FyUHoVMe1FqC7kV79CIMC) | 4:46 | 2025-10-03 | 2025-10-24 |
-| [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-10-03 |  |
+| [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 | 2025-10-03 | 2025-10-31 |
 | [Same Old Song](https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/01ZpbrUjs0ia2snQno4WQb) | 4:06 | 2025-10-23 |  |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-11-10 | 2023-07-26 |
 | [Sandman](https://open.spotify.com/track/5hWW4M4pRUANaf3QwhWoxX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Parasites & Butterflies](https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk) | 2:30 | 2025-09-01 | 2025-09-12 |
@@ -575,6 +575,7 @@
 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-10 |  |
 | [The Love You Want](https://open.spotify.com/track/4lVVewXw4g8hB7sldQyJiL) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 4:23 | 2023-03-03 | 2023-03-25 |
 | [The Mirror](https://open.spotify.com/track/0635umlrKge8mAyC3bhDh4) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [The Mirror](https://open.spotify.com/album/7bwYqda70nBp9i4n3R0Vuj) | 3:01 | 2024-05-23 | 2025-09-12 |
+| [The Real Contra Band](https://open.spotify.com/track/4kBtmojfp18pLG6HPtn5xR) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [The Real Contra Band](https://open.spotify.com/album/4VeS0UCjBAsBhF0HH7Snsr) | 3:09 | 2025-10-23 |  |
 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 | 2024-08-09 | 2025-09-14 |
 | [The Retaliators Theme \(21 Bullets\) \(feat\. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New\)](https://open.spotify.com/track/3iEmgajStVBooooNaltdOv) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Retaliators Theme Song \(21 Bullets\) \[feat\. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New\]](https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k) | 4:02 | 2022-11-10 | 2023-07-26 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-11-10 | 2023-07-26 |

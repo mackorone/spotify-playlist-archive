@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,302 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,324 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 49 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 |
 | 50 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 |
 | 51 | [Zijn Het Je Ogen](https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6) | [Koos Alberts](https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29) | [Het Leven Gaat Door](https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW) | 3:20 |
-| 52 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
-| 53 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
+| 52 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
+| 53 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
 | 54 | [Mijn Liefste](https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 3:16 |
 | 55 | [Turk Uit De Kroeg](https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9) | 3:12 |
 | 56 | [Maak Me Gek](https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Maak Me Gek](https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT) | 3:02 |
-| 57 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
-| 58 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa) | 2:16 |
-| 59 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 |
+| 57 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 |
+| 58 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
+| 59 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa) | 2:16 |
 | 60 | [Adio Amore Adio](https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Gewoon Jannes](https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV) | 3:27 |
 | 61 | [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 |
 | 62 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 93 | [Helena 2.0](https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Helena 2.0](https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf) | 3:20 |
 | 94 | [In Elk Stadje](https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [In Elk Stadje](https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x) | 3:30 |
 | 95 | [Bloedje Bloedje Heet](https://open.spotify.com/track/2lLJZ9cbx2Dp8cgfQTPkhy) | [Rob Zorn](https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8) | [Bloedje Bloedje Heet](https://open.spotify.com/album/4kmJHWSPd0ZxiZOXals4zi) | 3:54 |
-| 96 | [Liever Te Dik In De Kist](https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Liever Te Dik In De Kist](https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA) | 3:58 |
-| 97 | [Muziek Is Ons Leven](https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS) | [Echte Vrienden](https://open.spotify.com/artist/3dcKZq8lmXfjRhz17Po1Qb) | [Muziek Is Ons Leven](https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ) | 3:31 |
+| 96 | [Muziek Is Ons Leven](https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS) | [Echte Vrienden](https://open.spotify.com/artist/3dcKZq8lmXfjRhz17Po1Qb) | [Muziek Is Ons Leven](https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ) | 3:31 |
+| 97 | [Liever Te Dik In De Kist](https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Liever Te Dik In De Kist](https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA) | 3:58 |
 | 98 | [Dolores](https://open.spotify.com/track/3qciiRD3GlL8KIq7DV8vd6) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Dolores](https://open.spotify.com/album/4fJaDTHsSwMFrGloawWO5T) | 3:31 |
 | 99 | [Jaren Komen Jaren Gaan](https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Jaren Komen Jaren Gaan](https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe) | 2:53 |
 | 100 | [De Ring die jij draagt 2.0](https://open.spotify.com/track/1n5f3f1Ml3v08Kdh2bIKaq) | [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Wimmie Bouma](https://open.spotify.com/artist/4WJwmv9BDptvPNUCNknCx7) | [De Ring die jij draagt 2.0](https://open.spotify.com/album/0gXqjqCKGWGVSpxujOJTAg) | 3:12 |

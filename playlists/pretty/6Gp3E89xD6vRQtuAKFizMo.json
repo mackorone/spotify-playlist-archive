@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43762,
+  "num_followers": 43760,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaep8j6lVBsDeeUmywZ/UJvaHbYQNa",
+  "snapshot_id": "AAAaezJyOwuLZtAZRG2jeFwhdK9fjH0O",
   "tracks": [
+    {
+      "added_at": "2025-10-31 04:00:48",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/6FLXXwOkE4KDZolj0pPZrT"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "duration_ms": 161515,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5ytTqkPLx9TyuUmLbG4rjt"
+    },
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {

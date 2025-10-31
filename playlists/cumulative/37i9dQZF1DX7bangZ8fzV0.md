@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Bernice West
+> Net die beste Afrikaanse musiek! Omslag: Die Heuwels Fantasties
 
-337 songs - 18 hr 38 min
+338 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Ek Wonder](https://open.spotify.com/track/7d1dnWCYBxIkLHYkxjF6Yd) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Ek Wonder](https://open.spotify.com/album/07wqaVr50Sy5ke6YhxnIF4) | 3:32 | 2023-10-19 | 2024-06-01 |
 | [Elke Liewe Ding](https://open.spotify.com/track/23z91Leg9k5yVesT8pQB4z) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Elke Liewe Ding](https://open.spotify.com/album/7qU2Oc3eVrLclwU0rAgye4) | 3:43 | 2024-05-09 | 2024-08-02 |
 | [Elke Troep](https://open.spotify.com/track/6e8tmQKrN28evqkXYMrdau) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Elke Troep](https://open.spotify.com/album/0IVTaJa5i6fU8qQyoszTr4) | 3:48 | 2024-02-22 | 2024-03-15 |
+| [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 | 2025-10-30 |  |
 | [Enkelvoud](https://open.spotify.com/track/2JifH8GkXc1MrJC8WouZSK) | [Annelie](https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw) | [Enkelvoud](https://open.spotify.com/album/33rz8yr1CSdOc7PLj6Gf1L) | 3:35 | 2024-03-07 | 2024-12-06 |
 | [Erika Way](https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Jodi Jantjies](https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG) | [Dryf](https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt) | 4:33 | 2022-12-08 | 2022-12-30 |
 | [Fairway Lyf](https://open.spotify.com/track/3DLeotilho45LEdwKPYb49) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Fairway Lyf](https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV) | 3:09 | 2023-04-20 | 2023-06-09 |
@@ -282,7 +283,7 @@
 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 | 2023-03-09 | 2025-06-01 |
 | [Sonsak In Die Vrystaat](https://open.spotify.com/track/0kCV9CS4xBUgAyHf2bGjUm) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Sonsak In Die Vrystaat](https://open.spotify.com/album/50dKlWGrIJxkqxOhWtT5gK) | 4:24 | 2025-07-03 |  |
 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 | 2025-05-15 | 2025-06-01 |
-| [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 | 2025-03-06 |  |
+| [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 | 2025-03-06 | 2025-10-31 |
 | [Soos Bloed \- SENSASIE Remix](https://open.spotify.com/track/4uXteEd1JioDpa7IMkYmrR) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Soos Bloed \(SENSASIE Remix\)](https://open.spotify.com/album/6hOn92qvDdFna02b21Qvx6) | 3:28 | 2024-07-11 | 2024-11-08 |
 | [Sou Vir Jou](https://open.spotify.com/track/6b9Dja0fQQBQv0tIhWeJCr) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Sou Vir Jou](https://open.spotify.com/album/0myi1ku1lKysaEXDKeesL7) | 2:59 | 2024-07-04 | 2024-11-28 |
 | [Stadig](https://open.spotify.com/track/3qdqbjYUNv3QYIBchTSaUq) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Stadig](https://open.spotify.com/album/2ndEeWY99a4o2lHtx61nGP) | 3:34 | 2024-05-23 | 2024-10-25 |

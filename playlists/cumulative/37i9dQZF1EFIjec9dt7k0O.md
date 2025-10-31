@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-265 songs - 15 hr 40 min
+268 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Cashmere](https://open.spotify.com/track/55sJWbfqyI3XjzNua7Mqk8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 2:55 | 2025-04-10 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2025-04-10 |  |
 | [Children of the Ocean](https://open.spotify.com/track/67GmvvxZlw3J7CvqNNcr2F) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:09 | 2025-04-10 |  |
-| [Church & State](https://open.spotify.com/track/3y3RHjj31HtHZEw9zkEoQI) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:18 | 2025-10-26 |  |
+| [Church & State](https://open.spotify.com/track/3y3RHjj31HtHZEw9zkEoQI) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:18 | 2025-10-26 | 2025-10-31 |
+| [Church & State](https://open.spotify.com/track/7F9ziKa3aZSfd8Fv5aUfs7) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:18 | 2025-10-30 |  |
 | [Church & State](https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Church & State](https://open.spotify.com/album/4mSxlj7I4IMesbwpS28EU0) | 4:18 | 2025-10-19 | 2025-10-27 |
 | [Comfortable \(feat\. Kranium\)](https://open.spotify.com/track/1t1xXsK199Yte7oJbE7Uoe) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 3:24 | 2025-04-10 |  |
 | [Coming 2 America](https://open.spotify.com/track/1qe9SXab6Hh0dhFYxKYTXG) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Coming 2 America \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nZt8NKX67NCY0UfvuWqdG) | 2:32 | 2025-04-10 |  |
@@ -122,7 +123,8 @@
 | [Home To Mama](https://open.spotify.com/track/3zNUOVnTALQXmPrkyoUgrm) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Acoustix 3](https://open.spotify.com/album/0ytq5rBKe69XgdAEXottS4) | 3:23 | 2025-04-10 | 2025-04-12 |
 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-04-10 |  |
 | [How Long](https://open.spotify.com/track/3oLjGEDskvIB1jwUgnD9mB) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:38 | 2025-04-10 |  |
-| [Human](https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:20 | 2025-10-26 |  |
+| [Human](https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:20 | 2025-10-30 |  |
+| [Human](https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:20 | 2025-10-26 | 2025-10-31 |
 | [Hurt](https://open.spotify.com/track/2BMX5gh37iv3qKhJFiyOyX) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:50 | 2025-04-10 |  |
 | [I Can't Be Myself \(feat\. Jaden\)](https://open.spotify.com/track/4C9pETarpQoI5ODtx6My41) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:13 | 2025-04-10 | 2025-04-12 |
 | [I Need to Know](https://open.spotify.com/track/6gCPwhhn9vmlVHxo6JGmQO) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Gossip](https://open.spotify.com/album/3b0Ribq1uYsFvdbxbB9460) | 3:37 | 2025-04-10 | 2025-04-12 |
@@ -270,7 +272,8 @@
 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 | 2025-04-10 |  |
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2025-04-10 |  |
 | [You](https://open.spotify.com/track/0XucQoARH7LNsI4LJfqObZ) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 3:40 | 2025-04-10 |  |
-| [You Without Me](https://open.spotify.com/track/6qJTqldDSDiI4m0TpL4ORX) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 4:35 | 2025-04-10 |  |
+| [You Without Me](https://open.spotify.com/track/6qJTqldDSDiI4m0TpL4ORX) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 4:35 | 2025-04-10 | 2025-10-31 |
+| [You Without Me](https://open.spotify.com/track/1976jJn3uLmKNUa9cIWm5q) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:39 | 2025-10-30 |  |
 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 | 2025-04-10 |  |
 | [Zombieboy](https://open.spotify.com/track/0ElVpg9XIswx3XWs6kUj6a) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:33 | 2025-04-10 |  |
 

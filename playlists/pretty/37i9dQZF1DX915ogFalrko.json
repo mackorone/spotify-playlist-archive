@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 182208,
+  "num_followers": 182237,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
         "name": "Suburbs",
         "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
       },
@@ -627,6 +643,22 @@
       "duration_ms": 184970,
       "name": "Suburbs",
       "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -647,38 +679,6 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "The Fantastic Sound Of",
-        "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
-      },
-      "artists": [
-        {
-          "name": "Gunter Kallmann Choir",
-          "url": "https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "The Fantastic Sound Of",
+        "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
+      },
+      "artists": [
+        {
+          "name": "Gunter Kallmann Choir",
+          "url": "https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "special",
-        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 138861,
-      "name": "special",
-      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "special",
+        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 138861,
+      "name": "special",
+      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "l.o.v.e",
-        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "l.o.v.e",
-      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "Manga",
         "url": "https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 170413,
       "name": "Manga",
       "url": "https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "l.o.v.e",
+        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "l.o.v.e",
+      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "So Be So Mine",
-        "url": "https://open.spotify.com/album/6a2sEWy5mmfAcsaSW3tt7Q"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 174705,
-      "name": "So Be So Mine",
-      "url": "https://open.spotify.com/track/1EZ8su96SWli2ao55uNyXE"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "Press Pause",
         "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 199380,
       "name": "Press Pause",
       "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "So Be So Mine",
+        "url": "https://open.spotify.com/album/6a2sEWy5mmfAcsaSW3tt7Q"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "So Be So Mine",
+      "url": "https://open.spotify.com/track/1EZ8su96SWli2ao55uNyXE"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Yours & Mine",
-        "url": "https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 213545,
-      "name": "Yours & Mine",
-      "url": "https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "Hopes",
         "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 164500,
       "name": "Hopes",
       "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "Yours & Mine",
+        "url": "https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 213545,
+      "name": "Yours & Mine",
+      "url": "https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
       "artists": [
         {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 221810,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
+      "duration_ms": 249069,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
     }
   ],
   "unique_name": "D\u00eener entre amis",

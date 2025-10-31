@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music across Africa\. Cover: Tina Ardor
 
-267 songs - 20 hr 49 min
+268 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Hewa](https://open.spotify.com/track/6QRS2DLiuCgmP2mLaXpVRB) | [Sohno](https://open.spotify.com/artist/16gx3wfHLBqAFtI4NjtiZP), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Hewa](https://open.spotify.com/album/37VkK6pODbojC0gyi5At0S) | 3:13 | 2025-10-23 |  |
 | [Hey](https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Hey](https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR) | 2:47 | 2022-09-30 | 2023-08-11 |
 | [Hideaway](https://open.spotify.com/track/7BOfHtdQyccVMIdEaHoKJi) | [Ndunda](https://open.spotify.com/artist/5VTEUCyXrYhN0gUUODIjfm) | [Hideaway](https://open.spotify.com/album/3oU5mMOm64fNckEgpNNeGQ) | 3:09 | 2024-07-26 | 2025-08-22 |
+| [Higher Love \- The Ironix Remix](https://open.spotify.com/track/5ctQeEYwRRbQt6Cx7CmWhe) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Higher Love \(Remixes\)](https://open.spotify.com/album/4KaE3pKABWEVZokWD0PVen) | 3:13 | 2025-10-23 |  |
 | [I'll Be There \- Original](https://open.spotify.com/track/2seWEAts59TSfxKHqvPEz5) | [DJ Sbu](https://open.spotify.com/artist/0oQeiwynBX5yOvysGJBYSq), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [I'll Be There \(Original\)](https://open.spotify.com/album/2ub2bbZ37OG78pZIASi3Y7) | 6:49 | 2023-10-12 | 2025-09-26 |
 | [I'm Falling Deep](https://open.spotify.com/track/1OGDT4Auczg3cYUjg895wz) | [Damian Breath](https://open.spotify.com/artist/0baJehjafujdWklt7tRLWO), [Nick Calling](https://open.spotify.com/artist/7unuOtGbZmU28A8Umt1WWu) | [I'm Falling Deep](https://open.spotify.com/album/7dvui23ypelLCEDbOTHlrG) | 2:40 | 2025-10-23 |  |
 | [Idi Ebube \- Afro Vocal Mix](https://open.spotify.com/track/0XdZvB7vHZu2XTNtwCEXwJ) | [ODASOUL](https://open.spotify.com/artist/2ow3ArrKeVgP3MhDtWOnjo), [Morris Revy](https://open.spotify.com/artist/0rUXMRIDIpyGKuIgHVNmIv) | [Idi Ebube](https://open.spotify.com/album/0u1qFOYm1O7JSk589nl8om) | 7:31 | 2022-08-01 | 2023-07-29 |

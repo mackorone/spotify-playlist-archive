@@ -221,6 +221,32 @@
     },
     {
       "album": {
+        "name": "Stay Good",
+        "url": "https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Alison Limerick",
+          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266349,
+      "name": "Breeze On Me",
+      "url": "https://open.spotify.com/track/5bw7vNxL2wm66ZnK1NqLrt"
+    },
+    {
+      "album": {
         "name": "You Send Me",
         "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
@@ -484,7 +510,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 403800,
       "name": "Good Vibrations - Kerri's Mad Mix",
       "url": "https://open.spotify.com/track/4IcB22Vd7pYjqeO3qCgIk0"

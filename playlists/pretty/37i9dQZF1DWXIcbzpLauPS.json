@@ -1,6 +1,6 @@
 {
   "description": "the best new metalcore. where brutality and technicality collide. Cover: Architects",
-  "num_followers": 944688,
+  "num_followers": 944715,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "Make Me A Martyr",
+        "url": "https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Make Me A Martyr",
+      "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "Covers Only, Vol. 1",
         "url": "https://open.spotify.com/album/0CVnhwtOpdoIkOatkGcVwO"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Make Me A Martyr",
-        "url": "https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569"
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/1PRvYCv9h0rlR4AP54yOnN"
       },
       "artists": [
         {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Make Me A Martyr",
-      "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
+      "duration_ms": 223297,
+      "name": "Better Written Villain",
+      "url": "https://open.spotify.com/track/6BuRHBZMDfvvp87RCvc1fA"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/1PRvYCv9h0rlR4AP54yOnN"
+        "name": "Neversleep",
+        "url": "https://open.spotify.com/album/03eK0IYHFQAToWEU2HMO6A"
       },
       "artists": [
         {
-          "name": "156/Silence",
-          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+          "name": "Colorblind",
+          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
         }
       ],
-      "duration_ms": 223297,
-      "name": "Better Written Villain",
-      "url": "https://open.spotify.com/track/6BuRHBZMDfvvp87RCvc1fA"
+      "duration_ms": 179117,
+      "name": "Neversleep",
+      "url": "https://open.spotify.com/track/4lXcX5TKqHMhLkTR2IQt29"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1343,22 +1359,6 @@
       "duration_ms": 172759,
       "name": "For You",
       "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "Neversleep",
-        "url": "https://open.spotify.com/album/03eK0IYHFQAToWEU2HMO6A"
-      },
-      "artists": [
-        {
-          "name": "Colorblind",
-          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
-        }
-      ],
-      "duration_ms": 179117,
-      "name": "Neversleep",
-      "url": "https://open.spotify.com/track/4lXcX5TKqHMhLkTR2IQt29"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "OMENS",
-        "url": "https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Wild",
-          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
-        }
-      ],
-      "duration_ms": 205222,
-      "name": "OMENS",
-      "url": "https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "Where The Flowers Never Grow",
         "url": "https://open.spotify.com/album/44cgztHaaoJh5taG0n0PG0"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 264216,
       "name": "Where the Flowers Never Grow",
       "url": "https://open.spotify.com/track/4cFI7k2rfpnxNKxUhHmANB"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "OMENS",
+        "url": "https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Wild",
+          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
+        }
+      ],
+      "duration_ms": 205222,
+      "name": "OMENS",
+      "url": "https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "Don't Talk",
+        "url": "https://open.spotify.com/album/7HmiykmvDz2ezPinwYoMqv"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        },
+        {
+          "name": "Christopher Kristensen",
+          "url": "https://open.spotify.com/artist/4teR8K3TE71fbNw61zAoSu"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Don't Talk",
+      "url": "https://open.spotify.com/track/5KWVqP6ooLAgmbwJnVol9D"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "You Won't Go Before You're Supposed To",
         "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
       },
@@ -1543,26 +1563,6 @@
       "duration_ms": 183721,
       "name": "Slaughterhouse 2 (feat. Chris Motionless)",
       "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "Don't Talk",
-        "url": "https://open.spotify.com/album/7HmiykmvDz2ezPinwYoMqv"
-      },
-      "artists": [
-        {
-          "name": "Our Mirage",
-          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
-        },
-        {
-          "name": "Christopher Kristensen",
-          "url": "https://open.spotify.com/artist/4teR8K3TE71fbNw61zAoSu"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Don't Talk",
-      "url": "https://open.spotify.com/track/5KWVqP6ooLAgmbwJnVol9D"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "THE WHEEL",
-        "url": "https://open.spotify.com/album/0wk685JsrY5zGqCjXtcLBv"
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
       },
       "artists": [
         {
-          "name": "I See Stars",
-          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         }
       ],
-      "duration_ms": 261000,
-      "name": "carry on for you",
-      "url": "https://open.spotify.com/track/0nWa6iG5GO3msSXyjQImMA"
+      "duration_ms": 189500,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb"
+        "name": "THE WHEEL",
+        "url": "https://open.spotify.com/album/0wk685JsrY5zGqCjXtcLBv"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
         }
       ],
-      "duration_ms": 189500,
-      "name": "Another Miracle",
-      "url": "https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0"
+      "duration_ms": 261000,
+      "name": "carry on for you",
+      "url": "https://open.spotify.com/track/0nWa6iG5GO3msSXyjQImMA"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Make Me Disappear",
-        "url": "https://open.spotify.com/album/3mb0O9XNCcmWUWBzgsyQEP"
-      },
-      "artists": [
-        {
-          "name": "Dark Divine",
-          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
-        }
-      ],
-      "duration_ms": 203667,
-      "name": "Make Me Disappear",
-      "url": "https://open.spotify.com/track/3EdP6zXUdiqg4135AtFoCI"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "CURSED (The Complete Edition)",
         "url": "https://open.spotify.com/album/4HvT7gjlwJ1q1Lt5Bm19dE"
       },
@@ -1919,18 +1903,34 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Weaponize Your Rage",
-        "url": "https://open.spotify.com/album/0foh5zGMkssbnxSFFgXRTN"
+        "name": "Make Me Disappear",
+        "url": "https://open.spotify.com/album/3mb0O9XNCcmWUWBzgsyQEP"
       },
       "artists": [
         {
-          "name": "Not Enough Space",
-          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+          "name": "Dark Divine",
+          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
         }
       ],
-      "duration_ms": 176767,
-      "name": "Weaponize Your Rage",
-      "url": "https://open.spotify.com/track/0jocpgTnZmTblWYDCWBXPw"
+      "duration_ms": 203667,
+      "name": "Make Me Disappear",
+      "url": "https://open.spotify.com/track/3EdP6zXUdiqg4135AtFoCI"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/2VXDGSofcL4Ghvd621OVcT"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "duration_ms": 198692,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/7oGMhaCGKwzdj7bu7t82UK"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "Weaponize Your Rage",
+        "url": "https://open.spotify.com/album/0foh5zGMkssbnxSFFgXRTN"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        }
+      ],
+      "duration_ms": 176767,
+      "name": "Weaponize Your Rage",
+      "url": "https://open.spotify.com/track/0jocpgTnZmTblWYDCWBXPw"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "Murder8",
         "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
       },
@@ -1967,6 +1983,46 @@
       "duration_ms": 228493,
       "name": "Murder8",
       "url": "https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "Timeloss",
+        "url": "https://open.spotify.com/album/0Og3VW0rOhlsCYUmwuKrp7"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        },
+        {
+          "name": "Screamistry",
+          "url": "https://open.spotify.com/artist/7CfvatjUCoi2RBmE6sv3n3"
+        }
+      ],
+      "duration_ms": 200012,
+      "name": "Timeloss",
+      "url": "https://open.spotify.com/track/63tsjFdfIMdxJ2NPhksFIl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/5auFZJk9A9CGnLq2NnLG3U"
+      },
+      "artists": [
+        {
+          "name": "Mirrorcell",
+          "url": "https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j"
+        },
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/0O38AaaLcWmf0B6x6JCaO2"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2019,42 +2075,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Pleasure",
-        "url": "https://open.spotify.com/album/5auFZJk9A9CGnLq2NnLG3U"
-      },
-      "artists": [
-        {
-          "name": "Mirrorcell",
-          "url": "https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j"
-        },
-        {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "Pleasure",
-      "url": "https://open.spotify.com/track/0O38AaaLcWmf0B6x6JCaO2"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/60vVun2EgKk6rt9ww8fLDE"
-      },
-      "artists": [
-        {
-          "name": "Secrets",
-          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
-        }
-      ],
-      "duration_ms": 189157,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "Bloom In Heaven",
         "url": "https://open.spotify.com/album/3f895XnoWWhMeM31qE3qS0"
       },
@@ -2075,34 +2095,18 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/2VXDGSofcL4Ghvd621OVcT"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/60vVun2EgKk6rt9ww8fLDE"
       },
       "artists": [
         {
-          "name": "If Not For Me",
-          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
         }
       ],
-      "duration_ms": 198692,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/7oGMhaCGKwzdj7bu7t82UK"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "DYSTOPIA",
-        "url": "https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 277201,
-      "name": "DYSTOPIA",
-      "url": "https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm"
+      "duration_ms": 189157,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2119,6 +2123,22 @@
       "duration_ms": 308000,
       "name": "Squier Talk",
       "url": "https://open.spotify.com/track/19LMSiPAc1Prev4mLWdDFt"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "DYSTOPIA",
+        "url": "https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 277201,
+      "name": "DYSTOPIA",
+      "url": "https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2159,6 +2179,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "TOMBSTONE",
+        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "TOMBSTONE",
+      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "Overdose (feat. Blindside)",
         "url": "https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi"
       },
@@ -2175,22 +2211,6 @@
       "duration_ms": 187862,
       "name": "Overdose - feat. Blindside",
       "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "TOMBSTONE",
-        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "TOMBSTONE",
-      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2243,26 +2263,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "Timeloss",
-        "url": "https://open.spotify.com/album/0Og3VW0rOhlsCYUmwuKrp7"
-      },
-      "artists": [
-        {
-          "name": "Our Mirage",
-          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
-        },
-        {
-          "name": "Screamistry",
-          "url": "https://open.spotify.com/artist/7CfvatjUCoi2RBmE6sv3n3"
-        }
-      ],
-      "duration_ms": 200012,
-      "name": "Timeloss",
-      "url": "https://open.spotify.com/track/63tsjFdfIMdxJ2NPhksFIl"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "Limerence",
         "url": "https://open.spotify.com/album/0motcONJsfhElYdP1r0hcQ"
       },
@@ -2291,6 +2291,22 @@
       "duration_ms": 235640,
       "name": "Violent Nature",
       "url": "https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
+        "name": "And Everything Was Dark",
+        "url": "https://open.spotify.com/album/34znRI8FwvRl8bk46tRL0i"
+      },
+      "artists": [
+        {
+          "name": "Downswing",
+          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
+        }
+      ],
+      "duration_ms": 175323,
+      "name": "Emptiness Remains",
+      "url": "https://open.spotify.com/track/3oEWDsLYU9tdhJzbWk2zf8"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2375,22 +2391,6 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "HUMAN=KIND",
-        "url": "https://open.spotify.com/album/1TepAW5KwOt3Yoz1HA4N7x"
-      },
-      "artists": [
-        {
-          "name": "PINKNOISE",
-          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
-        }
-      ],
-      "duration_ms": 191874,
-      "name": "WHY ARE WE CALLING IT LOVE?",
-      "url": "https://open.spotify.com/track/1Hwv8obmonPeuPw9kZ9T8a"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/4slmcnyRVpRMly3EcW0D0v"
       },
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
-        "name": "And Everything Was Dark",
-        "url": "https://open.spotify.com/album/34znRI8FwvRl8bk46tRL0i"
+        "name": "HUMAN=KIND",
+        "url": "https://open.spotify.com/album/1TepAW5KwOt3Yoz1HA4N7x"
       },
       "artists": [
         {
-          "name": "Downswing",
-          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
+          "name": "PINKNOISE",
+          "url": "https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd"
         }
       ],
-      "duration_ms": 175323,
-      "name": "Emptiness Remains",
-      "url": "https://open.spotify.com/track/3oEWDsLYU9tdhJzbWk2zf8"
+      "duration_ms": 191874,
+      "name": "WHY ARE WE CALLING IT LOVE?",
+      "url": "https://open.spotify.com/track/1Hwv8obmonPeuPw9kZ9T8a"
     },
     {
       "added_at": "2025-10-24 04:00:09",
@@ -2523,6 +2523,22 @@
     {
       "added_at": "2025-10-24 04:00:09",
       "album": {
+        "name": "damnation",
+        "url": "https://open.spotify.com/album/3BoE4OM4nnj8NekXVmUdyo"
+      },
+      "artists": [
+        {
+          "name": "IMPVLSE",
+          "url": "https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN"
+        }
+      ],
+      "duration_ms": 191314,
+      "name": "damnation",
+      "url": "https://open.spotify.com/track/0yCUuQgt0NhnXVjbd7xcw5"
+    },
+    {
+      "added_at": "2025-10-24 04:00:09",
+      "album": {
         "name": "If It's All The Same To You",
         "url": "https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG"
       },
@@ -2535,26 +2551,6 @@
       "duration_ms": 254742,
       "name": "If It's All The Same To You",
       "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
-    },
-    {
-      "added_at": "2025-10-24 04:00:09",
-      "album": {
-        "name": "unnatural order",
-        "url": "https://open.spotify.com/album/6xoctwx8xMx8oObcwgdKdP"
-      },
-      "artists": [
-        {
-          "name": "Abbie Falls",
-          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
-        },
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 211384,
-      "name": "unnatural order",
-      "url": "https://open.spotify.com/track/0jOLel6xMyZwPFRzQ7byfp"
     },
     {
       "added_at": "2025-10-24 04:00:09",

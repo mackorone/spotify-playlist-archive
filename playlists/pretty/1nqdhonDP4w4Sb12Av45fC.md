@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nqdhonDP4w4Sb12Av45fC.md) - [plain]
 
 > Long live the 90s! Re\-live the chart\-toppers, classic anthems and forgotten throwback favourites.
 
-[Smash Hits](https://open.spotify.com/user/smash_hits) - 34,021 likes - 80 songs - 5 hr 31 min
+[Smash Hits](https://open.spotify.com/user/smash_hits) - 34,024 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

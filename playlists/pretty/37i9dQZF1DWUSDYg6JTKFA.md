@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,178 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,193 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 39 | [High Hopes](https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [High Hopes](https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI) | 3:22 |
 | 40 | [Just Hold On](https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Just Hold On](https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u) | 2:47 |
 | 41 | [Christ Our King \- Live From Camp](https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From Camp](https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1) | 6:05 |
-| 42 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
-| 43 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
+| 42 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
+| 43 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
 | 44 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
 | 45 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
 | 46 | [PEACE](https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ) | 4:19 |
@@ -70,12 +70,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 60 | [A Hope and a Future](https://open.spotify.com/track/0pNWjwt7Ce6jPy1QADc1X6) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E) | [A Hope and a Future](https://open.spotify.com/album/0tvFPaesu6b9Tqa5IYqBn8) | 4:14 |
 | 61 | [Nothing Is Impossible \- Live In Manila](https://open.spotify.com/track/5sdeswrsYUIMTyYoOwc7jS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Nothing Is Impossible \(Live In Manila\)](https://open.spotify.com/album/7mKROIDACa2Tf6IB123KKd) | 4:23 |
 | 62 | [Fear No More](https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More EP](https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE) | 3:12 |
-| 63 | [Safe](https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Welcome to Alive City](https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt) | 3:19 |
-| 64 | [You Again](https://open.spotify.com/track/1dANigzX1rq3u78OlLkwHV) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [You Again](https://open.spotify.com/album/4UQOnF0cbNqo7a747J7K8p) | 3:12 |
+| 63 | [You Again](https://open.spotify.com/track/1dANigzX1rq3u78OlLkwHV) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [You Again](https://open.spotify.com/album/4UQOnF0cbNqo7a747J7K8p) | 3:12 |
+| 64 | [Safe](https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Welcome to Alive City](https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt) | 3:19 |
 | 65 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
 | 66 | [Gonna Be Alright \- Live](https://open.spotify.com/track/3D2Caq4sNDP5zt2Iipr6Yj) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Ryan Ellis Live](https://open.spotify.com/album/33b2OZa8zl29Bcx7qVmjig) | 4:30 |
-| 67 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2Jo6iBlMoxmUEmrAYb4Gvz) | [Sarah Sadler](https://open.spotify.com/artist/4RnUOaFWKWEFcCaqkmuIv3) | [The Ultimate Collection: Worship](https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B) | 3:34 |
-| 68 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 |
+| 67 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 |
+| 68 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2Jo6iBlMoxmUEmrAYb4Gvz) | [Sarah Sadler](https://open.spotify.com/artist/4RnUOaFWKWEFcCaqkmuIv3) | [The Ultimate Collection: Worship](https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B) | 3:34 |
 | 69 | [Do It For You](https://open.spotify.com/track/6H6n4xsWSbOXSmTe0awjgL) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Do It For You](https://open.spotify.com/album/4POLqM7psW9GiZCt8aWmuJ) | 3:07 |
 | 70 | [Good Things \- \(Live\) \[Acoustic\]](https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective](https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L) | 5:38 |
 | 71 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |

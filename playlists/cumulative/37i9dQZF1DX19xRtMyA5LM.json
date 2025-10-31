@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Topperig",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: kans",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 104000,
       "name": "160",
       "url": "https://open.spotify.com/track/7tkhoPEvhqjPlh3TcKHqU9"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 140571,
       "name": "2 iPHONES",
       "url": "https://open.spotify.com/track/3W2kYeHZ4sKIjU2Us1sOgd"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 184864,
       "name": "419",
       "url": "https://open.spotify.com/track/5KoI4zz4XTdgtFNQt2WQqb"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 190968,
       "name": "BIG TIME",
       "url": "https://open.spotify.com/track/65GxOG5BAgTG6UaJqMc8jZ"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 182362,
       "name": "Duracell",
       "url": "https://open.spotify.com/track/5gtLS2CnIhKvt1BDAOXVSq"
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 151281,
       "name": "Gebroken Harten",
       "url": "https://open.spotify.com/track/19Ua7zLOl1mSvYMgSYLGrd"
@@ -1945,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Laatste Adem",
+        "url": "https://open.spotify.com/album/1A3585zjtrgLWZDrm9uwG3"
+      },
+      "artists": [
+        {
+          "name": "Cit\u00e9",
+          "url": "https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "Laatste Adem",
+      "url": "https://open.spotify.com/track/4XVZbZb05q1IeljFCVgAuB"
+    },
+    {
+      "album": {
         "name": "Laatste Bericht",
         "url": "https://open.spotify.com/album/0b4a1WKptVwvqtMgt56WHu"
       },
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 106839,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0YqFiIpM0pdk53SGBQQaCv"
@@ -2444,6 +2462,24 @@
       "duration_ms": 134769,
       "name": "Moonwalk",
       "url": "https://open.spotify.com/track/6VRein0n3MIbuXQzs21zmo"
+    },
+    {
+      "album": {
+        "name": "deims deims deims",
+        "url": "https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH"
+      },
+      "artists": [
+        {
+          "name": "kans",
+          "url": "https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "m\u2019n type",
+      "url": "https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB"
     },
     {
       "album": {
@@ -2598,6 +2634,32 @@
       "duration_ms": 163968,
       "name": "Op De Set",
       "url": "https://open.spotify.com/track/3QCgxqvjcJJFQJM07Aqv84"
+    },
+    {
+      "album": {
+        "name": "OP SLOT?",
+        "url": "https://open.spotify.com/album/6OcHXAlf8tK7kRjZe27Lth"
+      },
+      "artists": [
+        {
+          "name": "Spanker",
+          "url": "https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ray Fuego",
+          "url": "https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132904,
+      "name": "OP SLOT?",
+      "url": "https://open.spotify.com/track/05EiCcnXDpsvLusAtRXS09"
     },
     {
       "album": {
@@ -2887,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Prada Met Lak",
+        "url": "https://open.spotify.com/album/2fUAbxS0t0WbUaHTOOXLXw"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Biggie68",
+          "url": "https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126086,
+      "name": "Prada Met Lak",
+      "url": "https://open.spotify.com/track/1oNqaXbVSlob9HdtT1M8XY"
+    },
+    {
+      "album": {
         "name": "Prijs",
         "url": "https://open.spotify.com/album/6mHOmDcSskotDXp14uAptd"
       },
@@ -2968,7 +3052,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 162500,
       "name": "Purosangue",
       "url": "https://open.spotify.com/track/36pfAgVkF5ZjqrSqAU4AN8"
@@ -3012,6 +3096,28 @@
       "duration_ms": 139891,
       "name": "Risico's",
       "url": "https://open.spotify.com/track/1mGE91efwr1B8B2xvdG2gU"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        },
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "Rondjes",
+      "url": "https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2"
     },
     {
       "album": {
@@ -3173,6 +3279,28 @@
     },
     {
       "album": {
+        "name": "Schade",
+        "url": "https://open.spotify.com/album/5pqV5lsk8SfXYnEqW9KSAA"
+      },
+      "artists": [
+        {
+          "name": "R-D",
+          "url": "https://open.spotify.com/artist/1KHhM4HRa5fZ9DJwu2N2Qc"
+        },
+        {
+          "name": "Pierrii",
+          "url": "https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150194,
+      "name": "Schade",
+      "url": "https://open.spotify.com/track/5VKG8NfRF2EsebPCOtlkNA"
+    },
+    {
+      "album": {
         "name": "Schweinsteiger",
         "url": "https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE"
       },
@@ -3258,6 +3386,24 @@
       "duration_ms": 144000,
       "name": "Speld",
       "url": "https://open.spotify.com/track/1RlQQ7IhyKqSih2cWopppl"
+    },
+    {
+      "album": {
+        "name": "StAYbLESS.",
+        "url": "https://open.spotify.com/album/3NxlYl6uMcn8hQPOsOq7Ch"
+      },
+      "artists": [
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "StAYbLESS.",
+      "url": "https://open.spotify.com/track/7KU42QXlh12bmtBhuasiqg"
     },
     {
       "album": {
@@ -3674,6 +3820,32 @@
       "duration_ms": 174939,
       "name": "Uomini d\u2019Onore",
       "url": "https://open.spotify.com/track/6cpG23bMKBRor5ZPBTxIRS"
+    },
+    {
+      "album": {
+        "name": "VATO",
+        "url": "https://open.spotify.com/album/2jLTgpDuenbgIKr0hcqblw"
+      },
+      "artists": [
+        {
+          "name": "Quincy Promes",
+          "url": "https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS"
+        },
+        {
+          "name": "Steven Bergwijn",
+          "url": "https://open.spotify.com/artist/4hIP6wtjjIZcGFFyDD2zw4"
+        },
+        {
+          "name": "Public Figure",
+          "url": "https://open.spotify.com/artist/3ad52LK4v43lgKOAOUYi5Y"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "VATO",
+      "url": "https://open.spotify.com/track/656lFvGszcfHFgsYjr94vM"
     },
     {
       "album": {

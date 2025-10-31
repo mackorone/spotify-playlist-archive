@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Ocie Elliott
 
-1,395 songs - 3 day 11 hr 59 min
+1,396 songs - 3 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [afterall](https://open.spotify.com/track/0JFAzsu2ZYX7HmtjRQ3dVu) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [afterall](https://open.spotify.com/album/0owHLrBuiNkiNgVJZJoY2g) | 3:22 | 2023-03-17 | 2023-04-15 |
 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 | 2025-09-12 |  |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2023-09-15 | 2024-01-13 |
+| [Airport](https://open.spotify.com/track/0jHuokxBzpv5m80H0VlvAD) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Airport & Only The Truth](https://open.spotify.com/album/2nN5fnuQxEFTCrlpJ5cDAa) | 3:32 | 2025-10-31 |  |
 | [aka's white wolf](https://open.spotify.com/track/32BzrzD6L6EsIkCqwWW4FQ) | [Amélie Farren](https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG) | [aka's white wolf](https://open.spotify.com/album/6RwBmZb4xuBOQ3PQfpIsrE) | 2:54 | 2025-08-22 | 2025-10-10 |
 | [Alco](https://open.spotify.com/track/0NTgQB7fb7ovrhx5pfm9Po) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Alco](https://open.spotify.com/album/1kty4m9JKEsD5NZaacdL16) | 3:48 | 2023-04-21 | 2023-06-03 |
 | [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 | 2023-03-03 | 2023-06-10 |

@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Buscabulla.",
-  "num_followers": 168349,
+  "num_followers": 168346,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
+        "name": "How\u2019s That Working Out",
+        "url": "https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 180039,
+      "name": "How\u2019s That Working Out",
+      "url": "https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 195928,
       "name": "no s\u00e9 de amor (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
-        "name": "How\u2019s That Working Out",
-        "url": "https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 180039,
-      "name": "How\u2019s That Working Out",
-      "url": "https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m"
     },
     {
       "added_at": "2025-07-16 15:57:28",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
-        "name": "Feeling Low",
-        "url": "https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j"
-      },
-      "artists": [
-        {
-          "name": "Lara Project",
-          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Feeling Low",
-      "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 222908,
       "name": "un d\u00eda",
       "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
+        "name": "Feeling Low",
+        "url": "https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Feeling Low",
+      "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
     },
     {
       "added_at": "2025-07-16 15:57:28",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
+        "name": "Te Fuiste",
+        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
         "name": "LE CHILL 2",
         "url": "https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 172335,
       "name": "NO SALES DE MI CABEZA",
       "url": "https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
-        "name": "Te Fuiste",
-        "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
     },
     {
       "added_at": "2025-07-16 15:57:28",

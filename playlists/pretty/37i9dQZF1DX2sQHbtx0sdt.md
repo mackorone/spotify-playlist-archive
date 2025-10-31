@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Dave 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,306 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,415 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 21 | [Remontada \(feat\. Blanco\)](https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Remontada \(feat\. Blanco\)](https://open.spotify.com/album/1OTdy9AJVXEerYPUTDCmRd) | 2:41 |
 | 22 | [AP Freestyle](https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [AP Freestyle](https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7) | 1:58 |
 | 23 | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/track/52QAsWTBhQOPBA83ZfFERg) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Ski Ga Ski \(隙が好き\)](https://open.spotify.com/album/6d9GgeqYFK8JYqhS6U8mwL) | 2:01 |
-| 24 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
+| 24 | [Wrongs](https://open.spotify.com/track/1Us1V0tr91CIikNILQt3E6) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Wrongs](https://open.spotify.com/album/64w1Jeq4q8uF1EZFZiq1OT) | 2:58 |
 | 25 | [Up & Stuck](https://open.spotify.com/track/3BcKy00Bn0Dg289aRxyaE2) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Up & Stuck](https://open.spotify.com/album/5OPVh7jvp6aLaJT2qx40vn) | 2:43 |
 | 26 | [Fidelio](https://open.spotify.com/track/4IBTU8b4bM3ycYYrvwcURk) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fidelio](https://open.spotify.com/album/7pQWc2Fpk4E79bbwIk5DSN) | 2:34 |
 | 27 | [My Ground](https://open.spotify.com/track/4hnt9PPQmu2H12QW0lnoVu) | [Watsebha](https://open.spotify.com/artist/4NKiKE60GYOcPCe02G9Ke4) | [My Ground](https://open.spotify.com/album/7Jrt7jpwFr1LINbnjFiGOz) | 2:52 |

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,387 songs - 3 day 12 hr 45 min
+1,388 songs - 3 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 | 2021-12-17 | 2022-07-23 |
 | [Damage Done](https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:27 | 2022-07-01 | 2023-01-21 |
 | [Damage Plan](https://open.spotify.com/track/4FA7Ax4cLqAwf5DaHryjdy) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b), [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Damage Plan](https://open.spotify.com/album/1QCgurPzNCDiHr0uZiqjWc) | 3:15 | 2022-04-08 | 2022-05-21 |
+| [damnation](https://open.spotify.com/track/0yCUuQgt0NhnXVjbd7xcw5) | [IMPVLSE](https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN) | [damnation](https://open.spotify.com/album/3BoE4OM4nnj8NekXVmUdyo) | 3:11 | 2025-10-24 |  |
 | [Dance!](https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Dance!](https://open.spotify.com/album/4SDP4cjecVJyK4Y7dJSRHL) | 3:06 | 2025-05-09 | 2025-10-05 |
 | [Dangerous](https://open.spotify.com/track/3E0kmaCVPaxw4D55Nt2cen) | [After Hour Animals](https://open.spotify.com/artist/12qp69G4vHfQcJUbjONDY1) | [Dangerous](https://open.spotify.com/album/4PpW6GVABbHkRxGHnCU0za) | 3:18 | 2022-12-16 | 2023-11-28 |
 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-05-22 | 2023-06-28 |
@@ -1279,7 +1280,7 @@
 | [UNGØD](https://open.spotify.com/track/42a6jv8vPZSdldRDalkGfT) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [UNGØD](https://open.spotify.com/album/350e8e4wldgOMcThEOffvj) | 3:47 | 2024-03-08 | 2024-06-05 |
 | [Unholy](https://open.spotify.com/track/1QposYqMrnrYKWRUqQT1WW) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Unholy](https://open.spotify.com/album/2Bezp0tXu6vUeMwtMJ1G9w) | 2:35 | 2022-11-04 | 2023-01-21 |
 | [Uninstall](https://open.spotify.com/track/3j6PTmfO14WXI7LuHnfucf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Uninstall](https://open.spotify.com/album/5Y8ghgaAGkjSMeVwSHRgK2) | 2:35 | 2022-05-20 | 2022-07-23 |
-| [unnatural order](https://open.spotify.com/track/0jOLel6xMyZwPFRzQ7byfp) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU), [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [unnatural order](https://open.spotify.com/album/6xoctwx8xMx8oObcwgdKdP) | 3:31 | 2025-09-12 |  |
+| [unnatural order](https://open.spotify.com/track/0jOLel6xMyZwPFRzQ7byfp) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU), [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [unnatural order](https://open.spotify.com/album/6xoctwx8xMx8oObcwgdKdP) | 3:31 | 2025-09-12 | 2025-10-31 |
 | [Unspoken](https://open.spotify.com/track/45A5LSkr8lptp6M1JYfpPo) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Rhema](https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f) | 4:22 | 2021-12-17 | 2022-02-11 |
 | [Until I Die](https://open.spotify.com/track/0ccU7pZfEKdTYD4WEqtxzG) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [Until I Die](https://open.spotify.com/album/6dPX6u7YdNqyOuWT61tu5X) | 2:22 | 2025-03-31 | 2025-05-04 |
 | [Until The Day I](https://open.spotify.com/track/4Zle9kZq00yrFs4DkYrOHV) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Until The Day I](https://open.spotify.com/album/4i7nivMrdEFydJ150y7S2w) | 3:03 | 2025-08-29 |  |

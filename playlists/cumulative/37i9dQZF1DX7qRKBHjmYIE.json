@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Bien Bien",
+        "url": "https://open.spotify.com/album/4XZScJixPo8QOp3G5RrCNR"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "Bien Bien",
+      "url": "https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO"
+    },
+    {
+      "album": {
         "name": "PISTOLA",
         "url": "https://open.spotify.com/album/2ha5bvXlmL8TSKuR5qf5GY"
       },
@@ -5336,7 +5354,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 247043,
       "name": "el tiempo pasa r\u00e1pido",
       "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,404 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 107 | [Whippin' It Up \(feat\. Lil Dicky\)](https://open.spotify.com/track/6p24ODEmUhxCPblHgoZZ25) | [Brain](https://open.spotify.com/artist/6g0Xatzg8vlchoEe21LoeH), [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [I'm Brain](https://open.spotify.com/album/72LtgvLkAE4UBIqgnVDxjS) | 3:16 |
 | 108 | [Wrist Motion \(feat\. 458 Keyz & Cris Dinero\)](https://open.spotify.com/track/7rFdmkJd5RAEO8g3fMzykb) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [458 Keyz](https://open.spotify.com/artist/0xfAmskhB3i5wX3pRpHbkD), [Cris Dinero](https://open.spotify.com/artist/43DjZHwU6QHD1TVxA9JWfN) | [Boy Who Cried Wolf](https://open.spotify.com/album/6jJ98MlrNGUt0FFkPHS0EA) | 2:52 |
 | 109 | [Tough Love](https://open.spotify.com/track/4TGLRG5aA6iP2ndWN627S6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:22 |
-| 110 | [CHIEF KEEF](https://open.spotify.com/track/78aTQcyx9rwYv0d5mpxGJX) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 3:00 |
-| 111 | [Something I'm Not](https://open.spotify.com/track/2BSU3Sh8K5Jc9CwHkMTgGX) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:17 |
+| 110 | [Something I'm Not](https://open.spotify.com/track/2BSU3Sh8K5Jc9CwHkMTgGX) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:17 |
+| 111 | [CHIEF KEEF](https://open.spotify.com/track/78aTQcyx9rwYv0d5mpxGJX) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 3:00 |
 | 112 | [Die In It](https://open.spotify.com/track/7l0ZJgT7qivX45J0D9fgKf) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 2:40 |
 | 113 | [NEW LIFE](https://open.spotify.com/track/2q1UohI917QXdb0YiLWHzy) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 2:35 |
 | 114 | [Head Tap \(feat\. Tee Grizzley\)](https://open.spotify.com/track/15oUNnj8unqJJlbYbH1dAs) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Don Talk](https://open.spotify.com/album/3DZBQwtLEZSiuWXYAjLdbZ) | 3:09 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 119 | [Blueprint](https://open.spotify.com/track/2j0WH9z6fLsz2Wcel52qFu) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 2:24 |
 | 120 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AcAMMgAAAACbUUOSJTqF44x19SPb8cgc`
+Snapshot ID: `AcARvgAAAADvQxqVbbE+mVZ8rLaM30r/`

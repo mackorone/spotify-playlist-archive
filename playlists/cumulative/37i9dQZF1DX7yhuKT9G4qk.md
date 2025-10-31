@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-148 songs - 8 hr 28 min
+150 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2025-07-16 |  |
 | [Before The Fall](https://open.spotify.com/track/5owEr2eggGLBM6WJZpvtUw) | [Will Eason](https://open.spotify.com/artist/0mXr7zTlXU4FgOoiOHbQHs) | [Before The Fall](https://open.spotify.com/album/3E1kQ5VchLXebXf0csHZgR) | 3:24 | 2025-07-16 |  |
 | [Before You \- Acoustic](https://open.spotify.com/track/7IZUlRINfs6ggjYVW5ZZ1K) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Before You \(Acoustic\)](https://open.spotify.com/album/2h7DUSd7QzAsb6BYulrEAj) | 2:40 | 2025-07-16 | 2025-10-10 |
+| [Better Than Ever](https://open.spotify.com/track/2dm8fMEai4Q3CeTy46Wc8c) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Better Than Ever](https://open.spotify.com/album/3BiU05A1UuTOkcbIxltOPZ) | 3:06 | 2025-10-30 |  |
 | [Better Than Me](https://open.spotify.com/track/1t4KSsNCzrOT06Jm6aHuMA) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 3:45 | 2025-07-16 | 2025-09-16 |
 | [Black Magic](https://open.spotify.com/track/6atKugO0itgKT1S6Ty13XO) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [Cosmic Gold](https://open.spotify.com/album/57nFnn7qbMP2TD72wZuMBH) | 4:54 | 2025-07-16 |  |
 | [Brand New Shoes](https://open.spotify.com/track/1aFglbwd4QJvUki3PGvKez) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Frou\-Frou](https://open.spotify.com/album/59uzeboKsP7t8MA7EnMPhe) | 3:42 | 2025-07-16 |  |
@@ -29,6 +30,7 @@
 | [But I Can Show U How](https://open.spotify.com/track/61nk9QwdEYLuVqXkefVnmZ) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [But I Can Show U How](https://open.spotify.com/album/4rKbES6D2gvmkIdtdKBDEC) | 2:40 | 2025-07-16 | 2025-09-19 |
 | [Butter](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [The Weight](https://open.spotify.com/album/3A7TG46Q74ib0eWPPh3rpj) | 3:13 | 2025-10-02 |  |
 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 | 2025-07-16 |  |
+| [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [](https://open.spotify.com/album/null) | 3:27 | 2025-10-30 |  |
 | [Changes](https://open.spotify.com/track/70Im6ch9dNGzxoGG6vpxcd) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Changes](https://open.spotify.com/album/4aldFjPokcR0SvHQ5KCP8c) | 5:19 | 2025-07-16 |  |
 | [CHICKEN TENDIES](https://open.spotify.com/track/0awuNCj9gwJEM0seER22DW) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [CHICKEN TENDIES](https://open.spotify.com/album/72gGqv8n64gwUBY10SPI3N) | 3:16 | 2025-07-16 | 2025-08-29 |
 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2025-07-16 |  |
@@ -46,7 +48,7 @@
 | [Forever Yours](https://open.spotify.com/track/228SCNyICAP1THsuLdzLW4) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Forever Yours](https://open.spotify.com/album/6uHQ0lm7VJwSqp7frFaSMk) | 3:02 | 2025-07-16 | 2025-09-19 |
 | [Front Row Ticket](https://open.spotify.com/track/7esAvx4OIfU1UbIjjDsh3o) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Front Row Ticket](https://open.spotify.com/album/4i2CHH2OcpzHOwWBYgbiGL) | 2:48 | 2025-07-16 | 2025-09-19 |
 | [FYI](https://open.spotify.com/track/5Px94nagQ9C6WrklMCxVk1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [FYI](https://open.spotify.com/album/5UCXFRJjjySyFCXa76gFVC) | 3:22 | 2025-07-16 |  |
-| [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 | 2025-07-16 |  |
+| [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 | 2025-07-16 | 2025-10-31 |
 | [Good Ol' Loving](https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Good Ol' Loving](https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6) | 3:13 | 2025-07-16 | 2025-09-16 |
 | [Got A Feeling](https://open.spotify.com/track/1zP4GMUutOrOcJk505BkTN) | [Simone Don](https://open.spotify.com/artist/1CMSDxXkZPG6z6qQ5RGRcK) | [Got A Feeling](https://open.spotify.com/album/5kNjNRb70DQTCnm8OvcpKi) | 4:03 | 2025-07-16 | 2025-08-09 |
 | [Gray](https://open.spotify.com/track/2RAMTRT08DatjsIPSZGNPt) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [AIJIA](https://open.spotify.com/artist/4WEbpTYLZLppuqyqYHmz1p) | [Monster \(Deluxe\)](https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd) | 2:49 | 2025-07-16 |  |
@@ -155,6 +157,6 @@
 | [World Is Waking Up](https://open.spotify.com/track/053nOMzHpuHNVjI1Ng2Q4b) | [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Cimo Fränkel](https://open.spotify.com/album/218TwB1jw3xnXtoW81aRak) | 2:21 | 2025-07-16 | 2025-09-16 |
 | [You'll Never Know](https://open.spotify.com/track/2SjQ0fVlquesb0b1G4xvKJ) | [DINAND](https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv) | [You'll Never Know](https://open.spotify.com/album/3NziPDhglD6wD5vhbojiWr) | 3:58 | 2025-07-16 | 2025-08-29 |
 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 | 2025-10-21 |  |
-| [Zanzibar](https://open.spotify.com/track/1Gr7gNFaZVAbPqWXP0ZERp) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Zanzibar](https://open.spotify.com/album/4Scke8uNMgJ8gwAb5XSQzA) | 3:04 | 2025-07-16 |  |
+| [Zanzibar](https://open.spotify.com/track/1Gr7gNFaZVAbPqWXP0ZERp) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Zanzibar](https://open.spotify.com/album/4Scke8uNMgJ8gwAb5XSQzA) | 3:04 | 2025-07-16 | 2025-10-31 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

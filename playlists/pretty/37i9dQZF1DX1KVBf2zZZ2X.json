@@ -1,6 +1,6 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 117333,
+  "num_followers": 117436,
   "original_name": "Calming Nature Music",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
+        "name": "To Walk Alone",
+        "url": "https://open.spotify.com/album/1oJkGl4hLaTdVEA1XVvH07"
+      },
+      "artists": [
+        {
+          "name": "Lovisa Gulli",
+          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "To Walk Alone",
+      "url": "https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/4vEVnCGo8rzZQLCbKJrQ1S"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 179631,
       "name": "Placid Creek",
       "url": "https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
-        "name": "To Walk Alone",
-        "url": "https://open.spotify.com/album/1oJkGl4hLaTdVEA1XVvH07"
-      },
-      "artists": [
-        {
-          "name": "Lovisa Gulli",
-          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "To Walk Alone",
-      "url": "https://open.spotify.com/track/1QWdxldpQhlQFSmMMe9CQl"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "The River Song",
-        "url": "https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q"
-      },
-      "artists": [
-        {
-          "name": "Silence Concertos",
-          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "The River Song",
-      "url": "https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 156000,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "The River Song",
+        "url": "https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q"
+      },
+      "artists": [
+        {
+          "name": "Silence Concertos",
+          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "The River Song",
+      "url": "https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Today is Tomorrow",
-        "url": "https://open.spotify.com/album/5jYyZt2gkx0A5TGk80vqKy"
-      },
-      "artists": [
-        {
-          "name": "Frederic Stelliard",
-          "url": "https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc"
-        }
-      ],
-      "duration_ms": 160458,
-      "name": "Today is Tomorrow",
-      "url": "https://open.spotify.com/track/7Amsh8XgzAx2NepJhLWZLT"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "Forest Embrace",
         "url": "https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 152586,
       "name": "Forest Embrace",
       "url": "https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "Today is Tomorrow",
+        "url": "https://open.spotify.com/album/5jYyZt2gkx0A5TGk80vqKy"
+      },
+      "artists": [
+        {
+          "name": "Frederic Stelliard",
+          "url": "https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc"
+        }
+      ],
+      "duration_ms": 160458,
+      "name": "Today is Tomorrow",
+      "url": "https://open.spotify.com/track/7Amsh8XgzAx2NepJhLWZLT"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/002aCkJH30gVZN1sKyYUwl"
-      },
-      "artists": [
-        {
-          "name": "Hadat Ombra",
-          "url": "https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Something Else",
-      "url": "https://open.spotify.com/track/75yGAhdliSTsNKUlvr4bii"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "A Dream Coming True",
         "url": "https://open.spotify.com/album/5kQhJWjOHWZ22toTEApo5K"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Treetop Dreamers",
-        "url": "https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw"
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/002aCkJH30gVZN1sKyYUwl"
       },
       "artists": [
         {
-          "name": "Ookean",
-          "url": "https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF"
+          "name": "Hadat Ombra",
+          "url": "https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq"
         }
       ],
-      "duration_ms": 179813,
-      "name": "Treetop Dreamers",
-      "url": "https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj"
+      "duration_ms": 172000,
+      "name": "Something Else",
+      "url": "https://open.spotify.com/track/75yGAhdliSTsNKUlvr4bii"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -967,6 +951,22 @@
       "duration_ms": 164450,
       "name": "Cosmic Dance",
       "url": "https://open.spotify.com/track/1oMatzw8UlXeirPYtqb2Wn"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "Treetop Dreamers",
+        "url": "https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw"
+      },
+      "artists": [
+        {
+          "name": "Ookean",
+          "url": "https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "Treetop Dreamers",
+      "url": "https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Thoughts Outside My Window",
-        "url": "https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc"
-      },
-      "artists": [
-        {
-          "name": "Joan Abe",
-          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Thoughts Outside My Window",
-      "url": "https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "Sparkles Between Trees",
         "url": "https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
+        "name": "Thoughts Outside My Window",
+        "url": "https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc"
+      },
+      "artists": [
+        {
+          "name": "Joan Abe",
+          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Thoughts Outside My Window",
+      "url": "https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
         "name": "Sylvan Morning",
         "url": "https://open.spotify.com/album/1EDeObzd27dBvWfZgfgA9t"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 142000,
       "name": "Sylvan Morning",
       "url": "https://open.spotify.com/track/2f5Y7Wg5FVuQRny16eBUm3"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "Soft and Secluded",
+        "url": "https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "Soft and Secluded",
+      "url": "https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Soft and Secluded",
-        "url": "https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ"
-      },
-      "artists": [
-        {
-          "name": "Forest Gold",
-          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "Soft and Secluded",
-      "url": "https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 190336,
       "name": "Forest Harmonies",
       "url": "https://open.spotify.com/track/5EGbkycj0Lblt69clO8vTM"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "duration_ms": 167678,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Morning Sun",
-        "url": "https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj"
-      },
-      "artists": [
-        {
-          "name": "Forest Gold",
-          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
-        }
-      ],
-      "duration_ms": 167678,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/2kFHJtAsoZBCkGN7NnzZX3"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Paladin Diversum",
-        "url": "https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur"
-      },
-      "artists": [
-        {
-          "name": "Los Sobriles",
-          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Paladin Diversum",
-      "url": "https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "Green Andante",
         "url": "https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Clearing",
-        "url": "https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS"
+        "name": "Paladin Diversum",
+        "url": "https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur"
       },
       "artists": [
         {
-          "name": "Memories of the Forgotten",
-          "url": "https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD"
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
         }
       ],
-      "duration_ms": 160624,
-      "name": "Clearing",
-      "url": "https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ"
+      "duration_ms": 196000,
+      "name": "Paladin Diversum",
+      "url": "https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1563,18 +1547,34 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Creekside",
-        "url": "https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n"
+        "name": "Clearing",
+        "url": "https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS"
       },
       "artists": [
         {
-          "name": "Cedarsound",
-          "url": "https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP"
+          "name": "Memories of the Forgotten",
+          "url": "https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Creekside",
-      "url": "https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM"
+      "duration_ms": 160624,
+      "name": "Clearing",
+      "url": "https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "Sunsetting",
+        "url": "https://open.spotify.com/album/3a1PQuzVvnrHnRRGCwVcuy"
+      },
+      "artists": [
+        {
+          "name": "Knot Released",
+          "url": "https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY"
+        }
+      ],
+      "duration_ms": 164549,
+      "name": "Sunsetting",
+      "url": "https://open.spotify.com/track/04vrvXLHpkdb1D99CAhNf6"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1595,18 +1595,34 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Sunsetting",
-        "url": "https://open.spotify.com/album/3a1PQuzVvnrHnRRGCwVcuy"
+        "name": "Creekside",
+        "url": "https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n"
       },
       "artists": [
         {
-          "name": "Knot Released",
-          "url": "https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY"
+          "name": "Cedarsound",
+          "url": "https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP"
         }
       ],
-      "duration_ms": 164549,
-      "name": "Sunsetting",
-      "url": "https://open.spotify.com/track/04vrvXLHpkdb1D99CAhNf6"
+      "duration_ms": 152000,
+      "name": "Creekside",
+      "url": "https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "Wellspring",
+        "url": "https://open.spotify.com/album/4tXFqj1nH4TSK9DKOKHdrt"
+      },
+      "artists": [
+        {
+          "name": "Hank Sky",
+          "url": "https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Wellspring",
+      "url": "https://open.spotify.com/track/2wDMe17O4nDaJE4x9PtQbz"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Wellspring",
-        "url": "https://open.spotify.com/album/4tXFqj1nH4TSK9DKOKHdrt"
+        "name": "The Teacher Within",
+        "url": "https://open.spotify.com/album/5QdaV8dVbKPircWmgYw38v"
       },
       "artists": [
         {
-          "name": "Hank Sky",
-          "url": "https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI"
+          "name": "Bias Beats",
+          "url": "https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Wellspring",
-      "url": "https://open.spotify.com/track/2wDMe17O4nDaJE4x9PtQbz"
+      "duration_ms": 166761,
+      "name": "The Teacher Within",
+      "url": "https://open.spotify.com/track/3RPnZneI5lPdM5lMTsYUWR"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Passing",
-        "url": "https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo"
-      },
-      "artists": [
-        {
-          "name": "Lenards \u0160mits",
-          "url": "https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Passing",
-      "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "Beautiful Walk",
         "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
       },
@@ -1811,50 +1811,34 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "The Teacher Within",
-        "url": "https://open.spotify.com/album/5QdaV8dVbKPircWmgYw38v"
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo"
       },
       "artists": [
         {
-          "name": "Bias Beats",
-          "url": "https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT"
+          "name": "Lenards \u0160mits",
+          "url": "https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx"
         }
       ],
-      "duration_ms": 166761,
-      "name": "The Teacher Within",
-      "url": "https://open.spotify.com/track/3RPnZneI5lPdM5lMTsYUWR"
+      "duration_ms": 162000,
+      "name": "Passing",
+      "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
     },
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd"
+        "name": "Nature's Energy",
+        "url": "https://open.spotify.com/album/4dF4uAh7ElOl6BfncIdZf2"
       },
       "artists": [
         {
-          "name": "Calma Totalis",
-          "url": "https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy"
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
         }
       ],
-      "duration_ms": 187250,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
-        "name": "Sailing Home",
-        "url": "https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F"
-      },
-      "artists": [
-        {
-          "name": "Undis",
-          "url": "https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sailing Home",
-      "url": "https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb"
+      "duration_ms": 160909,
+      "name": "Nature's Energy",
+      "url": "https://open.spotify.com/track/03kNewVwapP82UDyaYHns8"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1875,18 +1859,34 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "Nature's Energy",
-        "url": "https://open.spotify.com/album/4dF4uAh7ElOl6BfncIdZf2"
+        "name": "Sailing Home",
+        "url": "https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F"
       },
       "artists": [
         {
-          "name": "Ani",
-          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+          "name": "Undis",
+          "url": "https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo"
         }
       ],
-      "duration_ms": 160909,
-      "name": "Nature's Energy",
-      "url": "https://open.spotify.com/track/03kNewVwapP82UDyaYHns8"
+      "duration_ms": 160000,
+      "name": "Sailing Home",
+      "url": "https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd"
+      },
+      "artists": [
+        {
+          "name": "Calma Totalis",
+          "url": "https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8"
     },
     {
       "added_at": "2025-09-24 07:57:03",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-09-24 07:57:03",
       "album": {
-        "name": "The Golden Path",
-        "url": "https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq"
-      },
-      "artists": [
-        {
-          "name": "Salome Azul",
-          "url": "https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j"
-        }
-      ],
-      "duration_ms": 134606,
-      "name": "The Golden Path",
-      "url": "https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn"
-    },
-    {
-      "added_at": "2025-09-24 07:57:03",
-      "album": {
         "name": "Holding Quiet",
         "url": "https://open.spotify.com/album/33wgGcXNBZIZwd3a7ElU2Y"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 161927,
       "name": "Holding Quiet",
       "url": "https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0"
+    },
+    {
+      "added_at": "2025-09-24 07:57:03",
+      "album": {
+        "name": "The Golden Path",
+        "url": "https://open.spotify.com/album/2gFNaNjUKztfUjenabaluq"
+      },
+      "artists": [
+        {
+          "name": "Salome Azul",
+          "url": "https://open.spotify.com/artist/0ukN1ypDmoKy71vfx6xw1j"
+        }
+      ],
+      "duration_ms": 134606,
+      "name": "The Golden Path",
+      "url": "https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn"
     },
     {
       "added_at": "2025-09-24 07:57:03",

@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Meghan Patrick
 
-462 songs - 1 day 0 hr 42 min
+465 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [King of the Bar](https://open.spotify.com/track/3YPDDkeiN7m1goTrCpXxjD) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [King of the Bar](https://open.spotify.com/album/6w8OXXetC7EoE2sQMEOU8h) | 3:55 | 2025-10-24 |  |
 | [Kitchen Floor](https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Kitchen Floor](https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs) | 3:54 | 2024-10-18 | 2025-02-08 |
 | [Knew Girl](https://open.spotify.com/track/2EYdtkEFFpFJsfttT4fjHU) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Knew Girl](https://open.spotify.com/album/5PAlJmtfchaDSGhICcdtfB) | 2:52 | 2024-06-28 | 2024-07-06 |
+| [Knew It All Along \(With Nic D\)](https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Knew It All Along \(With Nic D\)](https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA) | 3:03 | 2025-10-31 |  |
 | [Last Love Standing](https://open.spotify.com/track/1n8f0lGx6z7YWTEM6sy3OM) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [Russham Road](https://open.spotify.com/album/73iTvLuvIo58C0cUa2GlEH) | 2:35 | 2025-08-29 | 2025-09-26 |
 | [Later Tonight](https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx) | 2:42 | 2025-07-18 |  |
 | [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 | 2025-02-14 | 2025-05-03 |
@@ -366,6 +367,7 @@
 | [Someone Who Knows](https://open.spotify.com/track/5Op72ozs7L69n5l0LfBPg6) | [Kelsi Mayne](https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER) | [Someone Who Knows](https://open.spotify.com/album/4lDz9rqOX6nFCIGP9Tjsc7) | 3:11 | 2025-09-26 |  |
 | [Somethin' Bout a Honky Tonk](https://open.spotify.com/track/2dmSdje8j9IL1wnGJ8J2sm) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Somethin' Bout a Honky Tonk](https://open.spotify.com/album/4AGrwp5MNA4Kkb6D2VSdHL) | 3:12 | 2025-09-19 |  |
 | [sometimes](https://open.spotify.com/track/3NQhWulAjyPb9s9RYpJnY0) | [Adrian Mitchell](https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y) | [sometimes](https://open.spotify.com/album/4BPPmUXxkL4Y03co7Mp3CD) | 2:40 | 2024-11-01 | 2024-11-23 |
+| [Sometimes It Don't](https://open.spotify.com/track/1V6ImmKDA2wOXfcJdAr4DW) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Sometimes It Don't](https://open.spotify.com/album/0MIECkZ8dgC88NARYDTkS2) | 3:30 | 2025-10-31 |  |
 | [Somewhere in a Small Town](https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/31PomNawADmQlyqqAGQhKM) | 3:06 | 2025-07-25 | 2025-10-10 |
 | [Somewhere Tonight](https://open.spotify.com/track/5WKvFzLf56YHXBkHEhfNCB) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [Somewhere Tonight](https://open.spotify.com/album/7kyYOT9mx5VaYu8iVoIK57) | 3:01 | 2024-08-09 | 2024-11-16 |
 | [Soul On Fire](https://open.spotify.com/track/1rBQ5dHO5VskrUmmibWzMS) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [Soul On Fire](https://open.spotify.com/album/6vnYC2sK3qabnbnuJSks3D) | 3:33 | 2025-07-25 | 2025-08-30 |
@@ -395,6 +397,7 @@
 | [The Devil I've Seen](https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Devil I've Seen](https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI) | 3:23 | 2024-06-28 | 2024-07-27 |
 | [The Hard Way](https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0) | 2:42 | 2025-09-05 |  |
 | [The Hunter](https://open.spotify.com/track/0tGcVh7zgWDDOwBaX1tqkr) | [Maddy McKenzie](https://open.spotify.com/artist/4SuxLrKsNeWPZDQRvc1Ag2) | [The Hunter](https://open.spotify.com/album/1oL4MxV3uJOeDeMfIU1BMR) | 2:42 | 2025-09-12 |  |
+| [The Longer You Hold On](https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [The Longer You Hold On](https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv) | 2:52 | 2025-10-31 |  |
 | [The Oil’s Back In Town \- Musora Session](https://open.spotify.com/track/42XQcesZHzFr5K8CkfYzxY) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og), [Musora](https://open.spotify.com/artist/60Qtnm46ynKnGaaMjOjogW) | [The Oil’s Back In Town](https://open.spotify.com/album/2waatVX92IUT38X7fMCJBL) | 2:26 | 2025-10-10 |  |
 | [The Sound Of A Beer Getting Cracked](https://open.spotify.com/track/5pmt4pyh8w7w8q8zJb9CJA) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:14 | 2024-06-28 | 2024-10-05 |
 | [Thief](https://open.spotify.com/track/7tOxqHzZIUK0Ob1QtXIulA) | [Bree Taylor](https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA) | [Thief](https://open.spotify.com/album/4HmzrdHG1BUShS9cUgSDgG) | 3:21 | 2025-09-26 |  |

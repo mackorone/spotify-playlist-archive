@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 116553,
+  "num_followers": 116593,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Fitz and The Tantrums",
-        "url": "https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Two Vines (Deluxe)",
         "url": "https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Fitz and The Tantrums",
+        "url": "https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/7j56HrjR9cGzvekvZY3Faz"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 243509,
-      "name": "Season 2 Episode 3",
-      "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "The Colour In Anything",
         "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 230853,
       "name": "Are We Ready? (Wreck)",
       "url": "https://open.spotify.com/track/1qBLtdOv2zTzq0tkc6Vy6t"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 243509,
+      "name": "Season 2 Episode 3",
+      "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Futureproof",
-        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "wannabewithu",
         "url": "https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 456000,
       "name": "Lover Is a Day",
       "url": "https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Futureproof",
+        "url": "https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Doubt (Summer Edit)",
-        "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
         }
       ],
-      "duration_ms": 226857,
-      "name": "Doubt (Summer Edit)",
-      "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
+      "duration_ms": 129599,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
+        "name": "Doubt (Summer Edit)",
+        "url": "https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ"
       },
       "artists": [
         {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 129599,
-      "name": "Go Fuck Yourself",
-      "url": "https://open.spotify.com/track/3VAeTjREoKPY1exOXR4oBm"
+      "duration_ms": 226857,
+      "name": "Doubt (Summer Edit)",
+      "url": "https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1615,34 +1615,34 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "MY WOMAN",
-        "url": "https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN"
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 202200,
-      "name": "Shut Up Kiss Me",
-      "url": "https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss"
+      "duration_ms": 152333,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
     },
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+        "name": "Our Own House",
+        "url": "https://open.spotify.com/album/09bl34G5cWe3hlKND6PNt2"
       },
       "artists": [
         {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
+      "duration_ms": 232226,
+      "name": "Our Own House",
+      "url": "https://open.spotify.com/track/5ufmXqULgMsDIDSkSaXw1E"
     }
   ],
   "unique_name": "Best of Indie 2016",

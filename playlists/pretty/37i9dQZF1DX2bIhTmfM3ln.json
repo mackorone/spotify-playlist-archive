@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 51850,
+  "num_followers": 51917,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -91,8 +91,8 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/4HgqgBQ1GijdEct4MU407R"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+      "duration_ms": 161619,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5EMD7ozaMBD2GJCUHD5nVn"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -195,8 +195,8 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/4HgqgBQ1GijdEct4MU407R"
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 161619,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5EMD7ozaMBD2GJCUHD5nVn"
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 160866,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Commitment",
-      "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "About Us (with Qing Madi)",
         "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 177773,
       "name": "About Us (with Qing Madi)",
       "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Commitment",
+      "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Over The Moon",
-      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -959,46 +939,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Control (with Joeboy & Bella Shmurda)",
-        "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
       },
       "artists": [
         {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 185880,
-      "name": "Control (with Joeboy & Bella Shmurda)",
-      "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "Namipa",
-        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 141521,
-      "name": "Namipa",
-      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+      "duration_ms": 165714,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1027,6 +983,50 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "Namipa",
+        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 141521,
+      "name": "Namipa",
+      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Control (with Joeboy & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Control (with Joeboy & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "FEELS",
         "url": "https://open.spotify.com/album/6RufVlTi8oghtOMhX3MXwL"
       },
@@ -1043,6 +1043,26 @@
       "duration_ms": 170711,
       "name": "FEELS",
       "url": "https://open.spotify.com/track/4Q0nTj4TyprPk5bTpeSrGk"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1103,26 +1123,6 @@
       "duration_ms": 150735,
       "name": "Highlife",
       "url": "https://open.spotify.com/track/4ztI4NZdFjWcBa1dW9whZz"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "US III",
-        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "US III",
-      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Olayemi",
-        "url": "https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 200526,
-      "name": "I miss you die",
-      "url": "https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 159294,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Olayemi",
+        "url": "https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 200526,
+      "name": "I miss you die",
+      "url": "https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1299,46 +1299,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq"
-      },
-      "artists": [
-        {
-          "name": "Ozedikus",
-          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
-        },
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "i think i love you 2",
-        "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
-      },
-      "artists": [
-        {
-          "name": "ru.",
-          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "i think i love you 2",
-      "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "O Mahiya",
         "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
       },
@@ -1355,6 +1315,26 @@
       "duration_ms": 174411,
       "name": "O Mahiya",
       "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq"
+      },
+      "artists": [
+        {
+          "name": "Ozedikus",
+          "url": "https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1383,18 +1363,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "I No Be God",
-        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
+        "name": "i think i love you 2",
+        "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "ru.",
+          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 138666,
-      "name": "I No Be God",
-      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
+      "duration_ms": 164400,
+      "name": "i think i love you 2",
+      "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1415,6 +1399,42 @@
       "duration_ms": 164634,
       "name": "Sunny Ade",
       "url": "https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "I No Be God",
+        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "I No Be God",
+      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "MELODY",
+        "url": "https://open.spotify.com/album/0xnPL7EWuvYFkMCEieyJR3"
+      },
+      "artists": [
+        {
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 174491,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/3SxV2lTylKaXUVd68MqgSm"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1451,26 +1471,6 @@
       "duration_ms": 152307,
       "name": "You",
       "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/0xnPL7EWuvYFkMCEieyJR3"
-      },
-      "artists": [
-        {
-          "name": "Lamix",
-          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 174491,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/3SxV2lTylKaXUVd68MqgSm"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1527,18 +1527,26 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "MILLIONS",
-        "url": "https://open.spotify.com/album/3UTDZIfRoaqXQ78ClTfT0l"
+        "name": "Pattern Am",
+        "url": "https://open.spotify.com/album/6zgswUbA7gwC06d8eqouFX"
       },
       "artists": [
         {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 153750,
-      "name": "MILLIONS",
-      "url": "https://open.spotify.com/track/7EJspXo2FwdCxeFvQ1noaP"
+      "duration_ms": 196460,
+      "name": "Pattern Am",
+      "url": "https://open.spotify.com/track/1PzHQlsayfgQe62Rjw1ko6"
     }
   ],
   "unique_name": "AfroBae",

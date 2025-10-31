@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Shashwat Bulusu, Piyush Ambhore and other exciting artists.
 
-1,201 songs - 2 day 17 hr 31 min
+1,202 songs - 2 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,6 +697,7 @@
 | [Marham](https://open.spotify.com/track/0mEW7o45RFQiz8H3dN9tXB) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Marham](https://open.spotify.com/album/6k1zkKFbiA2M9DEA0vdHsp) | 3:24 | 2023-04-14 | 2023-05-20 |
 | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/track/1t0ZUIee2xJubPCjHbE5A7) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk) | 3:53 | 2023-08-11 | 2023-09-16 |
 | [Matcha](https://open.spotify.com/track/2YvtNkRSU8Lo5wdAUwWmQ5) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Matcha](https://open.spotify.com/album/6u0bjnnWin6RsvejsvfxFz) | 2:19 | 2025-08-08 | 2025-09-28 |
+| [Matware Naina](https://open.spotify.com/track/2OK1axidCBd7f6ivZOSqtR) | [Chandan Jaiswal](https://open.spotify.com/artist/1obJ1FQ9IMW1WPs1EzRWZC), [Vishal Pande](https://open.spotify.com/artist/579y8QAT8i0Tr5G2D4kuN3), [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3) | [Matware Naina](https://open.spotify.com/album/6WUjtkqOYr37f46DK7QlPV) | 4:11 | 2025-10-17 |  |
 | [Mausam](https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Mausam](https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF) | 4:51 | 2024-06-28 | 2024-12-07 |
 | [Mazaakiyan](https://open.spotify.com/track/6k7NmvQ4K4v2b9ZqOZ9GYz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Mazaakiyan](https://open.spotify.com/album/4K8RsN4S41LAP7XAIpuMSM) | 2:28 | 2023-09-29 | 2023-11-18 |
 | [Maze / Haze](https://open.spotify.com/track/5wrBB8f4odV2bsjd8uIvoP) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq) | [Maze / Haze](https://open.spotify.com/album/42jBbohhJCA97YWTwv51GW) | 1:49 | 2023-07-07 | 2023-08-05 |
@@ -922,7 +923,7 @@
 | [Saaye](https://open.spotify.com/track/2ZS8Cl38xfzRoW3Ku1EQji) | [Aanchal Shrivastava](https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Saaye](https://open.spotify.com/album/1BxPrCD4Jm2dPFuFo0fPOX) | 3:02 | 2023-07-07 | 2023-08-11 |
 | [Sab Bhul Jate Hai](https://open.spotify.com/track/0jQ4wzZDRpqvksx9kDJbXK) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Sab Bhul Jate Hai](https://open.spotify.com/album/5vqrEscldfuOzHcKSVgt3F) | 3:08 | 2025-05-30 | 2025-09-06 |
 | [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 | 2023-09-29 | 2023-10-29 |
-| [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 | 2025-08-29 |  |
+| [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 | 2025-08-29 | 2025-10-31 |
 | [Saba Ke Baad](https://open.spotify.com/track/7ipRE0SOEQgGgKwPppZKf0) | [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Zeeshaan Nabi](https://open.spotify.com/artist/7tFNcJWZddY9NY6KUR4NDQ) | [Riqqat](https://open.spotify.com/album/3wITZhDN89HODZfs4IawWA) | 4:03 | 2025-03-21 | 2025-03-28 |
 | [Sabar](https://open.spotify.com/track/5xpO1KGOZO6utAsvUih0WK) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Sabar](https://open.spotify.com/album/7lOCipGIO1Op7VK0atX5Ji) | 3:13 | 2025-08-22 | 2025-09-26 |
 | [SABAR](https://open.spotify.com/track/6H5pyPWWzFClcVYLSBi562) | [Shrey Jadav](https://open.spotify.com/artist/7FNrXfn1qGnTT5EB5pg8m0), [T\-Rex](https://open.spotify.com/artist/1a6V9zFa1uu6VAssycd5Tc), [Vanishree Sahu](https://open.spotify.com/artist/2HYdcG7Fp7B2xbgBQE9ncy) | [SABAR](https://open.spotify.com/album/4WtT9b9n5A4qAQJ87M5RSC) | 3:23 | 2023-06-30 | 2023-07-29 |

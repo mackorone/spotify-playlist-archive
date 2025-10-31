@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19369,
+  "num_followers": 19368,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAACOof8dyDnKkEZmaTESat1z",
+  "snapshot_id": "aQFZAAAAAAAfz811KsmCxYazLPJ8m516",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 233142,
       "name": "SUFRIENDO DE M\u00c1S",
       "url": "https://open.spotify.com/track/1HZgbYDx3D7NnZauT1Kuh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Tormentas y Tormentos",
+      "url": "https://open.spotify.com/track/5ueVEmBnQxHrwTFuHdv1qP"
     },
     {
       "added_at": null,
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Esfumar",
-      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
+      "duration_ms": 42270,
+      "name": "El sonido del misterio",
+      "url": "https://open.spotify.com/track/2AI9lFk3Ppkyc2wrrKvk0q"
     },
     {
       "added_at": null,
@@ -523,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
       "artists": [
         {
@@ -532,9 +548,41 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
+      "duration_ms": 209200,
+      "name": "Esfumar",
+      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 184571,
+      "name": "Cuando la vida se vuelve real",
+      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delicada Violencia",
+        "url": "https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Delicada Violencia",
+      "url": "https://open.spotify.com/track/7D0wYJazZXiHzCza7yMhqR"
     },
     {
       "added_at": null,
@@ -555,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delicada Violencia",
-        "url": "https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg"
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
       "artists": [
         {
@@ -564,9 +612,25 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 235613,
-      "name": "Delicada Violencia",
-      "url": "https://open.spotify.com/track/7D0wYJazZXiHzCza7yMhqR"
+      "duration_ms": 232653,
+      "name": "Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 287714,
+      "name": "Piedras de fuego",
+      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
     },
     {
       "added_at": null,
@@ -623,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Las gemas",
+      "url": "https://open.spotify.com/track/0QySeIANpgUoPcBwVqVS1x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fortaleza",
         "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
       },
@@ -671,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Respeta el Flow",
-        "url": "https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw"
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
       },
       "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        },
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 161964,
-      "name": "Respeta el Flow",
-      "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
+      "duration_ms": 240500,
+      "name": "El amor es el fin",
+      "url": "https://open.spotify.com/track/4TTS7BCdfcUaLKmgtBS8vF"
     },
     {
       "added_at": null,
@@ -707,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Respeta el Flow",
+        "url": "https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        },
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 161964,
+      "name": "Respeta el Flow",
+      "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
@@ -719,90 +815,6 @@
       "duration_ms": 215946,
       "name": "Br\u00edgida",
       "url": "https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Ver\u00e9 Volver",
-        "url": "https://open.spotify.com/album/2CahCULExuW3iofQgmRPyZ"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 287757,
-      "name": "Zona de Promesas",
-      "url": "https://open.spotify.com/track/4rrPKDbLso4ULMJantCqKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carne (En Vivo)",
-        "url": "https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Claudio Valenzuela",
-          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
-        }
-      ],
-      "duration_ms": 359233,
-      "name": "Carne - En Vivo",
-      "url": "https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sombras Destino (Demo 2008)",
-        "url": "https://open.spotify.com/album/3XC8YVXmcojg9Qbm6e9YGo"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 244475,
-      "name": "Sombras Destino - Demo 2008",
-      "url": "https://open.spotify.com/track/6HXe1dC9JFnLNiG9Q6tOA9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inti-Illimani, Tributo A Su M\u00fasica - A La Salud de la M\u00fasica Chilena",
-        "url": "https://open.spotify.com/album/3bLMlRJGnzb9xhvddIwyJo"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "El Aparecido",
-      "url": "https://open.spotify.com/track/5IpBCVityIZt8b6TUFm74U"
     }
   ],
   "unique_name": "This Is De Saloon",

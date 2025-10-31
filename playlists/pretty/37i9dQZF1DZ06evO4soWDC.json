@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAACw+i6TXPUPAsxA9JTsjfdB",
+  "snapshot_id": "aQFZAAAAAACOnq+pA59vpbWnVHW4pOgq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Iris (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/0UfBYgWnP64I32ltTX3PBk"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 238291,
-      "name": "Iris - triple j Like A Version",
-      "url": "https://open.spotify.com/track/7pEfEyyzMYRZhcJMaUt5aZ"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 263787,
       "name": "How to Make Gravy (Triple J Like a Version) [Live]",
       "url": "https://open.spotify.com/track/1Xb8vdZG9b0Z6fs2XMPIot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iris (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/0UfBYgWnP64I32ltTX3PBk"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 238291,
+      "name": "Iris - triple j Like A Version",
+      "url": "https://open.spotify.com/track/7pEfEyyzMYRZhcJMaUt5aZ"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 183662,
-      "name": "Benthos",
-      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
+      "duration_ms": 123726,
+      "name": "K.D.R",
+      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 123726,
-      "name": "K.D.R",
-      "url": "https://open.spotify.com/track/2Cp0N79NigrnQ0zIlWWP8w"
+      "duration_ms": 183662,
+      "name": "Benthos",
+      "url": "https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH"
     },
     {
       "added_at": null,

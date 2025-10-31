@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243633,
+  "num_followers": 243622,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "The Last Goodbye Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 251903,
       "name": "This Version Of You - Joseph Ray Remix",
       "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
     },
     {
       "added_at": "2024-08-01 10:59:15",

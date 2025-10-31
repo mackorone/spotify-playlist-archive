@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Hispana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,375 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,368 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cumbiancheros](https://open.spotify.com/track/6VLW4p4O4GlSiPYF8WRjNK) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Noble Esquivel](https://open.spotify.com/artist/7D5IffmyeJQpQ2532utYIQ) | [MEXA](https://open.spotify.com/album/1ANqKYjxTjlBW2muzJCsgE) | 3:23 |
 | 2 | [Chan Chan](https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 4:16 |
-| 3 | [Mar de Emociones](https://open.spotify.com/track/082NS9eW3a7umnsWvYe6HC) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 3:35 |
+| 3 | [Mar de Emociones](https://open.spotify.com/track/082NS9eW3a7umnsWvYe6HC) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv), [Jorge Juan Mejía](https://open.spotify.com/artist/3Wq5e6xjFImj5d8QgP0RGN) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 3:35 |
 | 4 | [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/7K4u5bxc2SVotPItpmVAe4) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Eternamente Omara](https://open.spotify.com/album/7KuOwzB6ZJ7fJmYvfxxeVm) | 4:37 |
 | 5 | [La Tirana](https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Tirana](https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp) | 4:04 |
 | 6 | [Ilusión De Amor](https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa) | 3:45 |

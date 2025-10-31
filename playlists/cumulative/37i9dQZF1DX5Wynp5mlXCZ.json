@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: ROXOLANA",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: ROSAL\u00cdA",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -324,6 +324,32 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
     },
     {
       "album": {
@@ -968,7 +994,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 209300,
       "name": "Earth (Dradada)",
       "url": "https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX"
@@ -1142,7 +1168,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 177138,
       "name": "FENOMENAL'",
       "url": "https://open.spotify.com/track/1b977NIX97rPhUrvt57udY"
@@ -3273,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Shovkovytsya",
+        "url": "https://open.spotify.com/album/7IDbrG8oQS4caAv9yuJuRv"
+      },
+      "artists": [
+        {
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267961,
+      "name": "Shovkovytsya",
+      "url": "https://open.spotify.com/track/4P1ku5d7i5XAIBznNaywLz"
+    },
+    {
+      "album": {
         "name": "Silverlines - prod. Labrinth",
         "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
@@ -4496,7 +4540,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
@@ -4700,7 +4744,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 132626,
       "name": "\u0410\u0443 \u0430\u0443",
       "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
@@ -5793,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u043e\u0444\u0435\u0457\u043d",
+        "url": "https://open.spotify.com/album/2NGmJjEDuGLPCRiYBbwypo"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138297,
+      "name": "\u041a\u043e\u0444\u0435\u0457\u043d",
+      "url": "https://open.spotify.com/track/5EHbS0giCz2gq6G6MU9gxa"
+    },
+    {
+      "album": {
         "name": "\u041a\u043e\u0445\u0430\u044e, \u0430\u043b\u0435 \u043d\u0435 \u0437\u043e\u0432\u0441\u0456\u043c",
         "url": "https://open.spotify.com/album/5cnpwmYQBU8JgK8AYYUsFS"
       },
@@ -6202,7 +6264,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 178857,
       "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
       "url": "https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q"
@@ -6763,6 +6825,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0435\u0431\u0435\u0441\u0430\u043c\u0438",
+        "url": "https://open.spotify.com/album/6fa4E3bm7kDmxKomRw0nyv"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "\u041d\u0435\u0431\u0435\u0441\u0430\u043c\u0438",
+      "url": "https://open.spotify.com/track/1sEXmH4Ch0o6p2EETkgErS"
+    },
+    {
+      "album": {
         "name": "\u041d\u0435\u0432\u0436\u0435",
         "url": "https://open.spotify.com/album/5mUBIsjrd0LoeeVidf6JeI"
       },
@@ -6774,7 +6854,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 181000,
       "name": "\u041d\u0435\u0432\u0436\u0435",
       "url": "https://open.spotify.com/track/1dRwGgYCwrpVX9qJMMfEvw"
@@ -6894,7 +6974,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 216260,
       "name": "\u041e\u043b\u0454\u0433",
       "url": "https://open.spotify.com/track/3xu4eTfr6ZQbCtel88ZTT3"
@@ -7174,6 +7254,32 @@
       "duration_ms": 165916,
       "name": "\u043f\u0441\u0438\u0445\u0456\u0447\u043d\u0435 \u043f\u043e\u0440\u0443\u0448\u0435\u043d\u043d\u044f",
       "url": "https://open.spotify.com/track/5bx2mZ2wNh8KDHeFXbWxk8"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u043f\u0435\u0440",
+        "url": "https://open.spotify.com/album/59ptlkaGPgHNKgeYM7V4UE"
+      },
+      "artists": [
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        },
+        {
+          "name": "\u0413\u0430\u043d\u043d\u0430 \u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0430",
+          "url": "https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE"
+        },
+        {
+          "name": "\u041b\u0430\u0431\u0440\u0430 \u0414\u0443\u0434\u043b\u0456",
+          "url": "https://open.spotify.com/artist/6SKL2QTqSFypGMaQbacibM"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "\u041f\u0456\u0432\u043e\u043d\u0456\u0457",
+      "url": "https://open.spotify.com/track/3wljFbUpMosodzjXTudzfn"
     },
     {
       "album": {
@@ -7799,6 +7905,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV"
+      },
+      "artists": [
+        {
+          "name": "KLER",
+          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231692,
+      "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev"
+    },
+    {
+      "album": {
         "name": "\u0422\u0438\u0442\u0430\u043d\u0456\u043a",
         "url": "https://open.spotify.com/album/1PWaSmD6dd7MXU5s2DXKG2"
       },
@@ -7850,6 +7974,24 @@
       "duration_ms": 137441,
       "name": "\u0422\u0438\u0445\u043e-\u0442\u0438\u0445\u043e",
       "url": "https://open.spotify.com/track/46OgKAzSBT56K9TKr1o1O7"
+    },
+    {
+      "album": {
+        "name": "\u0422\u041e \u041d\u0415 \u041c\u0418",
+        "url": "https://open.spotify.com/album/4p1lZoNuIFNcMjGYQSUBhT"
+      },
+      "artists": [
+        {
+          "name": "IVAN LIULENOV",
+          "url": "https://open.spotify.com/artist/4xhNOTAubxW5eBEXohgxIs"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "\u0422\u041e \u041d\u0415 \u041c\u0418",
+      "url": "https://open.spotify.com/track/6rg2NVL2NQfyMmrOwXLabs"
     },
     {
       "album": {

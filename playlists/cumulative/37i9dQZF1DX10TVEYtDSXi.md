@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-225 songs - 11 hr 49 min
+228 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-21 | 2024-08-16 |
 | [Bedtime Stories](https://open.spotify.com/track/2kH66TOm3wCMB6tfYHdTMU) | [Birgir](https://open.spotify.com/artist/2hCU6EhDEmPjpqe8cAHAcm) | [Bedtime Stories](https://open.spotify.com/album/4fArsSLEFZiG8ObSDtqHGu) | 3:38 | 2025-02-14 | 2025-05-23 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-21 | 2024-10-22 |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-31 |  |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-16 | 2025-01-03 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-26 | 2025-03-07 |
 | [Blackberry Mule](https://open.spotify.com/track/2YCgIaLnfcM3ehKqvEsCN9) | [Birgir](https://open.spotify.com/artist/2hCU6EhDEmPjpqe8cAHAcm) | [Blackberry Mule](https://open.spotify.com/album/2CJHlbFzo0xDJigX2oIUxy) | 3:10 | 2024-10-11 | 2025-02-14 |
@@ -45,6 +46,7 @@
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-16 | 2024-11-22 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 | 2025-06-06 |
 | [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-10-11 | 2025-02-14 |
+| [Cowboy Killer](https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Cowboy Killer](https://open.spotify.com/album/6278k7rRmZDDcpyd2h1phT) | 3:35 | 2025-10-31 |  |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-06-20 |
 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 | 2025-07-22 |  |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-02-14 |
@@ -55,6 +57,7 @@
 | [Dream Team](https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Dream Team](https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ) | 3:08 | 2025-09-05 |  |
 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 | 2025-06-20 | 2025-09-05 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-17 | 2025-05-16 |
+| [Efsta hæð](https://open.spotify.com/track/12vTFmfkpkN14LxUX4c4FS) | [tatjana](https://open.spotify.com/artist/291ohykNwzL3QugnbCf4Ju), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Efsta hæð](https://open.spotify.com/album/2XdtY47S7DL7fAVBQ30Hv1) | 4:06 | 2025-10-31 |  |
 | [Egó](https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux) | [HelgiT](https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL) | [Dýnamík](https://open.spotify.com/album/2w2XFZe0dSrOo5YFfq2dnC) | 2:35 | 2025-04-25 |  |
 | [EKKI BÍÐA](https://open.spotify.com/track/2oM99C7UAdQhVVxglzETX4) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb) | [ÞETTA ER IZLEIFUR](https://open.spotify.com/album/5hg2HWIwUAYqxTPZztT34g) | 3:05 | 2024-06-21 | 2024-07-27 |
 | [Eldur](https://open.spotify.com/track/0uFpxx44aYPOSOcAp0DOZc) | [Júlí Heiðar](https://open.spotify.com/artist/6tcHrf8DzKfQvpkQQBKSOT), [Dísa](https://open.spotify.com/artist/2hJcFRxgEKKcjgNz6gjnjs) | [Fire](https://open.spotify.com/album/4RjJ5XDplphyfgixMOYaNo) | 2:58 | 2025-02-21 | 2025-05-30 |

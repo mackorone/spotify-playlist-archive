@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,321 likes - 97 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,319 likes - 97 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 39 | [You're The Top](https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:39 |
 | 40 | [No Regrets](https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 3:28 |
 | 41 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 |
-| 42 | [Won't You Be My Neighbor](https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [A Lot of Livin' to Do](https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk) | 3:45 |
-| 43 | [Just A Little Lovin'](https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Feelin' Good](https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e) | 3:10 |
+| 42 | [Just A Little Lovin'](https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Feelin' Good](https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e) | 3:10 |
+| 43 | [Won't You Be My Neighbor](https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [A Lot of Livin' to Do](https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk) | 3:45 |
 | 44 | [Beatrice](https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 4:17 |
 | 45 | [On a Turquoise Cloud](https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs) | [Echoes of Swing](https://open.spotify.com/artist/2MGK5rV3sBiI1UW1hjYDD8), [Bernd Lhotzky](https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR), [Chris Hopkins](https://open.spotify.com/artist/7tzNTBvqtn0E5c2T4erPUu), [Colin Dawson](https://open.spotify.com/artist/2NPBTOQfPfX5kmVAjWmW0U), [Oliver Mewes](https://open.spotify.com/artist/0WvVOkSJa0dNm3Uv9vmM9t) | [Travelin'](https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5) | 3:48 |
 | 46 | [You Must Believe In Spring](https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse) | [Estelle Perrault](https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP) | [Dare That Dream](https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB) | 4:16 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 60 | [My Shining Hour](https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Yours](https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM) | 3:13 |
 | 61 | [Something 'bout the Rain](https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK) | [Alma Naidu](https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE) | [Alma](https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa) | 4:37 |
 | 62 | [Say It](https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:57 |
-| 63 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |
-| 64 | [Joy Spring](https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Happyfeet](https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP) | 6:40 |
+| 63 | [Joy Spring](https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Happyfeet](https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP) | 6:40 |
+| 64 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |
 | 65 | [All The Way](https://open.spotify.com/track/1j6TY7oXSXwJWoo0MzIBCl) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd) | 3:32 |
 | 66 | [I've Never Been in Love Before](https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Tarder\-Stoll](https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd) | [Caity Gyorgy Quartet](https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm) | 5:47 |
 | 67 | [I Can't Be Bothered Now](https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 2:59 |

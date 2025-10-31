@@ -284,7 +284,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 170677,
       "name": "Fourth Strike",
       "url": "https://open.spotify.com/track/4ZYc3kAdPWlhYMnEsjvVr6"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 142959,
       "name": "Gangsta's Paradise - Blues Cover",
       "url": "https://open.spotify.com/track/1KOycm3BH4V0HVe1ZR4cQF"
@@ -528,6 +528,24 @@
       "duration_ms": 113230,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
+    },
+    {
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "album": {
@@ -795,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Man I Need x Promiscuous",
+        "url": "https://open.spotify.com/album/1P6dnH2rtEQikRvrqsCC9T"
+      },
+      "artists": [
+        {
+          "name": "VellyCarl",
+          "url": "https://open.spotify.com/artist/1dpnhSfZVaQG6SAp9ld3hd"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136535,
+      "name": "Man I Need x Promiscuous",
+      "url": "https://open.spotify.com/track/2L62z1KSWTevGuBcMVL7W9"
+    },
+    {
+      "album": {
         "name": "Mashup Songs, Vol. 2",
         "url": "https://open.spotify.com/album/0DdijNr7yXx8rol1XKC5bk"
       },
@@ -806,7 +842,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 136535,
       "name": "Man I Need x Promiscuous",
       "url": "https://open.spotify.com/track/4h9Ldv8hpuSKpIwcMKmntL"
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -1325,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+    },
+    {
+      "album": {
         "name": "WHEN A GIRL CRIES",
         "url": "https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91"
       },
@@ -1394,7 +1448,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 321387,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/3nY6mivFNJlCGSlMW9BAFH"
@@ -1412,7 +1466,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 321312,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/3IOtEstEhsoZLYPStcysln"

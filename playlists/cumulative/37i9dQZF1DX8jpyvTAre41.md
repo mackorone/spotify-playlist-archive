@@ -2,9 +2,9 @@
 
 ### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The best rock songs of the moment\. Cover: Kyle Wildfern
+> The best rock songs of the moment\. Cover: Foo Fighters
 
-1,453 songs - 3 day 9 hr 35 min
+1,457 songs - 3 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-08 | 2024-07-13 |
 | [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 | 2025-08-15 | 2025-08-22 |
 | [ANOTHER DAY](https://open.spotify.com/track/6P3ulqMerWlqHoITMV3Qbk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [ANOTHER DAY](https://open.spotify.com/album/1ltYGci13XpnGRY7552qnD) | 3:38 | 2025-09-26 |  |
+| [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 | 2025-10-31 |  |
 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-13 | 2025-09-19 |
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-05-31 | 2024-10-19 |
 | [Apologies](https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Apologies](https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY) | 3:06 | 2025-05-09 | 2025-06-21 |
@@ -801,6 +802,7 @@
 | [Meant to Be](https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Meant to Be](https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA) | 4:17 | 2022-11-25 | 2023-01-23 |
 | [Medusa \(Stone\)](https://open.spotify.com/track/58nauqtQ3JGC779n2FvfFC) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a) | 3:39 | 2023-03-17 | 2024-05-11 |
 | [Meet Me At The Riot](https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Meet Me At The Riot](https://open.spotify.com/album/3NiXPd6taHn0fshOw9dIgJ) | 2:56 | 2023-02-10 | 2024-03-09 |
+| [Meet Me In The Middle](https://open.spotify.com/track/44VBgxQ5khk3QgfJFKVi3X) | [The Boojums](https://open.spotify.com/artist/3cZi4em8rnssExt3yLA75E) | [](https://open.spotify.com/album/null) | 1:39 | 2025-10-31 |  |
 | [Meeting The Master](https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 5:12 | 2023-07-28 | 2024-06-15 |
 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-07 | 2023-07-22 |
 | [Mendicant](https://open.spotify.com/track/5thfeBE37EjNJaVO58s4pr) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Mendicant](https://open.spotify.com/album/7Mkr80TWFi666YuUFqJpOz) | 3:52 | 2025-05-09 | 2025-08-22 |
@@ -1303,6 +1305,7 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-24 | 2024-10-19 |
 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 | 2024-07-12 | 2024-11-23 |
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-27 | 2025-09-19 |
+| [Track 11](https://open.spotify.com/track/0UDgAr1L3PWtivDoPARmex) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-31 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Tree Of Life](https://open.spotify.com/track/3WBecJY7EJ8KWZikPhP7Rf) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [Serene Demon](https://open.spotify.com/album/5HKW5i8WLnIoXapKVE5O2F) | 3:08 | 2025-02-14 | 2025-06-21 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-21 | 2025-06-28 |
@@ -1390,6 +1393,7 @@
 | [What Does it Mean](https://open.spotify.com/track/3K1HbnPbY0y57z7Fs2xTgr) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Package Pt\. 2](https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW) | 2:52 | 2024-04-05 | 2024-04-27 |
 | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/album/6XAKGZmFNNij9L9dYTAznJ) | 3:51 | 2023-08-25 | 2023-09-16 |
 | [What Feels Like Eternity](https://open.spotify.com/track/5qM7wBA2RnGBLjyzsNSgGK) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [What Feels Like Eternity](https://open.spotify.com/album/0xid9xFyq8ly9STtakIAaE) | 3:37 | 2022-06-10 | 2022-07-09 |
+| [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 | 2025-10-31 |  |
 | [What Happens After You?](https://open.spotify.com/track/5x7Ffxc1Obg13x5IzM1XXV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Autumn](https://open.spotify.com/album/1ZuTYUdoALghOAKTISys6n) | 3:19 | 2022-09-23 | 2022-12-10 |
 | [What You Need](https://open.spotify.com/track/4sDMXNlmCgOPXhqlv8gQiJ) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [What You Need](https://open.spotify.com/album/5fHd3gpQNr0rB7LoljUVvg) | 3:34 | 2025-04-04 | 2025-07-12 |
 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-23 | 2024-10-05 |

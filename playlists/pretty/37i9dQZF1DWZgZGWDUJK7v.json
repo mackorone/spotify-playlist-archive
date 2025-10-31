@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: \ub0b4\ud5a5\ub0a8\ub140(Introverted Us)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 119135,
+  "num_followers": 119134,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-10-24 07:27:52",
       "album": {
+        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
+      },
+      "artists": [
+        {
+          "name": "LEESEO",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "MAY LILY",
+      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
+    },
+    {
+      "added_at": "2025-10-24 07:27:52",
+      "album": {
         "name": "STAY THE NIGHT (She is My Type\u2661 X GRAY)",
         "url": "https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 175000,
       "name": "STAY THE NIGHT (Feat. DeVita)",
       "url": "https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j"
-    },
-    {
-      "added_at": "2025-10-24 07:27:52",
-      "album": {
-        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
-        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
-      },
-      "artists": [
-        {
-          "name": "LEESEO",
-          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "MAY LILY",
-      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
     },
     {
       "added_at": "2025-10-24 07:27:52",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2025-10-24 07:27:52",
       "album": {
-        "name": "With me (Electrifying Confession X LUCY)",
-        "url": "https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi"
+        "name": "Flower, Wind, You (Blue Archive)",
+        "url": "https://open.spotify.com/album/0pg40CiQu2H6HP06GTyUYb"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+          "name": "Mitsukiyo",
+          "url": "https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs"
+        },
+        {
+          "name": "Saebit",
+          "url": "https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX"
         }
       ],
-      "duration_ms": 234400,
-      "name": "With me (Electrifying Confession X LUCY)",
-      "url": "https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9"
+      "duration_ms": 210834,
+      "name": "Flower, Wind, and You",
+      "url": "https://open.spotify.com/track/6paRgkIe7XCAkDkEawYtqc"
     },
     {
       "added_at": "2025-10-24 07:27:52",
@@ -1255,22 +1259,18 @@
     {
       "added_at": "2025-10-24 07:27:52",
       "album": {
-        "name": "Flower, Wind, You (Blue Archive)",
-        "url": "https://open.spotify.com/album/0pg40CiQu2H6HP06GTyUYb"
+        "name": "With me (Electrifying Confession X LUCY)",
+        "url": "https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi"
       },
       "artists": [
         {
-          "name": "Mitsukiyo",
-          "url": "https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs"
-        },
-        {
-          "name": "Saebit",
-          "url": "https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
         }
       ],
-      "duration_ms": 210834,
-      "name": "Flower, Wind, and You",
-      "url": "https://open.spotify.com/track/6paRgkIe7XCAkDkEawYtqc"
+      "duration_ms": 234400,
+      "name": "With me (Electrifying Confession X LUCY)",
+      "url": "https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9"
     },
     {
       "added_at": "2025-10-24 07:27:52",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2025-10-24 07:27:52",
       "album": {
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
+    },
+    {
+      "added_at": "2025-10-24 07:27:52",
+      "album": {
         "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.1",
         "url": "https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c"
       },
@@ -1743,22 +1763,6 @@
       "duration_ms": 207333,
       "name": "How about you?",
       "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
-    },
-    {
-      "added_at": "2025-10-24 07:27:52",
-      "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB"
-      },
-      "artists": [
-        {
-          "name": "LIZRO",
-          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
-        }
-      ],
-      "duration_ms": 186862,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t"
     }
   ],
   "unique_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",

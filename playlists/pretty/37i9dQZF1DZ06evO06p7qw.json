@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 186771,
+  "num_followers": 186828,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAADatZ7hbrx/SlrsDdmnjA2p",
+  "snapshot_id": "aQFZAAAAAAAk/aod8G81nA4ol1C6QLPC",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOGOT\u00c1",
-        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 228562,
-      "name": "Una Flor",
-      "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECTO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 204069,
       "name": "Lib\u00e9rame",
       "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 228562,
+      "name": "Una Flor",
+      "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 303990,
+      "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 303990,
-      "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-445 songs - 1 day 1 hr 30 min
+446 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [EL DÍA QUE PERDÍ MI JUVENTUD](https://open.spotify.com/track/5gFRjeeZ32L9KnWyFxPncv) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:48 | 2024-06-21 | 2024-07-13 |
 | [El Espejo](https://open.spotify.com/track/4fHpriV14mig4esLm2CQea) | [Naked Family](https://open.spotify.com/artist/2XuDkWSGwLfIMsAii8xBt3) | [La Vuelta](https://open.spotify.com/album/7HELda0VxRW8VEDN5QGJZC) | 5:14 | 2024-08-02 | 2024-10-13 |
 | [El Loteo de Sauce Grande](https://open.spotify.com/track/7l0BoBrKuPuhK4TI9ySc30) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Julia Ortiz](https://open.spotify.com/artist/4Y4DH3R4aZsbEb2qUbYDWx) | [El Loteo de Sauce Grande](https://open.spotify.com/album/2Q2c88RmL4WOLrBImHKBHy) | 2:40 | 2025-10-09 | 2025-10-11 |
-| [El Noi de la Mare](https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [El Noi de la Mare](https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG) | 4:03 | 2024-12-23 |  |
+| [El Noi de la Mare](https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [El Noi de la Mare](https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG) | 4:03 | 2024-12-23 | 2025-10-31 |
 | [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 | 2025-06-26 |  |
 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 | 2025-06-02 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-10-01 | 2024-12-24 |
@@ -215,6 +215,7 @@
 | [La Jarrita del Tiempo](https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [La Jarrita del Tiempo](https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd) | 4:01 | 2025-09-18 |  |
 | [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 | 2025-01-03 | 2025-09-19 |
 | [La quiero a morir](https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g) | [Laura Durand](https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j) | [La quiero a morir](https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx) | 4:15 | 2025-09-18 |  |
+| [La torre](https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [La torre](https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm) | 1:42 | 2025-10-30 |  |
 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 | 2023-10-16 | 2023-12-30 |
 | [La ventanita](https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [La ventanita](https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS) | 4:15 | 2024-04-11 | 2025-03-21 |
 | [La vie en rose \- Single Version](https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p) | 3:24 | 2022-11-11 | 2024-02-09 |

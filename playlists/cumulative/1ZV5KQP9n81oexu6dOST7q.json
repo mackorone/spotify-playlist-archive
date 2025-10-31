@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Buckle Up",
+        "url": "https://open.spotify.com/album/6uy7jH31wll2vUMnupco6a"
+      },
+      "artists": [
+        {
+          "name": "The Subs",
+          "url": "https://open.spotify.com/artist/06h5xeeCDip3usS3go9zjI"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Buckle Up",
+      "url": "https://open.spotify.com/track/1frpuEhKCG0pUizK7vPa4Z"
+    },
+    {
+      "album": {
         "name": "Control Of Me (feat. Daecolm)",
         "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
       },

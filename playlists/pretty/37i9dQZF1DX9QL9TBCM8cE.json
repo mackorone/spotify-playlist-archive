@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 29391,
+  "num_followers": 29396,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-02-28 16:30:31",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 05",
+        "url": "https://open.spotify.com/album/3UigZQb1RxyalZQMokQdNV"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30eb\u30b9\u30c8\u30ed\u30e1\u30ea\u30a2",
+          "url": "https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q"
+        }
+      ],
+      "duration_ms": 226433,
+      "name": "Give me some more...",
+      "url": "https://open.spotify.com/track/1xPgiEVUAqnK8akH4rynmR"
+    },
+    {
+      "added_at": "2025-02-28 16:30:31",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
         "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 289986,
       "name": "\u6709\u5f69\u8272\u30e6\u30ea\u30a4\u30ab",
       "url": "https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK"
-    },
-    {
-      "added_at": "2025-02-28 16:30:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 02",
-        "url": "https://open.spotify.com/album/1pewpwUqImQRPBxJlLFXv3"
-      },
-      "artists": [
-        {
-          "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Twinkle way",
-      "url": "https://open.spotify.com/track/5U9EvPR8M5IrFTmyremxuZ"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS",

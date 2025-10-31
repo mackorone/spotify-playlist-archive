@@ -841,6 +841,32 @@
     },
     {
       "album": {
+        "name": "Antes de que me encuentren",
+        "url": "https://open.spotify.com/album/5jOUp6S3UjWBnafjYjeVvi"
+      },
+      "artists": [
+        {
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        },
+        {
+          "name": "Sofia Coll",
+          "url": "https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd"
+        },
+        {
+          "name": "Fectro",
+          "url": "https://open.spotify.com/artist/34Tgpgu56FedPkQ23qcq1M"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194021,
+      "name": "Antes de que me encuentren",
+      "url": "https://open.spotify.com/track/70G8bpm6OVQ0AUpkgnD4sd"
+    },
+    {
+      "album": {
         "name": "Antipanico",
         "url": "https://open.spotify.com/album/0qx9VjT1iZaz7NGLNbqQ9W"
       },
@@ -13886,7 +13912,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 174107,
       "name": "why",
       "url": "https://open.spotify.com/track/6aWKjqvFULsZhpF8Nugfeu"

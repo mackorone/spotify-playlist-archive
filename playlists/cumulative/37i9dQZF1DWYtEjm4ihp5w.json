@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Shaw, Hassa1",
+  "description": "Cover: Stormy",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -2651,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Fid\u00e8le",
+        "url": "https://open.spotify.com/album/40mtyrxvEJb2Tb6zZkAbIB"
+      },
+      "artists": [
+        {
+          "name": "7mad",
+          "url": "https://open.spotify.com/artist/1EuzzhJcSL4NK5vcpuUuMF"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181689,
+      "name": "Fid\u00e8le",
+      "url": "https://open.spotify.com/track/0GXHaqVZPoV97zXhJ0rE7S"
+    },
+    {
+      "album": {
         "name": "Flouka",
         "url": "https://open.spotify.com/album/1z7XskxLNTlVN3fHS1HzuA"
       },
@@ -4020,7 +4038,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 220606,
       "name": "L'APPEL",
       "url": "https://open.spotify.com/track/2JrnMgo1TQPABxjYPsdgiL"
@@ -5688,7 +5706,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 174456,
       "name": "OCB",
       "url": "https://open.spotify.com/track/6zenyr1mL88GcgrLXI8eAh"
@@ -7576,6 +7594,36 @@
       "duration_ms": 132000,
       "name": "Thomas Shelby",
       "url": "https://open.spotify.com/track/2lmdwpyG80PeqfUiSj2jpq"
+    },
+    {
+      "album": {
+        "name": "Thunes",
+        "url": "https://open.spotify.com/album/4HA7CScPa22I7xf2eoaZsg"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252376,
+      "name": "Thunes",
+      "url": "https://open.spotify.com/track/5WdqTuyAWqIkNJN5L2wlHO"
     },
     {
       "album": {

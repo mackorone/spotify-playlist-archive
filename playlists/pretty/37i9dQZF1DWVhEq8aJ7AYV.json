@@ -1,6 +1,6 @@
 {
   "description": "Enmascarados, Pin-Up Girls, Engrasados y Surfers en un mismo lugar ",
-  "num_followers": 81828,
+  "num_followers": 81845,
   "original_name": "Garage, Surf & Rockabilly ",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-10-24 06:00:16",
       "album": {
-        "name": "Bestiario de Santa Lucia",
-        "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
-      },
-      "artists": [
-        {
-          "name": "Los Vaguens",
-          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
-        }
-      ],
-      "duration_ms": 209536,
-      "name": "Labios Carmin",
-      "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
-    },
-    {
-      "added_at": "2025-10-24 06:00:16",
-      "album": {
         "name": "Wading Out / Shell Island",
         "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 203680,
       "name": "Shell Island",
       "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
+    },
+    {
+      "added_at": "2025-10-24 06:00:16",
+      "album": {
+        "name": "Bestiario de Santa Lucia",
+        "url": "https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a"
+      },
+      "artists": [
+        {
+          "name": "Los Vaguens",
+          "url": "https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2"
+        }
+      ],
+      "duration_ms": 209536,
+      "name": "Labios Carmin",
+      "url": "https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa"
     },
     {
       "added_at": "2025-10-24 06:00:16",
@@ -379,34 +379,18 @@
     {
       "added_at": "2025-10-24 06:00:16",
       "album": {
-        "name": "King of the Surf Guitar",
-        "url": "https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A"
+        "name": "Swingin' Singles",
+        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
       },
       "artists": [
         {
-          "name": "Dick Dale",
-          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
         }
       ],
-      "duration_ms": 135293,
-      "name": "Miserlou",
-      "url": "https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW"
-    },
-    {
-      "added_at": "2025-10-24 06:00:16",
-      "album": {
-        "name": "Outta Here",
-        "url": "https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb"
-      },
-      "artists": [
-        {
-          "name": "The Gories",
-          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "There But for the Grace of God Go I",
-      "url": "https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl"
+      "duration_ms": 115266,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
     },
     {
       "added_at": "2025-10-24 06:00:16",
@@ -431,18 +415,34 @@
     {
       "added_at": "2025-10-24 06:00:16",
       "album": {
-        "name": "Swingin' Singles",
-        "url": "https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3"
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb"
       },
       "artists": [
         {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+          "name": "The Gories",
+          "url": "https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh"
         }
       ],
-      "duration_ms": 115266,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX"
+      "duration_ms": 187666,
+      "name": "There But for the Grace of God Go I",
+      "url": "https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl"
+    },
+    {
+      "added_at": "2025-10-24 06:00:16",
+      "album": {
+        "name": "King of the Surf Guitar",
+        "url": "https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "duration_ms": 135293,
+      "name": "Miserlou",
+      "url": "https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW"
     },
     {
       "added_at": "2025-10-24 06:00:16",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-24 06:00:16",
       "album": {
-        "name": "Invisible Girl",
-        "url": "https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT"
-      },
-      "artists": [
-        {
-          "name": "The King Khan & BBQ Show",
-          "url": "https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "I\u2019ll Be Loving You",
-      "url": "https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF"
-    },
-    {
-      "added_at": "2025-10-24 06:00:16",
-      "album": {
         "name": "Guadalupe Plata 2017",
         "url": "https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 297942,
       "name": "Qu\u00e9 He Sacado Con Quererte (aka Violeta Parra)",
       "url": "https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5"
+    },
+    {
+      "added_at": "2025-10-24 06:00:16",
+      "album": {
+        "name": "Garaje o Muerte",
+        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
+      },
+      "artists": [
+        {
+          "name": "Los Peyotes",
+          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
+        }
+      ],
+      "duration_ms": 186593,
+      "name": "Peyoteando Con Ayahuasca",
+      "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
     },
     {
       "added_at": "2025-10-24 06:00:16",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-10-24 06:00:16",
       "album": {
-        "name": "Garaje o Muerte",
-        "url": "https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6"
+        "name": "Invisible Girl",
+        "url": "https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT"
       },
       "artists": [
         {
-          "name": "Los Peyotes",
-          "url": "https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp"
+          "name": "The King Khan & BBQ Show",
+          "url": "https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P"
         }
       ],
-      "duration_ms": 186593,
-      "name": "Peyoteando Con Ayahuasca",
-      "url": "https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW"
+      "duration_ms": 190413,
+      "name": "I\u2019ll Be Loving You",
+      "url": "https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF"
     },
     {
       "added_at": "2025-10-24 06:00:16",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-10-24 06:00:16",
       "album": {
+        "name": "Savage Island!",
+        "url": "https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN"
+      },
+      "artists": [
+        {
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+        }
+      ],
+      "duration_ms": 130479,
+      "name": "Lord Hunt Surf Party",
+      "url": "https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD"
+    },
+    {
+      "added_at": "2025-10-24 06:00:16",
+      "album": {
         "name": "Dos Bandas y un Destino: El Concierto (En Directo)",
         "url": "https://open.spotify.com/album/7tpauqGPBkR0RHrDhSSH0a"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 183760,
       "name": "Runaway - En Directo",
       "url": "https://open.spotify.com/track/6n9lXiZ7ncFaTQyGV9RaAy"
-    },
-    {
-      "added_at": "2025-10-24 06:00:16",
-      "album": {
-        "name": "Savage Island!",
-        "url": "https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN"
-      },
-      "artists": [
-        {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
-        }
-      ],
-      "duration_ms": 130479,
-      "name": "Lord Hunt Surf Party",
-      "url": "https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD"
     },
     {
       "added_at": "2025-10-24 06:00:16",

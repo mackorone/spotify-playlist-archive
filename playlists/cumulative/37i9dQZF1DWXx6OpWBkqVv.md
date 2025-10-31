@@ -4,7 +4,7 @@
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Go Go Dolls
 
-157 songs - 10 hr 9 min
+158 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dog Days Are Over](https://open.spotify.com/track/15ya59dZ8yGeIfZARiYDjd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(International Version\)](https://open.spotify.com/album/2Zm1iyTqpaIKqCCisX28Uk) | 4:12 | 2021-10-15 |  |
 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 | 2025-10-10 |  |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
+| [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-10-31 |  |
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2021-10-15 | 2025-07-26 |
 | [Fall To Pieces](https://open.spotify.com/track/1rdkG7R3dHS2RI4Akk00zq) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [WE WERE THE WEIRDOS](https://open.spotify.com/album/5X9W0UYcGJbdVLIhztzfuH) | 3:54 | 2022-01-20 | 2024-04-19 |
 | [Fall To Pieces](https://open.spotify.com/track/4NLYbeiw8uqRQaVM5QFBfp) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [WE WERE THE WEIRDOS](https://open.spotify.com/album/254VNPxGdFoHEWAkgdwtnV) | 3:54 | 2021-10-15 |  |
@@ -116,7 +117,7 @@
 | [Ruby](https://open.spotify.com/track/0N5x5UmYcbBeHFJtCCqf62) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/0mKKqokWGSgKoL2bzdyTpd) | 3:24 | 2021-10-15 |  |
 | [Ruby](https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob](https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU) | 3:24 | 2022-01-20 | 2024-04-19 |
 | [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4) | 3:24 | 2023-01-03 | 2023-04-01 |
-| [Run](https://open.spotify.com/track/7kp2CQWguwhIslzv0dMwNN) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Run](https://open.spotify.com/album/5IssO2YC5rbJs1mKcSBE32) | 3:27 | 2021-10-15 |  |
+| [Run](https://open.spotify.com/track/7kp2CQWguwhIslzv0dMwNN) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Run](https://open.spotify.com/album/5IssO2YC5rbJs1mKcSBE32) | 3:27 | 2021-10-15 | 2025-10-31 |
 | [Run All Night](https://open.spotify.com/track/3NpnBHI6qEyauHYfrQqg1w) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Run All Night](https://open.spotify.com/album/047z4hEbghpi0VImdQ8JgS) | 4:50 | 2025-08-22 |  |
 | [Say It Ain't So](https://open.spotify.com/track/7eTEVei2Q7Umyzk3AmGObC) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Afternoon Rock](https://open.spotify.com/album/4Y6nUfzVt2MYWBrvNUdtey) | 4:18 | 2022-01-20 | 2022-11-13 |
 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2022-01-20 | 2024-04-19 |

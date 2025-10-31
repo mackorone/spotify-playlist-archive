@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 32 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
 | 33 | [Baby](https://open.spotify.com/track/21vwWfS6qvxh8TN3lgHvZr) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Baby](https://open.spotify.com/album/2Mu6Sua4GrqPmchgUj4vZI) | 3:14 |
 | 34 | [Still Good](https://open.spotify.com/track/3snCUIDipfcnwhyIfeDe8f) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [People To People](https://open.spotify.com/album/18AYjsog9iGp1np3r1KqHJ) | 3:21 |
-| 35 | [Chateau](https://open.spotify.com/track/2yedRoI0ixMxQSyHE0q1Jq) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:08 |
-| 36 | [You Know It's About You](https://open.spotify.com/track/3Ta0pQe8LbxK3uvDbRBjbo) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Leap! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GGZvXaDSTPxzjSxIOfmPJ) | 3:43 |
+| 35 | [You Know It's About You](https://open.spotify.com/track/3Ta0pQe8LbxK3uvDbRBjbo) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Leap! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GGZvXaDSTPxzjSxIOfmPJ) | 3:43 |
+| 36 | [Chateau](https://open.spotify.com/track/2yedRoI0ixMxQSyHE0q1Jq) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:08 |
 | 37 | [hurts like hell](https://open.spotify.com/track/1Cd4W9s1YoTKNzNrVkOjs2) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/1YqCPwqa29diDqCeB3Qahf) | 3:57 |
 | 38 | [Tonight](https://open.spotify.com/track/51CeiXQgEq3YD4D6v3GjfB) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:16 |
 | 39 | [Rose Gold](https://open.spotify.com/track/3sMsk0ZIBHEpLxPkCeoQWq) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 3:43 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 145 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 146 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AcAMZAAAAAB3Moierli2scPqOIZFZKWd`
+Snapshot ID: `AcARyAAAAABoJnhqRAn0nSM06oMSbTSW`

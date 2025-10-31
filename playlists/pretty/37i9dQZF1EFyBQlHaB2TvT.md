@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyBQlHaB2TvT.md) - [plain]
 | 9 | [scars](https://open.spotify.com/track/350l5Tkctw6RMcIdl7MlaS) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:26 |
 | 10 | [BULLIES](https://open.spotify.com/track/5Ow3QqHeeA78Q3nSnbUbkL) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 3:14 |
 | 11 | [MY EX](https://open.spotify.com/track/5Yfy4sbXzwFRe4gxrV2TAS) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:33 |
-| 12 | [patience interlude](https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 2:21 |
-| 13 | [the giver](https://open.spotify.com/track/77hsj8fxAQlPMgjpQxT9Ln) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:20 |
+| 12 | [the giver](https://open.spotify.com/track/77hsj8fxAQlPMgjpQxT9Ln) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:20 |
+| 13 | [patience interlude](https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 2:21 |
 | 14 | [CRAZY H\*ES](https://open.spotify.com/track/2ftpqQwXX1NwNGALy1hR8h) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:16 |
 | 15 | [ALLOCATE](https://open.spotify.com/track/7njFMXMSIiLFzPH3jguEgt) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [YEAH YEAH!](https://open.spotify.com/album/2bvmhK8LbNwtpnxmAow0vW) | 1:57 |
 | 16 | [Pit stop](https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/4QFU1zIY53hxuX85LyGi4B) | 4:02 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyBQlHaB2TvT.md) - [plain]
 | 22 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 | 23 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
 
-Snapshot ID: `AcAMRgAAAAAkI5wjhDsNvd/c1Hra1suA`
+Snapshot ID: `AcAR5gAAAADAG7qSiQif46fFqaAd7P1J`

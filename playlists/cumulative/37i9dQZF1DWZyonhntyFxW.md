@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: عفروتو
+> أقوى تراكات الهيب هوب في مصر غلاف: عفروتو
 
-436 songs - 21 hr 16 min
+437 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [RAKMY YKHOD](https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:56 | 2024-09-05 | 2025-02-19 |
 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 | 2024-09-06 | 2025-02-13 |
 | [Reda](https://open.spotify.com/track/3Lw2N67l3dIo4AX6Umm8RS) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [Reda](https://open.spotify.com/album/0xXnSMTkeuL3oudS2Jcr4V) | 2:37 | 2025-08-06 | 2025-08-13 |
+| [Replica](https://open.spotify.com/track/5OHdP4aHFLWEvayknKI746) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Genent El Ba’ar](https://open.spotify.com/album/0VOXsTCZAsZSV6fdSGzteA) | 2:50 | 2025-10-30 |  |
 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 | 2023-09-06 | 2024-08-06 |
 | [ROCKSTAR](https://open.spotify.com/track/6cjGkkdBNvkcFeKk1TQ1jd) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:22 | 2023-05-11 | 2023-08-18 |
 | [Roo7](https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Cabina](https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp) | 3:09 | 2022-09-13 | 2022-12-19 |
@@ -441,7 +442,7 @@
 | [مين يتحدى](https://open.spotify.com/track/2wlvrcPdey3ZCr0KRfRV4T) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Tasneem El Aidy](https://open.spotify.com/artist/6dGbgtd9AkqjuoKHiiGKBx), [Dafencii](https://open.spotify.com/artist/74GGob3vwZoZ5Cs16pd4KC) | [مين يتحدى](https://open.spotify.com/album/6Q7vMeBwuMCGCAQaryhsZm) | 2:08 | 2022-06-28 | 2022-11-04 |
 | [نرجسه](https://open.spotify.com/track/0RpasZfuIcTzJURLIoQr8u) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [آمل](https://open.spotify.com/album/2kjRdr3nzgOGPPWQctC91A) | 2:33 | 2022-07-28 | 2022-10-13 |
 | [نسينا ومحلفناش](https://open.spotify.com/track/36mpzLKAc52NvxFucRwEXV) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [نسينا ومحلفناش](https://open.spotify.com/album/0bnOa3IR6sYleMfSrPVA7U) | 2:20 | 2024-02-21 | 2024-05-25 |
-| [هو ده بقى!!؟](https://open.spotify.com/track/16pCPiR9F0UIY2A780Z9fU) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [لينا معاد](https://open.spotify.com/album/1PiNzyKUgo41ZnStM6EEY6) | 3:16 | 2025-07-31 |  |
+| [هو ده بقى!!؟](https://open.spotify.com/track/16pCPiR9F0UIY2A780Z9fU) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [لينا معاد](https://open.spotify.com/album/1PiNzyKUgo41ZnStM6EEY6) | 3:16 | 2025-07-31 | 2025-10-31 |
 | [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-20 | 2022-07-21 |
 | [ودو](https://open.spotify.com/track/2nM65NRVtWRHRz69gUHJ09) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [ودو](https://open.spotify.com/album/5eHO358gOBVasJ6U6Qtlno) | 2:53 | 2022-09-27 | 2022-10-14 |
 

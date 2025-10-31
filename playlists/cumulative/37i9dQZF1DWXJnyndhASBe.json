@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: PRO8L3M",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Pezet",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 157500,
       "name": "300 BANIEK",
       "url": "https://open.spotify.com/track/4laCtGHEZEupZ7uEDQH2Ae"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 127680,
       "name": "ALE",
       "url": "https://open.spotify.com/track/228FoDqyYaZYaOJxyChnka"
@@ -1856,6 +1856,28 @@
       "duration_ms": 200000,
       "name": "Bida - Def Jam World Tour",
       "url": "https://open.spotify.com/track/6wDjG42PJdxrloQFw8NRSg"
+    },
+    {
+      "album": {
+        "name": "Ten Sam Stan (Deluxe)",
+        "url": "https://open.spotify.com/album/3GeyvjdKIlIsadsBP57910"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        },
+        {
+          "name": "spazma",
+          "url": "https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92342,
+      "name": "Bieg",
+      "url": "https://open.spotify.com/track/3vfJqM3HgkJp1LObfg9jww"
     },
     {
       "album": {
@@ -5412,7 +5434,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 166400,
       "name": "FIU FIU",
       "url": "https://open.spotify.com/track/402x2fTCV2Rb8ge2YqoL3O"
@@ -5600,6 +5622,36 @@
       "duration_ms": 126717,
       "name": "FREESTYLE NIE JEST FREE",
       "url": "https://open.spotify.com/track/6J6G4TcSgNZzh9yZ0w0kUg"
+    },
+    {
+      "album": {
+        "name": "furby",
+        "url": "https://open.spotify.com/album/6P54YiqVeBhNhM6TanyEoZ"
+      },
+      "artists": [
+        {
+          "name": "zdunekk",
+          "url": "https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU"
+        },
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Kusha",
+          "url": "https://open.spotify.com/artist/2a3CjKMScCbYiM3XTay0zf"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "furby",
+      "url": "https://open.spotify.com/track/39mfKJ1weL4kh76lEAz90v"
     },
     {
       "album": {
@@ -5878,6 +5930,28 @@
       "duration_ms": 113333,
       "name": "GENERACJA CUZI",
       "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
+    },
+    {
+      "album": {
+        "name": "Genera\u0142",
+        "url": "https://open.spotify.com/album/1GqNXK7ZG4tKCWem9isOCt"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162171,
+      "name": "Genera\u0142",
+      "url": "https://open.spotify.com/track/6uh2Q3k0s7KbwhhaRDzXjt"
     },
     {
       "album": {
@@ -9867,6 +9941,32 @@
     },
     {
       "album": {
+        "name": "Muzyka Popularna",
+        "url": "https://open.spotify.com/album/4gkNKj0RfEpaiT7D9tAvEU"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149955,
+      "name": "Miasta portowe",
+      "url": "https://open.spotify.com/track/7MoQ3DHmiGGmn59YK9U8FY"
+    },
+    {
+      "album": {
         "name": "Miasto Boga",
         "url": "https://open.spotify.com/album/2SioxbV84BRLxrFgBxExrn"
       },
@@ -10173,6 +10273,50 @@
     },
     {
       "album": {
+        "name": "MMJRJ / NOWY TELEFON",
+        "url": "https://open.spotify.com/album/48OMQTUkkXvX6gjiNfymge"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/1UdoAayhUvqEp90sGJSb5I"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160917,
+      "name": "MMJRJ",
+      "url": "https://open.spotify.com/track/7hvJj9BZgugALYwGe8SZEa"
+    },
+    {
+      "album": {
+        "name": "mmmaybach",
+        "url": "https://open.spotify.com/album/7MRTup7GD3gPttZBOirVDe"
+      },
+      "artists": [
+        {
+          "name": "MI\u00dc",
+          "url": "https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2"
+        },
+        {
+          "name": "Donguralesko",
+          "url": "https://open.spotify.com/artist/7kaEEK2cQh07aEfEEBd4Hn"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "mmmaybach",
+      "url": "https://open.spotify.com/track/7sgaYfG76FeGdXOgTd9MRp"
+    },
+    {
+      "album": {
         "name": "MMORPG",
         "url": "https://open.spotify.com/album/5S7EvsaKhhMTltsFMOj0Nb"
       },
@@ -10325,6 +10469,28 @@
     },
     {
       "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/0BOQ2Ph9xHOIC02Ebzqqka"
+      },
+      "artists": [
+        {
+          "name": "schafter",
+          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/49u38L99ThT3VZz7Gg2D8f"
+    },
+    {
+      "album": {
         "name": "KUZYNI",
         "url": "https://open.spotify.com/album/40u6BjUQWsvqG1960VFzK8"
       },
@@ -10366,7 +10532,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 182790,
       "name": "Monarcha",
       "url": "https://open.spotify.com/track/77tkMwJKo05TbogJP2HAD8"
@@ -11292,7 +11458,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 113076,
       "name": "Next Day",
       "url": "https://open.spotify.com/track/4To98R4h3sNhdnGkWlkPMH"
@@ -12038,7 +12204,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 159960,
       "name": "Nitro",
       "url": "https://open.spotify.com/track/4Yfhe8BeNBSJN3wLQP4dov"
@@ -13284,7 +13450,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 178666,
       "name": "Parasol",
       "url": "https://open.spotify.com/track/5Ou4WXzPb7TFu5AfC18J9a"
@@ -14259,6 +14425,32 @@
     },
     {
       "album": {
+        "name": "Muzyka Popularna",
+        "url": "https://open.spotify.com/album/4gkNKj0RfEpaiT7D9tAvEU"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Micha\u0142 Lange",
+          "url": "https://open.spotify.com/artist/5sh77l01GDJ6JfCWs1CiiB"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253162,
+      "name": "Presja \u015brodowiska",
+      "url": "https://open.spotify.com/track/23ZcklE7HcPXMwrut4jdG1"
+    },
+    {
+      "album": {
         "name": "PROBLEM X2",
         "url": "https://open.spotify.com/album/1aDbBslzX5GG6NlNJUGjKS"
       },
@@ -15108,7 +15300,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 173233,
       "name": "Rodzina Gambino",
       "url": "https://open.spotify.com/track/55jonuEXtkxyf4rk2AaJdI"
@@ -15870,6 +16062,28 @@
       "duration_ms": 165781,
       "name": "Smak Twych Ust",
       "url": "https://open.spotify.com/track/0W2vKOb9aBqfo98GZqsQWA"
+    },
+    {
+      "album": {
+        "name": "YOGA EP",
+        "url": "https://open.spotify.com/album/0nxKaNBxU0M5M4vBAvqZIJ"
+      },
+      "artists": [
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "Daria ze \u015al\u0105ska",
+          "url": "https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212147,
+      "name": "Smalltalks",
+      "url": "https://open.spotify.com/track/6XO3wB0nNJ9mJ2BwBgABML"
     },
     {
       "album": {
@@ -16894,7 +17108,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 216398,
       "name": "TOKSYNA",
       "url": "https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ"

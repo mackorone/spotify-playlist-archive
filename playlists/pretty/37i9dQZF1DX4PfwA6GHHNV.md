@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,198 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,196 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 34 | [Repara](https://open.spotify.com/track/7v35WhMHnJr31gQUvU6I1a) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 2:09 |
 | 35 | [Direito de Amar](https://open.spotify.com/track/1R2iq7PUBIgp2BP0FZSHiu) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:38 |
 | 36 | [A Mais Linda Canção](https://open.spotify.com/track/1QsTUmRrO2W2vcMVFccxLv) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Decepções de Alguém que Ama](https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk) | 3:21 |
-| 37 | [Rolls Royce](https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Rolls Royce](https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg) | 2:29 |
-| 38 | [Caninana](https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Caninana](https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n) | 3:10 |
+| 37 | [Caninana](https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Caninana](https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n) | 3:10 |
+| 38 | [Rolls Royce](https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Rolls Royce](https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg) | 2:29 |
 | 39 | [Vibe](https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Vibe](https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX) | 2:30 |
 | 40 | [Bonita & Gostosa](https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Bandidas Também Falam de Amor](https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz) | 2:23 |
 | 41 | [Intensão](https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Intensão](https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 
 > De Puebla para el mundo, disfruta de esta selección musical con sabor a México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,646 likes - 140 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,637 likes - 140 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "KIMONO in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "juni in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 176727,
       "name": "'A Passion",
       "url": "https://open.spotify.com/track/4ym7q5FBvi0hBpDLmdRrCA"
+    },
+    {
+      "album": {
+        "name": "+ fuori",
+        "url": "https://open.spotify.com/album/3GoJS4Mpdr26Ou1vUkqqCv"
+      },
+      "artists": [
+        {
+          "name": "Adri",
+          "url": "https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160276,
+      "name": "+ fuori",
+      "url": "https://open.spotify.com/track/4DU9uwudZcIQ7E2MtBXtbr"
     },
     {
       "album": {
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 182920,
       "name": "BYE",
       "url": "https://open.spotify.com/track/33O4jaFPlQyRuiqZnm3FlQ"
@@ -12783,6 +12801,24 @@
     },
     {
       "album": {
+        "name": "Pita Gyros",
+        "url": "https://open.spotify.com/album/6ONKQXieAFJMMCGfMwA9UR"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160115,
+      "name": "Pita Gyros",
+      "url": "https://open.spotify.com/track/6Ii2DpNzwECTaOMhjTPnOu"
+    },
+    {
+      "album": {
         "name": "BISTRO!",
         "url": "https://open.spotify.com/album/4TyK5OpO6xqUqnQNccWpSd"
       },
@@ -17074,7 +17110,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 194250,
       "name": "Un Attimo",
       "url": "https://open.spotify.com/track/2tXVODeQt2DPBbKuzzI6zz"

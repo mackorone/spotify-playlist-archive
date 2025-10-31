@@ -1,6 +1,6 @@
 {
   "description": "lost in a haze",
-  "num_followers": 147495,
+  "num_followers": 147486,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,38 @@
     {
       "added_at": "2025-09-18 13:14:38",
       "album": {
+        "name": "downward spiral",
+        "url": "https://open.spotify.com/album/6B4BCGkmYIQwEjWkV8TybZ"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 145977,
+      "name": "downward spiral",
+      "url": "https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI"
+    },
+    {
+      "added_at": "2025-09-18 13:14:38",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7"
+    },
+    {
+      "added_at": "2025-09-18 13:14:38",
+      "album": {
         "name": "Chaos Is Her Name",
         "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
       },
@@ -927,22 +959,6 @@
       "duration_ms": 253012,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj"
-    },
-    {
-      "added_at": "2025-09-18 13:14:38",
-      "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "In the Morning",
-      "url": "https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7"
     },
     {
       "added_at": "2025-09-18 13:14:38",
@@ -1011,22 +1027,6 @@
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
-    },
-    {
-      "added_at": "2025-09-18 13:14:38",
-      "album": {
-        "name": "downward spiral",
-        "url": "https://open.spotify.com/album/6B4BCGkmYIQwEjWkV8TybZ"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 145977,
-      "name": "downward spiral",
-      "url": "https://open.spotify.com/track/41NLDchtPOKKkSCKtoygBI"
     },
     {
       "added_at": "2025-09-18 13:14:38",

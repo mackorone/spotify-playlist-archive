@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: DCR Milda, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,989 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,000 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Rage](https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Rage](https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt) | 3:21 |
 | 50 | [Smoke / 6AM in Mykonos](https://open.spotify.com/track/08pylpOmkkIIutOPVd4tAq) | [Quintana Mills](https://open.spotify.com/artist/0QfS6MisIhAy4LgjlAbWMz) | [Smoke / 6AM in Mykonos](https://open.spotify.com/album/0IHYYGB5744z0VngBuXafG) | 1:36 |
 
-Snapshot ID: `AAAAAOqdKAlkCiCX5PyeN34DNDA6LgM+`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

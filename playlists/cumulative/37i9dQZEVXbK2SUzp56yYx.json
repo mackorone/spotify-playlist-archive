@@ -2153,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "album": {
         "name": "Black Fingernails",
         "url": "https://open.spotify.com/album/4vpi6oVYDI1KKl6LemCUFw"
       },
@@ -6948,7 +6966,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -15378,9 +15396,31 @@
           "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
         }
       ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89745,
+      "name": "NO BATID\u00c3O",
+      "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
+    },
+    {
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -16848,7 +16888,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 207524,
       "name": "Polar Lights",
       "url": "https://open.spotify.com/track/12JPLCKk9c832P5teGwIe9"
@@ -20140,7 +20180,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 232568,
       "name": "Stycamen",
       "url": "https://open.spotify.com/track/45GwHsBLxUiFSKYkvbvUns"
@@ -20672,7 +20712,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 241499,
       "name": "THE DEATH OF PEACE OF MIND",
       "url": "https://open.spotify.com/track/4otwFzkVBdVNTBu7gxJA4A"
@@ -24290,7 +24330,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 145116,
       "name": "\u0410\u041a\u0423\u041b\u0410 \u041c\u0410\u0422\u0410\u0422\u0410 (prod. by kreestabape, bladedtrilla)",
       "url": "https://open.spotify.com/track/1t0x4GznJgLWShzDs4qGFo"
@@ -24464,7 +24504,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 217250,
       "name": "\u0410\u0440\u0438\u0442\u043c\u0438\u044f",
       "url": "https://open.spotify.com/track/3BAHp1kCEYhNKf1GuasMft"
@@ -26170,7 +26210,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 143224,
       "name": "\u0432\u043e\u0434\u043e\u043f\u0430\u0434\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/4YKfgXoNP5VO0wuedrrGGL"
@@ -26372,7 +26412,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 118285,
       "name": "\u0432\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f",
       "url": "https://open.spotify.com/track/5WqgrFfT80yL6b27hDxFOm"
@@ -29652,7 +29692,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 119369,
       "name": "\u041b\u0410\u0411\u0423\u0411\u0423",
       "url": "https://open.spotify.com/track/60FmvZaxR08Jt05wgbCKQS"
@@ -32314,7 +32354,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 151776,
       "name": "\u041e\u0431\u0430\u044f\u0442\u0435\u043b\u044c\u043d\u0430",
       "url": "https://open.spotify.com/track/35JmUajDbpZrskNO2m26u2"
@@ -35177,6 +35217,28 @@
     },
     {
       "album": {
+        "name": "\u0441\u0430\u0443\u043d\u0434",
+        "url": "https://open.spotify.com/album/3tsUiwRwjuGoHASCZVdy8v"
+      },
+      "artists": [
+        {
+          "name": "akiko!",
+          "url": "https://open.spotify.com/artist/3nGRQl7c5XpzGvOziATBQX"
+        },
+        {
+          "name": "kouru",
+          "url": "https://open.spotify.com/artist/1WsxL6GNpIk2Y6WXMMM7ru"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148272,
+      "name": "\u0441\u0430\u0443\u043d\u0434",
+      "url": "https://open.spotify.com/track/62jgLWcDwaKdJ3r70f73Cw"
+    },
+    {
+      "album": {
         "name": "\u0421\u0430\u0448\u0430, \u043e\u0441\u0442\u0430\u043d\u044c\u0441\u044f \u0441\u043e \u043c\u043d\u043e\u0439",
         "url": "https://open.spotify.com/album/1C4ZnItif7PQtxg7uQV9Wl"
       },
@@ -35358,7 +35420,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 207524,
       "name": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0441\u0438\u044f\u043d\u0438\u0435",
       "url": "https://open.spotify.com/track/1A0G37XXBhKJXgBNue6nBU"
@@ -36366,7 +36428,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 232568,
       "name": "\u0421\u0442\u044b\u0446\u0430\u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/3E29Ogl0ccy3osBx6VwjxU"

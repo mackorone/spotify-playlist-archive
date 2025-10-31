@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37850,
+  "num_followers": 37851,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAABpUSyqm/zP8wzGfFHT4wbc",
+  "snapshot_id": "aQFZAAAAAADV8NzFKJ+Ryc+ciH3pSbB7",
   "tracks": [
     {
       "added_at": null,
@@ -527,30 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
+        "name": "Fam\u00edlia Soul (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
       },
       "artists": [
         {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+          "name": "Fam\u00edlia Soul",
+          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
         },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Bruno Faglioni",
-          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
         }
       ],
-      "duration_ms": 307647,
-      "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
+      "duration_ms": 276986,
+      "name": "Um Servo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
     },
     {
       "added_at": null,
@@ -575,22 +567,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fam\u00edlia Soul (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
+        "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
       },
       "artists": [
         {
-          "name": "Fam\u00edlia Soul",
-          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
         },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
         }
       ],
-      "duration_ms": 276986,
-      "name": "Um Servo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
+      "duration_ms": 307647,
+      "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 269062,
-      "name": "Dimens\u00e3o da Luz",
-      "url": "https://open.spotify.com/track/0UDxiJ5ZmFuuP1jHu5gjts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ac\u00fastico, Vol. 2",
         "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 199600,
       "name": "Voc\u00ea Consegue Sim",
       "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 269062,
+      "name": "Dimens\u00e3o da Luz",
+      "url": "https://open.spotify.com/track/0UDxiJ5ZmFuuP1jHu5gjts"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Janeiro",
-      "url": "https://open.spotify.com/track/2HPgVKn1cV8XV4zUhYjqnR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "Janeiro",
+      "url": "https://open.spotify.com/track/2HPgVKn1cV8XV4zUhYjqnR"
     },
     {
       "added_at": null,

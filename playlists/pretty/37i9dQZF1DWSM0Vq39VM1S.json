@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388380,
+  "num_followers": 388390,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 316301,
+      "name": "There's A Rhythmn",
+      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
         "name": "The Hudson",
         "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
       },
@@ -119,22 +135,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 316301,
-      "name": "There's A Rhythmn",
-      "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -155,8 +155,8 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Touching Toes",
-        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
+        "name": "A Couple Minutes (A COLORS SHOW)",
+        "url": "https://open.spotify.com/album/0Y8PvUegqIXcmldHdcIZy8"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Touching Toes",
-      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
+      "duration_ms": 213120,
+      "name": "A Couple Minutes - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -311,8 +311,8 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "A Couple Minutes (A COLORS SHOW)",
-        "url": "https://open.spotify.com/album/0Y8PvUegqIXcmldHdcIZy8"
+        "name": "Touching Toes",
+        "url": "https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 213120,
-      "name": "A Couple Minutes - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy"
+      "duration_ms": 132000,
+      "name": "Touching Toes",
+      "url": "https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "That's What I Love",
         "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
         "name": "postcard season",
         "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 324130,
       "name": "Mornin Dew",
       "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 188037,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
         "name": "Flower of the soul (full bloom)",
         "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 188037,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Within a Heartbeat",
         "url": "https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor"
       },
@@ -855,6 +855,38 @@
       "duration_ms": 221991,
       "name": "Within a Heartbeat",
       "url": "https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Lisbon",
+        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 150656,
+      "name": "Lisbon",
+      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -879,18 +911,18 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Lisbon",
-        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "duration_ms": 150656,
-      "name": "Lisbon",
-      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -911,22 +943,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Hoagy's Place",
-        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Hoagy's Place",
-      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Grateful For",
         "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 219779,
       "name": "Grateful For",
       "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Joy Will Find Its Way",
-        "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
+        "name": "Good Company (Deluxe)",
+        "url": "https://open.spotify.com/album/1zmNQrPSuRoQfCBj2qUUMr"
       },
       "artists": [
         {
-          "name": "Penelope Antena",
-          "url": "https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH"
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
         }
       ],
-      "duration_ms": 200243,
-      "name": "The Bed Unfold",
-      "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
+      "duration_ms": 140008,
+      "name": "Slippin In",
+      "url": "https://open.spotify.com/track/0dn0qZHVXr644FfvAdb7pU"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

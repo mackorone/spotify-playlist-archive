@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-78 songs - 4 hr 17 min
+79 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Saved](https://open.spotify.com/track/0zLaVGawlpRhoyrvYFdjy8) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Saved](https://open.spotify.com/album/1mhsaGyBgdmEYd4RzhyxPW) | 2:04 | 2025-10-16 |  |
 | [Sincère](https://open.spotify.com/track/2kDAttH65x7YyLIebIW9II) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Veluwe Suite](https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB) | 3:23 | 2025-10-16 |  |
 | [Soft Embrace](https://open.spotify.com/track/5qr0ET8OdcLSMfZRax9nHr) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Soft Embrace](https://open.spotify.com/album/35RfBnTngVMuH1RyxUPzgK) | 3:26 | 2025-10-16 |  |
+| [Softly](https://open.spotify.com/track/2gPb7WvxnTlAWhYSrFo0xD) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Softly](https://open.spotify.com/album/4V87c5AmGlHma109jbwk95) | 2:10 | 2025-10-30 |  |
 | [Starling](https://open.spotify.com/track/4ghtXXJGN2AlzcFFiCzZXw) | [Philip Jerne](https://open.spotify.com/artist/1jWkBZIJAKdADygFKj5YXZ) | [Starling](https://open.spotify.com/album/3b6fPAq36KmilKcynTCDaD) | 2:38 | 2025-10-16 |  |
 | [Sweetest Rain](https://open.spotify.com/track/0HSI0V7ftC9vV47zF3ToK4) | [Abilene](https://open.spotify.com/artist/0RoXefwJwTpzU2sFmTM73H) | [Winged Dreams](https://open.spotify.com/album/530xhcsjX0Q9Usocnu1bDN) | 2:37 | 2025-10-16 |  |
 | [Tchaikovsky: The Seasons, Op\. 37a: No\. 6, June\. Barcarolle](https://open.spotify.com/track/4hdKqrctjCvXDSi5ZKDtoC) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Morning Piano \- Tchaikovsky: Barcarolle \(June\)](https://open.spotify.com/album/691vnadLWLRLCjltix7nxn) | 4:18 | 2025-10-16 |  |

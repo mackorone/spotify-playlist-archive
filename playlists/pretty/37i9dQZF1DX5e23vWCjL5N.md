@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Cover: Ernia
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,989 likes - 93 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,995 likes - 93 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

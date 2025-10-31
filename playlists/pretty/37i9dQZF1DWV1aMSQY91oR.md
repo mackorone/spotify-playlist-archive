@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,876 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,880 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 17 | [know about me \(feat\. GloRilla\)](https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [love?..\. or something like it](https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy) | 4:01 |
 | 18 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 |
 | 19 | [Back Cooking](https://open.spotify.com/track/7CycwjLRm7wKubir9PCXXd) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 2:37 |
-| 20 | [Roaches](https://open.spotify.com/track/69dcSnCesjUMepu9FmEmxB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/2vMpqIUldNe7m83WAUqIdC) | [SCARING THE HOES: DIRECTOR'S CUT](https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ) | 2:53 |
+| 20 | [Roaches](https://open.spotify.com/track/69dcSnCesjUMepu9FmEmxB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DIRECTOR'S CUT](https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ) | 2:53 |
 | 21 | [Part of Me](https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Part of Me](https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv) | 2:47 |
 | 22 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Taalib](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
 | 23 | [Letter To My Block](https://open.spotify.com/track/13t9AfJrAFiOJm5ZSODads) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Letter To My Block](https://open.spotify.com/album/4sEo0V4bfSD5iV3ZOowPlz) | 3:14 |

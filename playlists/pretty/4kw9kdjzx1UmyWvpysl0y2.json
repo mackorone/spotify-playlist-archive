@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124831,
+  "num_followers": 124827,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUwR7kFlXmOcWvvA+PxuHiiluXGzHP",
+  "snapshot_id": "AAAUwrMgaI8x/8z0t4D28q5IKcMXd6mR",
   "tracks": [
+    {
+      "added_at": "2025-10-30 12:59:52",
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/5EiAG62doKVGzLr0s6HF3T"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/3uvVRyy1yGLn7j3b5IzF1P"
+    },
     {
       "added_at": "2025-10-29 15:39:48",
       "album": {

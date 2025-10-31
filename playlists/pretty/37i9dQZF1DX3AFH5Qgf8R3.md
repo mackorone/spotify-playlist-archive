@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AFH5Qgf8R3.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! / 歌手たちの舞台コメントや声を含むコンサートLIVE SETをお楽しみください！/ 가수들의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,027 likes - 84 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,028 likes - 84 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AFH5Qgf8R3.md) - [plain]
 | 19 | [Devil Game](https://open.spotify.com/track/6I2OH5UBfe6nZGYWoAlKCm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE PARADISE](https://open.spotify.com/album/2aYKVVYN7aTK3HMMyQiVam) | 2:58 |
 | 20 | [Comments: ZEROBASEONE 1](https://open.spotify.com/track/4EWYZSm1OfhECZDLEDhFRd) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [SBS INKIGAYO "UNICON" in TOKYO DOME Day1](https://open.spotify.com/album/354AHI8LGk2ew3YfWrbaQq) | 4:23 |
 | 21 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 |
-| 22 | [NOW OR NEVER](https://open.spotify.com/track/2xRSV9JyN6xJe0Puyitnzj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NOW OR NEVER](https://open.spotify.com/album/2X6c4OK7DZVbEAOHTfaIfi) | 3:22 |
+| 22 | [NOW OR NEVER](https://open.spotify.com/track/2xRSV9JyN6xJe0Puyitnzj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NOW OR NEVER](https://open.spotify.com/album/2X6c4OK7DZVbEAOHTfaIfi) | 3:21 |
 | 23 | [Comments: ZEROBASEONE 2](https://open.spotify.com/track/2Y9NwKWNwgR24cZNV0ykCj) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [SBS INKIGAYO "UNICON" in TOKYO DOME Day1](https://open.spotify.com/album/354AHI8LGk2ew3YfWrbaQq) | 1:10 |
 | 24 | [Only One Story](https://open.spotify.com/track/1mcNZCvco4Vh7gmaxLy1Vr) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Only One Story](https://open.spotify.com/album/2f9xJ413POOMFAgtVyvpFp) | 3:39 |
 | 25 | [KNOW ABOUT ME](https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:45 |

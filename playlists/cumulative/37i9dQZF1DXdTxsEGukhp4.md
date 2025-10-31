@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: King Gnu
 
-539 songs - 1 day 6 hr 46 min
+540 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Forget about you](https://open.spotify.com/track/0xnxrUxBgLVUFgnjrJ7RhL) | [手がクリームパン](https://open.spotify.com/artist/6geY1qz5UkWhIMQxp3oHCr) | [Forget about you](https://open.spotify.com/album/1tSO0QRB14Cb1anUiUJEUK) | 4:15 | 2023-01-26 | 2023-02-24 |
 | [Frail](https://open.spotify.com/track/2xxl7iYvSG6ppQDlvVdpwg) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Frail](https://open.spotify.com/album/1ZzDfRcatWc1pgUIlHB68J) | 3:48 | 2024-04-18 | 2024-06-14 |
 | [friend zone](https://open.spotify.com/track/1v4apcOGX4tE9ezbLbbkXE) | [TENSONG](https://open.spotify.com/artist/4gg2Eg18OeqjqzfWtsBTMG) | [friend zone](https://open.spotify.com/album/3qMXmvkiIRMT4vpINRTlUA) | 4:38 | 2023-06-08 | 2023-06-23 |
-| [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ) | 3:50 | 2024-08-22 |  |
+| [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ) | 3:50 | 2024-08-22 | 2025-10-31 |
 | [Fuckin' Good](https://open.spotify.com/track/5pe3jeI0WtpNWC1ZweCipP) | [Super SHIMADA Brothers](https://open.spotify.com/artist/2jqtZgeWtsc0tRdXK3x7yT), [OTUY PARK](https://open.spotify.com/artist/4hlSejvq1rjc5ac5Ds02kl) | [Over There That](https://open.spotify.com/album/1WJ9FbcbVCiKrA7XAjTFtJ) | 3:27 | 2023-02-09 | 2023-04-21 |
 | [Full moon](https://open.spotify.com/track/3xxLNIhdGefFM4Xj3Cj5AP) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 1:21 | 2023-01-26 | 2023-02-24 |
 | [Funkytown](https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Mouth To Mouth](https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh) | 7:50 | 2023-05-25 | 2023-06-30 |
@@ -402,6 +402,7 @@
 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-01-11 | 2024-05-10 |
 | [サクラノウタ](https://open.spotify.com/track/4aecodVhhW19bmWjveVgJR) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [サクラノウタ](https://open.spotify.com/album/7vlOaFIqHnABear9d51MNf) | 4:29 | 2023-03-09 | 2023-06-02 |
 | [サラバ](https://open.spotify.com/track/6uvfHyztTfI1JxIx8OWkhI) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [サラバ](https://open.spotify.com/album/3AqGPcYJrfaY6o8niCnztG) | 3:49 | 2023-04-20 | 2023-05-26 |
+| [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 | 2025-10-30 |  |
 | [シン・タンタカタンタンタンタンメン](https://open.spotify.com/track/6hQI6aq9HMaRxw29mBrqB9) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [ぼっちのうたI](https://open.spotify.com/album/0sxXm1j5z1iMQWsEfTWN94) | 3:59 | 2024-08-01 | 2024-09-02 |
 | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ジュエリー \(Prod\. imase\)](https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla) | 2:43 | 2023-08-03 | 2023-09-15 |
 | [ジングル](https://open.spotify.com/track/6IQuANQN2e61EoNTZf3r5O) | [悠馬](https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO) | [ジングル](https://open.spotify.com/album/5rEU14CuDKV5CASdI38Qpo) | 3:24 | 2023-12-07 | 2024-01-19 |

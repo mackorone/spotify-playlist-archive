@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,444 likes - 113 songs - 4 hr 49 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,431 likes - 114 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 111 | [Haven](https://open.spotify.com/track/3UIcBILSKwze021TGlanVo) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Haven](https://open.spotify.com/album/1GTPtU7LpCj4rJIwlwei7g) | 2:13 |
 | 112 | [Another Day In Paradise](https://open.spotify.com/track/1FdDXJPf0ksUPZNrg1LjNf) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [Another Day In Paradise](https://open.spotify.com/album/3b3JP6ps6eTly0n1mFqG8g) | 2:32 |
 | 113 | [Magical Days](https://open.spotify.com/track/4Gfg6Ka58w3HkDE8JxHHiq) | [Ola Martin](https://open.spotify.com/artist/54FIu0DlnGcGqTDLod7X0b), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn) | [Magical Days](https://open.spotify.com/album/3fmK2L6oo2wb9FEzBsxTUM) | 2:16 |
+| 114 | [Haunting Me](https://open.spotify.com/track/13HyBy8sVih8i5Pq5udf3t) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [Haunting Me](https://open.spotify.com/album/2rO3BIIDq3FAFtHwm8vDHK) | 2:59 |
 
-Snapshot ID: `AAAhyEB8LnIxqT5ItYp8FvuS2TBNhRyQ`
+Snapshot ID: `AAAhyUVnIoiQqJPriHTS9aEgh+DMo1Tl`

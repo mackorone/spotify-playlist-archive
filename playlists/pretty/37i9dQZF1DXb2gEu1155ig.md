@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 
 > Cumbias tropicales para ponerse de buen humor 🌴🥳
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,096 likes - 174 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,148 likes - 174 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 23 | [Macumba](https://open.spotify.com/track/1T7NVTjfBRazYCNGm7ZWaU) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Chico Che y la Crisis y Rigo Dominguez y Su Grupo Audaz](https://open.spotify.com/album/3JylWPW5AddaCLuq8wa2GE) | 2:50 |
 | 24 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 |
 | 25 | [La Hierba Se Movia](https://open.spotify.com/track/5uzcZvm3WZPorCXHVw2p7X) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [15 Exitos](https://open.spotify.com/album/15AbfzKLreIEl1mkKUxkZy) | 3:06 |
-| 26 | [Pedacito de Mi Vida](https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz) | [Los Lideres](https://open.spotify.com/artist/7BdsOpsQas5r7tr9DkqqUF) | [30 Mezcladitas de Oro para la Farra](https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks) | 1:11 |
+| 26 | [Pedacito de Mi Vida](https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz) | [Los Líderes](https://open.spotify.com/artist/7EJn4vZj5szazWw9hAwCFW) | [30 Mezcladitas de Oro para la Farra](https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks) | 1:11 |
 | 27 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/4Y2oUgKIeCRkN93TUzFljq) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Música Tropical de Colombia, Vol\. 11](https://open.spotify.com/album/5wtvxUdt9BjLxD9yskHb8A) | 4:04 |
 | 28 | [La Boa](https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 2:51 |
 | 29 | [Juana La Cubana](https://open.spotify.com/track/50HdY3sn3Np9Fh2yICpPcX) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/1Epn9WsW3M8oE075XiKAwS) | 3:13 |

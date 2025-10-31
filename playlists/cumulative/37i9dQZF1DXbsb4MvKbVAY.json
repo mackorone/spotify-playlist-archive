@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Goldielocks.",
+  "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa ROSAL\u00cdA.",
   "name": "Ensisoitossa",
   "tracks": [
     {
@@ -430,6 +430,28 @@
       "duration_ms": 144886,
       "name": "50K",
       "url": "https://open.spotify.com/track/6v5AdleoPvngaOvLRHoHfo"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172150,
+      "name": "7 synti\u00e4 (feat. AHTI)",
+      "url": "https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8"
     },
     {
       "album": {
@@ -1735,6 +1757,28 @@
     },
     {
       "album": {
+        "name": "APPETITE",
+        "url": "https://open.spotify.com/album/5Xfuqblbhg2hdkUeSXcMkB"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        },
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "APPETITE",
+      "url": "https://open.spotify.com/track/4003cQbVoKzBuMgfUFXVsH"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -2726,6 +2770,32 @@
       "duration_ms": 185594,
       "name": "Benz",
       "url": "https://open.spotify.com/track/5Fs6Vjs2h8HlQWKgOENWes"
+    },
+    {
+      "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
     },
     {
       "album": {
@@ -7097,6 +7167,28 @@
     },
     {
       "album": {
+        "name": "En\u00e4\u00e4 kukaan (feat. EMI)",
+        "url": "https://open.spotify.com/album/47PQDJb51Z4j3FssFLAuJ5"
+      },
+      "artists": [
+        {
+          "name": "Victor Nordis",
+          "url": "https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp"
+        },
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/0fZ4VC0udPzZNPi1yF88uB"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169262,
+      "name": "En\u00e4\u00e4 kukaan (feat. EMI)",
+      "url": "https://open.spotify.com/track/2TQL07MKy4ANWOcvRC9dmD"
+    },
+    {
+      "album": {
         "name": "CAMALE\u00d3N",
         "url": "https://open.spotify.com/album/4eHDzz9l9ZhECvt9VRSfoc"
       },
@@ -8910,6 +9002,24 @@
       "duration_ms": 146893,
       "name": "H&M",
       "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "album": {
+        "name": "H.A.P.P.Y",
+        "url": "https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "H.A.P.P.Y",
+      "url": "https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj"
     },
     {
       "album": {
@@ -11032,7 +11142,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 171216,
       "name": "I Like Ur Look",
       "url": "https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A"
@@ -18713,6 +18823,24 @@
     },
     {
       "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/3EyNltfgFSTxVvvNpKlHJ8"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267722,
+      "name": "Modern Times",
+      "url": "https://open.spotify.com/track/3GcakfkKpEStBeomWwYPwO"
+    },
+    {
+      "album": {
         "name": "Modernin naisen modernit ongelmat",
         "url": "https://open.spotify.com/album/2Cy54xVIWZCV99rRCW17Y1"
       },
@@ -19106,7 +19234,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 111593,
       "name": "MRR",
       "url": "https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ"
@@ -19720,6 +19848,24 @@
       "duration_ms": 149000,
       "name": "M\u00e4\u00e4r\u00e4aikainen (rakkaus)",
       "url": "https://open.spotify.com/track/5f3X7brdX4wXnn5hSCQ1kh"
+    },
+    {
+      "album": {
+        "name": "M\u00f6rk\u00f6",
+        "url": "https://open.spotify.com/album/3H7wJEr771ALFDB6ubgIlG"
+      },
+      "artists": [
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150772,
+      "name": "M\u00f6rk\u00f6",
+      "url": "https://open.spotify.com/track/4wj5L26lcaUtrEepdP6sJt"
     },
     {
       "album": {
@@ -21066,7 +21212,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 189557,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
@@ -22122,7 +22268,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 129150,
       "name": "pelk\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/1VtOqjG9YCG7Bo2E5FnJ6i"
@@ -25124,7 +25270,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 215555,
       "name": "Save My Love (with Ellie Goulding & AVAION)",
       "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
@@ -26014,7 +26160,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 173316,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
@@ -26828,7 +26974,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 143546,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/0Kzuu6v2GUYgtNpBTNWHLU"
@@ -28232,7 +28378,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 198000,
       "name": "Tahdon",
       "url": "https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae"
@@ -29741,6 +29887,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN"
+    },
+    {
+      "album": {
         "name": "TRAFIK!",
         "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
       },
@@ -30983,6 +31147,24 @@
     },
     {
       "album": {
+        "name": "Uskoton",
+        "url": "https://open.spotify.com/album/60hiyjGZ1syXFgIu8E9Ysg"
+      },
+      "artists": [
+        {
+          "name": "Hussa",
+          "url": "https://open.spotify.com/artist/2qBuynC2GNPJW9s4tNBQoG"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201514,
+      "name": "Uskoton",
+      "url": "https://open.spotify.com/track/1DTviKcHH2G2RiGBXbomet"
+    },
+    {
+      "album": {
         "name": "Uudestaan",
         "url": "https://open.spotify.com/album/4BzldMHF015GXF1AnTHPaO"
       },
@@ -31610,7 +31792,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 176639,
       "name": "Veli",
       "url": "https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA"

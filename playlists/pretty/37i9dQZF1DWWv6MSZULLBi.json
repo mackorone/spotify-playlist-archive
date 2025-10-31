@@ -1,13 +1,29 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Ocie Elliott",
-  "num_followers": 167428,
+  "num_followers": 167420,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK87Mpf55huGjv0TaQ3QZeZD7aun",
+  "snapshot_id": "AAAAAGfaHk0MCWafonRu4DWfMegVVSFQ",
   "tracks": [
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Airport & Only The Truth",
+        "url": "https://open.spotify.com/album/2nN5fnuQxEFTCrlpJ5cDAa"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 212430,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/0jHuokxBzpv5m80H0VlvAD"
+    },
     {
       "added_at": "2025-10-24 04:01:03",
       "album": {
@@ -95,6 +111,38 @@
     {
       "added_at": "2025-10-24 04:01:03",
       "album": {
+        "name": "Josie",
+        "url": "https://open.spotify.com/album/2WUiILFgKVf8HpO4MFGpAZ"
+      },
+      "artists": [
+        {
+          "name": "Michelle Treacy",
+          "url": "https://open.spotify.com/artist/0YhQcdSViCHOPY7QDb9tiV"
+        }
+      ],
+      "duration_ms": 288923,
+      "name": "Josie",
+      "url": "https://open.spotify.com/track/1seN6RYYgUeG2WnLTYYbes"
+    },
+    {
+      "added_at": "2025-10-17 04:01:39",
+      "album": {
+        "name": "Radio Waves (Deluxe)",
+        "url": "https://open.spotify.com/album/4BBECT2QKT4LZPf9CPuvat"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 186823,
+      "name": "Dry Land",
+      "url": "https://open.spotify.com/track/2nordZexlbhvY6vSOiFkM9"
+    },
+    {
+      "added_at": "2025-10-24 04:01:03",
+      "album": {
         "name": "Don\u2019t Let \u2018Em (Get Inside of Your Head)",
         "url": "https://open.spotify.com/album/6t5AGNTVsSIsAGWhichoba"
       },
@@ -151,22 +199,6 @@
     {
       "added_at": "2025-10-24 04:01:03",
       "album": {
-        "name": "Josie",
-        "url": "https://open.spotify.com/album/2WUiILFgKVf8HpO4MFGpAZ"
-      },
-      "artists": [
-        {
-          "name": "Michelle Treacy",
-          "url": "https://open.spotify.com/artist/0YhQcdSViCHOPY7QDb9tiV"
-        }
-      ],
-      "duration_ms": 288923,
-      "name": "Josie",
-      "url": "https://open.spotify.com/track/1seN6RYYgUeG2WnLTYYbes"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
         "name": "Together on a Rock",
         "url": "https://open.spotify.com/album/7L4SdEaxhnF0LdbBZM0tX1"
       },
@@ -195,22 +227,6 @@
       "duration_ms": 151459,
       "name": "Act Your Age",
       "url": "https://open.spotify.com/track/5Xgk4IXXn1LWMOOcSyXLjK"
-    },
-    {
-      "added_at": "2025-10-17 04:01:39",
-      "album": {
-        "name": "Radio Waves (Deluxe)",
-        "url": "https://open.spotify.com/album/4BBECT2QKT4LZPf9CPuvat"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 186823,
-      "name": "Dry Land",
-      "url": "https://open.spotify.com/track/2nordZexlbhvY6vSOiFkM9"
     },
     {
       "added_at": "2025-10-17 04:01:39",

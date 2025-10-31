@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,477 songs - 2 day 13 hr 17 min
+1,479 songs - 2 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [I Min Hage](https://open.spotify.com/track/5SdJaN4nkxDfmT38aUUMcJ) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [I Min Hage](https://open.spotify.com/album/636fUscot8h8lOjCf99fA8) | 2:27 | 2025-03-27 |  |
 | [i miss u \- VIZE Remix](https://open.spotify.com/track/6c6C9mvbYNLspR9wA0Kxpd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [i miss u \(VIZE Remix\)](https://open.spotify.com/album/7gO5BploX762jO1QaOm64r) | 2:32 | 2021-12-16 | 2022-06-19 |
 | [I mörkret tillsammans](https://open.spotify.com/track/0bXVfaLuhBFzOjQBzDyO04) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [I mörkret tillsammans](https://open.spotify.com/album/6E5v08lWBRptYKXrf53Eeb) | 2:22 | 2025-10-16 |  |
+| [I Wanna](https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [I Wanna](https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx) | 2:09 | 2025-10-30 |  |
 | [I Wanna Dance with Somebody \(feat\. The High\)](https://open.spotify.com/track/6wa9YlQMYlnur0kdTDgwl8) | [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [I Wanna Dance with Somebody \(feat\. The High\)](https://open.spotify.com/album/6u2Y3tuGTCKgNxJWynj3qs) | 2:40 | 2021-12-16 | 2022-07-28 |
 | [I'll Be Gone](https://open.spotify.com/track/1xo6bTCYJyviJPZ3TQN76Z) | [Mike Gudmann](https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be Gone](https://open.spotify.com/album/4YsyvipGYyveQu8xvmE5O9) | 2:41 | 2022-06-23 | 2022-07-26 |
 | [Ice Cream](https://open.spotify.com/track/1bHxrnYcWBj5uSmeXTM6LY) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Miscris](https://open.spotify.com/artist/7s7gMrGsT2EMm3kfHs4Av1) | [Ice Cream](https://open.spotify.com/album/3mS6RlaO6RvRuzAZ613Bla) | 2:20 | 2022-06-16 | 2022-07-29 |
@@ -754,6 +755,7 @@
 | [KUNG I BAREN](https://open.spotify.com/track/1bD8ZsUqNbL7Ffuw8INy8I) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [KUNG I BAREN](https://open.spotify.com/album/42Gg0bosz1RTLYv3Yz1QtQ) | 2:44 | 2023-06-22 | 2023-09-08 |
 | [Kungar på afterski](https://open.spotify.com/track/2Ct1rnjyqcFX9tevb8CgQa) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Kungar på afterski](https://open.spotify.com/album/7gqIKpkvkQ5wcYypPYHiG3) | 3:23 | 2024-01-25 | 2024-02-02 |
 | [KUNGEN I GATAN](https://open.spotify.com/track/2wyZ8y2WfTiSLVeNhZW0wa) | [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [KUNGEN I GATAN](https://open.spotify.com/album/3PYV5pTfgunGM8yfdVN2eX) | 2:43 | 2022-12-22 | 2023-04-07 |
+| [Kurtisør 2026](https://open.spotify.com/track/5xiYCXTo3PnbkjdRRcuMdq) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Kurtisør 2026](https://open.spotify.com/album/0Dz7qLsSVwDeGB0Xfqptjf) | 2:51 | 2025-10-30 |  |
 | [KÄR I EN BLONDIN](https://open.spotify.com/track/3NCUssVuiCr9UVDRaHjdU1) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj) | [KÄR I EN BLONDIN](https://open.spotify.com/album/4rprzifHCAKe5OOINjtWro) | 2:12 | 2023-03-02 | 2023-05-05 |
 | [Kära granne](https://open.spotify.com/track/3dZFwinDet92t6E493PGdp) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [Kära granne](https://open.spotify.com/album/2BbJIz6vG2jeYdrRTbYz5q) | 2:07 | 2023-05-11 | 2023-06-23 |
 | [KÄRA LILLA VÄN \(Dum Dum\)](https://open.spotify.com/track/4Veagou2Ptsos60Vs27IxD) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3), [Målbrottet](https://open.spotify.com/artist/2na3kX3dxagN7riWLfStdI) | [KÄRA LILLA VÄN \(Dum Dum\)](https://open.spotify.com/album/5FCYQ9uM35tvADBobAwCd2) | 1:59 | 2024-08-15 | 2024-09-20 |

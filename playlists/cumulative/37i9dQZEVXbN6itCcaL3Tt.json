@@ -5605,6 +5605,32 @@
     },
     {
       "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
+    {
+      "album": {
         "name": "E- PUSIA",
         "url": "https://open.spotify.com/album/46fcnCGCRfLWAPdIioItSV"
       },
@@ -23126,7 +23152,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "Kawior",
       "url": "https://open.spotify.com/track/7kpnBYCWd5ZODKjfGN4cNR"
@@ -25034,7 +25060,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 165483,
       "name": "Kulig",
       "url": "https://open.spotify.com/track/4vhYckF7yzomDdqoHb3dIl"
@@ -29372,6 +29398,28 @@
       "duration_ms": 174532,
       "name": "MM3",
       "url": "https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK"
+    },
+    {
+      "album": {
+        "name": "mmmaybach",
+        "url": "https://open.spotify.com/album/7MRTup7GD3gPttZBOirVDe"
+      },
+      "artists": [
+        {
+          "name": "MI\u00dc",
+          "url": "https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2"
+        },
+        {
+          "name": "Donguralesko",
+          "url": "https://open.spotify.com/artist/7kaEEK2cQh07aEfEEBd4Hn"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "mmmaybach",
+      "url": "https://open.spotify.com/track/7sgaYfG76FeGdXOgTd9MRp"
     },
     {
       "album": {
@@ -33982,7 +34030,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
@@ -34828,7 +34876,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 171786,
       "name": "Offbeat",
       "url": "https://open.spotify.com/track/2RT9MPJM1CPg2utiRYLeku"
@@ -40646,7 +40694,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 161412,
       "name": "PUK PUK",
       "url": "https://open.spotify.com/track/1qGwUUBUYu9akvnqMjbMVn"
@@ -42924,7 +42972,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 145403,
       "name": "Santa Cruz",
       "url": "https://open.spotify.com/track/7eBnyfgpicRCTgGvlwJoMS"

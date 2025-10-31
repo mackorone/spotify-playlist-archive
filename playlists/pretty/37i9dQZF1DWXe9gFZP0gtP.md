@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,730,815 likes - 208 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,731,346 likes - 208 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 207 | [Dawn](https://open.spotify.com/track/2XiXiqScj3UIKtB8MknKkL) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Dawn](https://open.spotify.com/album/68rpFpOn1AkZOFl07wxbM1) | 2:45 |
 | 208 | [Cradle of Silence](https://open.spotify.com/track/6O6DIp2Lhcw57u6IkF0IJu) | [Reso Nata](https://open.spotify.com/artist/6qKvE5RybnVZLSPVoFJrCz) | [Cradle of Silence](https://open.spotify.com/album/5W8UjXslZMr17hJQDaPv6b) | 2:41 |
 
-Snapshot ID: `AAAAAAIXGigFgo5p9hh12W9QhJZchnbN`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

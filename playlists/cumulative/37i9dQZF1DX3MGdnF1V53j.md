@@ -4,7 +4,7 @@
 
 > DYSTINCT and Mustafa Al Abdullah on the cover of Habibi Gang Gang
 
-184 songs - 8 hr 41 min
+185 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ana W Yak](https://open.spotify.com/track/0KLFB5ip4HnLQOLrUgAc8P) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Ne3ne3 Radio](https://open.spotify.com/album/2m0ZqwzrmYhnWa6xB4KhNI) | 2:36 | 2024-07-04 | 2024-09-13 |
 | [Arif Inou](https://open.spotify.com/track/6ycqSprB2ImMdNtnVuVj9N) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Misn Tchar](https://open.spotify.com/album/2eYtcDiTeXBoWJM4DdkCZV) | 2:26 | 2024-02-29 |  |
 | [Askim](https://open.spotify.com/track/6Y7SslHFxMnUTAXqbQkAAN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Askim](https://open.spotify.com/album/4gxcNezXVxIb0PXUQq3alZ) | 2:53 | 2024-02-29 | 2024-12-17 |
-| [AYOUBA](https://open.spotify.com/track/50KNZJd19hcVwrRRn3gaxd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [AYOUBA](https://open.spotify.com/album/53yrh4E94dCvbmc6BjReHF) | 2:57 | 2025-09-04 |  |
+| [AYOUBA](https://open.spotify.com/track/50KNZJd19hcVwrRRn3gaxd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [AYOUBA](https://open.spotify.com/album/53yrh4E94dCvbmc6BjReHF) | 2:57 | 2025-09-04 | 2025-10-31 |
 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 | 2024-02-29 |  |
 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 | 2024-02-29 |  |
 | [Babour \(Part.2\)](https://open.spotify.com/track/1mFqyRG768wvXEpIMwOW2j) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Babour \(Part.2\)](https://open.spotify.com/album/3CxihbW83woTJc35r7Zu2Q) | 2:19 | 2025-04-17 |  |
@@ -68,6 +68,7 @@
 | [Ghazala](https://open.spotify.com/track/119o9JuPerB3xSXepHn6kx) | [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G) | [Ghazala](https://open.spotify.com/album/2nzSzpAvONEjTE0Tg9eGcf) | 2:01 | 2025-06-26 |  |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2024-02-29 | 2025-03-25 |
 | [Ghir Sir](https://open.spotify.com/track/594Ewmtl0PYcqV15oSqaeP) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ghir Sir](https://open.spotify.com/album/0Avi4DWRYLrnQ6TmEQea6f) | 2:45 | 2025-02-13 |  |
+| [Gili Gili](https://open.spotify.com/track/5NLTu65fiIbo6BadXjyIYB) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Masta Dégât](https://open.spotify.com/album/6nYK0U8HOFENSCgntdKSFs) | 3:17 | 2025-10-30 |  |
 | [Goodbye](https://open.spotify.com/track/1HJZok3nL68K9ML6Twa1bQ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Goodbye](https://open.spotify.com/album/4JCbVtET4IE4bMe8cixaHf) | 3:11 | 2024-02-29 |  |
 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 | 2024-10-03 |  |
 | [Hantouma Choufo](https://open.spotify.com/track/4gavV33vzQoh9agDE0AL53) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Hantouma Choufo](https://open.spotify.com/album/3BgZ3Uu9yIhzOGzkhl1ggC) | 2:18 | 2024-06-27 | 2024-12-05 |
@@ -176,7 +177,7 @@
 | [WAYLE](https://open.spotify.com/track/4spfhufsgVF65phjTLRyn0) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2vkYezfkR1WpgJJmoOW8ZG) | 3:10 | 2024-02-29 | 2024-04-19 |
 | [Wili](https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Wili](https://open.spotify.com/album/2tPzPwHpkSEEeR2Njo5MQe) | 2:40 | 2024-04-18 | 2024-07-05 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2024-02-29 | 2024-11-22 |
-| [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 | 2025-04-17 | 2025-10-17 |
+| [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 | 2025-04-17 |  |
 | [Ya Coco](https://open.spotify.com/track/3IVLP9bNmtBVg0m0LVCPyv) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Ya Coco](https://open.spotify.com/album/6o6nWcY94bUhvraSCV1vOF) | 2:47 | 2025-06-05 |  |
 | [Ya Doctor](https://open.spotify.com/track/71zw3E3cXkkM0EHk25TgLW) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Ya Doctor](https://open.spotify.com/album/7ljOEAwRwr40Vfqodl2OxQ) | 2:32 | 2025-05-08 | 2025-07-04 |
 | [Ya Habibi](https://open.spotify.com/track/3TZoDoLspZbHMhI1NhKUVO) | [Kida](https://open.spotify.com/artist/0rtILhtW5MNyUqkZzKDd3J), [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Ya Habibi](https://open.spotify.com/album/3pTpbCY8ubsEkzACkIUItA) | 2:53 | 2024-05-23 | 2025-02-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "In this house we celebrate Australian music. Cover: BOY SODA",
+  "description": "In this house we celebrate Australian music. Cover: Thelma Plum, The 046, Hatchie, Paul Kelly, Dom Dolla, Ninajirachi",
   "name": "Turn Up Aus",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 181012,
       "name": "ALL MY ANGELS",
       "url": "https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 205156,
       "name": "Disco Cowgirl",
       "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
@@ -2144,6 +2144,28 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
+        "name": "Dreamin (feat. Daya)",
+        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171526,
+      "name": "Dreamin (feat. Daya)",
+      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
     },
     {
       "album": {
@@ -2754,7 +2776,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 179741,
       "name": "Freckles",
       "url": "https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV"
@@ -3608,7 +3630,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 171280,
       "name": "I Can Die Now",
       "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
@@ -3908,7 +3930,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 196524,
       "name": "iPod Touch",
       "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
@@ -4314,7 +4336,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 196736,
       "name": "Legacy In Motion",
       "url": "https://open.spotify.com/track/7AiQzufOI9KzRvHRb0MpDJ"
@@ -5522,7 +5544,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 169958,
       "name": "ONE MORE",
       "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
@@ -5602,6 +5624,24 @@
       "duration_ms": 207609,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U"
+    },
+    {
+      "album": {
+        "name": "Only One Laughing",
+        "url": "https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249813,
+      "name": "Only One Laughing",
+      "url": "https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp"
     },
     {
       "album": {
@@ -6654,7 +6694,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 190451,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV"
@@ -7768,6 +7808,24 @@
       "duration_ms": 209303,
       "name": "The Bends",
       "url": "https://open.spotify.com/track/3Gy2aRqQkCY6VAgeYu1Qpf"
+    },
+    {
+      "album": {
+        "name": "The Body Keeps The Score",
+        "url": "https://open.spotify.com/album/600sOO5dVuSn7m5UUjjgXI"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207822,
+      "name": "The Body Keeps The Score",
+      "url": "https://open.spotify.com/track/2HNQE799cMcEKGP820EKjH"
     },
     {
       "album": {
@@ -9092,7 +9150,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 182213,
       "name": "Zombie Party",
       "url": "https://open.spotify.com/track/71xsHrR1H4YcPbaC1N4koZ"

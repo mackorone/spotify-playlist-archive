@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 市原ひかり
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,095 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,105 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 29 | [あらわらわ](https://open.spotify.com/track/51MR88U7RScGTheJFYOqQ3) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [あらわらわ](https://open.spotify.com/album/0yMIIhjiAE3zS5YVLkuYA3) | 1:34 |
 | 30 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 |
 | 31 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 |
-| 32 | [Green eyes](https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Green eyes](https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez) | 4:50 |
-| 33 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
+| 32 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
+| 33 | [Green eyes](https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Green eyes](https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez) | 4:50 |
 | 34 | [This city is too jazzy to be in love](https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf) | 3:30 |
 | 35 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
 | 36 | [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 46 | [Night flight](https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [Night Flight](https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J) | 3:50 |
 | 47 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Shimpei Ogawa](https://open.spotify.com/artist/7aR7TrCNI1EFSZy758Bp7W), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 |
 | 48 | [Rhapsody in Summer](https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [Rhapsody in Summer](https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw) | 4:18 |
-| 49 | [Questune](https://open.spotify.com/track/7fJppnEGxHyA3wHHl0qwLB) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Questune](https://open.spotify.com/album/4bqhOCK0Gb4iQ65EwRZ8uq) | 3:14 |
-| 50 | [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 |
+| 49 | [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 |
+| 50 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |
 
 Snapshot ID: `AAAAAD0WBpWPC/QFHxdoWju3jYyVVMjT`

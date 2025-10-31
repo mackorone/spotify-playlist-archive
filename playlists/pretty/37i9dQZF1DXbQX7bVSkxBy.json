@@ -1,32 +1,28 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Kelvin Sings",
-  "num_followers": 48065,
+  "num_followers": 48089,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN4uQiSi4pt/NIDnAVNNF+JGxKQs",
+  "snapshot_id": "AAAAACltGlLo3ZV7RgvcfGat7k6sb2A/",
   "tracks": [
     {
-      "added_at": "2025-09-19 00:01:02",
+      "added_at": "2025-10-31 00:01:29",
       "album": {
-        "name": "Oluwatosin II",
-        "url": "https://open.spotify.com/album/2Syvc9YD0TePtXKUvPSlfc"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "Tkeyz",
-          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
-        },
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 656000,
-      "name": "Oluwatosin II",
-      "url": "https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY"
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -57,6 +53,50 @@
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
     },
     {
+      "added_at": "2025-10-31 00:01:29",
+      "album": {
+        "name": "No Label",
+        "url": "https://open.spotify.com/album/0ghyhpA9XBMUK7d7D8IniC"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        }
+      ],
+      "duration_ms": 158258,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1ff4qa3kRpo1mqtbVazbGC"
+    },
+    {
+      "added_at": "2025-10-31 00:01:29",
+      "album": {
+        "name": "Cat.a.lyst",
+        "url": "https://open.spotify.com/album/1uvDAcJh1YJqpdz6qEEpAw"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        },
+        {
+          "name": "Psalmos",
+          "url": "https://open.spotify.com/artist/2G5QxlJm0UTmeALPvIlzk3"
+        }
+      ],
+      "duration_ms": 273370,
+      "name": "Lord I Love You",
+      "url": "https://open.spotify.com/track/3ir79Qy8MqA19ryKuNwUJM"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "What A Beautiful Name",
@@ -75,6 +115,46 @@
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
+    },
+    {
+      "added_at": "2025-10-17 00:01:26",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 221850,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/4m6skbhTVYDH4VAix5VhD8"
+    },
+    {
+      "added_at": "2025-10-31 00:01:29",
+      "album": {
+        "name": "Speed Dial",
+        "url": "https://open.spotify.com/album/3EqF8K3bDPx1VUEZNWCtd0"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "M\u00e9gan Rose",
+          "url": "https://open.spotify.com/artist/2yIkZRP5jlm9YW4ONlmIM4"
+        }
+      ],
+      "duration_ms": 170550,
+      "name": "Speed Dial",
+      "url": "https://open.spotify.com/track/5RLa0rdbAhoVwk58koehYV"
     },
     {
       "added_at": "2025-07-18 00:01:14",
@@ -129,26 +209,6 @@
       "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
     },
     {
-      "added_at": "2025-10-17 00:01:26",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 221850,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/4m6skbhTVYDH4VAix5VhD8"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Holy Forever",
@@ -163,66 +223,6 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
-      "added_at": "2025-07-18 00:01:14",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 455007,
-      "name": "Goodness of God",
-      "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 297693,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -269,6 +269,66 @@
       "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
     },
     {
+      "added_at": "2025-07-18 00:01:14",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 455007,
+      "name": "Goodness of God",
+      "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
+    },
+    {
       "added_at": "2025-02-21 00:01:28",
       "album": {
         "name": "Mighty Name of Jesus & This Place (Live)",
@@ -287,50 +347,6 @@
       "duration_ms": 482500,
       "name": "Mighty Name of Jesus - Live",
       "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
-    },
-    {
-      "added_at": "2025-10-17 00:01:26",
-      "album": {
-        "name": "Undone",
-        "url": "https://open.spotify.com/album/4FX2oBMWsTmIYAmPt0s5Ez"
-      },
-      "artists": [
-        {
-          "name": "Aigbeh D'gong",
-          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
-        },
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 133312,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/5p05uvN1kjMHcwpEieA1J5"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -355,30 +371,6 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Hallelujah Again (Revelation 19:3)",
-        "url": "https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Oba",
-          "url": "https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA"
-        }
-      ],
-      "duration_ms": 436321,
-      "name": "Olorun Agbaye - You Are Mighty",
-      "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
     },
     {
       "added_at": "2025-07-28 09:19:33",
@@ -499,18 +491,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": "2025-10-10 00:01:08",
@@ -527,6 +527,30 @@
       "duration_ms": 225436,
       "name": "Ay\u00f3 (Joy Song)",
       "url": "https://open.spotify.com/track/272XCmhQbip13WZRPbKYeb"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Hallelujah Again (Revelation 19:3)",
+        "url": "https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Oba",
+          "url": "https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA"
+        }
+      ],
+      "duration_ms": 436321,
+      "name": "Olorun Agbaye - You Are Mighty",
+      "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -565,6 +589,22 @@
       "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
     },
     {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Look Now",
+        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
+      },
+      "artists": [
+        {
+          "name": "SONOJ ONOJA",
+          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
+        }
+      ],
+      "duration_ms": 299154,
+      "name": "Look Now",
+      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "CAN YOU IMAGINE?",
@@ -585,22 +625,6 @@
       "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Look Now",
-        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
-      },
-      "artists": [
-        {
-          "name": "SONOJ ONOJA",
-          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
-        }
-      ],
-      "duration_ms": 299154,
-      "name": "Look Now",
-      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Elevated",
@@ -615,6 +639,22 @@
       "duration_ms": 234667,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 511207,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -757,6 +797,22 @@
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
     },
     {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Race To Peace",
+        "url": "https://open.spotify.com/album/7AHEMgcR2t54t4jeXe1nwr"
+      },
+      "artists": [
+        {
+          "name": "Uniteey",
+          "url": "https://open.spotify.com/artist/4tUY1rXQMqx0XM120mQB2E"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Follow Your Lead",
+      "url": "https://open.spotify.com/track/1khq95vYxs09d7FZ6zWuVt"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Spirit Chant",
@@ -791,22 +847,6 @@
       "duration_ms": 271438,
       "name": "You Are God (feat. Chigozie Achugo)",
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
-    },
-    {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Race To Peace",
-        "url": "https://open.spotify.com/album/7AHEMgcR2t54t4jeXe1nwr"
-      },
-      "artists": [
-        {
-          "name": "Uniteey",
-          "url": "https://open.spotify.com/artist/4tUY1rXQMqx0XM120mQB2E"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Follow Your Lead",
-      "url": "https://open.spotify.com/track/1khq95vYxs09d7FZ6zWuVt"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -963,46 +1003,6 @@
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "A Worshipper's Heart (Live)",
-        "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 344733,
-      "name": "Victory Belongs To Jesus (Live)",
-      "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        }
-      ],
-      "duration_ms": 507376,
-      "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
-      "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     }
   ],
   "unique_name": "Testify",

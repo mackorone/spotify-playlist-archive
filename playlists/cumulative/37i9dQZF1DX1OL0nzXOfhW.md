@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Tr33
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Billy Choi
 
 280 songs - 16 hr 17 min
 

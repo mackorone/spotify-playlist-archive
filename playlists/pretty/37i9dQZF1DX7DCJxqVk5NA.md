@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Delaware State University's own <a href="spotify:artist:2qAwMsiIjTzlmfAkXKvhVA">Armani White</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,805 likes - 61 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,862 likes - 61 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 34 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 |
 | 35 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
 | 36 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 |
-| 37 | [TTSO.](https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [TTSO.](https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa) | 3:00 |
+| 37 | [TTSO\. FREESTYLE](https://open.spotify.com/track/3lQ445vGDKzQqBkTkHdRvr) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [TTSO.](https://open.spotify.com/album/7pkoyUUelUQjFGwx6tt3Pa) | 3:00 |
 | 38 | [No Type](https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:20 |
 | 39 | [Rake It Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [I Still Am](https://open.spotify.com/album/1tSsb3t0pqVVONvBJivoT9) | 4:36 |
 | 40 | [Make It Rain](https://open.spotify.com/track/50p9gmJMwsz3zyAwoF0FEv) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:59 |

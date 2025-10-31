@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29842,
+  "num_followers": 29839,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-03-08 23:00:20",
       "album": {
+        "name": "Sean den f\u00f6rste Banan",
+        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
+      },
+      "artists": [
+        {
+          "name": "Sean Banan",
+          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Sean den f\u00f6rste Banan",
+      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2025-03-08 23:00:20",
+      "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 176960,
       "name": "Where You Are (S\u00e1ve\u017ean)",
       "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
-    },
-    {
-      "added_at": "2025-03-08 23:00:20",
-      "album": {
-        "name": "Sean den f\u00f6rste Banan",
-        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
-      },
-      "artists": [
-        {
-          "name": "Sean Banan",
-          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Sean den f\u00f6rste Banan",
-      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
     },
     {
       "added_at": "2025-03-08 23:00:20",
@@ -847,22 +847,18 @@
     {
       "added_at": "2025-03-08 23:00:20",
       "album": {
-        "name": "90-talet",
-        "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/69HuMCOG9mg3MkKY2fuYWg"
       },
       "artists": [
         {
-          "name": "WAHL",
-          "url": "https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z"
-        },
-        {
-          "name": "SAMI",
-          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
+          "name": "BWO",
+          "url": "https://open.spotify.com/artist/5SvvYvtnQ84Fsuyi61Gk0Q"
         }
       ],
-      "duration_ms": 176578,
-      "name": "90-talet",
-      "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
+      "duration_ms": 204813,
+      "name": "Temple of Love - Radio Edit",
+      "url": "https://open.spotify.com/track/1cw6VQ7t4Wq4bIVKaLU768"
     }
   ],
   "unique_name": "Mellofest! ",

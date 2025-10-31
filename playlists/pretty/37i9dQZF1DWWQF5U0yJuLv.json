@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 52030,
+  "num_followers": 52081,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 237575,
-      "name": "On Our Way Home",
-      "url": "https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "3D Reworks 001",
         "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 296250,
       "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
       "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/5s8tUuZ4mZDKvuETg8sdjo"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 237575,
+      "name": "On Our Way Home",
+      "url": "https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -617,38 +617,6 @@
       "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "A Certain Distance",
-        "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "Two Dots",
-      "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
-    },
-    {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "Lost Horizons",
-        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Nice Weather for Ducks",
-      "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
-    },
-    {
       "added_at": "2023-02-17 01:29:01",
       "album": {
         "name": "Moog Indigo",
@@ -667,6 +635,38 @@
       "duration_ms": 191000,
       "name": "E.V.A.",
       "url": "https://open.spotify.com/track/4nQNNwnIUUmFzVOcVVJCk1"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "Lost Horizons",
+        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Nice Weather for Ducks",
+      "url": "https://open.spotify.com/track/3z24ayp6vSCkN6btftwyet"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "A Certain Distance",
+        "url": "https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf"
+      },
+      "artists": [
+        {
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Two Dots",
+      "url": "https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Good Places",
         "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 266526,
       "name": "Good Places",
       "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Hypernatural",
-        "url": "https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO"
-      },
-      "artists": [
-        {
-          "name": "Hypernatural",
-          "url": "https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER"
-        }
-      ],
-      "duration_ms": 259488,
-      "name": "Changing Tides",
-      "url": "https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1067,6 +1051,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Hypernatural",
+        "url": "https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO"
+      },
+      "artists": [
+        {
+          "name": "Hypernatural",
+          "url": "https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER"
+        }
+      ],
+      "duration_ms": 259488,
+      "name": "Changing Tides",
+      "url": "https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "L'illustration Musicale",
@@ -1337,20 +1321,36 @@
       "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
-      "added_at": "2024-10-04 19:30:39",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Side Two",
-        "url": "https://open.spotify.com/album/41tCgU8N21F069SHpUn9CI"
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
       },
       "artists": [
         {
-          "name": "Submotion Orchestra",
-          "url": "https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA"
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
         }
       ],
-      "duration_ms": 327061,
-      "name": "Side Two",
-      "url": "https://open.spotify.com/track/3pF1nA7Yman56XhJrVx619"
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2023-11-23 03:11:19",
@@ -1373,20 +1373,20 @@
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2024-10-04 19:30:39",
       "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+        "name": "Side Two",
+        "url": "https://open.spotify.com/album/41tCgU8N21F069SHpUn9CI"
       },
       "artists": [
         {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+          "name": "Submotion Orchestra",
+          "url": "https://open.spotify.com/artist/3ceOFG1q86nQVpJliylpgA"
         }
       ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+      "duration_ms": 327061,
+      "name": "Side Two",
+      "url": "https://open.spotify.com/track/3pF1nA7Yman56XhJrVx619"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Zoom",
+        "url": "https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 196547,
+      "name": "Echo Boomed",
+      "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Sequenza",
         "url": "https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 344120,
       "name": "Balani",
       "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Zoom",
-        "url": "https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 196547,
-      "name": "Echo Boomed",
-      "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
     },
     {
       "added_at": "2023-12-12 18:05:18",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
+        "name": "Das Ist Ein Groovybeat, Ja",
+        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
+      },
+      "artists": [
+        {
+          "name": "Jake Slazenger",
+          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
+        }
+      ],
+      "duration_ms": 379266,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
         "name": "Krautzig",
         "url": "https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 247380,
       "name": "Krautzig",
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Das Ist Ein Groovybeat, Ja",
-        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
-      },
-      "artists": [
-        {
-          "name": "Jake Slazenger",
-          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
-        }
-      ],
-      "duration_ms": 379266,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
     },
     {
       "added_at": "2023-03-29 03:24:26",
@@ -1969,22 +1969,6 @@
       "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Sabresonic",
-        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
-      },
-      "artists": [
-        {
-          "name": "The Sabres Of Paradise",
-          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Smokebelch II - Beatless Mix",
-      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
-    },
-    {
       "added_at": "2024-02-02 05:58:22",
       "album": {
         "name": "Z",
@@ -1999,6 +1983,22 @@
       "duration_ms": 235140,
       "name": "Z",
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Sabresonic",
+        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Smokebelch II - Beatless Mix",
+      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
     },
     {
       "added_at": "2023-02-17 01:53:11",

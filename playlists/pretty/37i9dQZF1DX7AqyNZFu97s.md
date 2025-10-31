@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Ceebo
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,838 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,837 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Nonchalant](https://open.spotify.com/track/218O6HKzXEOLFxbeqXGpjl) | [Seth Gauton](https://open.spotify.com/artist/6lSVOhtwPDcXqEIG6uyu4N) | [Nonchalant](https://open.spotify.com/album/3ZDv943r9WBfl3uDUOjFnC) | 3:05 |
 | 100 | [sink or swim](https://open.spotify.com/track/2qwkUkYjo6j0ugehGIXHSY) | [ugly ozo](https://open.spotify.com/artist/1AUCiV4sfdNn5Ch5sTe4UI) | [sink or swim](https://open.spotify.com/album/52HC9VxbOcJiWAVhIeRQNM) | 3:00 |
 
-Snapshot ID: `AAAAALNoW/aTaDpcUwiX7YxORfsOMb7F`
+Snapshot ID: `AAAAAMFhDnGKKA7rRANGUIMXigd4PBBk`

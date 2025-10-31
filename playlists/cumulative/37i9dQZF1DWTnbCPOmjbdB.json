@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Mrozu, Zalia",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Kacperczyk",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 163525,
       "name": "DO RANA",
       "url": "https://open.spotify.com/track/0AlvZKVHjUjnpdudZHHPxJ"
@@ -3776,6 +3776,24 @@
       "duration_ms": 176148,
       "name": "Hold The Light",
       "url": "https://open.spotify.com/track/1gvZdm2sg2xUAaF9daQRnr"
+    },
+    {
+      "album": {
+        "name": "Hush husH",
+        "url": "https://open.spotify.com/album/7yIPRwzPnMgKtIu4qd6rQr"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173857,
+      "name": "Hush husH",
+      "url": "https://open.spotify.com/track/4noBapWXdu7zyDMjzkGqTq"
     },
     {
       "album": {
@@ -10743,6 +10761,24 @@
     },
     {
       "album": {
+        "name": "Tam bez zmian",
+        "url": "https://open.spotify.com/album/5rxOFu3JHKIUsSgJUgmWea"
+      },
+      "artists": [
+        {
+          "name": "Rubens",
+          "url": "https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283360,
+      "name": "Tam bez zmian",
+      "url": "https://open.spotify.com/track/27wZZuoVxpyoNsL4wpnsrx"
+    },
+    {
+      "album": {
         "name": "Tam czeka mnie dom",
         "url": "https://open.spotify.com/album/1BFCotBzxEo6Od7Uk0g2OH"
       },
@@ -12192,7 +12228,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 150400,
       "name": "Wszystkie Oczy na Mnie",
       "url": "https://open.spotify.com/track/3txAr9J5hOIW9P0TfUbhLo"
@@ -13432,7 +13468,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 123921,
       "name": "\u015aPISZ",
       "url": "https://open.spotify.com/track/7wegE7NWGJwWXcGvzKY4Mb"
@@ -13454,6 +13490,28 @@
       "duration_ms": 250235,
       "name": "\u015arubka",
       "url": "https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS"
+    },
+    {
+      "album": {
+        "name": "\u015awiat\u0142o",
+        "url": "https://open.spotify.com/album/43371cfLWq5f9MOdujQPFm"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "\u015awiat\u0142o",
+      "url": "https://open.spotify.com/track/4JstfIokwiPbk8uce2aQgb"
     },
     {
       "album": {

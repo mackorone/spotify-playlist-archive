@@ -1,6 +1,6 @@
 {
   "description": "Great food, good company and some soft music. ",
-  "num_followers": 658019,
+  "num_followers": 657973,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAEsWlYwLSWBAgD72qa0fWQTCTPoq",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:00:34",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 264518,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap"
+    },
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: ZEE PRUK, NuNew
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: ALALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,235 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,266 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
-| 2 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
-| 3 | [Heartquake](https://open.spotify.com/track/3AHKsP3e8iMqm92VP2NzHw) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Heartquake](https://open.spotify.com/album/2hFZ2m73QwTpdVrirkt1Vx) | 3:00 |
-| 4 | [ไม่อยากรัก \(Shiftless\)](https://open.spotify.com/track/7oV3IrZt97BbdGqC24o5qv) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ไม่อยากรัก \(Shiftless\)](https://open.spotify.com/album/3EF2N3cmKYmmqUNtmFCdRW) | 3:49 |
-| 5 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
-| 6 | [หยุดที่ U](https://open.spotify.com/track/3Iu7WBpjjFrAocTQfF1pnk) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [หยุดที่ U](https://open.spotify.com/album/0LB1tm3rSFcXarzXlSfgKp) | 3:24 |
+| 1 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
+| 2 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 3 | [หยุดที่ U](https://open.spotify.com/track/3Iu7WBpjjFrAocTQfF1pnk) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [หยุดที่ U](https://open.spotify.com/album/0LB1tm3rSFcXarzXlSfgKp) | 3:24 |
+| 4 | [Heartquake](https://open.spotify.com/track/3AHKsP3e8iMqm92VP2NzHw) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Heartquake](https://open.spotify.com/album/2hFZ2m73QwTpdVrirkt1Vx) | 3:00 |
+| 5 | [ไม่อยากรัก \(Shiftless\)](https://open.spotify.com/track/7oV3IrZt97BbdGqC24o5qv) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ไม่อยากรัก \(Shiftless\)](https://open.spotify.com/album/3EF2N3cmKYmmqUNtmFCdRW) | 3:49 |
+| 6 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 | 7 | [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 |
 | 8 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 9 | [เติมเธอ \(Fill My Heart\)](https://open.spotify.com/track/6Bw6ZasvryV0lgryseKuhW) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l) | [เติมเธอ \(Fill My Heart\)](https://open.spotify.com/album/1WjecyATm10Vz6V75Zberz) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 |
 | 50 | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 |
 
-Snapshot ID: `AAAAAKOVeXp4daSVkflMuBVabqy2KgCw`
+Snapshot ID: `AAAAAMx9xkJrCEF/6OmxZQdqikupklVZ`

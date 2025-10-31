@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo",
-  "num_followers": 185500,
+  "num_followers": 185511,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -343,8 +343,8 @@
     {
       "added_at": "2025-10-17 12:02:54",
       "album": {
-        "name": "Leviano",
-        "url": "https://open.spotify.com/album/7BnX5zopZrtfk0mH00GPeC"
+        "name": "Guardado",
+        "url": "https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
         }
       ],
-      "duration_ms": 100552,
-      "name": "Leviano",
-      "url": "https://open.spotify.com/track/0Zuk8ANp2Y1DvgjfDiwU9f"
+      "duration_ms": 222214,
+      "name": "Guardado",
+      "url": "https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J"
     },
     {
       "added_at": "2025-10-17 12:02:54",
@@ -463,8 +463,8 @@
     {
       "added_at": "2025-10-17 12:02:54",
       "album": {
-        "name": "Guardado",
-        "url": "https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W"
+        "name": "Leviano",
+        "url": "https://open.spotify.com/album/7BnX5zopZrtfk0mH00GPeC"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
         }
       ],
-      "duration_ms": 222214,
-      "name": "Guardado",
-      "url": "https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J"
+      "duration_ms": 100552,
+      "name": "Leviano",
+      "url": "https://open.spotify.com/track/0Zuk8ANp2Y1DvgjfDiwU9f"
     },
     {
       "added_at": "2025-10-17 12:02:54",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-10-17 12:02:54",
       "album": {
+        "name": "Quero Voltar",
+        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
+      },
+      "artists": [
+        {
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Quero Voltar",
+      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
+    },
+    {
+      "added_at": "2025-10-17 12:02:54",
+      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 173548,
       "name": "Sangue",
       "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
-    },
-    {
-      "added_at": "2025-10-17 12:02:54",
-      "album": {
-        "name": "Quero Voltar",
-        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
-      },
-      "artists": [
-        {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Quero Voltar",
-      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
     },
     {
       "added_at": "2025-10-17 12:02:54",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2025-10-17 12:02:54",
       "album": {
+        "name": "Profeta",
+        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 131785,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
+    },
+    {
+      "added_at": "2025-10-17 12:02:54",
+      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 237108,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
-    },
-    {
-      "added_at": "2025-10-17 12:02:54",
-      "album": {
-        "name": "Profeta",
-        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 131785,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "added_at": "2025-10-17 12:02:54",

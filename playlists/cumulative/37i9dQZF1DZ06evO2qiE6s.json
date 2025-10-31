@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "Cha Cha De Amor",
+        "url": "https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Lee Herschberg",
+          "url": "https://open.spotify.com/artist/7GDDpChEAyRCUfb5On65Vr"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143626,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/6rE5UhskbiwqzvkPB33MF9"
+    },
+    {
+      "album": {
         "name": "Dino: The Essential Dean Martin",
         "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
       },
@@ -2148,7 +2170,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 126906,
       "name": "The Birds and the Bees",
       "url": "https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC"

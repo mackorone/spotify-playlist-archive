@@ -1,6 +1,6 @@
 {
-  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: GUrbane",
-  "num_followers": 3119,
+  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: CoolKid",
+  "num_followers": 3121,
   "original_name": "RADAR Vietnam",
   "owner": {
     "name": "Spotify",
@@ -194,11 +194,15 @@
         {
           "name": "V\u01af\u01a0NG B\u00ccNH",
           "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
         }
       ],
-      "duration_ms": 219963,
-      "name": "Anh B\u1edd Vai",
-      "url": "https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2"
+      "duration_ms": 178952,
+      "name": "Cho ph\u00e9p t\u00f4i m\u1eddi anh m\u1ed9t ly",
+      "url": "https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -294,15 +298,11 @@
         {
           "name": "V\u01af\u01a0NG B\u00ccNH",
           "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        },
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
         }
       ],
-      "duration_ms": 178952,
-      "name": "Cho ph\u00e9p t\u00f4i m\u1eddi anh m\u1ed9t ly",
-      "url": "https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA"
+      "duration_ms": 219963,
+      "name": "Anh B\u1edd Vai",
+      "url": "https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -627,38 +627,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "ch\u01a1i tr\u00f2 y\u00eau",
-        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
-      },
-      "artists": [
-        {
-          "name": "m t\u00fa",
-          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
-        }
-      ],
-      "duration_ms": 187777,
-      "name": "c\u00f3 nhau",
-      "url": "https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "SOS/City",
-        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
-      },
-      "artists": [
-        {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
-        }
-      ],
-      "duration_ms": 259202,
-      "name": "City",
-      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "FASHION RAPPER",
         "url": "https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 205656,
       "name": "FASHION RAPPER",
       "url": "https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "duration_ms": 259202,
+      "name": "City",
+      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "ch\u01a1i tr\u00f2 y\u00eau",
+        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
+      },
+      "artists": [
+        {
+          "name": "m t\u00fa",
+          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
+        }
+      ],
+      "duration_ms": 187777,
+      "name": "c\u00f3 nhau",
+      "url": "https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -719,18 +719,22 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "ch\u01a1i tr\u00f2 y\u00eau",
-        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
       },
       "artists": [
         {
-          "name": "m t\u00fa",
-          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        },
+        {
+          "name": "Ho\u00e0ng Duy\u00ean",
+          "url": "https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d"
         }
       ],
-      "duration_ms": 153541,
-      "name": "\u00fam ba la x\u00ec b\u00f9a",
-      "url": "https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6"
+      "duration_ms": 185515,
+      "name": "B\u1ea1ch Nguy\u1ec7t Quang",
+      "url": "https://open.spotify.com/track/5eR0WC8y4VLeRQouyV0tIW"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -751,22 +755,18 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+        "name": "ch\u01a1i tr\u00f2 y\u00eau",
+        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
       },
       "artists": [
         {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        },
-        {
-          "name": "Ho\u00e0ng Duy\u00ean",
-          "url": "https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d"
+          "name": "m t\u00fa",
+          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
         }
       ],
-      "duration_ms": 185515,
-      "name": "B\u1ea1ch Nguy\u1ec7t Quang",
-      "url": "https://open.spotify.com/track/5eR0WC8y4VLeRQouyV0tIW"
+      "duration_ms": 153541,
+      "name": "\u00fam ba la x\u00ec b\u00f9a",
+      "url": "https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "ch\u01a1i tr\u00f2 y\u00eau",
-        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
+        "name": "Thua Ng\u01b0\u1eddi Ta",
+        "url": "https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L"
       },
       "artists": [
         {
-          "name": "m t\u00fa",
-          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
         }
       ],
-      "duration_ms": 145710,
-      "name": "5 10",
-      "url": "https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4"
+      "duration_ms": 194814,
+      "name": "Thua Ng\u01b0\u1eddi Ta",
+      "url": "https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Thua Ng\u01b0\u1eddi Ta",
-        "url": "https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L"
+        "name": "ch\u01a1i tr\u00f2 y\u00eau",
+        "url": "https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2"
       },
       "artists": [
         {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+          "name": "m t\u00fa",
+          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
         }
       ],
-      "duration_ms": 194814,
-      "name": "Thua Ng\u01b0\u1eddi Ta",
-      "url": "https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC"
+      "duration_ms": 145710,
+      "name": "5 10",
+      "url": "https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -875,8 +875,8 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Gentle Bad",
-        "url": "https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y"
+        "name": "re:imaGined (\u201cGB\u201d deluxe version)",
+        "url": "https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3"
       },
       "artists": [
         {
@@ -884,25 +884,9 @@
           "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2A1bhm6a6Na7dkP3c83OVt"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "m\u01a1",
-        "url": "https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM"
-      },
-      "artists": [
-        {
-          "name": "m t\u00fa",
-          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "m\u01a1",
-      "url": "https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ"
+      "duration_ms": 141383,
+      "name": "sweet savage",
+      "url": "https://open.spotify.com/track/7FVZZ092GLjaU2NGvP72ie"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -923,6 +907,22 @@
       "duration_ms": 279000,
       "name": "chi\u1ec1u th\u1ee9 7",
       "url": "https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "m\u01a1",
+        "url": "https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM"
+      },
+      "artists": [
+        {
+          "name": "m t\u00fa",
+          "url": "https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "m\u01a1",
+      "url": "https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ"
     }
   ],
   "unique_name": "RADAR Vietnam",

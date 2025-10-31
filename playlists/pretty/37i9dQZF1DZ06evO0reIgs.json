@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81968,
+  "num_followers": 81967,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAABv6q4E5i6ZGDIe5nxYshPj",
+  "snapshot_id": "aQFZAAAAAAC437Vdh38K5SZaokRfZgDG",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Mundo da Lua / Abra\u00e7o",
+        "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 338861,
+      "name": "No Mundo da Lua / Abra\u00e7o",
+      "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Krabi",
         "url": "https://open.spotify.com/album/3woSsuG4bG70Ismb03ZkKR"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 234418,
       "name": "Krabi",
       "url": "https://open.spotify.com/track/5GGnuusI42nqwYuttQGgA1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Mundo da Lua / Abra\u00e7o",
-        "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 338861,
-      "name": "No Mundo da Lua / Abra\u00e7o",
-      "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
     },
     {
       "added_at": null,
@@ -1139,26 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Alaska, Pt. 2",
-      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beira Mar, Pt. 2",
         "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 197114,
       "name": "A Culpa \u00c9 Minha",
       "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Alaska, Pt. 2",
+      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
     },
     {
       "added_at": null,

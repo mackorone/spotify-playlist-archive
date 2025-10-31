@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Foo Fighters",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Loose Lips",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 181012,
       "name": "ALL MY ANGELS",
       "url": "https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 245767,
       "name": "bad luck",
       "url": "https://open.spotify.com/track/3VLgM0cCgjzCfe3ioyRvFF"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 173239,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 250541,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/4sNfEL2D6Qgy370ajeldtJ"
@@ -2316,6 +2316,24 @@
       "duration_ms": 202960,
       "name": "Candy Coated Heart",
       "url": "https://open.spotify.com/track/2nsYPF7QI3C1jLxSYKe9Qw"
+    },
+    {
+      "album": {
+        "name": "Cardinal In The Crossfire",
+        "url": "https://open.spotify.com/album/6zWgy4sI3UGqFTp7t4dK2w"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165744,
+      "name": "Cardinal In The Crossfire",
+      "url": "https://open.spotify.com/track/0yWTRzYMR6QvS1LwW2WGEQ"
     },
     {
       "album": {
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 216747,
       "name": "Chrome Jets",
       "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 246973,
       "name": "clouds",
       "url": "https://open.spotify.com/track/4geIzNVwXO7y2WT1zVG2R4"
@@ -5039,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/1xBwJ6Wdfgdx6XZvwtpNwl"
+      },
+      "artists": [
+        {
+          "name": "Loose Lips",
+          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209510,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/0gMm1LKXxHHCbKAmExoA9d"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/5rjOiuejXu8LvmlglicDU2"
       },
@@ -5480,6 +5516,24 @@
       "duration_ms": 187995,
       "name": "hide & seek",
       "url": "https://open.spotify.com/track/3hQVXjMDZBWhbl0lSTW7IC"
+    },
+    {
+      "album": {
+        "name": "Hole In The Ground",
+        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224532,
+      "name": "Hole In The Ground",
+      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
     },
     {
       "album": {
@@ -7821,6 +7875,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179822,
+      "name": "Monsters In My Head",
+      "url": "https://open.spotify.com/track/0q2Q3YPiI8zbfLoLJ4pf8A"
+    },
+    {
+      "album": {
         "name": "Mother Teresa",
         "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
       },
@@ -8380,7 +8452,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 221573,
       "name": "Not your Misery",
       "url": "https://open.spotify.com/track/3goGM8arLfU7kj3HqkCtAj"
@@ -10021,6 +10093,24 @@
     },
     {
       "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/6uRpoZfEsM63H2Rvf8xliu"
+      },
+      "artists": [
+        {
+          "name": "GRAYWOLF",
+          "url": "https://open.spotify.com/artist/5h5NC0ORZrrvqVzrQdz4fC"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202329,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/6a0sbDfufdxotBphRh0xN9"
+    },
+    {
+      "album": {
         "name": "Searching for Tomorrow",
         "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
       },
@@ -10404,6 +10494,24 @@
       "duration_ms": 146677,
       "name": "SLEEP WHEN I'M DEAD",
       "url": "https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO"
+    },
+    {
+      "album": {
+        "name": "Slightly Off",
+        "url": "https://open.spotify.com/album/14lPwc2it07aKGeGF9mfTn"
+      },
+      "artists": [
+        {
+          "name": "No Soul Society",
+          "url": "https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169799,
+      "name": "Slightly Off",
+      "url": "https://open.spotify.com/track/0GDaCdOSVHrapNXuKnMFeo"
     },
     {
       "album": {
@@ -12636,6 +12744,24 @@
       "duration_ms": 188813,
       "name": "Venus",
       "url": "https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211863,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/4RZCiJgNU2GY3ii22Y5Pu9"
     },
     {
       "album": {

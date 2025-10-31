@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Indie & Alternative\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,165 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,153 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 69 | [How Do We Get High Now?](https://open.spotify.com/track/2g3rIDEKRJyZGUAafuhZAC) | [BARRU](https://open.spotify.com/artist/4o4dEe1l0R6qNVc4OFcy1K) | [How Do We Get High Now?](https://open.spotify.com/album/7GTJQn8yAK6oFeJn7ICLTg) | 4:37 |
 | 70 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 
-Snapshot ID: `AAAAANXxXKo5Ffsk/EzR+weZ7yhr7o9g`
+Snapshot ID: `AAAAALjJ58OaexYBXt9fQIUTR9ctysrw`

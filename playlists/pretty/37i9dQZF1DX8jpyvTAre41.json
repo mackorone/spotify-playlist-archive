@@ -1,12 +1,12 @@
 {
-  "description": "The best rock songs of the moment. Cover: Kyle Wildfern",
-  "num_followers": 194657,
+  "description": "The best rock songs of the moment. Cover: Foo Fighters",
+  "num_followers": 194644,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI733pRO5OdFC71wbn8YmtQDMUoO",
+  "snapshot_id": "AAAAALI8u5dKmAV2rhRChVaSmbAGS4pq",
   "tracks": [
     {
       "added_at": "2025-10-24 04:01:03",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Harm & Ease",
+          "url": "https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 11",
+      "url": "https://open.spotify.com/track/0UDgAr1L3PWtivDoPARmex"
+    },
+    {
       "added_at": "2025-10-24 04:01:03",
       "album": {
         "name": "The Rest Of The Story",
@@ -41,6 +57,38 @@
       "url": "https://open.spotify.com/track/6UXxbsBlfREafW9nLMVmLM"
     },
     {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 157027,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "What Good?",
+        "url": "https://open.spotify.com/album/37t024pDno6KveKjG2BvJM"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 179252,
+      "name": "What Good?",
+      "url": "https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92"
+    },
+    {
       "added_at": "2025-10-24 04:01:03",
       "album": {
         "name": "What a Life!",
@@ -55,6 +103,22 @@
       "duration_ms": 114285,
       "name": "FEEL2",
       "url": "https://open.spotify.com/track/7rXKU8tLrFjA9JtLksIkgN"
+    },
+    {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Boojums",
+          "url": "https://open.spotify.com/artist/3cZi4em8rnssExt3yLA75E"
+        }
+      ],
+      "duration_ms": 99546,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/44VBgxQ5khk3QgfJFKVi3X"
     },
     {
       "added_at": "2025-10-24 04:01:03",

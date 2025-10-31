@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,884 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,885 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 4 | [heute nacht sind die hühner wild](https://open.spotify.com/track/41dXUCPkQVcRppmgCbqE15) | [cami](https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt) | [heute nacht sind die hühner wild](https://open.spotify.com/album/5o4YTqa6bW2douWyhKh6I1) | 2:48 |
 | 5 | [Heul doch](https://open.spotify.com/track/0rMTjAKPEFHzGA9eFk9qpx) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [Heul doch](https://open.spotify.com/album/5CnBlhHd3TiUa0WHSzPaoq) | 2:14 |
 | 6 | [Nie wieder](https://open.spotify.com/track/5ZRty3yQvWGDd2YkOOcAJ1) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Nie wieder](https://open.spotify.com/album/7BAhNlFV3TubNxQMyBDMiP) | 2:38 |
-| 7 | [Fehler](https://open.spotify.com/track/20s81cl4XtUTiY5ZcCjhik) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Fehler](https://open.spotify.com/album/6X503VDEugjju8qP0WPhPa) | 2:29 |
-| 8 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
+| 7 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
+| 8 | [Fehler](https://open.spotify.com/track/20s81cl4XtUTiY5ZcCjhik) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Fehler](https://open.spotify.com/album/6X503VDEugjju8qP0WPhPa) | 2:29 |
 | 9 | [Ignorance is Bliss](https://open.spotify.com/track/7mhAJ0N6VuAxgzksFWa0Om) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Ignorance is Bliss](https://open.spotify.com/album/75N2h7ZeDnaFRbIlja8LgJ) | 3:34 |
 | 10 | [Open My Door](https://open.spotify.com/track/1A8QcZJKhUmJwdqzoAahvR) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 2:33 |
 | 11 | [Weekend Baddie](https://open.spotify.com/track/1ROfdqAJJ6vHq2dDni27TV) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Weekend Baddie](https://open.spotify.com/album/3GkXIClRd3IxHNb96kWnLS) | 2:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Very Far Away](https://open.spotify.com/track/0q9CqWspKpvVkH5OKTbgRS) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Very Far Away EP](https://open.spotify.com/album/37RdgI61BvnCrNqXIUT6zC) | 3:42 |
 | 41 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 |
 | 42 | [Cheerleader](https://open.spotify.com/track/2WG9JA4opUdNucD9kAiT7L) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Cheerleader](https://open.spotify.com/album/2L276JUtx0LarSYMGJxt22) | 3:39 |
-| 43 | [What Does She Have](https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [What Does She Have](https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG) | 3:18 |
-| 44 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
+| 43 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
+| 44 | [What Does She Have](https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [What Does She Have](https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG) | 3:18 |
 | 45 | [bist du noch da](https://open.spotify.com/track/67WyEYAexmClJHbBs7obFI) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [bist du noch da](https://open.spotify.com/album/0zwVsM14zRUH1K7F5osVUr) | 2:50 |
 | 46 | [Euro Summer](https://open.spotify.com/track/5y7LHWSdqrpQJUhuN9MClU) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Euro Summer](https://open.spotify.com/album/2mosYbpraEEAs3vKVHlv1Q) | 3:53 |
 | 47 | [Lost Indieboy](https://open.spotify.com/track/18RDGWmoWjE6VtUT3AB728) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [SNACKS](https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV) | 3:19 |

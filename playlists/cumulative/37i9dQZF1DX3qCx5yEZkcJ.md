@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-577 songs - 23 hr 59 min
+578 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Sewin' Love \- Instrumental](https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Main Source \(Instrumentals\)](https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG) | 2:58 | 2022-11-17 | 2024-04-19 |
 | [Shinny Cloud](https://open.spotify.com/track/1QXcdvepUVCQQDse2XH7ZZ) | [Hayjee](https://open.spotify.com/artist/0IHEtl5vYHC7KTNBstRMwt), [Da Solist](https://open.spotify.com/artist/43biVxxyNYggA1g2iYylDW), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Shinny Cloud](https://open.spotify.com/album/6ug6OQSvs5t64gR3CsbbTY) | 2:40 | 2020-11-06 | 2021-10-28 |
 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2021-12-10 | 2022-07-24 |
-| [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 |  |
+| [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 | 2025-10-31 |
 | [Silience](https://open.spotify.com/track/5TuhMyeZ7bBd3A0PzKNW4D) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/4Fw2PdZjZSGA3Tk2lhLAY1) | 3:16 | 2019-05-26\* | 2021-05-27 |
 | [Singing sad](https://open.spotify.com/track/78CuCBf5R2eecbA8cBXBDE) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Rough Sketch](https://open.spotify.com/album/1Otsaxr8Anm1g3JLKevkxg) | 3:07 | 2021-05-10 | 2021-09-10 |
 | [Sinking Ship \- Instrumental](https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [A Kid From Yerevan \(Instrumental\)](https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ) | 2:44 | 2023-12-07 |  |
@@ -543,6 +543,7 @@
 | [Up Above](https://open.spotify.com/track/3BqFQOk4Q6v3jyPb9QHMnI) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Up Above](https://open.spotify.com/album/5ZX23RGeCe2Flmss5Or3wG) | 2:34 | 2020-08-30 | 2021-10-29 |
 | [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-19 | 2023-11-03 |
 | [Utopia](https://open.spotify.com/track/5x7jyjtMoj6nbOlcDX1yzo) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Utopia](https://open.spotify.com/album/56vHdvi4b7WEhDBbTY3eni) | 2:12 | 2024-09-06 | 2024-10-11 |
+| [Veluwe](https://open.spotify.com/track/0foyXbAb32cCdwcFjB4tgm) | [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA), [twofiveone](https://open.spotify.com/artist/5Fex9xz9rkPqQqMBVtuIrE) | [Veluwe](https://open.spotify.com/album/5SKoZTRUgunUdcWHDonBfv) | 2:55 | 2025-10-24 |  |
 | [Verano](https://open.spotify.com/track/68eEbyrrYDI1SPbxfz84zw) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Verano](https://open.spotify.com/album/7KpIEV7DObQhVHsvBgI3aX) | 1:50 | 2020-06-19 | 2021-10-29 |
 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 | 2019-07-26 |  |
 | [Void](https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc) | 1:25 | 2022-01-27 | 2022-07-28 |

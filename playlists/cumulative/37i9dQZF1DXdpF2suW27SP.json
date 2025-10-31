@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Holly Hood entra na zona. ",
+  "description": "Monsta entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -6192,7 +6192,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 257957,
       "name": "Eu Vou Vencer",
       "url": "https://open.spotify.com/track/702bq8Ud8dIxysgrRvTqv0"
@@ -9667,6 +9667,28 @@
     },
     {
       "album": {
+        "name": "Maluco Assumido",
+        "url": "https://open.spotify.com/album/2vAYug3MoWviD6eq3LCMdS"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191707,
+      "name": "Maluco Assumido",
+      "url": "https://open.spotify.com/track/5xfkirD1EPUDalbWLcUhlq"
+    },
+    {
+      "album": {
         "name": "Mama Ka Bu Txora",
         "url": "https://open.spotify.com/album/3pIB5eUZkMs51KRDsWjswx"
       },
@@ -9712,6 +9734,32 @@
       "duration_ms": 192000,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/6J6DcdqOLCCA3VZ9mr6VPD"
+    },
+    {
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/3RWhr6FCRLQi1E2PcrtrGF"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        },
+        {
+          "name": "DJ Liu One",
+          "url": "https://open.spotify.com/artist/5D5vBgRfIJwhMPGT5uIngY"
+        },
+        {
+          "name": "Miz Trini",
+          "url": "https://open.spotify.com/artist/7q3ivNBKFEEQTpb3khuQAd"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166818,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/1o8T79isyZLkzvIcUwv6nc"
     },
     {
       "album": {
@@ -13740,7 +13788,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 164735,
       "name": "Pr\u00e9 Virou Festa",
       "url": "https://open.spotify.com/track/2sL6ARVxLy6Jal4XByoQ18"

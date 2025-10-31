@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Geese",
-  "num_followers": 47896,
+  "num_followers": 48082,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 218810,
-      "name": "Call For You",
-      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "What's a Girl to Do in '25",
         "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 218810,
+      "name": "Call For You",
+      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -499,18 +499,22 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Matches & Gasoline",
-        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
       "artists": [
         {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
         }
       ],
-      "duration_ms": 287063,
-      "name": "Matches & Gasoline",
-      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
+      "duration_ms": 228613,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -531,22 +535,18 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Uh Oh",
-        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+        "name": "Matches & Gasoline",
+        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Uh Oh",
-      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+      "duration_ms": 287063,
+      "name": "Matches & Gasoline",
+      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
     },
     {
       "added_at": "2025-09-30 19:00:25",

@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/4V87c5AmGlHma109jbwk95"
+      },
+      "artists": [
+        {
+          "name": "Claudio Constantini",
+          "url": "https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130477,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/2gPb7WvxnTlAWhYSrFo0xD"
+    },
+    {
+      "album": {
         "name": "Starling",
         "url": "https://open.spotify.com/album/3b6fPAq36KmilKcynTCDaD"
       },

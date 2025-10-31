@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,343 likes - 64 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,876 likes - 64 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 | 63 | [Loi de réforme de l'enseignement du nouveau siècle \- Méthode BR](https://open.spotify.com/track/3RHINlscuMpIBR8IGRJBk9) | [Orchestre Philharmonique National de Varsovie](https://open.spotify.com/artist/5JsiijDCMgs8DrvhKEdi8g), [Masamichi Amano](https://open.spotify.com/artist/0McOFXOF0Nw1u4r7wO9K6t) | [Battle royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C57C7iiURFQWPQItF99KI) | 3:01 |
 | 64 | [I Colori Di Dicembere \(Laura's Theme: The Last Farewell\)](https://open.spotify.com/track/74jAVegerAA7qDiIwKZ8Lp) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [Don't Look Now \(Original Film Soundtrack\)](https://open.spotify.com/album/61zcqMiKlVwnv83DBWncxW) | 3:26 |
 
-Snapshot ID: `AAAAACFOdLSB/wllS+C+K14Stw9LmS1M`
+Snapshot ID: `AAAAAHbJMJFoBQAo4uJMbMKEAU/sOhh/`

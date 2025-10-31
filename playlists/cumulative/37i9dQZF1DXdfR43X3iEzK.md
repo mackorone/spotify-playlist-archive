@@ -2,9 +2,9 @@
 
 ### [alt/pop](https://open.spotify.com/playlist/37i9dQZF1DXdfR43X3iEzK)
 
-> my alt/pop could mean anything ⚔️<br/>cover: 5 seconds of summer
+> my alt/pop could mean anything ⚔️<br/>cover: rosalía
 
-534 songs - 1 day 4 hr 47 min
+535 songs - 1 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-02-14 | 2025-03-28 |
 | [BE NO BODY](https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [ARC 01: MAIDEN](https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn) | 3:25 | 2025-05-30 | 2025-08-15 |
 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 | 2025-10-09 |  |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-31 |  |
 | [Best Be Leaving](https://open.spotify.com/track/2pEQBzoeccf6TIbJU8O26c) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Best Be Leaving](https://open.spotify.com/album/30coJQv7G8UD5Lx76VQZE1) | 3:42 | 2025-03-07 | 2025-03-28 |
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-18 | 2024-12-10 |
 | [Better If We Don't](https://open.spotify.com/track/7h9etc3zfnXYobjqCiQG20) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Better If We Don't](https://open.spotify.com/album/6j3p3KuggLr8qPaXlKyz7T) | 3:08 | 2025-04-17 | 2025-05-31 |
@@ -437,7 +438,7 @@
 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 | 2025-05-15 | 2025-08-22 |
 | [Silicone Heart](https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Silicone Heart](https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR) | 3:13 | 2024-06-07 | 2024-07-21 |
 | [Silver Spoon](https://open.spotify.com/track/6hO8bfYNOb97gzVDgcYVND) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Silver Spoon](https://open.spotify.com/album/3ziaoXrlwiwwJXwRtoeyPJ) | 4:14 | 2025-03-07 | 2025-03-28 |
-| [Skeletons](https://open.spotify.com/track/4BqgUcV7mhUwLbO18JQrqW) | [3lijah](https://open.spotify.com/artist/0kDEuNVNp2RC9VUThcATI1) | [Skeletons](https://open.spotify.com/album/3H2EzKT4dEZmfNcRKnVAV1) | 2:41 | 2025-08-07 |  |
+| [Skeletons](https://open.spotify.com/track/4BqgUcV7mhUwLbO18JQrqW) | [3lijah](https://open.spotify.com/artist/0kDEuNVNp2RC9VUThcATI1) | [Skeletons](https://open.spotify.com/album/3H2EzKT4dEZmfNcRKnVAV1) | 2:41 | 2025-08-07 | 2025-10-31 |
 | [Skydiver](https://open.spotify.com/track/1IX5RUHNGNdIM92qwebSU8) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Skydiver](https://open.spotify.com/album/7rujHjkYRu2sJrCfJSlFtE) | 3:59 | 2024-06-07 | 2024-08-19 |
 | [slack](https://open.spotify.com/track/7EfA4kiIZJebf3fIHiO0Ge) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [slack / she's all that i need](https://open.spotify.com/album/6ZAEBW95fQsflooTxmkLmY) | 2:40 | 2025-05-15 | 2025-07-18 |
 | [Sleeper \(Hit\)](https://open.spotify.com/track/6gXkV4YnMvB4ao0zFNXMHZ) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Sleeper \(Hit\)](https://open.spotify.com/album/0DpiDseJ4gpSIsaMKEDmy1) | 2:54 | 2025-04-24 | 2025-07-11 |

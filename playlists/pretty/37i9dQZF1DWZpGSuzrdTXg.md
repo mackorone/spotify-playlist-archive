@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,086 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,078 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Insular](https://open.spotify.com/track/126ZlwrjTCZJlUqr9f65Bd) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Insular](https://open.spotify.com/album/1JafBWcHAurcWqEKi2UVRN) | 3:35 |
-| 2 | [april](https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [april](https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL) | 2:21 |
-| 3 | [Love for Love](https://open.spotify.com/track/20MgAM82oZsimk1Ra3ZtUQ) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Love for Love](https://open.spotify.com/album/7niKHHS5qhPITUoaykHyNN) | 2:14 |
-| 4 | [I see your eyes everywhere \- Remastered](https://open.spotify.com/track/0QARrDwdhLC0kcAUrJ5i1J) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [I see your eyes everywhere \(Remastered\)](https://open.spotify.com/album/6Is6XStZbO3OxwDLx5OYdG) | 2:56 |
-| 5 | [Moonrise Kingdom // Dear Sam](https://open.spotify.com/track/7qFz1zbtrm0GJt4jlRVxVl) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Softer In Time](https://open.spotify.com/album/68ytBMIfqUSELSGjNtBCcj) | 6:15 |
-| 6 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
-| 7 | [Grateful \- Live 2025](https://open.spotify.com/track/0Php5GKm77MHHSILbU1qZO) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [Live 2025](https://open.spotify.com/album/3qUcgoTrTxiMSMozG2q88m) | 2:30 |
+| 1 | [Grateful \- Live 2025](https://open.spotify.com/track/0Php5GKm77MHHSILbU1qZO) | [The Wanderer ](https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK) | [Live 2025](https://open.spotify.com/album/3qUcgoTrTxiMSMozG2q88m) | 2:30 |
+| 2 | [Insular](https://open.spotify.com/track/126ZlwrjTCZJlUqr9f65Bd) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Insular](https://open.spotify.com/album/1JafBWcHAurcWqEKi2UVRN) | 3:35 |
+| 3 | [april](https://open.spotify.com/track/7xba9o02EQR0YMrBOZ4d10) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [april](https://open.spotify.com/album/6qJIriPhREpx7cSdgGAtFL) | 2:21 |
+| 4 | [Love for Love](https://open.spotify.com/track/20MgAM82oZsimk1Ra3ZtUQ) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Love for Love](https://open.spotify.com/album/7niKHHS5qhPITUoaykHyNN) | 2:14 |
+| 5 | [I see your eyes everywhere \- Remastered](https://open.spotify.com/track/0QARrDwdhLC0kcAUrJ5i1J) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [I see your eyes everywhere \(Remastered\)](https://open.spotify.com/album/6Is6XStZbO3OxwDLx5OYdG) | 2:56 |
+| 6 | [Moonrise Kingdom // Dear Sam](https://open.spotify.com/track/7qFz1zbtrm0GJt4jlRVxVl) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Softer In Time](https://open.spotify.com/album/68ytBMIfqUSELSGjNtBCcj) | 6:15 |
+| 7 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
 | 8 | [Love The Way It Hurts](https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Love The Way It Hurts](https://open.spotify.com/album/6OqAYoh045njumidj7tobF) | 4:20 |
 | 9 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 |
 | 10 | [when you run out of tears](https://open.spotify.com/track/0mqGTx9EAX8NbICCEXLVmx) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [when you run out of tears](https://open.spotify.com/album/1UR92hqjvStFcVmbZYk9be) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Standing On The Edge \- Acoustic](https://open.spotify.com/track/3jgdUDYQC7JrENjQ5lWzdB) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Standing On The Edge \(Acoustic\)](https://open.spotify.com/album/4H0brVQx6svIimL2T368KW) | 4:07 |
 | 100 | [Heavy](https://open.spotify.com/track/3D84aC9RWEI1S6SgnKMUBe) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Heavy](https://open.spotify.com/album/4BTcDzYMWrRP5V4LPffX9d) | 3:48 |
 
-Snapshot ID: `AAAAAF8NnZT2S8xpATKngZKA8fhGByl7`
+Snapshot ID: `AAAAAL9lpayP/JmNSSmejs2kIuXrr1Ar`

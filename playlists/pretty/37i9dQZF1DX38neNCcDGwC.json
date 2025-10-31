@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 61626,
+  "num_followers": 61633,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
@@ -131,8 +131,8 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 240333,
-      "name": "So Much Trouble In The World",
-      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
+      "duration_ms": 271000,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 298506,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 231773,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 298506,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -579,8 +579,8 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
+      "duration_ms": 240333,
+      "name": "So Much Trouble In The World",
+      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w"
     }
   ],
   "unique_name": "Legendary Labels: Tuff Gong",

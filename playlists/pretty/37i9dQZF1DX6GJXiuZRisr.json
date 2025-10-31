@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1604104,
+  "num_followers": 1604143,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,26 @@
     {
       "added_at": "2025-10-24 04:00:14",
       "album": {
+        "name": "Super Powers",
+        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Super Powers",
+      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
+    },
+    {
+      "added_at": "2025-10-24 04:00:14",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 191076,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
-    },
-    {
-      "added_at": "2025-10-24 04:00:14",
-      "album": {
-        "name": "Super Powers",
-        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Super Powers",
-      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
     },
     {
       "added_at": "2025-10-24 04:00:14",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-10-24 04:00:14",
       "album": {
-        "name": "Blink",
-        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 314462,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
-    },
-    {
-      "added_at": "2025-10-24 04:00:14",
-      "album": {
         "name": "girl$ (Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 184477,
       "name": "girl$ - Layton Giordani Remix",
       "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
+    },
+    {
+      "added_at": "2025-10-24 04:00:14",
+      "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 314462,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
     },
     {
       "added_at": "2025-10-24 04:00:14",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-10-24 04:00:14",
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 305235,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+    },
+    {
+      "added_at": "2025-10-24 04:00:14",
+      "album": {
         "name": "Live My Life",
         "url": "https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 241920,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs"
-    },
-    {
-      "added_at": "2025-10-24 04:00:14",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 305235,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
     },
     {
       "added_at": "2025-10-24 04:00:14",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-10-24 04:00:14",
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
+    },
+    {
+      "added_at": "2025-10-24 04:00:14",
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/20PzigIv4lOEZIwjxmr2eF"
       },
@@ -1687,38 +1703,26 @@
     {
       "added_at": "2025-10-24 04:00:14",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+        "name": "Burning (Carry You Home)",
+        "url": "https://open.spotify.com/album/2KUDNUsOEO18XUwqDjV5QG"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
-    },
-    {
-      "added_at": "2025-10-24 04:00:14",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         },
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        },
+        {
+          "name": "Hallasen",
+          "url": "https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
+      "duration_ms": 183750,
+      "name": "Burning (Carry You Home)",
+      "url": "https://open.spotify.com/track/2kI63t8OaH7dB2R9n6dkGs"
     },
     {
       "added_at": "2025-10-24 04:00:14",
@@ -1739,6 +1743,26 @@
       "duration_ms": 203225,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+    },
+    {
+      "added_at": "2025-10-24 04:00:14",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
     },
     {
       "added_at": "2025-10-24 04:00:14",
@@ -1775,6 +1799,22 @@
     {
       "added_at": "2025-10-24 04:00:14",
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 337258,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN"
+    },
+    {
+      "added_at": "2025-10-24 04:00:14",
+      "album": {
         "name": "Start A Fire",
         "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
       },
@@ -1795,22 +1835,6 @@
     {
       "added_at": "2025-10-24 04:00:14",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1wZnDT6rUpSgPvrxpmfUA9"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 337258,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/461Usqeu4aQSrkm36xPvqN"
-    },
-    {
-      "added_at": "2025-10-24 04:00:14",
-      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
@@ -1827,30 +1851,6 @@
       "duration_ms": 191250,
       "name": "The Good Part",
       "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
-    },
-    {
-      "added_at": "2025-10-24 04:00:14",
-      "album": {
-        "name": "Burning (Carry You Home)",
-        "url": "https://open.spotify.com/album/2KUDNUsOEO18XUwqDjV5QG"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        },
-        {
-          "name": "Amero",
-          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
-        },
-        {
-          "name": "Hallasen",
-          "url": "https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Burning (Carry You Home)",
-      "url": "https://open.spotify.com/track/2kI63t8OaH7dB2R9n6dkGs"
     },
     {
       "added_at": "2025-10-24 04:00:14",

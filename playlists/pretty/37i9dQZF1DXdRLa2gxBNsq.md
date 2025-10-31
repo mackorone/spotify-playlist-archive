@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non servium
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,123 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,132 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 40 | [Quiero que sepas](https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Quiero que sepas](https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz) | 2:50 |
 | 41 | [Ja, Ja, Ja](https://open.spotify.com/track/0QVrkmPehChchi52biyo8w) | [The Meas](https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c) | [Buscándose la Vida](https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj) | 2:48 |
 | 42 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 |
-| 43 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
-| 44 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
+| 43 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
+| 44 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
 | 45 | [La Culpa Fue de la Ciudad \- Versión 2025](https://open.spotify.com/track/2ETlDdGyeyicTUVJD3ZNtW) | [Sonotones](https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU), [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [La Culpa Fue de la Ciudad \(Versión 2025\)](https://open.spotify.com/album/5XfrbP6MEmLa8mMQgjUGqr) | 3:28 |
 | 46 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
 | 47 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 74 | [Una y Nos Vamos \- Versión 2024](https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S), [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy), [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Una y Nos Vamos \(Versión 2024\)](https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK) | 3:40 |
 | 75 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
 | 76 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
-| 77 | [Camino por las Calles](https://open.spotify.com/track/0NmsHoexCCAUxeQ2HtS0dO) | [Espasmódicos](https://open.spotify.com/artist/0DkaMx7gQxsi5Lt6sZwX0l) | [Canciones Olvidadas](https://open.spotify.com/album/1yudE4YRDDXux4L0NOlZtn) | 3:04 |
-| 78 | [Las 13:12](https://open.spotify.com/track/5O6D1ZUqffHMLgzlQsVbJC) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [...Y Una Mierda](https://open.spotify.com/album/7HstxEug5UmMcjngQLblJj) | 2:37 |
+| 77 | [Las 13:12](https://open.spotify.com/track/5O6D1ZUqffHMLgzlQsVbJC) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [...Y Una Mierda](https://open.spotify.com/album/7HstxEug5UmMcjngQLblJj) | 2:37 |
+| 78 | [Camino por las Calles](https://open.spotify.com/track/0NmsHoexCCAUxeQ2HtS0dO) | [Espasmódicos](https://open.spotify.com/artist/0DkaMx7gQxsi5Lt6sZwX0l) | [Canciones Olvidadas](https://open.spotify.com/album/1yudE4YRDDXux4L0NOlZtn) | 3:04 |
 | 79 | [Canciones Para No Volver a Ver El Sol, Pt\. 1](https://open.spotify.com/track/2xf2vYKkVDBBRGQS7pcaZR) | [NUBE NARANJA](https://open.spotify.com/artist/3NnkwzpBaHdvWQmCBhrOmi) | [Canciones Para No Volver a Ver El Sol](https://open.spotify.com/album/6aE1phcKcOpCSwVQwgKq3C) | 3:00 |
 | 80 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
 | 81 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |

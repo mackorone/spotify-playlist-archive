@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bais K-Pop boy group? (Cover: ATEEZ) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bais K-Pop boy group? (Cover: 82MAJOR) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -9864,7 +9864,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 246000,
       "name": "RAINBOW",
       "url": "https://open.spotify.com/track/4UwbCuskjhRitFPT7EQAtV"
@@ -12489,6 +12489,24 @@
     },
     {
       "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/6oTUrlTjn5yEohEoQrXVTf"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "TROPHY",
+      "url": "https://open.spotify.com/track/47Mu43nMCpr04YGL1AlLEp"
+    },
+    {
+      "album": {
         "name": "Target: ME",
         "url": "https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy"
       },
@@ -13304,7 +13322,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 226000,
       "name": "What's wrong?",
       "url": "https://open.spotify.com/track/1NbVPLRPIqXL11QR61HBe9"
@@ -13326,6 +13344,24 @@
       "duration_ms": 211400,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/2wzhZgSDjWgwB618a6eeua"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3TwaF8hv5hgstxZTL0RGXK"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Where's Your Love",
+      "url": "https://open.spotify.com/track/1xyniN2EfQDYVTVnts12mG"
     },
     {
       "album": {
@@ -13592,7 +13628,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "WONDERING",
       "url": "https://open.spotify.com/track/0SXgiQa0SLrGSFvO2t4cf1"
@@ -13610,7 +13646,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 168000,
       "name": "WONDERING",
       "url": "https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01"

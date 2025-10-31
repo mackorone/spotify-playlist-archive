@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,271 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,273 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 26 | [Mensagem](https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Mensagem](https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26) | 2:19 |
 | 27 | [AIRBNB](https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [AIRBNB](https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x) | 2:26 |
 | 28 | [4 da Manhã \- Acústico](https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Acústico: Sem Perceber + 4 da Manhã](https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR) | 3:28 |
-| 29 | [Modo Foco \(Studio Rec \#4\)](https://open.spotify.com/track/1HtbqR0nEMB2tHvGweP8Nl) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Zekk.](https://open.spotify.com/artist/1AmSDP1BlvqduXSxAJc06J) | [Modo Foco \(Studio Rec \#4\)](https://open.spotify.com/album/7EeTxr7ArueH6YrQsbG9xw) | 2:59 |
-| 30 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 |
+| 29 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 |
+| 30 | [Modo Foco \(Studio Rec \#4\)](https://open.spotify.com/track/1HtbqR0nEMB2tHvGweP8Nl) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Zekk.](https://open.spotify.com/artist/1AmSDP1BlvqduXSxAJc06J) | [Modo Foco \(Studio Rec \#4\)](https://open.spotify.com/album/7EeTxr7ArueH6YrQsbG9xw) | 2:59 |
 | 31 | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9), [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Original MTK \#2 \- Se Você Vier](https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP) | 4:24 |
 | 32 | [Dias de Luta Dias de Glória](https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Dias de Luta Dias de Glória](https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8) | 2:17 |
 | 33 | [Comemorar?](https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Comemorar?](https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml) | 3:10 |

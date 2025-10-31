@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,451 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,456 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 45 | [Cuernú \- Remix](https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Galindo Again](https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Maicke Casiano](https://open.spotify.com/artist/1s1kprQ0YxAfGStUKtO3n7) | [Cuernú \(Remix\)](https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ) | 7:39 |
 | 46 | [Esta Vida Me Encanta Remix \(feat\. Smoky, MC Davo, T\-Killa, Don Aero, Tanke, Little el Crack, Big Metra, Santa RM, Zimple & DJ Maxo\)](https://open.spotify.com/track/4EMnuIxITWPhErDRfxQUuK) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv), [Tanke](https://open.spotify.com/artist/4IUiUtBRDlsoaOVtAMuTKp), [Little el Crack](https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm), [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [DJ Maxo](https://open.spotify.com/artist/1egxVNTkxulcLB6iBDwdV6) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 7:51 |
 | 47 | [Aparentan \(feat\. Adán Zapata\)](https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:10 |
-| 48 | [Morro Dolido](https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Morro Dolido](https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4) | 3:14 |
-| 49 | [Lo Que Antes Eramos](https://open.spotify.com/track/0W9CE8nRywgykCOnz8mVvE) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 3:36 |
+| 48 | [Lo Que Antes Eramos](https://open.spotify.com/track/0W9CE8nRywgykCOnz8mVvE) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 3:36 |
+| 49 | [Morro Dolido](https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Morro Dolido](https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4) | 3:14 |
 | 50 | [Andamos De Parranda](https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:41 |
 
-Snapshot ID: `aQAHgAAAAAAJkaHj+XZpDQaXpNQf9hWt`
+Snapshot ID: `aQFZAAAAAAAzL4h61GPlVFQ1kdkOmeHS`

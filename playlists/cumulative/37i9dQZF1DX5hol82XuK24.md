@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-417 songs - 1 day 4 hr 25 min
+418 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 | 2024-06-01 |  |
 | [DOORWAY](https://open.spotify.com/track/0GmGw3aqX1OLQdb88ECoe4) | [Black Dresses](https://open.spotify.com/artist/7FFwJQ58hAy7PMo4lUBW96) | [WASTEISOLATION](https://open.spotify.com/album/2Kov3GLXwADxba0BIAYzGl) | 1:38 | 2022-10-23 | 2022-11-01 |
 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 | 2023-07-05 |  |
+| [Drink Deep](https://open.spotify.com/track/21sDgrgghtQMdUGsCqGVXI) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:51 | 2025-10-27 |  |
 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 | 2023-11-03 | 2025-10-27 |
 | [Duffy's](https://open.spotify.com/track/4lcamfRMk5t5fC2OQ3QfXZ) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/7H0jxA1HMTBK1IbvqJEPuk) | 3:39 | 2023-03-22 | 2024-04-19 |
 | [Duffy's](https://open.spotify.com/track/74kjh8PAcrv7ZVaueHpgTf) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/6sD0awzvOB5aKTliTTQogU) | 3:39 | 2023-03-22 | 2023-04-30 |

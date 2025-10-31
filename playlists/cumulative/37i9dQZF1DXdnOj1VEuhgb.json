@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: UZI x Motive ",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: UZI x Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -62,6 +62,24 @@
       "duration_ms": 143283,
       "name": "0-100",
       "url": "https://open.spotify.com/track/1S3r7Z9aKiDFubJULUhQnM"
+    },
+    {
+      "album": {
+        "name": "1-1",
+        "url": "https://open.spotify.com/album/7fCc5sHnnosgHN8YL6XboB"
+      },
+      "artists": [
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150700,
+      "name": "1-1",
+      "url": "https://open.spotify.com/track/1vkWabTKPggqls4EtkPQ8X"
     },
     {
       "album": {
@@ -204,7 +222,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 118506,
       "name": "55-53",
       "url": "https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2"
@@ -789,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Ankara Freestyle",
+        "url": "https://open.spotify.com/album/1HEK6USIhNRcO5ejPV22Y1"
+      },
+      "artists": [
+        {
+          "name": "Bugy",
+          "url": "https://open.spotify.com/artist/1XxdJaLo6jXdFbgR1zKJ3x"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "Ankara Freestyle",
+      "url": "https://open.spotify.com/track/4AkXaERQEWpZbCzf67dTYZ"
+    },
+    {
+      "album": {
         "name": "Anlamak Zor",
         "url": "https://open.spotify.com/album/0uNDV20goA1DSqBV0fhaUw"
       },
@@ -942,7 +978,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 147888,
       "name": "AQUAFINA",
       "url": "https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3"
@@ -1606,10 +1642,28 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 187600,
       "name": "BACK IN BUSINESS",
       "url": "https://open.spotify.com/track/6HNVQfmmuHloobK46wgySz"
+    },
+    {
+      "album": {
+        "name": "BADMAN",
+        "url": "https://open.spotify.com/album/15LwldVlwVIy8bLugkG6rm"
+      },
+      "artists": [
+        {
+          "name": "D-azy",
+          "url": "https://open.spotify.com/artist/5xP5qr6ClCfcCk0kkp8OMJ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "BADMAN",
+      "url": "https://open.spotify.com/track/4nqRIk5tdkxHaBW2ohMnYR"
     },
     {
       "album": {
@@ -1672,7 +1726,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 123287,
       "name": "BALMAIN",
       "url": "https://open.spotify.com/track/05uQNxZ5VUPPIimHA2IG9b"
@@ -1880,6 +1934,24 @@
       "duration_ms": 141818,
       "name": "BBS",
       "url": "https://open.spotify.com/track/1VuCRbsBKkwjA50kwOQVvT"
+    },
+    {
+      "album": {
+        "name": "Beat Bar #2",
+        "url": "https://open.spotify.com/album/5n1dfhumSwNepQaOXm08Ls"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fuchs",
+          "url": "https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68571,
+      "name": "Beat Bar #2",
+      "url": "https://open.spotify.com/track/0ypjetQBKsAj9zebFnlQ6O"
     },
     {
       "album": {
@@ -2487,6 +2559,36 @@
     },
     {
       "album": {
+        "name": "BRAPAP II",
+        "url": "https://open.spotify.com/album/1vbFMbZJjCAAJeW7VmFi9v"
+      },
+      "artists": [
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        },
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141400,
+      "name": "BRAPAP II",
+      "url": "https://open.spotify.com/track/5etcvKg0jUs1vRVw1CqBqu"
+    },
+    {
+      "album": {
         "name": "Bridges",
         "url": "https://open.spotify.com/album/5H6tDCCQ2QK3OftBeWT0Ze"
       },
@@ -2560,6 +2662,32 @@
       "duration_ms": 146559,
       "name": "Bu D\u00fcnyada",
       "url": "https://open.spotify.com/track/3XCT2hlGuBT14XHx6zhybv"
+    },
+    {
+      "album": {
+        "name": "Bu Gece",
+        "url": "https://open.spotify.com/album/5uF78THwScntk1IyEXgepI"
+      },
+      "artists": [
+        {
+          "name": "Tefo",
+          "url": "https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low"
+        },
+        {
+          "name": "Seko",
+          "url": "https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh"
+        },
+        {
+          "name": "Ayaz Erdo\u011fan",
+          "url": "https://open.spotify.com/artist/2Y2hYlVGlZpTHAQ9UMaBCA"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "Bu Gece",
+      "url": "https://open.spotify.com/track/1aGSdvXlMkdpO4mCtyKsr3"
     },
     {
       "album": {
@@ -5438,7 +5566,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 168774,
       "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
       "url": "https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo"
@@ -6851,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "\u0130nci",
+        "url": "https://open.spotify.com/album/0pF4hVFVfEeOxMNuBFSyCC"
+      },
+      "artists": [
+        {
+          "name": "Taladro",
+          "url": "https://open.spotify.com/artist/2ShoGcsu8kekluGvbggGKQ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "\u0130nci",
+      "url": "https://open.spotify.com/track/2fh55Ky2uTM9zs1m3goOdV"
+    },
+    {
+      "album": {
         "name": "\u0130ntikam",
         "url": "https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p"
       },
@@ -7846,7 +7992,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 153600,
       "name": "ketojenik",
       "url": "https://open.spotify.com/track/58QSOYAIOBR6DTYwhLUEMh"
@@ -11069,6 +11215,28 @@
     },
     {
       "album": {
+        "name": "PILOT(MERSIN IDMAN YURDU)",
+        "url": "https://open.spotify.com/album/6luYwOf2agewcCdcR1bGSj"
+      },
+      "artists": [
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "PILOT(MERSIN IDMAN YURDU)",
+      "url": "https://open.spotify.com/track/1iySNgsaCIpLjaJLE87pcF"
+    },
+    {
+      "album": {
         "name": "PINGUI",
         "url": "https://open.spotify.com/album/13pw6ciJ5osIvs38U0pKo7"
       },
@@ -12009,6 +12177,28 @@
     },
     {
       "album": {
+        "name": "Sana Aferin",
+        "url": "https://open.spotify.com/album/7xmakTkoD4iLjvXAmoIQ7U"
+      },
+      "artists": [
+        {
+          "name": "La\u00e7in",
+          "url": "https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134062,
+      "name": "Sana Aferin",
+      "url": "https://open.spotify.com/track/6mcE7KwpVYwcCXQkVU4gPM"
+    },
+    {
+      "album": {
         "name": "Sana Anlatmak \u0130sterdim",
         "url": "https://open.spotify.com/album/2nNtkZTqA9kbcQp12WQF0T"
       },
@@ -12396,7 +12586,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
@@ -14402,7 +14592,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 147000,
       "name": "Y",
       "url": "https://open.spotify.com/track/4H8ns1mp3witrdJGLrJXR6"
@@ -15076,7 +15266,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 232215,
       "name": "Zehir - Motive Remix",
       "url": "https://open.spotify.com/track/2OCqhgRAssguuVopUMfGL8"

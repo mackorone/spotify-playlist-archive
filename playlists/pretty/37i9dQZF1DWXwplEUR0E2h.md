@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,302 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,317 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 | 15 | [CUANDO](https://open.spotify.com/track/64vKyzRjkcmTUntwsLxo0m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 3:06 |
 | 16 | [PORFA](https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [FERXXO \(VOL 1: M.O.R\)](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 3:52 |
 | 17 | [BB \(with Blessd\)](https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BB \(with Blessd\)](https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR) | 3:00 |
-| 18 | [Poesía Moderna Remix](https://open.spotify.com/track/3STgMfGV4RWs0nuSyQjtBf) | [elkno](https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Esteban Arias](https://open.spotify.com/artist/1Hy2tSSm1qpSy5dibXWaSR) | [Poesía Moderna Remix](https://open.spotify.com/album/0YyJiQ9e11qhG6fLwCsGS4) | 3:06 |
+| 18 | [Poesía Moderna \(Remix\)](https://open.spotify.com/track/3STgMfGV4RWs0nuSyQjtBf) | [elkno](https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Esteban Arias](https://open.spotify.com/artist/1Hy2tSSm1qpSy5dibXWaSR) | [Poesía Moderna \(Remix\)](https://open.spotify.com/album/0YyJiQ9e11qhG6fLwCsGS4) | 3:06 |
 | 19 | [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 |
 | 20 | [Zun Zun](https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:16 |
 | 21 | [Otra Vida](https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Otra Vida](https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1) | 2:33 |

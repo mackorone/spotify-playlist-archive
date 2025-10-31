@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-182 songs - 9 hr 41 min
+183 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [El Remanso](https://open.spotify.com/track/6yU5qgjYt71Q866xCCIXmk) | [Litoral mitá](https://open.spotify.com/artist/28NfOpqo5X92plpqxfxlYz) | [El Remanso](https://open.spotify.com/album/4uuATNDzXPRQliiiPkIjSl) | 2:33 | 2021-11-19 | 2025-06-06 |
 | [El Toro](https://open.spotify.com/track/61n7TIudKqHdaIZwCIS8IL) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 2:43 | 2021-11-19 |  |
 | [El Toro](https://open.spotify.com/track/6NDOsal4LAqelh43irEedg) | [Los Chaque\-Che](https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx), [Los Hermanos Aquino](https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs) | [Chamamé](https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi) | 2:20 | 2021-11-19 |  |
-| [El Tronar del Acordeón](https://open.spotify.com/track/0OlRmpbUKvqKch4gUw9Urj) | [Marito Ramirez y La Nueva Yunta](https://open.spotify.com/artist/4nPL8VxkgLWUkFgObncTRV) | [Más Chamameceros Que Nunca](https://open.spotify.com/album/3wY1MLgAnz9BZlxKTuWvvs) | 2:31 | 2021-11-19 |  |
+| [El Tronar del Acordeón](https://open.spotify.com/track/0OlRmpbUKvqKch4gUw9Urj) | [Marito Ramirez y La Nueva Yunta](https://open.spotify.com/artist/4nPL8VxkgLWUkFgObncTRV) | [Más Chamameceros Que Nunca](https://open.spotify.com/album/3wY1MLgAnz9BZlxKTuWvvs) | 2:31 | 2021-11-19 | 2025-10-31 |
 | [Enero](https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 3:17 | 2021-11-19 |  |
 | [Enganchados de Sobremesa: El toro / Jineteando en Tostado / El gatea´o](https://open.spotify.com/track/6YtQAPKwLVWOZFr6qGs0Lu) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Enganchados de Sobremesa: El toro / Jineteando en Tostado / El gatea´o](https://open.spotify.com/album/7kGHWnG2HGw1SRwVlfCW9U) | 3:57 | 2024-11-12 |  |
 | [Enganchados: Al Otro de la Tablada / Crece el Río / El Tapecito](https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6) | [Los Dioses del Chamamé](https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN) | [Con Alma y Corazón](https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ) | 5:39 | 2021-11-19 |  |
@@ -83,6 +83,7 @@
 | [Fuerte No Soy](https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Fuerte No Soy](https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J) | 3:28 | 2024-07-19 |  |
 | [Gastando Taco y Suela](https://open.spotify.com/track/1PLxI6MfKHbuGA4F6M0Ph4) | [Azul Carrizo La Dama Del Acordeón](https://open.spotify.com/artist/2DeJ9SnWMsoaImaAeXjmqt), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Gastando Taco y Suela](https://open.spotify.com/album/2QCMPsSHLHeK2NkgsWmuXO) | 2:58 | 2021-11-19 | 2024-08-17 |
 | [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 | 2021-11-19 |  |
+| [Germán Canoero / Mi caballo el satanás / La leyenda del carau / La cuadreras / Tirador sin flecos / Que voy a hacer con este amor / El violin de Becho / oh que lito Gonzalez / Mendigo Rey](https://open.spotify.com/track/7FbqmAyttj8Rl8TEgKKwpA) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Germán Canoero / Mi caballo el satanás / La leyenda del carau / La cuadreras / Tirador sin flecos / Que voy a hacer con este amor / El violin de Becho / oh que lito Gonzalez / Mendigo Rey](https://open.spotify.com/album/6Vt270adS7HNdybNnlfRmI) | 28:26 | 2025-03-31 |  |
 | [Granja San Antonio](https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ) | [Damasio Esquivel](https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:51 | 2021-11-19 |  |
 | [Guainita Posadeña](https://open.spotify.com/track/6rplTcstMbtUp4iRxOGgvT) | [Blasito Martínez Riera](https://open.spotify.com/artist/1frzWc2DBA3q5YDj9Eoe6f), [Los Hermanos Galarza](https://open.spotify.com/artist/26gtKLyvl6iWJHGrIvOdLc) | [El Salón De La Fama Del Chamamé](https://open.spotify.com/album/3B1iXO9wsx3qLUG3wBHmoZ) | 3:26 | 2021-11-19 | 2022-07-22 |
 | [Jamás Te Podré Olvidar](https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh) | [Rosendo y Ofelia](https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j) | [Los 20 Años de Rosendo y Ofelia](https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC) | 2:23 | 2021-11-19 |  |

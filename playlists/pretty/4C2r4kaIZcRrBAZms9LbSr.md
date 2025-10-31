@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4C2r4kaIZcRrBAZms9LbSr.md) - [plain]
 
 > The sounds that have currently got the Rough Trade Records team excited, including new releases and favourites from the archive\. Currently updated every Monday.
 
-[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 15,630 likes - 14 songs - 53 min 47 sec
+[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 15,631 likes - 14 songs - 53 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

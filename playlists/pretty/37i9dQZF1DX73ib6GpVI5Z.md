@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,962 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,972 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 47 | [アンパンマンが生まれた日](https://open.spotify.com/track/3ujT91WsfIiNxBzNbmYVfh) | [BGM](https://open.spotify.com/artist/6AGFv4KpkFPkgtH1Pxmu2K) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:05 |
 | 48 | [勇気りんりん ～クラシックバージョン～](https://open.spotify.com/track/4n9S0GumHoglG8w8eY0bGO) | [Czech Philharmonic Chamber Orchestra](https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M) | [それいけ！アンパンマン アンパンマンといっしょにクリスマス](https://open.spotify.com/album/1jRylg86J2D3rQVWtszRvv) | 3:31 |
 | 49 | [希望のハンカチ ～映画バージョン～](https://open.spotify.com/track/4yHA3zcJYbUmFl2S19OO8R) | [戸田恵子](https://open.spotify.com/artist/4z01LLFGSIcJNGTzLYhx0H), [大和田　りつこ](https://open.spotify.com/artist/3slm4bBTMsoNjTCgTtKX4o), [岡崎裕美](https://open.spotify.com/artist/2IfDvH22XPDsW8FLVpxDeN) | [それいけ！アンパンマン りんごぼうやと みんなの願い](https://open.spotify.com/album/7pEMj5zjRkByMjj7HKPfeY) | 3:43 |
-| 50 | [サンサンたいそう](https://open.spotify.com/track/1sctpYBPKRMBhzEHk55L97) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:14 |
+| 50 | [星にいのる \(2018サマーサンバ・バージョン\)](https://open.spotify.com/track/4GrpD8IX5W9hUiPWChVYZT) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [映画&テレビ30年記念商品「それいけ！アンパンマン　ムービーソングコレクション」](https://open.spotify.com/album/2YMkGQ6sJ8S4QOH5EpwTjZ) | 3:19 |
 
 Snapshot ID: `AAAAABXgswfDreGGKfMfRc+BgO87iRh3`

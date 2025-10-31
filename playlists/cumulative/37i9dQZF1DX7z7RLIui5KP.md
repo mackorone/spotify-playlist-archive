@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Proudly Kenyan gems made for the entire family\. Cover: Ochiko & Fathermoh
+> Proudly Kenyan gems made for the entire family\. Cover: Savara
 
-60 songs - 3 hr 25 min
+62 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All My Enemies Are Suffering](https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All My Enemies Are Suffering](https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg) | 3:14 | 2025-10-23 |  |
 | [Alright](https://open.spotify.com/track/3BZwc29o0ltzvS5f4JytVw) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Alright](https://open.spotify.com/album/7G38ts49BsJ26h2pmCHR5j) | 2:25 | 2025-10-23 |  |
 | [Anyango](https://open.spotify.com/track/0SE8y9q6WAsXagEir0NGZL) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Mbak Ndalo](https://open.spotify.com/album/2UKBLrYqHmrxgS5p3oWXGZ) | 5:53 | 2025-10-23 |  |
-| [Asali Mbichi](https://open.spotify.com/track/322gkQbDgQKstkJBCDIHo8) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Asali Mbichi](https://open.spotify.com/album/62onFHsinkH7RuIfFjkmfy) | 3:34 | 2025-10-23 |  |
+| [Asali Mbichi](https://open.spotify.com/track/322gkQbDgQKstkJBCDIHo8) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Asali Mbichi](https://open.spotify.com/album/62onFHsinkH7RuIfFjkmfy) | 3:34 | 2025-10-23 | 2025-10-31 |
 | [Assurance](https://open.spotify.com/track/0HsFZY1LLvBI20qMtjj9j9) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Assurance](https://open.spotify.com/album/0CxUqb2AxCQTJH3bOce04X) | 4:20 | 2025-10-23 |  |
 | [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 | 2025-10-23 |  |
 | [Bella](https://open.spotify.com/track/0bWWIJFEb2ISeN8Co41rUu) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Bella](https://open.spotify.com/album/2eGMuxWWgotUG05hPGvf5m) | 3:58 | 2025-10-23 |  |
@@ -38,11 +38,13 @@
 | [I Got You](https://open.spotify.com/track/1TidyHnfWZJ2GcDMESuYUt) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Got You](https://open.spotify.com/album/0WeoxAxwZklVIPYUGE0mRf) | 2:54 | 2025-10-23 |  |
 | [Ilomba](https://open.spotify.com/track/0CS0SYqgzGdq4rOO7pnW0y) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Ilomba](https://open.spotify.com/album/4kE7lbafVfIw6sE1jROXQK) | 5:23 | 2025-10-23 |  |
 | [Kautamu Flani](https://open.spotify.com/track/7w5pR36kqvcUgqkdEajIOk) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Kautamu Flani](https://open.spotify.com/album/6s29SD51M3n6A6nBoEPNgd) | 4:18 | 2025-10-23 |  |
+| [Ki Design](https://open.spotify.com/track/4rVn0FXqfPw9vVBuSOr4Kl) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Ki Design](https://open.spotify.com/album/4REL46srRVy0XDRipQs3OH) | 3:06 | 2025-10-30 |  |
 | [Kifo Cha Mende](https://open.spotify.com/track/31EmkEmJWwB39WWPyxg24i) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Mwanaa](https://open.spotify.com/artist/5pzU5EVVWksqPwGvuA2oDa), [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q) | [Kifo Cha Mende](https://open.spotify.com/album/3jhomvGKnRiP2DP8cPdEs4) | 2:58 | 2025-10-23 |  |
 | [Maandamano](https://open.spotify.com/track/5CJSHljfyklZDO7ffIxPs3) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Maandamano](https://open.spotify.com/album/5BfrA7yWHXf06hORAxtSGw) | 3:41 | 2025-10-23 |  |
 | [Mahaba](https://open.spotify.com/track/5pBsDpQQV1gdX7HP2R5CYk) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV) | [Mahaba](https://open.spotify.com/album/1NRsyuoEDeQqnuquKuMmtF) | 4:48 | 2025-10-23 |  |
-| [MAMA MILKA](https://open.spotify.com/track/7gQJRJatQFLSyXuSC4scUH) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH), [Jopee](https://open.spotify.com/artist/21ak7Cl93xzt3ehH6wYg9E) | [Mama Milka](https://open.spotify.com/album/3Wi0NdeDpEYOZrZljvTCLx) | 4:51 | 2025-10-23 |  |
+| [MAMA MILKA](https://open.spotify.com/track/7gQJRJatQFLSyXuSC4scUH) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH), [Jopee](https://open.spotify.com/artist/21ak7Cl93xzt3ehH6wYg9E) | [Mama Milka](https://open.spotify.com/album/3Wi0NdeDpEYOZrZljvTCLx) | 4:51 | 2025-10-23 | 2025-10-31 |
 | [Mangware](https://open.spotify.com/track/3aiwhTT14AcGxTAmw42GBm) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Mangware](https://open.spotify.com/album/2khrWO6bJ7SgSy7sL1oq43) | 3:43 | 2025-10-23 |  |
+| [Massage](https://open.spotify.com/track/21TYyo4SkqMcBMdGwRd2JE) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Massage](https://open.spotify.com/album/2WKXzYoy2LgVc0IKi1wwxR) | 3:01 | 2025-10-30 |  |
 | [MAYOO](https://open.spotify.com/track/0UGIdREkw9Xn2ZoO5V2YAs) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Mayoo](https://open.spotify.com/album/23lRRb60jedC86NHbLHWnp) | 2:42 | 2025-10-23 |  |
 | [MONEY OVER LOVE](https://open.spotify.com/track/1bRVuXgt09LS1QVUHO4MLT) | [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [MONEY OVER LOVE](https://open.spotify.com/album/1b91cls5Jm2s4naoWKtMKp) | 2:26 | 2025-10-23 |  |
 | [MR GOODTIMES](https://open.spotify.com/track/6mZECojs7YOHVhoTtEX2Ey) | [DCMTRS](https://open.spotify.com/artist/5p1MTNZoPDj1nXrYVA1xbM) | [Mr Goodtimes](https://open.spotify.com/album/1cAVm30Gksqq5wnuoqQhvw) | 3:19 | 2025-10-23 |  |

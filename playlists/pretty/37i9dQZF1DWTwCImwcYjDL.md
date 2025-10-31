@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,190 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,184 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [All My Life](https://open.spotify.com/track/2pTii4tBijcsczNsmeBcSY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/0dHxrUuzYnUMgkulehzveD) | 2:07 |
 | 60 | [Hole In The Head](https://open.spotify.com/track/2qnC2IG9IltDkasNgiU3VT) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Hole In The Head](https://open.spotify.com/album/6zaDn7V20ULipTcOewNT8u) | 2:52 |
 
-Snapshot ID: `AAAAAJakgKSyabBvVYmP/Et8LXgyMMyM`
+Snapshot ID: `AAAAAEGXUZEnA5lE6B9JPb4y6TAurkuv`

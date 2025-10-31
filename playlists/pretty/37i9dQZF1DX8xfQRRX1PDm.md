@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,306 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,739 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Kala Chashma](https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Amar Arshi](https://open.spotify.com/artist/3f7Qfkua3IcRpUFzUaUnrX), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Indeep Bakshi](https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ), [Amrik Singh](https://open.spotify.com/artist/1Sqacm1VMROsVrDOUwxS5G) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/110yeLSV0XY4Wtu7DnenNq) | 3:07 |
 | 75 | [Nadiyon Paar \(Let the Music Play Again\) \(From "Roohi"\)](https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Shamur](https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Nadiyon Paar \(Let the Music Play Again\) \[From "Roohi"\]](https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi) | 2:44 |
 
-Snapshot ID: `AAAAAJ54JHJEFeB7r07tOvUzANdCdnPb`
+Snapshot ID: `AAAAAH1FIuTHlhPzzhYOr+8bnhtA76u1`

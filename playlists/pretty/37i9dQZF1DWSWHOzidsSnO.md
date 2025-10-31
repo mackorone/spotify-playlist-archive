@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de ELENA ROSE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,481 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,168 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Carteras Chinas](https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Carteras Chinas](https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe) | 3:07 |
 | 2 | [Abecedario](https://open.spotify.com/track/6FJM755ucsEsB5MMTzMxR6) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Abecedario](https://open.spotify.com/album/764dtJDaxSNwH5bunCeGyD) | 3:12 |
 | 3 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 |
-| 4 | [Cómo Fue?](https://open.spotify.com/track/15Aul3u9ToI1iFuUZU9IMa) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Cómo Fue? \(with Greeicy\)](https://open.spotify.com/album/4HH1vAy9muN9ay1SZiogE2) | 3:45 |
+| 4 | [cómo fue?](https://open.spotify.com/track/15Aul3u9ToI1iFuUZU9IMa) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cómo fue? \(with Greeicy\)](https://open.spotify.com/album/4HH1vAy9muN9ay1SZiogE2) | 3:45 |
 | 5 | [Gitana](https://open.spotify.com/track/57vPlAo9jx3ZP2nTlEByO5) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm) | 3:27 |
 | 6 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
 | 7 | [Basta](https://open.spotify.com/track/0NsHKgVmhYtw87n5jjQmG0) | [Choco Orta](https://open.spotify.com/artist/6YeAusuLq8y63p2xDqGRpf) | [Sentimiento Y Sabor](https://open.spotify.com/album/2W9K9ZIsdfhlch9xSQkiHN) | 4:52 |

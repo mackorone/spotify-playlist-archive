@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 84947,
+  "num_followers": 84962,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAACGh5VJQ7fcrJafF8uBS5DV",
+  "snapshot_id": "aQFZAAAAAABDL80qk68AZ7uteV1fKJoh",
   "tracks": [
     {
       "added_at": null,
@@ -114,15 +114,11 @@
         {
           "name": "Architects",
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        },
-        {
-          "name": "Winston McCall",
-          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
         }
       ],
-      "duration_ms": 242356,
-      "name": "Impermanence",
-      "url": "https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI"
+      "duration_ms": 231161,
+      "name": "Black Lungs",
+      "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
     },
     {
       "added_at": null,
@@ -182,11 +178,15 @@
         {
           "name": "Architects",
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
         }
       ],
-      "duration_ms": 231161,
-      "name": "Black Lungs",
-      "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
+      "duration_ms": 242356,
+      "name": "Impermanence",
+      "url": "https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Henry Moodie
 
-341 songs - 18 hr 28 min
+342 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-07-31 |  |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-10 |  |
 | [LEAN ON MY BODY](https://open.spotify.com/track/1UjT0n2YNQHqk4yL86CWrS) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LEAN ON MY BODY](https://open.spotify.com/album/0jhD8ONMLsw0NWEq9TIg3p) | 3:25 | 2025-03-20 | 2025-08-15 |
+| [Leather Weather](https://open.spotify.com/track/4a9axdtH9qFx0nMiKjwChd) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out! \(10th Anniversary Edition\)](https://open.spotify.com/album/4Vl7pjtdrmtt425KSO0Qbl) | 2:56 | 2025-10-29 |  |
 | [Leaveyourlove \(with Cosmos People, HAOTING from Sunset Rollercoaster\)](https://open.spotify.com/track/020BAtCst80k8KAexkC57S) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [HAOTING](https://open.spotify.com/artist/4QcyxiPSZK5SzPyjmqapHD) | [Leaveyourlove \(with Cosmos People, HAOTING from Sunset Rollercoaster\)](https://open.spotify.com/album/64pAPCCyyuuGvNMUT1lDKq) | 3:06 | 2024-11-28 | 2025-03-07 |
 | [Like The Snow](https://open.spotify.com/track/4F1rwRm16eFwF204StnORj) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [not so xmas xmas, Vol\. 2](https://open.spotify.com/album/1ORQcCEN0CliJswqTtW7m7) | 3:07 | 2024-12-19 | 2025-03-07 |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-06-21 | 2024-09-13 |

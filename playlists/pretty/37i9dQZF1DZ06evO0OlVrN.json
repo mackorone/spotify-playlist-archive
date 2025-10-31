@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7925,
+  "num_followers": 7924,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAACVpzqr0pe/PJ78K2MTQQRk",
+  "snapshot_id": "aQFZAAAAAACoQNw5bCxMJ6nQTvng/6WM",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Espejo",
+      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 Clasicas De Leyenda",
         "url": "https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 188040,
       "name": "Me Cai De La Nube",
       "url": "https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "El Espejo",
-      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 de Coleccion",
-        "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Devolucion",
-      "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country Roland Vs. Los Relampagos",
         "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197734,
       "name": "Pancha La Contrabandista",
       "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 de Coleccion",
+        "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Devolucion",
+      "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

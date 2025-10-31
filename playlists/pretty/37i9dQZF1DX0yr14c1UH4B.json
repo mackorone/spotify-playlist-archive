@@ -1,6 +1,6 @@
 {
   "description": "The ultimate songbook \u23f3 feat. Celeste",
-  "num_followers": 57288,
+  "num_followers": 57291,
   "original_name": "Common Thread",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,26 @@
     {
       "added_at": "2025-10-23 23:00:22",
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/049mrMrFaAmuZfZpUReoTP"
+      },
+      "artists": [
+        {
+          "name": "Tonia",
+          "url": "https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx"
+        },
+        {
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/61w5YWu30HuH0qRSsCdJ54"
+        }
+      ],
+      "duration_ms": 243404,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/0DQ1ufVX26xAlUv9wu70sO"
+    },
+    {
+      "added_at": "2025-10-23 23:00:22",
+      "album": {
         "name": "I OWE IT TO YOU",
         "url": "https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt"
       },
@@ -183,6 +203,22 @@
       "duration_ms": 190955,
       "name": "I OWE IT TO YOU",
       "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
+    },
+    {
+      "added_at": "2025-10-23 23:00:22",
+      "album": {
+        "name": "i don't wanna die today",
+        "url": "https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "duration_ms": 175929,
+      "name": "i don't wanna die today",
+      "url": "https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4"
     },
     {
       "added_at": "2025-10-23 23:00:22",

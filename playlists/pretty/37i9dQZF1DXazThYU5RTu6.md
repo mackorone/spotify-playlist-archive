@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 734 likes - 20 songs - 59 min 34 sec
+[Spotify](https://open.spotify.com/user/spotify) - 771 likes - 20 songs - 59 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain]
 | 19 | [I WANT](https://open.spotify.com/track/1Xnha5ko8j7yY8O3ATe0Vs) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I WANT](https://open.spotify.com/album/1BxRutqDtvMJfiovw76gxe) | 3:00 |
 | 20 | [FLU](https://open.spotify.com/track/4whWfgbw5hn7zOXnLTwux8) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/0YaLbDxHTeZLT3CpDunKuT) | 3:09 |
 
-Snapshot ID: `AAAAANKhFuFU00vQMkYWZp6wPxO+5F3I`
+Snapshot ID: `AAAAAFxG9Om/9hDiq3LRiyG3x77Edrf1`

@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Alex Ferreira en portada.",
-  "num_followers": 191915,
+  "num_followers": 191910,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Infierno Favorito",
+        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 214279,
+      "name": "Infierno Favorito",
+      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "Embeces",
         "url": "https://open.spotify.com/album/5wrbLnLCWcfkNGKwlT1P2k"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 197071,
       "name": "dejarte ir",
       "url": "https://open.spotify.com/track/7CYrCoNV7kv1QX2NUO38r4"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "Infierno Favorito",
-        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 214279,
-      "name": "Infierno Favorito",
-      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "La Peli",
-        "url": "https://open.spotify.com/album/1kYigrzcZBifp9q9TliUdv"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 189627,
-      "name": "La Peli",
-      "url": "https://open.spotify.com/track/4S9B5SAwJhR3mm2SIUitoq"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "palacio <3",
         "url": "https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I"
       },
@@ -759,18 +743,38 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
-        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
+        "name": "la mala racha",
+        "url": "https://open.spotify.com/album/0vVykKWkLEiGjJ1RpvUNBK"
       },
       "artists": [
         {
-          "name": "Pambo",
-          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
+          "name": "ni\u00f1o viejo",
+          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
+        },
+        {
+          "name": "Seb Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4EJ8UxTgitlv2YdMFnWRJC"
         }
       ],
-      "duration_ms": 212326,
-      "name": "Fondo",
-      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
+      "duration_ms": 188279,
+      "name": "la mala racha",
+      "url": "https://open.spotify.com/track/4Swzoi4CXARQwhhDU8kjcw"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "La Peli",
+        "url": "https://open.spotify.com/album/1kYigrzcZBifp9q9TliUdv"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 189627,
+      "name": "La Peli",
+      "url": "https://open.spotify.com/track/4S9B5SAwJhR3mm2SIUitoq"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -795,22 +799,18 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "la mala racha",
-        "url": "https://open.spotify.com/album/0vVykKWkLEiGjJ1RpvUNBK"
+        "name": "Lo Que Mi Coraz\u00f3n Desea Mis Ojos Lo Ven",
+        "url": "https://open.spotify.com/album/65wy6NAH6RvSyZi1yrSMAP"
       },
       "artists": [
         {
-          "name": "ni\u00f1o viejo",
-          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
-        },
-        {
-          "name": "Seb Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4EJ8UxTgitlv2YdMFnWRJC"
+          "name": "Pambo",
+          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
         }
       ],
-      "duration_ms": 188279,
-      "name": "la mala racha",
-      "url": "https://open.spotify.com/track/4Swzoi4CXARQwhhDU8kjcw"
+      "duration_ms": 212326,
+      "name": "Fondo",
+      "url": "https://open.spotify.com/track/3lV8JuCsLG52vRkoF3NFjK"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 185727,
-      "name": "Lo Mejor",
-      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Cuesti\u00f3n de Fe",
         "url": "https://open.spotify.com/album/4RwjMVmtIfqRkpUVkdKlZN"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
         "name": "Mantenme pendiente",
         "url": "https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 264658,
       "name": "Mantenme pendiente",
       "url": "https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/2OHUQeAUQzD7XJV4brIs1A"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163217,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/2mrgI05Xvxm8QG5RxFMHSC"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -959,6 +943,22 @@
       "duration_ms": 190000,
       "name": "Volver a Creer",
       "url": "https://open.spotify.com/track/3HrCUfC3oikCStUV7DeCGp"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/2OHUQeAUQzD7XJV4brIs1A"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163217,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/2mrgI05Xvxm8QG5RxFMHSC"
     },
     {
       "added_at": "2025-10-24 06:00:21",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-10-24 06:00:21",
       "album": {
-        "name": "par\u00eds",
-        "url": "https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "par\u00eds",
-      "url": "https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2"
-    },
-    {
-      "added_at": "2025-10-24 06:00:21",
-      "album": {
         "name": "Escrib\u00ed Esto para Ti",
         "url": "https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 180998,
       "name": "Ya Vali\u00f3",
       "url": "https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l"
+    },
+    {
+      "added_at": "2025-10-24 06:00:21",
+      "album": {
+        "name": "par\u00eds",
+        "url": "https://open.spotify.com/album/0xNZW2sxYhO8MgnA14DKxH"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "par\u00eds",
+      "url": "https://open.spotify.com/track/5aTctjEadq13DKQozJPXu2"
     },
     {
       "added_at": "2025-10-24 06:00:21",

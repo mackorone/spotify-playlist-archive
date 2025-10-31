@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 236377,
+  "num_followers": 236421,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAAB9crodZWU0oVRK96gve6/0",
+  "snapshot_id": "aQFZAAAAAAD+Fa0c67awGGhY+RWRn4ae",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bueninvento",
-        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Ser\u00eda Feliz",
-      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te solt\u00e9 la rienda",
         "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 207160,
       "name": "Te solt\u00e9 la rienda",
       "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bueninvento",
+        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Ser\u00eda Feliz",
+      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qomunidad",
+        "url": "https://open.spotify.com/album/46UM2myH9VM6Y2NKeWtBBG"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 231082,
+      "name": "El Para\u00edso",
+      "url": "https://open.spotify.com/track/6ep0QDcZlwNAxT5iLv40Ew"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tristeza de la Ciudad",
         "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 164925,
       "name": "Tristeza de la Ciudad",
       "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qomunidad",
-        "url": "https://open.spotify.com/album/46UM2myH9VM6Y2NKeWtBBG"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 231082,
-      "name": "El Para\u00edso",
-      "url": "https://open.spotify.com/track/6ep0QDcZlwNAxT5iLv40Ew"
     },
     {
       "added_at": null,

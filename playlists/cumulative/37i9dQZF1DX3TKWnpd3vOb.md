@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: De Saloon
 
-316 songs - 20 hr 2 min
+317 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Hacia Ti](https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Hacia Ti](https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2) | 3:45 | 2024-03-08 |  |
 | [Hacia una Nueva Dimensión](https://open.spotify.com/track/12jmlcbiaDefKxYcoZ69uc) | [Implos](https://open.spotify.com/artist/56YpnBaRqcv4nmiNmwV6k6) | [Hacia una Nueva Dimensión](https://open.spotify.com/album/1ozLu3pQzjBDO0WGdsDvke) | 4:58 | 2022-04-08 | 2022-07-19 |
 | [Hasta que el Agua al Río Brote](https://open.spotify.com/track/6YDIIC33vXJ3XtS4vbeLvT) | [Pelusa](https://open.spotify.com/artist/1uFuJCsLGA1nzL70bbPMzl) | [Hasta que el Agua al Río Brote](https://open.spotify.com/album/0WJaE3Sxl4dwLuL7GahTJL) | 2:51 | 2022-04-08 | 2023-03-03 |
-| [Hay fuego en Los Andes](https://open.spotify.com/track/23BhXyp9D4asVSn5DhvbHG) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay fuego en Los Andes](https://open.spotify.com/album/2x2LrD0ZlpRe20urxdPiFV) | 4:06 | 2022-04-08 |  |
+| [Hay fuego en Los Andes](https://open.spotify.com/track/23BhXyp9D4asVSn5DhvbHG) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay fuego en Los Andes](https://open.spotify.com/album/2x2LrD0ZlpRe20urxdPiFV) | 4:06 | 2022-04-08 | 2025-10-31 |
 | [Hay Fuego en Los Andes](https://open.spotify.com/track/7s18XNjnKPqcGSzKThyChu) | [Los Desaparecidos](https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N) | [Hay Fuego en Los Andes](https://open.spotify.com/album/0fb6c3y3Mg7HTk0OJYl6Ym) | 4:06 | 2023-04-28 | 2024-04-19 |
 | [He Barrido el Sol](https://open.spotify.com/track/4d4JNtg5fvLenZVXK3JJfT) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Grandes Exitos](https://open.spotify.com/album/6Nvv5Jrk3cg5BdplDxEsHq) | 3:44 | 2022-04-08 | 2022-12-17 |
 | [He barrido el sol \(Revuelta en vivo\)](https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta En Vivo](https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V) | 4:36 | 2025-04-11 |  |
@@ -277,6 +277,7 @@
 | [Tirate](https://open.spotify.com/track/5u6AzESv0MYzBE1ZBrY20V) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La Espada & la Pared](https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0) | 3:17 | 2022-04-08 | 2022-12-17 |
 | [Todo Cae](https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 4:22 | 2022-04-08 |  |
 | [Todo lo que sube](https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Todo lo que sube](https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE) | 5:15 | 2022-07-08 | 2023-03-03 |
+| [Tormentas y Tormentos](https://open.spotify.com/track/5ueVEmBnQxHrwTFuHdv1qP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:33 | 2025-10-31 |  |
 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 | 2024-05-24 |  |
 | [Traicionera / El Reo Ausente \- Desorden Público rinde Homenaje al Indio Pastor López](https://open.spotify.com/track/4DPRgzo3TmEOM6DZM11cZU) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB), [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Digital Charanga](https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu) | [Traicionera / El Reo Ausente \(Desorden Público rinde Homenaje al Indio Pastor López\)](https://open.spotify.com/album/0hFL6zBllV0W3f9HdvMgMz) | 2:51 | 2022-04-08 | 2023-03-03 |
 | [Tren a la Luna](https://open.spotify.com/track/6JCO6XWIAWAQcG2UG7pZAG) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 3:46 | 2022-04-08 | 2022-12-17 |

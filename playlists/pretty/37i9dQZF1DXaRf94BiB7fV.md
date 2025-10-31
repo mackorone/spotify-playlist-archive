@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Mitesh Bhatt
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,662 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,681 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 58 | [Panchi](https://open.spotify.com/track/13wgOFkDkphzSgX6mBnTZ3) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Panchi](https://open.spotify.com/album/46bDFZnl5PBCZ7RJdUOS8Q) | 1:55 |
 | 59 | [Kyun](https://open.spotify.com/track/4Aq0oOZZ7C1Brcski5QtZJ) | [Priyanshu Bawari](https://open.spotify.com/artist/3wWkuyeIZ3nTCPGK2tOVy0) | [Kyun](https://open.spotify.com/album/0lPdYEbGYaJGf3f8VM4dv2) | 2:16 |
 | 60 | [Kagaz Ke Makaan](https://open.spotify.com/track/5z31HkW3Ucf9LrlvXZeDxw) | [Ruhfikra](https://open.spotify.com/artist/0uMRWwTlxDDSK7MAQuKPvY) | [Kagaz Ke Makaan](https://open.spotify.com/album/6svxfUHzEyqJ0PDzD6ttCo) | 4:37 |
-| 61 | [adhoore humsafar](https://open.spotify.com/track/0PcFui48eZSBmTUWy7SigV) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO) | [adhoore humsafar](https://open.spotify.com/album/4mpuUytuzwpO2gYRQUPtVY) | 2:44 |
+| 61 | [adhoore humsafar](https://open.spotify.com/track/0PcFui48eZSBmTUWy7SigV) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Gup Shup](https://open.spotify.com/artist/7MaM4ydtuHdPZ9OyowpRzR) | [adhoore humsafar](https://open.spotify.com/album/4mpuUytuzwpO2gYRQUPtVY) | 2:44 |
 | 62 | [Beqaaboo](https://open.spotify.com/track/3YLexwYPRyl9ULHCYe9Pny) | [Rumii](https://open.spotify.com/artist/72mOygqSqfOoHLiiL9s7ig), [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0) | [Beqaaboo](https://open.spotify.com/album/7yui22Z5fNjmhjDmaNKcyu) | 3:04 |
 | 63 | [Sukoon](https://open.spotify.com/track/6aLMrkZvokci8lXe2SLOpl) | [Curry](https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5) | [Sukoon](https://open.spotify.com/album/56pqZrbhF90QlLgLJuAvUA) | 4:41 |
 | 64 | [Pakeezah](https://open.spotify.com/track/30Vgmw5zzNtDWn1Us5hRs9) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Surya Venkat](https://open.spotify.com/artist/0oS6cE82qxeBJ46rWAfFtR), [Mrudula Kadam](https://open.spotify.com/artist/5Fwp2tF5wzy0UTB0RtyIfz) | [Pakeezah](https://open.spotify.com/album/15PsbV2sIuMxGq4sEaf7bU) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Lekin \- The Mirror Song](https://open.spotify.com/track/6VzLYqB7V0MK4RoAUgjeLQ) | [Prabhakar Raj](https://open.spotify.com/artist/0J08yGBBZULgzhq1NLvUP3), [Nayan Joshi](https://open.spotify.com/artist/2sZX1XZk1UnTCLW3lsq4dW), [Kshitij Shrivastava](https://open.spotify.com/artist/2RcrH8kwGfviBdvhEbejyr) | [Lekin \- The Mirror Song](https://open.spotify.com/album/1YJ5VnGrzh3i0E7EiLzLct) | 3:29 |
 | 100 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
 
-Snapshot ID: `AAAAADXEigrqdB0IzekrROAO0wPIgKp3`
+Snapshot ID: `AAAAAItLIkvgxG2Rep77RWZ7Kvzd5juK`

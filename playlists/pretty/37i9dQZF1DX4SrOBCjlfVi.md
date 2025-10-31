@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Moneybagg Yo & G Herbo, Megan Thee Stallion, Mac Miller and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,584 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,663 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 13 | [Punk Rock](https://open.spotify.com/track/3VYpEMCOiDid6lT1O6hcMB) | [Frank Beats](https://open.spotify.com/artist/37iERFydd05SXci7v4Y88X), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Punk Rock](https://open.spotify.com/album/3QaorxqjtdVQ9eydBcUNo9) | 2:22 |
 | 14 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
 | 15 | [Speak No Englo](https://open.spotify.com/track/01jXh1qLhsSnSw5VAy4AgH) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Speak No Englo](https://open.spotify.com/album/0Z3XNih34ebWj3bsfkbu9D) | 1:42 |
-| 16 | [Roaches](https://open.spotify.com/track/69dcSnCesjUMepu9FmEmxB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/2vMpqIUldNe7m83WAUqIdC) | [SCARING THE HOES: DIRECTOR'S CUT](https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ) | 2:53 |
+| 16 | [Roaches](https://open.spotify.com/track/69dcSnCesjUMepu9FmEmxB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DIRECTOR'S CUT](https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ) | 2:53 |
 | 17 | [Coming Undone](https://open.spotify.com/track/6gx810Ay2uDXu9zDDJ0J8f) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Coming Undone](https://open.spotify.com/album/2blgbtADzleNsU419e6tXB) | 2:58 |
 | 18 | [PROUD OF ME](https://open.spotify.com/track/3r4t83JYfuC5PIz3ejDIyf) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 2:47 |
 | 19 | [Calypso Gene \(feat\. Silka & Cleo Reed\)](https://open.spotify.com/track/5BcOXyysw5W8bUdXQvxdso) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [Silka](https://open.spotify.com/artist/6aPchfng6G3oGVrjig4pDp), [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Calypso Gene \(feat\. Silka & Cleo Reed\)](https://open.spotify.com/album/3JCf4qFpLr1KoNdFRIIIRx) | 2:57 |

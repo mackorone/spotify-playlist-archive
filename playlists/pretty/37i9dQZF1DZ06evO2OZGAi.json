@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAACWRQc+iutRhoN0gEj2/qgB",
+  "snapshot_id": "aQFZAAAAAAA2eoYne6IolOpPWkR0HKOK",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Blues Ciego",
-      "url": "https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Cuatro Paredes",
         "url": "https://open.spotify.com/album/1tRPMMuI2unJBg6v8ZknOw"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 266020,
       "name": "Entre Cuatro Paredes",
       "url": "https://open.spotify.com/track/11n5j6ySQnOVNtFuVmIegM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Blues Ciego",
+      "url": "https://open.spotify.com/track/2STvoBqpEHcPqnMnVvRsG5"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Dilo por M\u00ed",
-      "url": "https://open.spotify.com/track/4T0jO89hVCnA2TNNnBUTUY"
+      "duration_ms": 138337,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h"
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 138337,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh"
+      "duration_ms": 250920,
+      "name": "Dilo por M\u00ed",
+      "url": "https://open.spotify.com/track/4T0jO89hVCnA2TNNnBUTUY"
     },
     {
       "added_at": null,

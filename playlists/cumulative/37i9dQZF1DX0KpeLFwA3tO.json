@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Angel Du$t",
+  "description": "The best new music from the wide world of punk. Cover: Witch Fever",
   "name": "All New Punk",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 142458,
       "name": "'99",
       "url": "https://open.spotify.com/track/0hUwizVEIAW60Te9NpvftP"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 170423,
       "name": "another turing test",
       "url": "https://open.spotify.com/track/2ofWcbzMn3BsCNgagwhXr8"
@@ -3048,6 +3048,24 @@
       "duration_ms": 240973,
       "name": "Approachable",
       "url": "https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm"
+    },
+    {
+      "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/3BEXTBoHyYYf4bk18b5aeJ"
+      },
+      "artists": [
+        {
+          "name": "Those Without",
+          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203305,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/6QcNMU1nz6qExqAdKegtuw"
     },
     {
       "album": {
@@ -3374,7 +3392,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 245546,
       "name": "asilo",
       "url": "https://open.spotify.com/track/3XtYPzne0F0D4ZMVg1us3V"
@@ -6254,6 +6272,24 @@
       "duration_ms": 177754,
       "name": "Born 2 Run",
       "url": "https://open.spotify.com/track/3DmYGRGrhQDlSRRJmbKF1W"
+    },
+    {
+      "album": {
+        "name": "Pogo Rodeo",
+        "url": "https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273372,
+      "name": "Born In the A.D's",
+      "url": "https://open.spotify.com/track/2HAYMQVH6T9haMNv5iqfkK"
     },
     {
       "album": {
@@ -9379,6 +9415,24 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t"
+      },
+      "artists": [
+        {
+          "name": "Sex Mask",
+          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141906,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ"
+    },
+    {
+      "album": {
         "name": "Continuing Growth",
         "url": "https://open.spotify.com/album/7Lcaez86rvpfhWqHUY9fxX"
       },
@@ -9780,7 +9834,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 191475,
       "name": "Common Sense",
       "url": "https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6"
@@ -10328,7 +10382,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 90860,
       "name": "cross my heart",
       "url": "https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs"
@@ -13006,6 +13060,24 @@
       "duration_ms": 172553,
       "name": "Doing It For The Country",
       "url": "https://open.spotify.com/track/09W1ATBTKRZvzRvUJuF26v"
+    },
+    {
+      "album": {
+        "name": "Doll",
+        "url": "https://open.spotify.com/album/56v9Jke0qfVaETgudk4GOL"
+      },
+      "artists": [
+        {
+          "name": "Tragic Flaw",
+          "url": "https://open.spotify.com/artist/2E5PdH4mkA5AS0qc5QmhJs"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236547,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/4VN9iGX073qLEaafSJ0LC4"
     },
     {
       "album": {
@@ -16171,6 +16243,24 @@
     },
     {
       "album": {
+        "name": "Flametide",
+        "url": "https://open.spotify.com/album/2leV5bHFpFeTy3o2uAfOkp"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Flametide",
+      "url": "https://open.spotify.com/track/20CtlludLNKWjXv0jqFhlD"
+    },
+    {
+      "album": {
         "name": "Flavour of Labour",
         "url": "https://open.spotify.com/album/46pjlwjSU4X6Uqo48Sgwdf"
       },
@@ -16776,7 +16866,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 156746,
       "name": "Free Ride",
       "url": "https://open.spotify.com/track/3WujNCDP1eOB2U7zpqgATK"
@@ -17860,6 +17950,24 @@
       "duration_ms": 224687,
       "name": "Ghost Brigade",
       "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
+    },
+    {
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/4yE9OASeUPx2T6kzvxumtG"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487522,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/0lSs7sW1o12v8v1OXlNHnd"
     },
     {
       "album": {
@@ -25249,6 +25357,24 @@
     },
     {
       "album": {
+        "name": "Killer On The Loose",
+        "url": "https://open.spotify.com/album/7dEIbZYvXI23g4yDZ3KrzK"
+      },
+      "artists": [
+        {
+          "name": "trxvis",
+          "url": "https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79616,
+      "name": "Killer On The Loose",
+      "url": "https://open.spotify.com/track/5HleTyX4oc3wUxmsKthO8B"
+    },
+    {
+      "album": {
         "name": "Killin' 'Em with Kindness",
         "url": "https://open.spotify.com/album/4jvMG3kN89BfEUp0NK2Par"
       },
@@ -28267,6 +28393,24 @@
     },
     {
       "album": {
+        "name": "Welcome To My Funeral (Cremation Edition)",
+        "url": "https://open.spotify.com/album/0iftrJrHrUYKWHyURZGNON"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202502,
+      "name": "M3NT4L SHR3KDOWN",
+      "url": "https://open.spotify.com/track/5y2rgtZlBY0zz3BXfJl5en"
+    },
+    {
+      "album": {
         "name": "Mad Punks",
         "url": "https://open.spotify.com/album/4nwScVt1NcTUnqToAbrasu"
       },
@@ -28858,6 +29002,24 @@
       "duration_ms": 162733,
       "name": "Mascot",
       "url": "https://open.spotify.com/track/2cxkTaDpJz0F2WRHVa8Ti1"
+    },
+    {
+      "album": {
+        "name": "Masochist",
+        "url": "https://open.spotify.com/album/21D82A1eVA4Geqrd4unUDv"
+      },
+      "artists": [
+        {
+          "name": "Minute After Midnight",
+          "url": "https://open.spotify.com/artist/1I2FT3hzoEYgxaIlCMkotA"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173232,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/1za53UOyClUJwtTSZHmPpc"
     },
     {
       "album": {
@@ -30446,7 +30608,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 398666,
       "name": "Mountains // Molehills",
       "url": "https://open.spotify.com/track/6A64dDKiQ7hCzucQrVX4o8"
@@ -31706,7 +31868,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 154702,
       "name": "No Kids",
       "url": "https://open.spotify.com/track/3a5CLsxWNSmqmSrhsEJDrS"
@@ -31868,7 +32030,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 199645,
       "name": "No One Was Driving The Car",
       "url": "https://open.spotify.com/track/4uRiAKVlF3WDlE8nCLGIlg"
@@ -36960,7 +37122,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 139683,
       "name": "Ready To Roll",
       "url": "https://open.spotify.com/track/2IdHDI5BTTUnH6HqS80Hou"
@@ -37901,6 +38063,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Gvllow",
+          "url": "https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Road to Nowhere",
+      "url": "https://open.spotify.com/track/4rQfjQn84RBXnVQxErrs3f"
+    },
+    {
+      "album": {
         "name": "Rob the Supermarket",
         "url": "https://open.spotify.com/album/5v6y4D4NWc0j7teG6ZJO9h"
       },
@@ -38294,7 +38474,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 166964,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/1fWSpQ21DfToGIBffdkd6A"
@@ -38692,7 +38872,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 230086,
       "name": "Say Anything (Else) - 2025",
       "url": "https://open.spotify.com/track/0GiuDINSWTSUBsNj6TiLwl"
@@ -39788,7 +39968,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 155032,
       "name": "Shed My Skin",
       "url": "https://open.spotify.com/track/1Le3Gb137pWg4zH5AdablW"
@@ -45341,6 +45521,24 @@
     },
     {
       "album": {
+        "name": "A Brief Respite",
+        "url": "https://open.spotify.com/album/2n3tglINnJnJg7Ld7jwJAB"
+      },
+      "artists": [
+        {
+          "name": "Cro\u00edthe",
+          "url": "https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265569,
+      "name": "The Diver",
+      "url": "https://open.spotify.com/track/4JJvGUQ2wW4yj0UgJ1R58n"
+    },
+    {
+      "album": {
         "name": "The Drug",
         "url": "https://open.spotify.com/album/2ELXTn0ujdATb2Bl8xqIZO"
       },
@@ -45793,6 +45991,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        },
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207706,
+      "name": "The Magic of the World",
+      "url": "https://open.spotify.com/track/5E0HFc9EgQTH91dOXxBccs"
+    },
+    {
+      "album": {
         "name": "The Magician",
         "url": "https://open.spotify.com/album/0YryZlz1eeG2c90rPKZtHx"
       },
@@ -45898,6 +46118,24 @@
       "duration_ms": 181720,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/5pHG1esQgfCqS4sbvlZ1GY"
+    },
+    {
+      "album": {
+        "name": "The Open Door",
+        "url": "https://open.spotify.com/album/1metBBd2EgtWGOlN5TxFX2"
+      },
+      "artists": [
+        {
+          "name": "Big Bill",
+          "url": "https://open.spotify.com/artist/2OHNP2i6axDsbpco3ZPL6L"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165869,
+      "name": "The Open Door",
+      "url": "https://open.spotify.com/track/62s8N2x6olC9DJraAdO1GR"
     },
     {
       "album": {
@@ -46234,7 +46472,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 239374,
       "name": "The Stickler",
       "url": "https://open.spotify.com/track/7fXi1imYLA7dc2QaA9sCIW"
@@ -47686,6 +47924,24 @@
       "duration_ms": 202285,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/3kMn8LV1QPBfZXZ0TTS0Pn"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/1pR7qxJIY5rGubSBQnDQdO"
     },
     {
       "album": {
@@ -50070,7 +50326,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-31",
       "duration_ms": 226994,
       "name": "We Mean It, Man!",
       "url": "https://open.spotify.com/track/0hXwXWzcEIXJjTlmbZ1dkN"
@@ -52572,6 +52828,24 @@
       "duration_ms": 97320,
       "name": "Your Misery",
       "url": "https://open.spotify.com/track/08Zdvv12TUEEkomxqj7l9m"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sunday Morning",
+          "url": "https://open.spotify.com/artist/2jctlQLPR5HkLkNZz4Zo4G"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189930,
+      "name": "Your Parallel",
+      "url": "https://open.spotify.com/track/4UGthXiwdJnT3xLCPfgq6N"
     },
     {
       "album": {

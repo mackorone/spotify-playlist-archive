@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24984,
+  "num_followers": 24985,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQAHgAAAAAB776LXrAC++NavGX6JzMek",
+  "snapshot_id": "aQFZAAAAAAD6QhKypMWwklkCO1SpF628",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs For Rolling Stones",
+        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 114266,
+      "name": "The Road To Gundagai - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 170506,
       "name": "Angel Of Goulburn Hill",
       "url": "https://open.spotify.com/track/5JaysecwBApfjwOKKWlzlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs For Rolling Stones",
-        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 114266,
-      "name": "The Road To Gundagai - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "I'm Married To My Bulldog Mack - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Slim Dusty Heritage Album",
         "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 463800,
       "name": "The Man From Snowy River",
       "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "I'm Married To My Bulldog Mack - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+        "name": "The Man Who Steadies The Lead",
+        "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 131093,
-      "name": "Cunnamulla Feller - Remaster 1995",
-      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
+      "duration_ms": 267973,
+      "name": "No Man's Land - 1992 - Remaster",
+      "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Steadies The Lead",
-        "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 267973,
-      "name": "No Man's Land - 1992 - Remaster",
-      "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
+      "duration_ms": 131093,
+      "name": "Cunnamulla Feller - Remaster 1995",
+      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The ultimate songbook ⏳ feat\. Celeste
 
-603 songs - 1 day 9 hr 48 min
+605 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 | 2025-08-01 |
 | [Hurting You](https://open.spotify.com/track/09G3T3EqlxcgLC7l0UN8qR) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Hurting You](https://open.spotify.com/album/0DYfS8tcAgH0JWp2BCZhDV) | 3:03 | 2025-06-05 | 2025-06-13 |
 | [I Am Enough](https://open.spotify.com/track/6eefU1OC375SvCfyyGdovo) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/4O0DW3SrSNcvmlcHLeUkRr) | 3:08 | 2025-05-22 | 2025-09-05 |
+| [i don't wanna die today](https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [i don't wanna die today](https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml) | 2:55 | 2025-10-23 |  |
 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-04-24 | 2025-05-30 |
 | [I Found \(with Freya Ridings\)](https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU), [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [I Found \(with Freya Ridings\)](https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c) | 4:34 | 2025-05-15 | 2025-06-27 |
 | [I hate goodbyes](https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [I hate goodbyes](https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb) | 3:49 | 2025-10-17 |  |
@@ -373,6 +374,7 @@
 | [Other Humans](https://open.spotify.com/track/0a59QShDwHsWkbPiWBthgP) | [Beattie](https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR) | [All My Innocence Has Been Ridden](https://open.spotify.com/album/6Nx3XNCusMFs3NLZMn3WpN) | 3:10 | 2025-05-09 | 2025-07-18 |
 | [Over and Over](https://open.spotify.com/track/6vnPpO4fF6FvjGysp7yWNh) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Over and Over](https://open.spotify.com/album/31TTw2uKYx1sfvXTZe3WvJ) | 3:14 | 2025-03-14 | 2025-04-11 |
 | [Over it Now](https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo) | [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [Over it Now](https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8) | 3:23 | 2025-08-22 | 2025-10-24 |
+| [Paris](https://open.spotify.com/track/0DQ1ufVX26xAlUv9wu70sO) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx), [Zander](https://open.spotify.com/artist/61w5YWu30HuH0qRSsCdJ54) | [Paris](https://open.spotify.com/album/049mrMrFaAmuZfZpUReoTP) | 4:03 | 2025-10-23 |  |
 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2024-08-16 | 2025-03-21 |
 | [People Help the People](https://open.spotify.com/track/0ia0JAsndEIZ268L3phuUa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 4:16 | 2024-05-31 | 2024-07-27 |
 | [People, Places and Things](https://open.spotify.com/track/0I34I6v9Va1L4cLFaUc8we) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [People, Places and Things](https://open.spotify.com/album/59t5ZqnKCDq2kD6T7SL3zp) | 3:24 | 2025-06-12 | 2025-08-29 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs">Mark Ronson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-99 songs - 5 hr 58 min
+100 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Crack In the Pearl \(feat\. Andrew Wyatt\)](https://open.spotify.com/track/523MOh0wR5AN3YUMADvPtz) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 2:25 | 2024-01-29 |  |
 | [Crack In the Pearl, Pt\. II \(feat\. Stevie Wonder & Jeff Bhasker\)](https://open.spotify.com/track/3LvmU7SNQIakTe4lxiNNvR) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Jeff Bhasker](https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 2:16 | 2024-01-29 |  |
 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 | 2024-01-29 |  |
-| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2024-01-29 |  |
+| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2024-01-29 | 2025-10-31 |
+| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/34HBOYDrjcLDcqgawRUhfE) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism Tour \- Perú](https://open.spotify.com/album/01WpsXUaBvuwGSTFFJdoN8) | 2:56 | 2025-10-30 |  |
 | [Dancin' In Circles](https://open.spotify.com/track/0lqcnnclUdVbPPboOldEPp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:27 | 2024-01-29 |  |
 | [Dazed](https://open.spotify.com/track/7IEnm0zgcJYEjdAT9MDJcS) | [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Arthur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5znfgOFlcJhAnbYUZNc5Id) | 3:53 | 2025-01-09 | 2025-04-12 |
 | [Diamond Heart](https://open.spotify.com/track/45CPhDilfgK14IE7LbNvPh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:30 | 2024-01-29 |  |

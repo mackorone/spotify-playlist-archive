@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> We introduce new and exciting artists\. New RADAR BNLX\-artist: <a href="spotify:artist:67Hs92fNnRAgFBfL6EePwb">Aaron Blommaert</a>
+> We introduce new and exciting artists\. New RADAR BNLX\-artist: <a href="spotify:artist:7bfwKXhmR1JF1PiBzaxY2b">néomí</a>
 
-221 songs - 11 hr 51 min
+222 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-06 | 2023-05-10 |
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2022-08-25 | 2023-06-24 |
 | [Another year like that and we'd all be dead \- Stripped](https://open.spotify.com/track/3opGpYcaarSepS5e9Qq05g) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Another year like that and we'd all be dead \(stripped\)](https://open.spotify.com/album/1Ft7nREIGt0NIX7h7fW6Ef) | 3:37 | 2021-12-10 | 2022-10-18 |
+| [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [](https://open.spotify.com/album/null) | 3:15 | 2025-10-30 |  |
 | [Bagage](https://open.spotify.com/track/2AsHeHGOkCk9rEOz04j6Nq) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/6jCeJrk6lDb8IcT1nfDB4e) | 3:01 | 2022-12-09 | 2023-10-06 |
 | [Be Yours](https://open.spotify.com/track/1OcYyWuUfXPgSCmx5xykTc) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:15 | 2024-04-10 | 2024-10-04 |
 | [Beef Met Mezelf](https://open.spotify.com/track/6XRENEEHLT8cE15VkccJZW) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [Beef Met Mezelf](https://open.spotify.com/album/5a8T2MTqMj9HVPdTqjW36y) | 3:20 | 2022-11-03 |  |
@@ -206,7 +207,7 @@
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-02-03 | 2023-04-07 |
 | [Therapie](https://open.spotify.com/track/01vJrmmK189tfubjoU0jOw) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 3:01 | 2023-04-05 | 2024-04-11 |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-10-17 | 2023-07-21 |
-| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 |  |
+| [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 | 2025-07-03 | 2025-10-31 |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-12-10 | 2022-06-17 |
 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 | 2021-12-10 | 2022-10-18 |
 | [Vlieg Hoog](https://open.spotify.com/track/42kJZkC1MFlarkImGzLk7r) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:41 | 2023-09-14 | 2024-01-19 |
