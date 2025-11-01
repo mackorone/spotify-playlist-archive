@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ヒグチアイ \*👉 <a href="https://spice.eplus.jp/articles/341706">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,145 likes - 85 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,197 likes - 85 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 48 | [青空とオスカー・ピーターソン](https://open.spotify.com/track/2XKImXzaH6REuGS6Q1wfK6) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [青空とオスカー・ピーターソン](https://open.spotify.com/album/18Ff9vL7Sf82d24fgmX5ty) | 4:28 |
 | 49 | [いみをなくして](https://open.spotify.com/track/6WKFNrrrnGZShQBgcs0ZPc) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [いみをなくして](https://open.spotify.com/album/2G7lZLUYWhIPAbALcvwsDw) | 4:24 |
 | 50 | [our days](https://open.spotify.com/track/0QP8LxYFalsGWySNMTvZ2V) | [森田 美勇人](https://open.spotify.com/artist/4nvioAHLRMJQ5N9NGmROVQ) | [29](https://open.spotify.com/album/3a6tiBGobymTk5TiKBaKFv) | 4:07 |
-| 51 | [ジレンマ](https://open.spotify.com/track/6XyLt6RO5lQXoIn3XAtie2) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Seein' Your Ghost](https://open.spotify.com/album/04XIQYcGVoEtwONIjV9DBd) | 2:44 |
+| 51 | [ジレンマ](https://open.spotify.com/track/6XyLt6RO5lQXoIn3XAtie2) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Seein' Your Ghost](https://open.spotify.com/album/04XIQYcGVoEtwONIjV9DBd) | 2:44 |
 | 52 | [トロイ](https://open.spotify.com/track/0ZxluYxnjFomtA5xQq6kpc) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [トロイ](https://open.spotify.com/album/5O9zrO8mS1S1IAVSX58DbT) | 3:58 |
 | 53 | [heart wave](https://open.spotify.com/track/0iY1kOwqZZLIfevuBvHmUF) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [heart wave](https://open.spotify.com/album/40ggoM98u8mNF8TBbDzG2s) | 4:14 |
 | 54 | [火鳥](https://open.spotify.com/track/7HoVsou2F7LSCT0z0jwIvT) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [火鳥](https://open.spotify.com/album/1ydzkAz6TZQGkrGLFCoFsf) | 3:07 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [meteor \- in chamber](https://open.spotify.com/track/2VCJwGlyM2pQShdKoGxrzX) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [\(in chamber\)Ⅰ](https://open.spotify.com/album/1e9CYpqz2gnoIng799ERhf) | 5:37 |
 | 79 | [弦楽四重奏のための古風な舞曲『あなたとの旅』 \- Live at Kyoto Art Center, 2025](https://open.spotify.com/track/4obdNkr9KxjwWYTPAI2UAA) | [Shigeru Kishida](https://open.spotify.com/artist/62TpalmxXUjLKyxJUgZt6W), [Style KYOTO管弦楽団弦楽四重奏](https://open.spotify.com/artist/6tMPOV7GefGQ0T6e5ter3R) | [弦楽四重奏のための古風な舞曲『あなたとの旅』 \(Live at Kyoto Art Center, 2025\)](https://open.spotify.com/album/3ofLudKWgqTGdjB92T7Pbv) | 5:26 |
 | 80 | [バイブス県立グルーヴ高校校歌](https://open.spotify.com/track/7yQzVppjOrL45GSDy0Vyr7) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [バイブス県立グルーヴ高校校歌](https://open.spotify.com/album/6NEAqUYZZhNgk8Q5PKBxJE) | 2:36 |
-| 81 | [I have a KAWAII](https://open.spotify.com/track/7lwR5TMdQeVN9oRkpz66DS) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [DJ Hello kitty](https://open.spotify.com/artist/0AgRv2AqiwgvOz6eRNnYES) | [Tottemo Release 80.8 \(03\)](https://open.spotify.com/album/5OOFm1Lz0tMIqi6dHpNDey) | 2:15 |
+| 81 | [I have a "KAWAII FESTIVAL"](https://open.spotify.com/track/7lwR5TMdQeVN9oRkpz66DS) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [DJ Hello kitty](https://open.spotify.com/artist/0AgRv2AqiwgvOz6eRNnYES) | [Tottemo Release 80.8 \(03\)](https://open.spotify.com/album/5OOFm1Lz0tMIqi6dHpNDey) | 2:15 |
 | 82 | [わんでもニウム '87](https://open.spotify.com/track/3VlgleQUVZNjtYNmk9vrJx) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [わんでもニウム '87](https://open.spotify.com/album/3dsP0UjPuCmGCE6hIFvgJG) | 2:46 |
 | 83 | [ハエ記念日](https://open.spotify.com/track/2CPrzCiaCU6FoZCq1MfjFa) | [長谷川カオナシ](https://open.spotify.com/artist/5pChv50yiQeFYJa5QLfdNM) | [ハエ記念日](https://open.spotify.com/album/0R3yWaCpy6wwXWO6UFuPAb) | 3:34 |
 | 84 | [失敗しないメンヘラの育て方](https://open.spotify.com/track/4wx9Bsd1s8pJZvzrH6gEo9) | [平手友梨奈](https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k) | [失敗しないメンヘラの育て方](https://open.spotify.com/album/1O4O6tcKNxISmU1pPg3LCW) | 4:19 |

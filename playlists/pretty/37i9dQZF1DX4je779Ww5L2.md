@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,924 likes - 77 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,913 likes - 77 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 42 | [No One Listens Anymore \(acoustic\)](https://open.spotify.com/track/0TV1pKSGkRLO8pmbmx9E2k) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [No One Listens Anymore \(acoustic\)](https://open.spotify.com/album/5Os6AY420xj5jC0Y68YNhl) | 3:11 |
 | 43 | [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 |
 | 44 | [Birds Of Paradise](https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj) | [Hydrogen Sea](https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH) | [Wolves EP](https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7) | 2:26 |
-| 45 | [Mother](https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Mother](https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy) | 3:14 |
-| 46 | [At The Party](https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [At The Party](https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm) | 3:35 |
+| 45 | [At The Party](https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [At The Party](https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm) | 3:35 |
+| 46 | [Mother](https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Mother](https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy) | 3:14 |
 | 47 | [Lonely Heart \- Acoustic Version](https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Lonely Heart \(Acoustic Version\)](https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq) | 4:09 |
 | 48 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 |
 | 49 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 |
-| 50 | [The End](https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 5:02 |
-| 51 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 |
+| 50 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 |
+| 51 | [The End](https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 5:02 |
 | 52 | [Try Try Try \- Acoustic Version](https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Try Try Try \(Acoustic Version\)](https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff) | 2:59 |
 | 53 | [You](https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Bleeding Colours](https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6) | 3:40 |
 | 54 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 69 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
 | 70 | [Don't Worry About The Rain](https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Don't Worry About The Rain](https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93) | 3:47 |
 | 71 | [Where's The Fun In That?](https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Where's The Fun In That?](https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg) | 2:28 |
-| 72 | [Realize \(Essence\)](https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [A Passage Between](https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL) | 4:12 |
-| 73 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
+| 72 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
+| 73 | [Realize \(Essence\)](https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [A Passage Between](https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL) | 4:12 |
 | 74 | [When Everything Was Right](https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [The Seasons: Winter](https://open.spotify.com/album/1Ky0DgdzRVJmFdYA4cuuVf) | 3:18 |
 | 75 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
 | 76 | [Growing Pains](https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Growing Pains](https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2) | 2:53 |

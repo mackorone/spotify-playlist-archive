@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Tomamos ruta desde el Noreste hasta el Viejo Oeste 🌵🤠\. Diferente Nivel & Indalfer Ochoa en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,103 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,097 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 89 | [NO SÉ QUÉ PASÓ](https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:29 |
 | 90 | [CUÍDALA](https://open.spotify.com/track/0KQ4DeYVWAoIDDGGxHEKQo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:43 |
 
-Snapshot ID: `AAAAADSDgIK0F4SaQ/P5wxmVeqZkNBlP`
+Snapshot ID: `AAAAABA/HZ0fOMwbXidlWX4iE3JtueIM`

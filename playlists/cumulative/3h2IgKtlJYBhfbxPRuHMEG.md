@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: SIPPY
 
-189 songs - 10 hr 34 min
+190 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Empress](https://open.spotify.com/track/7FOKSW5gRor6OiAFb5TtEi) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Empress](https://open.spotify.com/album/3DHXtr7PruK4VAgEYq6HZF) | 2:40 | 2023-12-01 | 2025-05-03 |
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-12-01 |  |
 | [Entropy \(feat\. fknsyd\)](https://open.spotify.com/track/5qzyfGzhUm5YoruJeQRtiI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [The End Of Genesys](https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu) | 3:04 | 2025-06-06 |  |
+| [Entwined](https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Entwined](https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B) | 3:40 | 2025-10-31 |  |
 | [Everywhere, Nowhere](https://open.spotify.com/track/6aVGa81S7Q1S24yuPbakEL) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Everywhere, Nowhere](https://open.spotify.com/album/7CDvBUVzkXMUFJN69ZasQ7) | 3:05 | 2024-03-01 | 2024-03-16 |
 | [Fall Away](https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 4:13 | 2025-03-07 |  |
 | [Falling Over You](https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Falling Over You](https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL) | 3:14 | 2023-12-01 |  |

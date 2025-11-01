@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5F6lyb9cFqB4nUBjCeerIa">Luiz de Assis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 59 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 59 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 27 | [Há Babilônia](https://open.spotify.com/track/6EDx91ASTLq4b5WBl8b52N) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:08 |
 | 28 | [Avante](https://open.spotify.com/track/5rJ3s9LiQjY7qQCrUSWlZ9) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:30 |
 | 29 | [A Nuvem Passará](https://open.spotify.com/track/4DJFyJsqbJcE1Kxy5cClWP) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:22 |
-| 30 | [Homens de Rapina](https://open.spotify.com/track/0qiDadSGKarBklcLv6rWl2) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:39 |
-| 31 | [Sadrak, Mesak e Abed\-Nego](https://open.spotify.com/track/4uNXFMfnDWWU5MWjObeCKj) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:20 |
+| 30 | [Sadrak, Mesak e Abed\-Nego](https://open.spotify.com/track/4uNXFMfnDWWU5MWjObeCKj) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:20 |
+| 31 | [Homens de Rapina](https://open.spotify.com/track/0qiDadSGKarBklcLv6rWl2) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:39 |
 | 32 | [Quilombagem](https://open.spotify.com/track/6F75rxfue833JfwpokjVkz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:40 |
 | 33 | [Zumbi Vive](https://open.spotify.com/track/4cDZVA6arbGWt3ARAGHiPZ) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:27 |
 | 34 | [Estrela](https://open.spotify.com/track/6Fa39cGOfU6amdyGH8ehGk) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:34 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 58 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `AcAR5gAAAACQMTIby+OiWZHFEF3G/QKH`
+Snapshot ID: `AcAXXgAAAACuRhCrDzc1sFJPKCxVbVQj`

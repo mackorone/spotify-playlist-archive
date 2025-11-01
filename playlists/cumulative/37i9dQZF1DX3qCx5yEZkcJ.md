@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-578 songs - 1 day 0 hr 2 min
+579 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 | 2019-05-26\* |  |
 | [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2024-10-18 |  |
 | [Midas Era](https://open.spotify.com/track/3REVoefyjqwG5Ihs9T9J2x) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The SP1200 Project: A Re\-Awakening](https://open.spotify.com/album/61pswtqA5qcrpmtWbb4LPc) | 2:49 | 2019-05-26\* | 2020-01-14 |
-| [Midnight Run \(feat\. Lex \(de Kalhex\)\)](https://open.spotify.com/track/4sn8q7k9mlmwudXxmHbwKp) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY), [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Midnight Run \(feat\. Lex \(de Kalhex\)\)](https://open.spotify.com/album/7mbryiUrIzyLEqTLfwjmTk) | 2:54 | 2025-09-18 |  |
+| [Midnight Run \(feat\. Lex \(de Kalhex\)\)](https://open.spotify.com/track/4sn8q7k9mlmwudXxmHbwKp) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY), [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [Midnight Run \(feat\. Lex \(de Kalhex\)\)](https://open.spotify.com/album/7mbryiUrIzyLEqTLfwjmTk) | 2:54 | 2025-09-18 | 2025-11-01 |
 | [MidStation](https://open.spotify.com/track/6KEOX0H9NMSK7qLH7a64Nc) | [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [Immerse](https://open.spotify.com/album/282HB39K4wb7LWyUw7H0H9) | 1:56 | 2019-06-14 | 2019-08-31 |
 | [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 | 2022-07-21 | 2025-10-16 |
 | [Mink](https://open.spotify.com/track/0UK6nfYjoNLMd7aPtpH2xR) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [slr](https://open.spotify.com/artist/3xJTfsHCkDcyYj5fj3jEC7) | [Patterns](https://open.spotify.com/album/358MkctF37zI4WhX52SkkO) | 1:31 | 2019-05-26\* | 2019-06-15 |
@@ -495,6 +495,7 @@
 | [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 | 2023-01-12 | 2025-06-16 |
 | [Sunday Afternoon](https://open.spotify.com/track/2zdlHufpRwuVnyTTolms55) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections](https://open.spotify.com/album/49duPTHJJzvzXch9KUQhtU) | 1:30 | 2019-05-26\* | 2020-06-19 |
 | [Sunny Side Up](https://open.spotify.com/track/0s2hmzyQlyqbNCfaLWJYGA) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Tales of 16 Pads](https://open.spotify.com/album/6BRSjqcNOOyuZ50x9ukHhQ) | 1:52 | 2019-05-26\* | 2020-01-14 |
+| [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2025-10-24 |  |
 | [sunset cruise](https://open.spotify.com/track/1Hg3AkNPFx7fBAbfhktzKy) | [aimless](https://open.spotify.com/artist/5dGqZk0lZFQB6MIus08k8e) | [Dreamscape](https://open.spotify.com/album/7wGmkGKrf6utupIkjMh4ms) | 1:34 | 2020-06-19 | 2022-06-21 |
 | [Supafly](https://open.spotify.com/track/1DwsEp8t2WNadeuG9KwDrS) | [Cardo Grandz](https://open.spotify.com/artist/35XjW3cHxFFqSKAvPr6hsN) | [Supafly](https://open.spotify.com/album/2lWW5JkIQgUTnoohN6HKTB) | 2:50 | 2019-05-26\* | 2019-08-31 |
 | [Superhero](https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Superhero](https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g) | 2:46 | 2021-05-08 | 2022-07-29 |

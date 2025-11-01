@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Witch Fever
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,685 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,816 likes - 125 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 12](https://open.spotify.com/track/1pR7qxJIY5rGubSBQnDQdO) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [I SEE IT](https://open.spotify.com/track/1pR7qxJIY5rGubSBQnDQdO) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [FEVEREATEN](https://open.spotify.com/album/0UvNdmhApnZZ4WCozEv6CP) | 3:51 |
 | 2 | [Born In the A.D's](https://open.spotify.com/track/2HAYMQVH6T9haMNv5iqfkK) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pogo Rodeo](https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL) | 4:33 |
-| 3 | [The Magic of the World](https://open.spotify.com/track/5E0HFc9EgQTH91dOXxBccs) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH), [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [](https://open.spotify.com/album/null) | 3:27 |
-| 4 | [Road to Nowhere](https://open.spotify.com/track/4rQfjQn84RBXnVQxErrs3f) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [](https://open.spotify.com/album/null) | 2:34 |
+| 3 | [The Magic of the World](https://open.spotify.com/track/5E0HFc9EgQTH91dOXxBccs) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH), [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [In the Earth Again](https://open.spotify.com/album/5KFvhZwejSylBaPatTFVBA) | 3:27 |
+| 4 | [Road to Nowhere](https://open.spotify.com/track/4rQfjQn84RBXnVQxErrs3f) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Laughing In The Dark](https://open.spotify.com/album/5hTAncaxXw9mUQMYHfU5HG) | 2:34 |
 | 5 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 |
 | 6 | [Flametide](https://open.spotify.com/track/20CtlludLNKWjXv0jqFhlD) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Flametide](https://open.spotify.com/album/2leV5bHFpFeTy3o2uAfOkp) | 3:08 |
 | 7 | [Ghost Town](https://open.spotify.com/track/0lSs7sW1o12v8v1OXlNHnd) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Ghost Town](https://open.spotify.com/album/4yE9OASeUPx2T6kzvxumtG) | 8:07 |
 | 8 | [Doll](https://open.spotify.com/track/4VN9iGX073qLEaafSJ0LC4) | [Tragic Flaw](https://open.spotify.com/artist/2E5PdH4mkA5AS0qc5QmhJs) | [Doll](https://open.spotify.com/album/56v9Jke0qfVaETgudk4GOL) | 3:56 |
-| 9 | [Your Parallel](https://open.spotify.com/track/4UGthXiwdJnT3xLCPfgq6N) | [Sunday Morning](https://open.spotify.com/artist/2jctlQLPR5HkLkNZz4Zo4G) | [](https://open.spotify.com/album/null) | 3:09 |
+| 9 | [Your Parallel](https://open.spotify.com/track/4UGthXiwdJnT3xLCPfgq6N) | [Sunday Morning](https://open.spotify.com/artist/2jctlQLPR5HkLkNZz4Zo4G) | [Eternal Grief](https://open.spotify.com/album/1GYFoSj31yFG1BYwR3RQUU) | 3:09 |
 | 10 | [The Diver](https://open.spotify.com/track/4JJvGUQ2wW4yj0UgJ1R58n) | [Croíthe](https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl) | [A Brief Respite](https://open.spotify.com/album/2n3tglINnJnJg7Ld7jwJAB) | 4:25 |
 | 11 | [The Open Door](https://open.spotify.com/track/62s8N2x6olC9DJraAdO1GR) | [Big Bill](https://open.spotify.com/artist/2OHNP2i6axDsbpco3ZPL6L) | [The Open Door](https://open.spotify.com/album/1metBBd2EgtWGOlN5TxFX2) | 2:45 |
 | 12 | [Killer On The Loose](https://open.spotify.com/track/5HleTyX4oc3wUxmsKthO8B) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [Killer On The Loose](https://open.spotify.com/album/7dEIbZYvXI23g4yDZ3KrzK) | 1:19 |

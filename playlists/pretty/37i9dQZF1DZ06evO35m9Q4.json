@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 165770,
+  "num_followers": 165783,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAABGGFN0eKtwiXAnW8MDAkA4",
+  "snapshot_id": "aQKqgAAAAACi+JMtdd+Tk2LBEkRZJi3a",
   "tracks": [
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+      "duration_ms": 228800,
+      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
       },
       "artists": [
         {
@@ -708,25 +724,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 335160,
-      "name": "I'm Leaving You (Commit A Crime) - Live",
-      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
+      "duration_ms": 188533,
+      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 335160,
+      "name": "I'm Leaving You (Commit A Crime) - Live",
+      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sky Is Crying",
         "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 348160,
       "name": "May I Have a Talk with You",
       "url": "https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
-      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
     },
     {
       "added_at": null,

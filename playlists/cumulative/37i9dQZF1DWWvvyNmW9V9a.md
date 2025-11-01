@@ -4,7 +4,7 @@
 
 > Madison forever an angel 💗💗
 
-2,393 songs - 5 day 4 hr 24 min
+2,395 songs - 5 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-08 | 2022-05-28 |
 | [Bitches These Days](https://open.spotify.com/track/1Ls9hQqVRPIIWnylIlHg48) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Bitches These Days](https://open.spotify.com/album/0B3EG9By8Xd8gTcNUYh0Wo) | 2:23 | 2022-04-01 | 2022-04-29 |
 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 | 2023-10-13 | 2023-11-18 |
+| [Bite My Tongue \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Bite My Tongue \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/681qv0Au08NIjJwh72luYf) | 3:38 | 2025-10-31 |  |
 | [bite the bullet](https://open.spotify.com/track/5CspzXgtgJH2pSpDxQWjgo) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [bite the bullet](https://open.spotify.com/album/5MjDGMrdbxHxERuwT79EQ2) | 2:20 | 2024-07-19 | 2024-08-24 |
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2024-07-26 | 2024-08-10 |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-10 |  |
@@ -1775,6 +1776,7 @@
 | [SEXY 4EVER \(feat\. Nile Rodgers\)](https://open.spotify.com/track/3Cg4NbE8zV595nlroqOkuc) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:45 | 2024-09-13 | 2025-01-25 |
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-11 | 2024-11-16 |
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-02-25 | 2022-03-18 |
+| [shady](https://open.spotify.com/track/3WCcDNT4MecCulBiLMBETx) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [shady](https://open.spotify.com/album/0Tq1fXfkBJHlGSCcC0E78p) | 2:08 | 2025-10-31 |  |
 | [Shakes](https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Shakes](https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR) | 3:14 | 2024-03-06 | 2024-04-06 |
 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 | 2023-07-26 | 2024-01-20 |
 | [Shapeshifter](https://open.spotify.com/track/1QtTacL4mYK42Y8nYkKY83) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Shapeshifter](https://open.spotify.com/album/3RYk2xBbRzb2ioIyH41mun) | 3:20 | 2025-09-12 | 2025-10-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. C.R.O  plantando cara.",
+  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Kendo Kaponi y Luar La L plantando cara.",
   "name": "FRONTEO",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 156600,
       "name": "31",
       "url": "https://open.spotify.com/track/3wVpRDw177Q92oJQWkqELs"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 210534,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/0baxKexRrQMY0rQtrgPY9I"
@@ -1257,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "ENDEMO",
+        "url": "https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2"
+      },
+      "artists": [
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356033,
+      "name": "ENDEMO",
+      "url": "https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg"
+    },
+    {
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1398,6 +1420,72 @@
       "duration_ms": 218785,
       "name": "Ferragamo",
       "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
+    },
+    {
+      "album": {
+        "name": "Foo Chow",
+        "url": "https://open.spotify.com/album/4coi82WXgrfAkmjIA4e7AS"
+      },
+      "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        },
+        {
+          "name": "Mackie",
+          "url": "https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl"
+        },
+        {
+          "name": "DEUXER",
+          "url": "https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j"
+        },
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+        },
+        {
+          "name": "Felo Blonck",
+          "url": "https://open.spotify.com/artist/7kJEoJXXCcAcziKADYgS0c"
+        },
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        },
+        {
+          "name": "Lil Papi",
+          "url": "https://open.spotify.com/artist/6wja6hbk2J8oHzrz6rdvaH"
+        },
+        {
+          "name": "Jozzu",
+          "url": "https://open.spotify.com/artist/0w82woTBdhc5VcxIAL7V3U"
+        },
+        {
+          "name": "Ro Milliones",
+          "url": "https://open.spotify.com/artist/7GMsuN0ar2FDUz0ZLZk517"
+        },
+        {
+          "name": "Hans Hs",
+          "url": "https://open.spotify.com/artist/37buK2h2sG6HAQbinELi1Q"
+        },
+        {
+          "name": "Brvvo",
+          "url": "https://open.spotify.com/artist/3JqTrGRqCsihN4XxG2MvZs"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531692,
+      "name": "Foo Chow",
+      "url": "https://open.spotify.com/track/24kTIhBGlyH7nyFMfYQD71"
     },
     {
       "album": {
@@ -1606,6 +1694,28 @@
       "duration_ms": 115764,
       "name": "GOUT",
       "url": "https://open.spotify.com/track/27hhDyCqi0cLgl5rmcXOXX"
+    },
+    {
+      "album": {
+        "name": "GR3MLIN",
+        "url": "https://open.spotify.com/album/4VM3AxCdA0tgisbCzXUFfK"
+      },
+      "artists": [
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Yecko",
+          "url": "https://open.spotify.com/artist/24TdpOJQgBxkfnwZKox9zU"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135510,
+      "name": "GR3ML1N",
+      "url": "https://open.spotify.com/track/7ojvmt4BkntljhSzv9Vu7H"
     },
     {
       "album": {
@@ -2256,6 +2366,24 @@
       "duration_ms": 240778,
       "name": "LA MAYBACH",
       "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
+    },
+    {
+      "album": {
+        "name": "Lamine Yamal",
+        "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163378,
+      "name": "Lamine Yamal",
+      "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
     },
     {
       "album": {
@@ -3022,7 +3150,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 270680,
       "name": "Nos Matamos",
       "url": "https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA"
@@ -3520,7 +3648,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 193764,
       "name": "RICH RAPPERS",
       "url": "https://open.spotify.com/track/3AqBgjuLAErzEWVnDWxNCS"
@@ -3809,6 +3937,28 @@
     },
     {
       "album": {
+        "name": "Sin Miedo A Morir",
+        "url": "https://open.spotify.com/album/75CJuyjKNiEev3E7miUTgR"
+      },
+      "artists": [
+        {
+          "name": "Chal 777",
+          "url": "https://open.spotify.com/artist/3mK7sIlefqaAHtpWNiCqyJ"
+        },
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171612,
+      "name": "Sin Miedo A Morir",
+      "url": "https://open.spotify.com/track/6qlg0jGN91NCvHMSfxcvJH"
+    },
+    {
+      "album": {
         "name": "SO HIGH",
         "url": "https://open.spotify.com/album/2fthPuOBEpenbqKMvCyIAw"
       },
@@ -3932,7 +4082,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 153500,
       "name": "Switch (with Bryant Myers & Hydro)",
       "url": "https://open.spotify.com/track/7G9xNjanJp0oX4KxBl57NW"

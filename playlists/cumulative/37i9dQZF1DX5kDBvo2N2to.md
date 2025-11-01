@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-441 songs - 23 hr 29 min
+441 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Fast Love](https://open.spotify.com/track/7GIfbg4hznwd4AV24SJruG) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Fast Love](https://open.spotify.com/album/2db6iLYLLKTIf6qO4AhwIV) | 2:40 | 2025-05-23 | 2025-07-20 |
 | [Favour](https://open.spotify.com/track/3SRWDnD7xu87pIacbfbR6K) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Favour](https://open.spotify.com/album/5fGJsFx72nAQNMHwDSzjVi) | 3:54 | 2025-08-21 | 2025-09-26 |
 | [Feel Free](https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Feel Free](https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf) | 3:02 | 2025-03-20 | 2025-08-22 |
+| [Fel](https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [YAKO](https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT) | 2:38 | 2025-10-30 |  |
 | [Fel för mig](https://open.spotify.com/track/69IWEWcfPv2rEsPfjPnvWj) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLODMÅNE](https://open.spotify.com/album/5X50ApLp9EDeyXYuUB4O2s) | 2:13 | 2025-10-30 |  |
 | [FEST](https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [FEST](https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3) | 2:53 | 2025-05-22 | 2025-08-24 |
 | [Fight](https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Fight](https://open.spotify.com/album/7btOxSw2OQWoUXzl8kwTar) | 2:53 | 2024-06-28 | 2024-08-16 |
@@ -411,7 +412,6 @@
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 |  |
 | [Tjejerna](https://open.spotify.com/track/0933FD1xHrm3KGjkz1cMl5) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Tjejerna](https://open.spotify.com/album/4v8as5ZYEZakizcgP0iVWW) | 3:05 | 2025-06-05 | 2025-06-13 |
 | [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 | 2025-10-03 |
-| [Track 1](https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 | 2025-09-12 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-05-09 |

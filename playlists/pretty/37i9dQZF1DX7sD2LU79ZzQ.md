@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Stevan Pasaribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,926 likes - 127 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,010 likes - 127 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beri Aku Kesempatan](https://open.spotify.com/track/3yb7fJpijqncdBtr3YDVAT) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Beri Aku Kesempatan](https://open.spotify.com/album/59cuhAWHlkyvRFAiuw3dXJ) | 3:02 |
-| 2 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
+| 2 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
 | 3 | [Segalanya Itu Kamu](https://open.spotify.com/track/3g8wJXQRebkJl1fMZzRqdj) | [David Bayu](https://open.spotify.com/artist/3jeN1xOULuoVF6284LDaQO) | [Segalanya Itu Kamu](https://open.spotify.com/album/6OX62qJnN2Nvr3BGulsZXC) | 3:55 |
 | 4 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/43Ed54bKecnKeq5MWhb2BC) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/3GikdpvnrtkUtfPbwzm9sy) | 3:50 |
 | 5 | [Laguku](https://open.spotify.com/track/5La9TqGSD55qIOCFaK0Af4) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Laguku](https://open.spotify.com/album/1CyH65NPBmMPKzX1myRUKq) | 4:41 |

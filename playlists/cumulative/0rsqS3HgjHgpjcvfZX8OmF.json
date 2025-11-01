@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best and latest rock and alternative. Cover:  The Trews",
+  "description": "The best and latest rock and alternative. Cover:  Arkells",
   "name": "New Rock Music",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 206506,
       "name": "Around",
       "url": "https://open.spotify.com/track/3OTOOWFmZpTcsvtCwjEppJ"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 221866,
       "name": "Love Or Pain",
       "url": "https://open.spotify.com/track/6cEH7JxQjfr1p6kt3PR2LV"
@@ -3146,6 +3146,24 @@
       "duration_ms": 183360,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2"
+    },
+    {
+      "album": {
+        "name": "Not To Make It About Me",
+        "url": "https://open.spotify.com/album/2bnSoaK3yiuewebpswmXFO"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "Not To Make It About Me",
+      "url": "https://open.spotify.com/track/3GNxAcmK33rzJDqtOEOunc"
     },
     {
       "album": {
@@ -3816,6 +3834,24 @@
       "duration_ms": 139432,
       "name": "Running",
       "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
+    },
+    {
+      "album": {
+        "name": "Running Errands",
+        "url": "https://open.spotify.com/album/3ijQEKT9D5s3NEKlcRLAVe"
+      },
+      "artists": [
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153717,
+      "name": "Running Errands (Yesterday)",
+      "url": "https://open.spotify.com/track/04KT9ex2dMKnE5FwB7szrh"
     },
     {
       "album": {
@@ -4732,7 +4768,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 177000,
       "name": "The Milkman",
       "url": "https://open.spotify.com/track/6N5s2LdgDrUNH0y7jfNXg7"
@@ -5255,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "What Good?",
+        "url": "https://open.spotify.com/album/37t024pDno6KveKjG2BvJM"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179252,
+      "name": "What Good?",
+      "url": "https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92"
+    },
+    {
+      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2"
       },
@@ -5458,6 +5512,24 @@
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
+    },
+    {
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239961,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/3ZIXPNe0ZsLdUXlIHGNAdx"
     },
     {
       "album": {

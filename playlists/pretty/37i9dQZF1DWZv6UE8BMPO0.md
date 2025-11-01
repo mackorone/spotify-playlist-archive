@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,886 likes - 84 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,921 likes - 84 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 83 | [The Sussex carol](https://open.spotify.com/track/2LVzktB1XdBMjfUIgvsWmq) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [The Sussex carol](https://open.spotify.com/album/6eEeB3BkpWLJaFU6wILJtb) | 1:12 |
 | 84 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
 
-Snapshot ID: `AAAAAKaSsRF7mntl/52euIOeY1w0ey4h`
+Snapshot ID: `AAAAACF0FNuxoqqYrakQsSDXlXtaq/Mj`

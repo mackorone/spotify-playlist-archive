@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Prop, Kosie Beukes, Die Heuwels Fantasties, Marno van der Merwe en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,554 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,630 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 4 | [Country Probeer](https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Country Probeer](https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p) | 3:52 |
 | 5 | [Lanie](https://open.spotify.com/track/54YEzu86libg5G4YSAAgRl) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Lanie](https://open.spotify.com/album/6hELtcujoqTk7XRa7sJ5UZ) | 3:11 |
 | 6 | [Hart soos 'n Hilux](https://open.spotify.com/track/5vM3rmcbKvOILwE4TyYa1R) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Hart soos 'n Hilux](https://open.spotify.com/album/5p2LWBsu5tiu0O8Of4fvqR) | 3:48 |
-| 7 | [Die Hoendersong](https://open.spotify.com/track/3iFPijny7qlhiOwLT4ReNf) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG), [Carbars Cel](https://open.spotify.com/artist/3AZQteCreM6Q7zZwbrEin2) | [](https://open.spotify.com/album/null) | 2:54 |
+| 7 | [Die Hoendersong](https://open.spotify.com/track/3iFPijny7qlhiOwLT4ReNf) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG), [Carbars Cel](https://open.spotify.com/artist/3AZQteCreM6Q7zZwbrEin2) | [Gees](https://open.spotify.com/album/6njCn7hH1pi5fxsgldRPyW) | 2:54 |
 | 8 | [Sing Vir Jou](https://open.spotify.com/track/0sNr2A0UbgFIAdV7194gmf) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Sing Vir Jou](https://open.spotify.com/album/4W7ePoB34iymXjn7LgXoBX) | 3:25 |
 | 9 | [Vir Nou](https://open.spotify.com/track/1XkaG7rSgw8OvH7Lm1cEZD) | [Lan3](https://open.spotify.com/artist/6Do516wzocpBkP4LPBune7) | [Vir Nou](https://open.spotify.com/album/07PaSDHQYeJ3Vd9H7lKNQi) | 3:04 |
 | 10 | [Belowe](https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Belowe](https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn) | 3:36 |

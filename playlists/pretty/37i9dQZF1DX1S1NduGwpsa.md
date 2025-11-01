@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Lila\-May
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,391 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,413 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [JUKE JOINT](https://open.spotify.com/track/08aUQKAxUArSG5lINFiRg9) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [JUKE JOINT](https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt) | 3:19 |
 | 60 | [It's Magic](https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [It's Magic](https://open.spotify.com/album/0yGBHk8u0qGBlqe1hvDz42) | 3:39 |
 
-Snapshot ID: `AAAAAFkvqfC2KsAeytkY8v8/nIsVEEl/`
+Snapshot ID: `AAAAAAjUB3hpuEA7x4TOaHTsffVbhXxh`

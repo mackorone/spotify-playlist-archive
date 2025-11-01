@@ -4,7 +4,7 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-50 songs - 2 hr 30 min
+51 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 | 2025-10-24 |  |
 | [Bweyy](https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [breatharian](https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0) | 1:18 | 2025-10-24 |  |
 | [Chess Flow](https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Chess Flow](https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2) | 2:20 | 2025-10-24 |  |
+| [Clair de lune](https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Clair de lune](https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY) | 3:24 | 2025-10-24 |  |
 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 | 2025-10-24 |  |
 | [Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 4:07 | 2025-10-24 |  |
 | [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 | 2025-10-24 |  |
@@ -49,7 +50,7 @@
 | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV) | 4:36 | 2025-10-24 |  |
 | [Stories & Studies](https://open.spotify.com/track/0tKmZJqFwmQ539WrqWrMYM) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Stories & Studies](https://open.spotify.com/album/6GThZMuDzGscijM6iM5dcc) | 1:52 | 2025-10-24 |  |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2025-10-24 |  |
-| [Visions of You](https://open.spotify.com/track/1WVcBCMEt5UgvFGTiEbhsn) | [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC), [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Spirit of the Golden Era](https://open.spotify.com/album/345VVBjIO5Ck3bRYmXSGMe) | 1:01 | 2025-10-24 |  |
+| [Visions of You](https://open.spotify.com/track/1WVcBCMEt5UgvFGTiEbhsn) | [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC), [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Spirit of the Golden Era](https://open.spotify.com/album/345VVBjIO5Ck3bRYmXSGMe) | 1:01 | 2025-10-24 | 2025-11-01 |
 | [Water Flow](https://open.spotify.com/track/2LeF018m9vGgIAirUuOgCr) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Water Flow](https://open.spotify.com/album/7qk8OPhLH17s6PdUxJKxCM) | 2:34 | 2025-10-24 |  |
 | [While You Dooooo \(Extended\)](https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Collections 01](https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi) | 3:27 | 2025-10-24 |  |
 | [Worldwide](https://open.spotify.com/track/6Qs9NTmOxaPs4gEcho8hJa) | [edbl & Kazuki Isogai](https://open.spotify.com/artist/1HaUUmKiUSfsXH0PfgdZcI), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl × Kazuki Sessions](https://open.spotify.com/album/2BPyV8AqbtLq5mlmDvnzIh) | 3:43 | 2025-10-24 |  |

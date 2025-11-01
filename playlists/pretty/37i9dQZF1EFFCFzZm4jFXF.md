@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 69 | [No One But Yourself](https://open.spotify.com/track/5ep9D7x1FwCBy6INbF0Fad) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [No One But Yourself](https://open.spotify.com/album/4VDksPljHSEP0701PHsjj9) | 2:59 |
 | 70 | [Kamikaze Camouflage](https://open.spotify.com/track/7kfq2i1lkGF0ObTD5Ke4os) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 2:34 |
 | 71 | [Wiersz Na Szkle](https://open.spotify.com/track/19gAeD3VrmLtPgAA9d9yun) | [Adam Kubera](https://open.spotify.com/artist/6Wac9kvo37JBxgkSS8LRXU) | [Wiersz Na Szkle](https://open.spotify.com/album/7pgMoAox0KApuvFljDbpyL) | 3:40 |
-| 72 | [Dopamine \- Radio Edit](https://open.spotify.com/track/1uzXNHa9hfU7WlIq0galfM) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Dopamine](https://open.spotify.com/album/0q9AGhJrvZruxED1HFSLwf) | 3:40 |
-| 73 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 |
+| 72 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 |
+| 73 | [Dopamine \- Radio Edit](https://open.spotify.com/track/1uzXNHa9hfU7WlIq0galfM) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Dopamine](https://open.spotify.com/album/0q9AGhJrvZruxED1HFSLwf) | 3:40 |
 | 74 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
 | 75 | [Shut Up \(Move On\)](https://open.spotify.com/track/1StVteSWhBuwQLbUYnAtrK) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:23 |
 | 76 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 116 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 117 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcAR5gAAAADuKveVaULUIW/7P0R42ntg`
+Snapshot ID: `AcAXfAAAAACW1B9uC5SvKHYT2zj6pGPN`

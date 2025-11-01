@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-130 songs - 7 hr 30 min
+132 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [adeline](https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J) | [Katie Koss](https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN) | [i'm changing my mind](https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB) | 3:54 | 2025-06-27 |  |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2025-06-27 | 2025-10-18 |
 | [Amen \- Acoustic](https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen \(Acoustic\)](https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO) | 3:30 | 2025-06-27 |  |
+| [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 | 2025-10-31 |  |
 | [Anything To Feel Alive](https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Anything To Feel Alive](https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ) | 4:20 | 2025-06-27 |  |
 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 | 2025-06-27 |  |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-06-27 |  |
@@ -90,7 +91,7 @@
 | [Old Summers \(feat\. philine\)](https://open.spotify.com/track/2jjknDW4cIC8d9C3kv5zrS) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [Old Summers](https://open.spotify.com/album/3tRCgORe1F5ilqUzRPKudV) | 3:39 | 2025-06-27 |  |
 | [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 | 2025-06-27 |  |
 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 | 2025-06-27 |  |
-| [One By One](https://open.spotify.com/track/1J0LAfDI6V7BXtj866wopY) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [One By One](https://open.spotify.com/album/6G4ZRThLjEGsYALCxy4xgp) | 3:44 | 2025-06-27 |  |
+| [One By One](https://open.spotify.com/track/1J0LAfDI6V7BXtj866wopY) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [One By One](https://open.spotify.com/album/6G4ZRThLjEGsYALCxy4xgp) | 3:44 | 2025-06-27 | 2025-11-01 |
 | [One Day](https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS) | [Axelle](https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ) | [One Day](https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL) | 2:59 | 2025-06-27 |  |
 | [One Day At A Time](https://open.spotify.com/track/2aunBTpmXeh0UVITDQSyVz) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 5:17 | 2025-06-27 |  |
 | [One Life](https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [One Life](https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC) | 2:30 | 2025-06-27 |  |
@@ -117,7 +118,7 @@
 | [Suddenly Forever](https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR) | [Selwyn](https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ) | [Suddenly Forever](https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7) | 3:20 | 2025-06-27 |  |
 | [Take My Heart](https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw) | 4:18 | 2025-06-27 |  |
 | [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 | 2025-06-27 | 2025-10-23 |
-| [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2025-06-27 |  |
+| [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2025-06-27 | 2025-11-01 |
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2025-06-27 |  |
 | [The Door](https://open.spotify.com/track/2nOtHnLmdE2OBjk2BpGa6W) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [The Door](https://open.spotify.com/album/6uHpnYIepU8aYH2eVTJeVm) | 3:54 | 2025-06-27 | 2025-10-03 |
 | [the moment \- acoustic](https://open.spotify.com/track/4b9V2ARN8RJxGDrGAoXR8i) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [the moment \(acoustic\)](https://open.spotify.com/album/66D5NgsCMW3RJXGYqAIkRQ) | 3:10 | 2025-06-27 |  |
@@ -138,5 +139,6 @@
 | [Wild Horses](https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D) | [JODIAC](https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA), [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Wild Horses](https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t) | 3:22 | 2025-06-27 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2025-06-27 | 2025-10-03 |
 | [You Give Me Something \(Refreshed\)](https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You Give Me Something \(Refreshed\)](https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV) | 4:03 | 2025-06-27 |  |
+| [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 | 2025-10-31 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

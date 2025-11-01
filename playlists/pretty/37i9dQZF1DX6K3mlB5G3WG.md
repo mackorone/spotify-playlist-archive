@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > AIELLO e Levante in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,888 likes - 106 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,910 likes - 106 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 10 | [Ti capita mai ?](https://open.spotify.com/track/7sSnuo46bJGN0J5JWuidjX) | [Ludovica Caniglia](https://open.spotify.com/artist/6TT6vgXfMLov8l1gUqgRhe) | [Ti capita mai ?](https://open.spotify.com/album/171tZsXcKhSQh0TlIcl0cS) | 3:17 |
 | 11 | [wendy](https://open.spotify.com/track/1GXR7Cg7fRxf5a44kNqiah) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [wendy](https://open.spotify.com/album/011NXlRkZoUjSEXzqYGfe5) | 2:54 |
 | 12 | [what's good](https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough \(Deluxe\)](https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO) | 3:23 |
-| 13 | [On My Own](https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [](https://open.spotify.com/album/null) | 2:36 |
+| 13 | [On My Own](https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [HEROINA](https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal) | 2:36 |
 | 14 | [H.A.P.P.Y](https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [H.A.P.P.Y](https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB) | 2:29 |
 | 15 | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG) | 3:11 |
 | 16 | [Sono Un Grande](https://open.spotify.com/track/7nCNEWj8T3NUew4rvVXX2D) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [SONO UN GRANDE](https://open.spotify.com/album/21lb48X13ygaYOsHi8RCS6) | 3:21 |

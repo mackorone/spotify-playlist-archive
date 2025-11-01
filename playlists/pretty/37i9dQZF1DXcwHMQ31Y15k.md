@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Ndarboy Genk
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,048 likes - 97 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,163 likes - 97 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 96 | [Full Senyum Sayang](https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc) | 4:06 |
 | 97 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 |
 
-Snapshot ID: `AAAAAGsZD1eaI0jZBxioi0AyQ6OcXOhS`
+Snapshot ID: `AAAAAN5K1kYuaLJI1blL36V6nW+93ahw`

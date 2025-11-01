@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 945184,
+  "num_followers": 945182,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -563,30 +563,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Trof\u00e9u do Ano",
-        "url": "https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        },
-        {
-          "name": "Mc Nando Dk",
-          "url": "https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7"
-        },
-        {
-          "name": "DJ Cassula",
-          "url": "https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny"
-        }
-      ],
-      "duration_ms": 189103,
-      "name": "Trof\u00e9u do Ano",
-      "url": "https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 276480,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Trof\u00e9u do Ano",
+        "url": "https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        },
+        {
+          "name": "Mc Nando Dk",
+          "url": "https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7"
+        },
+        {
+          "name": "DJ Cassula",
+          "url": "https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny"
+        }
+      ],
+      "duration_ms": 189103,
+      "name": "Trof\u00e9u do Ano",
+      "url": "https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "BALAN\u00c7A A GLOCK",
-        "url": "https://open.spotify.com/album/10XgqbTG82Ks7cK6i5m601"
-      },
-      "artists": [
-        {
-          "name": "DJ LG",
-          "url": "https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ"
-        },
-        {
-          "name": "Mc Jajau",
-          "url": "https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm"
-        }
-      ],
-      "duration_ms": 156076,
-      "name": "BALAN\u00c7A A GLOCK",
-      "url": "https://open.spotify.com/track/3NaZrn3dMTU2uzjvVwC41z"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Espirra o Lan\u00e7a",
         "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
       },
@@ -1751,6 +1731,46 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "BALAN\u00c7A A GLOCK",
+        "url": "https://open.spotify.com/album/10XgqbTG82Ks7cK6i5m601"
+      },
+      "artists": [
+        {
+          "name": "DJ LG",
+          "url": "https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ"
+        },
+        {
+          "name": "Mc Jajau",
+          "url": "https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "BALAN\u00c7A A GLOCK",
+      "url": "https://open.spotify.com/track/3NaZrn3dMTU2uzjvVwC41z"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "MANO DO AK",
+        "url": "https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1"
+      },
+      "artists": [
+        {
+          "name": "DJ VIL\u00c3O",
+          "url": "https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9"
+        },
+        {
+          "name": "MC Reis",
+          "url": "https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO"
+        }
+      ],
+      "duration_ms": 184845,
+      "name": "MANO DO AK",
+      "url": "https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Baile de Favela",
         "url": "https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS"
       },
@@ -1763,6 +1783,26 @@
       "duration_ms": 180088,
       "name": "Baile de Favela",
       "url": "https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Se Prepara 2",
+        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        }
+      ],
+      "duration_ms": 147335,
+      "name": "Se Prepara 2",
+      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1807,26 +1847,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Se Prepara 2",
-        "url": "https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        }
-      ],
-      "duration_ms": 147335,
-      "name": "Se Prepara 2",
-      "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
         "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
       },
@@ -1843,26 +1863,6 @@
       "duration_ms": 240666,
       "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
       "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "MANO DO AK",
-        "url": "https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1"
-      },
-      "artists": [
-        {
-          "name": "DJ VIL\u00c3O",
-          "url": "https://open.spotify.com/artist/7evNwWIec7shUErOTwAzk9"
-        },
-        {
-          "name": "MC Reis",
-          "url": "https://open.spotify.com/artist/4IdKR4JXZSx5JXl9JsjGEO"
-        }
-      ],
-      "duration_ms": 184845,
-      "name": "MANO DO AK",
-      "url": "https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427"
     },
     {
       "added_at": "2023-06-26 14:06:50",

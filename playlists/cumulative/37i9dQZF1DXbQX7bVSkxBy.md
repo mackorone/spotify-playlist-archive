@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Kelvin Sings
 
-491 songs - 1 day 15 hr 58 min
+491 songs - 1 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Many Things](https://open.spotify.com/track/5klbky7veUxRR6cvqdwdwf) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Many Things](https://open.spotify.com/album/03qcHgYL5t1f37TuZtIcZD) | 3:41 | 2025-06-13 | 2025-06-20 |
 | [Marvelous God](https://open.spotify.com/track/4pgOw2cCRtS0BWgn0lMdOZ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 3:53 | 2023-12-05 | 2023-12-13 |
 | [Maximum Enjoyment](https://open.spotify.com/track/3hZ7ENafBwo41O5D2mbb3c) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Maximum Enjoyment](https://open.spotify.com/album/0TsOIKXvZHeIGiUzq4NKpC) | 4:18 | 2023-12-05 | 2023-12-13 |
+| [Me & My Jesus](https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Clarity](https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY) | 2:20 | 2025-10-31 |  |
 | [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 | 2023-08-18 | 2023-12-30 |
 | [Mess into a Message](https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Mess into a Message](https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz) | 3:17 | 2024-02-23 | 2024-03-01 |
 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 | 2023-04-07 | 2023-05-09 |
@@ -433,7 +434,6 @@
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-03-29 | 2024-04-05 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-04-07 | 2024-04-19 |
 | [Too Faithful](https://open.spotify.com/track/4VAX2Vu5fpGYxgUqfcFiNX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/0c86R9zB5csfesL1jn7E0s) | 6:10 | 2023-12-15 | 2025-10-17 |
-| [Track 1](https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-31 |  |
 | [True Love](https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [True Love](https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE) | 2:30 | 2024-02-08 | 2024-02-16 |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 | 2024-01-19 | 2024-02-16 |

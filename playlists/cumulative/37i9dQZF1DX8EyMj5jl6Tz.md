@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-178 songs - 7 hr 52 min
+179 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bulletproof](https://open.spotify.com/track/3xW6Kb3xpdfmmFVZo1It3g) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Bulletproof](https://open.spotify.com/album/3pFB9jB2dvhtEmPppxWZkG) | 2:24 | 2025-07-10 |  |
 | [California Dreamin'](https://open.spotify.com/track/4BpPcqXgjbjORprYAKVbc6) | [Rumix](https://open.spotify.com/artist/7eqieEH36QOT0ce6SPKSs2), [Highbreeze](https://open.spotify.com/artist/5KmY1ByYczn6OKCurEyO3O) | [California Dreamin'](https://open.spotify.com/album/3J0ku6IEQ94jJ2SjkPbTZp) | 3:06 | 2025-07-10 |  |
 | [Can't Get You out of My Head](https://open.spotify.com/track/5M5KUXnWP2pB3NugBHcER9) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Can't Get You out of My Head](https://open.spotify.com/album/6JGdqchvfbGFc2cMnLdZBn) | 2:28 | 2025-07-10 |  |
+| [Carnaval Do Brasil](https://open.spotify.com/track/0sH9GexrcK3yhMCREq2OOX) | [Henk](https://open.spotify.com/artist/5yt5ZGD6Q2FfK1Elw2Efbv) | [Carnaval Do Brasil](https://open.spotify.com/album/6yFxZIQutnNrI4EAEDhvq5) | 2:51 | 2025-10-31 |  |
 | [Coming Home](https://open.spotify.com/track/2Tdx3WY6tStwtGzUpJJjnR) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc) | [Coming Home](https://open.spotify.com/album/7uCJbAjUNki8L9qO5IGHE1) | 2:35 | 2025-07-10 |  |
 | [Conga](https://open.spotify.com/track/4uYQIfG7I2a2215Xdlf4iT) | [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [Mastik Lickers](https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN), [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Audiosonik](https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Conga](https://open.spotify.com/album/39DG1QAm3KtNkQMAZDzrm5) | 2:20 | 2025-07-10 |  |
 | [Country Roads, Take Me Home \- 2024 Mix](https://open.spotify.com/track/0PCRNtWlXWMcf3HlDhDa3i) | [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Country Roads, Take Me Home \(2024 Mix\)](https://open.spotify.com/album/1tOOCHUQSI6JJjmgW2nYD4) | 2:18 | 2025-07-10 |  |
@@ -151,7 +152,7 @@
 | [Song 2](https://open.spotify.com/track/6IXr50xGiGbcRFEMlKW9yB) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Rumix](https://open.spotify.com/artist/7eqieEH36QOT0ce6SPKSs2), [Highbreeze](https://open.spotify.com/artist/5KmY1ByYczn6OKCurEyO3O) | [Song 2](https://open.spotify.com/album/4azfA0LZ09hbdlsH3BYwKF) | 2:24 | 2025-07-10 |  |
 | [Space Pump \(Space Jam\)](https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV) | [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [Space Pump \(Space Jam\)](https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA) | 2:45 | 2025-10-08 |  |
 | [Stay \- Ely Oaks Version](https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Stay \(Ely Oaks Version\)](https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl) | 2:39 | 2025-07-10 |  |
-| [Stolen Dance \- Hypertechno Mix](https://open.spotify.com/track/2NjmUTwNBWJ2KKQj1LejWP) | [R\-vid](https://open.spotify.com/artist/0wtuCkEUVHopTcvQK8Lnok) | [Stolen Dance](https://open.spotify.com/album/6K4gn7YAUGHAvuXafXMUGL) | 2:24 | 2025-07-10 |  |
+| [Stolen Dance \- Hypertechno Mix](https://open.spotify.com/track/2NjmUTwNBWJ2KKQj1LejWP) | [R\-vid](https://open.spotify.com/artist/0wtuCkEUVHopTcvQK8Lnok) | [Stolen Dance](https://open.spotify.com/album/6K4gn7YAUGHAvuXafXMUGL) | 2:24 | 2025-07-10 | 2025-11-01 |
 | [Sugar Sugar](https://open.spotify.com/track/7tAUGhcjcBKTFMMY9uWC7x) | [Alphajack](https://open.spotify.com/artist/16QqxKys1labZDMzVuZ8D9) | [Sugar Sugar](https://open.spotify.com/album/7rDuDJoFU7PZKQvBaCCzMR) | 2:36 | 2025-07-10 |  |
 | [Superstar](https://open.spotify.com/track/79DFRI318iJU1hvZnPzA4K) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4), [Andrea Zelletta](https://open.spotify.com/artist/2sSVegHvvHIOT1gVsqw8EW) | [Superstar](https://open.spotify.com/album/2VmclQK1Fsr8uhrtcrL7pl) | 2:52 | 2025-07-10 |  |
 | [Sweet Dreams](https://open.spotify.com/track/5ZUB0BNuzPR9xC1r5VcLrl) | [Perfect Pitch](https://open.spotify.com/artist/5dCHZZCETvtgvg88AYg13g), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Sweet Dreams](https://open.spotify.com/album/0xvLMGLEn1M4htJcFKXbpE) | 2:40 | 2025-07-10 |  |

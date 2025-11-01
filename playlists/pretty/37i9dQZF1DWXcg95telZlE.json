@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 427945,
+  "num_followers": 428060,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "What A Diff'rence A Day Made",
+      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Love, Ella",
         "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 185160,
       "name": "Dream A Little Dream Of Me - Single Version",
       "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "What A Diff'rence A Day Made",
-      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 298133,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/3npHR2nReF5bhCvvGiNwcL"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
+      "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 354533,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 179640,
-      "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
-      "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 181693,
       "name": "Cry",
       "url": "https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "25 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
+      },
+      "artists": [
+        {
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Essential Johnny Mathis 3.0",
-        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Chances Are - Single Version",
-      "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Remember When?",
         "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "The Essential Johnny Mathis 3.0",
+        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Chances Are - Single Version",
+      "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 197200,
       "name": "Red Sails In The Sunset",
       "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -811,18 +795,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Command Performance",
-        "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
       },
       "artists": [
         {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 127706,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/3FzkbFgVGdg4zqyCMzUPM7"
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -839,6 +823,22 @@
       "duration_ms": 184373,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Command Performance",
+        "url": "https://open.spotify.com/album/44i8VkJcTp0sKdBtXGa2nk"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 127706,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/3FzkbFgVGdg4zqyCMzUPM7"
     },
     {
       "added_at": "2022-05-30 12:59:00",

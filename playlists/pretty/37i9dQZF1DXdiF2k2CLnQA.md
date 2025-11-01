@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,205 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,201 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Villain](https://open.spotify.com/track/4RZCiJgNU2GY3ii22Y5Pu9) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [](https://open.spotify.com/album/null) | 3:31 |
+| 1 | [Villain](https://open.spotify.com/track/4RZCiJgNU2GY3ii22Y5Pu9) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [ARMAHEAVEN](https://open.spotify.com/album/4YMYPIlNkl2ujiwrebKmN2) | 3:31 |
 | 2 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
 | 3 | [I, Emperor](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Legends](https://open.spotify.com/album/1jjx7U3tayhJTytJVBj0WY) | 4:15 |
 | 4 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 |

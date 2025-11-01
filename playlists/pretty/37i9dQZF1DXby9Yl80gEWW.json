@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 59730,
+  "num_followers": 59746,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Other Love Songs",
-        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 119460,
-      "name": "Sometimes it Does",
-      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Appalachian Picking Society",
         "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 224186,
       "name": "Susan's Gone",
       "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Other Love Songs",
+        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 119460,
+      "name": "Sometimes it Does",
+      "url": "https://open.spotify.com/track/5S83skAVYFuvGXKBBEBJdn"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -143,46 +143,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "The Harmonic Tone Revealers",
-        "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
-      },
-      "artists": [
-        {
-          "name": "John Reischman",
-          "url": "https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt"
-        },
-        {
-          "name": "Scott Nygaard",
-          "url": "https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF"
-        },
-        {
-          "name": "Sharon Gilchrist",
-          "url": "https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx"
-        }
-      ],
-      "duration_ms": 311693,
-      "name": "Midnight on the Water",
-      "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Addie Levy",
-        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
-      },
-      "artists": [
-        {
-          "name": "Addie Levy",
-          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "Flight Pattern",
-      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Elk River Blues",
         "url": "https://open.spotify.com/album/1yEJvnWp10d2Z8ye8mjH9c"
       },
@@ -203,6 +163,46 @@
       "duration_ms": 147043,
       "name": "Elk River Blues",
       "url": "https://open.spotify.com/track/53iYmlE5YmVOtmU5l5b11c"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Addie Levy",
+        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
+      },
+      "artists": [
+        {
+          "name": "Addie Levy",
+          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Flight Pattern",
+      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "The Harmonic Tone Revealers",
+        "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
+      },
+      "artists": [
+        {
+          "name": "John Reischman",
+          "url": "https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt"
+        },
+        {
+          "name": "Scott Nygaard",
+          "url": "https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF"
+        },
+        {
+          "name": "Sharon Gilchrist",
+          "url": "https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx"
+        }
+      ],
+      "duration_ms": 311693,
+      "name": "Midnight on the Water",
+      "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Banjo Loop",
-        "url": "https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP"
-      },
-      "artists": [
-        {
-          "name": "John Butler",
-          "url": "https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR"
-        }
-      ],
-      "duration_ms": 292138,
-      "name": "Banjo Loop",
-      "url": "https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 188293,
       "name": "Thousand Dollar Holler",
       "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Banjo Loop",
+        "url": "https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP"
+      },
+      "artists": [
+        {
+          "name": "John Butler",
+          "url": "https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR"
+        }
+      ],
+      "duration_ms": 292138,
+      "name": "Banjo Loop",
+      "url": "https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Spider on the Banjo",
         "url": "https://open.spotify.com/album/5e7OPZmIzZVQO7xiFWD9W3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 272586,
       "name": "Spider on the Banjo",
       "url": "https://open.spotify.com/track/55OXI7lLQRoS9FhSw54CHC"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Dan Tyminski: Live From The Ryman",
         "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 127261,
       "name": "Cumberland Gap - Live",
       "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -863,8 +863,8 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -927,6 +927,38 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Your Daughters & Your Sons",
+        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
+      },
+      "artists": [
+        {
+          "name": "The Duhks",
+          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
+      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -943,38 +975,6 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Your Daughters & Your Sons",
-        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
-      },
-      "artists": [
-        {
-          "name": "The Duhks",
-          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
-      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1379,38 +1379,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Saltbush Express",
-        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Fix",
-          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
-        }
-      ],
-      "duration_ms": 171823,
-      "name": "Saltbush Express",
-      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Simple Pleasures (Remixed and Remastered)",
-        "url": "https://open.spotify.com/album/25R5C5ORk9TBUabLhSrbb7"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Wolf Moon - Remixed and Remastered",
-      "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Indoor Vistas",
         "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
@@ -1439,6 +1407,38 @@
       "duration_ms": 237768,
       "name": "And Then, And Then, And Then",
       "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Simple Pleasures (Remixed and Remastered)",
+        "url": "https://open.spotify.com/album/25R5C5ORk9TBUabLhSrbb7"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Wolf Moon - Remixed and Remastered",
+      "url": "https://open.spotify.com/track/4fO0pFeZ8VQ0QoV8473zH1"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Saltbush Express",
+        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "duration_ms": 171823,
+      "name": "Saltbush Express",
+      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Things Are Simple",
-        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Along Came Sonny",
-      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Donner Pass",
         "url": "https://open.spotify.com/album/1pUHvl6AWvntcSdQ7Bfdpx"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 283000,
       "name": "Donner Pass",
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Things Are Simple",
+        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Along Came Sonny",
+      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
     },
     {
       "added_at": "2025-02-21 05:00:42",

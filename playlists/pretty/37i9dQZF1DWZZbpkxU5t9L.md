@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,955 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,956 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [ワルイコ Remix \(feat\. 7\)](https://open.spotify.com/track/0xOI4RACdXE1gXQvFEnULD) | [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [ワルイコ Remix \(feat\. 7\)](https://open.spotify.com/album/4U7eiaWCPmyWrChb46jwtT) | 3:07 |
 | 60 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 
-Snapshot ID: `AAAAADOPN6AUszVS3+vl7bS7tHJElb89`
+Snapshot ID: `AAAAALyYPKd/Q5xZMrzTL3dTBifzsyda`

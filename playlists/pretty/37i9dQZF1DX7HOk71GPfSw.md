@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaive shoots, he scores ⚽⚽⚽⚽⚽⚽
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,119 likes - 200 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,150 likes - 200 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 129 | [howls and heartbreaks](https://open.spotify.com/track/73lgBLItrXkwhNVYXbic1A) | [dragongirl](https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM) | [dreamscape dimension](https://open.spotify.com/album/7bfOM97Xj1nL4XRlFz7b6G) | 4:07 |
 | 130 | [Que nada nos pare \- detunedfreq remix](https://open.spotify.com/track/6e9utEWzoIwQ4um3bXMi4I) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Que nada nos pare \(detunedfreq remix\)](https://open.spotify.com/album/1o83ETG1U9LvgBPUm0XHf7) | 2:31 |
 | 131 | [DADDY](https://open.spotify.com/track/1GBttialfhJqQKBeleUApL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DADDY](https://open.spotify.com/album/0yERVxWsLb8nZxH2zipHRs) | 2:02 |
-| 132 | [Supernova ft funeral](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova ft funeral](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
+| 132 | [Supernova](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
 | 133 | [No Comma](https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [No Comma](https://open.spotify.com/album/1OXQGYsWEZSYN3G3EYgqG4) | 2:41 |
 | 134 | [re:laced.up](https://open.spotify.com/track/3UtylcU8x9gSnwBU999fJ8) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [re:](https://open.spotify.com/album/2lamxs1EWiZQirsxtrbCMb) | 2:16 |
 | 135 | [tiny purse, tiny top](https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW), [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [tiny purse, tiny top](https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx) | 2:06 |
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 142 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 |
 | 143 | [Fragments](https://open.spotify.com/track/6bVFt4ptvMIrVyz1eRSO1M) | [Geller](https://open.spotify.com/artist/6OgMBOUaAfkEfWkEFkXpbL) | [Fragments](https://open.spotify.com/album/1NUR9FRzC2jlrtVkTZV7vy) | 3:12 |
 | 144 | [i don't feel the same](https://open.spotify.com/track/1vd6qhQmfy8rqWQxuMnla2) | [Jeremy James Whitaker](https://open.spotify.com/artist/41FAFO0sEodQajiyqTtNX3), [O2solus](https://open.spotify.com/artist/0OxsY3otsNsVEg7DLhmL3a) | [the last one standing](https://open.spotify.com/album/5t5idwlfkCXLVBEFZRBEzp) | 3:28 |
-| 145 | [Psychoboost feat danny brown](https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 4:04 |
+| 145 | [Psychoboost](https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 4:04 |
 | 146 | [Bitch Smacker \- EDM GangStep Edit](https://open.spotify.com/track/1DTxRSFNCay9wpFfy0YBsa) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy) | [Psychological Musical Warfare 2](https://open.spotify.com/album/4BCN9570YUwdT695yuSbZ6) | 2:20 |
 | 147 | [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 |
 | 148 | [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 199 | [Colorado](https://open.spotify.com/track/0vruJpT8IuvBxj9Z7Stm0w) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Colorado](https://open.spotify.com/album/3YwG5jr7mC2EzDtbvgTvL0) | 2:38 |
 | 200 | [@location](https://open.spotify.com/track/0LZfOTFwtgIdWr7n2ngOty) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [@location](https://open.spotify.com/album/5j0R8rL8HwF558PZbPHFkn) | 2:44 |
 
-Snapshot ID: `AAAAAEjKDeInWHn5/udElpGMJkAKh6ba`
+Snapshot ID: `AAAAAAtXWC1ZOGDEPE+BqrIjsFZuEla2`

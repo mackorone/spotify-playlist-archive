@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,125 likes - 1,104 songs - 2 day 18 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,122 likes - 1,104 songs - 2 day 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 146 | [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 |
 | 147 | [Human \(feat\. JONA XX\) \- Spotify Singles](https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf), [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:38 |
 | 148 | [Chase \- Spotify Singles](https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:12 |
-| 149 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/5wSKOl9e4iCyCsDoOgBnrz) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:17 |
+| 149 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/5wSKOl9e4iCyCsDoOgBnrz) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:18 |
 | 150 | [Ride With Me \- Spotify Singles](https://open.spotify.com/track/06A24W6n7gGi8YGneBME3M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0) | [Ride With Me \(Spotify Singles\)](https://open.spotify.com/album/5AqVbvJXIBbzuq2FvNT0SD) | 1:59 |
 | 151 | [Rock On \- Spotify Singles \- From "The Muppets Mayhem"](https://open.spotify.com/track/6vwxGKQc5AWeV04dYQ9Ev2) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [Rock On \- Spotify Singles \(From "The Muppets Mayhem"\)](https://open.spotify.com/album/6H66bjvFnbFOnzkCstWJup) | 3:20 |
 | 152 | [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 |

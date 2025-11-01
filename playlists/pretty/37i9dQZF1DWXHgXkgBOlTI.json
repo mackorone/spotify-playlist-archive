@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Gecko&Tokage Parade",
-  "num_followers": 32195,
+  "num_followers": 32202,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-10-07 15:00:17",
       "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
-      },
-      "artists": [
-        {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
-    },
-    {
-      "added_at": "2025-10-07 15:00:17",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 236785,
       "name": "\u591c\u9593\u822a\u8def - Album Mix",
       "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
+    },
+    {
+      "added_at": "2025-10-07 15:00:17",
+      "album": {
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
       "added_at": "2025-10-07 15:00:17",
@@ -359,26 +359,18 @@
     {
       "added_at": "2025-10-07 15:00:17",
       "album": {
-        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
-        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
+        "name": "SET FREE",
+        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
       },
       "artists": [
         {
-          "name": "BimBomBam Orchestra",
-          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
-        },
-        {
-          "name": "\u5143\u6674",
-          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
-        },
-        {
-          "name": "\u67f4\u7530\u4eae",
-          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
         }
       ],
-      "duration_ms": 427000,
-      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
-      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+      "duration_ms": 228106,
+      "name": "The Piano",
+      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
     },
     {
       "added_at": "2025-10-07 15:00:17",
@@ -399,18 +391,26 @@
     {
       "added_at": "2025-10-07 15:00:17",
       "album": {
-        "name": "SET FREE",
-        "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
+        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
+        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
       "artists": [
         {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+          "name": "BimBomBam Orchestra",
+          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
+        },
+        {
+          "name": "\u5143\u6674",
+          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
+        },
+        {
+          "name": "\u67f4\u7530\u4eae",
+          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
         }
       ],
-      "duration_ms": 228106,
-      "name": "The Piano",
-      "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
+      "duration_ms": 427000,
+      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
+      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
       "added_at": "2025-10-07 15:00:17",

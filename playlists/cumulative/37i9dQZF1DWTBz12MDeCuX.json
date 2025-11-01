@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Tkandz",
+  "description": "Die Playlist, die dich f\u00fchlt. ",
   "name": "me right now",
   "tracks": [
     {
@@ -4438,7 +4438,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 146250,
       "name": "Atlantis - Edit",
       "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
@@ -7472,7 +7472,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 156786,
       "name": "Bitte sei vorsichtig",
       "url": "https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C"
@@ -18079,6 +18079,28 @@
     },
     {
       "album": {
+        "name": "For What (feat. Cash Cobain)",
+        "url": "https://open.spotify.com/album/3suGtJheyDNSi0q00nEM9h"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151988,
+      "name": "For What (feat. Cash Cobain)",
+      "url": "https://open.spotify.com/track/6GfC36LoOZv0zCa45Et1Fg"
+    },
+    {
+      "album": {
         "name": "Forbidden Voices",
         "url": "https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5"
       },
@@ -18280,7 +18302,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 165466,
       "name": "frieden",
       "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
@@ -18582,7 +18604,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 173269,
       "name": "Fucked Up feat. makko",
       "url": "https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA"
@@ -19472,6 +19494,24 @@
       "duration_ms": 129729,
       "name": "Geh",
       "url": "https://open.spotify.com/track/6dv5yQ79APCCIrAo7gDnSK"
+    },
+    {
+      "album": {
+        "name": "GEH ALLEIN2",
+        "url": "https://open.spotify.com/album/53aazq273BQYyH4MZCsOco"
+      },
+      "artists": [
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "GEH ALLEIN2",
+      "url": "https://open.spotify.com/track/4BnIOogPaujK6zSmKYv1LW"
     },
     {
       "album": {
@@ -21636,7 +21676,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 180213,
       "name": "halb 8",
       "url": "https://open.spotify.com/track/6Sf7lbstyKeEr2e95oF4Qj"
@@ -22320,6 +22360,24 @@
       "duration_ms": 135746,
       "name": "Head n' Shoulders, pt.II",
       "url": "https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa"
+    },
+    {
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/0IyhOwUdNj86QXkv2PyA5q"
+      },
+      "artists": [
+        {
+          "name": "Cheriimoya",
+          "url": "https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155893,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/4b9kX7sNbHVgrRDjXWNSNT"
     },
     {
       "album": {
@@ -32027,6 +32085,24 @@
     },
     {
       "album": {
+        "name": "love letter",
+        "url": "https://open.spotify.com/album/0VcpnoS9n3IOOOq0iDeTbm"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152066,
+      "name": "love letter",
+      "url": "https://open.spotify.com/track/77OFi8TocjiBJUngLhKdey"
+    },
+    {
+      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -32038,7 +32114,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
@@ -32673,6 +32749,24 @@
     },
     {
       "album": {
+        "name": "R.U.B.I.G!?",
+        "url": "https://open.spotify.com/album/2kP3q7PDH2IGvFZz0z4Twg"
+      },
+      "artists": [
+        {
+          "name": "RUBI G",
+          "url": "https://open.spotify.com/artist/7zrD9caSRXgfFnJYYBSKiN"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149223,
+      "name": "Mama Gave Ya",
+      "url": "https://open.spotify.com/track/4spDHwVFm6cfnhqTgiTWXJ"
+    },
+    {
+      "album": {
         "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
         "url": "https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or"
       },
@@ -32728,6 +32822,28 @@
       "duration_ms": 146250,
       "name": "MAMAS HAUS",
       "url": "https://open.spotify.com/track/6aOwyg63SvKnnOho5FVjv5"
+    },
+    {
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/0m2iRaAMg7EmOwOEWEHt9H"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126930,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/1OsqxSWKQR1WnsLwMw1N2l"
     },
     {
       "album": {
@@ -35095,6 +35211,24 @@
     },
     {
       "album": {
+        "name": "CHROMAKOPIA +",
+        "url": "https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280790,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM"
+    },
+    {
+      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/1ZlL6aFfB8y9qkllO0KRgV"
       },
@@ -36387,6 +36521,28 @@
     },
     {
       "album": {
+        "name": "nah am meer gebaut",
+        "url": "https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh"
+      },
+      "artists": [
+        {
+          "name": "Carlo5",
+          "url": "https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a"
+        },
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158201,
+      "name": "nah am meer gebaut",
+      "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
+    },
+    {
+      "album": {
         "name": "NAPOLEON",
         "url": "https://open.spotify.com/album/7Ikc5Wa5WJR8durhYokDsg"
       },
@@ -37309,6 +37465,24 @@
     },
     {
       "album": {
+        "name": "nie wieder weh",
+        "url": "https://open.spotify.com/album/7JPSzqyM59Gl1ZnashKmg2"
+      },
+      "artists": [
+        {
+          "name": "Rrotzer",
+          "url": "https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "nie wieder weh",
+      "url": "https://open.spotify.com/track/5L6RbivKdkWtL4MPoNyBgZ"
+    },
+    {
+      "album": {
         "name": "Nie Wiedersehen",
         "url": "https://open.spotify.com/album/0S8W8HHQU2xDNgudIg51nL"
       },
@@ -38152,7 +38326,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 136312,
       "name": "Nur bei mir",
       "url": "https://open.spotify.com/track/3YcZKKhe100rWxpzSr9KiP"
@@ -43349,6 +43523,28 @@
     },
     {
       "album": {
+        "name": "rosa",
+        "url": "https://open.spotify.com/album/4APSvlcqAxc7k78f8eq060"
+      },
+      "artists": [
+        {
+          "name": "Longus Mongus",
+          "url": "https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb"
+        },
+        {
+          "name": "BHZ",
+          "url": "https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259265,
+      "name": "rosa",
+      "url": "https://open.spotify.com/track/29jhqdbaKIrCYk3piJICVN"
+    },
+    {
+      "album": {
         "name": "rosa rugosa",
         "url": "https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08"
       },
@@ -45076,7 +45272,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 167847,
       "name": "Sch\u00f6n, dass du da warst",
       "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
@@ -48730,7 +48926,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 154782,
       "name": "sterne z\u00e4hlen",
       "url": "https://open.spotify.com/track/63Yiw4d40cEyNqsPVm0IPh"
@@ -57317,6 +57513,24 @@
     },
     {
       "album": {
+        "name": "you ruined me but it was fun",
+        "url": "https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141845,
+      "name": "wet dreams",
+      "url": "https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL"
+    },
+    {
+      "album": {
         "name": "wetterapp.mp3",
         "url": "https://open.spotify.com/album/3gRmpKhJ4Y6MKJvAMuhIY0"
       },
@@ -58906,7 +59120,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 167847,
       "name": "Wundersch\u00f6n",
       "url": "https://open.spotify.com/track/1oZRQp6jv1o1jEnO15xiH2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: gio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,227 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,256 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 99 | [Lord take my hand](https://open.spotify.com/track/5XeE2BPiivryusGlGrj3uB) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [Lord take my hand](https://open.spotify.com/album/74PYgyZTy9iH2EGznODDOY) | 2:12 |
 | 100 | [EUGH](https://open.spotify.com/track/0Lkkx7qqDbPAFEB4JmqtiS) | [Tommy Zuko](https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT) | [EUGH](https://open.spotify.com/album/11aga2drIBrtkYjIScLdNu) | 2:22 |
 
-Snapshot ID: `AAAAAFNekc0SyrLzI7BczZlOmIPq+ywV`
+Snapshot ID: `AAAAAGnVbL6OFgra+KU6rH/CuF77mPzi`

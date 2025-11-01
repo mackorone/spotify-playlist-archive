@@ -1358,10 +1358,28 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 156774,
       "name": "january",
       "url": "https://open.spotify.com/track/4BCwkKDpIsWgAJohzaEjux"
+    },
+    {
+      "album": {
+        "name": "january",
+        "url": "https://open.spotify.com/album/24a54UeA3iikbqJEOkqq7W"
+      },
+      "artists": [
+        {
+          "name": "Vardaan Arora",
+          "url": "https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "january",
+      "url": "https://open.spotify.com/track/4IalQd9uplUh8uRL0H8QjJ"
     },
     {
       "album": {

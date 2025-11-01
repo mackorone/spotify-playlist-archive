@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,235 likes - 99 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,281 likes - 99 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
+| 1 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
 | 2 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 |
 | 3 | [Bermimpi](https://open.spotify.com/track/4Bq5WOROZbYRlfoEjh1gAM) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Koma,](https://open.spotify.com/album/0kEgfBZs3R5GJDuCp8yTYx) | 3:40 |
 | 4 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |

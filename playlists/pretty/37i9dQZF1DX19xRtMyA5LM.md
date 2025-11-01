@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: kans
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,043 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,025 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [m’n type](https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH) | 2:24 |
-| 2 | [Rondjes](https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [](https://open.spotify.com/album/null) | 3:03 |
+| 2 | [Rondjes](https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Vrijspel](https://open.spotify.com/album/52cIFs3jvyBOzVuun6nu0r) | 3:03 |
 | 3 | [StAYbLESS.](https://open.spotify.com/track/7KU42QXlh12bmtBhuasiqg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [StAYbLESS.](https://open.spotify.com/album/3NxlYl6uMcn8hQPOsOq7Ch) | 3:22 |
 | 4 | [Encrypted](https://open.spotify.com/track/7F49HEqLIVKuK26mOL56CN) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Encrypted](https://open.spotify.com/album/4eHIDkjphxPvdrsRn8uDYo) | 2:01 |
 | 5 | [Uitweg](https://open.spotify.com/track/0nPkBSykonv44kxTCmeyBE) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Uitweg](https://open.spotify.com/album/7gflzTSofjemi0bQrffkpe) | 3:17 |

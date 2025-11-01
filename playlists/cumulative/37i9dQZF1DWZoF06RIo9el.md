@@ -2,9 +2,9 @@
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de octubre 2025\. Cover: HUMBE
+> Lo mejor de octubre 2025\. Cover: ROSALÍA
 
-1,334 songs - 2 day 22 hr 53 min
+1,335 songs - 2 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [BENDITA POBREZA](https://open.spotify.com/track/4GBvsITxjZDOQvEtwpcR4c) | [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy) | [BENDITA POBREZA](https://open.spotify.com/album/0eYagb7OuTbMsJ0ahFOJU5) | 2:49 | 2023-01-04 | 2023-03-08 |
 | [BENDITA SEA LA HORA](https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [BENDITA SEA LA HORA](https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW) | 2:27 | 2024-11-19 | 2024-12-19 |
 | [Benjamín Carrión](https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Benjamín Carrión](https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k) | 2:57 | 2022-11-28 | 2022-12-10 |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-31 |  |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-12 | 2022-08-18 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-04-06 | 2023-05-10 |
 | [Besos Moja2](https://open.spotify.com/track/3XIIcuVsJbSj5tNNu46JF8) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Besos Moja2](https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn) | 3:49 | 2022-10-03 | 2022-10-09 |
@@ -195,7 +196,7 @@
 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 | 2022-06-10 | 2022-07-22 |
 | [Caminemos de la Mano](https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Caminemos de la Mano](https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB) | 3:34 | 2022-08-17 | 2022-09-13 |
 | [Canela](https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Que Bien Te Queda El Caribe](https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN) | 2:56 | 2024-08-19 | 2024-10-04 |
-| [Cara a cara](https://open.spotify.com/track/4lY2hVKVwCR0PKklwqxnje) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Cara a cara](https://open.spotify.com/album/1urf45IxfE9f8kgEW6JHCc) | 2:41 | 2025-08-25 |  |
+| [Cara a cara](https://open.spotify.com/track/4lY2hVKVwCR0PKklwqxnje) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Cara a cara](https://open.spotify.com/album/1urf45IxfE9f8kgEW6JHCc) | 2:41 | 2025-08-25 | 2025-11-01 |
 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 | 2023-12-04 | 2024-01-23 |
 | [Carita Linda](https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Carita Linda](https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD) | 3:23 | 2025-04-16 | 2025-07-10 |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-09-03 | 2024-10-22 |

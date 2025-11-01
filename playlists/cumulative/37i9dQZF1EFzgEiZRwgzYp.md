@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0BMqnt7PY8cJsecB4L1Eum">yseult</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-29 songs - 1 hr 47 min
+31 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:28 | 2024-10-10 |  |
 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 | 2024-10-10 |  |
 | [CUTE](https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 | 2024-10-10 |  |
-| [Diego](https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD) | 2:47 | 2024-10-10 |  |
+| [Diego](https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2) | 2:47 | 2025-10-31 |  |
+| [Diego](https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD) | 2:47 | 2024-10-10 | 2025-11-01 |
 | [FUCK ME](https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 0:42 | 2024-10-10 |  |
 | [GASOLINA](https://open.spotify.com/track/0N6VAZz7lTO4GFti940NrQ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:34 | 2024-10-10 |  |
 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 | 2025-01-09 | 2025-04-12 |
@@ -29,7 +30,8 @@
 | [Noir](https://open.spotify.com/track/6bu5BxvutFmO1oxUSC9V2e) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/5cwPosAmmGuDabA4A5hgpe) | 2:39 | 2024-10-10 |  |
 | [Nos souvenirs](https://open.spotify.com/track/7CUAGxYmpmSJv9pbLgqVjy) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Jok'travolta](https://open.spotify.com/album/0AXwsQqbAnJ4Ndi9vxpduV) | 8:05 | 2025-01-09 | 2025-04-12 |
 | [Pause](https://open.spotify.com/track/57TwkG6mUvWDZsEqARyeI2) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:05 | 2025-01-09 | 2025-04-12 |
-| [Rien à prouver](https://open.spotify.com/track/4I7bxhw4Lx0BM7BASksily) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/4GRz2ygP3fWDvzVvsUPDH5) | 4:02 | 2024-10-10 |  |
+| [Rien à prouver](https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR) | 4:02 | 2025-10-31 |  |
+| [Rien à prouver](https://open.spotify.com/track/4I7bxhw4Lx0BM7BASksily) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rien à prouver](https://open.spotify.com/album/4GRz2ygP3fWDvzVvsUPDH5) | 4:02 | 2024-10-10 | 2025-11-01 |
 | [Rodéo](https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY) | 3:03 | 2024-10-10 |  |
 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 | 2024-10-10 |  |
 | [SEXE](https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:55 | 2024-10-10 |  |

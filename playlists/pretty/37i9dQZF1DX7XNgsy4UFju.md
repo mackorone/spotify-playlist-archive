@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: fanclubwallet
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,105 likes - 112 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,102 likes - 112 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [what's good](https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough \(Deluxe\)](https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO) | 3:23 |
 | 2 | [i wish i could rip off this old face](https://open.spotify.com/track/5t3MKtYPpzPz4LfsqeTgpq) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i wish i could rip off this old face](https://open.spotify.com/album/1zxq5E8fjnSO1jC16diuXY) | 2:15 |
 | 3 | [At My Best](https://open.spotify.com/track/5XqbyTQDWGo6S2MYupzxTi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [At My Best](https://open.spotify.com/album/7yDkhM5joo3A3aDa3OJgI5) | 2:56 |
-| 4 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 |
+| 4 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
 | 5 | [Drift Away](https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Drift Away](https://open.spotify.com/album/6wTQPJhjkjRO50PVp2Wa2B) | 3:25 |
 | 6 | [Aging Young Women](https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Aging Young Women](https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V) | 4:01 |
 | 7 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
 | 8 | [When I Was Young](https://open.spotify.com/track/6vmiXtZTxKKQcIAKCfhxyI) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Jesse Maranger](https://open.spotify.com/artist/7wbrCaklJessMP9kVk9nIW) | [When I Was Young](https://open.spotify.com/album/4O9Ef9Lj2S4BAmQJcwWTml) | 4:14 |
-| 9 | [Track 9](https://open.spotify.com/track/3gPTHyIsN8FuJg636miAA4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [Going dark](https://open.spotify.com/track/3gPTHyIsN8FuJg636miAA4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Hypocrite](https://open.spotify.com/album/1T42t0p2wiYZi26F7HGEGD) | 4:13 |
 | 10 | [Do You Hate Me?](https://open.spotify.com/track/32EOGF0LQ2ToSj98LIDcwU) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Living While Dying](https://open.spotify.com/album/6sS7ZfsRPAylZulqdTm8Om) | 2:48 |
 | 11 | [Bonne chance](https://open.spotify.com/track/3anC3RBeKXHDdbzEHuxY4u) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Bonne chance](https://open.spotify.com/album/66MHqqazWOvCAM7tieOXgb) | 3:46 |
 | 12 | [Reckoning](https://open.spotify.com/track/3FBweYQDuCeNOGUnVS5wwN) | [Rosewater Park](https://open.spotify.com/artist/1kGy7SN3yICrgKkIpWkAfO) | [Reckoning](https://open.spotify.com/album/1beQxYmoPdiWl6KMv6Sn9A) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,442,757 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442,819 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Fbi.md) - [plain]
 | 33 | [Sappy](https://open.spotify.com/track/7tUtvGeKB2V5W5ms6uBlyC) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:25 |
 | 34 | [Pennyroyal Tea](https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:38 |
 | 35 | [Been A Son \- BBC Mark Goodier Session](https://open.spotify.com/track/4dXBG3zz9SzaPBtm4Fv91x) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:55 |
-| 36 | [Moist Vagina \- 2013 Mix](https://open.spotify.com/track/3fP8KXXUoBenEM46UZZgSG) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 3:33 |
+| 36 | [Even In His Youth \- B\-Side](https://open.spotify.com/track/3A7yerD72rm4U6m4ZhgfIj) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/1ySR0W1hHxPDKCBWdvzRvc) | 3:02 |
 | 37 | [Verse Chorus Verse \- Outtake](https://open.spotify.com/track/27sz8XfkjnUqTRJwxjHrS1) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 3:16 |
-| 38 | [Even In His Youth \- B\-Side](https://open.spotify.com/track/3A7yerD72rm4U6m4ZhgfIj) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/1ySR0W1hHxPDKCBWdvzRvc) | 3:02 |
+| 38 | [Moist Vagina \- 2013 Mix](https://open.spotify.com/track/3fP8KXXUoBenEM46UZZgSG) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 3:33 |
 | 39 | [Downer](https://open.spotify.com/track/4e0MJaiXSwXBhrQZHyoK8c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 1:43 |
 | 40 | [Old Age \- Nevermind Outtake](https://open.spotify.com/track/4lkG5xoXvOByRaWaWxdQWZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [With The Lights Out \- Box Set](https://open.spotify.com/album/784v2vgKR7tIuycQVzWMOg) | 4:19 |
 
-Snapshot ID: `aQFZAAAAAAD/CZpL/BnAn3dJrnFF4I95`
+Snapshot ID: `aQKqgAAAAADy4ApFe6Z40v8Qlva/OM8z`

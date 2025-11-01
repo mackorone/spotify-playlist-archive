@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-191 songs - 9 hr 8 min
+192 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Awavey](https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Awavey](https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS) | 2:35 | 2024-10-09 |  |
 | [Balanced Tides](https://open.spotify.com/track/5ZtcuO2uIgzfzvvb8EtXfk) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Balanced Tides](https://open.spotify.com/album/7qadwA8nzkCOC3PpjEvD9W) | 2:22 | 2025-01-15 |  |
 | [Beachey](https://open.spotify.com/track/0F8RVIXHBqb7EuDOtyxDEM) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Beachey](https://open.spotify.com/album/4FUYl46HwtSxQvxiFhPenk) | 2:19 | 2025-02-18 |  |
-| [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-10-23 |  |
+| [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-10-23 | 2025-11-01 |
 | [Blue Dreams](https://open.spotify.com/track/0neR03vzECIMYkD4nPDXum) | [Peaceful Island](https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh) | [Blue Dreams](https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j) | 2:22 | 2025-05-21 |  |
 | [Blue Horizon](https://open.spotify.com/track/1skgRtVJ9ckx7SQjWQyQsc) | [Frederic Stelliard](https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc) | [Blue Horizon](https://open.spotify.com/album/7KegJt2prSkUbrssnCdJfz) | 2:39 | 2024-10-09 |  |
 | [Blue Sky \(by the Ocean\) \- Piano](https://open.spotify.com/track/7zrogcxka5pmhoeBhJicES) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ocean Lullaby](https://open.spotify.com/album/7356b9TsGhH8iAxUjWuVEp) | 2:12 | 2024-04-01 | 2024-07-09 |
@@ -98,6 +98,7 @@
 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 | 2023-10-26 | 2025-01-16 |
 | [Kallisto Thalassa](https://open.spotify.com/track/0cYX4SJ08CQtEJd63j0PiF) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [Kallisto Thalassa](https://open.spotify.com/album/5IzeqmJIDEBtqBnvDlet7j) | 3:15 | 2024-07-08 | 2025-07-01 |
 | [Kaze no Oto](https://open.spotify.com/track/7cKyV4MSnsEkCcaIgP2Wgw) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [Kaze no Oto](https://open.spotify.com/album/4vI63xTFLI3D4uVBLGOwKD) | 2:38 | 2025-05-21 | 2025-06-24 |
+| [Lakeside](https://open.spotify.com/track/4i6mioJF303ji4qZixNyUF) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Lakeside](https://open.spotify.com/album/0GVEfZ3VR8njmrbXjA3oeA) | 3:08 | 2025-10-02 |  |
 | [Lamenting Tides](https://open.spotify.com/track/1EvV3xSsoomdlynBskfrcU) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Lamenting Tides](https://open.spotify.com/album/1ADt66KybnarDRYzAIYgL5) | 2:47 | 2024-05-01 | 2024-11-11 |
 | [Lighthouse](https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj) | [Time Sphere](https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT) | [Lighthouse](https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6) | 3:36 | 2023-10-23 |  |
 | [Lumen At The Beach](https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Lumen At The Beach](https://open.spotify.com/album/1hpj4CvS7jBcV1LDcUwUjL) | 3:01 | 2023-10-26 | 2025-02-07 |

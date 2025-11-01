@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,850 likes - 42 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,854 likes - 42 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Provócame](https://open.spotify.com/track/3U77Vk8TSPLAUg7vuw8Hkw) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:00 |
 | 2 | [Esa Chica Me Vacila](https://open.spotify.com/track/5n7Ve3yvy4VapkWzCDbhJf) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:40 |
 | 3 | [Tu Ingratitud](https://open.spotify.com/track/0rUJIMZaR2B0T2TwLkBkvm) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:11 |
-| 4 | [El De La Quebradita](https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 2:36 |
-| 5 | [Tu Pum Pum](https://open.spotify.com/track/6NTAW7bC9AgR6opeoMaVAc) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:00 |
+| 4 | [Candela Verde](https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 3:04 |
+| 5 | [La Negra Colora](https://open.spotify.com/track/3ZQ6cokAz0pRrxjWf7zxHW) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 2:39 |
 | 6 | [Charanga Costeña](https://open.spotify.com/track/7riOaIGe43ftJHJzFBv09Z) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:16 |
 | 7 | [Te Ves Bien Buena](https://open.spotify.com/track/4W7B6AkTQ6CJSXTojwfMoY) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:48 |
-| 8 | [Candela Verde](https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 3:04 |
-| 9 | [La Negra Colora](https://open.spotify.com/track/3ZQ6cokAz0pRrxjWf7zxHW) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 2:39 |
+| 8 | [El De La Quebradita](https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 2:36 |
+| 9 | [Tu Pum Pum](https://open.spotify.com/track/6NTAW7bC9AgR6opeoMaVAc) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:00 |
 | 10 | [Muévelo](https://open.spotify.com/track/1ssWsWaHvCgUkV4X4lz1hK) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:16 |
 | 11 | [Domingo Corrales](https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:46 |
 | 12 | [El Hombliguito](https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 2:57 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 41 | [Me He Quedado Solo](https://open.spotify.com/track/6UEb9HmWZnaj5tYWhf6v2O) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:01 |
 | 42 | [Te Voy A Olvidar](https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 3:00 |
 
-Snapshot ID: `aQFZAAAAAABYlMbhq+W+rbIs0rAWSwkB`
+Snapshot ID: `aQKqgAAAAAAMq8u0u0hTDSdvySD+Vjwo`

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 693624,
+  "num_followers": 693669,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAD/6A5IjCGvp4tyFBXqlP5l",
+  "snapshot_id": "aQKqgAAAAAD0DW6wNGDhyD77Gh9w6+p2",
   "tracks": [
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
+      "duration_ms": 239093,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Dress You Up",
-      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Dress You Up",
+      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 239093,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
+      "duration_ms": 229600,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
     },
     {
       "added_at": null,

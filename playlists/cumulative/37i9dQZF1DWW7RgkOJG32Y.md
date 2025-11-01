@@ -4,7 +4,7 @@
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Waylon Wyatt
 
-601 songs - 1 day 8 hr 24 min
+602 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-17 | 2023-02-04 |
 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 | 2024-06-21 | 2024-09-07 |
 | [The Neon](https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Neon](https://open.spotify.com/album/7CQGgKnzZNeP8ej48hOYng) | 3:34 | 2022-02-25 | 2022-11-03 |
+| [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/1jZvywRaT7pNoFMVvaLoP5) | [Briley King](https://open.spotify.com/artist/4UwsufbUC2DUrErjxW3XU6), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Night The Lights Went Out In Georgia](https://open.spotify.com/album/2Y3bfuOSg8kDUHvTlSPrPP) | 4:16 | 2025-10-31 |  |
 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 | 2023-08-25 | 2024-06-13 |
 | [The Right One](https://open.spotify.com/track/4DZU897k6LLzfg1JOEjKjK) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Full Moon](https://open.spotify.com/album/3NccNTsZeAlGl7MFCJkHNt) | 3:01 | 2025-04-04 | 2025-09-07 |
 | [Therapy](https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy](https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik) | 2:50 | 2022-03-04 | 2023-02-11 |

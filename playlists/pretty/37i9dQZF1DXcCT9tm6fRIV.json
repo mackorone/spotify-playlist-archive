@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 245803,
+  "num_followers": 245808,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-06-06 20:00:28",
       "album": {
+        "name": "Manzi, caminos de barro y pampa",
+        "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 216465,
+      "name": "Romance de barrio",
+      "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
+    },
+    {
+      "added_at": "2025-06-06 20:00:28",
+      "album": {
         "name": "El Tango",
         "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 221500,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
-    },
-    {
-      "added_at": "2025-06-06 20:00:28",
-      "album": {
-        "name": "Manzi, caminos de barro y pampa",
-        "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 216465,
-      "name": "Romance de barrio",
-      "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
     },
     {
       "added_at": "2025-06-06 20:00:28",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-06-06 20:00:28",
       "album": {
+        "name": "Detr\u00e1s de los Cerros",
+        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Los Crayones",
+          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Detr\u00e1s de los Cerros",
+      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
+    },
+    {
+      "added_at": "2025-06-06 20:00:28",
+      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 221934,
       "name": "Chiquil\u00edn de Bach\u00edn",
       "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
-    },
-    {
-      "added_at": "2025-06-06 20:00:28",
-      "album": {
-        "name": "Detr\u00e1s de los Cerros",
-        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Los Crayones",
-          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Detr\u00e1s de los Cerros",
-      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
     },
     {
       "added_at": "2025-06-06 20:00:28",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-06-06 20:00:28",
       "album": {
-        "name": "70 A\u00f1os de Tango",
-        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
-      },
-      "artists": [
-        {
-          "name": "Roberto Siri",
-          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Quiero Verte una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
-    },
-    {
-      "added_at": "2025-06-06 20:00:28",
-      "album": {
         "name": "Rescatados",
         "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 177977,
       "name": "Sur",
       "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
+    },
+    {
+      "added_at": "2025-06-06 20:00:28",
+      "album": {
+        "name": "70 A\u00f1os de Tango",
+        "url": "https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk"
+      },
+      "artists": [
+        {
+          "name": "Roberto Siri",
+          "url": "https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Quiero Verte una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID"
     },
     {
       "added_at": "2025-06-06 20:00:28",
@@ -1087,34 +1087,6 @@
     {
       "added_at": "2025-06-06 20:00:28",
       "album": {
-        "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
-        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
-      },
-      "artists": [
-        {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        },
-        {
-          "name": "Llu\u00eds Vidal",
-          "url": "https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH"
-        },
-        {
-          "name": "Orquestra De Cambra Teatre Lliure",
-          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
-        },
-        {
-          "name": "Josep Pons",
-          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
-      "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
-    },
-    {
-      "added_at": "2025-06-06 20:00:28",
-      "album": {
         "name": "Todo Es Amor",
         "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
       },
@@ -1151,6 +1123,34 @@
     {
       "added_at": "2025-06-06 20:00:28",
       "album": {
+        "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
+        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        },
+        {
+          "name": "Llu\u00eds Vidal",
+          "url": "https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH"
+        },
+        {
+          "name": "Orquestra De Cambra Teatre Lliure",
+          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
+        },
+        {
+          "name": "Josep Pons",
+          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
+      "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
+    },
+    {
+      "added_at": "2025-06-06 20:00:28",
+      "album": {
         "name": "Esperarte",
         "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
@@ -1179,26 +1179,6 @@
       "duration_ms": 204714,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
-    },
-    {
-      "added_at": "2025-06-06 20:00:28",
-      "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        }
-      ],
-      "duration_ms": 233732,
-      "name": "Cualquiera de Estas Noches",
-      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
     },
     {
       "added_at": "2025-06-06 20:00:28",
@@ -1239,6 +1219,26 @@
     {
       "added_at": "2025-06-06 20:00:28",
       "album": {
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        }
+      ],
+      "duration_ms": 233732,
+      "name": "Cualquiera de Estas Noches",
+      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
+    },
+    {
+      "added_at": "2025-06-06 20:00:28",
+      "album": {
         "name": "Tinta Roja",
         "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
       },
@@ -1248,7 +1248,7 @@
           "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 188854,
+      "duration_ms": 188855,
       "name": "Tinta Roja",
       "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
     },

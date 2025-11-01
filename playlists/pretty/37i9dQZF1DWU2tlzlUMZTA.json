@@ -1,6 +1,6 @@
 {
   "description": "Only hits! Cover- 'Sahiba' by Jasleen Royal and Stebin Ben",
-  "num_followers": 132360,
+  "num_followers": 132416,
   "original_name": "I-Pop Superhits",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-10-07 07:39:11",
       "album": {
+        "name": "Champagne Talk",
+        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Maan Meri Jaan",
+      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
+    },
+    {
+      "added_at": "2025-10-07 07:39:11",
+      "album": {
         "name": "Brown Munde",
         "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 254400,
       "name": "Brown Munde",
       "url": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4"
-    },
-    {
-      "added_at": "2025-10-07 07:39:11",
-      "album": {
-        "name": "Champagne Talk",
-        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Maan Meri Jaan",
-      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
     },
     {
       "added_at": "2025-10-07 07:39:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-10-07 07:39:11",
       "album": {
-        "name": "Chaand Baaliyan",
-        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
-      },
-      "artists": [
-        {
-          "name": "Aditya A",
-          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
-        }
-      ],
-      "duration_ms": 103264,
-      "name": "Chaand Baaliyan",
-      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
-    },
-    {
-      "added_at": "2025-10-07 07:39:11",
-      "album": {
         "name": "The Carnival",
         "url": "https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 270000,
       "name": "Tu Aake Dekhle",
       "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby"
+    },
+    {
+      "added_at": "2025-10-07 07:39:11",
+      "album": {
+        "name": "Chaand Baaliyan",
+        "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "duration_ms": 103264,
+      "name": "Chaand Baaliyan",
+      "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
     },
     {
       "added_at": "2025-10-07 07:39:11",
@@ -697,7 +697,7 @@
         },
         {
           "name": "Akash Rajput",
-          "url": "https://open.spotify.com/artist/5NCf8mhYVsHtJhk59yYQud"
+          "url": "https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk"
         }
       ],
       "duration_ms": 165840,

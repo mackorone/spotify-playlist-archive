@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Young Thug",
-  "num_followers": 273225,
+  "num_followers": 273215,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2025-10-17 08:56:00",
       "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Proud Of Me (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb"
+    },
+    {
+      "added_at": "2025-10-17 08:56:00",
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 344571,
       "name": "Victory Lap Five",
       "url": "https://open.spotify.com/track/7vV6MiU4BHLuNyu4P87z9k"
-    },
-    {
-      "added_at": "2025-10-17 08:56:00",
-      "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Proud Of Me (feat. Meek Mill)",
-      "url": "https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb"
     },
     {
       "added_at": "2025-10-17 08:56:00",

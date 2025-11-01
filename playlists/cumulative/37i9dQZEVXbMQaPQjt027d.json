@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 156457,
       "name": "Brainrot Rap (brr brr) - Exteneded",
       "url": "https://open.spotify.com/track/6hohJxwRxlYF0ookfJRljy"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 157613,
       "name": "De Tent Moet Op Z'n Kop",
       "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 142959,
       "name": "Gangsta's Paradise - Blues Cover",
       "url": "https://open.spotify.com/track/1KOycm3BH4V0HVe1ZR4cQF"
@@ -5062,6 +5062,10 @@
         {
           "name": "Furac\u00e3o 2000",
           "url": "https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0"
+        },
+        {
+          "name": "Nyasia",
+          "url": "https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW"
         }
       ],
       "date_added": "2025-10-01",
@@ -5088,7 +5092,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -6011,6 +6015,28 @@
     },
     {
       "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/4Oc1qHsjM4kM0AARvlwSs3"
+    },
+    {
+      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -6680,7 +6706,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -7191,6 +7217,24 @@
     },
     {
       "album": {
+        "name": "The Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
+    },
+    {
+      "album": {
         "name": "Shadows & Soul",
         "url": "https://open.spotify.com/album/3p4PFOpeBSQ8A1sNGqtX2O"
       },
@@ -7220,7 +7264,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 210522,
       "name": "Through My Soul",
       "url": "https://open.spotify.com/track/7Gw9le1yw6MTSzqugtc6E0"
@@ -8560,10 +8604,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 321387,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/3nY6mivFNJlCGSlMW9BAFH"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/4ggAqavt81oF4dQLF4D7lp"
+      },
+      "artists": [
+        {
+          "name": "Orion7",
+          "url": "https://open.spotify.com/artist/5xq85p5vUAcHW9qjlJ2Hle"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321394,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/3EWDDciJNMk7gAZNp6L6V7"
     },
     {
       "album": {

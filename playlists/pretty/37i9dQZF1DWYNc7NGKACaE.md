@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,543 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,535 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 26 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 |
 | 27 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
 | 28 | [Kill Bill \- Speed](https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS) | [Cabrxlzin](https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Kill Bill \- Speed](https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB) | 1:28 |
-| 29 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |
-| 30 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 |
+| 29 | [Semblante de Criminoso Speed](https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa) | [DJ Cayoo](https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz) | [Semblante de Criminoso Speed](https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt) | 1:38 |
+| 30 | [Plug do São João SPEED](https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [SPEED Versions](https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw) | 1:46 |
 | 31 | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [MT \- TETO, Deus Vai Guiar, ENTÃO APONTA O FUZIL](https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh) | 2:40 |
 | 32 | [Ela Tá Querendo \- Remix](https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez) | [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [2L Motta](https://open.spotify.com/artist/6vlGnGiNA4XMXY6aPhBowm), [DJ MK De Niterói](https://open.spotify.com/artist/4QBJyByBb8tDUFD9XRi5Rs), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Ela Tá Querendo \(Remix\)](https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O) | 1:15 |
 | 33 | [Luxo & Crime Speed](https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6) | [Lord Ralph Lauren](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Yauke](https://open.spotify.com/artist/175mTYHITiXXjSZAICQrPr) | [Luxo & Crime Speed](https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc) | 2:20 |

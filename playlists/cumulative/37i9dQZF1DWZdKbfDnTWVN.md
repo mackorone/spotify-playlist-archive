@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=L7kvdM7fTrWs4\_oRxzCfrA"> BURUKLYN BOYZ</a>
 
-441 songs - 23 hr 46 min
+441 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [EASTSIDE GVNNA](https://open.spotify.com/track/7jPCujGKU8RWRyDh60Iull) | [Na$EER](https://open.spotify.com/artist/1zLpeIIskZiOUjHUtUi13r) | [THIS YEAR NEXT YEAR](https://open.spotify.com/album/4yDcMSzMAHd5H5hXDAaCnM) | 2:35 | 2023-11-10 | 2024-01-27 |
 | [Effects Of Hard Drugz](https://open.spotify.com/track/1oSFdllPihYn6EkKyj8ZDv) | [Bountty Blockah](https://open.spotify.com/artist/4eV7TwtZDTYI8wB5wyOPDN), [Mbogi Genje](https://open.spotify.com/artist/4vGP504C4n2tHcSPbXmbt3), [, Mableh](https://open.spotify.com/artist/2qUHKed63B8deg91gv48N5), [Aleba](https://open.spotify.com/artist/191CfyOXsX1ByHtKdG5gkT) | [Effects Of Hard Drugz](https://open.spotify.com/album/5mfg438TMWCpc7DX0x11oX) | 5:13 | 2025-07-25 |  |
 | [Euphoria](https://open.spotify.com/track/1XNworIWOEdh27aI8mSpDp) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Euphoria](https://open.spotify.com/album/4LpF3xAqErYDmbiOiYSmFv) | 2:08 | 2025-10-09 |  |
+| [Expensive Tears](https://open.spotify.com/track/6Z7waaGZ4vlQmQsKkj14ED) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [LilSccrt](https://open.spotify.com/artist/48hL35FnwaSzrOwxeAXHhZ) | [MIXTAPE V1](https://open.spotify.com/album/2A4OTvqtkdJoiGXILlfw2m) | 3:25 | 2025-10-30 |  |
 | [F Tz Rappers 1](https://open.spotify.com/track/3mQcfTWi1Y19wLLgYnW5EU) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [F Tz Rappers 1](https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF) | 2:55 | 2023-09-07 | 2024-03-16 |
 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 | 2022-06-16 | 2023-05-06 |
 | [Find Me](https://open.spotify.com/track/1uSRZJQPDeyXEfLchPzvG2) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Find Me](https://open.spotify.com/album/1AgZQ93mx0PMCEnpvtJYss) | 3:06 | 2025-09-19 | 2025-10-03 |
@@ -401,7 +402,6 @@
 | [Ting Ting](https://open.spotify.com/track/6909V2BKClOQv7JXzAi0V4) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi) | [Kidungi](https://open.spotify.com/album/3R8y9eshNINDHNcOICx4j2) | 3:42 | 2025-08-07 | 2025-08-12 |
 | [Tom Mboya](https://open.spotify.com/track/2y5CIx4aoIGMoJilesf2yA) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [Tom Mboya](https://open.spotify.com/album/1FC8uWdB2v0vgMiLFqbnH9) | 3:40 | 2022-07-07 | 2023-04-21 |
 | [Too Much](https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz) | [GTA](https://open.spotify.com/artist/5ja1GRgYKlXJNpcCLB3mxh), [NATTY](https://open.spotify.com/artist/4eNDlXIuO29xtFWoqRmcli) | [Nattorius](https://open.spotify.com/album/1ixq1wEqfuauhtyVe8X8OT) | 2:12 | 2023-01-19 | 2023-06-30 |
-| [Track 2](https://open.spotify.com/track/6Z7waaGZ4vlQmQsKkj14ED) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [Tsunami](https://open.spotify.com/track/0Z412tcJhHWjmU7q05qI7T) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Scar](https://open.spotify.com/artist/4jNWY4AuhaqlwrKsYpYPhH) | [Invisible Currency](https://open.spotify.com/album/3bMnNtT3KDro78bMlWiq8a) | 6:14 | 2022-03-17 | 2023-05-19 |
 | [Tukawake](https://open.spotify.com/track/11w3BiPcMqNq0peyzPmx6Q) | [K\-Rupt](https://open.spotify.com/artist/1l2O926MJtrHhSgDGRayJ4) | [Ogopa 2 \- Strictly For The Hanyee In You](https://open.spotify.com/album/6ZJyOUYH9xf2VhfADsYvNl) | 3:57 | 2025-08-07 | 2025-08-15 |
 | [Tululu](https://open.spotify.com/track/4B6FVBw2NBzr9KYwzxcMPW) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [KGG](https://open.spotify.com/artist/7cNVfDaokwHYBc9L5Jq0Jy), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Tululu](https://open.spotify.com/album/5LEqDpzPMX5qoqwlE3NvQB) | 3:55 | 2025-05-15 |  |

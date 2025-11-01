@@ -1,13 +1,113 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9066,
+  "num_followers": 9067,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAO+leUK5Uo0i2IuHTKpfU93O+MMVCO",
+  "snapshot_id": "AAAPBtvY3CRiwxIKrQfQcjMe7mY3XCzv",
   "tracks": [
+    {
+      "added_at": "2025-10-31 19:41:52",
+      "album": {
+        "name": "In Threes",
+        "url": "https://open.spotify.com/album/3hDNvAoYiCWs9Vv1yHNQ6t"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 216166,
+      "name": "In Threes",
+      "url": "https://open.spotify.com/track/1LtzeD1ZFgOL8AAvIBHDDp"
+    },
+    {
+      "added_at": "2025-10-31 19:42:16",
+      "album": {
+        "name": "Struck Dead",
+        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 317174,
+      "name": "Struck Dead",
+      "url": "https://open.spotify.com/track/3b8yFZD80QgsltsbrYjJXQ"
+    },
+    {
+      "added_at": "2025-10-31 19:41:40",
+      "album": {
+        "name": "TANZNEID",
+        "url": "https://open.spotify.com/album/3Tmtkjz1J1wnhNkUAzXi2F"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 185172,
+      "name": "TANZNEID",
+      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF"
+    },
+    {
+      "added_at": "2025-10-31 19:41:15",
+      "album": {
+        "name": "Necessity Has Clipped My Wings",
+        "url": "https://open.spotify.com/album/1l7GAJkJEgsZOk0Ccdrh3R"
+      },
+      "artists": [
+        {
+          "name": "A Mourning Star",
+          "url": "https://open.spotify.com/artist/6liRUYkXvRcAJPlSrmGftP"
+        },
+        {
+          "name": "Trench",
+          "url": "https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0"
+        }
+      ],
+      "duration_ms": 211171,
+      "name": "An Abundance",
+      "url": "https://open.spotify.com/track/7cssaFgcG5wIzR6tU85twv"
+    },
+    {
+      "added_at": "2025-10-31 19:41:29",
+      "album": {
+        "name": "All That Follows",
+        "url": "https://open.spotify.com/album/14jkNNtzXEMEYVe1NHE7G8"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 209153,
+      "name": "Rise & Fall",
+      "url": "https://open.spotify.com/track/0Ip46hm5I2g29iHzbyEMHv"
+    },
+    {
+      "added_at": "2025-10-31 19:42:05",
+      "album": {
+        "name": "Black Matter Manifesto",
+        "url": "https://open.spotify.com/album/7FsDE0inqoupSmFkkFF7vH"
+      },
+      "artists": [
+        {
+          "name": "Samael",
+          "url": "https://open.spotify.com/artist/1WXagRGw8AveVrRxDfUjli"
+        }
+      ],
+      "duration_ms": 233963,
+      "name": "Black Matter Manifesto",
+      "url": "https://open.spotify.com/track/5cQWLtanuuSVf5akXI9IOG"
+    },
     {
       "added_at": "2025-10-24 19:00:25",
       "album": {

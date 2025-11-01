@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "Bemba Color\u00e1 (En Vivo)",
+        "url": "https://open.spotify.com/album/120BxgsyWV5HCOyhgaTOrf"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia",
+          "url": "https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243527,
+      "name": "Bemba Color\u00e1 - En Vivo",
+      "url": "https://open.spotify.com/track/0tktyvtoWegrOb9fivSEXq"
+    },
+    {
+      "album": {
         "name": "Bravo",
         "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
       },
@@ -2120,7 +2142,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 272251,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"

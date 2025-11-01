@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 335541,
+  "num_followers": 336105,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 169186,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "World Coming Down",
+        "url": "https://open.spotify.com/album/19GlIEIJqujc5U5B7PETZW"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 515933,
+      "name": "All Hallows Eve",
+      "url": "https://open.spotify.com/track/6jTpj6yGuX2Bp8L21GD4pf"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 210559,
       "name": "Meat & Greet",
       "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "World Coming Down",
-        "url": "https://open.spotify.com/album/19GlIEIJqujc5U5B7PETZW"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 515933,
-      "name": "All Hallows Eve",
-      "url": "https://open.spotify.com/track/6jTpj6yGuX2Bp8L21GD4pf"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Skeleton",
-        "url": "https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw"
+        "name": "Constrictor",
+        "url": "https://open.spotify.com/album/3F3JU1MJDN9PgHFwbCvFvV"
       },
       "artists": [
         {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 203550,
-      "name": "Skeleton",
-      "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
+      "duration_ms": 220666,
+      "name": "Teenage Frankenstein",
+      "url": "https://open.spotify.com/track/3YBIjZM0WDEQRpVcXyH4vx"
     }
   ],
   "unique_name": "Headbanger Halloween",

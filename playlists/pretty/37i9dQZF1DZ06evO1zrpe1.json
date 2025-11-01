@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAaPdAxBMLQDrZRpJhALCft",
+  "snapshot_id": "aQKqgAAAAADLuohd1AwKNIwx7XyEg6yD",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
+        "name": "En Donde Esta Tu Amor",
+        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 251147,
-      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
+      "duration_ms": 169429,
+      "name": "En Donde Esta Tu Amor",
+      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azules Reflejos (En Vivo)",
         "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 201286,
       "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Donde Esta Tu Amor",
-        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 169429,
-      "name": "En Donde Esta Tu Amor",
-      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Bohemia (En Vivo)",
+        "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        },
+        {
+          "name": "Jr Salazar",
+          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
+        }
+      ],
+      "duration_ms": 247737,
+      "name": "Fuiste T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azules Reflejos (En Vivo)",
         "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
       },
@@ -776,17 +796,17 @@
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         },
         {
-          "name": "Jr Salazar",
-          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 247737,
-      "name": "Fuiste T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5"
+      "duration_ms": 214801,
+      "name": "Le\u00f1a de Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS"
     }
   ],
   "unique_name": "This Is Adriana R\u00edos",

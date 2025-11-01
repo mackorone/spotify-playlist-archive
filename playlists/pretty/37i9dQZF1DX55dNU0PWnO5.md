@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,204 likes - 200 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,185 likes - 200 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

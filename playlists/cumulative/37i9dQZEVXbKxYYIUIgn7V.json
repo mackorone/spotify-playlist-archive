@@ -5818,7 +5818,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 138955,
       "name": "blackout blackout",
       "url": "https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ"
@@ -13410,7 +13410,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 93288,
       "name": "Everything is romantic (fall in love again and again)",
       "url": "https://open.spotify.com/track/0OYNpQ7xiLyZkksalUuko1"
@@ -14162,7 +14162,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 227319,
       "name": "Fearful Thing",
       "url": "https://open.spotify.com/track/1kgZgssoMOPX4XJ7U140RT"
@@ -15970,7 +15970,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 142959,
       "name": "Gangsta's Paradise - Blues Cover",
       "url": "https://open.spotify.com/track/1KOycm3BH4V0HVe1ZR4cQF"
@@ -21552,6 +21552,24 @@
       "duration_ms": 107368,
       "name": "IN DIE BIOTONNE",
       "url": "https://open.spotify.com/track/2AL6gVfsIHKJv9dmF6YtW5"
+    },
+    {
+      "album": {
+        "name": "Aus meinem Tagebuch",
+        "url": "https://open.spotify.com/album/18lmPK5jSx7uwin7aYqUMb"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Mey",
+          "url": "https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212333,
+      "name": "In meinem Garten",
+      "url": "https://open.spotify.com/track/4T9sZmhUcwnAimjnBTl7eW"
     },
     {
       "album": {
@@ -28556,6 +28574,10 @@
         {
           "name": "Furac\u00e3o 2000",
           "url": "https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0"
+        },
+        {
+          "name": "Nyasia",
+          "url": "https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW"
         }
       ],
       "date_added": "2025-09-20",
@@ -41922,7 +41944,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 162162,
       "name": "The Devil I Know",
       "url": "https://open.spotify.com/track/7k75y6b7WkIZOFzS2wYx4m"
@@ -42546,7 +42568,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -42564,7 +42586,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -47128,10 +47150,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 321387,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/3nY6mivFNJlCGSlMW9BAFH"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/4ggAqavt81oF4dQLF4D7lp"
+      },
+      "artists": [
+        {
+          "name": "Orion7",
+          "url": "https://open.spotify.com/artist/5xq85p5vUAcHW9qjlJ2Hle"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321394,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/3EWDDciJNMk7gAZNp6L6V7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,448 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,446 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 74 | [OMG](https://open.spotify.com/track/4ykEkTdH5eTkt7qRxfMard) | [LEDU](https://open.spotify.com/artist/5ViMWZ1otsSujBRFjNG4RI) | [OMG](https://open.spotify.com/album/09UNrpKJgqEs29yfZQZwph) | 2:01 |
 | 75 | [Blinde Passagiere](https://open.spotify.com/track/7j4R30Ae96SBBkTAolLCcb) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Schiffe Versenken \(tape\)](https://open.spotify.com/album/1rrBIh1c1off8NJmY5Ltnx) | 3:06 |
 
-Snapshot ID: `AAAAAHaXcaDWRwBIFIh++FdoVDWvOF30`
+Snapshot ID: `AAAAAJU9K57C6wpHjgv25/TjEToxxKwR`

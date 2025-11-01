@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Paris Paloma
+> Feeling dramatic? All eyes on you\. Cover: Grace Power
 
-522 songs - 1 day 4 hr 19 min
+525 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [dumbledore \- DARK ARTS VERSION](https://open.spotify.com/track/7xevbUxTQStXDZNG6ydsua) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [dumbledore](https://open.spotify.com/album/0S1J7M4BMRucoNN3Lln6BX) | 3:15 | 2025-02-28 | 2025-05-23 |
 | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/track/7G6tyJxqTuhZnLHtkRX1hE) | [Oli Frost](https://open.spotify.com/artist/5dFJdXPDdubN7e6RIC2MXP) | [Eco Anxiety \(Emo Animosity\)](https://open.spotify.com/album/22V98xfVoC34f6ZWcVI8XN) | 2:37 | 2022-06-24 | 2022-07-08 |
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-28 | 2025-07-26 |
+| [ego of a man](https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOT POT!](https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7) | 2:37 | 2025-10-31 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/6o4KmRRIZVzII1yA6IK9Cq) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Symphony Sessions](https://open.spotify.com/album/6akM5QezAquVzmc0rZopw6) | 4:40 | 2022-05-17 | 2022-07-16 |
 | [Election Day](https://open.spotify.com/track/1bd8bPTpgERdmcsNwMbx8w) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW), [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [Too Much to Ask](https://open.spotify.com/album/233GvGeKMsNHQgGvclrhC6) | 1:57 | 2022-08-05 | 2022-09-15 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 | 2025-04-26 |
@@ -205,7 +206,7 @@
 | [GØD](https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [GØD](https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut) | 3:38 | 2025-01-10 | 2025-05-03 |
 | [Habits](https://open.spotify.com/track/0qL3JquOSa7ErWX3RXfUgo) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits \(Demo\)](https://open.spotify.com/album/0M696kjDtdAb8gsU3B9kWh) | 2:14 | 2023-04-17 | 2023-06-21 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 | 2023-05-08 |
-| [Hand On The Bible](https://open.spotify.com/track/4pEupmTD5rymu7ly4DcYVx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Hand On The Bible](https://open.spotify.com/album/79jQaFPu4zthfeBHPjDFsD) | 3:30 | 2025-10-10 |  |
+| [Hand On The Bible](https://open.spotify.com/track/4pEupmTD5rymu7ly4DcYVx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Hand On The Bible](https://open.spotify.com/album/79jQaFPu4zthfeBHPjDFsD) | 3:30 | 2025-10-10 | 2025-11-01 |
 | [Happy as Hell](https://open.spotify.com/track/29z3ucWB5DV4EjS1jQ7e39) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Happy as Hell](https://open.spotify.com/album/62DWhM478uiSSlDk6WQRpe) | 3:09 | 2025-08-22 |  |
 | [Happy Place](https://open.spotify.com/track/2eunobIVSTIr6ZvBJroKDF) | [ZAMination](https://open.spotify.com/artist/7K463FESyap8fJPiVUDK5U), [Zachary Preciado](https://open.spotify.com/artist/7f6Ytci5zAhJECf9qcXTYF) | [Happy Place](https://open.spotify.com/album/1BcYulpCmLIQDTfAnE4NfW) | 2:26 | 2025-01-10 | 2025-04-05 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-26 | 2024-12-07 |
@@ -428,7 +429,7 @@
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-05-17 | 2023-06-21 |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-05 | 2025-03-29 |
 | [Sunday Morning](https://open.spotify.com/track/3viBNiQST9s6ea8NW27ZYo) | [Dominick Fulco](https://open.spotify.com/artist/3s7mu0cVl7jhG6EZE6WNP6) | [Sunday Morning](https://open.spotify.com/album/5Z61nSZOz926LJeacvpf3b) | 2:51 | 2024-05-24 | 2024-07-18 |
-| [Super Elastic](https://open.spotify.com/track/2CgAq41E94POR8ijS59Ztv) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Super Elastic](https://open.spotify.com/album/0asGNH0icImyJfXZ8W9Uw5) | 3:03 | 2025-08-08 |  |
+| [Super Elastic](https://open.spotify.com/track/2CgAq41E94POR8ijS59Ztv) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Super Elastic](https://open.spotify.com/album/0asGNH0icImyJfXZ8W9Uw5) | 3:03 | 2025-08-08 | 2025-11-01 |
 | [Supercynical](https://open.spotify.com/track/4EnLXCLASlK1FWB8Na1ST0) | [Rubberband Girl](https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Profiterole Vision](https://open.spotify.com/album/0zlvNF1zKtII3yAyG6sjFc) | 2:48 | 2024-09-20 | 2024-12-19 |
 | [Suzy Loves Sam](https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Suzy Loves Sam](https://open.spotify.com/album/3b6c71BkZifMY0jhDVnaoE) | 2:45 | 2025-09-05 |  |
 | [Taking What's Not Yours](https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:25 | 2024-03-26 | 2025-04-19 |
@@ -492,6 +493,7 @@
 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 | 2022-05-17 | 2023-05-27 |
 | [Typical Me](https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq) | [kroh](https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa) | [Unfinished Symphony](https://open.spotify.com/album/5QmoeSOvBYGuSLQcd0tzk7) | 3:06 | 2022-05-17 | 2024-01-27 |
 | [Under My Skin](https://open.spotify.com/track/5oiZiF3fBLHqgTDaH0Pj7M) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Let Live & Let Ghosts](https://open.spotify.com/album/0zQxOFhjixRmW1w6LftIyX) | 3:19 | 2022-05-17 | 2022-12-10 |
+| [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 |  |
 | [Unsweetened Lemonade](https://open.spotify.com/track/0hjTOj4u1cLwPov4fqevnw) | [Amélie Farren](https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG) | [Unsweetened Lemonade](https://open.spotify.com/album/1ybx1ljq27DWJqYxm1rn5R) | 2:24 | 2024-05-26 |  |
 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 | 2023-01-20 | 2023-12-30 |
 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 | 2023-11-15 | 2025-03-22 |
@@ -510,7 +512,7 @@
 | [walk away](https://open.spotify.com/track/4qPlGME9gibeMHrhLLq1KR) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4) | [walk away](https://open.spotify.com/album/5IELJPwvxu1C13dnZUmlxf) | 2:08 | 2024-03-08 | 2024-04-27 |
 | [Waltz For Sweatpants](https://open.spotify.com/track/5NItQtFp7GdPaOG41vVXCk) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Waltz For Sweatpants](https://open.spotify.com/album/79BUAhiwMuRuyRouRwrZ36) | 3:15 | 2023-06-23 | 2023-08-23 |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2023-12-29 |  |
-| [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 | 2025-07-11 |  |
+| [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 | 2025-07-11 | 2025-11-01 |
 | [We Say Goodbye](https://open.spotify.com/track/5YhYzgnAgRj1sKXLqcaM6N) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [We Say Goodbye](https://open.spotify.com/album/7x1odOgxt7VRV2Tj4XQYU2) | 2:23 | 2024-07-10 | 2025-03-29 |
 | [Wedding Day](https://open.spotify.com/track/0VdwQ8I71j9oEQEMftFjTC) | [Justin Nech](https://open.spotify.com/artist/6rbfAxYhRLdtLo3CzhTieA) | [Wedding Day](https://open.spotify.com/album/2OcYyisv1jKz7vjLuG42qS) | 2:45 | 2024-05-24 | 2024-09-07 |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2022-05-17 | 2022-08-06 |
@@ -523,6 +525,7 @@
 | [Where Do All The Good Kids Go?](https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Where Do All The Good Kids Go?](https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3) | 3:16 | 2023-07-14 | 2023-11-21 |
 | [Wine Red](https://open.spotify.com/track/7puGwAJbm1hhbSkKVrvrdT) | [The Hush Sound](https://open.spotify.com/artist/1RCoE2Dq19lePKhPzt9vM5) | [Like Vines](https://open.spotify.com/album/2ViqUaFAwiL0ILIr7eexgl) | 2:34 | 2022-05-17 | 2022-12-10 |
 | [Wires Crossed](https://open.spotify.com/track/0dI23ZVQTJq9wlx8Wm3nre) | [Dom Fera](https://open.spotify.com/artist/2qmjAtWVjMPWHHDdWilU6a) | [Wires Crossed](https://open.spotify.com/album/0wDqCohxL8ao0ilO0XUykz) | 3:02 | 2024-01-05 | 2024-01-23 |
+| [Wishing For Wounds](https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Wishing For Wounds](https://open.spotify.com/album/6t730CtJHxx2ykmDTwvZfy) | 4:19 | 2025-10-31 |  |
 | [World Burn](https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 3:35 | 2024-01-26 | 2024-05-25 |
 | [World Burn](https://open.spotify.com/track/3iISGrl3JKqPQ4GLqPjVkt) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:23 | 2022-06-03 | 2022-06-11 |
 | [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 | 2024-12-13 | 2025-09-13 |

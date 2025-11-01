@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Giant Rooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,649 likes - 90 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,680 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,19 +14,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 4 | [halloween](https://open.spotify.com/track/3yJfB3tIIf2WVBCwzTIg7m) | [youcallmecarla](https://open.spotify.com/artist/5rBtac9khS0CB8eUW0kFQd) | [halloween](https://open.spotify.com/album/5sgcuSWT4tdMyG0IKAiZvD) | 3:03 |
 | 5 | [Moi pour Toi](https://open.spotify.com/track/2m7aoo6fTqIiztM7V6BxC6) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ), [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Moi pour Toi](https://open.spotify.com/album/3bBaApQ6EvrT8zZAn0ykLp) | 2:37 |
 | 6 | [Sirens](https://open.spotify.com/track/7qswPWI3L8gFJ9xVYm9Po8) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Sirens](https://open.spotify.com/album/4sP9Ns0mNNH64XDWRIylTp) | 3:22 |
-| 7 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 |
+| 7 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
 | 8 | [Working In The Garden](https://open.spotify.com/track/1bHzayckfk3pnjzWeZynbf) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Working In The Garden](https://open.spotify.com/album/6BklUKKOfYdvlDTDlHPC8p) | 2:49 |
 | 9 | [Coast](https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My) | [Snocaps](https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Allison Crutchfield](https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj) | [Snocaps](https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad) | 2:23 |
 | 10 | [Love Gently](https://open.spotify.com/track/7HLkqZVfgIttMNoWKL7ntf) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Love Gently](https://open.spotify.com/album/6sZlBnA7WYWlrKmn3NbOaU) | 2:42 |
 | 11 | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/track/4uCsJlsvglqasORJnmmLng) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/album/2SsTE9YTu4w18gmMG7TH8s) | 3:37 |
-| 12 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [](https://open.spotify.com/album/null) | 3:57 |
+| 12 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 3:57 |
 | 13 | [Aging Young Women](https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Aging Young Women](https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V) | 4:01 |
 | 14 | [passenger seat](https://open.spotify.com/track/3dtGmAbmjm3VsILtYkFf10) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [HOMESICK](https://open.spotify.com/album/03BfcKu7N2Hy7yZHLStwlV) | 1:45 |
 | 15 | [Spiderweb](https://open.spotify.com/track/5ta38ATbnAmzHtiVmTfEtS) | [CRIMER](https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX) | [Spiderweb](https://open.spotify.com/album/2OKoWnK59TWTrMvtZxTJk7) | 3:01 |
 | 16 | [ATS](https://open.spotify.com/track/3uuYMcPEdAjcWROt33lL0P) | [Clear Coast](https://open.spotify.com/artist/58UapvdMDXRAObkMvp4Ree) | [ATS](https://open.spotify.com/album/6QcKrO9kwhUaUMqAy40vCt) | 2:54 |
 | 17 | [Loud But Silently](https://open.spotify.com/track/5mclqwlQDAS76WnPMXA7ma) | [Alrighty Aphrodite](https://open.spotify.com/artist/6xdSvgI6YehIHVGIYBazRI) | [I Don't Know If I've Come Of Age, But I'm Certainly Older Now](https://open.spotify.com/album/64JQbzSWlzVCdiyI2xULoh) | 4:07 |
-| 18 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [](https://open.spotify.com/album/null) | 3:51 |
-| 19 | [Slaughterhouse](https://open.spotify.com/track/5ZTRqD25RsTcKrfX82FSZD) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [](https://open.spotify.com/album/null) | 3:32 |
+| 18 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [HighSchool](https://open.spotify.com/album/3AkpBHPOvTPlxXPEhmNp1b) | 3:51 |
+| 19 | [Slaughterhouse](https://open.spotify.com/track/5ZTRqD25RsTcKrfX82FSZD) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Devour](https://open.spotify.com/album/0ZnuaHRAI6C7fGxg1VuoXO) | 3:32 |
 | 20 | [Ambient Heat](https://open.spotify.com/track/68vgaMDFR8EZsCOpqUCSOZ) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Ambient Heat](https://open.spotify.com/album/0N7Bg9lSqXOTlFkDzGvxIV) | 4:57 |
 | 21 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 |
 | 22 | [Smoke](https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Smoke](https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif) | 3:21 |

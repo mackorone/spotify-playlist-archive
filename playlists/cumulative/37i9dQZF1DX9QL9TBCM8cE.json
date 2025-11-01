@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 232666,
       "name": "Another Rampage",
       "url": "https://open.spotify.com/track/6xwI62HbyTfwIR4Et1HRHS"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 190346,
       "name": "Darling you!",
       "url": "https://open.spotify.com/track/0blUADIOntOI8r0qRpVyvy"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 245133,
       "name": "Fly and Fly",
       "url": "https://open.spotify.com/track/3ENUIr1ITc6ozpXh0Kwj0j"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-23",
+      "date_removed": null,
       "duration_ms": 319213,
       "name": "Forward March!!!",
       "url": "https://open.spotify.com/track/6aA13qFJgbuL1vG006gEvl"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 239213,
       "name": "Hide & Attack",
       "url": "https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 236866,
       "name": "Wandering Dream Chaser",
       "url": "https://open.spotify.com/track/1A7xGSCB67ITNPOIsJ2G1U"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 314360,
       "name": "\u3044\u3064\u304b Shiny Days - 2023 Version",
       "url": "https://open.spotify.com/track/1oAw8Wewcm0SOpHnkVtd8H"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 267200,
       "name": "\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30a2\u30a4\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/6eMdOtdMOAQ3bSbQmyziQV"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 257359,
       "name": "\u30b9\u30ed\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/1v4HYDQBtCnyP7vawUltrO"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 279773,
       "name": "\u30d2\u30ab\u30ea\u306edestination",
       "url": "https://open.spotify.com/track/17EuIwsdZ6H4TPOe5SE1lz"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-07",
+      "date_removed": null,
       "duration_ms": 238986,
       "name": "\u4e94\u30c4\u5ea7\u6d41\u661f\u7fa4",
       "url": "https://open.spotify.com/track/4HR0875EE4qjzED6rcNJYr"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 261265,
       "name": "\u5922\u898b\u9ce5",
       "url": "https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq"
@@ -2541,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 04",
+        "url": "https://open.spotify.com/album/36YCUUkmkgONI4vyaFFfzE"
+      },
+      "artists": [
+        {
+          "name": "HO-KA-GO CLIMAX GIRLS",
+          "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261545,
+      "name": "\u62dd\u5553\u30bf\u30a4\u30e0\u30ab\u30d7\u30bb\u30eb",
+      "url": "https://open.spotify.com/track/73emdh3UTY3LEBkrOgMcMo"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS ECHOES 03",
         "url": "https://open.spotify.com/album/73iGtI7gAIUiiR8zZh93Cf"
       },
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 266280,
       "name": "\u661f\u3092\u3081\u3056\u3057\u3066",
       "url": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0"
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 289986,
       "name": "\u6709\u5f69\u8272\u30e6\u30ea\u30a4\u30ab",
       "url": "https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK"
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 244533,
       "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
       "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"

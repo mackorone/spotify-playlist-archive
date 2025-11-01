@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party",
+  "description": "Explore all things indie rock right now. Featuring music from The Belair Lip Bombs",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -1972,6 +1972,24 @@
       "duration_ms": 177120,
       "name": "Another Boy",
       "url": "https://open.spotify.com/track/1Qp8rEHhxtjhk4VixcKLlg"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157027,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
     },
     {
       "album": {
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 179866,
       "name": "Blister",
       "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
@@ -7071,6 +7089,32 @@
     },
     {
       "album": {
+        "name": "Snocaps",
+        "url": "https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad"
+      },
+      "artists": [
+        {
+          "name": "Snocaps",
+          "url": "https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Allison Crutchfield",
+          "url": "https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143415,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My"
+    },
+    {
+      "album": {
         "name": "Getting Killed",
         "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
       },
@@ -7896,7 +7940,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 170337,
       "name": "CPR",
       "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
@@ -12836,7 +12880,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 296316,
       "name": "Forever Ever After",
       "url": "https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM"
@@ -14658,7 +14702,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 169927,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/7shaHtNeaR9wolLuJOLqfH"
@@ -19786,7 +19830,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 216692,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
@@ -23578,7 +23622,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 235106,
       "name": "No Love",
       "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
@@ -26900,7 +26944,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 458000,
       "name": "Return of Youth",
       "url": "https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw"
@@ -29178,6 +29222,24 @@
       "duration_ms": 161239,
       "name": "Slasher",
       "url": "https://open.spotify.com/track/2kzpDswNb4TzQM0fLZXeuz"
+    },
+    {
+      "album": {
+        "name": "Devour",
+        "url": "https://open.spotify.com/album/0ZnuaHRAI6C7fGxg1VuoXO"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212886,
+      "name": "Slaughterhouse",
+      "url": "https://open.spotify.com/track/5ZTRqD25RsTcKrfX82FSZD"
     },
     {
       "album": {
@@ -35366,7 +35428,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 267516,
       "name": "Virginia Tech",
       "url": "https://open.spotify.com/track/63RXrwFp8OlTvnr5JsXVY2"

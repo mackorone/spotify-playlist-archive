@@ -4,7 +4,7 @@
 
 > Los muertos al cajón y los vivos al fiestón.
 
-128 songs - 7 hr 12 min
+131 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Frankestein](https://open.spotify.com/track/59hECJ8oyCMJOuY0A1zhzL) | [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [¡¡En Escena!!](https://open.spotify.com/album/6dyxIMSQ3DDb41D2Myhp1U) | 4:25 | 2025-10-14 |  |
 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 | 2022-10-10 |  |
 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2025-10-14 |  |
+| [Halloween](https://open.spotify.com/track/6fk8LQAusI2XNKb6knj3sP) | [Víctimas del Dr\. Cerebro](https://open.spotify.com/artist/79F4HocczIBbYDy21UcxKm) | [Fenómenos](https://open.spotify.com/album/7lRzrtAy3W5RzeLhTsSLNc) | 4:01 | 2025-10-14 |  |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2022-10-10 |  |
 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 | 2022-10-10 |  |
 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 | 2022-10-10 | 2025-10-15 |
@@ -66,6 +67,7 @@
 | [Kumbia Zombie](https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [God Save The Queers EP](https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ) | 4:48 | 2022-10-10 | 2024-04-19 |
 | [La Bruja](https://open.spotify.com/track/4LgNdvzM8qu5uc8AaVs7Wb) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Sin Maquillaje](https://open.spotify.com/album/0MGgwZjQ2jeqgzTEl84UDZ) | 2:29 | 2025-10-14 |  |
 | [La Bruja](https://open.spotify.com/track/7wXtXVOG2Z6LIklL3S4zST) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [El Destino](https://open.spotify.com/album/5SQm5eXqaC5pz9OSOwxk6n) | 3:06 | 2025-10-14 |  |
+| [la danza de las brujas](https://open.spotify.com/track/5NOcxAXCmtVGEp9dRBBwUY) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [la danza de las brujas](https://open.spotify.com/album/2VdTR9P9OTjrIzotYwex4S) | 4:15 | 2025-10-14 |  |
 | [La Danza de Los Muertos](https://open.spotify.com/track/0fQFRLksWvatYenS4aoU29) | [The Anacondas](https://open.spotify.com/artist/32Ux0YK2riaKZNTMqeUiJz) | [Bad Buzz \- Lost in the Space Age](https://open.spotify.com/album/3z41QSxd3tPuGxbMJZXRbQ) | 2:53 | 2022-10-10 | 2025-10-15 |
 | [La Llorona Loca](https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB) | [Los Gliders](https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI) | [Éxitos Del Rock](https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D) | 2:18 | 2022-10-10 |  |
 | [La Momia Negra](https://open.spotify.com/track/44gkjktCO18c02eUwN55Br) | [Misterio](https://open.spotify.com/artist/1AR7DhOaS04R0L8SubO5ES) | [10 Year Old Zombie](https://open.spotify.com/album/6D0KOO5zdjmfXH9umBIru8) | 1:51 | 2022-10-10 | 2025-10-15 |
@@ -105,6 +107,7 @@
 | [Rosemary's Baby](https://open.spotify.com/track/2BVJMKbdz7XtEcsIDT0oAz) | [Fantomas](https://open.spotify.com/artist/43ltIj8NRBsmOEjDr5Sk10) | [The Director's Cut](https://open.spotify.com/album/4EenSuWRkXoSrsMJEuvfE1) | 3:20 | 2022-10-10 | 2024-04-19 |
 | [Rosemary's Baby](https://open.spotify.com/track/4uXE5sKzOQBo6E2ykCuG5X) | [Fantomas](https://open.spotify.com/artist/43ltIj8NRBsmOEjDr5Sk10) | [The Director's Cut](https://open.spotify.com/album/2jDzhDqU9ZzZ3iHkCtY0Rh) | 3:20 | 2024-02-15 | 2025-10-15 |
 | [Satan Swing](https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 3:31 | 2022-10-10 |  |
+| [Satan Swing](https://open.spotify.com/track/29c63GCZuU5gSWOtTsmevb) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [Satan Swing](https://open.spotify.com/album/0ieC2IGEE2Bw432LZAIg2S) | 3:20 | 2025-10-14 |  |
 | [Satan Swing \- En Vivo](https://open.spotify.com/track/7cfDvgHa9vxFEUnLwJNaBG) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [\#Cancionero \(En Vivo\)](https://open.spotify.com/album/0QbS32TDKjKdx513bxWnlp) | 3:59 | 2024-10-25 | 2025-10-15 |
 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 | 2022-10-10 |  |
 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 | 2022-10-10 |  |

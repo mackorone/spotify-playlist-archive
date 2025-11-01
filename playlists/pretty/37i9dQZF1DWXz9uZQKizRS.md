@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Sonbird
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,037 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,051 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 9 | [Tam bez zmian](https://open.spotify.com/track/27wZZuoVxpyoNsL4wpnsrx) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Tam bez zmian](https://open.spotify.com/album/5rxOFu3JHKIUsSgJUgmWea) | 4:43 |
 | 10 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 11 | [Pozytywka](https://open.spotify.com/track/35MBLJWF12ds8UfQHdc6VN) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx), [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [Miało być jak w filmie](https://open.spotify.com/album/6X6EgNLNft9IBTdbbNkYAK) | 3:07 |
-| 12 | [7 nieszczęść](https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [](https://open.spotify.com/album/null) | 2:39 |
+| 12 | [7 nieszczęść](https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Myśli](https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS) | 2:39 |
 | 13 | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/track/4TyEvP8OV3egd7nlECbeXk) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q) | 3:40 |
 | 14 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
 | 15 | [Smalltalks](https://open.spotify.com/track/6XO3wB0nNJ9mJ2BwBgABML) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [YOGA EP](https://open.spotify.com/album/0nxKaNBxU0M5M4vBAvqZIJ) | 3:32 |

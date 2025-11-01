@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-682 songs - 1 day 18 hr 29 min
+683 songs - 1 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-10-21 | 2024-11-30 |
 | [One Only](https://open.spotify.com/track/7iTF9T1jum3Km6H6WMZpDC) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 4:15 | 2021-03-27\* | 2021-06-09 |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2021-09-18 | 2022-02-04 |
+| [Orang Baru Lebe Gacor](https://open.spotify.com/track/3dANqzstXrnHIUh1r7JrGZ) | [Ecko Show](https://open.spotify.com/artist/3oh5PUaDZkd57Yp1jsA6gp), [Juan Reza](https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf), [Chesylino](https://open.spotify.com/artist/3LgpEnxGl51dSvzKJTNPNR) | [Orang Baru Lebe Gacor](https://open.spotify.com/album/5Q8d3MSnlhjlUhiuBOdC1B) | 3:36 | 2025-10-31 |  |
 | [ours to keep](https://open.spotify.com/track/3Puhw21QI2MKR4rdvyPuIb) | [Kendis](https://open.spotify.com/artist/5HLrlI5LdULY9s740CsAFZ), [adis](https://open.spotify.com/artist/0VuHd7oPpsTBa4Bd4LYyOs) | [DISCO](https://open.spotify.com/album/5vvuakA6CVikfUwArrorTd) | 3:28 | 2025-08-24 |  |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2022-08-18 | 2022-11-11 |
 | [Paradise](https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:37 | 2021-06-09 | 2021-06-11 |
@@ -588,7 +589,7 @@
 | [Tak Dianggap](https://open.spotify.com/track/66L6oBm77vpXuLCRX31iNX) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 2:59 | 2024-10-12 | 2024-10-16 |
 | [Tak Ingin Usai](https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 4:38 | 2023-05-20 | 2023-09-22 |
 | [Tak Ingin Usai](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tak Ingin Usai](https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY) | 4:38 | 2022-05-23 | 2023-05-21 |
-| [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-11-15 |  |
+| [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2022-11-15 | 2025-11-01 |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-01-28 |  |
 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 | 2024-06-15 | 2024-10-10 |
 | [Takbiran \- Version 1](https://open.spotify.com/track/6KDMvbS7HC1znTxEImTgYj) | [Ustad Jefri Al Buchori](https://open.spotify.com/artist/3Zp5ohlk0onRRpRLe0afzx), [H\. Aswan Faisal](https://open.spotify.com/artist/1mIbIeu7TYCr4VLKQIhEGP) | [Takbiran](https://open.spotify.com/album/3D5VqeyM9HoUglShCjlqpC) | 12:36 | 2021-05-14 | 2021-05-15 |

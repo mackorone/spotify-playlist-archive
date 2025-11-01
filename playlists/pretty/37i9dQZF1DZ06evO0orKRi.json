@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24985,
+  "num_followers": 24989,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAD6QhKypMWwklkCO1SpF628",
+  "snapshot_id": "aQKqgAAAAAAfI1gWaQIEfVEfs1JCMA5a",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 195586,
-      "name": "Mechanised Swaggie",
-      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
+      "duration_ms": 245613,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 245613,
-      "name": "Something In The Pilliga",
-      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
+      "duration_ms": 195586,
+      "name": "Mechanised Swaggie",
+      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
     },
     {
       "added_at": null,
@@ -563,38 +563,6 @@
       "duration_ms": 191693,
       "name": "Gotta Keep Moving",
       "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 162026,
-      "name": "Haulin' For The Double 'T'",
-      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Paddy William",
-      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
     },
     {
       "added_at": null,
@@ -619,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Slim Dusty (Remastered)",
-        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
       "artists": [
         {
@@ -628,9 +596,25 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Plains Of Peppimenarti - 1998 Remaster",
-      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+      "duration_ms": 272093,
+      "name": "Paddy William",
+      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
     },
     {
       "added_at": null,
@@ -647,22 +631,6 @@
       "duration_ms": 112133,
       "name": "Along The Road To Gundagai - Remaster 1995",
       "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
     },
     {
       "added_at": null,
@@ -687,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Plains Of Peppimenarti - 1998 Remaster",
+      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slim Dusty... Live Into The 90's",
         "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 92000,
       "name": "I'm Going Back Again To Yarrawonga - Live",
       "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "I'm Married To My Bulldog Mack - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slim Dusty Sings Stan Coster",
         "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
       },
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Steadies The Lead",
-        "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 267973,
-      "name": "No Man's Land - 1992 - Remaster",
-      "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
+      "duration_ms": 198586,
+      "name": "I'm Married To My Bulldog Mack - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 209560,
       "name": "Trumby - 1994 Remaster",
       "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man Who Steadies The Lead",
+        "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 267973,
+      "name": "No Man's Land - 1992 - Remaster",
+      "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
     },
     {
       "added_at": null,

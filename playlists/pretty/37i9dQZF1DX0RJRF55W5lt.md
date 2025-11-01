@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,753 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,842 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 22 | [Garage Girls \- Sunship Radio Edit](https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Garage Girls](https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M) | 3:20 |
 | 23 | [Masterblaster 2000 \- Oracles Remix](https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [J.J](https://open.spotify.com/artist/4XEZZV3z4TlU5XmXPfKbss), [Oracles](https://open.spotify.com/artist/782ZTSDrjaLcfR9AbmRvxb) | [Masterblaster 2000](https://open.spotify.com/album/54DrfxFAuA9fdGus2bMWBu) | 5:32 |
 | 24 | [No Good 4 Me \(feat\. Megaman, Romeo and Lisa Maffia\)](https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Lisa Maffia](https://open.spotify.com/artist/2tiBXBk9svXUlNxP52KA6V), [Megaman](https://open.spotify.com/artist/4jA144upx725mAobOElW0G), [Romeo](https://open.spotify.com/artist/2GScgDHsZg7NaXXL0WtEbO) | [Execute](https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8) | 6:02 |
-| 25 | [Neighbourhood \- Radio Mix](https://open.spotify.com/track/6J6QyLMIoToFr1VvDpt8jo) | [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [Neighbourhood](https://open.spotify.com/album/0PYwiBS0azY1px539lc6JR) | 3:35 |
-| 26 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
+| 25 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
+| 26 | [Neighbourhood \- Radio Mix](https://open.spotify.com/track/6J6QyLMIoToFr1VvDpt8jo) | [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [Neighbourhood](https://open.spotify.com/album/0PYwiBS0azY1px539lc6JR) | 3:35 |
 | 27 | [Battle](https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Lain](https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:00 |
 | 28 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
 | 29 | [Freak Like Me \- Dome's Peak Freak Remix](https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2) | [Dub Conspiracy](https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r), [Tru Faith](https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9), [Dome](https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe) | [Freak Like Me](https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE) | 4:52 |

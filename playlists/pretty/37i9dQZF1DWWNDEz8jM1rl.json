@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 150349,
+  "num_followers": 150380,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 171703,
-      "name": "Rumbo Pa La Iglesia",
-      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 188624,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 171703,
+      "name": "Rumbo Pa La Iglesia",
+      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -447,6 +447,46 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ramirez",
+          "url": "https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv"
+        },
+        {
+          "name": "Jadi Torres",
+          "url": "https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "DIOS es el que SABE",
+        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "DIOS es el que SABE",
+      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Segunda Vida",
         "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
       },
@@ -471,46 +511,6 @@
       "duration_ms": 157168,
       "name": "Segunda Vida",
       "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "DIOS es el que SABE",
-        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "DIOS es el que SABE",
-      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ramirez",
-          "url": "https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv"
-        },
-        {
-          "name": "Jadi Torres",
-          "url": "https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Invencible",
-      "url": "https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 291112,
+      "name": "Veo Tu Gloria",
+      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Siempre y Nunca",
         "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 153786,
       "name": "Siempre y Nunca",
       "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 291112,
-      "name": "Veo Tu Gloria",
-      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Vers\u00e1til, Vol. 2",
         "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 138750,
       "name": "Poderoso De Israel",
       "url": "https://open.spotify.com/track/0iUC2K64fXVbzyh9XVdUfq"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
-      },
-      "artists": [
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Mes\u00edas",
-        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
-      },
-      "artists": [
-        {
-          "name": "Dexter Music",
-          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
-        }
-      ],
-      "duration_ms": 324017,
-      "name": "Mes\u00edas",
-      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Yeshua Hamashiaj - MelGod (Remix)",
         "url": "https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 200000,
       "name": "Yeshua Hamashiaj - MelGod - Remix",
       "url": "https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Mes\u00edas",
+        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
+      },
+      "artists": [
+        {
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+        }
+      ],
+      "duration_ms": 324017,
+      "name": "Mes\u00edas",
+      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "NADA QUE TEMER",
-        "url": "https://open.spotify.com/album/1QhzHrtufsIm7Wrkx7lzC1"
-      },
-      "artists": [
-        {
-          "name": "Roberto Rosso",
-          "url": "https://open.spotify.com/artist/1j4W3yOBthwGj4wWrGPtfA"
-        },
-        {
-          "name": "Joe Gozo",
-          "url": "https://open.spotify.com/artist/5WxYUvlCb3r2fUlJwEIGUn"
-        }
-      ],
-      "duration_ms": 201679,
-      "name": "NADA QUE TEMER",
-      "url": "https://open.spotify.com/track/1xhzIlWnh3lKkEfm0FNsbT"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/0ihqqcN7ZEG9WYVuyWalY4"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 186958,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/3ipfCiqkiVAbbFiBvk5A0X"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "NADA QUE TEMER",
+        "url": "https://open.spotify.com/album/1QhzHrtufsIm7Wrkx7lzC1"
+      },
+      "artists": [
+        {
+          "name": "Roberto Rosso",
+          "url": "https://open.spotify.com/artist/1j4W3yOBthwGj4wWrGPtfA"
+        },
+        {
+          "name": "Joe Gozo",
+          "url": "https://open.spotify.com/artist/5WxYUvlCb3r2fUlJwEIGUn"
+        }
+      ],
+      "duration_ms": 201679,
+      "name": "NADA QUE TEMER",
+      "url": "https://open.spotify.com/track/1xhzIlWnh3lKkEfm0FNsbT"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Ni Un Chin Chin (Remix)",
         "url": "https://open.spotify.com/album/6sRWWEp4JbXa8o8wbIcxMn"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 149538,
       "name": "Ni Un Chin Chin - Remix",
       "url": "https://open.spotify.com/track/2ytNdoQaGbrsiYDcjr7m6m"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
     },
     {
       "added_at": "2025-09-14 08:28:23",

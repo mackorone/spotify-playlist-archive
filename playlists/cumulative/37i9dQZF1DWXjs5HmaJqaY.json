@@ -4233,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Nyanza",
+        "url": "https://open.spotify.com/album/5okPHcqLyRvX89K5wdQESu"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278609,
+      "name": "Nyanza",
+      "url": "https://open.spotify.com/track/3XvLx6ywaJxRKQPzvzJl3R"
+    },
+    {
+      "album": {
         "name": "Dance with the Robots",
         "url": "https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC"
       },
@@ -4820,6 +4838,28 @@
       "duration_ms": 391186,
       "name": "R U FCKNG SERIOUS - Moritz Hofbauer Remix",
       "url": "https://open.spotify.com/track/5SfyXx7eOVL3zI16uNjRRN"
+    },
+    {
+      "album": {
+        "name": "Red In The Desert",
+        "url": "https://open.spotify.com/album/3lRV5oID7bkBR4BP4xgBlX"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Red In The Desert",
+      "url": "https://open.spotify.com/track/2h7WCMGmGeNDQRhw40qHUc"
     },
     {
       "album": {

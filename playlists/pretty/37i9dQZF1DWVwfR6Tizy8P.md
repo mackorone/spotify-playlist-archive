@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwfR6Tizy8P.md) - [plain]
 
 > Pura malhação retrô para você suar as polâinas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,980 likes - 44 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,051 likes - 44 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwfR6Tizy8P.md) - [plain]
 | 7 | [Physical](https://open.spotify.com/track/3MjfIbsyO8NQ4slgICU32u) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical](https://open.spotify.com/album/0I8zcq6ntMthVMOJrtcG2t) | 3:44 |
 | 8 | [Don't Stop Believin'](https://open.spotify.com/track/3DtK601PJiNPe8COo67unB) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Flash Back Internacional](https://open.spotify.com/album/0xHBgcc8mjG1FILI9NPrg9) | 4:09 |
 | 9 | [Dressed for Success \- US Single Mix](https://open.spotify.com/track/2z5FL3FpUI7AEMd8NIzPGl) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [A Collection of Roxette Hits! Their 20 Greatest Songs!](https://open.spotify.com/album/1nQK4dpultSS3YeHfYrgEW) | 4:11 |
-| 10 | [Bette Davis Eyes](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Missing Persons](https://open.spotify.com/artist/20Rhzq1iA03DDqKGFuEF2B) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:46 |
+| 10 | [Bette Davis Eyes](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Missing Persons](https://open.spotify.com/artist/5CT7RBitS0e0u78T8tRBWQ) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:46 |
 | 11 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
 | 12 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 |
 | 13 | [Dancing With Myself](https://open.spotify.com/track/1BY1Vd2Bt6JPOhMvsIwtVv) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/2PSsUGkAAAnBmUUSNBU6se) | 5:59 |

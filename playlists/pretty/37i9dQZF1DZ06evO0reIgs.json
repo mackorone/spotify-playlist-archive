@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81967,
+  "num_followers": 81969,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAC437Vdh38K5SZaokRfZgDG",
+  "snapshot_id": "aQKqgAAAAACHmMfOel4tNv0nSJCe06zM",
   "tracks": [
     {
       "added_at": null,
@@ -1139,26 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beira Mar, Pt. 2",
-        "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 139124,
-      "name": "Beira Mar, Pt. 2",
-      "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Culpa \u00c9 Minha",
         "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beira Mar, Pt. 2",
+        "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 139124,
+      "name": "Beira Mar, Pt. 2",
+      "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desmoronar",
         "url": "https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv"
       },
@@ -1219,30 +1219,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb"
       },
       "artists": [
         {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
         }
       ],
-      "duration_ms": 211363,
-      "name": "Sos",
-      "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
+      "duration_ms": 218181,
+      "name": "Temporais 2",
+      "url": "https://open.spotify.com/track/2Tqz0VlIN2qPs2ofDGxUZB"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

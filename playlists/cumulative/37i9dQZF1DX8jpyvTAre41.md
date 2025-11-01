@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Foo Fighters
 
-1,457 songs - 3 day 9 hr 42 min
+1,457 songs - 3 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-08 | 2024-07-13 |
 | [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 | 2025-08-15 | 2025-08-22 |
 | [ANOTHER DAY](https://open.spotify.com/track/6P3ulqMerWlqHoITMV3Qbk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [ANOTHER DAY](https://open.spotify.com/album/1ltYGci13XpnGRY7552qnD) | 3:38 | 2025-09-26 |  |
-| [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 | 2025-10-31 |  |
+| [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 | 2025-10-31 |  |
 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-13 | 2025-09-19 |
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-05-31 | 2024-10-19 |
 | [Apologies](https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Apologies](https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY) | 3:06 | 2025-05-09 | 2025-06-21 |
@@ -496,6 +496,7 @@
 | [Get Dumber \- feat\. Jeff Rosenstock](https://open.spotify.com/track/35zLu8pT2KSMN0O36JLhIL) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN), [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [Get Dumber \(feat\. Jeff Rosenstock\)](https://open.spotify.com/album/6TV72STw4FAjY9cxpIWWmu) | 2:36 | 2025-03-28 | 2025-05-03 |
 | [Get My Things & Go](https://open.spotify.com/track/2fJJGcHxMc9nnZ62Ob5thN) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Get My Things & Go](https://open.spotify.com/album/7FMxjnRo3zT6HYprB2lv0H) | 2:50 | 2022-06-24 | 2022-10-01 |
 | [Get Up](https://open.spotify.com/track/5R8SxUYD9W4rXuak7DH1nh) | [The Riot Police](https://open.spotify.com/artist/0friBnrKTzdtdl8S2hb55x) | [Get Up](https://open.spotify.com/album/0EqWNzN38t0gTqgsxf1sRh) | 3:15 | 2022-01-07 | 2022-03-05 |
+| [Ghost](https://open.spotify.com/track/0UDgAr1L3PWtivDoPARmex) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [AFTERLIFE](https://open.spotify.com/album/3J14Y5GCG4wCb4hfbjkHwG) | 2:33 | 2025-10-31 |  |
 | [GHOST IN THE MACHINE](https://open.spotify.com/track/2G2ljNxu8hG0hfsOfV0fyb) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [ISOLATOR](https://open.spotify.com/album/3HC6AOC9UxN6aVzKYpHvNG) | 3:28 | 2023-10-13 | 2024-07-27 |
 | [Ghosts](https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols](https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE) | 6:26 | 2025-06-20 | 2025-09-19 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-17 | 2023-03-25 |
@@ -802,7 +803,7 @@
 | [Meant to Be](https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Meant to Be](https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA) | 4:17 | 2022-11-25 | 2023-01-23 |
 | [Medusa \(Stone\)](https://open.spotify.com/track/58nauqtQ3JGC779n2FvfFC) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a) | 3:39 | 2023-03-17 | 2024-05-11 |
 | [Meet Me At The Riot](https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Meet Me At The Riot](https://open.spotify.com/album/3NiXPd6taHn0fshOw9dIgJ) | 2:56 | 2023-02-10 | 2024-03-09 |
-| [Meet Me In The Middle](https://open.spotify.com/track/44VBgxQ5khk3QgfJFKVi3X) | [The Boojums](https://open.spotify.com/artist/3cZi4em8rnssExt3yLA75E) | [](https://open.spotify.com/album/null) | 1:39 | 2025-10-31 |  |
+| [Meet Me In The Middle](https://open.spotify.com/track/44VBgxQ5khk3QgfJFKVi3X) | [The Boojums](https://open.spotify.com/artist/3cZi4em8rnssExt3yLA75E) | [The Boojums](https://open.spotify.com/album/3HrgNlrQR721YwHOfaRFBB) | 1:39 | 2025-10-31 |  |
 | [Meeting The Master](https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 5:12 | 2023-07-28 | 2024-06-15 |
 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-07 | 2023-07-22 |
 | [Mendicant](https://open.spotify.com/track/5thfeBE37EjNJaVO58s4pr) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Mendicant](https://open.spotify.com/album/7Mkr80TWFi666YuUFqJpOz) | 3:52 | 2025-05-09 | 2025-08-22 |
@@ -1305,7 +1306,6 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-24 | 2024-10-19 |
 | [Touch](https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Touch](https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64) | 2:08 | 2024-07-12 | 2024-11-23 |
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-27 | 2025-09-19 |
-| [Track 11](https://open.spotify.com/track/0UDgAr1L3PWtivDoPARmex) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-31 |  |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-13 | 2025-09-05 |
 | [Tree Of Life](https://open.spotify.com/track/3WBecJY7EJ8KWZikPhP7Rf) | [Art d'Ecco](https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J) | [Serene Demon](https://open.spotify.com/album/5HKW5i8WLnIoXapKVE5O2F) | 3:08 | 2025-02-14 | 2025-06-21 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-21 | 2025-06-28 |

@@ -3344,13 +3344,17 @@
         {
           "name": "Paji",
           "url": "https://open.spotify.com/artist/7JlIc6aw1PyoBKQg9c1EnJ"
+        },
+        {
+          "name": "German Brigante",
+          "url": "https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm"
         }
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209000,
-      "name": "Reliquia - German Brigante Radio Edit",
+      "name": "Reliquia - German Brigante Remix",
       "url": "https://open.spotify.com/track/17qNEAUYgyRsfiQ1Loy2Ku"
     },
     {
@@ -4177,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "Tempest",
+        "url": "https://open.spotify.com/album/1Kt90oeVIWmaQ1tjqV5AC4"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/4BLDV2dwgghV7qavjLZSUI"
+    },
+    {
+      "album": {
         "name": "Nocturnal 013",
         "url": "https://open.spotify.com/album/4PWmmWlQCvI9679sufia6g"
       },
@@ -4526,6 +4548,28 @@
       "duration_ms": 165853,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/1Rd2m4Xv1RkGZnpsMizuCn"
+    },
+    {
+      "album": {
+        "name": "Want You Back",
+        "url": "https://open.spotify.com/album/3QbS3VaoL2In6F4iM3SC0w"
+      },
+      "artists": [
+        {
+          "name": "David Hansen",
+          "url": "https://open.spotify.com/artist/2Wm55svxm4cvVLWwHtZN5E"
+        },
+        {
+          "name": "sidechvin",
+          "url": "https://open.spotify.com/artist/7fQALD6DKt0l9XMZ0JGYai"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/1zBAjo7Swo9GAX68zVulB3"
     },
     {
       "album": {

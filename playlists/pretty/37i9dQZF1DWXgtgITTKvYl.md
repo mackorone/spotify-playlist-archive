@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
+> A collection of best Prog Rock tracks\. Cover: Dream Theater
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,698 likes - 75 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,756 likes - 75 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [TexUS \(feat\. Eric Johnson\)](https://open.spotify.com/track/73cdpgxk2PWsu3iKsYQH0x) | [Steve Morse Band](https://open.spotify.com/artist/4RvfPm4uzNgEzeAxBOAQZK), [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [TexUS \(feat\. Eric Johnson\)](https://open.spotify.com/album/39qzby2V7bxoBT6mzzQs10) | 4:01 |
 | 75 | [Shaggathon](https://open.spotify.com/track/0fROX4SJcbuM2gzjali8I8) | [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5) | [Songs No One Will Hear \(Deluxe Edition\)](https://open.spotify.com/album/5S8Vnhh6bP5gq6Ft43Dat8) | 3:07 |
 
-Snapshot ID: `AAAAAP6AbArQgd4azlhjmI+tc5+Yh3Hl`
+Snapshot ID: `AAAAAJvWvXxfZf5fknYJ9OUf8wbuv9Hs`

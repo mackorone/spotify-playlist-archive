@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,219 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,204 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 37 | [Depois Da Meia Noite](https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Depois Da Meia Noite](https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId) | 3:09 |
 | 38 | [coisas triviais](https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [coisas triviais](https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9) | 3:10 |
 | 39 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 |
-| 40 | [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 |
-| 41 | [TE ODEIO](https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:22 |
+| 40 | [TE ODEIO](https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:22 |
+| 41 | [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 |
 | 42 | [Pós Love](https://open.spotify.com/track/29irNwrelJMk8wublGdvXg) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa), [Bahia Baby](https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:47 |
 | 43 | [nada sério](https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [nada sério](https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV) | 2:46 |
 | 44 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 |
-| 45 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
-| 46 | [deu pra sentir? \(Kaya Conky & DJ Ramemes RMX\)](https://open.spotify.com/track/7EWSKc1dhPGjk1mz1996n1) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [SOBRECARGA \(ALTA TENSÃO DELUXE\)](https://open.spotify.com/album/1AV0k0sNmviHkWhMy4CImC) | 2:37 |
+| 45 | [deu pra sentir? \(Kaya Conky & DJ Ramemes RMX\)](https://open.spotify.com/track/7EWSKc1dhPGjk1mz1996n1) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [SOBRECARGA \(ALTA TENSÃO DELUXE\)](https://open.spotify.com/album/1AV0k0sNmviHkWhMy4CImC) | 2:37 |
+| 46 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
 | 47 | [furta\-cor](https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [furta\-cor](https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT) | 2:45 |
 | 48 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 |
 | 49 | [TE ESQUECER](https://open.spotify.com/track/2WixhCtUfy0CIorrWVyZ0E) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TE ESQUECER](https://open.spotify.com/album/0sHN0uelXhKkS8UHuLchyt) | 2:28 |

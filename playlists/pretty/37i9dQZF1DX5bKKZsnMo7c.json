@@ -1,13 +1,29 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: Paris Paloma",
-  "num_followers": 557575,
+  "description": "Feeling dramatic? All eyes on you. Cover: Grace Power",
+  "num_followers": 557612,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIDUS9dVbPQAMQw5A/hG5VtpQYv+",
+  "snapshot_id": "AAAAAHlCc07WaHaO2N2D4FT3iEvtMnvp",
   "tracks": [
+    {
+      "added_at": "2025-10-31 04:00:43",
+      "album": {
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
+    },
     {
       "added_at": "2025-09-19 04:00:30",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 222106,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "added_at": "2025-10-31 04:00:43",
+      "album": {
+        "name": "HOT POT!",
+        "url": "https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "ego of a man",
+      "url": "https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4"
     },
     {
       "added_at": "2025-10-17 04:01:03",
@@ -61,20 +93,20 @@
       "url": "https://open.spotify.com/track/3JloRKvG8iL5aM5db1FltQ"
     },
     {
-      "added_at": "2025-10-10 04:00:48",
+      "added_at": "2025-10-31 04:00:43",
       "album": {
-        "name": "Hand On The Bible",
-        "url": "https://open.spotify.com/album/79jQaFPu4zthfeBHPjDFsD"
+        "name": "Wishing For Wounds",
+        "url": "https://open.spotify.com/album/6t730CtJHxx2ykmDTwvZfy"
       },
       "artists": [
         {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
         }
       ],
-      "duration_ms": 210162,
-      "name": "Hand On The Bible",
-      "url": "https://open.spotify.com/track/4pEupmTD5rymu7ly4DcYVx"
+      "duration_ms": 259626,
+      "name": "Wishing For Wounds",
+      "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"
     },
     {
       "added_at": "2025-10-03 04:00:47",
@@ -737,22 +769,6 @@
       "url": "https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO"
     },
     {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Super Elastic",
-        "url": "https://open.spotify.com/album/0asGNH0icImyJfXZ8W9Uw5"
-      },
-      "artists": [
-        {
-          "name": "Valencia Grace",
-          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
-        }
-      ],
-      "duration_ms": 183313,
-      "name": "Super Elastic",
-      "url": "https://open.spotify.com/track/2CgAq41E94POR8ijS59Ztv"
-    },
-    {
       "added_at": "2025-07-18 04:00:30",
       "album": {
         "name": "Brutus",
@@ -863,22 +879,6 @@
       "duration_ms": 205556,
       "name": "SPIRALLING",
       "url": "https://open.spotify.com/track/4HNn8txPba0KsEND4YWhhG"
-    },
-    {
-      "added_at": "2025-07-11 04:00:18",
-      "album": {
-        "name": "WATCH THE NEWS",
-        "url": "https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 166996,
-      "name": "WATCH THE NEWS",
-      "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
     },
     {
       "added_at": "2025-05-02 04:00:24",

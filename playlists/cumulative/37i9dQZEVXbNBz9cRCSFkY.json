@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 303880,
       "name": "Eroplanong Papel",
       "url": "https://open.spotify.com/track/7MrDNu3hC1MjczXhi1citM"
@@ -8294,7 +8294,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 250093,
       "name": "Ikot",
       "url": "https://open.spotify.com/track/0FofAMA3zMEehQnEjtyRLv"
@@ -12465,6 +12465,24 @@
     },
     {
       "album": {
+        "name": "RD Covers (Live)",
+        "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361106,
+      "name": "Nandito Ako",
+      "url": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X"
+    },
+    {
+      "album": {
         "name": "Nangangamba",
         "url": "https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw"
       },
@@ -13912,7 +13930,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 274480,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/2PTzfXh5Ut3hjRrWGyafz6"
@@ -15012,7 +15030,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 302608,
       "name": "Sa Bawat Sandali",
       "url": "https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp"

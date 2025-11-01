@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 163960,
       "name": "10",
       "url": "https://open.spotify.com/track/799bsi80kqvmPbyffNo0t5"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -10054,7 +10054,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -22162,7 +22162,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "KARUSEL\u012a",
       "url": "https://open.spotify.com/track/1osBe1ObKuZBhdxrObHRkH"
@@ -22728,7 +22728,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 152805,
       "name": "Ko t\u0101?",
       "url": "https://open.spotify.com/track/6wB3XstB0c2yO2iMLKnCDg"
@@ -33879,6 +33879,32 @@
     },
     {
       "album": {
+        "name": "Plej\u0101des",
+        "url": "https://open.spotify.com/album/6PDLCk503D41PgpLsuB5uS"
+      },
+      "artists": [
+        {
+          "name": "Deniss",
+          "url": "https://open.spotify.com/artist/7Buj3BepqTe1ACFEa8x93l"
+        },
+        {
+          "name": "Silraq",
+          "url": "https://open.spotify.com/artist/229CWy5CEHqkUanloIyVvb"
+        },
+        {
+          "name": "Sudrabu Sirds",
+          "url": "https://open.spotify.com/artist/5IxWv5qXFhkzRt91O4i6gU"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "PAS\u0112D\u0112T",
+      "url": "https://open.spotify.com/track/1B02ZqAb5VpvMbuAX01HxQ"
+    },
+    {
+      "album": {
         "name": "Pirms v\u0113tras b\u016bs klusums",
         "url": "https://open.spotify.com/album/1CXFVyeQbvfQvoLttOvCFX"
       },
@@ -35822,7 +35848,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 183346,
       "name": "P\u0113d\u0113jo reizi",
       "url": "https://open.spotify.com/track/0rXgnZh28F8qW1CARTpUHO"
@@ -38190,7 +38216,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -41146,7 +41172,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -47680,7 +47706,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 164835,
       "name": "UNDERDOGS",
       "url": "https://open.spotify.com/track/2g7qqpd1smARM6UWgPQxnd"

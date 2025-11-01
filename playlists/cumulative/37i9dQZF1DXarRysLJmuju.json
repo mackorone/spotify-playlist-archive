@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The latest in pop. Cover: Carly Rae Jepsen",
+  "description": "The latest in pop. Cover: AD\u00c9LA",
   "name": "Pop All Day",
   "tracks": [
     {
@@ -4233,6 +4233,32 @@
     },
     {
       "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
+    },
+    {
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -6792,7 +6818,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
@@ -7842,6 +7868,24 @@
       "duration_ms": 137813,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/54fIT6FB4H6z3BJXQai1hm"
+    },
+    {
+      "album": {
+        "name": "Love & Hyperbole (Deluxe)",
+        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192355,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
     },
     {
       "album": {
@@ -10536,7 +10580,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 159153,
       "name": "diva",
       "url": "https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS"
@@ -11795,6 +11839,24 @@
     },
     {
       "album": {
+        "name": "HOT POT!",
+        "url": "https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157080,
+      "name": "ego of a man",
+      "url": "https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4"
+    },
+    {
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -12310,7 +12372,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 166544,
       "name": "Ever After (feat. eaJ)",
       "url": "https://open.spotify.com/track/0MnSQChsBB4y4ARVbIGN70"
@@ -14495,6 +14557,24 @@
     },
     {
       "album": {
+        "name": "FU & UF",
+        "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159399,
+      "name": "FU & UF",
+      "url": "https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW"
+    },
+    {
+      "album": {
         "name": "Fuetazo (feat. Villano Antillano)",
         "url": "https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR"
       },
@@ -16478,6 +16558,24 @@
       "duration_ms": 152049,
       "name": "guilty conscience",
       "url": "https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P"
+    },
+    {
+      "album": {
+        "name": "H.A.P.P.Y",
+        "url": "https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "H.A.P.P.Y",
+      "url": "https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj"
     },
     {
       "album": {
@@ -18466,7 +18564,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 150427,
       "name": "homesick",
       "url": "https://open.spotify.com/track/3uU8enYVjtTXuW4P3BZxBj"
@@ -19154,6 +19252,24 @@
       "duration_ms": 219026,
       "name": "How Sweet",
       "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "album": {
+        "name": "How To Be Human",
+        "url": "https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160152,
+      "name": "How To Be Human",
+      "url": "https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j"
     },
     {
       "album": {
@@ -20488,7 +20604,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 177862,
       "name": "I Met A Boy",
       "url": "https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq"
@@ -21566,7 +21682,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 217967,
       "name": "If You Love Her (feat. Christina Perri)",
       "url": "https://open.spotify.com/track/6lWo19d95E0Ha9bgZIZ2zA"
@@ -22521,6 +22637,24 @@
     },
     {
       "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/03JZr55j9bIj1d2RQJ7Yq9"
+    },
+    {
+      "album": {
         "name": "Jealous Type",
         "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
       },
@@ -22532,7 +22666,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 163647,
       "name": "Jealous Type",
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
@@ -26385,6 +26519,24 @@
     },
     {
       "album": {
+        "name": "The Provocateur",
+        "url": "https://open.spotify.com/album/5uVHeY5k8qtwPITXFenQAk"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "MachineGirl",
+      "url": "https://open.spotify.com/track/6ao9HoZWocOyi2KvWW7g8L"
+    },
+    {
+      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
       },
@@ -27772,7 +27924,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 159825,
       "name": "million ways",
       "url": "https://open.spotify.com/track/5i0POdKsjD0UFMO1WoXc2C"
@@ -28019,6 +28171,24 @@
     },
     {
       "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/3EyNltfgFSTxVvvNpKlHJ8"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267722,
+      "name": "Modern Times",
+      "url": "https://open.spotify.com/track/3GcakfkKpEStBeomWwYPwO"
+    },
+    {
+      "album": {
         "name": "Modes I - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5Tdf9ZMVchNzXHKB2fsFBe"
       },
@@ -28096,6 +28266,24 @@
       "duration_ms": 187072,
       "name": "Mon amour (with Camila Cabello)",
       "url": "https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11"
+    },
+    {
+      "album": {
+        "name": "MEGA BBL",
+        "url": "https://open.spotify.com/album/7DLHAP2iOziLeyJbgjLXUf"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143751,
+      "name": "MON B\u00c9B\u00c9 - Free kitty version",
+      "url": "https://open.spotify.com/track/2EQ0kb9tS2RGh30CGs3rdo"
     },
     {
       "album": {
@@ -30403,6 +30591,28 @@
     },
     {
       "album": {
+        "name": "Noventa (with J Balvin)",
+        "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146700,
+      "name": "Noventa (with J Balvin)",
+      "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
+    },
+    {
+      "album": {
         "name": "Now That You're Gone",
         "url": "https://open.spotify.com/album/2jGQ7Jv8LkMiRT4Os5lARt"
       },
@@ -30930,6 +31140,24 @@
       "duration_ms": 161271,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0FZI4FaJlgmfwJn5LuStDE"
+    },
+    {
+      "album": {
+        "name": "HEROINA",
+        "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156577,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD"
     },
     {
       "album": {
@@ -33169,6 +33397,24 @@
     },
     {
       "album": {
+        "name": "Predator",
+        "url": "https://open.spotify.com/album/41U6YwMaGP6wdtRTZptEaG"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115952,
+      "name": "Predator",
+      "url": "https://open.spotify.com/track/4Yw8f14VJifM5loeSSKlW0"
+    },
+    {
+      "album": {
         "name": "pretend to like me",
         "url": "https://open.spotify.com/album/6p0yKdez84eBLNbdiVplud"
       },
@@ -34710,6 +34956,24 @@
       "duration_ms": 192592,
       "name": "Rot",
       "url": "https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ"
+    },
+    {
+      "album": {
+        "name": "ROUND TWO",
+        "url": "https://open.spotify.com/album/3UlvOUgSHEILCQvsJV6FL9"
+      },
+      "artists": [
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "ROUND TWO",
+      "url": "https://open.spotify.com/track/4B5iorsGfI6Wd6k6LpaMRg"
     },
     {
       "album": {
@@ -37349,6 +37613,24 @@
     },
     {
       "album": {
+        "name": "Stage Girl",
+        "url": "https://open.spotify.com/album/6WOa0ML0MubR3Vz2QwTI6R"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209746,
+      "name": "Somebody I'm Not",
+      "url": "https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj"
+    },
+    {
+      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
       },
@@ -37566,7 +37848,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 198028,
       "name": "Something In The Heavens",
       "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
@@ -39453,6 +39735,24 @@
     },
     {
       "album": {
+        "name": "Sympathy Magic",
+        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
+    },
+    {
+      "album": {
         "name": "Synchronize",
         "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
@@ -40506,7 +40806,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 228518,
       "name": "The Dead Dance",
       "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
@@ -40914,7 +41214,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 152466,
       "name": "The Internet",
       "url": "https://open.spotify.com/track/4z5D3BklthAp85PueFm9v5"
@@ -41638,7 +41938,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 192157,
       "name": "There's Just Something About Her",
       "url": "https://open.spotify.com/track/6XzSqyhtKa4uJT6O1ZjMe8"
@@ -43451,6 +43751,24 @@
     },
     {
       "album": {
+        "name": "uhoh",
+        "url": "https://open.spotify.com/album/2cIRDepGcLfEFaPpOJ1VoM"
+      },
+      "artists": [
+        {
+          "name": "Koven Wei",
+          "url": "https://open.spotify.com/artist/2pkpqIb8x2VvL9NFeche19"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "uhoh",
+      "url": "https://open.spotify.com/track/3iVOxyI18FLPF9my42ft5M"
+    },
+    {
+      "album": {
         "name": "Ultra Love feat. Ella Rosa",
         "url": "https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr"
       },
@@ -43484,7 +43802,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 212386,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b"
@@ -45239,6 +45557,24 @@
     },
     {
       "album": {
+        "name": "What Good?",
+        "url": "https://open.spotify.com/album/37t024pDno6KveKjG2BvJM"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179252,
+      "name": "What Good?",
+      "url": "https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92"
+    },
+    {
+      "album": {
         "name": "drowning",
         "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
       },
@@ -45626,7 +45962,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
@@ -46336,7 +46672,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 155701,
       "name": "Who Hurt You",
       "url": "https://open.spotify.com/track/55ZGQCR6if6r6pPaHm3eyY"
@@ -47210,7 +47546,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 175324,
       "name": "yes baby",
       "url": "https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA"
@@ -47286,7 +47622,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 106814,
       "name": "yezzir",
       "url": "https://open.spotify.com/track/4spNqO4t8rAzbQlaLduRga"

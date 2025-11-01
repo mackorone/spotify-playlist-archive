@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 37 min
+102 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 | 2024-02-10 | 2024-10-19 |
 | [The Liar](https://open.spotify.com/track/1Gv1bR2a9JXnf79yeAhQP9) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/31q4rrYIResXCwBOyDYc7r) | 3:29 | 2025-07-25 | 2025-08-23 |
 | [The Liar](https://open.spotify.com/track/2d9h8W6esGHsrz3Oow11GU) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/5pOoOJypKDcjwCV57AVyVp) | 3:29 | 2025-08-23 |  |
+| [to live \- feat.LEO](https://open.spotify.com/track/47IsOwtg6R1jVu12E5sKgZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [LEO](https://open.spotify.com/artist/09SM0HFZW4tOpELk4yDF6v) | [to live \(feat.LEO\)](https://open.spotify.com/album/7DXJlxeTigq0dYr3ashRvb) | 5:29 | 2025-11-01 |  |
 | [Toi Toi](https://open.spotify.com/track/0xVlV62o4SjBzliahwzjsH) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Murotsuyoshi](https://open.spotify.com/artist/6y4aciagKq7EfDwuc5O3UK) | [Toi Toi](https://open.spotify.com/album/3yU3LJvb6QlNhEAyfq3siV) | 3:44 | 2025-05-30 | 2025-06-26 |
 | [Utakatarattara](https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Utakatarattara](https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK) | 3:08 | 2023-09-15 | 2023-11-11 |
 | [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2023-01-14 |  |
@@ -68,7 +69,7 @@
 | [タイムカプセル \(VS\. 稲葉浩志\)](https://open.spotify.com/track/67zGIaA8SMwTstVs0wJ9QW) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Action \(VS\. 稲葉浩志\)](https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs) | 4:04 | 2025-09-05 |  |
 | [ツバメ \- feat\. ミドリーズ & 長濱ねる & 東京都立片倉高等学校吹奏楽部](https://open.spotify.com/track/7JbneHNJCvLcBDkcXbddMK) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p), [長濱ねる](https://open.spotify.com/artist/7iDeYKknsBspvtbbC5kf4V), [東京都立片倉高等学校吹奏楽部](https://open.spotify.com/artist/7aF2lxzayrDdambGDmZ3Qk) | [ツバメ \(feat\. ミドリーズ & 長濱ねる & 東京都立片倉高等学校吹奏楽部\)](https://open.spotify.com/album/3Wjb7fLV5CEZWjG9odwkCB) | 4:24 | 2023-01-14 | 2025-05-30 |
 | [トイトイ \- feat.ムロツヨシ](https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [トイトイ \(feat.ムロツヨシ\)](https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA) | 3:44 | 2025-06-26 | 2025-09-20 |
-| [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 | 2023-01-14 |  |
+| [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 | 2023-01-14 | 2025-11-01 |
 | [リボン \- feat.桜井和寿\(Mr.Children\)](https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kazutoshi Sakurai](https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN) | [リボン \[feat.桜井和寿\(Mr.Children\)\]](https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk) | 3:56 | 2023-12-13 |  |
 | [ルパン三世'78](https://open.spotify.com/track/3GUQ1HfyTPQ9mSP8ya95Ee) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/6fHwXjGZqaA4HW5yigfuEq) | 2:51 | 2023-01-14 |  |
 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 | 2023-01-14 |  |

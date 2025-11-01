@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 150985,
+  "num_followers": 150992,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPU2w2ZceRRKxrLUZq4ZDkGozY93",
+  "snapshot_id": "AAAAAOlQshBf9kf/Kdps8GHPA/C/tZJK",
   "tracks": [
     {
       "added_at": "2025-10-24 04:00:13",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "The Weather",
-        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "LIFEBLOOD",
         "url": "https://open.spotify.com/album/3kPyvyNnnP6HA7H4raJmzE"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 154189,
       "name": "FEAR OF HEIGHTS",
       "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "The Weather",
+        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 189163,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "Sad",
         "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 263389,
       "name": "Promises",
       "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 189163,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "Bender (feat. Travis Barker)",
-        "url": "https://open.spotify.com/album/5vKJnMy2A7hDkbWffp5vek"
-      },
-      "artists": [
-        {
-          "name": "The Paradox",
-          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 170551,
-      "name": "Bender (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/78APbsosmvDYIwZHjzC5ZE"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "Bender (feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/5vKJnMy2A7hDkbWffp5vek"
+      },
+      "artists": [
+        {
+          "name": "The Paradox",
+          "url": "https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 170551,
+      "name": "Bender (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/78APbsosmvDYIwZHjzC5ZE"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "Goodbye, Good Riddance",
-        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 159275,
-      "name": "Goodbye, Good Riddance",
-      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 187596,
       "name": "spite",
       "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "Goodbye, Good Riddance",
+        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 159275,
+      "name": "Goodbye, Good Riddance",
+      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "vampire diaries",
-        "url": "https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 155347,
-      "name": "vampire diaries",
-      "url": "https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "vampire diaries",
+        "url": "https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 155347,
+      "name": "vampire diaries",
+      "url": "https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "BETTER",
-        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 155668,
-      "name": "BETTER",
-      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "The Fray Is Back",
         "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 155668,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -1700,7 +1700,7 @@
           "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 165799,
+      "duration_ms": 165805,
       "name": "Bitter Sweet Love",
       "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
     },
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 144074,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 212414,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
         "name": "june",
         "url": "https://open.spotify.com/album/3mtccJISwpBDKW1kUnrYVz"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 184666,
       "name": "forever [Feat. I DONT KNOW HOW BUT THEY FOUND ME]",
       "url": "https://open.spotify.com/track/5zQrhijrekxsDuAYzxpU0B"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
-        "name": "DUMB",
-        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
     },
     {
       "added_at": "2025-10-24 04:00:13",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2025-10-24 04:00:13",
       "album": {
-        "name": "everybody hates me",
-        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 120287,
-      "name": "everybody hates me",
-      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
         "name": "Maybe You Saved Me",
         "url": "https://open.spotify.com/album/1T4ojqgTOhuLDEeMPvz3BY"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 204632,
       "name": "Maybe You Saved Me",
       "url": "https://open.spotify.com/track/6pJsukg4tYbHfE01yU40Qr"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "everybody hates me",
+        "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 120287,
+      "name": "everybody hates me",
+      "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
     },
     {
       "added_at": "2025-10-24 04:00:13",

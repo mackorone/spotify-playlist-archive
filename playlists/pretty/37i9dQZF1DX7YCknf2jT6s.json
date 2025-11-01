@@ -1,13 +1,49 @@
 {
   "description": "New jazz for open minds. Cover: Theo Croker",
-  "num_followers": 950169,
+  "num_followers": 950148,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPxnGU7bScwa7KgEMHFm+eNqIkh",
+  "snapshot_id": "AAAAAKGAUqYEidHoPzEOBaqqWmJDvPsa",
   "tracks": [
+    {
+      "added_at": "2025-10-31 04:00:33",
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 274680,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB"
+    },
+    {
+      "added_at": "2025-10-31 04:00:33",
+      "album": {
+        "name": "Ooh-La-La",
+        "url": "https://open.spotify.com/album/4syZCGAaQzmfiY2sqN45TU"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 238875,
+      "name": "Curumim",
+      "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
+    },
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
@@ -85,6 +121,30 @@
       "url": "https://open.spotify.com/track/758ZxqKonvx3EBva5h2xmD"
     },
     {
+      "added_at": "2025-10-31 04:00:33",
+      "album": {
+        "name": "Techno Logic",
+        "url": "https://open.spotify.com/album/768dTvGf2c479ASY1S0DAu"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        },
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        },
+        {
+          "name": "Ben LaMar Gay",
+          "url": "https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR"
+        }
+      ],
+      "duration_ms": 292346,
+      "name": "Gnu Blue",
+      "url": "https://open.spotify.com/track/0ACrjHByr2GzPVTxKbDBix"
+    },
+    {
       "added_at": "2025-10-24 04:00:21",
       "album": {
         "name": "For Maxwell",
@@ -103,6 +163,22 @@
       "duration_ms": 188280,
       "name": "For Maxwell",
       "url": "https://open.spotify.com/track/33q0xisDdB5YyjFcllFoQv"
+    },
+    {
+      "added_at": "2025-10-31 04:00:33",
+      "album": {
+        "name": "All Will Be Fine",
+        "url": "https://open.spotify.com/album/5xNbQPNTdNhtZ7Kmon2IgB"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "All Will Be Fine",
+      "url": "https://open.spotify.com/track/0ysvcp1D8gwqMYBPZrzceW"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -279,22 +355,6 @@
     {
       "added_at": "2025-10-10 04:00:47",
       "album": {
-        "name": "Tristeza",
-        "url": "https://open.spotify.com/album/0Z6NW1supXgAT0wP5jdSOs"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 173476,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/1jz3MnXdpmDTPgmyLO93Nf"
-    },
-    {
-      "added_at": "2025-10-10 04:00:47",
-      "album": {
         "name": "Bost\u00e9",
         "url": "https://open.spotify.com/album/4hfod6huUPnat3S6kCxiKh"
       },
@@ -375,30 +435,6 @@
       "duration_ms": 483946,
       "name": "Y\u00e8k\u00e8rmo S\u00e8w",
       "url": "https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz"
-    },
-    {
-      "added_at": "2025-09-19 04:16:20",
-      "album": {
-        "name": "Boom Bapped",
-        "url": "https://open.spotify.com/album/0FE3Rqy68csgCH6JuxlJOP"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        },
-        {
-          "name": "Theon Cross",
-          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
-        },
-        {
-          "name": "Ben LaMar Gay",
-          "url": "https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Boom Bapped",
-      "url": "https://open.spotify.com/track/3NrL92X3eh3yiRdfvXJhMm"
     },
     {
       "added_at": "2025-09-12 04:22:45",
@@ -515,26 +551,6 @@
       "duration_ms": 366933,
       "name": "La Ceiba",
       "url": "https://open.spotify.com/track/5rAMwNK5oJZcKqqu0BULfw"
-    },
-    {
-      "added_at": "2025-09-19 04:16:20",
-      "album": {
-        "name": "Dazz On",
-        "url": "https://open.spotify.com/album/2wMdVrbu1ckG6MmUI30lFu"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        },
-        {
-          "name": "Yucco Miller",
-          "url": "https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO"
-        }
-      ],
-      "duration_ms": 230636,
-      "name": "Chili Chili (feat. Yucco Miller)",
-      "url": "https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE"
     },
     {
       "added_at": "2025-09-19 04:16:20",
@@ -1371,38 +1387,6 @@
       "duration_ms": 384391,
       "name": "Baldwin's Blues",
       "url": "https://open.spotify.com/track/4ourCDVAn58iIDPpJ8SVBW"
-    },
-    {
-      "added_at": "2025-04-18 04:00:41",
-      "album": {
-        "name": "Say You Love Me",
-        "url": "https://open.spotify.com/album/6Sbddb8Xz06vXPDKS28vBl"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "SuperBlue",
-          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
-        },
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        },
-        {
-          "name": "Victoria Victoria",
-          "url": "https://open.spotify.com/artist/7HCC7kE2A7UW1IGOzajebg"
-        }
-      ],
-      "duration_ms": 280914,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/0Lhn7waaGGpN6z7ygN2olt"
     },
     {
       "added_at": "2025-06-20 04:00:33",

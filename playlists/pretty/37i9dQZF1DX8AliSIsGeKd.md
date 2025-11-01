@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Paul Kalkbrenner
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,595 likes - 89 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,866 likes - 89 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 4 | [Alive Again](https://open.spotify.com/track/2R5eXInJs150NlbnW8kEo8) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Alive Again](https://open.spotify.com/album/1YAZklWw7KuHJBrXl2MXGT) | 7:54 |
 | 5 | [Sincerity \(a piece right of your soul\)](https://open.spotify.com/track/6e64yRHmi5RxOg69aYhq5r) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Sincerity \(a piece right of your soul\)](https://open.spotify.com/album/6FuzCc1EcjCIsCOJwuJrVo) | 4:45 |
 | 6 | [Una Mattina](https://open.spotify.com/track/6g0L8OMeK0sa1IuY1De4oy) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [Una Mattina](https://open.spotify.com/album/14mE9wRZFL1eIZNLnQoAHa) | 3:19 |
-| 7 | [Broken Echoes](https://open.spotify.com/track/34W82EYjtMiwq9UjNRL8zE) | [Gizmo & Mac](https://open.spotify.com/artist/7mnoyEA7pGl5D9QmJtNP7L), [Maurice Mino](https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB) | [](https://open.spotify.com/album/null) | 4:31 |
+| 7 | [Broken Echoes](https://open.spotify.com/track/34W82EYjtMiwq9UjNRL8zE) | [Gizmo & Mac](https://open.spotify.com/artist/7mnoyEA7pGl5D9QmJtNP7L), [Maurice Mino](https://open.spotify.com/artist/3jQ3A0KKg25CZZNBFr5fKB) | [Broken Echoes](https://open.spotify.com/album/4MVOdWbFU0Fd0XURcoU9SL) | 4:31 |
 | 8 | [Give It Back](https://open.spotify.com/track/2jV1Kkuy9a8GkKQ2ZHFbb4) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Give It Back](https://open.spotify.com/album/7DfY2MoOOmsa68Oju7uSYo) | 3:54 |
 | 9 | [Dopamine Nation \- Wehbba Remix](https://open.spotify.com/track/2qklhaitwgGbnaX0Jewimr) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Dopamine Nation \(Wehbba Remix\)](https://open.spotify.com/album/0xY3tAw7ObWJ1FoZ01OZmp) | 3:27 |
 | 10 | [Run It](https://open.spotify.com/track/2Y0c8uZbeNW1kNS4yghANn) | [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP) | [Run It](https://open.spotify.com/album/2At42cyTjDG1T00i5cBk0i) | 3:12 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 12 | [NATURAL SELECTION](https://open.spotify.com/track/1SEHeCpRAFl6qdWOG9vms8) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [NATURAL SELECTION](https://open.spotify.com/album/7fuabRsDnZtTVqyTKL2SWB) | 3:16 |
 | 13 | [Text Me](https://open.spotify.com/track/24zkTrvyQdw55MUIMwt9de) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Text Me](https://open.spotify.com/album/52kG6ghzinx2eVK4o3ADD7) | 4:13 |
 | 14 | [You](https://open.spotify.com/track/3q25RBzaH2tni1ZMvS10SY) | [KEKURA](https://open.spotify.com/artist/4XgFUd6zkzZDAy7M05zLbs), [AYOUBYME](https://open.spotify.com/artist/3q4BED0WQZe4e16CXJL4CE) | [You](https://open.spotify.com/album/0jahJnDwADiV7PgfQC7atK) | 3:15 |
-| 15 | [See the Light](https://open.spotify.com/track/6wxE1rDw80B5B5KBJHm3Sx) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Read the News](https://open.spotify.com/artist/53Bre8OBwqzpowWa2uQ2KV) | [](https://open.spotify.com/album/null) | 3:58 |
+| 15 | [See the Light](https://open.spotify.com/track/6wxE1rDw80B5B5KBJHm3Sx) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Read the News](https://open.spotify.com/artist/53Bre8OBwqzpowWa2uQ2KV) | [See the Light EP](https://open.spotify.com/album/34ACNktULW1LwHS5fQjwh3) | 3:58 |
 | 16 | [What's Up](https://open.spotify.com/track/40tSHUccBeioqtztJxfG66) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [What's Up](https://open.spotify.com/album/7w6JRS0wTMm70MViEY7sOy) | 3:25 |
 | 17 | [Submission](https://open.spotify.com/track/7hWsBoM5SyTxJpBEYr6pzp) | [Local Suicide](https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0), [Skelesys](https://open.spotify.com/artist/0Z3iJhM8SLSLGXSSqAEN9T) | [Submission](https://open.spotify.com/album/4MqSNSewWi1mvnQO50g2Va) | 4:47 |
 | 18 | [Just Do It](https://open.spotify.com/track/4qggcCVOAvFTzJ2zsLUsHV) | [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z) | [Just Do It](https://open.spotify.com/album/5vpI0KpbgZRd8GCESsuYe5) | 3:18 |

@@ -12689,6 +12689,28 @@
     },
     {
       "album": {
+        "name": "Say To You",
+        "url": "https://open.spotify.com/album/29FRNVXUiZWd9t2x6GzMbv"
+      },
+      "artists": [
+        {
+          "name": "rghvarchive",
+          "url": "https://open.spotify.com/artist/56aLjpDNfCKl5M6SkMXo5z"
+        },
+        {
+          "name": "redwater",
+          "url": "https://open.spotify.com/artist/4uFWM4R4qBU0tfTFwaTXML"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Say To You",
+      "url": "https://open.spotify.com/track/0tsx50hVTXTEHAS6xs57uF"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC"
       },

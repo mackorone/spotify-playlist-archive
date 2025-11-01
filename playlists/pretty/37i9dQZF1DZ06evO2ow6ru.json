@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 177072,
+  "num_followers": 177081,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAABLFcjavt/wRnd13VIhSTPT",
+  "snapshot_id": "aQKqgAAAAABeyf6zM9Xy9LV5V6Tr5h+A",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -215,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Viva Las Vagus Nerve",
-      "url": "https://open.spotify.com/track/3CiSGl5nsSBxEY6SqZVvBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -251,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Viva Las Vagus Nerve",
+      "url": "https://open.spotify.com/track/3CiSGl5nsSBxEY6SqZVvBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "The Sound of Letting Go",
+      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "The Sound of Letting Go",
-      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Panic",
         "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 201075,
       "name": "Backseat Serenade",
       "url": "https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187344,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
     },
     {
       "added_at": null,
@@ -360,25 +360,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 172508,
-      "name": "Cigarettes & Sabotage",
-      "url": "https://open.spotify.com/track/2pVgY14uMtB3vcAgwbidvd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187344,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/3svtGm2OBGaKjnNXoNjcxk"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
       "duration_ms": 216546,
       "name": "Six Feet Under The Stars",
       "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
     },
     {
       "added_at": null,
@@ -424,25 +424,29 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 173411,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/5sIPJN1JAQSda6QyflTmvX"
+      "duration_ms": 172508,
+      "name": "Cigarettes & Sabotage",
+      "url": "https://open.spotify.com/track/2pVgY14uMtB3vcAgwbidvd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 229853,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
+      "duration_ms": 184054,
+      "name": "New Religion (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD"
     },
     {
       "added_at": null,
@@ -475,26 +479,6 @@
       "duration_ms": 227466,
       "name": "Lost In Stereo",
       "url": "https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184054,
-      "name": "New Religion (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Poppin' Champagne",
-      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
+      "duration_ms": 206839,
+      "name": "Old Scars / Future Hearts",
+      "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 206839,
-      "name": "Old Scars / Future Hearts",
-      "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
+      "duration_ms": 199986,
+      "name": "Poppin' Champagne",
+      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 183167,
       "name": "Glitter & Crimson",
       "url": "https://open.spotify.com/track/4LpT15R6GqcKGjT92R8kfS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199405,
+      "name": "If These Sheets Were States",
+      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
     }
   ],
   "unique_name": "This Is All Time Low",

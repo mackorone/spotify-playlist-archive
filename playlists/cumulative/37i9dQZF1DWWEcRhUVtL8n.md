@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Hannah Jadagu
+> New and approved indie pop\. Cover: Luvcat
 
-2,219 songs - 4 day 21 hr 44 min
+2,220 songs - 4 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Alapathy](https://open.spotify.com/track/3UUjYLkGzItgoyEwdEtq9e) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Alapathy](https://open.spotify.com/album/7hZE46AUtKrkuTjlJVAWf5) | 3:14 | 2021-02-23 | 2021-05-20 |
 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 | 2022-05-13 | 2022-05-21 |
 | [Alien](https://open.spotify.com/track/335zR61okTOqbGmLFlHcrz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Alien](https://open.spotify.com/album/3nHgMTBuY81FhqgBmcjMhv) | 3:49 | 2022-05-20 | 2022-05-24 |
+| [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 3:57 | 2025-10-31 |  |
 | [All About You \(feat\. Foster The People\)](https://open.spotify.com/track/5ug2bpyUHVOR7Y3TUPH3J7) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [All About You \(feat\. Foster The People\)](https://open.spotify.com/album/2pGD0e3QJo37XJpbgHm59q) | 3:36 | 2020-11-03 | 2020-11-15 |
 | [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 | 2024-01-12 | 2024-02-23 |
 | [All day](https://open.spotify.com/track/6GAbbgKtgj2F4BwszjEk12) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:14 | 2024-03-08 | 2024-03-30 |
@@ -1095,7 +1096,7 @@
 | [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-12-16 | 2023-01-15 |
 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-05 | 2022-09-23 |
 | [Karaoke](https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Karaoke](https://open.spotify.com/album/5JJYDmVfIhfdTp3HRaiKTy) | 3:17 | 2022-06-17 | 2022-07-29 |
-| [Keep Falling in Love](https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Keep Falling in Love](https://open.spotify.com/album/09HQ9DzGBCXX7KMo7GADZA) | 3:11 | 2025-10-10 |  |
+| [Keep Falling in Love](https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Keep Falling in Love](https://open.spotify.com/album/09HQ9DzGBCXX7KMo7GADZA) | 3:11 | 2025-10-10 | 2025-11-01 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-04-05 | 2024-08-02 |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 | 2022-12-22 |
 | [Keep On Dancing](https://open.spotify.com/track/5clIpJtJdJbV1WMioS5CXS) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/2w2gRZhzkG0oAO54M8Pcat) | 3:15 | 2020-10-20 | 2021-06-03 |

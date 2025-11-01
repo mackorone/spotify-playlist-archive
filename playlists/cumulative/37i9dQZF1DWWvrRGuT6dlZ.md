@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: d00nuts\. Artwork: Isu Kim
 
-1,357 songs - 3 day 2 hr 20 min
+1,358 songs - 3 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Kita](https://open.spotify.com/track/3COWwieECOQfg92SW36JCj) | [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [Kita](https://open.spotify.com/album/3ySUS66sQVrKElm65xHlmN) | 4:29 | 2025-10-16 |  |
 | [Kita Takkan Pisah](https://open.spotify.com/track/76EDWjAndXzYTWywknvCj3) | [Razak A'ai](https://open.spotify.com/artist/37Qc9cpraxaVGo4mX2kmNw), [Wafariena](https://open.spotify.com/artist/4cw5mzOkKnAyNX8k8a5Klu) | [Kita Takkan Pisah](https://open.spotify.com/album/4PJZcrXsq2s9zCmWOOROfJ) | 3:26 | 2025-08-21 | 2025-10-17 |
 | [Know Me](https://open.spotify.com/track/2eBnV9niY1YzcHsYEPMzAt) | [RZN](https://open.spotify.com/artist/4wA9xhO1yGjwVc98eQakkz) | [Know Me](https://open.spotify.com/album/74v6xeNyokMc2pU6UwbgFf) | 2:23 | 2025-05-16 | 2025-07-12 |
+| [Kopi Hitam](https://open.spotify.com/track/1lEdyWcyCuQcTjcKI9eNAJ) | [Jasper Supayah](https://open.spotify.com/artist/36WvSisYnkW9dgAq2rtFzG) | [Kopi Hitam](https://open.spotify.com/album/4DRpOI4Bmze0VRI5s8eO5r) | 3:00 | 2025-10-30 |  |
 | [Korban Rindu](https://open.spotify.com/track/3ODHbWCUYk50kgq96qUbXp) | [Putera Bobo](https://open.spotify.com/artist/35y5opzBiwodv6NWwF5ixQ) | [Korban Rindu](https://open.spotify.com/album/2NF3r9T5RFyp6JGm9j5tCV) | 4:16 | 2025-07-31 | 2025-09-13 |
 | [KU BERSUARA \(Original Soundtrack SANTAU SANTAI 5\)](https://open.spotify.com/track/7A9Q4yPSAtOkjVP1QCNAch) | [ITSDATBOYINBLVCK](https://open.spotify.com/artist/3Wiuqy7xJpr0L7eL8HjcdY), [Nurhakeem](https://open.spotify.com/artist/3YU3CCItDRiolHJpOSw3gi) | [KU BERSUARA \(Original Soundtrack SANTAU SANTAI 5\)](https://open.spotify.com/album/3eaKjouItSFWB7q2rA03nb) | 3:03 | 2025-07-31 | 2025-08-16 |
 | [Ku Rasa](https://open.spotify.com/track/2AAxzNg6KkQ9tZHKAMQP4s) | [Akif Halqi](https://open.spotify.com/artist/7xIMo9VNKnXHLtfqkrLFdh) | [Ku Rasa](https://open.spotify.com/album/173DrQxubf83Hj0FdBWW3T) | 2:40 | 2025-04-25 | 2025-06-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Antti Autio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,299 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,305 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Minä todella rakastin häntä](https://open.spotify.com/track/2bkJuOXu99K08IWvPsP3bP) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Minä todella rakastin häntä](https://open.spotify.com/album/4cPk1yp4AiAG7BtgdUCO80) | 3:08 |
 | 80 | [En tiedä mikä muhun meni](https://open.spotify.com/track/0gQkEXSr62YX6gLr8RHsxW) | [Tammela 33100](https://open.spotify.com/artist/2iHRsXZ3WBWIsbd8vWb0y3) | [En tiedä mikä muhun meni](https://open.spotify.com/album/3egen559wts7KVjHzeccnc) | 4:13 |
 
-Snapshot ID: `AAAAAH+XtcMofdmM3qVwHr+0EmjeZKlm`
+Snapshot ID: `AAAAANkiVgTmz8HdrMpK7QHNWSwgq6ma`

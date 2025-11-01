@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Taylor Swift
+> The best tracks from the world of music\. Cover: Rizky Febian, Adrian Khalif
 
 433 songs - 1 day 0 hr 37 min
 

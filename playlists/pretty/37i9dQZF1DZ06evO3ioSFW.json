@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 511772,
+  "num_followers": 511821,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAC32L9lFj4ge0aat+EX7IZD",
+  "snapshot_id": "aQKqgAAAAAA/WEgBBu1wu87BE54u2/50",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Mariposas",
-        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Ahora Entendi",
-      "url": "https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habla el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/43UFrMP3JHPl7W4MqfWWcA"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 324493,
       "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
       "url": "https://open.spotify.com/track/5X5e8H5D9SikfhcXCHxqvY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Mariposas",
+        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Ahora Entendi",
+      "url": "https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw"
     },
     {
       "added_at": null,
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+        "name": "Carlos Rivera",
+        "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
       },
       "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 234306,
-      "name": "Como Yo Te Amo",
-      "url": "https://open.spotify.com/track/7H561OZAeONWEskedqaDQa"
+      "duration_ms": 208800,
+      "name": "En el Amor No Se Manda (with Yuridia)",
+      "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
     },
     {
       "added_at": null,
@@ -843,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carlos Rivera",
-        "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
       "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 208800,
-      "name": "En el Amor No Se Manda (with Yuridia)",
-      "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
+      "duration_ms": 234306,
+      "name": "Como Yo Te Amo",
+      "url": "https://open.spotify.com/track/7H561OZAeONWEskedqaDQa"
     },
     {
       "added_at": null,

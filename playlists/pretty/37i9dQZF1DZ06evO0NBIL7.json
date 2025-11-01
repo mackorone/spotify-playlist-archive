@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAADK+sQwo+OUlne1aNEgSf1J",
+  "snapshot_id": "aQKqgAAAAABb3TWHjkyEROoPrg11+oUe",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Easy",
-        "url": "https://open.spotify.com/album/6Hb2i9P8IE2CsXREL87Ztw"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/04FgV7G5rU7hgrDVdHQc2O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Fall Down",
         "url": "https://open.spotify.com/album/3I0SRk2cx5R8JVlBNIX7yg"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 187126,
       "name": "All Fall Down",
       "url": "https://open.spotify.com/track/6cijsAY72S4JJrA4RSFn1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Easy",
+        "url": "https://open.spotify.com/album/6Hb2i9P8IE2CsXREL87Ztw"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/04FgV7G5rU7hgrDVdHQc2O"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 232680,
-      "name": "Better To Forget",
-      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
+      "duration_ms": 221133,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
+      "duration_ms": 232680,
+      "name": "Better To Forget",
+      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,

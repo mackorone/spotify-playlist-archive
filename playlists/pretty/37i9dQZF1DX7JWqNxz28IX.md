@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,291 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,287 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 53 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 |
 | 54 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 |
 | 55 | [Scusa ma](https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Scusa ma](https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY) | 1:41 |
-| 56 | [la cosa più vicina al cielo](https://open.spotify.com/track/5O9KVG1qj77hZllFbDGmfz) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [la cosa più vicina al cielo](https://open.spotify.com/album/7cGuc4jzxmV6SFlQ1uGosE) | 3:01 |
-| 57 | [solo polvere.](https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [PROLOGO](https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL) | 3:13 |
+| 56 | [solo polvere.](https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [PROLOGO](https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL) | 3:13 |
+| 57 | [la cosa più vicina al cielo](https://open.spotify.com/track/5O9KVG1qj77hZllFbDGmfz) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY) | [la cosa più vicina al cielo](https://open.spotify.com/album/7cGuc4jzxmV6SFlQ1uGosE) | 3:01 |
 | 58 | [Horror \- Acoustic](https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 3:40 |
 | 59 | [industria figlia](https://open.spotify.com/track/4cKbfeCLnzQX6MVEp1ca9w) | [tommi](https://open.spotify.com/artist/4KFl2C3e3YmJnIGt0MBBQd), [moth.](https://open.spotify.com/artist/7IVTJLKDkABhe1gNoqgSEr), [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [industria figlia \(feat\. EMMA\)](https://open.spotify.com/album/49Lz6xPjETpMKqJP7i4oaN) | 3:51 |
 | 60 | [La stella più bella di sempre](https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [La stella più bella di sempre](https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW) | 2:06 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 92 | [un giorno in più](https://open.spotify.com/track/45ardAYQus7bUH97kN5gA3) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [un giorno in più](https://open.spotify.com/album/56ajWofOOf4XhVw6nJ7cQj) | 2:41 |
 | 93 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 94 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
-| 95 | [distruggermi piano](https://open.spotify.com/track/05v7b6JCUGTklbi4zityhu) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [distruggermi](https://open.spotify.com/album/2zoFlLikZhcq8ogpUQ4E1B) | 2:45 |
+| 95 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
 | 96 | [Semprerosa](https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Semprerosa](https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F) | 3:20 |
 | 97 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
-| 98 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
+| 98 | [distruggermi piano](https://open.spotify.com/track/05v7b6JCUGTklbi4zityhu) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [distruggermi](https://open.spotify.com/album/2zoFlLikZhcq8ogpUQ4E1B) | 2:45 |
 | 99 | [Ci siamo fatti male](https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ci siamo fatti male](https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58) | 2:50 |
 | 100 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
 

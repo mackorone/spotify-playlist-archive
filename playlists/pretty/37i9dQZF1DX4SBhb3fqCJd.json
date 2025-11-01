@@ -1,13 +1,49 @@
 {
-  "description": "Where R&B lives. Cover: Leon Thomas",
-  "num_followers": 6121535,
+  "description": "Where R&B lives. Cover: Ayra Star",
+  "num_followers": 6121209,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFc4U8NBlGwP8vVo4ofX07iH1R3Y",
+  "snapshot_id": "AAAAACs51ouYvTZEAJ/Veg48STkqnYXU",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:54",
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
+      "added_at": "2025-10-31 04:00:38",
+      "album": {
+        "name": "It Depends (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 271875,
+      "name": "It Depends (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+    },
     {
       "added_at": "2025-10-24 04:24:27",
       "album": {
@@ -23,30 +59,6 @@
       "duration_ms": 165599,
       "name": "My Muse",
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
-    },
-    {
-      "added_at": "2025-10-17 04:25:12",
-      "album": {
-        "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
-        "url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "It Depends (The Remix) (feat. Bryson Tiller & USHER)",
-      "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -115,6 +127,22 @@
       "duration_ms": 204308,
       "name": "Star Signs",
       "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
+    },
+    {
+      "added_at": "2025-10-31 04:00:38",
+      "album": {
+        "name": "have to.",
+        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 207023,
+      "name": "have to.",
+      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -221,26 +249,6 @@
       "url": "https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP"
     },
     {
-      "added_at": "2025-10-24 08:33:02",
-      "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "646yf4t",
-          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "No More Loving (On Women I Don\u2019t Love) (Feat. 646yf4t)",
-      "url": "https://open.spotify.com/track/2U7Tux550YbkSHwn33FJbD"
-    },
-    {
       "added_at": "2025-10-03 04:00:54",
       "album": {
         "name": "JUST A DREAM",
@@ -279,22 +287,6 @@
       "duration_ms": 241507,
       "name": "know about me (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
-    },
-    {
-      "added_at": "2025-10-03 04:00:54",
-      "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -359,6 +351,26 @@
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
+    },
+    {
+      "added_at": "2025-10-24 08:33:02",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "646yf4t",
+          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "No More Loving (On Women I Don\u2019t Love) (Feat. 646yf4t)",
+      "url": "https://open.spotify.com/track/2U7Tux550YbkSHwn33FJbD"
     },
     {
       "added_at": "2025-10-24 04:24:27",
@@ -647,22 +659,6 @@
       "duration_ms": 157992,
       "name": "I Need Her",
       "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
-    },
-    {
-      "added_at": "2025-10-03 04:00:54",
-      "album": {
-        "name": "peter pan.",
-        "url": "https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 184614,
-      "name": "peter pan.",
-      "url": "https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX"
     },
     {
       "added_at": "2025-10-03 04:00:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,006 likes - 142 songs - 12 hr 34 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,998 likes - 142 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 80 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 |
 | 81 | [Look At What The Blood Has Done \- Live](https://open.spotify.com/track/7i2ELDMeAw0I3HtFYbUmws) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Look At What The Blood Has Done \(Live\)](https://open.spotify.com/album/7zCjHQRVh97TQZFeD3yS0U) | 5:50 |
 | 82 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 |
-| 83 | [What A God](https://open.spotify.com/track/0sVpTd7gK4YUIL0xTdYsVn) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Todd Mendez](https://open.spotify.com/artist/5IhNGJe6UhMRDJtqllQC3q), [Jasmin Foreman](https://open.spotify.com/artist/74YbFZFzLNGJxP4rRNimam) | [What A God](https://open.spotify.com/album/6Ca1cly2h2TeJyOLjRwhtR) | 5:25 |
+| 83 | [What A God](https://open.spotify.com/track/0sVpTd7gK4YUIL0xTdYsVn) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Todd Mendez](https://open.spotify.com/artist/5IhNGJe6UhMRDJtqllQC3q), [Jasmin Foreman](https://open.spotify.com/artist/16kiLoWN3jY8WslXMC08Sy) | [What A God](https://open.spotify.com/album/6Ca1cly2h2TeJyOLjRwhtR) | 5:25 |
 | 84 | [Full Surrender](https://open.spotify.com/track/6SQpB4z4lHDP3a1TayluWC) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Full Surrender](https://open.spotify.com/album/6zUCruEK6fqLN15zMKHWwN) | 5:31 |
 | 85 | [Covered By The Blood \- Live](https://open.spotify.com/track/2cRg97KMU2c1H40omy8rKN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Covered By The Blood \(Live\)](https://open.spotify.com/album/66yQEX1xivwEPM0nVAoc5Z) | 7:12 |
 | 86 | [Only God Could Do It](https://open.spotify.com/track/1yOmODRsVCQxGDkzFq2Zjo) | [One Voice INT Music](https://open.spotify.com/artist/6c6GqErJ4d8zV8EjLIQAe7), [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q), [Jhauvon Harrison](https://open.spotify.com/artist/2z38UBrvvWpEyLkxHiwgXZ) | [Only God Could Do It](https://open.spotify.com/album/1ZTDhE1smeH5bSuW57wsBt) | 5:44 |

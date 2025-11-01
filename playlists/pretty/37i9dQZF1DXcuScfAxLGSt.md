@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuScfAxLGSt.md) - [plain]
 
 > Enjoy music from "Free!"! /水泳と青春と絆の物語「Free!」の世界をプレイリストで。©おおじこうじ・京都アニメーション／岩鳶高校水泳部
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,567 likes - 105 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,583 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dried Up Youthful Fame \- Version:Free](https://open.spotify.com/track/1p4caO5oJVVFjwtpuQep7N) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | ["Free!\-the Final Stroke\-" the second volume Original Soundtrack: Never Ending Blue](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 3:37 |
 | 2 | [Still life goes on](https://open.spotify.com/track/0DfCEfxVFogQGCvcV5RKS8) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | ["Free!\-the Final Stroke\-" the second volume Original Soundtrack: Never Ending Blue](https://open.spotify.com/album/3dysUUTUGwxrzMJAZ9AHMi) | 2:34 |
 | 3 | [Timeless Blue](https://open.spotify.com/track/06Z7HauTigShqcEgFmsLx1) | [七瀬 遙 \(CV.島﨑信長\)](https://open.spotify.com/artist/7HkdPuwyMQjRajE6Ra7zRV), [橘 真琴 \(CV.鈴木達央\)](https://open.spotify.com/artist/7qQ8EH2vBeMpy2D3YCaqkw), [松岡 凛 \(CV.宮野真守\)](https://open.spotify.com/artist/6KkZriJ8ioF3VImBIhO4yK), [桐嶋郁弥 \(CV.内山昂輝\)](https://open.spotify.com/artist/018uH6gKHVAr60V1anpIIK), [椎名 旭 \(CV.豊永利行\)](https://open.spotify.com/artist/58q936fg0NVzT9gpS7w7Bq) | [『劇場版 Free!\-the Final Stroke\-』キャラクターソングシングル Vol.9](https://open.spotify.com/album/5f8zYsspLJudXrEUpCKY2N) | 4:34 |
-| 4 | [Relay of youth](https://open.spotify.com/track/4UxSBYcN5pVvDeoSPpMd4O) | [七瀬 遙 \(CV.島﨑信長\)](https://open.spotify.com/artist/7HkdPuwyMQjRajE6Ra7zRV), [松岡 凛 \(CV.宮野真守\)](https://open.spotify.com/artist/6KkZriJ8ioF3VImBIhO4yK), [桐嶋郁弥 \(CV.内山昂輝\)](https://open.spotify.com/artist/018uH6gKHVAr60V1anpIIK), [Sosuke Yamazaki \(CV: Yoshimasa Hosoya\)](https://open.spotify.com/artist/1nSuL6lVcGkIHwutd6pM2g) | [『劇場版 Free!\-the Final Stroke\-』キャラクターソングシングル Vol.9](https://open.spotify.com/album/5f8zYsspLJudXrEUpCKY2N) | 3:51 |
+| 4 | [Relay of youth](https://open.spotify.com/track/4UxSBYcN5pVvDeoSPpMd4O) | [七瀬 遙 \(CV.島﨑信長\)](https://open.spotify.com/artist/7HkdPuwyMQjRajE6Ra7zRV), [松岡 凛 \(CV.宮野真守\)](https://open.spotify.com/artist/6KkZriJ8ioF3VImBIhO4yK), [桐嶋郁弥 \(CV.内山昂輝\)](https://open.spotify.com/artist/018uH6gKHVAr60V1anpIIK), [Sosuke Yamazaki \(CV: Yoshimasa Hosoya\)](https://open.spotify.com/artist/4i1a0evJIlCC7jXI2fNZs0) | [『劇場版 Free!\-the Final Stroke\-』キャラクターソングシングル Vol.9](https://open.spotify.com/album/5f8zYsspLJudXrEUpCKY2N) | 3:51 |
 | 5 | [Rage on](https://open.spotify.com/track/5Szsp19K9hRQonytWeIgCV) | [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq) | [Rage on](https://open.spotify.com/album/5pvxKM8y2RvyMAkvP8Wg4L) | 4:21 |
 | 6 | [SPLASH FREE](https://open.spotify.com/track/1s5NxPAmKw8IxkSoZLfhgF) | [STYLE FIVE](https://open.spotify.com/artist/3XpRMzZXbLkWm7YXTz0c0B) | [SPLASH FREE](https://open.spotify.com/album/08DM4t28GedBP6z0jEWc0U) | 3:58 |
 | 7 | [FUTURE FISH](https://open.spotify.com/track/3gaCxyHugPBZjmzyxNIpbx) | [STYLE FIVE](https://open.spotify.com/artist/3XpRMzZXbLkWm7YXTz0c0B) | [FUTURE FISH](https://open.spotify.com/album/5kASf1mWSzGm9IMGCSTJqK) | 4:34 |

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 83374,
+  "num_followers": 83399,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAmc8k+EF1xOFJ0N27RMH+D",
+  "snapshot_id": "aQKqgAAAAAB7cMTrQ8cAIZMy20vU9Yzs",
   "tracks": [
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 238030,
-      "name": "Country Country",
-      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
+      "duration_ms": 168630,
+      "name": "JACK",
+      "url": "https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 168630,
-      "name": "JACK",
-      "url": "https://open.spotify.com/track/34t98bNg4yQxO32BXU5RzC"
+      "duration_ms": 238030,
+      "name": "Country Country",
+      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 140523,
+      "name": ".30-06",
+      "url": "https://open.spotify.com/track/1AF2ISbmAwwNTGUjgqMNQu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 195326,
       "name": "In The Bible",
       "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 140523,
-      "name": ".30-06",
-      "url": "https://open.spotify.com/track/1AF2ISbmAwwNTGUjgqMNQu"
     },
     {
       "added_at": null,

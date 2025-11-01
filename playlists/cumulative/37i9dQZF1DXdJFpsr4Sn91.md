@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. ⬆️ Kannessa Minttu.
 
-1,021 songs - 2 day 2 hr 53 min
+1,021 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [4X4](https://open.spotify.com/track/4y1kHTpSNXM4VeCUtEFA1m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/3bTbGN3QwizcRPt5SBHKT6) | 3:10 | 2025-01-27 | 2025-02-27 |
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 | 2025-01-24 |
 | [7 minuuttii](https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [7 minuuttii](https://open.spotify.com/album/4bNB7WdqZ5fOJXN8NO12Ln) | 3:52 | 2024-07-04 | 2024-08-16 |
-| [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [](https://open.spotify.com/album/null) | 2:52 | 2025-10-30 |  |
+| [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 | 2025-10-30 |  |
 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 | 2025-09-12 |
 | [AAAA](https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [AAAA](https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC) | 3:41 | 2025-06-16 | 2025-08-29 |
 | [Aamunkoi](https://open.spotify.com/track/5859nOZaubsLJuwVylSmIY) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Aamunkoi](https://open.spotify.com/album/13Fkv0eke2vYeXdK77jXjS) | 3:03 | 2025-05-29 | 2025-08-29 |
@@ -61,6 +61,7 @@
 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 | 2024-11-28 | 2025-02-21 |
 | [Anteeks minä](https://open.spotify.com/track/5WmvVkCh3wIhoSRB0eO5eU) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Anteeks minä](https://open.spotify.com/album/1ZvR4KVLqbLLLovSsywpat) | 3:10 | 2025-02-20 | 2025-03-07 |
 | [anteeksi demo \- sätkynukkekoti \(live\)](https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sätkynukkekoti \(live\)](https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq) | 4:13 | 2024-12-12 | 2025-01-10 |
+| [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 | 2025-10-30 |  |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-12 | 2025-04-25 |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-07-02 | 2024-08-02 |
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-10 | 2024-10-25 |
@@ -898,7 +899,6 @@
 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-25 |  |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-08-02 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-27 |
-| [Track 1](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-08-16 |
 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 | 2025-06-12 | 2025-08-29 |
 | [Trappist girl \(The night\)](https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [Trappist girl \(The night\) / AITOMONSTERI](https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh) | 2:48 | 2025-09-18 | 2025-09-26 |

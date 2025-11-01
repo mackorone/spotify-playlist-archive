@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Pihlaja.
 
-808 songs - 1 day 16 hr 19 min
+808 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [2 tone \(feat\. Ares\)](https://open.spotify.com/track/5Fggrl5jqihP50JYhFUeLt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [2 tone \(feat\. Ares\)](https://open.spotify.com/album/6GvQ3Y54cSOMg5bQOekotv) | 2:59 | 2025-06-19 | 2025-07-04 |
 | [247](https://open.spotify.com/track/7JCSgrKfAWLoW5EttS6tEo) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c) | [247](https://open.spotify.com/album/2GpSzKe87fYEtw9luJcKvI) | 2:51 | 2024-07-04 | 2024-07-27 |
 | [7 minuuttii](https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [7 minuuttii](https://open.spotify.com/album/4bNB7WdqZ5fOJXN8NO12Ln) | 3:52 | 2024-07-02 | 2024-08-10 |
-| [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [](https://open.spotify.com/album/null) | 2:52 | 2025-10-30 |  |
+| [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 | 2025-10-30 |  |
 | [AAAA](https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [AAAA](https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC) | 3:41 | 2025-06-12 | 2025-10-24 |
 | [Aamuihmiset](https://open.spotify.com/track/6ZaEw9vOMaKvg3WYkDQHOu) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Suomalaista muotoiluu](https://open.spotify.com/album/75be1pSUYClB92gUh4E9Ar) | 3:14 | 2025-03-27 | 2025-04-11 |
 | [Aamunkoi](https://open.spotify.com/track/5859nOZaubsLJuwVylSmIY) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Aamunkoi](https://open.spotify.com/album/13Fkv0eke2vYeXdK77jXjS) | 3:03 | 2025-05-29 | 2025-08-29 |
@@ -57,6 +57,7 @@
 | [Anteeks \- Vain elämää kausi 15](https://open.spotify.com/track/73UJ9gpaVjMYo3w3eIMh2a) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Anteeks \(Vain elämää kausi 15\)](https://open.spotify.com/album/4ydOG9AXcBaBuHr6FY6YTh) | 3:43 | 2024-10-24 | 2024-11-01 |
 | [Anteeks minä](https://open.spotify.com/track/5WmvVkCh3wIhoSRB0eO5eU) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Anteeks minä](https://open.spotify.com/album/1ZvR4KVLqbLLLovSsywpat) | 3:10 | 2025-02-20 | 2025-03-07 |
 | [anteeksi demo \- sätkynukkekoti \(live\)](https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sätkynukkekoti \(live\)](https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq) | 4:13 | 2024-12-12 | 2025-01-10 |
+| [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 | 2025-10-30 |  |
 | [Asfaltin pinta \- Vain elämää kausi 16](https://open.spotify.com/track/71lekT94R4rRcRKg3K5aAA) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Asfaltin pinta \(Vain elämää kausi 16\)](https://open.spotify.com/album/6tFLCJuR7SQTQ9HPdJzoOF) | 3:18 | 2025-10-16 | 2025-10-24 |
 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 | 2024-11-28 | 2025-02-14 |
 | [Asunto 35 \(Vain elämää kausi 16\)](https://open.spotify.com/track/1bYW0U5FmsUrDR3K9hrY8R) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Asunto 35 \(Vain elämää kausi 16\)](https://open.spotify.com/album/1ppPF4qes60vtwOVT52eN7) | 2:46 | 2025-10-16 | 2025-10-24 |
@@ -684,7 +685,6 @@
 | [Torille \(Amanda\)](https://open.spotify.com/track/7BI1mKphWiIELK1izr31r0) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Antero Mertaranta](https://open.spotify.com/artist/7k2IjAXssqab7nw3oAR4IH) | [Torille \(Amanda\)](https://open.spotify.com/album/2cYtXm4hUWOnyPYZrPl635) | 3:14 | 2025-04-24 | 2025-05-09 |
 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-26 |  |
 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 | 2025-10-23 |  |
-| [Track 1](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-08-16 |
 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 | 2025-06-12 | 2025-08-29 |
 | [Trappist girl \(The night\)](https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [Trappist girl \(The night\) / AITOMONSTERI](https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh) | 2:48 | 2025-09-18 | 2025-09-27 |

@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1328520,
+  "num_followers": 1328347,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
         "name": "Los Gal\u00e1cticos",
         "url": "https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 141274,
       "name": "Bella",
       "url": "https://open.spotify.com/track/4mvD8af1IQary3hoe0KgOU"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/2D4XQVPHW1hdJ2Y8amyliS"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 233590,
-      "name": "ZAZA",
-      "url": "https://open.spotify.com/track/2xbOCLhDRtiyj5r1o9VwwQ"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
         "name": "D\u00d3NDE",
         "url": "https://open.spotify.com/album/0d4XSCou4VSovhL0Ce0oAT"
       },
@@ -1631,18 +1611,22 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "ENAMORARSE PARA QUE",
-        "url": "https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ"
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/2D4XQVPHW1hdJ2Y8amyliS"
       },
       "artists": [
         {
-          "name": "VIUS",
-          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 184239,
-      "name": "ENAMORARSE PARA QUE",
-      "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
+      "duration_ms": 233590,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/2xbOCLhDRtiyj5r1o9VwwQ"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1667,6 +1651,22 @@
       "duration_ms": 193654,
       "name": "SUERTE",
       "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
+        "name": "ENAMORARSE PARA QUE",
+        "url": "https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ"
+      },
+      "artists": [
+        {
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+        }
+      ],
+      "duration_ms": 184239,
+      "name": "ENAMORARSE PARA QUE",
+      "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
         "name": "MASNA REMIX",
         "url": "https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 248000,
       "name": "MASNA REMIX",
       "url": "https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
-        "name": "HAY LUPITA",
-        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "HAY LUPITA",
-      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 209765,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/0jT8Nl0shPS8115is0wD2Q"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
         "name": "Parte & Choke (with Ryan Castro) [Remix]",
         "url": "https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 218591,
       "name": "Parte & Choke (with Ryan Castro) - Remix",
       "url": "https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 209765,
-      "name": "Favorito",
-      "url": "https://open.spotify.com/track/0jT8Nl0shPS8115is0wD2Q"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1919,6 +1919,26 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
+        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
+        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 158210,
+      "name": "LA FREAK",
+      "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
         "name": "SEND\u00c9",
         "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
-        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
-        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "LA FREAK",
-      "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "Meneo",
-        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Relojito Cartier",
-      "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -2443,6 +2423,26 @@
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
+        "name": "Meneo",
+        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Relojito Cartier",
+      "url": "https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic"
     },
     {
       "added_at": "2025-09-28 08:08:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,487 likes - 100 songs - 5 hr 37 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,485 likes - 103 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,8 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 98 | [The Other Side](https://open.spotify.com/track/4zVk7LX3BIMnz2ybAParAq) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [The Other Side](https://open.spotify.com/album/1xztMV35hXfqn4JX9Yi727) | 4:32 |
 | 99 | [Jack & Jill Daniel's](https://open.spotify.com/track/30leMI4jjws5W5fEZi4xde) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Jack & Jill Daniel's](https://open.spotify.com/album/5nGxwyuhD6vuC5uPVzPtm5) | 2:43 |
 | 100 | [Both Can Be True](https://open.spotify.com/track/18oBIkNn8F7ACUvppfjE8n) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Both Can Be True](https://open.spotify.com/album/2yGCgsPNGVlmmdmHDtQOnN) | 3:30 |
+| 101 | [The Longer You Hold On](https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [The Longer You Hold On](https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv) | 2:52 |
+| 102 | [Therapy](https://open.spotify.com/track/4Sez6emXMIkW5CYtJvdFtK) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Therapy](https://open.spotify.com/album/5lkqkQ3sGYUcBRtOHKHvFO) | 2:46 |
+| 103 | [Happen To Me \(feat\. Jonas Brothers\)](https://open.spotify.com/track/6XxFrC6s8An9ZZ52uAN4AV) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happen To Me \(feat\. Jonas Brothers\)](https://open.spotify.com/album/5N1V6vJk94GiTmjuM5ZXID) | 3:03 |
 
-Snapshot ID: `AAANdnhIWKuutV4TM1IFdWVyjOWrROYd`
+Snapshot ID: `AAANef8dqMCc/6zopA+VJBBCdd0WuWAs`

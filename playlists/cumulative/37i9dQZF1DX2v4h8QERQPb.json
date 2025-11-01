@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Bien Argento \ud83d\udcf8 Mir Nicolas",
+  "description": "Bien Argento \ud83d\udcf8 Zica",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 184581,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/0CHUTfMOOri04WUYwtDQu7"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 165019,
       "name": "DANCE CRIP",
       "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 130488,
       "name": "Deja de Hacerte la Cabeza",
       "url": "https://open.spotify.com/track/0lXPhUBG5yikApjP4X4zKE"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 158369,
       "name": "Don\u00b4 t get it twisted",
       "url": "https://open.spotify.com/track/3RS1ihyponepAi2YGwnhcY"
@@ -4776,7 +4776,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 191977,
       "name": "Linda como siempre",
       "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
@@ -5739,6 +5739,32 @@
     },
     {
       "album": {
+        "name": "Pikaku",
+        "url": "https://open.spotify.com/album/2ovV853Nmbbbb7NN4oYopN"
+      },
+      "artists": [
+        {
+          "name": "Maxi Prieto",
+          "url": "https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW"
+        },
+        {
+          "name": "Lokilo",
+          "url": "https://open.spotify.com/artist/3GJTJk6BeaHDh9XBTNACgp"
+        },
+        {
+          "name": "El Soud",
+          "url": "https://open.spotify.com/artist/6J1N1bMY2DAwVE8lob500f"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243086,
+      "name": "Muchas Partes",
+      "url": "https://open.spotify.com/track/5Swav7qjzo15oMtEE3b4SI"
+    },
+    {
+      "album": {
         "name": "MUGRE",
         "url": "https://open.spotify.com/album/76U5G9L3YaFDkKGYXfl1Zb"
       },
@@ -5802,7 +5828,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 102938,
       "name": "muy distinto",
       "url": "https://open.spotify.com/track/6fULUXHMkfQOvbx5y6COkn"
@@ -6272,7 +6298,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 133910,
       "name": "Party & Bullshit",
       "url": "https://open.spotify.com/track/00W9teBD8mAs4jQ3tu9dM2"
@@ -6400,6 +6426,24 @@
       "duration_ms": 182068,
       "name": "Pensando en Verte",
       "url": "https://open.spotify.com/track/0Kros3xlCtmyHTarar1SZ3"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/48GP4GD2NjeVGMAbXrSzRp"
+      },
+      "artists": [
+        {
+          "name": "Zica",
+          "url": "https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132277,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/3PABKYpTRhiUhW2jNCszMJ"
     },
     {
       "album": {
@@ -6848,7 +6892,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 141657,
       "name": "RAP & B",
       "url": "https://open.spotify.com/track/2aBX6qVoFTZR0zWdy9mxBM"
@@ -7092,6 +7136,24 @@
       "duration_ms": 152666,
       "name": "Resurgir",
       "url": "https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN"
+    },
+    {
+      "album": {
+        "name": "Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/6EufEEogtFpZ9muntOzeiu"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159665,
+      "name": "Resurrecci\u00f3n",
+      "url": "https://open.spotify.com/track/4zt8ZHxJ3NyhptyRiXR1W9"
     },
     {
       "album": {
@@ -8454,7 +8516,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 224316,
       "name": "Vamos a Ver",
       "url": "https://open.spotify.com/track/0xib5ZjCU56WCDPsQEUJ7D"

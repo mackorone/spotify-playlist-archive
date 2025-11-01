@@ -7675,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "Hotel Du Monde",
+        "url": "https://open.spotify.com/album/093p6MOfrOmzMnDzymMEvq"
+      },
+      "artists": [
+        {
+          "name": "Roadtrip to Antarctica",
+          "url": "https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164825,
+      "name": "She's Mysterious",
+      "url": "https://open.spotify.com/track/6xeDOENsTSZoIx9wWveCrE"
+    },
+    {
+      "album": {
         "name": "Sheepish",
         "url": "https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS"
       },
@@ -8930,24 +8948,6 @@
       "duration_ms": 210083,
       "name": "Touch (feat. Khole)",
       "url": "https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Roadtrip to Antarctica",
-          "url": "https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg"
-        }
-      ],
-      "date_added": "2025-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/6xeDOENsTSZoIx9wWveCrE"
     },
     {
       "album": {

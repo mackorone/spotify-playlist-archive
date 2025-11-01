@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,071 songs - 2 day 13 hr 3 min
+[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,072 songs - 2 day 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1079,5 +1079,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1069 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 |
 | 1070 | [Stop Waiting](https://open.spotify.com/track/2xLIRwMgfdEB7mLmEF3SL1) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/2D6IKfUapgL7k8W9UBoWBG) | 6:02 |
 | 1071 | [No One Is Alone](https://open.spotify.com/track/37BEajFxP7B1bOFPnBiwVd) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Lilla Crawford](https://open.spotify.com/artist/18pAOZ9PvoRllQsjLXwYjh), [Daniel Huttlestone](https://open.spotify.com/artist/0yS5MNfD7YXRiv4DEFyc5F) | [Into the Woods \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7lWMvhvTB4H9TWZM1IX12Q) | 2:58 |
+| 1072 | [Lucky \- from Now You See Me: Now You Don’t](https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Lucky \(from Now You See Me: Now You Don’t\)](https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE) | 2:28 |
 
-Snapshot ID: `AAAG/wpYTKkGOBzhIx2qKSyprmrNJ54i`
+Snapshot ID: `AAAHAFbkseUx0cuyYXQeUYuhYKcTAYLX`

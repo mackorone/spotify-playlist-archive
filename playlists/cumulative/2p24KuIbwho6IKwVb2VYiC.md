@@ -4,7 +4,7 @@
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Felix Cartal
 
-369 songs - 19 hr 18 min
+371 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Dance Alone \- Vault Mix](https://open.spotify.com/track/6n00liQgt7sZYPD55bfbfT) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [The Vault, Volume 1](https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2) | 2:14 | 2024-04-26 |  |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-27 | 2023-11-25 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-27 | 2025-01-22 |
+| [Dance On](https://open.spotify.com/track/2G4CIk2IToP1qUe2xYBbgK) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Dance On](https://open.spotify.com/album/1L9bYoVPRMllu5bG3p6nZh) | 3:08 | 2025-10-31 |  |
 | [Dance To Death](https://open.spotify.com/track/1t9CSdEHfgWAKoPJuxGd9A) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [MEMO](https://open.spotify.com/album/6azdO29kApAjBqsnEW98cN) | 3:08 | 2023-10-27 | 2024-02-27 |
 | [Dancing In A Dream](https://open.spotify.com/track/0cuT0PRfkUNgSefAiy19FG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Dancing In A Dream](https://open.spotify.com/album/0sj1PJTkUkIA3V2a98whYB) | 2:38 | 2025-04-11 |  |
 | [Danger In Your Eyes \(The Countdown\)](https://open.spotify.com/track/2MR4BqIUtoBLWuZDVlZDQz) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Danger In Your Eyes \(The Countdown\)](https://open.spotify.com/album/3MWTWM7ESjD7jVz8ThhVsH) | 3:32 | 2024-03-01 | 2024-05-13 |
@@ -349,6 +350,7 @@
 | [Ur Not Invited](https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Ur Not Invited](https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L) | 3:30 | 2025-10-17 |  |
 | [Voices In My Head](https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Voices In My Head](https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef) | 2:26 | 2025-02-14 |  |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-10-27 | 2023-11-25 |
+| [WAITING](https://open.spotify.com/track/4K4itwcuTopegq8qWQnRzk) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [WAITING](https://open.spotify.com/album/2iYFhXy1kMSJwxvd2OB4YM) | 4:00 | 2025-10-31 |  |
 | [Wake Up \(With You Mine\)](https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [Wake Up \(With You Mine\)](https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf) | 3:20 | 2025-08-01 |  |
 | [Walk With Me \- Edit](https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Walk With Me](https://open.spotify.com/album/6Gs1D2VbneEd0pwwKA7ivI) | 2:32 | 2024-11-29 |  |
 | [Wanna Go](https://open.spotify.com/track/6ODO4ssQWB5bD7HXVGDbxW) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Wanna Go](https://open.spotify.com/album/3tQDsQ6PVjpMOyuzKtXLzF) | 3:38 | 2025-08-08 |  |

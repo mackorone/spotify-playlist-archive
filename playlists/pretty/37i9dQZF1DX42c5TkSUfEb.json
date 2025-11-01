@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 801139,
+  "num_followers": 801160,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211027,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
-    },
-    {
-      "added_at": "2025-10-17 14:20:49",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "my love my love my love",
-        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr"
       },
       "artists": [
         {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 158312,
-      "name": "my love my love my love",
-      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
+      "duration_ms": 211027,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
     },
     {
       "added_at": "2025-10-17 14:20:49",
@@ -739,6 +723,22 @@
       "duration_ms": 260120,
       "name": "Soon We'll Be Found",
       "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
+    },
+    {
+      "added_at": "2025-10-17 14:20:49",
+      "album": {
+        "name": "my love my love my love",
+        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "my love my love my love",
+      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
     },
     {
       "added_at": "2025-10-17 14:20:49",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "flower",
-        "url": "https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 148495,
-      "name": "flower",
-      "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
-    },
-    {
-      "added_at": "2025-10-17 14:20:49",
-      "album": {
         "name": "Cure for Emptiness (with Bello)",
         "url": "https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT"
       },
@@ -843,22 +827,6 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/4sDhnxgHsTp65nUWTlEjBl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 255457,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4NsmI3RX9yZDCuCW75Ezvp"
-    },
-    {
-      "added_at": "2025-10-17 14:20:49",
-      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -871,6 +839,38 @@
       "duration_ms": 157068,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
+    },
+    {
+      "added_at": "2025-10-17 14:20:49",
+      "album": {
+        "name": "flower",
+        "url": "https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 148495,
+      "name": "flower",
+      "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
+    },
+    {
+      "added_at": "2025-10-17 14:20:49",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4sDhnxgHsTp65nUWTlEjBl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 255457,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4NsmI3RX9yZDCuCW75Ezvp"
     },
     {
       "added_at": "2025-10-17 14:20:49",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
+        "name": "H24",
+        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "duration_ms": 216939,
+      "name": "H24",
+      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
+    },
+    {
+      "added_at": "2025-10-17 14:20:49",
+      "album": {
         "name": "Colour Me Free",
         "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
       },
@@ -1095,38 +1111,6 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "H24",
-        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
-        }
-      ],
-      "duration_ms": 216939,
-      "name": "H24",
-      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
-    },
-    {
-      "added_at": "2025-10-17 14:20:49",
-      "album": {
-        "name": "Memoir of a Sparklemuffin (Deluxe)",
-        "url": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 208008,
-      "name": "The Bellboy (One Last Crush)",
-      "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
-    },
-    {
-      "added_at": "2025-10-17 14:20:49",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
+    },
+    {
+      "added_at": "2025-10-17 14:20:49",
+      "album": {
+        "name": "Memoir of a Sparklemuffin (Deluxe)",
+        "url": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 208008,
+      "name": "The Bellboy (One Last Crush)",
+      "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
     },
     {
       "added_at": "2025-10-17 14:20:49",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
+    },
+    {
+      "added_at": "2025-10-17 14:20:49",
+      "album": {
         "name": "Blurrr",
         "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+        "name": "Ferris Wheel",
+        "url": "https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
         }
       ],
-      "duration_ms": 158613,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
+      "duration_ms": 205146,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA"
     },
     {
       "added_at": "2025-10-17 14:20:49",
@@ -1227,22 +1243,6 @@
       "duration_ms": 196923,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6"
-    },
-    {
-      "added_at": "2025-10-17 14:20:49",
-      "album": {
-        "name": "Ferris Wheel",
-        "url": "https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Ferris Wheel",
-      "url": "https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA"
     },
     {
       "added_at": "2025-10-17 14:20:49",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2025-10-17 14:20:49",
-      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "Please Slow Down (Rubber Bridge Version)",
-        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 163324,
-      "name": "Please Slow Down - Rubber Bridge Version",
-      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "added_at": "2025-10-17 14:20:49",
@@ -1339,6 +1323,22 @@
       "duration_ms": 281757,
       "name": "Mon idole",
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
+    },
+    {
+      "added_at": "2025-10-17 14:20:49",
+      "album": {
+        "name": "Please Slow Down (Rubber Bridge Version)",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down - Rubber Bridge Version",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
       "added_at": "2025-10-17 14:20:49",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-10-17 14:20:49",
       "album": {
-        "name": "Beautiful Thingz",
-        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
-      },
-      "artists": [
-        {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
-        }
-      ],
-      "duration_ms": 208031,
-      "name": "Beautiful Thingz",
-      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
-    },
-    {
-      "added_at": "2025-10-17 14:20:49",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 180973,
       "name": "You",
       "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
+    },
+    {
+      "added_at": "2025-10-17 14:20:49",
+      "album": {
+        "name": "Beautiful Thingz",
+        "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "duration_ms": 208031,
+      "name": "Beautiful Thingz",
+      "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
     },
     {
       "added_at": "2025-10-17 14:20:49",

@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 189756,
       "name": "AWCH",
       "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 163640,
       "name": "JUST LIKE THAT (with Ari Lennox)",
       "url": "https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt"
@@ -4158,6 +4158,24 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "album": {
+        "name": "Mi Peor Enemiga",
+        "url": "https://open.spotify.com/album/7AAR5hmk9ZsSfmgccPIn4m"
+      },
+      "artists": [
+        {
+          "name": "Yas Gagliardi",
+          "url": "https://open.spotify.com/artist/7r9q2BTtDLp2PhvmyQocFK"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155829,
+      "name": "Mi Peor Enemiga",
+      "url": "https://open.spotify.com/track/70iVFXxYDJdrTr9hkTIKpe"
     },
     {
       "album": {
@@ -5568,6 +5586,28 @@
       "duration_ms": 241951,
       "name": "Que sea lo que tenga que ser",
       "url": "https://open.spotify.com/track/0DNm2vJzKcJ0Pq256nzd9V"
+    },
+    {
+      "album": {
+        "name": "Quedarme a tu lado",
+        "url": "https://open.spotify.com/album/321ppICRZenunF33rNfL1o"
+      },
+      "artists": [
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159317,
+      "name": "Quedarme a tu lado",
+      "url": "https://open.spotify.com/track/5ROjJLnRbWvEFYA8419IoT"
     },
     {
       "album": {

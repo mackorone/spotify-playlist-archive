@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Cat Burns ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,579 likes - 120 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,548 likes - 120 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [How To Be Human](https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [](https://open.spotify.com/album/null) | 2:40 |
+| 1 | [How To Be Human](https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 2:40 |
 | 2 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Earthday](https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm) | 3:00 |
 | 3 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
 | 4 | [Cruel Lover](https://open.spotify.com/track/3Mh7mMOetadl22rdUBVbMQ) | [ARI LEE](https://open.spotify.com/artist/2CR4RXDXZVMvjEV3rrEVA7) | [Cruel Lover](https://open.spotify.com/album/2gjIgSUjNaXklJybK2hztB) | 2:27 |
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 6 | [self destruct mode](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [THE HELL OF APRIL](https://open.spotify.com/album/6zpmyHGqWXZA36k7Ex68FG) | 2:42 |
 | 7 | [MACHINE GHOST](https://open.spotify.com/track/2V81aHl0iP9DYsqP3YzoLI) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [MACHINE GHOST](https://open.spotify.com/album/3TkmekJyEsvoyiKLWjNfz6) | 3:44 |
 | 8 | [Jimmy](https://open.spotify.com/track/1VCYGP2odcoBvdoSDz2X5X) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Jimmy](https://open.spotify.com/album/7mnUUiELC0DATi2cQoK4Rj) | 3:54 |
-| 9 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [](https://open.spotify.com/album/null) | 3:57 |
+| 9 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 3:57 |
 | 10 | [over n' out](https://open.spotify.com/track/5Sbh00A5kDS12tI7Zkl7AA) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 4:28 |
 | 11 | [He Dont Deserve You](https://open.spotify.com/track/16kKRH05VXrzXVmbWb8T60) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [He Dont Deserve You](https://open.spotify.com/album/02ioAnnyE3m0WJfvj2z9he) | 2:28 |
-| 12 | [Somebody I'm Not](https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [](https://open.spotify.com/album/null) | 3:29 |
+| 12 | [Somebody I'm Not](https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl](https://open.spotify.com/album/6WOa0ML0MubR3Vz2QwTI6R) | 3:29 |
 | 13 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
 | 14 | [First Last Time](https://open.spotify.com/track/1JgSfKuEjFhtMEiqxc8BxR) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [First Last Time](https://open.spotify.com/album/2ncmSjKDjY7wsVn7pQalFt) | 2:30 |
 | 15 | [it's a leap year !](https://open.spotify.com/track/4vTAItSapvEhRu4ZiULmDX) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [it's a leap year !](https://open.spotify.com/album/4ZUYP0i9kLk516HwIJzqbh) | 2:18 |

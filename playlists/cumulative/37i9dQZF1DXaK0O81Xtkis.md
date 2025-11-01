@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Carter Vail
+> a little indie, a little pop, soda featuring Kid Sistr
 
-1,475 songs - 3 day 1 hr 32 min
+1,479 songs - 3 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1109,6 +1109,7 @@
 | [she got a thing about her](https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [she got a thing about her](https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy) | 2:18 | 2025-07-11 | 2025-09-21 |
 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 | 2022-07-22 | 2022-10-15 |
 | [Sheryl Crow](https://open.spotify.com/track/3YDMI9nKu5mbYYt0ODKkSu) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I hope you're well in these crazy times](https://open.spotify.com/album/4jJpB6oqm4IiyyUYqetD7i) | 3:02 | 2022-08-12 | 2022-09-03 |
+| [Shitshow](https://open.spotify.com/track/4brTl1F22JnQFQHNvCJOHM) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Shitshow](https://open.spotify.com/album/4Y2ylsrC58FJXRx2zZKecG) | 3:22 | 2025-10-31 |  |
 | [Shoe](https://open.spotify.com/track/37IMOr92pqfixF3XH87YS8) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:37 | 2022-05-27 | 2022-06-04 |
 | [Shortcut](https://open.spotify.com/track/5BM0BtdrNMWHIT5NeSuQw6) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Shortcut](https://open.spotify.com/album/2LSG4nKwOZVNOF3UgUYkaS) | 2:26 | 2024-08-23 | 2024-10-19 |
 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-02-24 | 2023-07-22 |
@@ -1260,6 +1261,7 @@
 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 | 2025-06-13 | 2025-08-30 |
 | [Tears in the Moonlight](https://open.spotify.com/track/2MAz9mZH3n9nVGZWUC2VUh) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [Tears in the Moonlight](https://open.spotify.com/album/5VMt4kmFV2RghvnTx9DCyu) | 2:59 | 2023-05-19 | 2023-07-29 |
 | [Tease Me](https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Tease Me](https://open.spotify.com/album/4czLQcxHpCy7NlD0YZabS5) | 2:42 | 2024-06-07 | 2024-08-10 |
+| [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 | 2025-10-31 |  |
 | [Telephoning from Safari](https://open.spotify.com/track/6bZkrUb3kNQG5XCCcWZOt5) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Telephoning from Safari](https://open.spotify.com/album/3ZuSJqiZI3trIcISJxm0iY) | 3:23 | 2025-08-29 |  |
 | [Tell Her](https://open.spotify.com/track/0WFccOR9KoNU0SXQ3mY7e5) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Tell Her](https://open.spotify.com/album/5r8xf0HbtvpK61fsiZ4x7I) | 3:12 | 2023-12-01 | 2024-02-10 |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-27 | 2023-03-25 |
@@ -1294,6 +1296,7 @@
 | [The Magic](https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [The Magic](https://open.spotify.com/album/0AvgEH2t1VNG9cI8jE0BhH) | 3:43 | 2024-09-27 | 2025-01-25 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-11-05 | 2022-08-06 |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-10-07 | 2023-01-18 |
+| [THE SHIVERS](https://open.spotify.com/track/3fobfUxxCDgM5KQV723Ird) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [THE VOID](https://open.spotify.com/album/6k0ppS67Skg7t6I3KhHZvm) | 3:18 | 2025-10-31 |  |
 | [The Sun \(feat\. JAWNY\)](https://open.spotify.com/track/4SlGfTlNnFpn3eaHIPGRLC) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [The Sun](https://open.spotify.com/album/4k1tw6qkLHgJijNDFl09Q0) | 2:39 | 2022-02-18 | 2022-02-26 |
 | [The Things](https://open.spotify.com/track/6vMRaNnBqrctIE8AJk38oM) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [The Things](https://open.spotify.com/album/0EvpoCMbZ3T79uChGfcfNd) | 3:26 | 2025-10-03 |  |
 | [The Valley](https://open.spotify.com/track/4zOa4jyhtgxk3cHCfdC0G5) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [The Valley](https://open.spotify.com/album/63swhcm0JAbL4CXPYptjJ8) | 2:51 | 2023-05-26 | 2023-06-03 |
@@ -1380,6 +1383,7 @@
 | [W4NNA DO](https://open.spotify.com/track/11sA5C9rqjatq2eXzL8y33) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [W4NNA DO](https://open.spotify.com/album/0eOYz7FB11TFzjlbdJRL4h) | 2:19 | 2023-06-30 | 2023-07-29 |
 | [Wait Until Tomorrow](https://open.spotify.com/track/753YTuoNXuJjBcUo6yW9R6) | [Wilmah](https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J) | [Wait Until Tomorrow](https://open.spotify.com/album/3AmSSmr8GhByvmWa3VYUEF) | 3:06 | 2021-11-19 | 2022-01-29 |
 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-03 |  |
+| [wannabe!](https://open.spotify.com/track/1GRm70qZVH8GAjyPIZcpV4) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [wannabe!](https://open.spotify.com/album/0oDjFPkkSXX2xRYvAiyZDN) | 2:12 | 2025-10-31 |  |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 | 2022-08-27 |
 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 | 2024-09-20 | 2025-01-11 |
 | [Was It Something I Said?](https://open.spotify.com/track/2m01TzKvGrjYtLfkOgSl8A) | [asking for a friend](https://open.spotify.com/artist/3rHc6krX8mtdragl9o6eLy), [DYSN](https://open.spotify.com/artist/2zPdY1UXnOn4PC4GpoOkPm), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Was It Something I Said?](https://open.spotify.com/album/4jvtfXT3ZXM42ReGgvaX3Z) | 3:06 | 2022-01-14 | 2022-02-26 |

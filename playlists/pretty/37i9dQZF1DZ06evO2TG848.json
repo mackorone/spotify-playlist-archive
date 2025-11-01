@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23446,
+  "num_followers": 23451,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAGGwuJRvuuL32WVqv6UN/H",
+  "snapshot_id": "aQKqgAAAAACbNCUGViUjoQZ4l21Fkpxh",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
+      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 158093,
       "name": "Sendero",
       "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Orozco-Barrientos",
-          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
-      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 374243,
+      "name": "Ecstasy (feat. Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/4siJiqVmN1sO5bZDDQSawE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 187426,
       "name": "Leyendo en el Hospital",
       "url": "https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 374243,
-      "name": "Ecstasy (feat. Gustavo Santaolalla)",
-      "url": "https://open.spotify.com/track/4siJiqVmN1sO5bZDDQSawE"
     },
     {
       "added_at": null,
@@ -903,34 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motorcycle Diaries with additional Music",
-        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
       "artists": [
         {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Don Markese",
-          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
-        },
-        {
-          "name": "Braulio Barrera",
-          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
-        },
-        {
-          "name": "Javier Casalla",
-          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
-        },
-        {
-          "name": "Anibal Kerpel",
-          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 113400,
-      "name": "Partida del Leprosario",
-      "url": "https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v"
+      "duration_ms": 240333,
+      "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
     },
     {
       "added_at": null,
@@ -987,22 +975,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 240333,
-      "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
-      "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
+      "duration_ms": 113400,
+      "name": "Partida del Leprosario",
+      "url": "https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

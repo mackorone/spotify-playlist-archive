@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,908 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,918 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 4 | [Duurt Te Lang](https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Duurt Te Lang \(Beste Zangers Seizoen 2018\)](https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB) | 2:33 |
 | 5 | [Treur Niet \(Ode Aan Het Leven\)](https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Golven](https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO) | 3:44 |
 | 6 | [Slapeloze Nachten](https://open.spotify.com/track/652hWPdOUIkKv3a4HJDzBv) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Slapeloze Nachten](https://open.spotify.com/album/4Gvj14YkzANT4xQEm3seh0) | 3:49 |
-| 7 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
-| 8 | [De Manier](https://open.spotify.com/track/68qTD5PAoqFgrkw5W2DHL5) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Crane III](https://open.spotify.com/album/3CeS5U6nCvcFrtWrbsmIJn) | 3:25 |
+| 7 | [De Manier](https://open.spotify.com/track/68qTD5PAoqFgrkw5W2DHL5) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Crane III](https://open.spotify.com/album/3CeS5U6nCvcFrtWrbsmIJn) | 3:25 |
+| 8 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
 | 9 | [Ik Neem Je Mee](https://open.spotify.com/track/4RxzgZMbYLLnLYaW00Wv4q) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Deze Wereld Is Van Jou](https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ) | 3:37 |
 | 10 | [Hoe Het Danst](https://open.spotify.com/track/5cYOVkA2cnjKid9yigaMwq) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Hoe Het Danst](https://open.spotify.com/album/0HKLOVzGYbtdamZ0FDibKg) | 4:12 |
 | 11 | [Hij Is Van Mij \(feat\. Bizzey\)](https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Hij Is Van Mij \(feat\. Bizzey\)](https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL) | 3:34 |

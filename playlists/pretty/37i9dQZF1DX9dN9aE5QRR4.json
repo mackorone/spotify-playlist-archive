@@ -1,15 +1,191 @@
 {
-  "description": "La playlist officielle de Nouvelle \u00c9cole, dispo sur Netflix.",
-  "num_followers": 112763,
+  "description": "La playlist officielle de Nouvelle \u00c9cole. Saison 4 Partie 1, dispo sur Netflix.",
+  "num_followers": 112772,
   "original_name": "Nouvelle \u00c9cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALyE3bkA1/zoMDvdkcURgZ9hUdm5",
+  "snapshot_id": "AAAAAPpODarvhqDgg1oak5AAMsfsAW8d",
   "tracks": [
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Eve La Marka",
+          "url": "https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/3dcY4tF10ZuKNmiSiD5Vgl"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "TRZ",
+          "url": "https://open.spotify.com/artist/7cLUwy0R7N8q1YSjHYZdrU"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/1klkBolV6wKABaOfClT96m"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/1D3k6o2PMPXFmTdJ1MYDTl"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ekloz",
+          "url": "https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3Ct6WYD9VUwgZL4gILzjMu"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Shayne",
+          "url": "https://open.spotify.com/artist/1DX6FDD9VMN2eJCmeFVbHi"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2IaPdQUB6rMrz9ZppiSVKG"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Somyke",
+          "url": "https://open.spotify.com/artist/1a5r2abH4EaXJ7EAw8nCQ2"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/5Qjw4I3EtfAvnAYDhazsvf"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/41pxXd0T5p7J3HL77ZkquK"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Eve La Marka",
+          "url": "https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/3ZFT4krqXeh5dugRtjD2fq"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Guerta",
+          "url": "https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/0Cwy8Zp4DKJ1kVzny9vpx2"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "2L",
+          "url": "https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/0H3aRDlZ6DR0QEycChPbel"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "TRZ",
+          "url": "https://open.spotify.com/artist/7cLUwy0R7N8q1YSjHYZdrU"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 11",
+      "url": "https://open.spotify.com/track/6L60iI4rseDSSlvDDlRTGO"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Cypher Team 1 - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/7d82WmX7D73pYUluxhUwGr"
@@ -25,7 +201,7 @@
       "url": "https://open.spotify.com/track/77Vp3A4q9BBdaTspeT01MX"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Cypher Team 2 - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/4TdE2cLKqFbZvMVfIM9NwF"
@@ -41,7 +217,283 @@
       "url": "https://open.spotify.com/track/4FAXbSg5WigLkpSnwD2nOw"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 135523,
+      "name": "DO U WANNA ?",
+      "url": "https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "PANDEMONIUM",
+        "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "GAUCHE DROITE",
+      "url": "https://open.spotify.com/track/7LsYnC8kNpGZSDDDulmXph"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "Insolent 5",
+        "url": "https://open.spotify.com/album/02SFZzedym01KxF96MRlzK"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "duration_ms": 217554,
+      "name": "Insolent 5",
+      "url": "https://open.spotify.com/track/0jzGDllueKRPQwUj6zgJyJ"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "French Riviera",
+        "url": "https://open.spotify.com/album/4PGUqRAkVCUhLxFBwFhopW"
+      },
+      "artists": [
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 152049,
+      "name": "French Riviera",
+      "url": "https://open.spotify.com/track/3geOCQaZHm3GRUolmeZpqv"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "Swipe",
+        "url": "https://open.spotify.com/album/2khxHsYSTnnyKkQKOL67I1"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 154897,
+      "name": "Swipe",
+      "url": "https://open.spotify.com/track/0ASXXXCxdvzPAdpH6pKFNk"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "02 :00",
+        "url": "https://open.spotify.com/album/7Jtr5jd3mdKuH78255lCMu"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "02:00",
+      "url": "https://open.spotify.com/track/3p0Y3ewrClI2TtrRoVkbBB"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "Chute Libre",
+        "url": "https://open.spotify.com/album/3wu9LCZmrwiRo0Z3kS3vQb"
+      },
+      "artists": [
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        },
+        {
+          "name": "Youssoupha",
+          "url": "https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4"
+        }
+      ],
+      "duration_ms": 207988,
+      "name": "Demain tout ira mieux",
+      "url": "https://open.spotify.com/track/5EGvGFCqJIWBMxSyCysbAi"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/4HAWT9gg8vtNDnbi9kzb02"
+      },
+      "artists": [
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        }
+      ],
+      "duration_ms": 192182,
+      "name": "Malya",
+      "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "\u00c9TATS D'\u00c2MES",
+        "url": "https://open.spotify.com/album/3PKIuYhfN76Rdp0hUh3zKe"
+      },
+      "artists": [
+        {
+          "name": "Dau",
+          "url": "https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L"
+        }
+      ],
+      "duration_ms": 245806,
+      "name": "\u00c9TATS D'\u00c2MES",
+      "url": "https://open.spotify.com/track/3P8r1wO1iIvUPjyWeziue4"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "Para\u00eet que les miracles n'existent pas",
+        "url": "https://open.spotify.com/album/6LUXDm9fS8mtWtJFhVcM95"
+      },
+      "artists": [
+        {
+          "name": "BEN plg",
+          "url": "https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Para\u00eet que les miracles n'existent pas",
+      "url": "https://open.spotify.com/track/4sLFiAxqRm0DYjUfdWznXI"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "NEW BLUES, OLD WINE",
+        "url": "https://open.spotify.com/album/1cbLSoLnfkf4RaqzVkBysC"
+      },
+      "artists": [
+        {
+          "name": "B.B. Jacques",
+          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
+        }
+      ],
+      "duration_ms": 245309,
+      "name": "RAINBOW - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4REkeLXPhLOs2vTO83VHh2"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "UN JOUR SANS FIN",
+        "url": "https://open.spotify.com/album/5Cfxw7DK3OH1fq41ymIdjP"
+      },
+      "artists": [
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR"
+        },
+        {
+          "name": "WarEnd",
+          "url": "https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR"
+        }
+      ],
+      "duration_ms": 193736,
+      "name": "C'EST MORT (feat. WarEnd)",
+      "url": "https://open.spotify.com/track/5GakZtoiDbsK0TBYhJTxk2"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "Putain de mood",
+        "url": "https://open.spotify.com/album/1gq3RjBtWEOAxw4K9gknPw"
+      },
+      "artists": [
+        {
+          "name": "Slkrack",
+          "url": "https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85"
+        },
+        {
+          "name": "iDS",
+          "url": "https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm"
+        }
+      ],
+      "duration_ms": 211536,
+      "name": "Putain de mood",
+      "url": "https://open.spotify.com/track/46s5caVUnvSEAfE39FMxo2"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "MAILLOT DE FOOT \u00c0 MARRAKECH",
+        "url": "https://open.spotify.com/album/0S27jaijbU669Lk75BTXBJ"
+      },
+      "artists": [
+        {
+          "name": "James Loup",
+          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
+        }
+      ],
+      "duration_ms": 177417,
+      "name": "MAILLOT DE FOOT \u00c0 MARRAKECH",
+      "url": "https://open.spotify.com/track/6BDQYbB9p7KCox0UXx5jHi"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "le nord",
+        "url": "https://open.spotify.com/album/30DZk7D0TRMIzQwnqY4pnD"
+      },
+      "artists": [
+        {
+          "name": "NAYRA",
+          "url": "https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "le nord",
+      "url": "https://open.spotify.com/track/16toumA1T6rm3E568YM0Jx"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -61,7 +513,7 @@
       "url": "https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -81,7 +533,7 @@
       "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -101,7 +553,7 @@
       "url": "https://open.spotify.com/track/1E1sFUwobQopymfKEQpC66"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | L'album Int\u00e9gral (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP"
@@ -121,7 +573,7 @@
       "url": "https://open.spotify.com/track/3ioHLL39qHrtloeZz9PcIV"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | L'album Int\u00e9gral (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP"
@@ -141,7 +593,7 @@
       "url": "https://open.spotify.com/track/1JKbf55em8QbWLudWDNfUJ"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | L'album Int\u00e9gral (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP"
@@ -165,7 +617,7 @@
       "url": "https://open.spotify.com/track/34jxcANIyE04PEUNFmergG"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | L'album Int\u00e9gral (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP"
@@ -197,7 +649,7 @@
       "url": "https://open.spotify.com/track/2rqfJBZpiM8XtmPmKqZa4X"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | L'album Int\u00e9gral (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP"
@@ -217,7 +669,7 @@
       "url": "https://open.spotify.com/track/7xaFBxkqKXaoUy9oethBpp"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 3 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z"
@@ -237,7 +689,7 @@
       "url": "https://open.spotify.com/track/5RIXW3MtY5vw5Hrd1aRPK8"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 3 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z"
@@ -257,7 +709,7 @@
       "url": "https://open.spotify.com/track/1esmF7IeAbGUdq71b6UvVp"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 3 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z"
@@ -277,7 +729,7 @@
       "url": "https://open.spotify.com/track/2nqz8fkqxbWx373LdoxlvR"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 3 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z"
@@ -297,7 +749,7 @@
       "url": "https://open.spotify.com/track/1hJBRxLHIqOMlMR3D3FNEf"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 3 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z"
@@ -317,7 +769,7 @@
       "url": "https://open.spotify.com/track/64uFlY4sZu7YOhotoAjTQz"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 3 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z"
@@ -337,75 +789,7 @@
       "url": "https://open.spotify.com/track/17oJbHIk0oXXYGIwjY8B6M"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Saison 2",
-        "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 145680,
-      "name": "Saison 2",
-      "url": "https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "BAD QUEEN",
-        "url": "https://open.spotify.com/album/6tFR7Oob6kt98NLhTpfZ90"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Pum Fat",
-      "url": "https://open.spotify.com/track/08ckCoQXKD3GbSHGOoQG5J"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Urus",
-        "url": "https://open.spotify.com/album/2Gf7U6e63AwtWjbG3wVV6P"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 147788,
-      "name": "Urus",
-      "url": "https://open.spotify.com/track/7A2DyRIqqelhZ4caPJMaFI"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Temps en temps",
-        "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 153649,
-      "name": "Temps en temps",
-      "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
@@ -425,7 +809,7 @@
       "url": "https://open.spotify.com/track/0VOngwxQuO2rOJQ8DtodYm"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
@@ -445,7 +829,7 @@
       "url": "https://open.spotify.com/track/44aVBwrB5qGHvsp9e8wVby"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
@@ -465,7 +849,7 @@
       "url": "https://open.spotify.com/track/0j0pOCUmnBHvxjD2EDc3dk"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 2 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/7IsXMsf593FfMSvHjV4WFn"
@@ -485,87 +869,7 @@
       "url": "https://open.spotify.com/track/1MD5FbaGD4UhdSrOdzgCFX"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 175842,
-      "name": "42",
-      "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Liens du 100",
-        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Bolide allemand",
-      "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "JVLIVS Prequel : Giulio",
-        "url": "https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Prequel",
-      "url": "https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Grav\u00e9 dans la roche",
-        "url": "https://open.spotify.com/album/6chD9SocKyshylTuhbKV2O"
-      },
-      "artists": [
-        {
-          "name": "SNIPER",
-          "url": "https://open.spotify.com/artist/1nTVNdaDAzXB1AbP30cGk6"
-        }
-      ],
-      "duration_ms": 285893,
-      "name": "Grav\u00e9 dans la roche",
-      "url": "https://open.spotify.com/track/0LZ90308GB1Tp05STjabeC"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Klr",
-        "url": "https://open.spotify.com/album/3mGbYjpwZAseVYLmQakxcL"
-      },
-      "artists": [
-        {
-          "name": "Saian Supa Crew",
-          "url": "https://open.spotify.com/artist/6XaUaXu0cGAFK1AlQkl1b6"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/76a47vlZKvdJeotrpMYuvQ"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -585,7 +889,7 @@
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -605,7 +909,7 @@
       "url": "https://open.spotify.com/track/0eDP9XFJn7ghObMOpJcPH9"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -625,7 +929,7 @@
       "url": "https://open.spotify.com/track/4yPrfU3LhXRETMdX7DjN86"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -645,7 +949,7 @@
       "url": "https://open.spotify.com/track/5MXsJhqpma8RvMr98zMD7Q"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -665,339 +969,7 @@
       "url": "https://open.spotify.com/track/11ezbmguurG9L3LKijWyj5"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn"
-      },
-      "artists": [
-        {
-          "name": "AMK",
-          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
-        }
-      ],
-      "duration_ms": 192182,
-      "name": "Malya",
-      "url": "https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Projet Chaos .1",
-        "url": "https://open.spotify.com/album/1KNolVRlYRWAp7wlb6WYE5"
-      },
-      "artists": [
-        {
-          "name": "Durden",
-          "url": "https://open.spotify.com/artist/6FmtyIjNfNWAUSbV486jxe"
-        }
-      ],
-      "duration_ms": 201247,
-      "name": "Alabasta",
-      "url": "https://open.spotify.com/track/4cK4GnXzomc7SaLPjd2h6y"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "AMBITION",
-        "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 117346,
-      "name": "ON D\u00c9GAINE",
-      "url": "https://open.spotify.com/track/53rGZ9nMZsUa55XYkdIjGJ"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Ill\u00e9gal",
-        "url": "https://open.spotify.com/album/6u5fg232ZGcnhgBEX50Llz"
-      },
-      "artists": [
-        {
-          "name": "Slkrack",
-          "url": "https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85"
-        },
-        {
-          "name": "Yorssy",
-          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
-        }
-      ],
-      "duration_ms": 161277,
-      "name": "Ill\u00e9gal",
-      "url": "https://open.spotify.com/track/05F2F5LYyfpldsBb0hQQcp"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "JEUNE MALAGASY",
-        "url": "https://open.spotify.com/album/5EoW0PPTKRCHFjgQRICIID"
-      },
-      "artists": [
-        {
-          "name": "JYEUHAIR",
-          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
-        }
-      ],
-      "duration_ms": 135569,
-      "name": "JEUNE MALAGASY",
-      "url": "https://open.spotify.com/track/52NNcLKY2nG2vcGnsR3q0J"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "LA VIE DU TRIPLE OG",
-        "url": "https://open.spotify.com/album/5du1qYrMbi78jEzaNf7NVj"
-      },
-      "artists": [
-        {
-          "name": "Mac Tyer",
-          "url": "https://open.spotify.com/artist/1PTl9q5EaEZejVGts7MBLN"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "CARGO (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/0chm8ReJ6d5O4RTDolJ68t"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Ancienne Belgique",
-        "url": "https://open.spotify.com/album/0bdMeMh5Xz91JMR0jE8OwW"
-      },
-      "artists": [
-        {
-          "name": "Youssef Swatt's",
-          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
-        }
-      ],
-      "duration_ms": 191069,
-      "name": "Ancienne Belgique",
-      "url": "https://open.spotify.com/track/3swiqXkSQyAlaPbJeUxlr9"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Mi-Temps",
-        "url": "https://open.spotify.com/album/3ZCqDNrBOZEvCSJOAtSvd6"
-      },
-      "artists": [
-        {
-          "name": "Bayass",
-          "url": "https://open.spotify.com/artist/0PT8CEHQdV4RtZfgpEdSgb"
-        },
-        {
-          "name": "Dadi",
-          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "Mi-Temps",
-      "url": "https://open.spotify.com/track/4giONHPVER7LRWKzPG0AyQ"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "NAKAMURA",
-        "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Djadja",
-      "url": "https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "P.R",
-        "url": "https://open.spotify.com/album/6LvnCZmDBFKiw8nQiSBfDI"
-      },
-      "artists": [
-        {
-          "name": "Damys",
-          "url": "https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10"
-        }
-      ],
-      "duration_ms": 114929,
-      "name": "P.R",
-      "url": "https://open.spotify.com/track/0486DtpyqmuhgClOBq2Z8x"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/13yfYvw7h3ncHzH1sBpxNM"
-      },
-      "artists": [
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        }
-      ],
-      "duration_ms": 141462,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/4ea9QYeB2wnSTCft9eeATj"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "ME VOIL\u00c0",
-        "url": "https://open.spotify.com/album/1xmDvMNKREJDfHBVjexEnm"
-      },
-      "artists": [
-        {
-          "name": "Clara Charlotte",
-          "url": "https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki"
-        }
-      ],
-      "duration_ms": 174288,
-      "name": "ME VOIL\u00c0",
-      "url": "https://open.spotify.com/track/3qJzUKj78n8JzdxFjkfkGr"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "A7",
-        "url": "https://open.spotify.com/album/2VlYazP0xKrO9BxKe9wTZ4"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Champs-\u00c9lys\u00e9es",
-      "url": "https://open.spotify.com/track/3GA0XILGuMHjTTGcQtP7lu"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Ca y est ... J'suis l\u00e0",
-        "url": "https://open.spotify.com/album/5hb8dkyicIx6bgMQHmqkMi"
-      },
-      "artists": [
-        {
-          "name": "Kenz",
-          "url": "https://open.spotify.com/artist/4VGM96ndosnexzrvC3gI2p"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Ca y est ... J'suis l\u00e0",
-      "url": "https://open.spotify.com/track/2ZHu310HcSyHiZz2yz2z5A"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Daddy",
-        "url": "https://open.spotify.com/album/7M3SEQCleBaVkwdlogqHbc"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        },
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 158367,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/1qG77EJYDIgxOTEsUZqNLx"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "FULL OPTION",
-        "url": "https://open.spotify.com/album/6HCxXceM09SYlK7ATByVWL"
-      },
-      "artists": [
-        {
-          "name": "James Loup",
-          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
-        }
-      ],
-      "duration_ms": 175485,
-      "name": "HOMEMADE",
-      "url": "https://open.spotify.com/track/6YeRKlhp8n2NTf7CPAbsfo"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Chop (Nouvelle \u00c9cole)",
-        "url": "https://open.spotify.com/album/6G4SQQQtJfwqo0J4fMX7l1"
-      },
-      "artists": [
-        {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        },
-        {
-          "name": "Nouvelle \u00c9cole",
-          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Chop (Nouvelle \u00c9cole)",
-      "url": "https://open.spotify.com/track/0wLG5McOPyKtqBFv8zQVoI"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Mourir Demain (Nouvelle \u00c9cole)",
-        "url": "https://open.spotify.com/album/4KIIiadeLMb6tvzh27twVy"
-      },
-      "artists": [
-        {
-          "name": "Elyon",
-          "url": "https://open.spotify.com/artist/3VY8rqAcd0Aj6eAJyvmbON"
-        },
-        {
-          "name": "Nouvelle \u00c9cole",
-          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Mourir Demain (Nouvelle \u00c9cole)",
-      "url": "https://open.spotify.com/track/2QPGE7wCDh2VMTcvGl2rzE"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
-      "album": {
-        "name": "Parabellum (Nouvelle \u00c9cole)",
-        "url": "https://open.spotify.com/album/4Kzl1KZmxnxMEOKzW4YZq0"
-      },
-      "artists": [
-        {
-          "name": "Leys",
-          "url": "https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG"
-        },
-        {
-          "name": "Nouvelle \u00c9cole",
-          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Parabellum (Nouvelle \u00c9cole)",
-      "url": "https://open.spotify.com/track/3hcFPs4c7D3impUjYq2l7W"
-    },
-    {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Air Max TN - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/6SA7Nu4aa32CKTm72j4rt0"
@@ -1017,7 +989,7 @@
       "url": "https://open.spotify.com/track/1lhniJwch3tN8Vg5CHR2y6"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "AMF - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/5vYdXyKqXVIRKUilj5Lr0h"
@@ -1037,7 +1009,7 @@
       "url": "https://open.spotify.com/track/0su56748WvAwZDecsY8ZNZ"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "BAGARRE - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/10oTjqrL31dPKWJlZXfj3H"
@@ -1073,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4rgY6aiDHgEiRG6pZvfBPf"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Finale - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
@@ -1093,7 +1065,7 @@
       "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
     },
     {
-      "added_at": "2025-03-21 17:34:00",
+      "added_at": "2025-10-31 23:00:28",
       "album": {
         "name": "Yafama - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/73HDVkRvYkm2ubCRYifWT4"
@@ -1115,6 +1087,66 @@
       "duration_ms": 214901,
       "name": "Yafama - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2rd3kchMtUoVCP7S7a0Lxa"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "Chop (Nouvelle \u00c9cole)",
+        "url": "https://open.spotify.com/album/6G4SQQQtJfwqo0J4fMX7l1"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Chop (Nouvelle \u00c9cole)",
+      "url": "https://open.spotify.com/track/0wLG5McOPyKtqBFv8zQVoI"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "Mourir Demain (Nouvelle \u00c9cole)",
+        "url": "https://open.spotify.com/album/4KIIiadeLMb6tvzh27twVy"
+      },
+      "artists": [
+        {
+          "name": "Elyon",
+          "url": "https://open.spotify.com/artist/3VY8rqAcd0Aj6eAJyvmbON"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Mourir Demain (Nouvelle \u00c9cole)",
+      "url": "https://open.spotify.com/track/2QPGE7wCDh2VMTcvGl2rzE"
+    },
+    {
+      "added_at": "2025-10-31 23:00:28",
+      "album": {
+        "name": "Parabellum (Nouvelle \u00c9cole)",
+        "url": "https://open.spotify.com/album/4Kzl1KZmxnxMEOKzW4YZq0"
+      },
+      "artists": [
+        {
+          "name": "Leys",
+          "url": "https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Parabellum (Nouvelle \u00c9cole)",
+      "url": "https://open.spotify.com/track/3hcFPs4c7D3impUjYq2l7W"
     }
   ],
   "unique_name": "Nouvelle \u00c9cole",

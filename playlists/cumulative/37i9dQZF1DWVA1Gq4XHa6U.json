@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: Outkast",
+  "description": "Taking it way back! Cover: Nicki Minaj",
   "name": "Gold School",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 299613,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 304226,
       "name": "B.O.B. - Bombs Over Baghdad",
       "url": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU"
@@ -638,6 +638,28 @@
       "duration_ms": 144200,
       "name": "Be (Intro)",
       "url": "https://open.spotify.com/track/11aFVmFy8903RwDx4ohQiq"
+    },
+    {
+      "album": {
+        "name": "H.F.M. 2 (Hunger For More 2)",
+        "url": "https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "Beamer, Benz, Or Bentley",
+      "url": "https://open.spotify.com/track/0cNJ3huiV99wvUN1tmQLTL"
     },
     {
       "album": {
@@ -1244,7 +1266,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 271600,
       "name": "Can't Tell Me Nothing",
       "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
@@ -1598,6 +1620,24 @@
       "duration_ms": 206493,
       "name": "Definition",
       "url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
+    },
+    {
+      "album": {
+        "name": "Pink Friday (Complete Edition)",
+        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212346,
+      "name": "Did It On\u2019em",
+      "url": "https://open.spotify.com/track/3ScW1jntobO4OfLub6I0sj"
     },
     {
       "album": {
@@ -2056,7 +2096,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -2158,7 +2198,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 236506,
       "name": "Frontin' (feat. JAY-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
@@ -2764,7 +2804,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 170506,
       "name": "Ho",
       "url": "https://open.spotify.com/track/1EsSm8qaR9Wtm1OgZXKi2n"
@@ -3242,7 +3282,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 243440,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
@@ -4852,7 +4892,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 235632,
       "name": "My Nigga",
       "url": "https://open.spotify.com/track/19OHDib8Jrqi3o2nm5lzdA"
@@ -5036,7 +5076,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 263773,
       "name": "No Hands (feat. Roscoe Dash & Wale)",
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
@@ -5703,6 +5743,42 @@
     },
     {
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "album": {
+        "name": "The DeAndre Way (Deluxe Explicit Version)",
+        "url": "https://open.spotify.com/album/0uOv76Q0q8w5PtiazPiq5z"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "Pretty Boy Swag",
+      "url": "https://open.spotify.com/track/6sQH5GFuqhvemSdP2oOfRi"
+    },
+    {
+      "album": {
         "name": "Protect Ya Neck",
         "url": "https://open.spotify.com/album/6lxpyFtRhnsZjFdvzPAmTT"
       },
@@ -6192,7 +6268,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 547733,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
@@ -7375,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "What The Game's Been Missing!",
+        "url": "https://open.spotify.com/album/7CNV1ARDbh9WbrHOq4xOPa"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180493,
+      "name": "There It Go (The Whistle Song)",
+      "url": "https://open.spotify.com/track/0f7gbjwkZOs9loj2fr0lGH"
+    },
+    {
+      "album": {
         "name": "Mecca And The Soul Brother",
         "url": "https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp"
       },
@@ -8510,6 +8604,24 @@
       "duration_ms": 287906,
       "name": "You Owe Me (feat. Ginuwine)",
       "url": "https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw"
+    },
+    {
+      "album": {
+        "name": "Pink Friday (Complete Edition)",
+        "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245253,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/5ezdlC7WVACAC0pGvdmT2M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U"

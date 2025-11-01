@@ -4,7 +4,7 @@
 
 > From the roads to the globe, UK Rap is life\. The hottest new UK rap, hip\-hop, grime, &amp; drill in 2025\. Cover: Nemzzz
 
-104 songs - 4 hr 54 min
+105 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Captain Ants](https://open.spotify.com/track/5sADa6C5sKDyI6PX76Bd7L) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Captain Ants](https://open.spotify.com/album/3ZPwwBAJi9ESwJYojzzun3) | 2:58 | 2025-10-03 |  |
 | [Catalina](https://open.spotify.com/track/1WrIm1ktonrh7Zu1oOo4nY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Catalina](https://open.spotify.com/album/4iI6RDSCw08g9HvRMZGN6p) | 3:00 | 2025-10-03 |  |
 | [Cautionary Tales](https://open.spotify.com/track/5sx0Pp7jnHnQhejHvaho5J) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Can't Decide 3P](https://open.spotify.com/album/5fodg3Betf8H5oQv85k6a9) | 2:40 | 2025-10-03 |  |
+| [Century](https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Century](https://open.spotify.com/album/3iEInaFAamSTND6sovehX7) | 1:49 | 2025-10-31 |  |
 | [COLD](https://open.spotify.com/track/2MlypFtQksknMDF1lTWd8g) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [COLD](https://open.spotify.com/album/79Hg45abjVAL52VXhjfXXG) | 2:23 | 2025-10-03 |  |
 | [Crash \(Freestyle\)](https://open.spotify.com/track/4mHUpUh5VJvXE7pvdunYK7) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Epiphany / Crash \(Freestyle\)](https://open.spotify.com/album/2GJGr1IyQmXoAvdp65yw4Y) | 2:22 | 2025-10-03 |  |
 | [Crazy Love](https://open.spotify.com/track/00S54Je0ffaNP8ClzQPjWy) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Crazy Love](https://open.spotify.com/album/1d7YlcfbkKjTZi061rJYlo) | 2:00 | 2025-10-03 |  |

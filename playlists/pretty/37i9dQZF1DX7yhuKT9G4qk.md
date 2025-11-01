@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,960 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,967 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 | 11 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 |
 | 12 | [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 |
 | 13 | [The Weatherman](https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Weatherman](https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm) | 3:30 |
-| 14 | [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [](https://open.spotify.com/album/null) | 3:27 |
+| 14 | [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Chance Encounter](https://open.spotify.com/album/3ySvgHcZ8wqWDy6QbYskim) | 3:27 |
 | 15 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 |
 | 16 | [Remedy](https://open.spotify.com/track/5f8l9ldrzFoxYwkgq3G6S9) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/6FmGwYkTYZmcmSi7YMvkvs) | 2:44 |
 | 17 | [Weightless](https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Bloom](https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH) | 4:06 |

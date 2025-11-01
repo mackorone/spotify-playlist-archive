@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103 likes - 185 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 185 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 61 | [When I Lie \(Remix\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6lLDL0dGG00wcyo1yQTnUY) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [For The Throne \(Music Inspired by the HBO Series Game of Thrones\)](https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T) | 3:13 |
 | 62 | [The Show](https://open.spotify.com/track/3ZvhK8GmYPXY8ieNHwI0tX) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [What Will The Neighbours Say?](https://open.spotify.com/album/5uuYulJrtga1APMxTDcfum) | 3:37 |
 | 63 | [in the car](https://open.spotify.com/track/5zNJ8sfjLHdmhRlJxNjGfl) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2 \(og version\)](https://open.spotify.com/album/15h14WTWpQpFWjaw81uD0N) | 2:09 |
-| 64 | [The Power \(feat\. Dizzee Rascal\) \- Radio Edit](https://open.spotify.com/track/6nq8E2aA2xCwGNE36VMiF7) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Nextlevelism](https://open.spotify.com/album/5IqZHG6yO5SL6biWicPG3Y) | 2:47 |
-| 65 | [Let You](https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Let You](https://open.spotify.com/album/2cezX4lRWqayjA6j82aYyE) | 2:46 |
-| 66 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 64 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 65 | [The Power \(feat\. Dizzee Rascal\) \- Radio Edit](https://open.spotify.com/track/6nq8E2aA2xCwGNE36VMiF7) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Nextlevelism](https://open.spotify.com/album/5IqZHG6yO5SL6biWicPG3Y) | 2:47 |
+| 66 | [Let You](https://open.spotify.com/track/04RDD103rSChGr2X3SbSyC) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Let You](https://open.spotify.com/album/2cezX4lRWqayjA6j82aYyE) | 2:46 |
 | 67 | [What You Waiting For \(feat\. Kylie Minogue\)](https://open.spotify.com/track/3tjNFVYyJwiWAq1XfHWLMj) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 4:11 |
 | 68 | [Tonight \(D.I.Y.A\) \- Pitbull Remix](https://open.spotify.com/track/5tLCZ73pEFUzxEd1W4DeCs) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Tonight \(D.I.Y.A\) \[Pitbull Remix\]](https://open.spotify.com/album/0EIZb3DTMZlZt2FLndqpSY) | 2:32 |
 | 69 | [My Shadow](https://open.spotify.com/track/7g2m8xdym2wNCs8vHdXdv3) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:29 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 134 | [weight loss](https://open.spotify.com/track/1TFL6Kznz4FcgWu7IBRlAZ) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [weight loss](https://open.spotify.com/album/2qpv78ZSrf42RsK83c2pYv) | 3:19 |
 | 135 | [Confession](https://open.spotify.com/track/4FEgmZNndauGaHjSM4AGiH) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:21 |
 | 136 | [Get Down Tonight](https://open.spotify.com/track/0QUsVX8ReFz1bzaTtHPrn6) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Red Book](https://open.spotify.com/album/5O4yFdCpn4RM4IyBmkiWyA) | 3:45 |
-| 137 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 |
-| 138 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 137 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 138 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 |
 | 139 | [Bad Weather](https://open.spotify.com/track/1omdnnoAS6afJM6FK1uFsP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Red Book](https://open.spotify.com/album/5O4yFdCpn4RM4IyBmkiWyA) | 3:59 |
 | 140 | [Deep](https://open.spotify.com/track/0HEcwBPQfxpHMtXR4qO55K) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx) | [Deep](https://open.spotify.com/album/6qIAIFQ4soNtbIzw8bLlWc) | 3:26 |
 | 141 | [Twisted Fantasy](https://open.spotify.com/track/0bKTlAAAbTTPx5oqKDynWk) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Twisted Fantasy](https://open.spotify.com/album/5UbR2F7s9CGiZQ95UX4RbC) | 3:15 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 184 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 185 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcARvgAAAADvF2MCtPsm6eH/194DrJmq`
+Snapshot ID: `AcAXVAAAAAA1cU0E26cnUDQllOiI2A8H`

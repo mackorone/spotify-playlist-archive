@@ -4,7 +4,7 @@
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-146 songs - 10 hr 14 min
+147 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Besos de Mentira](https://open.spotify.com/track/5nR7pNSWUwJHnyHBGtG0kt) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/7vcpdsOGKEjtleFfx37CYB) | 4:18 | 2025-04-13 | 2025-05-13 |
 | [Brigida](https://open.spotify.com/track/3xlHWb5TsdrN0BTb0h2aM5) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS) | 3:33 | 2023-09-09 | 2025-04-14 |
 | [Brigida](https://open.spotify.com/track/520Ms8HqOpj5oP0e0vDLOK) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5HucyECgwJTkWCWX8MhgTD) | 3:33 | 2025-04-14 | 2025-05-07 |
-| [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 | 2025-05-07 |  |
+| [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 | 2025-05-07 | 2025-11-01 |
 | [Cabeza de escorpión](https://open.spotify.com/track/3aq5vlsKw8t97iSNXMMr0Y) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:15 | 2022-09-16 | 2025-04-18 |
 | [Cabeza de Escorpión](https://open.spotify.com/track/480xl7fiKixUIIoKAxm8cJ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:15 | 2025-04-18 |  |
 | [Carne \- En Vivo](https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En Vivo\)](https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e) | 5:59 | 2025-05-13 | 2025-10-31 |
@@ -49,6 +49,7 @@
 | [El espacio](https://open.spotify.com/track/13EopJrSN65v2idkYVXTLZ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:38 | 2025-05-14 |  |
 | [El espacio](https://open.spotify.com/track/17oZ17aeENHR2L8FxSNTB0) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:38 | 2022-09-16 | 2025-04-14 |
 | [El espacio](https://open.spotify.com/track/7DYIAxAtdvvDQSlrQnlYRN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3dQZ49XGlRucPFOwbjpykT) | 4:38 | 2025-04-14 | 2025-05-14 |
+| [El misterio](https://open.spotify.com/track/1GhTst00ttJYciWs8XRo2i) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:16 | 2025-11-01 |  |
 | [El sonido del misterio](https://open.spotify.com/track/2AI9lFk3Ppkyc2wrrKvk0q) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 0:42 | 2025-10-31 |  |
 | [Eras Tan Para Mi](https://open.spotify.com/track/4GbA6cGPbMohI23YgsvEne) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:50 | 2025-04-17 |  |
 | [Eras tan para mi](https://open.spotify.com/track/4t2vV9fvmeSBUlOarB4Eiu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/1I4TrEzzQ23JMNsBskiLjU) | 4:50 | 2022-09-16 | 2025-04-17 |

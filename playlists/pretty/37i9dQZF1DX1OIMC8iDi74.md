@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Hex Cougar
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,464 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,441 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 60 | [King](https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Antagonist](https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ) | 2:47 |
 | 61 | [SIGNAL](https://open.spotify.com/track/2lI0NirbWze2kWcIsB7Nqo) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:23 |
 | 62 | [KGM \(irl\)\*](https://open.spotify.com/track/6RR2CymUsUTc0cQfaQ3RH7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [KGM \(irl\)\*](https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX) | 2:38 |
-| 63 | [Okay](https://open.spotify.com/track/1dCp5pt4c76AOMPasRITAw) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Okay](https://open.spotify.com/album/0U0i261T4YzOxSVc1M9dIV) | 3:00 |
-| 64 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
+| 63 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
+| 64 | [Okay](https://open.spotify.com/track/1dCp5pt4c76AOMPasRITAw) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Okay](https://open.spotify.com/album/0U0i261T4YzOxSVc1M9dIV) | 3:00 |
 | 65 | [Like That \- Tape B Remix](https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That \(Tape B Remix\)](https://open.spotify.com/album/6SAzbWShu217QKogZudlhp) | 3:36 |
 | 66 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |
 | 67 | [Lights On](https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [The R♾️ts](https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7) | 2:49 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 92 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
 | 93 | [Wish I Could Forget \- William Black Remix](https://open.spotify.com/track/4cDt111m1lza60RxflHUoA) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Wish I Could Forget \(William Black Remix\)](https://open.spotify.com/album/2epDNme9aR6mueN6NQ9Mhx) | 3:06 |
 | 94 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
-| 95 | [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 |
+| 95 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
 | 96 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 97 | [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 |
-| 98 | [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 |
+| 98 | [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 |
 | 99 | [The Descent](https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:07 |
 | 100 | [At Night](https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [At Night](https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07) | 2:50 |
 

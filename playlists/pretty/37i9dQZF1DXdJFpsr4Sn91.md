@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. ⬆️ Kannessa Minttu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,126 likes - 86 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,125 likes - 86 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
-| 2 | [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [](https://open.spotify.com/album/null) | 2:52 |
+| 2 | [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 |
 | 3 | [Vähän enemmän](https://open.spotify.com/track/7oZUbH4QyiNtW8L9ibZFHH) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Vähän enemmän](https://open.spotify.com/album/0QNhV8mz6qAYwFZnfAbASR) | 3:07 |
 | 4 | [Yks yö](https://open.spotify.com/track/1HovJONUfhVAOpVk5lBzAy) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Yks yö](https://open.spotify.com/album/5S8G0cvb0pnLTOj6ZWWYqk) | 2:46 |
 | 5 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 |
 | 6 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 |
 | 7 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 8 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 1:54 |
-| 9 | [Track 1](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 |
 | 10 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 11 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
 | 12 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |

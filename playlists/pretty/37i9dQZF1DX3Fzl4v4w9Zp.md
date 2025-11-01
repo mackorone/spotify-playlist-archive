@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,771 likes - 160 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,729 likes - 160 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 159 | [Fast Asleep](https://open.spotify.com/track/5s8DrAoxwPB846boyVOKHS) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fast Asleep](https://open.spotify.com/album/7dWMAoJMvXjPhb1XsDYMiA) | 4:32 |
 | 160 | [American Dreaming \- Single Edit](https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [American Dreaming](https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT) | 3:57 |
 
-Snapshot ID: `AAAAANia15N68jJSI3L9BVU7n9Us0UKZ`
+Snapshot ID: `AAAAALvHVTrEJq6m2lA3dxFHCf3sAquw`

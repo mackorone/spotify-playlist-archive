@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,987 likes - 305 songs - 18 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988 likes - 305 songs - 18 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 87 | [Back on Road](https://open.spotify.com/track/39liuGHPxn2sAyvO6DINor) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Everybody Looking](https://open.spotify.com/album/3WjDB3j2yZL4g0hBGHF04i) | 2:29 |
 | 88 | [out for the night \- part 2](https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:55 |
 | 89 | [Ratchet Happy Birthday](https://open.spotify.com/track/4SUwJA3eUVNHExxMPEUhQe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:27 |
-| 90 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 |
-| 91 | [Unforgettable](https://open.spotify.com/track/5LZ0ZCRXrklIpnzn4Tcyde) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:33 |
+| 90 | [Unforgettable](https://open.spotify.com/track/5LZ0ZCRXrklIpnzn4Tcyde) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:33 |
+| 91 | [C7osure \(You Like\)](https://open.spotify.com/track/4no0eHn4fEB7tN1yZSXMma) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:28 |
 | 92 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/52lJC8UndX32dECyJlRGSJ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:54 |
 | 93 | [All The Parties \(feat\. Chief Keef\)](https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:38 |
 | 94 | [1000 Nights \(feat\. Meek Mill & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4vIKzWqtn44umal5jXq4wE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:32 |
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 304 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 305 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcAR5gAAAAAS5Db2WWXkG2SL0GZBd86U`
+Snapshot ID: `AcAXfAAAAAA/s/q7+qBzUFNtj5gvL6DA`

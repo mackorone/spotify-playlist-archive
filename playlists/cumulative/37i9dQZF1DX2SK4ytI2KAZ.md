@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-664 songs - 1 day 12 hr 24 min
+665 songs - 1 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Head Right](https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 3:17 | 2022-10-07 | 2023-08-22 |
 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 | 2024-06-10 |  |
 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 | 2023-03-28 |  |
-| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-24 |  |
+| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-24 | 2025-11-01 |
 | [High](https://open.spotify.com/track/6y055Bh8XDEpmFMBuycoLj) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [High](https://open.spotify.com/album/0FYyTg1VD43MPJygKRURKw) | 2:43 | 2022-03-11 | 2022-04-19 |
 | [High](https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young Rising Sons](https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50) | 2:45 | 2022-06-27 | 2023-05-26 |
 | [High Again](https://open.spotify.com/track/0DfJSAKlgfjqPLDIsBrOic) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [High Again](https://open.spotify.com/album/1gwyYE4gE9VvucBwpaRMvK) | 2:55 | 2022-06-27 | 2022-11-13 |
@@ -260,6 +260,7 @@
 | [hold on](https://open.spotify.com/track/6RtRxaZN5RMWFbeZW24oRx) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [come out\. you're hiding \(deluxe\)](https://open.spotify.com/album/3GIL4DPTpx8qXKmCVavrjD) | 3:24 | 2022-06-27 | 2022-07-30 |
 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 | 2021-11-19 | 2023-03-29 |
 | [Hold You \(Responsible\)](https://open.spotify.com/track/5SMydTMtNUn7h1hKNtclV1) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV), [NOISE FOR NOW](https://open.spotify.com/artist/2Z2FmulUajUTCRLBYiJIgj) | [Songs For Sex](https://open.spotify.com/album/3YOaQQo6HwSvykNOqCaTvb) | 2:14 | 2024-10-18 | 2024-11-22 |
+| [Hole In The Ground](https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Hole In The Ground](https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK) | 3:44 | 2025-10-31 |  |
 | [Hollywood](https://open.spotify.com/track/1eBW4wuI5K2iDvp5Kxi5wT) | [Cherry Pools](https://open.spotify.com/artist/0ZapotknXXYHIvTojpg9Im) | [Hollywood](https://open.spotify.com/album/5o3aabdlrQRUPggo5syUTC) | 3:00 | 2021-03-10 | 2022-07-29 |
 | [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-16 | 2024-10-06 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-03-10 | 2024-10-19 |

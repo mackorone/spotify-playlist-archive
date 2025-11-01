@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-342 songs - 22 hr 37 min
+345 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Blue Highway \- Demo](https://open.spotify.com/track/6Qt87PqZpDX5KLDLrB1YiU) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell \(Expanded Edition\)](https://open.spotify.com/album/7toLJZQWTgBbSFE07O2s9D) | 4:58 | 2024-05-23 |  |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-18 |  |
 | [Blurry](https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/5DLx1IHDoyBHyjF4UggiSe) | 5:04 | 2023-10-16 | 2024-05-24 |
+| [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 | 2025-10-31 |  |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-16 |  |
 | [Brilliant Mistake / Boulevard Of Broken Dreams \- Cape Fear Version](https://open.spotify.com/track/18SDltYnwj0pKzQnefdgHC) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [King Of America & Other Realms \(Super Deluxe / 2024 Remaster\)](https://open.spotify.com/album/7MkPAc92bB8Narc9jcy7Sf) | 6:59 | 2024-11-01 |  |
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2023-10-16 | 2024-05-24 |
@@ -117,6 +118,7 @@
 | [Give It To Me 2025](https://open.spotify.com/track/4NnFdCD1ZyZVe6yvwPcyGe) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me 2025](https://open.spotify.com/album/3NdkhaYtmYhEIRkTw6r7lS) | 2:41 | 2025-07-18 |  |
 | [Gonna Need Someone](https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Crooked Boy](https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2) | 2:59 | 2024-05-23 |  |
 | [Good Vibrations \- 2021 Stereo Mix](https://open.spotify.com/track/045r42TrPujfND88MNCLEl) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down / Good Vibrations \(2021 Stereo Mix\)](https://open.spotify.com/album/7o1TsJgTlyE5IspzERWwU6) | 3:44 | 2024-05-23 |  |
+| [Had Enough](https://open.spotify.com/track/3b8wboATWjPGIpWgFFORxK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:30 | 2025-10-31 |  |
 | [Hard To Be Happy](https://open.spotify.com/track/2qTDHYBUTjYr8jsVjXxS2P) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Hard To Be Happy](https://open.spotify.com/album/5ItMQSBkpe44v1dln7kkos) | 3:42 | 2025-07-11 |  |
 | [Hard To Handle](https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 3:08 | 2025-02-14 |  |
 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2025-01-17 |  |
@@ -279,6 +281,7 @@
 | [Sweet Sounds Of Heaven](https://open.spotify.com/track/4HyhdV70V9XR8Bpngwos6d) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hackney Diamonds \(Live Edition\)](https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn) | 7:22 | 2024-05-23 |  |
 | [Swing For The Fences](https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Swing For The Fences](https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3) | 3:22 | 2025-03-07 |  |
 | [Swing Life Away](https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:20 | 2023-10-16 | 2024-05-24 |
+| [Sympathy Magic](https://open.spotify.com/track/6ExwNwWLXvvKr5hk6lkHUY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:28 | 2025-10-31 |  |
 | [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 | 2024-05-23 |  |
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2023-10-16 | 2024-05-24 |
 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 | 2023-11-02 | 2024-05-24 |

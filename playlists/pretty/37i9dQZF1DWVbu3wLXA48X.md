@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Cigarettes After Sex
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,324 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,387 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 99 | [Ignorance is Bliss](https://open.spotify.com/track/7mhAJ0N6VuAxgzksFWa0Om) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Ignorance is Bliss](https://open.spotify.com/album/75N2h7ZeDnaFRbIlja8LgJ) | 3:34 |
 | 100 | [Cheap Drugs](https://open.spotify.com/track/0sDGVavr90ZGhOrLs3yexl) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Cheap Drugs](https://open.spotify.com/album/22WWlq207NzwXMeS3OUtAC) | 3:07 |
 
-Snapshot ID: `AAAAANghAyaHek4N0xHZblWiEavkyQis`
+Snapshot ID: `AAAAAKeGTyxuxAqjp/y/vJyCkLPQc5wQ`

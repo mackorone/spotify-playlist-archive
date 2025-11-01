@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Pihlaja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,729 likes - 66 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,734 likes - 66 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [](https://open.spotify.com/album/null) | 2:52 |
+| 1 | [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 |
 | 2 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 |
 | 3 | [Mä oon se tyttö](https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Mä oon se tyttö](https://open.spotify.com/album/1BNBt5vqJqJvMx4wNGAfgF) | 2:53 |
 | 4 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 43 | [Tulipalo \(Vain elämää kausi 16\)](https://open.spotify.com/track/4dQM0IDDLjh4yzLVqW2S3G) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Tulipalo \(Vain elämää kausi 16\)](https://open.spotify.com/album/3OUVPNY0XxqUms90hbTE8l) | 3:08 |
 | 44 | [Liukumäki \(feat\. HUGO\)](https://open.spotify.com/track/788uopZnSSWR0PvY4ozUSr) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Kippis](https://open.spotify.com/album/7fheOWyVoVXcazgxtTF6xr) | 3:14 |
 | 45 | [Unelmavävy](https://open.spotify.com/track/30PxjCTzmiPZslrW3YNgwm) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Unelmavävy](https://open.spotify.com/album/5fEjkf1IlOceOJzRGMT2uX) | 2:33 |
-| 46 | [Track 1](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [](https://open.spotify.com/album/null) | 0:00 |
+| 46 | [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 |
 | 47 | [Parasta ja paskinta](https://open.spotify.com/track/1Tpuyc4NjRmqmLuhpbMIqy) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Parasta ja paskinta](https://open.spotify.com/album/1aNpU5cFwYV0sQaiw1nYNM) | 2:53 |
 | 48 | [Janne paina kaasua \(JPK\)](https://open.spotify.com/track/3oCfkdQXRhryVoxWXB3XG2) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Janne paina kaasua \(JPK\)](https://open.spotify.com/album/5Z88T4GfkQo5Wcmfakal0u) | 2:57 |
 | 49 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 |

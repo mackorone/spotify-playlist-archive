@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from Gunna, Young Thug and Yeat.
+> New music from Tyler, The Creator.
 
-2,546 songs - 5 day 12 hr 4 min
+2,547 songs - 5 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1158,7 +1158,7 @@
 | [Keeper \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5b2CRPYt0QNA0jaCJNIIdn) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [GEEZYWORLD](https://open.spotify.com/album/0kNhJM4dXKfsKbCERz7QBg) | 2:49 | 2021-08-28 | 2021-11-20 |
 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-21 | 2024-10-26 |
 | [Khabib](https://open.spotify.com/track/55wjPy1tWmBFyVVtYrGl9a) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Straight Back To It](https://open.spotify.com/album/3FWN0P76YHiCIKqK0Nw0Ji) | 3:18 | 2022-02-25 | 2022-03-05 |
-| [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 | 2025-07-13 |  |
+| [KICK OUT](https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 2:50 | 2025-07-13 | 2025-11-01 |
 | [Kickboxer](https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Kickboxer](https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn) | 3:50 | 2025-07-04 | 2025-07-19 |
 | [Kid That Kidd \(feat\. Future and Doe Boy\)](https://open.spotify.com/track/6EudabsFkMkxL9ZDVDqn0W) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Pegasus](https://open.spotify.com/album/2vMi9So8GxXiqaT2zJXbQG) | 3:37 | 2020-10-30 | 2020-11-06 |
 | [Killa Season](https://open.spotify.com/track/3dEPpPJ5Foe1g50GSKb84f) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/6vxwZzJVRrQKuJK6AcXwbn) | 3:03 | 2024-11-16 | 2024-12-07 |
@@ -1385,6 +1385,7 @@
 | [Mopstick \(with Kodak Black\)](https://open.spotify.com/track/2i3y5eG5Brkb96v5ZslpXS) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:36 | 2022-07-08 | 2022-07-30 |
 | [More Ready Than Ever](https://open.spotify.com/track/4oP6F531Qc2c9oGE4HCtRk) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [More Ready Than Ever](https://open.spotify.com/album/4PcrU042hRrFFR0oYQi8QO) | 3:56 | 2020-01-31 | 2020-02-07 |
 | [More Time](https://open.spotify.com/track/5TJoARQMENPzacGbxF2B9F) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith \(Deluxe\)](https://open.spotify.com/album/2N539CVAkXd9Jk722m1i6D) | 2:00 | 2021-07-24 | 2021-07-27 |
+| [Mother](https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA +](https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1) | 4:40 | 2025-10-31 |  |
 | [Motion God](https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 | 2023-06-17 | 2023-07-01 |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-04-21 | 2023-06-18 |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-10 | 2021-10-09 |
@@ -1400,7 +1401,7 @@
 | [Mrs\. Bubblegum](https://open.spotify.com/track/7Ko12sPqhdCczAdJ6wnyAc) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Mrs\. Bubblegum](https://open.spotify.com/album/5vpnY4y1cnEv8IQzcOMrxL) | 2:25 | 2021-07-31 | 2021-08-07 |
 | [Mrs\. Davis](https://open.spotify.com/track/6R8OyxlpbW1F00R2eJRiHk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6OdXLngJAya75s1LisdxEd) | 3:57 | 2022-06-03 | 2022-08-06 |
 | [Ms\. Fat Booty](https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 3:43 | 2024-10-10 | 2024-10-12 |
-| [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2025-10-30 |  |
+| [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 | 2025-10-30 | 2025-11-01 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-09 | 2022-11-05 |
 | [Murda](https://open.spotify.com/track/3orAdhaGP0RhjMN3f8B8Im) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Murda](https://open.spotify.com/album/61HXHoLc5tFcNufvi62ESk) | 2:01 | 2025-06-06 | 2025-06-28 |
 | [Murda Talk](https://open.spotify.com/track/06R3hA4D1jyj8f8untfQNB) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:24 | 2020-08-14 | 2020-08-21 |

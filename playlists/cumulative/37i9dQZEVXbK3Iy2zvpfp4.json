@@ -5628,7 +5628,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 147586,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/3m2dgCQagVWkSha04cZn23"
@@ -7632,7 +7632,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 97717,
       "name": "BIG STEPPER",
       "url": "https://open.spotify.com/track/6TF0zzItoEon7cjWN9XRhf"
@@ -7776,7 +7776,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
@@ -20054,7 +20054,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
@@ -22628,7 +22628,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 134693,
       "name": "G WAGON",
       "url": "https://open.spotify.com/track/4Y77GxNpAS16bGOVDwzagb"
@@ -26240,7 +26240,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 176732,
       "name": "Hedv\u00e1b\u00ed",
       "url": "https://open.spotify.com/track/1GiXGua5EJJHUjqwVXhIQ1"
@@ -30726,7 +30726,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 151573,
       "name": "IRIS OUT",
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
@@ -40232,6 +40232,10 @@
         {
           "name": "Furac\u00e3o 2000",
           "url": "https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0"
+        },
+        {
+          "name": "Nyasia",
+          "url": "https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW"
         }
       ],
       "date_added": "2025-09-20",
@@ -40306,7 +40310,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -45678,6 +45682,28 @@
       "duration_ms": 171000,
       "name": "No Balance",
       "url": "https://open.spotify.com/track/1jXWHpu0KDxoqm1CklOZ8Z"
+    },
+    {
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89745,
+      "name": "NO BATID\u00c3O",
+      "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
     },
     {
       "album": {
@@ -53736,7 +53762,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 157947,
       "name": "Ready \u010di ne!?",
       "url": "https://open.spotify.com/track/7BYzdtr7IDLBxe81Wwat8n"
@@ -59338,7 +59364,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 190477,
       "name": "SNAD SE TAM NEBUDE ST\u0158\u00cdLET",
       "url": "https://open.spotify.com/track/73hzR72ya2MX8cyCX7qMSY"
@@ -72584,7 +72610,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 180604,
       "name": "Wish - Audiomack Trap Symphony Version",
       "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
@@ -72642,10 +72668,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 321387,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/3nY6mivFNJlCGSlMW9BAFH"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/4ggAqavt81oF4dQLF4D7lp"
+      },
+      "artists": [
+        {
+          "name": "Orion7",
+          "url": "https://open.spotify.com/artist/5xq85p5vUAcHW9qjlJ2Hle"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321394,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/3EWDDciJNMk7gAZNp6L6V7"
     },
     {
       "album": {
@@ -74598,7 +74642,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 240116,
       "name": "Zub za zub",
       "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"
@@ -76146,7 +76190,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 128000,
       "name": "\u042f \u0445\u043e\u0447\u0443 \u043a\u0430\u0436\u0434\u044b\u0439 \u0442\u0432\u043e\u0439 \u0430\u0442\u043e\u043c",
       "url": "https://open.spotify.com/track/2hIBqneqkOImtctzFK47MO"

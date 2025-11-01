@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: VaShawn Mitchell
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,925 likes - 90 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,944 likes - 90 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 89 | [He loves me](https://open.spotify.com/track/6EV96sGoOXaj6P6W2gLrNu) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [History Maker](https://open.spotify.com/album/03qCZLGriMk5hOHdzQj2U9) | 5:48 |
 | 90 | [Green Light](https://open.spotify.com/track/6D1RMZkJQvwb66Y413ykQN) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [Green Light](https://open.spotify.com/album/1tBPCE3UREXlSMxQy5K1ij) | 2:23 |
 
-Snapshot ID: `AAAAADlZcmwQGL1jmO4s+2HgdNlROER+`
+Snapshot ID: `AAAAAAIpPGq3iRRBF6EhTFKhk9M30wcY`

@@ -1,33 +1,13 @@
 {
-  "description": "Everything Broadway-adjacent. Cover:  Jennifer Lopez",
-  "num_followers": 14078,
+  "description": "Everything Broadway-adjacent. Cover:  Ariana Grande",
+  "num_followers": 14084,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGmboqv63I3n6EwGrO89t9LMVeKn",
+  "snapshot_id": "AAAAAMCRgko6PkStSxI+7zFgJT5XMqRa",
   "tracks": [
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
-        "name": "Kiss of the Spider Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/11q2atn1ZVm6LJO5Efljz6"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Tonatiuh",
-          "url": "https://open.spotify.com/artist/21sCCId36uv35Nqk72EzK2"
-        }
-      ],
-      "duration_ms": 280070,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/7xc0n2E5blIA8yeObf69uT"
-    },
     {
       "added_at": "2025-10-10 04:00:31",
       "album": {
@@ -59,6 +39,42 @@
       "duration_ms": 113230,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "Kiss of the Spider Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11q2atn1ZVm6LJO5Efljz6"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Tonatiuh",
+          "url": "https://open.spotify.com/artist/21sCCId36uv35Nqk72EzK2"
+        }
+      ],
+      "duration_ms": 280070,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/7xc0n2E5blIA8yeObf69uT"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "The Phantom of the Opera",
+        "url": "https://open.spotify.com/album/2gvCcyR90Kae9W8UymrKjt"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "The Phantom of the Opera",
+      "url": "https://open.spotify.com/track/3HID4p7NeP19mLmQmbx5O4"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -879,22 +895,6 @@
       "duration_ms": 60147,
       "name": "Spanish or Vanish",
       "url": "https://open.spotify.com/track/0ijwa9A6H3WFoEFzBNzrxo"
-    },
-    {
-      "added_at": "2025-03-03 02:52:57",
-      "album": {
-        "name": "The Color Purple (Music From And Inspired By)",
-        "url": "https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 266093,
-      "name": "Any Worse (Squeak\u2019s Song)",
-      "url": "https://open.spotify.com/track/2mjZYvLsOCoBuFZp6G1jQX"
     },
     {
       "added_at": "2025-03-03 02:52:57",

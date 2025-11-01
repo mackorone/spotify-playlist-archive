@@ -1,13 +1,29 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 122101,
+  "num_followers": 122117,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAB7fYXo4XwxHlPHn/ogPHXm",
+  "snapshot_id": "aQKqgAAAAADMZJBvVhCr/uszA3kx2ArA",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make Me Rainbows",
+        "url": "https://open.spotify.com/album/76J4OCj6na4NliLGRK1X2E"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 201629,
+      "name": "Make Me Rainbows",
+      "url": "https://open.spotify.com/track/5Mh5M6Q72P7mLjFIu5hnm1"
+    },
     {
       "added_at": null,
       "album": {
@@ -319,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Trumpet Artistry Of Chet Baker",
-        "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
           "name": "Chet Baker",
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
         }
       ],
-      "duration_ms": 195960,
-      "name": "Moon Love",
-      "url": "https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT"
+      "duration_ms": 179573,
+      "name": "You're My Thrill",
+      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
     },
     {
       "added_at": null,
@@ -355,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+        "name": "The Trumpet Artistry Of Chet Baker",
+        "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
       },
       "artists": [
         {
           "name": "Chet Baker",
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
         }
       ],
-      "duration_ms": 179573,
-      "name": "You're My Thrill",
-      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
+      "duration_ms": 195960,
+      "name": "Moon Love",
+      "url": "https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT"
     },
     {
       "added_at": null,
@@ -383,6 +399,22 @@
       "duration_ms": 246160,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": null,
@@ -415,22 +447,6 @@
       "duration_ms": 252640,
       "name": "I've Grown Accustomed To Her Face",
       "url": "https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": null,
@@ -647,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker & Strings",
+        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/3dV42xSB7JYqvYdmP3Bolo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chet (Mono)",
         "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
       },
@@ -715,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker & Strings",
-        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/3dV42xSB7JYqvYdmP3Bolo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Most Important Jazz Album Of 1964/65",
         "url": "https://open.spotify.com/album/06ymq9Pi6OEzgdoeRPfHzM"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 254729,
-      "name": "Relaxin'",
-      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 191906,
       "name": "Ergo - Remastered 2004",
       "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 254729,
+      "name": "Relaxin'",
+      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
     }
   ],
   "unique_name": "This Is Chet Baker",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAACdDK78fRS9bVPB+dkBT5H3",
+  "snapshot_id": "aQKqgAAAAADON0AkExY3jtaAYYzv7PXs",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 170526,
-      "name": "Ride With Shordie, Pt. 2",
-      "url": "https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd"
+      "duration_ms": 177588,
+      "name": "A Lot of Miles",
+      "url": "https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 177588,
-      "name": "A Lot of Miles",
-      "url": "https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu"
+      "duration_ms": 170526,
+      "name": "Ride With Shordie, Pt. 2",
+      "url": "https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Shot (feat. Blxst & Wale)",
-        "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 153194,
-      "name": "One Shot (feat. Blxst & Wale)",
-      "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
         "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 180609,
       "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Shot (feat. Blxst & Wale)",
+        "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 153194,
+      "name": "One Shot (feat. Blxst & Wale)",
+      "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
     },
     {
       "added_at": null,

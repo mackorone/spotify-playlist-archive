@@ -1,12 +1,12 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 62304,
+  "num_followers": 62303,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOXV21XylQnmK1VeJzhUaFykFOCb",
+  "snapshot_id": "AAAAAACoh1BNE9mgvlVL1MwQnmUIfiRH",
   "tracks": [
     {
       "added_at": "2025-10-23 23:00:18",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-10-23 23:00:18",
       "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn"
-    },
-    {
-      "added_at": "2025-10-23 23:00:18",
-      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 209182,
       "name": "FEELINGS ON SILENT (feat. Wale)",
       "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
+    },
+    {
+      "added_at": "2025-10-23 23:00:18",
+      "album": {
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn"
     },
     {
       "added_at": "2025-10-23 23:00:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-10-23 23:00:18",
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Blame U",
-      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
-    },
-    {
-      "added_at": "2025-10-23 23:00:18",
-      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 221700,
       "name": "He Loves Us Both (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
+    },
+    {
+      "added_at": "2025-10-23 23:00:18",
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
     },
     {
       "added_at": "2025-10-23 23:00:18",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-10-23 23:00:18",
       "album": {
-        "name": "For The Streets",
-        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
+        "name": "FEELUH",
+        "url": "https://open.spotify.com/album/0aR1lBG77LniGEnLJWfR5S"
       },
       "artists": [
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
         }
       ],
-      "duration_ms": 145605,
-      "name": "For The Streets",
-      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
+      "duration_ms": 120000,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7vQmu5FTPgnLeJDi14oJ9U"
     }
   ],
   "unique_name": "Certi: R&B",

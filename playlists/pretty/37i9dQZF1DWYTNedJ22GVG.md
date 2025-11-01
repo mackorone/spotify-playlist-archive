@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,591 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,650 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 74 | [Christmas Is Here](https://open.spotify.com/track/4yAEAiud4ZJ9fgBsx5yGzT) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [Elf Pets: A Fox Cub's Christmas Tale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59acbHHOQxoMVo31NZbIju) | 2:03 |
 | 75 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 |
 
-Snapshot ID: `AAAAAC6b2ybsMy7uL7yPWZrrkisYb0PF`
+Snapshot ID: `AAAAAEBnZR9m06sMibnc/lAxkmB6p823`

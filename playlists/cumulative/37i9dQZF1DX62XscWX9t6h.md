@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-233 songs - 16 hr 27 min
+234 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2022-04-14 | 2024-12-23 |
 | [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Hagata](https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp) | 4:04 | 2024-01-03 |  |
 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-10-20 |  |
-| [East Of Any Place](https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 2:10 | 2023-12-05 |  |
+| [East Of Any Place](https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 2:10 | 2023-12-05 | 2025-11-01 |
 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 | 2021-10-20 |  |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/0tR3iN3sdyxAHcP66cB68F) | 5:01 | 2022-02-18 | 2024-04-19 |
 | [El Alma y el Cuerpo](https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/3hmKL47fvTuB0pDQP45aY4) | 5:01 | 2022-02-18 |  |
@@ -110,6 +110,7 @@
 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 | 2024-04-30 |  |
 | [La Ruée](https://open.spotify.com/track/31WNmOPMuCiQG3dbRF1SKp) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Last Bloom](https://open.spotify.com/album/02Ry9p7negWeW2eowLlnDA) | 3:03 | 2025-01-29 |  |
 | [Lam Phu Thai \# 1](https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [Khun Narin's Electric Phin Band](https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S) | 5:57 | 2023-02-10 | 2025-03-27 |
+| [Lele Yane](https://open.spotify.com/track/0ft5jkeELw5jdq6NZ9Bmh5) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Irina Mikhailova](https://open.spotify.com/artist/2WJ3FV4yMhfoY9H5VOTscR) | [Up from the Dust](https://open.spotify.com/album/54RiFl146sDKcHQr5Poi58) | 6:15 | 2025-09-02 |  |
 | [Les Assassins](https://open.spotify.com/track/1ZNqgaLZfd5AUIYad8IsYF) | [Combo Daguerre](https://open.spotify.com/artist/5o5fwodeTwd5bEzG5mOj6F) | [Les Assassins](https://open.spotify.com/album/1Zu4xqanWGagE0TbMb7k9k) | 4:09 | 2024-07-05 | 2024-10-05 |
 | [Letter to the Martyrs](https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M) | [cacique'97](https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc) | [Letter to the Martyrs](https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5) | 4:14 | 2024-07-05 | 2025-10-05 |
 | [Lluvia](https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia](https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE) | 2:53 | 2021-10-20 | 2024-01-12 |

@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,065 songs - 1 day 22 hr 9 min
+1,066 songs - 1 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [Make It Up To You](https://open.spotify.com/track/4RODkN4UR4wHsQAxAZmdB3) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B) | [Make It Up To You](https://open.spotify.com/album/3mqqgH5xFQva15hTeR2i5R) | 2:32 | 2023-09-22 | 2024-01-28 |
 | [Make This Last](https://open.spotify.com/track/4tmj9VS29WKSq56ONqkjjs) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Make This Last](https://open.spotify.com/album/5dBWzddC9YrLlqRHUXjqXZ) | 2:10 | 2024-11-24 | 2025-01-05 |
 | [Make You Mine](https://open.spotify.com/track/4D2OiZB41uIbNCgNpDOLFD) | [Wavey](https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz) | [Make You Mine](https://open.spotify.com/album/0yzzqTBdTGa0aQn3GnMYpB) | 2:19 | 2023-09-22 | 2023-12-31 |
+| [Making Waves](https://open.spotify.com/track/5FKWFoyXLM9rrnp3RJWjV5) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Making Waves](https://open.spotify.com/album/6G3CNB1bzB8CsxS7DI1z6L) | 2:34 | 2025-10-31 |  |
 | [Mama Used To](https://open.spotify.com/track/5qJOLnTc9TNxumM0fJdW25) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Jan Aygün](https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe) | [Mama Used To](https://open.spotify.com/album/0VPuQl1rQDwYHlEzckmByP) | 2:58 | 2025-08-22 | 2025-09-20 |
 | [Marbles](https://open.spotify.com/track/2MH851u25cVnaTvzReLJlk) | [Rae](https://open.spotify.com/artist/30IgI1X3LgzrsTBCdEaJMU) | [Marbles](https://open.spotify.com/album/4ZhXRbVu1ltPminbzChJ82) | 1:53 | 2025-10-24 | 2025-10-26 |
 | [Marry You](https://open.spotify.com/track/2pywVlAMahngbt68zwH4jB) | [AZON](https://open.spotify.com/artist/544WMPyyDK7EK0Md3ZOPWI), [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Marry You](https://open.spotify.com/album/3WxSdaAKn4ilDWdiqRHptL) | 2:25 | 2025-02-23 |  |

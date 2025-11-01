@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2483714,
+  "num_followers": 2483773,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "RomCom",
-        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
       "artists": [
         {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 237485,
-      "name": "RomCom",
-      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+        "name": "RomCom",
+        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+      "duration_ms": 237485,
+      "name": "RomCom",
+      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Hirap Kalimutan",
-        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Hirap Kalimutan",
-      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Ikaw Lang Patutunguhan",
         "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 326896,
       "name": "Ikaw Lang Patutunguhan",
       "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
+        "name": "Hirap Kalimutan",
+        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Hirap Kalimutan",
+      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Dalangin",
-        "url": "https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 252162,
-      "name": "Dalangin",
-      "url": "https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 201806,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
+        "name": "Dalangin",
+        "url": "https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Dalangin",
+      "url": "https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "ikaw, ikaw, ikaw",
-        "url": "https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP"
-      },
-      "artists": [
-        {
-          "name": "ICEBOX",
-          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
-        },
-        {
-          "name": "Eliza Maturan",
-          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "ikaw, ikaw, ikaw",
-      "url": "https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Pauwi Nako",
         "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
+        "name": "ikaw, ikaw, ikaw",
+        "url": "https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        },
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "ikaw, ikaw, ikaw",
+      "url": "https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -767,18 +767,18 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Sa Wakas",
-        "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
       },
       "artists": [
         {
-          "name": "Sugarfree",
-          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv"
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
       "added_at": "2025-10-22 10:20:26",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
         "name": "Sinta",
         "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 316683,
       "name": "Sinta",
       "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
+        "name": "Sa Wakas",
+        "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
+      },
+      "artists": [
+        {
+          "name": "Sugarfree",
+          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv"
     },
     {
       "added_at": "2025-10-22 10:20:26",

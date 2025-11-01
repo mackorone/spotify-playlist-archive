@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1555,
+  "num_followers": 1554,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAADb3WjRxzVG9vnqI+vhCuWd",
+  "snapshot_id": "aQKqgAAAAAC4+mTpmiQxagqK6EfYEJB8",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Planet (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 140386,
-      "name": "The Ocean Returns The Favour - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 147160,
       "name": "The Whole of Humanity",
       "url": "https://open.spotify.com/track/701G9IaOwPcxA4mQgL7UJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 140386,
+      "name": "The Ocean Returns The Favour - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Planet (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "Mayflies - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/2dDUOibqp9olH44axVCIux"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 155306,
       "name": "This Is My Witness Statement",
       "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "Mayflies - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/2dDUOibqp9olH44axVCIux"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Planet (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "An Ingenious Technique - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gravity (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 102920,
       "name": "Soyuz",
       "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "An Ingenious Technique - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 232306,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO"
+      "duration_ms": 190840,
+      "name": "My Beloved Spake",
+      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Distance (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 104760,
-      "name": "Keep Talking",
-      "url": "https://open.spotify.com/track/4MZh8DuykJ5lH1cuk9w0wu"
+      "duration_ms": 103546,
+      "name": "A Good Choice",
+      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 190840,
-      "name": "My Beloved Spake",
-      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+      "duration_ms": 232306,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "Fueled Up and Headed South",
+      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joy (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 84733,
       "name": "First Of Many",
       "url": "https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Long Distance (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Webbing",
-      "url": "https://open.spotify.com/track/69h7Qz5Xezti2k4JxvwGK8"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+        "name": "Long Distance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
       },
       "artists": [
         {
@@ -664,57 +664,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Seers of the Sky",
-      "url": "https://open.spotify.com/track/4K4EEp5SkLMBjri9HScOqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 103546,
-      "name": "A Good Choice",
-      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "Fueled Up and Headed South",
-      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 139893,
-      "name": "We Must Rewild The World",
-      "url": "https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd"
+      "duration_ms": 104760,
+      "name": "Keep Talking",
+      "url": "https://open.spotify.com/track/4MZh8DuykJ5lH1cuk9w0wu"
     },
     {
       "added_at": null,
@@ -735,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
       "artists": [
         {
@@ -744,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 103466,
-      "name": "Remember This Moment",
-      "url": "https://open.spotify.com/track/5HAc4BOCh0qOMsKNUS017I"
+      "duration_ms": 139893,
+      "name": "We Must Rewild The World",
+      "url": "https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd"
     },
     {
       "added_at": null,
@@ -775,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Eternal Sky",
-        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
+        "name": "Long Distance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
       },
       "artists": [
         {
@@ -784,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 281213,
-      "name": "Our Eternal Sky",
-      "url": "https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9"
+      "duration_ms": 176480,
+      "name": "Webbing",
+      "url": "https://open.spotify.com/track/69h7Qz5Xezti2k4JxvwGK8"
     },
     {
       "added_at": null,
@@ -800,9 +752,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 313640,
-      "name": "Out of the Emptiness",
-      "url": "https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5"
+      "duration_ms": 180826,
+      "name": "Seers of the Sky",
+      "url": "https://open.spotify.com/track/4K4EEp5SkLMBjri9HScOqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 103466,
+      "name": "Remember This Moment",
+      "url": "https://open.spotify.com/track/5HAc4BOCh0qOMsKNUS017I"
     },
     {
       "added_at": null,
@@ -819,6 +787,38 @@
       "duration_ms": 102080,
       "name": "Who Are You Greeting My Love?",
       "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frozen Worlds (Episode 2 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 81145,
+      "name": "How Much Longer",
+      "url": "https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 313640,
+      "name": "Out of the Emptiness",
+      "url": "https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5"
     }
   ],
   "unique_name": "This Is Steven Price",

@@ -4,12 +4,13 @@
 
 > It's giving those vibes\. Cover: Shenseea
 
-168 songs - 7 hr 44 min
+169 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+31621301535, it’s me!](https://open.spotify.com/track/1TTLUl9soGs2aQXKcWgKpO) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [+31621301535, it’s me!](https://open.spotify.com/album/2Q8BsPhS5JMCvvpN1SXkNS) | 2:16 | 2025-07-17 | 2025-08-05 |
-| [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 | 2025-07-17 |  |
+| [1+1 \(Outside\)](https://open.spotify.com/track/2MPWNU7QkwmBNAoHdYLYfW) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [1+1 \(Outside\)](https://open.spotify.com/album/0W9yMPmPSIwvjKDv5jPPPJ) | 2:38 | 2025-07-17 | 2025-11-01 |
+| [10/10](https://open.spotify.com/track/57QRmivEkTh1jC6S3rt4u4) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [deims deims deims](https://open.spotify.com/album/3KMu63c6EQF0bS6ugJZuZA) | 2:54 | 2025-10-31 |  |
 | [4 Life](https://open.spotify.com/track/3FgyRZdZPuKR2Uyu0ovhZ5) | [Rocher](https://open.spotify.com/artist/2gVPi9fTLuumDLlkRn2G5j) | [4 Life](https://open.spotify.com/album/5NCtJqXYAZKKsIqVllMcy6) | 2:38 | 2025-07-17 |  |
 | [4, 5 Shots](https://open.spotify.com/track/2eeKFKWZLnoQQX886943f1) | [Nerra](https://open.spotify.com/artist/3pshrBCH7nXMlaUVtP4zpz) | [4, 5 Shots](https://open.spotify.com/album/7enM3yCOBeuT89LUnKsdX4) | 2:30 | 2025-09-26 |  |
 | [45 Degrees](https://open.spotify.com/track/1a4X5tScmXNc7lNffSuVnt) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [45 Degrees](https://open.spotify.com/album/0WFuXgv0uFx8JUhICNe8N5) | 2:20 | 2025-07-17 | 2025-10-17 |

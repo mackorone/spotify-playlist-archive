@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-544 songs - 1 day 1 hr 54 min
+545 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/2SRzCRpMyz6YaA9gSIXhZd) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo \- Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 2:46 | 2024-01-29 | 2024-08-19 |
 | [Figurinha Repetida \- Ao Vivo](https://open.spotify.com/track/4fQbFGnbCLQJO9HCUHJtp5) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/15xpWd7MpVbVtDsywlPgZC) | 2:46 | 2024-08-18 | 2025-03-30 |
 | [FLORES VIRTUAIS \(Ao Vivo\)](https://open.spotify.com/track/5eF3qaXqUtFKcVTOBSIiyx) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:16 | 2024-01-29 |  |
+| [Fora da Casinha](https://open.spotify.com/track/0u88kKTK3FOIQGLPfnKFKX) | [Iury Flores](https://open.spotify.com/artist/4cPlmIA5uZhDVIOwKXQXRd) | [Iury Flores](https://open.spotify.com/album/34ajoP6G7NZHukMNEi4ByB) | 2:36 | 2025-10-31 |  |
 | [Fora da Casinha](https://open.spotify.com/track/2aLv1tyf4IFw1rzn26urEO) | [Iury Flores](https://open.spotify.com/artist/4cPlmIA5uZhDVIOwKXQXRd) | [Iury Flores](https://open.spotify.com/album/2g29C59QfSE52qRru3KtN9) | 2:36 | 2025-06-27 | 2025-07-10 |
 | [Fora da Casinha \- Ao Vivo](https://open.spotify.com/track/4i9ck5zMZd6Lnwt5kPouxZ) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Bem Sertanejo \- O Show \(Ao Vivo\)](https://open.spotify.com/album/1n3HHST6E3Tmgt8gzy7waM) | 2:29 | 2024-01-29 | 2025-06-28 |
 | [Forte Candidata \- Ao Vivo](https://open.spotify.com/track/0ArhfmiDFGqmEZE33xXH1S) | [Lipe & Lyan](https://open.spotify.com/artist/0V8z8kSUX83Zq7KKaqEJxD) | [Daqui pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/0ZGqMMjqP184TbUgVRNRfK) | 2:35 | 2024-01-29 |  |

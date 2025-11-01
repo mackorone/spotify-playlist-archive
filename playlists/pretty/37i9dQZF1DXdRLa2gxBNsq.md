@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non servium
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,132 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,141 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 58 | [Nuestro Barrio](https://open.spotify.com/track/2XvTRuy9b96cMtO96fvF3w) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Nuestro Barrio](https://open.spotify.com/album/0dEZ5OQcA4ifaNrcJA5rCD) | 3:34 |
 | 59 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 |
 | 60 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
-| 61 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
-| 62 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
+| 61 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
+| 62 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 | 63 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 64 | [Ya Estoy Muerto](https://open.spotify.com/track/6jDOGFu4JAwSAR70L8fssV) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Ya Estoy Muerto](https://open.spotify.com/album/4y7bbLYsC53jnibdfthGCA) | 2:12 |
 | 65 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 70 | [El Trabajo No Dignifica](https://open.spotify.com/track/7jbvJcawfq6S8dKY4WoMiP) | [Medalla](https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet) | [Música Máquina](https://open.spotify.com/album/6I6dbNqrD5WISOWiXfuCU7) | 4:00 |
 | 71 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
 | 72 | [Presa](https://open.spotify.com/track/1D1W1kKQjb1q76FZfUgsFf) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l) | [Presa](https://open.spotify.com/album/6m1XbIXmuClVFa4lBCMlve) | 3:12 |
-| 73 | [El Baile de los que Sobran](https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [El Baile de los que Sobran](https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r) | 4:34 |
+| 73 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
 | 74 | [Una y Nos Vamos \- Versión 2024](https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S), [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy), [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Una y Nos Vamos \(Versión 2024\)](https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK) | 3:40 |
-| 75 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
+| 75 | [El Baile de los que Sobran](https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [El Baile de los que Sobran](https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r) | 4:34 |
 | 76 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 77 | [Las 13:12](https://open.spotify.com/track/5O6D1ZUqffHMLgzlQsVbJC) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [...Y Una Mierda](https://open.spotify.com/album/7HstxEug5UmMcjngQLblJj) | 2:37 |
 | 78 | [Camino por las Calles](https://open.spotify.com/track/0NmsHoexCCAUxeQ2HtS0dO) | [Espasmódicos](https://open.spotify.com/artist/0DkaMx7gQxsi5Lt6sZwX0l) | [Canciones Olvidadas](https://open.spotify.com/album/1yudE4YRDDXux4L0NOlZtn) | 3:04 |

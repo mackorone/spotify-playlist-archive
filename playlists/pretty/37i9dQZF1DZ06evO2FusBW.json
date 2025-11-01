@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10999,
+  "num_followers": 11002,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAD1nRt80r6ObxHWpSNwSKpl",
+  "snapshot_id": "aQKqgAAAAABJCH7R0gkwfiNveqXXk3JL",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Human Compassion",
-      "url": "https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx"
+      "duration_ms": 167880,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
+      "duration_ms": 202105,
+      "name": "Human Compassion",
+      "url": "https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 274458,
-      "name": "SAMADHI",
-      "url": "https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano 17",
-        "url": "https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -616,25 +600,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 287906,
-      "name": "Piano 17",
-      "url": "https://open.spotify.com/track/4cswtTsteO7Rmp0OJcgXiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM"
+      "duration_ms": 274458,
+      "name": "SAMADHI",
+      "url": "https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8"
     },
     {
       "added_at": null,
@@ -655,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -664,9 +632,25 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 153137,
-      "name": "Evolving Memories",
-      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
+      "duration_ms": 193133,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano 17",
+        "url": "https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Piano 17",
+      "url": "https://open.spotify.com/track/4cswtTsteO7Rmp0OJcgXiB"
     },
     {
       "added_at": null,

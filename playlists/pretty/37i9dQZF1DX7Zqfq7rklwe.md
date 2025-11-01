@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇 Kannessa Ice Nine Kills.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,638 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,636 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 74 | [love u](https://open.spotify.com/track/71TlsrOr3eHZgdDDsNjOhv) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [DEATHMATCH](https://open.spotify.com/album/1KzhjA47EIY2rX2WjKpMBR) | 3:21 |
 | 75 | [Enter The Behelit](https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Enter The Behelit](https://open.spotify.com/album/6CfAClVnQ6BS7LLA7CNMWo) | 3:47 |
 
-Snapshot ID: `AAAAALbFKarqtX3DbGJvAVmVaN9BBFJ6`
+Snapshot ID: `AAAAAB+DICe3+bsEBGPzlLwNGqsuBNbb`

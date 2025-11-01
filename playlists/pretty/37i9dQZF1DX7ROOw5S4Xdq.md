@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,299 likes - 47 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,585 likes - 47 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 42 | [Eles Não Entendem \(Ao Vivo\)](https://open.spotify.com/track/6GJN0PrTo9wjtxFOBbGRyQ) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Eles Não Entendem \(Ao Vivo\)](https://open.spotify.com/album/3UVjJoEfpW7bV2MFmQl0nN) | 4:29 |
 | 43 | [Cuida De Mim \- Live Acoustic](https://open.spotify.com/track/4toTR7CzmhgwbcmJy8sQfT) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Cuida De Mim \(Live Acoustic\)](https://open.spotify.com/album/3RU0oFwx2KjOLZwOXG9KfP) | 4:15 |
 | 44 | [Bálsamo](https://open.spotify.com/track/3KP6KcWUog2v3tsExAFQrG) | [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH) | [Bálsamo](https://open.spotify.com/album/5Hk3BS7QC0P8fJUKinS18Y) | 4:58 |
-| 45 | [BAILE DE MÁSCARAS](https://open.spotify.com/track/6SHC773RxGrSvTttmvhjXj) | [Gui Neris](https://open.spotify.com/artist/3b0kljAJUuDkWnCg12DGKo) | [](https://open.spotify.com/album/null) | 2:36 |
+| 45 | [BAILE DE MÁSCARAS](https://open.spotify.com/track/6SHC773RxGrSvTttmvhjXj) | [Gui Neris](https://open.spotify.com/artist/3b0kljAJUuDkWnCg12DGKo) | [SAI DO CHÃO](https://open.spotify.com/album/50U61DNRIMJDFnB9mpyaoz) | 2:36 |
 | 46 | [Bondade de Deus](https://open.spotify.com/track/4orJO7o1HhzFeyiy80RBxj) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Bondade de Deus](https://open.spotify.com/album/3YIGfZ6NpaUIMALJrSmf3Y) | 4:06 |
 | 47 | [Enquanto Você Louva](https://open.spotify.com/track/3agt6LveUaDsbSW6Hyjpvf) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI) | [Enquanto Você Louva](https://open.spotify.com/album/2cbQ8Jpok28DQfkn5SNEbS) | 5:16 |
 

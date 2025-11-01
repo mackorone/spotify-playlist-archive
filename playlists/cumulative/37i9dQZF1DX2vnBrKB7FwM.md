@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Ali Aka Mind
 
-151 songs - 8 hr 23 min
+152 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,12 +137,13 @@
 | [Sosa](https://open.spotify.com/track/2ydOWzGxQa50EMmo0wyDXK) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Sosa](https://open.spotify.com/album/4T8OD9FrYA6EqJJqqfB77K) | 2:49 | 2022-02-25 | 2023-11-25 |
 | [Soulmate](https://open.spotify.com/track/2Q6wN4JGESquKaJn3lnAix) | [The Negro Tapes](https://open.spotify.com/artist/40xzVnQCJdpsXjcNZRoAi4) | [Soulmate](https://open.spotify.com/album/34qyqrDSwLu4Z1xtPu7vtU) | 3:19 | 2023-11-24 |  |
 | [Super Natural](https://open.spotify.com/track/5WpsDV7tkMlTtIvRqOB8Bo) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Sapch Beats](https://open.spotify.com/artist/64g7UrnRO9X5EZysGj4OdQ) | [Medallas de Oro](https://open.spotify.com/album/4QxuDcSbR9GGF9dKg1w2GN) | 3:05 | 2024-11-29 |  |
-| [Take It Easy](https://open.spotify.com/track/5AlT85aYdhGZu212LSLB8t) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Take It Easy](https://open.spotify.com/album/3nOR8swBmPBO9f1USrjxp2) | 3:21 | 2022-02-25 |  |
+| [Take It Easy](https://open.spotify.com/track/5AlT85aYdhGZu212LSLB8t) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Take It Easy](https://open.spotify.com/album/3nOR8swBmPBO9f1USrjxp2) | 3:21 | 2022-02-25 | 2025-11-01 |
 | [Tampoco](https://open.spotify.com/track/0daV7ewqqgPfO7ZWjAlm2p) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 4:22 | 2025-07-04 |  |
 | [Tararea](https://open.spotify.com/track/0Go1Z1pGPbCGv1dADfSbLn) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/6PpSdpOYFAsR81W6X3SrbT) | 3:19 | 2022-02-25 |  |
 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 | 2022-07-15 | 2024-04-19 |
 | [Taylor Made](https://open.spotify.com/track/5FnT5Jtn9WKrZqGAkkKxvi) | [El Kalvo](https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v), [Hi\-Kymon](https://open.spotify.com/artist/16WCvOujBHZJ3jKoLRpWKb), [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa) | [Taylor Made](https://open.spotify.com/album/0zCaVVJMvOS2d2F2NfTXYP) | 3:48 | 2024-03-01 | 2024-08-22 |
 | [Tickete$](https://open.spotify.com/track/458EoGLFOBxgHH8NqPRoN0) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Tickete$](https://open.spotify.com/album/3ajTkwZ9wCc9hcbxxwD713) | 3:15 | 2022-12-16 |  |
+| [Tiempos de Sequía](https://open.spotify.com/track/47KE9G86rxB7qR7leqWEpo) | [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Maco Maat](https://open.spotify.com/artist/29W1vGuAmmxv2FhBDxmCg9) | [La Ausencia del Descanso](https://open.spotify.com/album/6AX2fPHjtS3QvlxCS8vCAq) | 3:04 | 2025-10-31 |  |
 | [Til' I Die](https://open.spotify.com/track/3qIbuE2eWFz5TJaahCnWBd) | [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB), [Noiseferatu](https://open.spotify.com/artist/2Y3XKZXXGA7qPFrOjJqWgV) | [Til' I Die](https://open.spotify.com/album/2HJ6jIrU5iLR3wPyVUGzuE) | 3:31 | 2024-12-13 |  |
 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 | 2023-02-17 | 2024-04-19 |
 | [Todo el Tiempo](https://open.spotify.com/track/4ltvep768r5VSEJYISG1YE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo el Tiempo](https://open.spotify.com/album/06PiZBxNVFgkm1DKv634wb) | 2:43 | 2022-02-25 |  |

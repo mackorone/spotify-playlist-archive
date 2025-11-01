@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-752 songs - 1 day 17 hr 48 min
+754 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Feel Alive](https://open.spotify.com/track/3BPwks41p3zH0tbvNDlVLZ) | [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN) | [Feel Alive](https://open.spotify.com/album/3KPCqamca60JphtBvKgemS) | 4:12 | 2025-09-12 |  |
 | [feel like \(ooh\)](https://open.spotify.com/track/4esD8qRvKpyoTjiyW51nq6) | [saint hills](https://open.spotify.com/artist/6FSAMUtb3F7z09jW3tFtGA) | [feel like \(ooh\)](https://open.spotify.com/album/6ptgh2ZV4XfaYxsJ7SLb65) | 2:15 | 2025-10-03 |  |
 | [Feel Like Home](https://open.spotify.com/track/6Y6R1SFcDqJmWFPyTwYZAz) | [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi), [Rodrigo Bravo](https://open.spotify.com/artist/62U2oqDvxbMDsGzlEbUB0z), [Flauna](https://open.spotify.com/artist/6o1VDBvE2nrQKUbuuTZeRs) | [Feel Like Home](https://open.spotify.com/album/3AAh7wwNHscFtAOsXlBKAk) | 2:22 | 2025-03-07 | 2025-06-13 |
+| [Feel the Rhythm](https://open.spotify.com/track/7mnmhbOCsqpYnJg8en0j4D) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Feel the Rhythm](https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl) | 3:16 | 2025-10-31 |  |
 | [Feel Your Touch](https://open.spotify.com/track/4aC4m2wM7wd1uwY8XtrXq2) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [Feel Your Touch](https://open.spotify.com/album/4Wmge8kAedu9UW80MC1TwL) | 3:58 | 2024-03-08 | 2024-06-15 |
 | [Feelings](https://open.spotify.com/track/3PwucvWWLM2ktvzR8mO1ET) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [Drerrera](https://open.spotify.com/artist/6Xp8myCVViMC27jPhl72ow), [Zoldan](https://open.spotify.com/artist/5qUFr89r11NBIg810d7wsU) | [Feelings](https://open.spotify.com/album/7BAa2H69YONlEsploamOHn) | 3:02 | 2024-06-14 | 2024-09-06 |
 | [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-19 | 2025-10-10 |
@@ -454,6 +455,7 @@
 | [Midnight Dancers](https://open.spotify.com/track/0N7zOoqZ3ggwplnLtaRvf4) | [Afonso Caravaggio](https://open.spotify.com/artist/5DlbjExugVUqa7ZTNMxsWx), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [The Caterings](https://open.spotify.com/artist/3pivpIiybXSIc1Zabp72Lb) | [Alcohol](https://open.spotify.com/album/50MTJgvO3s9vJeWMy4iEpU) | 5:08 | 2025-10-10 |  |
 | [Milango \- Curol Remix](https://open.spotify.com/track/6tj119TR26rB6u7f4H3hiD) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Milango \(Curol Remix\)](https://open.spotify.com/album/3TBV6T0fz209gc4qOyPTNf) | 4:04 | 2025-04-01 | 2025-07-12 |
 | [Million Good Reasons](https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Million Good Reasons](https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT) | 2:37 | 2025-02-07 | 2025-05-10 |
+| [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 | 2025-10-31 |  |
 | [Mind](https://open.spotify.com/track/3O0TxAxm3jvtgfri7hmtIl) | [Volyri](https://open.spotify.com/artist/7j1fkOH24S29ajq83j0V3o) | [Mind](https://open.spotify.com/album/1D0QADpEQbBobMsWg13Dp7) | 2:58 | 2024-05-03 | 2024-07-19 |
 | [Mirage](https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Mirage](https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU) | 4:39 | 2024-09-06 | 2024-12-21 |
 | [Missed Call](https://open.spotify.com/track/1Hf7IrRd4vpfARg7iCIorY) | [Zatto](https://open.spotify.com/artist/7FPd0OFezqEvp5L0FJtcHN), [Chemical Disco](https://open.spotify.com/artist/4maPOgU5vs4qwlVrd5Q5Ha) | [Missed Call](https://open.spotify.com/album/7dsbBBWNAGq0MM0wlUAxi5) | 3:34 | 2025-10-03 |  |

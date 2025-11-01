@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 391 songs - 20 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 478 likes - 391 songs - 20 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,11 +132,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 122 | [You Don't Remind Me](https://open.spotify.com/track/0myKUjAqkq7ChI1Fm8hd9c) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:49 |
 | 123 | [Live and Let Live \(2023 Remastered\)](https://open.spotify.com/track/6rCPBH7r58GrgiKH8Rsn8m) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 1:55 |
 | 124 | [Looking at You](https://open.spotify.com/track/1KS9Jpjg6vDyNUsq6AYPKs) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Sings the Songs of George & Ira Gershwin & Cole Porter](https://open.spotify.com/album/12h9mMJlUqT7OIK7RdeRlX) | 3:25 |
-| 125 | [Ça, C'est l'Amour](https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:23 |
-| 126 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
-| 127 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 |
-| 128 | [High Heeled Shoes](https://open.spotify.com/track/0MVu6AEIq4AxfiiXHaTLpo) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:20 |
-| 129 | [Josephine](https://open.spotify.com/track/31JEH352ooSfGs6Q5sd4q7) | [Joe Carran](https://open.spotify.com/artist/5x6wMkB7SEywlaTUMqWOX9) | [Guitar Hits Chris Rea](https://open.spotify.com/album/3AFTvBJmjXXbvKqwC0o0v9) | 4:32 |
+| 125 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 |
+| 126 | [Ça, C'est l'Amour](https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0) | [John Barrowman](https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ) | [John Barrowman Swings Cole Porter](https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k) | 2:23 |
+| 127 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
+| 128 | [Josephine](https://open.spotify.com/track/31JEH352ooSfGs6Q5sd4q7) | [Joe Carran](https://open.spotify.com/artist/5x6wMkB7SEywlaTUMqWOX9) | [Guitar Hits Chris Rea](https://open.spotify.com/album/3AFTvBJmjXXbvKqwC0o0v9) | 4:32 |
+| 129 | [High Heeled Shoes](https://open.spotify.com/track/0MVu6AEIq4AxfiiXHaTLpo) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:20 |
 | 130 | [After You](https://open.spotify.com/track/7eAutsdYIf4BfDk8xlDeIX) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:04 |
 | 131 | [Silk Stockings](https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [A Man and His Trombone](https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI) | 2:48 |
 | 132 | [Why Don't We Try Staying Home?](https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 4:26 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 390 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 391 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcARvgAAAAA5nXH6wupMa/bfAq1MAYN5`
+Snapshot ID: `AcAXkAAAAAC2+tTVrsAKokCWAbwX3E8s`

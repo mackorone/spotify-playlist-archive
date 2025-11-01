@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Brian Eno, Beatie Wolfe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,632 likes - 101 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,061 likes - 101 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 100 | [Santiago \- Reworked by Leo Einaudi](https://open.spotify.com/track/3YfkvP7WnPPjRUhWVtN6i9) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Einaudi Vs Einaudi](https://open.spotify.com/album/31TLNzCd4zM76YPulSI5m9) | 4:51 |
 | 101 | [Suosan](https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:38 |
 
-Snapshot ID: `AAAAALvBN4fQuDKcXH3YDxJZp7veKp5h`
+Snapshot ID: `AAAAAGXl5DwSXIrhAjGQ2iXrB3niIJo3`

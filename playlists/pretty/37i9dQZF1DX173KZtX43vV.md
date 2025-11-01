@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: Chy Cartier, Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,804 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,818 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Here We Go Again](https://open.spotify.com/track/7jXIpGIVk3M80zg1oj0sXT) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [2 EASY](https://open.spotify.com/album/1KYDfAVps1egxt3TU6jShb) | 2:20 |
 | 2 | [Streets A Lie](https://open.spotify.com/track/30HhS6WYfKWqkZJj43Itce) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Streets A Lie](https://open.spotify.com/album/3XZWwo05cC6xrEHzqs1S5H) | 2:49 |
-| 3 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [](https://open.spotify.com/album/null) | 2:43 |
+| 3 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [A Fine African Man](https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d) | 2:43 |
 | 4 | [Performante Pain](https://open.spotify.com/track/2CFOMeQAeajRPnYKOBu6Zy) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Performante Pain](https://open.spotify.com/album/5qktduaeZekiMaNegeRA3z) | 3:02 |
 | 5 | [Century](https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Century](https://open.spotify.com/album/3iEInaFAamSTND6sovehX7) | 1:49 |
 | 6 | [Wait For Your Love](https://open.spotify.com/track/6Xjzd1MocclDoo2jcKBdK9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Maison Rouge](https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I) | 3:07 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 8 | [ghosted](https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted](https://open.spotify.com/album/6NNQuKvbvvTzPYsZRwn1Ma) | 2:27 |
 | 9 | [Family Ties](https://open.spotify.com/track/0kD9Bgq1sCpRxVRHkxTh0i) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Family Ties](https://open.spotify.com/album/5BbXgdAAW8Z6BdrKnkQFJY) | 2:41 |
 | 10 | [wait and see](https://open.spotify.com/track/6CxPSR9ccJZHg2HOU9Ze1P) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [wait and see](https://open.spotify.com/album/2be7zuWtmkPfHcZq5MfghS) | 2:11 |
-| 11 | [eternity in grace](https://open.spotify.com/track/6ul3fmUSaH8zbeVMVxmTEk) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [](https://open.spotify.com/album/null) | 5:09 |
+| 11 | [eternity in grace](https://open.spotify.com/track/6ul3fmUSaH8zbeVMVxmTEk) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [BLACKS LAW](https://open.spotify.com/album/3JG5TTWwvr0IEtb5OyKxWe) | 5:09 |
 | 12 | [Unthinkable](https://open.spotify.com/track/7fWAwvn2vJOyIpGAgYOMD9) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [Unthinkable](https://open.spotify.com/album/51XAEq8E4ktdcUPELdcdeC) | 1:51 |
 | 13 | [THE SCARLET WOMAN](https://open.spotify.com/track/2MMhVXYsFQ47WG60258IQ3) | [JAY10!](https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S) | [THE SCARLET WOMAN](https://open.spotify.com/album/1xWBUfptraCwcRQCdDo85T) | 2:34 |
 | 14 | [Feel Like](https://open.spotify.com/track/2CXQ1Q2f9YkpKeHoIbsdi1) | [Layyah](https://open.spotify.com/artist/4dPLaOXT8fXdg8X0KSIMXF) | [Feel Like](https://open.spotify.com/album/64EqVfPidWyGi8Kz5EJ2Fq) | 2:42 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 168035,
+  "num_followers": 168044,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAAGkS2b8vvbA5ayuxTeodF",
+  "snapshot_id": "aQKqgAAAAACq7GM3vndVItSQKDPgbHSq",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 259048,
-      "name": "We Go To War",
-      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hydra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 287773,
       "name": "Covered by Roses",
       "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 259048,
+      "name": "We Go To War",
+      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 333866,
-      "name": "The Howling",
-      "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hydra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 293240,
       "name": "Dangerous (feat. Howard Jones)",
       "url": "https://open.spotify.com/track/3BYtn1zK991rGwWo5TW9e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 333866,
+      "name": "The Howling",
+      "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
       "artists": [
         {
@@ -672,25 +672,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Cyanide Love",
-      "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
+      "duration_ms": 253506,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
     },
     {
       "added_at": null,
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
       "artists": [
         {
@@ -720,9 +704,25 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 253506,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
+      "duration_ms": 268373,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Cyanide Love",
+      "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
       "duration_ms": 213000,
       "name": "The Fire Within",
       "url": "https://open.spotify.com/track/21rY9mKlKWRD6aHsdT5Pqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Bleed Out",
-      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Bleed Out",
+      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Fool's Parade",
         "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 293957,
-      "name": "Worth Dying For",
-      "url": "https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 221560,
       "name": "Don't Pray For Me",
       "url": "https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 293957,
+      "name": "Worth Dying For",
+      "url": "https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM"
     },
     {
       "added_at": null,

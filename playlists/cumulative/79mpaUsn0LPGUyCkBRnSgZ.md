@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-952 songs - 2 day 15 hr 0 min
+953 songs - 2 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [Plastic 100°C](https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 5:16 | 2022-05-19 |  |
 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 | 2024-10-19 | 2024-12-02 |
 | [Pleasant Street Bossa](https://open.spotify.com/track/6qtkkHYgd5HcQepVTksKQp) | [Falling](https://open.spotify.com/artist/0o7xj8ZxvJJqUTgodQa9nW) | [Out of Sight](https://open.spotify.com/album/6SmxgbgTOJJfi7rfXE4vOy) | 1:10 | 2024-01-18 |  |
-| [Please Don't Let Me Be So Understood](https://open.spotify.com/track/4VIAvJKD31aODBCXiwUItg) | [Tweedy](https://open.spotify.com/artist/3F4PBcfdeFdmxjRPS2UdMl), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Sukierae](https://open.spotify.com/album/0Y2C0vkDk1gxQjIr2IbFte) | 1:33 | 2025-10-27 |  |
+| [Please Don't Let Me Be So Understood](https://open.spotify.com/track/4VIAvJKD31aODBCXiwUItg) | [Tweedy](https://open.spotify.com/artist/3F4PBcfdeFdmxjRPS2UdMl), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Sukierae](https://open.spotify.com/album/0Y2C0vkDk1gxQjIr2IbFte) | 1:32 | 2025-10-27 |  |
 | [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 | 2024-08-16 | 2024-08-20 |
 | [Poem \(1\)](https://open.spotify.com/track/0GWFbxN3SyghTvvFu84rTW) | [Bruno Pernadas](https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd) | [Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them](https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT) | 0:27 | 2024-03-17 | 2024-03-25 |
 | [Politik](https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:18 | 2024-01-08 |  |
@@ -960,5 +960,6 @@
 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 | 2024-01-29 |  |
 | [★](https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 9:57 | 2024-01-18 |  |
 | [正しい街](https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:52 | 2024-07-02 |  |
+| [给抱着盒子的姑娘](https://open.spotify.com/track/5kpqZy4npLRTd8AEjkV6YH) | [宋冬野](https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo) | [安和桥北](https://open.spotify.com/album/4MTEs0gR5jeInhPAu5aZkD) | 2:05 | 2025-10-31 |  |
 
 \*This playlist was first scraped on 2023-03-31. Prior content cannot be recovered.

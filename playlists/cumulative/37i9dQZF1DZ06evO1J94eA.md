@@ -4,12 +4,13 @@
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-57 songs - 5 hr 58 min
+58 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:36 | 2025-07-20 |  |
 | [A Case Of You \- Short Version](https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Jazz Volume: Herbie Hancock](https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z) | 7:36 | 2025-07-20 |  |
+| [Actual Proof](https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Thrust](https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k) | 9:39 | 2025-11-01 |  |
 | [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 | 2025-07-20 |  |
 | [And What If I Don't \- Remastered](https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Cantaloupe Island](https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ) | 6:35 | 2025-07-20 |  |
 | [Bal d’âme](https://open.spotify.com/track/3UQQNQMvK8LG2Edu3bLHKB) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Street of Minarets](https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx) | 4:19 | 2025-07-20 |  |
@@ -33,7 +34,7 @@
 | [Maiden Voyage \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/0T1EaGm6b9eM7xBf4F1hlc) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 7:57 | 2025-07-20 |  |
 | [Manhattan \(Island Of Lights And Love\)](https://open.spotify.com/track/0aZj4OIGvUxzEz7KCWMATa) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 4:05 | 2025-08-03 | 2025-08-16 |
 | [MOON \(feat\. Herbie Hancock\)](https://open.spotify.com/track/10UmWJn4BXev5y6uj1VwMl) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 4:31 | 2025-07-20 |  |
-| [Motor Mouth](https://open.spotify.com/track/5o52ef5vqoDQ2BQz8BEVWP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lite Me Up](https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE) | 3:58 | 2025-07-20 |  |
+| [Motor Mouth](https://open.spotify.com/track/5o52ef5vqoDQ2BQz8BEVWP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lite Me Up](https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE) | 3:58 | 2025-07-20 | 2025-11-01 |
 | [My Funny Valentine \(feat\. Herbie Hancock\)](https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Funny Valentine \(feat\. Herbie Hancock\)](https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y) | 4:53 | 2025-07-20 |  |
 | [My Man's Gone Now](https://open.spotify.com/track/02Ma3Y0oxEfBDEfJj4EhMg) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 1:55 | 2025-07-20 | 2025-10-09 |
 | [Oh! Oh! Here He Comes](https://open.spotify.com/track/01LokOj8KafA7BgBXGIelI) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 4:08 | 2025-07-20 |  |

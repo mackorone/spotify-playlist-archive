@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-520 songs - 1 day 4 hr 58 min
+523 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Growin' Up and Gettin' Old](https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up and Gettin' Old](https://open.spotify.com/album/2tyF3XymQtvSySp5osmr6d) | 3:53 | 2023-11-03 | 2024-04-27 |
 | [Halloween](https://open.spotify.com/track/5pNFOG7WqeKscjCPm580Nr) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Halloween](https://open.spotify.com/album/3Jr0OZFsUDtFAVAwb79WFR) | 3:25 | 2023-11-03 | 2024-04-13 |
 | [Hangover At My Place](https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Hangover At My Place](https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD) | 3:16 | 2024-09-13 | 2024-11-23 |
+| [Happen To Me \(feat\. Jonas Brothers\)](https://open.spotify.com/track/6XxFrC6s8An9ZZ52uAN4AV) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happen To Me \(feat\. Jonas Brothers\)](https://open.spotify.com/album/5N1V6vJk94GiTmjuM5ZXID) | 3:03 | 2025-10-31 |  |
 | [Happiest I've Ever Been](https://open.spotify.com/track/17FbXhFbZnBCe33IlQfqju) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [Happiest I've Ever Been](https://open.spotify.com/album/2x4EF8bVcKFqhLuJcP0hhJ) | 2:56 | 2025-01-31 | 2025-03-22 |
 | [Happiest I've Ever Been \- Spanglish Version](https://open.spotify.com/track/1j0LnJ4yaE1QrAWX3MDVtD) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [Happiest I've Ever Been \(Spanglish Version\)](https://open.spotify.com/album/5kQib3n4H6kwDruJAuEAE6) | 2:56 | 2025-01-10 | 2025-03-15 |
 | [Hard Luck & Circumstances](https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Hard Luck & Circumstances](https://open.spotify.com/album/2feHLj9w7BcThwGsmBFO1E) | 3:04 | 2024-03-08 | 2024-06-08 |
@@ -448,12 +449,14 @@
 | [THE END](https://open.spotify.com/track/1u8esuXKqxbKsleihNp7wo) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS \(420CC EDITION\)](https://open.spotify.com/album/0tVxMqyBNyclpMLDqww3Yr) | 3:24 | 2024-10-18 | 2025-01-25 |
 | [The Greys Between](https://open.spotify.com/track/0dpPQBxFuXkSQuFHVF6rq4) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Norther](https://open.spotify.com/album/3smnnShnaqQxBcvmDqvGPO) | 4:13 | 2024-03-01 | 2024-06-08 |
 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 | 2023-11-03 | 2024-03-16 |
+| [The Longer You Hold On](https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [The Longer You Hold On](https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv) | 2:52 | 2025-10-31 |  |
 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 | 2024-06-07 | 2024-12-07 |
 | [The Other Side](https://open.spotify.com/track/4zVk7LX3BIMnz2ybAParAq) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [The Other Side](https://open.spotify.com/album/1xztMV35hXfqn4JX9Yi727) | 4:32 | 2025-09-05 |  |
 | [The Party Is Over](https://open.spotify.com/track/1bsoDnyg91OQzq6zPEGpFS) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [The Party Is Over](https://open.spotify.com/album/2Ggqw5exBPZEngUxTuRO6Y) | 3:35 | 2025-05-30 | 2025-07-12 |
 | [The Tracks](https://open.spotify.com/track/37pBe50r2tPBWTy5w3ck6O) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [The Tracks](https://open.spotify.com/album/7M3y1AIc8kXaSUcTPF8X9i) | 3:43 | 2025-07-11 |  |
 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 | 2023-11-03 | 2024-05-22 |
 | [The Working Man](https://open.spotify.com/track/7GN3AhAXs6sOHuuYjXeqtz) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/1OPgbhagGvc0wFx5ztKdwy) | 3:50 | 2024-03-22 | 2024-05-25 |
+| [Therapy](https://open.spotify.com/track/4Sez6emXMIkW5CYtJvdFtK) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Therapy](https://open.spotify.com/album/5lkqkQ3sGYUcBRtOHKHvFO) | 2:46 | 2025-10-31 |  |
 | [There Ain't a Bar](https://open.spotify.com/track/0KmdFa5bx2UjJlN1aAy2WQ) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Comin' In Country](https://open.spotify.com/album/5LciqLBTkI1I4CB5mBHm3C) | 2:59 | 2025-05-02 | 2025-07-05 |
 | [There Ain't a Bar](https://open.spotify.com/track/3l8csG08d9LrkqagCFdvZI) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Comin' In Country](https://open.spotify.com/album/2JPjKb1UBQ321doG6ziVj2) | 2:59 | 2025-04-21 | 2025-06-21 |
 | [They Don't Know About Us](https://open.spotify.com/track/04m3E83FWXIcXpDvRhSpQg) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU), [Annika](https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo) | [They Don't Know About Us](https://open.spotify.com/album/0mBpdap0VXDM4PUHUNcLoU) | 3:18 | 2024-04-26 | 2024-07-03 |

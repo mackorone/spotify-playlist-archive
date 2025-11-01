@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,431 likes - 114 songs - 4 hr 52 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,418 likes - 121 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,12 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 112 | [Another Day In Paradise](https://open.spotify.com/track/1FdDXJPf0ksUPZNrg1LjNf) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [Another Day In Paradise](https://open.spotify.com/album/3b3JP6ps6eTly0n1mFqG8g) | 2:32 |
 | 113 | [Magical Days](https://open.spotify.com/track/4Gfg6Ka58w3HkDE8JxHHiq) | [Ola Martin](https://open.spotify.com/artist/54FIu0DlnGcGqTDLod7X0b), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn) | [Magical Days](https://open.spotify.com/album/3fmK2L6oo2wb9FEzBsxTUM) | 2:16 |
 | 114 | [Haunting Me](https://open.spotify.com/track/13HyBy8sVih8i5Pq5udf3t) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [Haunting Me](https://open.spotify.com/album/2rO3BIIDq3FAFtHwm8vDHK) | 2:59 |
+| 115 | [One Love](https://open.spotify.com/track/0kd1jl2kzDqZIlv8LSeGIx) | [Marco Carpentieri](https://open.spotify.com/artist/7qD17uug3YdoCuu1UqYTJa), [Ema Feud](https://open.spotify.com/artist/2rPtbgOmhSJcV7GenHKwPd), [Ollie Wade](https://open.spotify.com/artist/1FWuEwWawlnaMKPCaxnMxa) | [One Love](https://open.spotify.com/album/4moS5DeZzyAwv7iuFnmamj) | 2:43 |
+| 116 | [Papercuts](https://open.spotify.com/track/5SDrmQcGhGjxroQY1nigTC) | [whinn](https://open.spotify.com/artist/3R9yGzKCvht9vUyRyV3tU9), [Dan Ross](https://open.spotify.com/artist/5jGJSNyatvxOEd4dpQN6lP), [Meghna](https://open.spotify.com/artist/7vPjycBHSxeFrw8Xn8qeo5) | [Papercuts](https://open.spotify.com/album/6VpTDTJTwUiNHyiWyCGyr1) | 2:51 |
+| 117 | [L'été](https://open.spotify.com/track/4FEkkmdexGy9XvT5lHyG81) | [Le Jardin Secret](https://open.spotify.com/artist/0Hzo0ny2O7V0MK5HbttDi5) | [L'été](https://open.spotify.com/album/3916jdWIoO4T47fAr6DZJO) | 2:03 |
+| 118 | [Waiting For Love](https://open.spotify.com/track/2NAxj0kJqrYswoMPLWcnwt) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Waiting For Love](https://open.spotify.com/album/4rmXQjXfK8CyPtAcYxO8VJ) | 2:15 |
+| 119 | [2AM In Berlin](https://open.spotify.com/track/6lqII75FR3jWQ6DJ9cKVp9) | [Arctec](https://open.spotify.com/artist/1KzMaLiqjVR3B7WwGMlTWT) | [2AM In Berlin](https://open.spotify.com/album/0zv2krizLVpzRFyZmI6kR0) | 3:08 |
+| 120 | [Colourful](https://open.spotify.com/track/2FyXyL8ovftr9BeFyjjQ5P) | [Grey Vision](https://open.spotify.com/artist/7l3gRojjhIGpFq6y8iws3n) | [Colourful](https://open.spotify.com/album/0CF7C9mS1LetobWKFxtv2C) | 2:10 |
+| 121 | [Rest Of My Life](https://open.spotify.com/track/6SXbxiJzSIVCKXF9r6zE7g) | [Lukas Goss](https://open.spotify.com/artist/0TSgxjF6V9u9Cjhz5CBh0X), [Lunexis](https://open.spotify.com/artist/247dxIUoyjeSNq3JTQNSGO), [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Rest Of My Life](https://open.spotify.com/album/7JqcnviqDhrfcfPGrnc57m) | 2:23 |
 
-Snapshot ID: `AAAhyUVnIoiQqJPriHTS9aEgh+DMo1Tl`
+Snapshot ID: `AAAh0hmVk7SuXkaxNVWHsre7AMm86J4O`

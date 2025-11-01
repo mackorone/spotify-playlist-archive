@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Queen Naija
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,838 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,856 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 99 | [Hope You Understand Me](https://open.spotify.com/track/23dHiDEw7ljPqmthWInVds) | [Tiffany Evans](https://open.spotify.com/artist/3CoW2DhcuWKs93YEjEY5Eq) | [Hope You Understand Me](https://open.spotify.com/album/40BuVcBOhEeXmyJpR3LtIF) | 3:13 |
 | 100 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 
-Snapshot ID: `AAAAAFt/QLrA1ZrZuN/ltDl0vZAkOPIy`
+Snapshot ID: `AAAAAKUTvLrFq/q9QFBLmPw788B0mkDU`

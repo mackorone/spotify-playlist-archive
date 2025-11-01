@@ -4,7 +4,7 @@
 
 > This is Lily Allen\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 47 min
+50 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [5 O'Clock \(feat\. Lily Allen & Wiz Khalifa\)](https://open.spotify.com/track/42EMFjvFtOki8MA0JNZqVK) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Revolver \(Expanded Edition\)](https://open.spotify.com/album/7rWNM4Q11nvmpHOuSnLFME) | 4:41 | 2025-10-28 |  |
 | [Air Balloon](https://open.spotify.com/track/1DIS8YXZKxePLmY7Z8UC4I) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Air Balloon](https://open.spotify.com/album/5B9Oz2IZfNsoTLfoBwl1oA) | 3:48 | 2025-10-28 |  |
 | [Apples](https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:39 | 2025-10-28 |  |
-| [Chinese](https://open.spotify.com/track/6IFXwxWeLkeQ68XaUAcxUf) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 3:28 | 2025-10-28 |  |
+| [Chinese](https://open.spotify.com/track/60XKb9r9CBh93zSyEarCf3) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:28 | 2025-11-01 |  |
+| [Chinese](https://open.spotify.com/track/6IFXwxWeLkeQ68XaUAcxUf) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 3:28 | 2025-10-28 | 2025-11-01 |
 | [Cigarettes & Cush \(feat\. Kehlani & Lily Allen\)](https://open.spotify.com/track/7urCpstCEncypWMreEwJCh) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Gang Signs & Prayer](https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW) | 5:49 | 2025-10-28 |  |
 | [Come on Then](https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:11 | 2025-10-28 |  |
 | [Dallas Major](https://open.spotify.com/track/1ECugAb7Pg6UDA501YYgH9) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 3:04 | 2025-10-28 |  |
@@ -27,10 +28,11 @@
 | [He Wasn't There](https://open.spotify.com/track/3DvREgY2Bhl5hpEzkgloYH) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0) | 2:51 | 2025-10-31 |  |
 | [Him](https://open.spotify.com/track/3XbSdPCqIfK0BOOjqtNdfa) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 3:18 | 2025-10-28 |  |
 | [Holding on to Nothing](https://open.spotify.com/track/3OfPvbQnpOE9g7l4m69KbX) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus \(Deluxe Edition\)](https://open.spotify.com/album/3ODT80Bs2dBECUzaXS6lfC) | 2:59 | 2025-10-28 |  |
-| [I Could Say](https://open.spotify.com/track/2W49c7MFcySAOqzX7yfFFe) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 4:04 | 2025-10-28 |  |
+| [I Could Say](https://open.spotify.com/track/2W49c7MFcySAOqzX7yfFFe) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You \(Special Edition\)](https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX) | 4:04 | 2025-10-28 | 2025-11-01 |
 | [Insincerely Yours](https://open.spotify.com/track/593Mcgv8wURGAJ3cvY9jqE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:39 | 2025-10-28 |  |
 | [Just Be Good To Green](https://open.spotify.com/track/5Wi5AUAI4YKRYNYI8XLLG3) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alive Till I'm Dead](https://open.spotify.com/album/0iVnRHjr6fAOojkgjxnJVO) | 3:24 | 2025-10-28 |  |
 | [Knock 'Em Out](https://open.spotify.com/track/1tzREQUvfSvoigbSOU60Bx) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 2:53 | 2025-10-28 |  |
+| [L8 CMMR](https://open.spotify.com/track/7pJXKbp8Ls5SmMT3VutAnE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:24 | 2025-11-01 |  |
 | [LDN](https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:10 | 2025-10-28 |  |
 | [Littlest Things](https://open.spotify.com/track/3Ah7nOXSkbkejpI2yWKzSF) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Deluxe\)](https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS) | 3:02 | 2025-10-28 |  |
 | [Lost My Mind](https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [No Shame](https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL) | 3:47 | 2025-10-28 |  |

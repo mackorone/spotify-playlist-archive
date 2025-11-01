@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów! Cover:  <a href="spotify:artist:0B4TTzKvNuF5Jcmbe5uQ1T">Pola Maj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,335 likes - 121 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,332 likes - 121 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 120 | [nerw](https://open.spotify.com/track/1QmsVzgzMlwACIaI1HFV0d) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [sama](https://open.spotify.com/album/2vOFQJoljyC9qp7E3g162l) | 3:46 |
 | 121 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `AAAAAAU+DZJy3yq/qLV42lxril9FpElI`
+Snapshot ID: `AAAAAD/MGqtutvMUzh/umc7QmsR77td7`

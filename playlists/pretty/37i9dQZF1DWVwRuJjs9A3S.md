@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Anna Von Hausswolff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,007 likes - 175 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,011 likes - 175 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 9 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
 | 10 | [Watching Over Me](https://open.spotify.com/track/7C3gStt8d7SxtB28gxrM06) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Watching Over Me](https://open.spotify.com/album/2rqFQX6IDwpIXZEqg3Fqwp) | 2:16 |
 | 11 | [Dårar](https://open.spotify.com/track/1UN3cCSETzsoQesIdIRvpp) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Genom natten](https://open.spotify.com/album/2Hh1ohjJKUzo5LGvbmkpei) | 3:58 |
-| 12 | [Miranda](https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [](https://open.spotify.com/album/null) | 2:49 |
+| 12 | [Miranda](https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Miranda](https://open.spotify.com/album/7rZaeXP7J1DBUCYWr5bQy4) | 2:49 |
 | 13 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 14 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 |
 | 15 | [At My Best](https://open.spotify.com/track/5XqbyTQDWGo6S2MYupzxTi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [At My Best](https://open.spotify.com/album/7yDkhM5joo3A3aDa3OJgI5) | 2:56 |

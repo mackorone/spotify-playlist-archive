@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-469 songs - 1 day 1 hr 21 min
+470 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [Stitches \(Acoustic\)](https://open.spotify.com/track/1NEMlQEO4ArMfTXjXYtgQH) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Stitches \(Acoustic\)](https://open.spotify.com/album/4qJFXxyt5OjMmOeymnN784) | 3:14 | 2022-08-31 | 2023-10-28 |
 | [Stupid Love \- Acoustic Cover](https://open.spotify.com/track/67UOPTeZfrUENW7MA5F3e6) | [Emily Hall](https://open.spotify.com/artist/4RbjejrQkdyJK5XUyvnSDU) | [Stupid Love \(Acoustic Cover\)](https://open.spotify.com/album/4Pn5qhCGfkSnRlPGTlrcrN) | 3:21 | 2021-03-11 | 2022-12-17 |
 | [Sunroof \(Acoustic\)](https://open.spotify.com/track/58LmLQjGilHJqLLas40c3x) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Sunroof \(Acoustic\)](https://open.spotify.com/album/6M78VAGEkFKdVk2qm4ZQLB) | 2:17 | 2023-05-12 | 2023-10-28 |
-| [Sure Thing](https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL) | [since always](https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Sure Thing](https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c) | 3:59 | 2023-05-12 |  |
+| [Sure Thing](https://open.spotify.com/track/0b8ZH4B3FM4HHDabjfZFTL) | [since always](https://open.spotify.com/artist/0Yht4tZIX0zd3RSrvDaZuV), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Sure Thing](https://open.spotify.com/album/4gEJtympDfHPCd0I1Aft8c) | 3:59 | 2023-05-12 | 2025-11-01 |
 | [Sure Thing \- Acoustic](https://open.spotify.com/track/0NjllBNctm9XrsGOYF87jS) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Sure Thing \- Acoustic](https://open.spotify.com/album/5Jq4l0j3Bfb88zE0PjGwdD) | 3:01 | 2023-02-17 | 2023-10-28 |
 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 | 2022-12-09 | 2025-07-25 |
 | [Take It With Me](https://open.spotify.com/track/5B0FqWcBm3TKdZVn6DcYnZ) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow \(Ten Year Anniversary Edition\)](https://open.spotify.com/album/5zOLes5VjZqy44W30zE6VJ) | 4:59 | 2023-06-22 | 2023-10-28 |
@@ -468,6 +468,7 @@
 | [Whiplash \- Acoustic](https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kaela Sinclair](https://open.spotify.com/artist/3gWrqVNUebQF7alIH0bzZ8) | [Whiplash \(Acoustic\)](https://open.spotify.com/album/2p9CwOdI1bCw4vZ9TIG1rx) | 2:25 | 2021-03-11 | 2022-07-29 |
 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-10-14 | 2023-10-28 |
 | [WITHOUT ME](https://open.spotify.com/track/5K17WcyVoqa4lugxn5RcxP) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [WITHOUT ME](https://open.spotify.com/album/2aVLd13zIVKYBysTP5JTir) | 3:00 | 2022-11-11 | 2025-03-20 |
+| [Without You](https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Without You](https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6) | 2:43 | 2025-10-14 |  |
 | [Woke Up in Love \- Acoustic](https://open.spotify.com/track/0ryULsOBEF00i4XwnF3brE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love \(Acoustic\)](https://open.spotify.com/album/7fT4GYJdO6amQrcwP7PsZR) | 3:02 | 2023-02-17 | 2023-10-28 |
 | [You \(with Marshmello & Vance Joy\) \- Acoustic](https://open.spotify.com/track/2wcseriGAqeodDazDXgmaq) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [You \(with Marshmello & Vance Joy\) \[Main + Acoustic\]](https://open.spotify.com/album/0XqS6EE0TuqdLrhJVo06jL) | 2:31 | 2021-03-11 | 2023-10-28 |
 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 | 2022-08-31 | 2023-03-10 |

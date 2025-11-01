@@ -1,31 +1,143 @@
 {
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Bibi Club",
-  "num_followers": 7099,
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: All\u00f4 Fant\u00f4me",
+  "num_followers": 7101,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIrTiUV4z6RKr3v5Fwsp/5iBkgnS",
+  "snapshot_id": "AAAAAB81iy3iKgYbVr92nDOuMYUiNNyp",
   "tracks": [
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
-        "name": "Amaro",
-        "url": "https://open.spotify.com/album/3lkzJlZGyPUmLeirGwKuVR"
+        "name": "Journ\u00e9e ordinaire / Comment se perdre",
+        "url": "https://open.spotify.com/album/0mt908UFb2yiqgYyC5aG2t"
       },
       "artists": [
         {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
         }
       ],
-      "duration_ms": 188111,
-      "name": "Amaro",
-      "url": "https://open.spotify.com/track/1xDCZdai0FdCFXCB5pZXLL"
+      "duration_ms": 256146,
+      "name": "Comment se perdre",
+      "url": "https://open.spotify.com/track/0SPxnX6Zb5C8v85JgVoxbi"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Oxyballad",
+        "url": "https://open.spotify.com/album/2SdzGzCiKnHd89ZSTEHLLz"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Karelle",
+          "url": "https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM"
+        }
+      ],
+      "duration_ms": 178698,
+      "name": "Oxyballad",
+      "url": "https://open.spotify.com/track/1lnB14hjY6jkFm0M4Spe9j"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "duration_ms": 288346,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Squelette",
+        "url": "https://open.spotify.com/album/3woYSlpErgTOeUKAhXq9mp"
+      },
+      "artists": [
+        {
+          "name": "Renard Blanc",
+          "url": "https://open.spotify.com/artist/5E6xkVcyWbSpV26oeO5UVP"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Squelette",
+      "url": "https://open.spotify.com/track/5T4o6yqeF1GV6Q8rcX7Rvp"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Sang du Christ",
+        "url": "https://open.spotify.com/album/63V0GHC01KxyQxBFqypDHa"
+      },
+      "artists": [
+        {
+          "name": "Le Belladone",
+          "url": "https://open.spotify.com/artist/0TBSo7QjxPiIOrnkIzCCwu"
+        }
+      ],
+      "duration_ms": 297395,
+      "name": "Sang du Christ",
+      "url": "https://open.spotify.com/track/0OpabAf12M4gpW1EJ5rsrh"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "La Fuite, La Chute",
+        "url": "https://open.spotify.com/album/40m6jQoG2jOM3p9CdOGSD8"
+      },
+      "artists": [
+        {
+          "name": "La Fuite",
+          "url": "https://open.spotify.com/artist/4ZiHDCHZb5rGAmIzJTUAFS"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Vouloir Tomber (Pour se permettre d'exister)",
+      "url": "https://open.spotify.com/track/1sSoHAp4TnJFhKQBvI2W2D"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Sides Of Me I've Never Met",
+        "url": "https://open.spotify.com/album/7Es51YBrLmuu1cWrY9g6bP"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "duration_ms": 238374,
+      "name": "Sides Of Me I've Never Met",
+      "url": "https://open.spotify.com/track/36OMqGe1gqqPxXcAEeB3LA"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "oui non I know",
+        "url": "https://open.spotify.com/album/1lkPyq3kwRTHmi2kPXpZLX"
+      },
+      "artists": [
+        {
+          "name": "HAWA B",
+          "url": "https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "oui non I know",
+      "url": "https://open.spotify.com/track/2cQyLwCqV0QJmdkKW96zLw"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "L'effondrement qui vient",
         "url": "https://open.spotify.com/album/5OoiHAaKWneLCxV17SLDFM"
@@ -45,7 +157,55 @@
       "url": "https://open.spotify.com/track/4X4pbnHxvzwkhP8pZ5kRQu"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Toujours mieux",
+        "url": "https://open.spotify.com/album/6ZHZUzD5Eiz1uA0d3h41Xf"
+      },
+      "artists": [
+        {
+          "name": "Tom Leger",
+          "url": "https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK"
+        }
+      ],
+      "duration_ms": 145176,
+      "name": "Toujours mieux",
+      "url": "https://open.spotify.com/track/4LAdc3GvmKO0JaEh58FmQ0"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Couleuvre",
+        "url": "https://open.spotify.com/album/6EtW8O9ICxDOq8csZGnbL9"
+      },
+      "artists": [
+        {
+          "name": "Fant\u00f4mes",
+          "url": "https://open.spotify.com/artist/1yoodUp4IkLPxvFtuVVwQH"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "\u041dyperpo\u0440",
+      "url": "https://open.spotify.com/track/4C9kPnlrk3vZQ42yTp76PM"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Amaro",
+        "url": "https://open.spotify.com/album/3lkzJlZGyPUmLeirGwKuVR"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 188111,
+      "name": "Amaro",
+      "url": "https://open.spotify.com/track/1xDCZdai0FdCFXCB5pZXLL"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Symphonie publicitaire sous influence",
         "url": "https://open.spotify.com/album/2TpxfjXkxMIsmpIUeFd6cw"
@@ -61,7 +221,7 @@
       "url": "https://open.spotify.com/track/0JYHRy1wawAjPTox171Rt6"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Star People",
         "url": "https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx"
@@ -77,103 +237,7 @@
       "url": "https://open.spotify.com/track/6blUBF2tclP0IoPB07anXH"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Oubliette",
-        "url": "https://open.spotify.com/album/4vfStJ9V3QFLmaoW2L8T00"
-      },
-      "artists": [
-        {
-          "name": "Diamond Day",
-          "url": "https://open.spotify.com/artist/6ODDFLh0OwrY4RA32kEZbM"
-        }
-      ],
-      "duration_ms": 127960,
-      "name": "Fais Peu",
-      "url": "https://open.spotify.com/track/7Eu5vID0fgh4AWxj89pCeK"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "EMBRACE CHAOS",
-        "url": "https://open.spotify.com/album/3zLHGel8t7u5cqKWccAvgX"
-      },
-      "artists": [
-        {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
-        }
-      ],
-      "duration_ms": 173692,
-      "name": "CURSED",
-      "url": "https://open.spotify.com/track/4BDqShv44FR6XAk7kEmQrj"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "AUTO-CONSTRUCTION MIXTAPE",
-        "url": "https://open.spotify.com/album/4sRH0u5GLoWt0GIjxp5D5z"
-      },
-      "artists": [
-        {
-          "name": "LE VENIN",
-          "url": "https://open.spotify.com/artist/7GJxDetLIeoFclY2Eui1LV"
-        }
-      ],
-      "duration_ms": 158691,
-      "name": "AUTO-CONSTRUCTION",
-      "url": "https://open.spotify.com/track/0OetQANtgpJvsTxed8joUL"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "\u00c0 la prochaine",
-        "url": "https://open.spotify.com/album/5ZSMPqzw9Gfai6qsFrALjo"
-      },
-      "artists": [
-        {
-          "name": "Douance",
-          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
-        }
-      ],
-      "duration_ms": 189266,
-      "name": "J'attends",
-      "url": "https://open.spotify.com/track/70KxTHYSQc4ozAsBomOCOS"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "EAT",
-        "url": "https://open.spotify.com/album/1i1y5lZDYe3I2vfQhARC93"
-      },
-      "artists": [
-        {
-          "name": "Carlyn",
-          "url": "https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87"
-        }
-      ],
-      "duration_ms": 132297,
-      "name": "EAT",
-      "url": "https://open.spotify.com/track/6RUTiNzRwMBqQAubX0cNcV"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "DJURDJURA (\u2d35\u2d55\u2d35\u2d55)",
-        "url": "https://open.spotify.com/album/2vkBtCaQdqYyj0PuKnPGVO"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 180940,
-      "name": "DJURDJURA (\u2d35\u2d55\u2d35\u2d55)",
-      "url": "https://open.spotify.com/track/2ujBLe4yOaxiSCNQ2Wlqmv"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Jamais",
         "url": "https://open.spotify.com/album/5wcf7iLr01dMc4VnAV7mIo"
@@ -189,7 +253,119 @@
       "url": "https://open.spotify.com/track/4vN5USCwBj2e2gFkUXSBH8"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Oubliette",
+        "url": "https://open.spotify.com/album/4vfStJ9V3QFLmaoW2L8T00"
+      },
+      "artists": [
+        {
+          "name": "Diamond Day",
+          "url": "https://open.spotify.com/artist/6ODDFLh0OwrY4RA32kEZbM"
+        }
+      ],
+      "duration_ms": 127960,
+      "name": "Fais Peu",
+      "url": "https://open.spotify.com/track/7Eu5vID0fgh4AWxj89pCeK"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "EMBRACE CHAOS",
+        "url": "https://open.spotify.com/album/3zLHGel8t7u5cqKWccAvgX"
+      },
+      "artists": [
+        {
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+        }
+      ],
+      "duration_ms": 173692,
+      "name": "CURSED",
+      "url": "https://open.spotify.com/track/4BDqShv44FR6XAk7kEmQrj"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "AUTO-CONSTRUCTION MIXTAPE",
+        "url": "https://open.spotify.com/album/4sRH0u5GLoWt0GIjxp5D5z"
+      },
+      "artists": [
+        {
+          "name": "LE VENIN",
+          "url": "https://open.spotify.com/artist/7GJxDetLIeoFclY2Eui1LV"
+        }
+      ],
+      "duration_ms": 158691,
+      "name": "AUTO-CONSTRUCTION",
+      "url": "https://open.spotify.com/track/0OetQANtgpJvsTxed8joUL"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Man In His Pomp",
+        "url": "https://open.spotify.com/album/37KhkdHDI0LERW8dTXz24r"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 111734,
+      "name": "Man In His Pomp",
+      "url": "https://open.spotify.com/track/04LRwSXXKAAxFSzyk6Imca"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "\u00c0 la prochaine",
+        "url": "https://open.spotify.com/album/5ZSMPqzw9Gfai6qsFrALjo"
+      },
+      "artists": [
+        {
+          "name": "Douance",
+          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
+        }
+      ],
+      "duration_ms": 189266,
+      "name": "J'attends",
+      "url": "https://open.spotify.com/track/70KxTHYSQc4ozAsBomOCOS"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "EAT",
+        "url": "https://open.spotify.com/album/1i1y5lZDYe3I2vfQhARC93"
+      },
+      "artists": [
+        {
+          "name": "Carlyn",
+          "url": "https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87"
+        }
+      ],
+      "duration_ms": 132297,
+      "name": "EAT",
+      "url": "https://open.spotify.com/track/6RUTiNzRwMBqQAubX0cNcV"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "DJURDJURA (\u2d35\u2d55\u2d35\u2d55)",
+        "url": "https://open.spotify.com/album/2vkBtCaQdqYyj0PuKnPGVO"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 180940,
+      "name": "DJURDJURA (\u2d35\u2d55\u2d35\u2d55)",
+      "url": "https://open.spotify.com/track/2ujBLe4yOaxiSCNQ2Wlqmv"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Final Girl",
         "url": "https://open.spotify.com/album/62uokv9smro3mW62KkaCfD"
@@ -205,7 +381,7 @@
       "url": "https://open.spotify.com/track/49ICuKrTeAQEOWr873YNlN"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Qu\u00e9bec Core",
         "url": "https://open.spotify.com/album/1aAa3iAeAIOaR9gBggufJc"
@@ -221,7 +397,7 @@
       "url": "https://open.spotify.com/track/3aRWjiMW0DciMKc2BJJWpM"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Tranquillit\u00e9 I",
         "url": "https://open.spotify.com/album/3ThvPxX4b8toO99fh97Osa"
@@ -237,7 +413,7 @@
       "url": "https://open.spotify.com/track/4AOXgIeWoxQQpJY5op1AAj"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "CABOT",
         "url": "https://open.spotify.com/album/124xzBSJ90brz9TUGwB6ai"
@@ -253,7 +429,7 @@
       "url": "https://open.spotify.com/track/4mHzCQFV9w6TKflRRerYff"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "So It Goes",
         "url": "https://open.spotify.com/album/7mjRiN5GruLWDkpZIwc5tC"
@@ -269,7 +445,7 @@
       "url": "https://open.spotify.com/track/12ryI6Y0cm3Icrj1Uyk56J"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Tomorrow And Tomorrow",
         "url": "https://open.spotify.com/album/1t0S4NzVjUBExfshRTWifJ"
@@ -285,7 +461,7 @@
       "url": "https://open.spotify.com/track/3iDlv2DaR37qSa2zyAte03"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "GODDAMN!",
         "url": "https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD"
@@ -301,7 +477,7 @@
       "url": "https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Dr\u00f4le de temps",
         "url": "https://open.spotify.com/album/0WsI0ksQOfwX73ZE4YpaJs"
@@ -317,7 +493,7 @@
       "url": "https://open.spotify.com/track/5jyVXKVgeXVhErGGIEFMyv"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Oiseau de Nuit",
         "url": "https://open.spotify.com/album/07kOc70svJnWUYTRNkdHma"
@@ -337,7 +513,23 @@
       "url": "https://open.spotify.com/track/0RgzD24r2ha47h0Lx3Z6Mp"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "l'endroit l'envers",
+        "url": "https://open.spotify.com/album/4ZFhDXA2Pk6CiOfUAwPmoP"
+      },
+      "artists": [
+        {
+          "name": "Gawb\u00e9",
+          "url": "https://open.spotify.com/artist/7oR4GmycUYIxBe37E9JW1M"
+        }
+      ],
+      "duration_ms": 166777,
+      "name": "D\u00e9serteur",
+      "url": "https://open.spotify.com/track/2orWAlWMMzeBJBB1MjGXwz"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Bal des contraires",
         "url": "https://open.spotify.com/album/7mAEj6YE3FGY6rcvzzFocY"
@@ -353,7 +545,7 @@
       "url": "https://open.spotify.com/track/6YWrNxcVitdkQWFBQDfNE8"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "There\u2019s a Shadow in My Room and It Isn\u2019t Mine",
         "url": "https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6"
@@ -369,7 +561,23 @@
       "url": "https://open.spotify.com/track/4QGZnFfBP8OGd5a8EphTgd"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Quand je pleure, je suis content",
+        "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
+      },
+      "artists": [
+        {
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "T\u00eate en l'air",
+      "url": "https://open.spotify.com/track/09ujrbdwlQrmAjCncugJZU"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "CLAPS (SOURIEZ)",
         "url": "https://open.spotify.com/album/020tKeZtTPTW4PqpYk74HL"
@@ -385,7 +593,27 @@
       "url": "https://open.spotify.com/track/3TaxIiNsCMrkTAYPhTMpdE"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Album bleu (Deluxe)",
+        "url": "https://open.spotify.com/album/7iwEMAFJfPV69HC3bo4KNc"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        },
+        {
+          "name": "Rose Perron",
+          "url": "https://open.spotify.com/artist/5kcMCSZrVWmMsSo1rqlMFM"
+        }
+      ],
+      "duration_ms": 175972,
+      "name": "Jamais",
+      "url": "https://open.spotify.com/track/45aNb2xxaVzMwSLdlwTIXa"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Insomniaque",
         "url": "https://open.spotify.com/album/1fgBzmRSviY7Fv8mVeByfg"
@@ -401,7 +629,7 @@
       "url": "https://open.spotify.com/track/6RdXZ2N8HWdo4xUR5oBpw7"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/3gf5ysEu7B3RvtCCGKJNpw"
@@ -421,7 +649,7 @@
       "url": "https://open.spotify.com/track/4cEZQZYPFqST2NTE3v64mp"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/0rFcPmREWYgvHEiDrb2EHL"
@@ -437,7 +665,7 @@
       "url": "https://open.spotify.com/track/4ClYqGZBn3ppeRlB3W9lHN"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Malcommode",
         "url": "https://open.spotify.com/album/1Gjw4XfbStn6FoKlfmfkoh"
@@ -453,7 +681,7 @@
       "url": "https://open.spotify.com/track/1J2b1Qeot2mDXsqrUlayee"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "B\u00e9ton Bisous",
         "url": "https://open.spotify.com/album/6AvUY0MZywQogC0bPmcQ9O"
@@ -469,23 +697,7 @@
       "url": "https://open.spotify.com/track/24D8vMbIc8lS9sTth7uGxh"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
-      "album": {
-        "name": "Dent de lait",
-        "url": "https://open.spotify.com/album/0rdmqj5QQ9kZSbVhmERnmo"
-      },
-      "artists": [
-        {
-          "name": "Le Belladone",
-          "url": "https://open.spotify.com/artist/0TBSo7QjxPiIOrnkIzCCwu"
-        }
-      ],
-      "duration_ms": 176091,
-      "name": "Dent de lait",
-      "url": "https://open.spotify.com/track/5RI0Fux0bYInk8D95nITGc"
-    },
-    {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Soupe aux pois",
         "url": "https://open.spotify.com/album/3GjGbqJTgznhyTkkeLDktd"
@@ -501,7 +713,7 @@
       "url": "https://open.spotify.com/track/5kFaKzDFEJBYGMC27oio34"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "LUCKY8",
         "url": "https://open.spotify.com/album/6f0pLMVbyBpdDpxQmE9DA4"
@@ -517,7 +729,7 @@
       "url": "https://open.spotify.com/track/2iV2aeAY52wxUdkZHk3DNC"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "longue nuit / grande maison",
         "url": "https://open.spotify.com/album/36wJyDURMA22nGnkNy4Pg9"
@@ -533,7 +745,7 @@
       "url": "https://open.spotify.com/track/3FHuKUUy0hu791gD9cDnGE"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Il y eut un rythme",
         "url": "https://open.spotify.com/album/6k7wmXKvwCskQo2nUsahE9"
@@ -549,7 +761,7 @@
       "url": "https://open.spotify.com/track/3ez9WhsTGvrT7BGvAESFQY"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Maison-tison",
         "url": "https://open.spotify.com/album/1sW37m9AgNzSuWzwWZhGJU"
@@ -569,7 +781,55 @@
       "url": "https://open.spotify.com/track/0krFomY1f9C401AeuG7MCG"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Pleasure Doin' Business",
+        "url": "https://open.spotify.com/album/1ULeyGobdvvfiNXBwX00Uz"
+      },
+      "artists": [
+        {
+          "name": "Les Deuxluxes",
+          "url": "https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg"
+        }
+      ],
+      "duration_ms": 168395,
+      "name": "Comin' in Hot",
+      "url": "https://open.spotify.com/track/5Z6Dn2ZJe4w6HTYHTDZAiI"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Nouveau Monde",
+        "url": "https://open.spotify.com/album/0knwk6br3tPdW1sQJ2dpgO"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "duration_ms": 192642,
+      "name": "Les jours heureux",
+      "url": "https://open.spotify.com/track/3WUFus58BRuozd1mawM5Lv"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Hier nuit",
+        "url": "https://open.spotify.com/album/4iY81dJ0ZcCnXqHcWERUs7"
+      },
+      "artists": [
+        {
+          "name": "F\u00c9LIXE",
+          "url": "https://open.spotify.com/artist/4EV6G0NKJD2LdNSzeopLHY"
+        }
+      ],
+      "duration_ms": 157812,
+      "name": "Pommes",
+      "url": "https://open.spotify.com/track/2P4cHNLsRoI8s1gJSlpI7B"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Fous-moi la paix!",
         "url": "https://open.spotify.com/album/7bHExBw0vQtHGJABmqYIjh"
@@ -585,7 +845,7 @@
       "url": "https://open.spotify.com/track/69qa3Ur4XfCeuKAzWy2urA"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Mariano (Jamais je ne t\u2019oublierai)",
         "url": "https://open.spotify.com/album/7JzqEoQJivzko3A14Q0yua"
@@ -601,7 +861,7 @@
       "url": "https://open.spotify.com/track/2bZyKgrqmL9id66rCrVjf6"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "ANTI-GU\u00c9RISON",
         "url": "https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi"
@@ -621,7 +881,7 @@
       "url": "https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Cours, Cora, cours / Journal d'un loup-garou",
         "url": "https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g"
@@ -637,7 +897,7 @@
       "url": "https://open.spotify.com/track/3gjXyaxoWNomS232vGIrMN"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Y a pu d'poude dans poude",
         "url": "https://open.spotify.com/album/3zDjZy9W8RVjSrruCLrJ7j"
@@ -653,7 +913,7 @@
       "url": "https://open.spotify.com/track/7yqBu5Err3V56zeg4bLdMB"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "On ne pr\u00eate qu'aux riches",
         "url": "https://open.spotify.com/album/1NJ6cCWRdxsaaBgVKTe034"
@@ -669,7 +929,7 @@
       "url": "https://open.spotify.com/track/1ndwpvp9LyBYpWWxHkNH8Z"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3ikG5cyaqZYMgYu2yza5PW"
@@ -685,7 +945,7 @@
       "url": "https://open.spotify.com/track/4tLNmzfwtS3vK4EdVReIHu"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "BONJOUR (BIS)",
         "url": "https://open.spotify.com/album/5Snsg0R4yKgTOc5dS7piYZ"
@@ -701,7 +961,7 @@
       "url": "https://open.spotify.com/track/6k7sLvyYTXkld84P7valfu"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/2CBoHe6yhMpHPPrHcYbdWW"
@@ -717,7 +977,7 @@
       "url": "https://open.spotify.com/track/3zKo7o00WeEXynWXgSHFw9"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Incendie au paradis",
         "url": "https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa"
@@ -733,7 +993,7 @@
       "url": "https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Business Core",
         "url": "https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD"
@@ -753,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Rouge Blanc",
         "url": "https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z"
@@ -773,7 +1033,23 @@
       "url": "https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "P'tit Belliveau",
+        "url": "https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2"
+      },
+      "artists": [
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+        }
+      ],
+      "duration_ms": 199373,
+      "name": "Gros truck",
+      "url": "https://open.spotify.com/track/1FJkK7vNFpLvZjCKKROECx"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Jours de cendre",
         "url": "https://open.spotify.com/album/4qVeyzi0kYZ2ry5cR8ZFbF"
@@ -789,7 +1065,7 @@
       "url": "https://open.spotify.com/track/2vHfUP4xN5KmbJR6A80k4Q"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Attaque \u00e0 cinq",
         "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
@@ -805,7 +1081,7 @@
       "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Demande sp\u00e9ciale",
         "url": "https://open.spotify.com/album/2K49gjMsA7o5ifRcvDaqyz"
@@ -821,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0Xn0VGX1tjvOGyfkpSGrHg"
     },
     {
-      "added_at": "2025-10-24 04:01:03",
+      "added_at": "2025-10-31 11:55:08",
       "album": {
         "name": "Astral 2000",
         "url": "https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp"
@@ -835,6 +1111,134 @@
       "duration_ms": 155240,
       "name": "hana",
       "url": "https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Tout rattraper",
+        "url": "https://open.spotify.com/album/17ZeFve5oXk01lDyuRiv99"
+      },
+      "artists": [
+        {
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Tout rattraper",
+      "url": "https://open.spotify.com/track/217AEOMcFUNPX3Dr6DNzVe"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Dent de lait",
+        "url": "https://open.spotify.com/album/0rdmqj5QQ9kZSbVhmERnmo"
+      },
+      "artists": [
+        {
+          "name": "Le Belladone",
+          "url": "https://open.spotify.com/artist/0TBSo7QjxPiIOrnkIzCCwu"
+        }
+      ],
+      "duration_ms": 176091,
+      "name": "Dent de lait",
+      "url": "https://open.spotify.com/track/5RI0Fux0bYInk8D95nITGc"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "D\u00e9sinvolte",
+        "url": "https://open.spotify.com/album/1bl9IOFxgpvEZv6hiIbCR5"
+      },
+      "artists": [
+        {
+          "name": "Conflit Majeur",
+          "url": "https://open.spotify.com/artist/0xLL3mof0eOcEIdVoPgqEg"
+        }
+      ],
+      "duration_ms": 142658,
+      "name": "Oubli\u00e9",
+      "url": "https://open.spotify.com/track/4HlHPrHHWerDTKllHbQbRP"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "notes",
+        "url": "https://open.spotify.com/album/0DxK77b8vDwVIpkU3JgLPC"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 286553,
+      "name": "i-95",
+      "url": "https://open.spotify.com/track/0rd7F2NC4Zfw07MgD9dIRW"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 158813,
+      "name": "Poup\u00e9e",
+      "url": "https://open.spotify.com/track/5CLOzwxNsyFJQFwBruVDjF"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Tout va bien",
+        "url": "https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 202377,
+      "name": "PMB",
+      "url": "https://open.spotify.com/track/3Jquyrvf3X3PRqGsvekjaN"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Mon ombre",
+        "url": "https://open.spotify.com/album/1BpaCQWPxv6hvQyTsz5H6w"
+      },
+      "artists": [
+        {
+          "name": "Faon",
+          "url": "https://open.spotify.com/artist/3sg5qAIkJ910yUKXpgEiGN"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "Ketchup",
+      "url": "https://open.spotify.com/track/6aEDFAIw20ghNgkX6kCFXj"
+    },
+    {
+      "added_at": "2025-10-31 11:55:08",
+      "album": {
+        "name": "Noir - EP",
+        "url": "https://open.spotify.com/album/39cwE1K4xg6TmyEOdaiH1q"
+      },
+      "artists": [
+        {
+          "name": "Hibou Hibou",
+          "url": "https://open.spotify.com/artist/0GZ2ObS3fNdRJ9meK67Ba0"
+        }
+      ],
+      "duration_ms": 202041,
+      "name": "L'\u00e9cole me tue",
+      "url": "https://open.spotify.com/track/6ynTPDBoL9iImUFPdjP3LK"
     }
   ],
   "unique_name": "ALT_QC",

@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-123 songs - 8 hr 45 min
+124 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Believe](https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB) | [Folder 5](https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG) | [HYPER GROOVE 1](https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf) | 3:46 | 2021-09-14 |  |
 | [Cagayake! Girls \(From "K\-On!"\)](https://open.spotify.com/track/0SeOsmdYkzWqnlF5ttO0Jm) | [Sakurakou K\-ON Bu](https://open.spotify.com/artist/4xCCHj0hE6EX42nCQCcL4F) | [Cagayake! Girls \(from "K\-ON!"\)](https://open.spotify.com/album/50pFaF0d9E693wnQFGyEyO) | 4:10 | 2022-07-06 | 2024-04-19 |
 | [Cagayake!GIRLS](https://open.spotify.com/track/6dCeYPmR97wXMKgfZxU4wU) | [平沢唯\(CV:豊崎愛生\)](https://open.spotify.com/artist/2yCfoXGIhhq7nuOwxYPBZN), [秋山澪\(CV:日笠陽子\)](https://open.spotify.com/artist/26WKzbQM4dvl8zghsBsvD7), [桜高軽音部](https://open.spotify.com/artist/2x3ohJ850ojR1j4ggis9tZ), [田井中律\(CV:佐藤聡美\)](https://open.spotify.com/artist/4PHYyP0xMmspaDzqeCuIqV), [琴吹紬\(CV:寿美菜子\)](https://open.spotify.com/artist/0X3bzML0WzEvUBPi4ElSFj) | [Cagayake!GIRLS](https://open.spotify.com/album/0DFU4Cxag86ritH4itpOKs) | 4:10 | 2021-09-14 |  |
+| [CHANGE THE WORLD](https://open.spotify.com/track/6yEblNtkfQPMbrb2FovkQo) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [CHANGE THE WORLD](https://open.spotify.com/album/3Clw4RaxA8YkG6Qlkm8HcW) | 4:51 | 2025-10-31 |  |
 | [CLOSER](https://open.spotify.com/track/1e7E8dOJJPw2Y5krfkft71) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/3wmVPZ0DNAAMaq9BjQSjAL) | 3:28 | 2021-09-14 |  |
 | [CLOSER](https://open.spotify.com/track/2Kld61w2NR7zPPXtaHeIii) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/6S6fn5MUmZdzlKrrdr2XcB) | 3:28 | 2022-07-06 | 2024-04-19 |
 | [D\-tecnoLife](https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [D\-tecnoLife](https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr) | 3:53 | 2022-07-06 | 2022-11-13 |

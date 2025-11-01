@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > <a href="spotify:artist:1moxjboGR7GNWYIMWsRjgG">Florence</a> shares a witchy collection of songs to scream to, ahead of her Halloween release: <a href="https://open.spotify.com/prerelease/3lITBGaOl88npL8uh67JX0?si=5ddecff79fb5482e">Everybody Scream</a>\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,552 likes - 49 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,611 likes - 49 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 48 | [God Is Alive Magic Is Afoot](https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [Illuminations](https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh) | 4:51 |
 | 49 | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/track/3TZ3NVQtkj4nFPANN946Ct) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/album/0XizUl3KDcePvyGAfL4Kgn) | 1:24 |
 
-Snapshot ID: `AAAAAEHS5tP5ZIkHbEmEZgDrT07yM48p`
+Snapshot ID: `AAAAAL9v/dvSNk1VJ3+7YRmMmg9QMgoj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Konstantinos Argiros
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,289 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,311 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Fainomeno](https://open.spotify.com/track/4oiw93wniQggi1ZFB7VQ8P) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Fainomeno](https://open.spotify.com/album/7o1M8VMkQ2Jvun0FWbqoU1) | 2:41 |
 | 50 | [Ekdoxi](https://open.spotify.com/track/2YgXfudmeCpYNWwvpqDdz5) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [Tha Grapsoume Istoria](https://open.spotify.com/album/4nGB4DVaULjQR7xYQ9JPVI) | 3:42 |
 
-Snapshot ID: `AAAAAIImWzFIRZCo7Nccfoie+E2NtNFG`
+Snapshot ID: `AAAAAAwZXlNJOuDmfNkPFij3tOmNhLt+`

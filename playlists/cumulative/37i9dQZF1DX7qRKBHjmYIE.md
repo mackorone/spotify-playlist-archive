@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Rawayana.
 
-945 songs - 2 day 2 hr 54 min
+946 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 | 2023-08-25 | 2023-09-30 |
 | [Bahía](https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg), [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [Bahía](https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3) | 3:01 | 2023-02-17 | 2023-07-22 |
 | [Bailarina](https://open.spotify.com/track/00OfXYqKd5xrXPuNnn5Icc) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Bailarina](https://open.spotify.com/album/7CQIunrfn8Rus0IljNgQe1) | 3:06 | 2023-07-21 | 2023-08-05 |
+| [Bajo El Sol](https://open.spotify.com/track/2ytvOzIVCikJX3ealKAvpX) | [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Bajo El Sol](https://open.spotify.com/album/0LgUIQgylnmIfE3YnTbnaK) | 4:07 | 2025-10-24 |  |
 | [Balas de Fogueo](https://open.spotify.com/track/76ctQ5HCF15awVSYFH2skE) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7), [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6) | [Balas de Fogueo](https://open.spotify.com/album/3fhho7MnychDA1LDUk8TIM) | 3:06 | 2025-01-24 | 2025-04-06 |
 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 | 2024-10-11 |  |
 | [bandOlerO](https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv) | [Oliver Berg](https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv) | [bandOlerO](https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9) | 3:16 | 2025-10-24 |  |
@@ -459,7 +460,7 @@
 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 | 2023-02-02 | 2023-07-07 |
 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 | 2023-02-17 | 2023-07-22 |
 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 | 2025-01-24 |  |
-| [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 | 2025-02-14 |  |
+| [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 | 2025-02-14 | 2025-11-01 |
 | [Life Is Not The Same](https://open.spotify.com/track/53tKpMeDRvMq4xKvQzc6Ih) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Life Is Not The Same](https://open.spotify.com/album/79cXZ95WbLImty6k16rvhc) | 3:19 | 2021-12-02 | 2022-01-25 |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2022-03-28 | 2022-07-21 |
 | [lights coming down](https://open.spotify.com/track/0mq2PA59wm8mxRDv2dcS4S) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [looking for something](https://open.spotify.com/album/30c4YWZhA9V9umtvaY1Bcr) | 3:10 | 2021-12-02 | 2022-01-29 |

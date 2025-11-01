@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,959 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,988 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 48 | [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
 | 49 | [Ven y Vuela](https://open.spotify.com/track/1uiWVO2cKT6qVnaLvgeJ7q) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 3:10 |
 | 50 | [El Marciano \- Cocoman](https://open.spotify.com/track/2WMt2WhT943HFwH6Cy7wax) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Reggaeton BC](https://open.spotify.com/album/3GwevLTFFZYTh9Np2z5mYE) | 5:35 |
-| 51 | [Mini Mini](https://open.spotify.com/track/6L6UChY96xAMQnAmWafHpp) | [Fab 5](https://open.spotify.com/artist/0DDgjT7RPQzMNltbHKyitV) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:07 |
-| 52 | [Si El Hombre Quiere](https://open.spotify.com/track/7oJVjywLnYWS7FDDqjiQhw) | [Rude Girl \(La Atrevida\)](https://open.spotify.com/artist/27YpHzMcm3VgsSmGCLjkqv) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:32 |
-| 53 | [Metimos Las Patas](https://open.spotify.com/track/0FYoLW8XOwDWinWcqcaDst) | [OG Black y Master Joe](https://open.spotify.com/artist/5vLaYom9qPjl6xV7Y6wt9z) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:01 |
-| 54 | [Quiero Estar Contigo](https://open.spotify.com/track/38ItcgEkN3anw5LbfYihJX) | [Maicol & Manuel](https://open.spotify.com/artist/7wwygDw32gRhhUshm3ZGYN) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
+| 51 | [Si El Hombre Quiere](https://open.spotify.com/track/7oJVjywLnYWS7FDDqjiQhw) | [Rude Girl \(La Atrevida\)](https://open.spotify.com/artist/27YpHzMcm3VgsSmGCLjkqv) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:32 |
+| 52 | [Mini Mini](https://open.spotify.com/track/6L6UChY96xAMQnAmWafHpp) | [Fab 5](https://open.spotify.com/artist/0DDgjT7RPQzMNltbHKyitV) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:07 |
+| 53 | [Quiero Estar Contigo](https://open.spotify.com/track/38ItcgEkN3anw5LbfYihJX) | [Maicol & Manuel](https://open.spotify.com/artist/7wwygDw32gRhhUshm3ZGYN) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
+| 54 | [Metimos Las Patas](https://open.spotify.com/track/0FYoLW8XOwDWinWcqcaDst) | [OG Black y Master Joe](https://open.spotify.com/artist/5vLaYom9qPjl6xV7Y6wt9z) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:01 |
 | 55 | [Meneaito Mega\-Mix \(feat\. Aldo Ranks, Kungfu & Robert Dance\)](https://open.spotify.com/track/2yxKrSbzkk1O7E2Hps3yU1) | [Gaby](https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k), [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn), [Jam](https://open.spotify.com/artist/0vI3bsRWpEBvKSDQ3Av1dC), [Cocoman](https://open.spotify.com/artist/2X7JES916nMn3KrTj2nmW2), [Suppose](https://open.spotify.com/artist/1Q3OP8iAWXyM4pzBx23v8P), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3), [Kung Fu](https://open.spotify.com/artist/553xiHYRTLufVtTSroanwc), [Robert Dance](https://open.spotify.com/artist/0y4znT63W9LaVXJJMnR33g) | [Meneaito Mega\-Mix \(feat\. Robert Dance, Aldo Ranks & Kungfu\)](https://open.spotify.com/album/3cHiF5hk7IaKrguowPvOwu) | 7:09 |
 | 56 | [Sentirte](https://open.spotify.com/track/0c9Qg1tEoKWF1eJ2MNyNGH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 3:28 |
 | 57 | [Me Arrepiento](https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 70 | [Interlude \- Prende El](https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 0:58 |
 | 71 | [Me No Like Rikers Island](https://open.spotify.com/track/71P4eSrTusKY3C2pnmQVSm) | [Cocoa\-Tea, Nardo Ranks](https://open.spotify.com/artist/722YGC8Lz3tBJaWiAnC1kP) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 4:01 |
 | 72 | [Donde Estan \(Puerto Rico\)](https://open.spotify.com/track/6mCQ1ykA0C9JEuMUara5hQ) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Ragga War II \- Retro](https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM) | 2:57 |
-| 73 | [Vamos Alla](https://open.spotify.com/track/4Ircf7uE0Jd5Zfg18iVUzy) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 2:29 |
-| 74 | [Mami Chula](https://open.spotify.com/track/772PvX7M1q8cDvDX8RoqKy) | [Blade Pacino](https://open.spotify.com/artist/5dQr2trACfs9BpRReUUUEy) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 2:59 |
+| 73 | [Mami Chula](https://open.spotify.com/track/772PvX7M1q8cDvDX8RoqKy) | [Blade Pacino](https://open.spotify.com/artist/5dQr2trACfs9BpRReUUUEy) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 2:59 |
+| 74 | [Vamos Alla](https://open.spotify.com/track/4Ircf7uE0Jd5Zfg18iVUzy) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 2:29 |
 | 75 | [Interlude \- Recuerdos De Antes](https://open.spotify.com/track/41YlrDHYlDB3Ml9BqJfqi3) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:22 |
 
 Snapshot ID: `AAAAALpkGlVLJvTL9yWXrr3C1ysOOUjQ`

@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Megan Moroney
+> Today's top country hits\. Cover: Luke Combs
 
-935 songs - 2 day 2 hr 36 min
+937 songs - 2 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Drunk & I Miss You](https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:47 | 2020-07-25 | 2020-11-07 |
 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2021-03-06 | 2021-09-11 |
 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 | 2025-06-06 | 2025-09-21 |
+| [East Texas and You](https://open.spotify.com/track/3Vl3sIrcTxAMmeh07x2zN2) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [East Texas and You](https://open.spotify.com/album/6r3qwX3dT5Qz2rENRPmOJj) | 3:34 | 2025-10-31 |  |
 | [Easy](https://open.spotify.com/track/5f9vvN6WCezcHMVreAvR2B) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Easy](https://open.spotify.com/album/3bztzbbqYIdPU7ePsUu01r) | 3:05 | 2020-07-12 | 2020-08-30 |
 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 | 2024-04-26 | 2024-06-29 |
 | [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 | 2024-10-25 | 2025-08-10 |
@@ -610,6 +611,7 @@
 | [Nothing's Better](https://open.spotify.com/track/1LtiNpTzzSX8qcvlPFLmeR) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [State I'm In](https://open.spotify.com/album/0rpP7RK9FEdwTC8BDjDSLj) | 3:13 | 2020-09-25 | 2021-05-08 |
 | [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Now or Never \(feat\. Lauren Alaina\)](https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy) | 2:54 | 2024-09-06 | 2025-02-22 |
 | [Now You Know](https://open.spotify.com/track/0zvFpizoPkjXNuii0mYjb7) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Now You Know](https://open.spotify.com/album/6PgUqzVsJMcgSjHs9usz1R) | 2:55 | 2019-09-06 | 2019-11-09 |
+| [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2025-10-31 |  |
 | [Off Road](https://open.spotify.com/track/5Flk5ig2Lt0FrdM8UQfVeu) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Off Road](https://open.spotify.com/album/1eIN0vpmHWQ2TEZspYu7mH) | 3:04 | 2021-03-27 | 2021-07-24 |
 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 | 2025-03-28 | 2025-08-02 |
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2023-10-13 | 2024-07-13 |
@@ -819,7 +821,7 @@
 | [This is Us](https://open.spotify.com/track/7DnNU5rQLgy4KEYvFMrGgW) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [This is Us](https://open.spotify.com/album/4lMVogl1pJ3NXl2dMtdjFB) | 3:25 | 2020-03-14 | 2020-08-30 |
 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 | 2023-06-30 | 2024-04-13 |
 | [Thought About You](https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Thought About You](https://open.spotify.com/album/0LPzkET4jAcOUbkrGagdI4) | 3:45 | 2019-05-26\* | 2019-08-31 |
-| [Thought It Was Love](https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:06 | 2025-04-18 |  |
+| [Thought It Was Love](https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:06 | 2025-04-18 | 2025-11-01 |
 | [Thought of You](https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Thought of You](https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX) | 2:43 | 2024-10-25 | 2025-03-01 |
 | [Thought This Through](https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Thought This Through](https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC) | 2:52 | 2020-10-06 | 2020-12-06 |
 | [Thoughts of You](https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Songs About You](https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n) | 2:52 | 2024-12-06 | 2025-01-25 |
@@ -879,7 +881,7 @@
 | [What If I Don't](https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [What If I Don't](https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC) | 3:21 | 2023-06-16 | 2023-09-30 |
 | [What If I Never Get Over You](https://open.spotify.com/track/1kqVSbwdlNKsPGv0aehcAZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You](https://open.spotify.com/album/29nEDtxAppakEN3LIDZD4a) | 3:26 | 2019-06-15 | 2020-02-29 |
 | [What If I'm Right](https://open.spotify.com/track/5dg2ifK4KMf60vH6Zxm4Yq) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [What If I'm Right](https://open.spotify.com/album/1eEYTcFsn8Mq5yQK6HJYuo) | 2:46 | 2021-05-22 | 2021-11-27 |
-| [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 | 2025-01-10 |  |
+| [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 | 2025-01-10 | 2025-11-01 |
 | [what made you think?](https://open.spotify.com/track/3IkCyX2KnQIyuAYQiT1wtR) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what made you think?](https://open.spotify.com/album/7bA8ZMcrVLEoNCIq7ZHutq) | 3:41 | 2023-01-06 | 2023-02-18 |
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-06-24 | 2023-02-25 |
 | [What She Wants Tonight](https://open.spotify.com/track/5M3v6frAiTyqenNAeQVcxC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What She Wants Tonight](https://open.spotify.com/album/0YgJpsCDakroRHWZ8WzgiT) | 3:06 | 2019-11-02 | 2020-04-04 |

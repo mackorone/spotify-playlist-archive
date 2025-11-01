@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-387 songs - 22 hr 24 min
+388 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Mantenme pendiente](https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Mantenme pendiente](https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ) | 4:24 | 2025-03-21 |  |
 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 | 2021-12-09 | 2024-05-14 |
 | [maracas y cuero](https://open.spotify.com/track/2nJ9Dt22tBCkrbY2mpIYK6) | [Dav Julca](https://open.spotify.com/artist/5WVyfv3T27DrkqOclE85b2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [maracas y cuero](https://open.spotify.com/album/4IZSe1qS5PxcquNyop7wgn) | 2:54 | 2024-07-09 |  |
+| [Me gusta](https://open.spotify.com/track/44K3RT10JMPLVdYf4R7jel) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Imàn Le Parc](https://open.spotify.com/artist/6HpMo1ly7wzputXekFm9FB) | [Me gusta](https://open.spotify.com/album/6Wwlh1YlrReprbhFM0dGgN) | 4:26 | 2025-10-31 |  |
 | [Me Haces Falta](https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Me Haces Falta](https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS) | 3:35 | 2023-01-13 |  |
 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/30nITczErPVyfkYEWmpGQT) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 | 2021-12-09 |  |
 | [Me Llaman Nella](https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh), [Santiago Periné](https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj) | [Me Llaman Nella](https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb) | 3:18 | 2021-12-09 | 2024-07-10 |
@@ -387,7 +388,7 @@
 | [Volando Bajito](https://open.spotify.com/track/3W888aowJCl8Mwq9JMaJTc) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Volando Bajito](https://open.spotify.com/album/3nyLvPVZZJTumqzbGeVOhx) | 2:22 | 2022-01-27 | 2022-03-09 |
 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 | 2021-12-09 |  |
 | [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 | 2023-09-01 |  |
-| [Vértigo](https://open.spotify.com/track/1VgQ6AZ8tVV0uhvhH9usuj) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vértigo](https://open.spotify.com/album/19MUIINT0CT8vfZwAGW3RR) | 3:26 | 2021-12-09 |  |
+| [Vértigo](https://open.spotify.com/track/1VgQ6AZ8tVV0uhvhH9usuj) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vértigo](https://open.spotify.com/album/19MUIINT0CT8vfZwAGW3RR) | 3:26 | 2021-12-09 | 2025-11-01 |
 | [Vértigo](https://open.spotify.com/track/227nezDEiXyyQvUyGsB2S0) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:27 | 2022-05-14 | 2024-04-19 |
 | [Y Si Mañana](https://open.spotify.com/track/0mdXFAAbFwFlKdiEtkz1ha) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:37 | 2021-12-09 |  |
 | [Ya mi mama me decía](https://open.spotify.com/track/2AviITab6bCBtts9zJIPYz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Ya mi mama me decía](https://open.spotify.com/album/6uuWDvCnj4OarH4j4Z83aU) | 3:08 | 2021-12-09 | 2022-07-29 |

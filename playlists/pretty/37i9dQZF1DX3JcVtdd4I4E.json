@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7756,
+  "num_followers": 7762,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "I Hate San Francisco",
-        "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "I Hate San Francisco",
-      "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "I Hate San Francisco",
+        "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "I Hate San Francisco",
+      "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 178666,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2025-05-06 11:46:39",

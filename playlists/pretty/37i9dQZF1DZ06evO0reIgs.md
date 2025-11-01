@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,967 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,969 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 43 | [Pode Sair / Pode Ficar](https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR) | [Math Basso](https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Pode Sair / Pode Ficar](https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS) | 2:53 |
 | 44 | [Hey Boy](https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:05 |
 | 45 | [Eu Penso](https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:03 |
-| 46 | [Beira Mar, Pt\. 2](https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Beira Mar, Pt\. 2](https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6) | 2:19 |
-| 47 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
-| 48 | [Alaska, Pt\. 2](https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 3:52 |
+| 46 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
+| 47 | [Alaska, Pt\. 2](https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 3:52 |
+| 48 | [Beira Mar, Pt\. 2](https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Beira Mar, Pt\. 2](https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6) | 2:19 |
 | 49 | [Desmoronar](https://open.spotify.com/track/7f24oT0v5BiURjxYVjfZD0) | [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Desmoronar](https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv) | 3:31 |
-| 50 | [Sos](https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [Minissaia](https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6) | 3:31 |
+| 50 | [Temporais 2](https://open.spotify.com/track/2Tqz0VlIN2qPs2ofDGxUZB) | [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Atemporal](https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb) | 3:38 |
 
-Snapshot ID: `aQFZAAAAAAC437Vdh38K5SZaokRfZgDG`
+Snapshot ID: `aQKqgAAAAACHmMfOel4tNv0nSJCe06zM`

@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-285 songs - 17 hr 18 min
+286 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Hold Together](https://open.spotify.com/track/2XCcWKqWhTcEIIioskq3bi) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Hold Together](https://open.spotify.com/album/7erbvztzF5K8So7dme7oKk) | 3:32 | 2022-08-26 |  |
 | [Honey Sweet](https://open.spotify.com/track/7EUbTte3zODBNiP5MsMG00) | [Megan Danielle](https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx) | [Honey Sweet](https://open.spotify.com/album/546HO9gHPcdI0LMvlyhuoB) | 3:05 | 2025-02-14 | 2025-09-27 |
 | [How Could I Not Believe](https://open.spotify.com/track/201fonFKfnKHzveCvrD5K6) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Pioneer \(Deluxe Edition\)](https://open.spotify.com/album/1cD1g7fKhkmE6DxUTJrPyr) | 3:28 | 2024-09-06 |  |
+| [How Great Thou Art](https://open.spotify.com/track/6xafhOxBgaG6IrmAVE0zpw) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [How Great Thou Art](https://open.spotify.com/album/2wy4KYFnO3Lo2RsLI47GNo) | 3:55 | 2025-10-31 |  |
 | [How I Learned to Pray](https://open.spotify.com/track/1zy9Ypjqd8TTxYsYEQOCy7) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Rubberband](https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b) | 4:20 | 2021-12-10 |  |
 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-12-15 |  |
 | [Humble And Kind](https://open.spotify.com/track/3Rkk851fZjIsglV2jbBPDd) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind](https://open.spotify.com/album/4gpCST5Fb2FF23aZkWRy9e) | 4:17 | 2021-12-10 | 2025-06-30 |

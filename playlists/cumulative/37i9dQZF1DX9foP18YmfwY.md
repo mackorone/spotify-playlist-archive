@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-223 songs - 18 hr 0 min
+224 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Nada Te Perturbe](https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nada Te Perturbe](https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25) | 3:45 | 2022-09-02 | 2023-12-23 |
 | [Nada Temerei](https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Nada Temerei](https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ) | 4:46 | 2022-09-02 |  |
 | [Nada É Maior](https://open.spotify.com/track/4wkIkeTnQ1eHDQ3ovQIJy1) | [Frei Wilter Malveira, OFMCap](https://open.spotify.com/artist/6Bm0pEtYiZyDEXfcRM8nzM), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Nada É Maior](https://open.spotify.com/album/432dKZfDYsjJ4PatyeYwQm) | 3:23 | 2022-09-02 | 2023-02-11 |
+| [Neste Lugar Há Poder \- Ao Vivo](https://open.spotify.com/track/2m99EkDjjEJzLd2bU4QZaV) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Neste Lugar Há Poder](https://open.spotify.com/album/2TMrjUKjwf5CrZ8bGSpg9R) | 6:05 | 2025-10-31 |  |
 | [Ninguém Explica Deus \- Ao Vivo](https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM) | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW) | 5:09 | 2022-09-02 | 2024-08-31 |
 | [No Teu Nome](https://open.spotify.com/track/7KHjWGuzZ0KUEqRZh9Un46) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [No Teu Nome](https://open.spotify.com/album/5FcTozsZy3qH9KFtosylDU) | 3:57 | 2023-07-14 | 2023-08-19 |
 | [Nossa Senhora](https://open.spotify.com/track/2H2OPvhkS90Y1dp47uiVAm) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Nossa Senhora](https://open.spotify.com/album/4DdEkdjWAmKerPxe3Iirmt) | 4:59 | 2025-10-10 |  |
@@ -192,7 +193,7 @@
 | [Sara Esta Nação](https://open.spotify.com/track/0DK1wETxHVvJAcMAKe5pVK) | [Emanuel Stênio](https://open.spotify.com/artist/7wkcbRxRtbBmYPpyvXpH1D), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU), [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Sara Esta Nação](https://open.spotify.com/album/0Syjy40Sj9HR9dRMsP6ulM) | 6:26 | 2022-09-02 | 2022-12-10 |
 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 | 2022-09-02 |  |
 | [Se Eu Tocar](https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Espírito da Verdade](https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P) | 4:47 | 2022-09-02 | 2025-03-02 |
-| [Seguir Viagem](https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg) | [Raquel Carpejani](https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW) | [Seguir Viagem](https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW) | 3:38 | 2024-12-20 |  |
+| [Seguir Viagem](https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg) | [Raquel Carpejani](https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW) | [Seguir Viagem](https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW) | 3:38 | 2024-12-20 | 2025-11-01 |
 | [Seja Bem\-Vindo Jesus](https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Seja Bem\-Vindo Jesus](https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua) | 5:10 | 2022-09-02 | 2023-03-18 |
 | [Seja Elevado \- Ao Vivo](https://open.spotify.com/track/6Ffb2kWofzil2OjrVnr6WA) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Seja Elevado \(Ao Vivo\)](https://open.spotify.com/album/22OWLgCGsjWOO2NAgm2v42) | 3:55 | 2025-01-31 | 2025-02-17 |
 | [Seja Forte e Corajoso \- Ao Vivo](https://open.spotify.com/track/04i8glpUdpgqOa9PWDo4uM) | [Deivison Pires](https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT), [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN) | [Seja Forte e Corajoso \(Ao Vivo\)](https://open.spotify.com/album/6QCjDE6PNN5yREjR7fk7HV) | 8:18 | 2025-03-17 | 2025-07-20 |

@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Slone",
+          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258856,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/7FXmyDfIcY7BCxZQO5k5JQ"
+    },
+    {
+      "album": {
         "name": "Denim Eyed Dear",
         "url": "https://open.spotify.com/album/2JNysN8cxeJlNsRFD25Qiz"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 25312,
+  "num_followers": 25316,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
+        "name": "CARNAVALITO DEL DUENDE",
+        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "CARNAVALITO DEL DUENDE",
+      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
         "name": "Juana Azurduy",
         "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 218461,
       "name": "Juana Azurduy",
       "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
-        "name": "CARNAVALITO DEL DUENDE",
-        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "CARNAVALITO DEL DUENDE",
-      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -451,26 +451,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Arriba Quemando el Sol",
-        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Maryta de Humahuaca",
-          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Arriba Quemando el Sol",
-      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "Lupuna",
         "url": "https://open.spotify.com/album/19nZKevjR88xBmIl8qXv0F"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 433659,
       "name": "Lupuna",
       "url": "https://open.spotify.com/track/5LTk1XzBCaTz20Ofd60KTC"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "Arriba Quemando el Sol",
+        "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Maryta de Humahuaca",
+          "url": "https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Arriba Quemando el Sol",
+      "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
+        "name": "Ay Palomita",
+        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 391452,
+      "name": "Ay Palomita",
+      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
         "name": "Como la Cigarra",
         "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 249970,
       "name": "Como la Cigarra",
       "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
-        "name": "Ay Palomita",
-        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 391452,
-      "name": "Ay Palomita",
-      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
+        "name": "Viaje Astral",
+        "url": "https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 244408,
+      "name": "Viaje Astral",
+      "url": "https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
         "name": "Muchas Estrellas",
         "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 271000,
       "name": "Muchas Estrellas",
       "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
-        "name": "Viaje Astral",
-        "url": "https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        }
-      ],
-      "duration_ms": 244408,
-      "name": "Viaje Astral",
-      "url": "https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "La L\u00ednea Del Rio (Remix)",
-        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
-        }
-      ],
-      "duration_ms": 546568,
-      "name": "La L\u00ednea Del Rio - Remix",
-      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "La Monta\u00f1a Sin Nombre II",
         "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
       },
@@ -763,26 +743,6 @@
       "duration_ms": 362653,
       "name": "CUMBIA ORIENTAL",
       "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
-        "name": "Espuma de Mar ~ remixes",
-        "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
-      },
-      "artists": [
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        },
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        }
-      ],
-      "duration_ms": 224064,
-      "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
-      "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -811,6 +771,46 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "La L\u00ednea Del Rio (Remix)",
+        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
+        }
+      ],
+      "duration_ms": 546568,
+      "name": "La L\u00ednea Del Rio - Remix",
+      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "Espuma de Mar ~ remixes",
+        "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        },
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        }
+      ],
+      "duration_ms": 224064,
+      "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
+      "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Se que no Vas a Volver",
+      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
         "name": "El tiempo de las cosas que frenan",
         "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 300250,
       "name": "El tiempo de las cosas que frenan",
       "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
-        "name": "CARNABAILITO",
-        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Se que no Vas a Volver",
-      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Dia Y Noche",
-        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 425500,
-      "name": "Noche - Remix",
-      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
         "name": "CARNABAILITO",
         "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
       },
@@ -1103,26 +1087,18 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "HACIA EL MAR (Pol Nada Remix)",
-        "url": "https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3"
+        "name": "Dia Y Noche",
+        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
       },
       "artists": [
         {
-          "name": "Carlos Braile",
-          "url": "https://open.spotify.com/artist/659Vlm5tMVPeKVZG8h9VZT"
-        },
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        },
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
         }
       ],
-      "duration_ms": 319817,
-      "name": "HACIA EL MAR - Pol Nada Remix",
-      "url": "https://open.spotify.com/track/3RevMlORUCSBeVpNNH9D1G"
+      "duration_ms": 425500,
+      "name": "Noche - Remix",
+      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -1147,6 +1123,30 @@
       "duration_ms": 264323,
       "name": "Telesita",
       "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
+        "name": "HACIA EL MAR (Pol Nada Remix)",
+        "url": "https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Braile",
+          "url": "https://open.spotify.com/artist/659Vlm5tMVPeKVZG8h9VZT"
+        },
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 319817,
+      "name": "HACIA EL MAR - Pol Nada Remix",
+      "url": "https://open.spotify.com/track/3RevMlORUCSBeVpNNH9D1G"
     },
     {
       "added_at": "2025-08-21 19:45:20",

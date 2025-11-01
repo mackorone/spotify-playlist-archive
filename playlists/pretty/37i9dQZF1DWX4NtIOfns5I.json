@@ -1,28 +1,60 @@
 {
-  "description": "alice phoebe lou on the cover\ud83c\udf43",
-  "num_followers": 143298,
+  "description": "meet joshua slone \ud83c\udf42",
+  "num_followers": 143296,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJO+v/5x1JI3JQ+kEomZoLQieyye",
+  "snapshot_id": "AAAAANiC2iNA+Ki+E1TvE1bJsJSdzwnF",
   "tracks": [
     {
-      "added_at": "2025-10-24 04:00:26",
+      "added_at": "2025-10-31 04:00:35",
       "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu"
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
       },
       "artists": [
         {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+          "name": "Joshua Slone",
+          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
         }
       ],
-      "duration_ms": 182713,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
+      "duration_ms": 216727,
+      "name": "Your Place At My Place",
+      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
+    },
+    {
+      "added_at": "2025-10-31 04:00:35",
+      "album": {
+        "name": "Lake Run Drive",
+        "url": "https://open.spotify.com/album/0swneIkCfAAXIl164byvJy"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "duration_ms": 226785,
+      "name": "Lake Run Drive",
+      "url": "https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam"
+    },
+    {
+      "added_at": "2025-10-31 04:00:35",
+      "album": {
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2025-10-24 04:00:26",
@@ -43,6 +75,22 @@
     {
       "added_at": "2025-10-24 04:00:26",
       "album": {
+        "name": "Betty",
+        "url": "https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 182713,
+      "name": "Betty",
+      "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa"
       },
@@ -55,6 +103,54 @@
       "duration_ms": 163292,
       "name": "Mind Reader",
       "url": "https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE"
+    },
+    {
+      "added_at": "2025-10-31 04:00:35",
+      "album": {
+        "name": "Sylvie",
+        "url": "https://open.spotify.com/album/1Bz0ZJqku7OK6S63zfRP7K"
+      },
+      "artists": [
+        {
+          "name": "Sylvie",
+          "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
+        }
+      ],
+      "duration_ms": 298893,
+      "name": "Falls on me",
+      "url": "https://open.spotify.com/track/5OsQW2NKnrhS4RjDRLUfje"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
+    },
+    {
+      "added_at": "2025-10-31 04:00:35",
+      "album": {
+        "name": "Vicious Delicious",
+        "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR"
     },
     {
       "added_at": "2025-10-24 04:00:26",
@@ -79,22 +175,6 @@
     {
       "added_at": "2025-10-24 04:00:26",
       "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/5NbilllIdF8lp4FmdX7OF8"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
         "name": "Tie you down",
         "url": "https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI"
       },
@@ -113,6 +193,22 @@
       "url": "https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6"
     },
     {
+      "added_at": "2025-10-31 04:00:35",
+      "album": {
+        "name": "Handprint",
+        "url": "https://open.spotify.com/album/1bKKGJavRxrzam4EdjHIbf"
+      },
+      "artists": [
+        {
+          "name": "Cayden Wemple",
+          "url": "https://open.spotify.com/artist/0hzr8TCwUaFkbq03iJ7W0q"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "Handprint",
+      "url": "https://open.spotify.com/track/3xcmVSBrFsPK9tmDoDMkdp"
+    },
+    {
       "added_at": "2025-10-24 04:00:26",
       "album": {
         "name": "hang on the wall what you kill",
@@ -127,6 +223,38 @@
       "duration_ms": 147348,
       "name": "hang on the wall what you kill",
       "url": "https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c"
+    },
+    {
+      "added_at": "2025-10-24 04:00:26",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
+    },
+    {
+      "added_at": "2025-10-31 04:00:35",
+      "album": {
+        "name": "Dissociate",
+        "url": "https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK"
+      },
+      "artists": [
+        {
+          "name": "Luisa Marion",
+          "url": "https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "Dissociate",
+      "url": "https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo"
     },
     {
       "added_at": "2025-10-24 04:00:26",
@@ -151,22 +279,6 @@
     {
       "added_at": "2025-10-24 04:00:26",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
         "name": "The Space Between",
         "url": "https://open.spotify.com/album/73BxuAtQLUMR30pRPN535y"
       },
@@ -183,6 +295,22 @@
       "duration_ms": 347484,
       "name": "The Space Between",
       "url": "https://open.spotify.com/track/6pdbsf3L7iqDwqRe6VNHeu"
+    },
+    {
+      "added_at": "2025-10-31 04:00:35",
+      "album": {
+        "name": "Watchin",
+        "url": "https://open.spotify.com/album/6GV7D6eMEkCAetfDLEo4cx"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Creus",
+          "url": "https://open.spotify.com/artist/2UqrObU2Do3nyUr80zIxn9"
+        }
+      ],
+      "duration_ms": 140086,
+      "name": "Watchin",
+      "url": "https://open.spotify.com/track/0PCAf03GaD6hm5VepAh7Xw"
     },
     {
       "added_at": "2025-10-24 04:00:26",
@@ -2327,122 +2455,6 @@
       "duration_ms": 152906,
       "name": "Silk And Velvet",
       "url": "https://open.spotify.com/track/5uMlfVjrj8Jr5tTxaNati8"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
-        "name": "Don't Put It All On Me (feat. Fleet Foxes)",
-        "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Don't Put It All On Me (feat. Fleet Foxes)",
-      "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
-        "name": "Colorado's On Fire Again",
-        "url": "https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Santiago",
-      "url": "https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 270520,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
-        "name": "you were mine",
-        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 221584,
-      "name": "you were mine",
-      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 286120,
-      "name": "Sweet Heat Lightning",
-      "url": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
-    },
-    {
-      "added_at": "2025-10-24 04:00:26",
-      "album": {
-        "name": "Smoker",
-        "url": "https://open.spotify.com/album/6WWsQ3L08foDx5WdI6qOwe"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 248745,
-      "name": "Smoker",
-      "url": "https://open.spotify.com/track/2oOvlOt5LtDLTYHeGUVhq1"
     }
   ],
   "unique_name": "juniper",

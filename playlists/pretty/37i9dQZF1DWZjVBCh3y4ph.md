@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : LÉA CHURROS x Maud Elka
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,792 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,811 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [DONNE\-MOI TOUT](https://open.spotify.com/track/79cegZJZ5KhXeDMlhnvLoM) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [DONNE MOI TOUT](https://open.spotify.com/album/3lWXAEb4dAMNqPl2CFUw53) | 3:13 |
 | 40 | [SENKLÒD](https://open.spotify.com/track/5vVYrbfPtTVRnsi9pRwi4u) | [Malcolm](https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb) | [FUTURE KARNIVAL](https://open.spotify.com/album/2wGqLtTq3uHRmjPHoknJCt) | 2:56 |
 
-Snapshot ID: `AAAAAA/O22K1ByBETRhjyhfZx7l2wRWr`
+Snapshot ID: `AAAAAKpUF8pCwvSa4GYifYS1+6vZhTbu`

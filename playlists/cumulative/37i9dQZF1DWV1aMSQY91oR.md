@@ -2,7 +2,7 @@
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\. Cover: Planet Giza
+> We'll be back next week with the latest in hip\-hop\. Cover: Planet Giza
 
 4,269 songs - 8 day 12 hr 2 min
 

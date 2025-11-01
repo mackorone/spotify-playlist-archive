@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 7072,
+  "num_followers": 7074,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAACKNjUivDUbip7RgJenXA1e",
+  "snapshot_id": "aQKqgAAAAABlSezzb1QGhOAi79hNo22r",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 368706,
+      "name": "I Just Want To Make Love To You",
+      "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
@@ -535,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Mean Old Frisco",
+      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -552,25 +592,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 368706,
-      "name": "I Just Want To Make Love To You",
-      "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Mean Old Frisco",
-      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
+      "duration_ms": 250800,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
     },
     {
       "added_at": null,
@@ -624,9 +648,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 250800,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
+      "duration_ms": 341560,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
     },
     {
       "added_at": null,
@@ -691,30 +715,6 @@
       "duration_ms": 254506,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
     }
   ],
   "unique_name": "This Is Little Walter",

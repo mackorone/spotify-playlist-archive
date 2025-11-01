@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-419 songs - 1 day 16 hr 54 min
+420 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Kontrol](https://open.spotify.com/track/5ts3NZta32JBTsMZiYT4qq) | [Hybrasil](https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI) | [Kontrol EP](https://open.spotify.com/album/0t8jdQT2gZ9PtOuUv5OwAq) | 5:46 | 2025-04-30 |  |
 | [LAVANDE 01 \[240107.2\]](https://open.spotify.com/track/0qixcOUj0RP0FjxYhQpAE2) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk), [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h) | [LAVANDE](https://open.spotify.com/album/2ms0KaFxLyidtGuETlN5WC) | 6:03 | 2024-09-30 | 2025-01-25 |
 | [Lavapies \- Mixed](https://open.spotify.com/track/6R6x4SoNOpYqs5M4uFmPOD) | [Digital Afrika](https://open.spotify.com/artist/2FtoiNNAAX9Xd2UJwQ9Esw) | [ASW is Live Mixed by Carl Cox \(DJ Mix\)](https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv) | 3:23 | 2024-04-29 | 2024-12-28 |
+| [Legacy](https://open.spotify.com/track/4MshOexDDxmT0VZTpvivac) | [Vikthor](https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO), [Pianoalani](https://open.spotify.com/artist/0hGWwi26siJSLSzUq1n011) | [Legacy](https://open.spotify.com/album/7FObTaQiaPaAS5w2ioYyPD) | 6:03 | 2025-10-31 |  |
 | [Let's Keep Floating](https://open.spotify.com/track/3Kt84nPo7IPy5cGrWAEdbH) | [De Sluwe Vos](https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS) | [Let's Keep Floating](https://open.spotify.com/album/6kHRvKCyPNFXOHNSS3J51A) | 7:41 | 2024-06-07 | 2024-12-07 |
 | [Light of the Universe](https://open.spotify.com/track/0AKbrKkI0nqtBZGjfZXL3w) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [ASW Trax Vol\. 1](https://open.spotify.com/album/5nqgzTouLgCVoth2XtQvjS) | 3:56 | 2025-01-24 | 2025-03-14 |
 | [Light of the Universe](https://open.spotify.com/track/3MbHnU1WGGpaF2SzMN58sX) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Light of the Universe](https://open.spotify.com/album/5yTwUr6JPFUkAbZeJF1k37) | 3:56 | 2023-05-05 | 2024-02-28 |

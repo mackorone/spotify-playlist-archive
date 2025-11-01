@@ -4,7 +4,7 @@
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 5 min
+60 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [6 Lieder, Op\. 13: No\. 5, Ich hab in deinem Auge \(Arr\. Rouger for Choir and Piano\)](https://open.spotify.com/track/6hjYDuDibRYOzz9BJhrV59) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Katharina Schlenker](https://open.spotify.com/artist/0ZDZKQRzh91SL1sYg5PL5q), [figure humaine kammerchor](https://open.spotify.com/artist/5ZtUa4EuIz9bISCR11GY6w), [Denis Rouger](https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF) | [...wo die Zitronen blühn](https://open.spotify.com/album/7aJHFPy7ULfY3prEatAK3t) | 1:47 | 2025-08-12 | 2025-10-17 |
 | [Drei Romanzen, Nr\. 1 Andante molto \- Piano & Violin](https://open.spotify.com/track/57yp0EkozwrKXPxpEY0FJN) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Smooth Piano](https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw) | 2:55 | 2025-08-12 | 2025-08-30 |
 | [Drei Romanzen, Nr\. 2, Allegretto \- Piano & Violin](https://open.spotify.com/track/6mINKdNanPXqOjYbg4CJTI) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Smooth Piano](https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw) | 2:54 | 2025-08-12 |  |
-| [Drei Romanzen, Nr\. 3 Leidenschaftlich schnell \- Piano & Violin](https://open.spotify.com/track/3U010epOsIDfHOW9mx8p8Y) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Smooth Piano](https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw) | 4:04 | 2025-08-12 |  |
+| [Drei Romanzen, Nr\. 3 Leidenschaftlich schnell \- Piano & Violin](https://open.spotify.com/track/3U010epOsIDfHOW9mx8p8Y) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Smooth Piano](https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw) | 4:04 | 2025-08-12 | 2025-11-01 |
 | [Drei Romanzen, Opus 21 Nr 2 Allegretto \- Piano](https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Smooth Piano](https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw) | 1:22 | 2025-08-12 |  |
 | [Drei Romanzen, Opus 21 Nr 3 Agitato \- Piano](https://open.spotify.com/track/1ql1TfPAGIzdCUG7IqKBoK) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Smooth Piano](https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw) | 3:55 | 2025-08-12 |  |
 | [Nocturne In F Major, Op 6, No 2 From: Soireés Musicales](https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH) | [Bart Van Oort](https://open.spotify.com/artist/0YNohiXjeYgl50fzuF2Eq1), [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Peter Arts](https://open.spotify.com/artist/2kzdrryRVblHyTXAlBZcpO) | [Nocturnes Part: 4](https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9) | 5:07 | 2025-08-12 |  |
@@ -67,5 +67,6 @@
 | [“Er Ist Gekommen In Sturm Und Regen” \(Rückert\)](https://open.spotify.com/track/0myF0M2RZWBqrBjV9VnieO) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 2:27 | 2025-10-15 | 2025-10-20 |
 | [“Geheimes Flüstern Hier Und Dort”](https://open.spotify.com/track/64BZpywW3YmR4OecljgPhg) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 3:34 | 2025-10-17 | 2025-10-24 |
 | [“O Lust, O Lust” \(Hauffen\)](https://open.spotify.com/track/6NMDYdfD9fdjGYXbDuycd5) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 1:45 | 2025-10-15 |  |
+| [“Sie Liebten Sich Beide” \(Heine\)](https://open.spotify.com/track/6JzYvf6UIrQeZ4IVhKBnb4) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 1:19 | 2025-11-01 |  |
 
 \*This playlist was first scraped on 2025-08-12. Prior content cannot be recovered.

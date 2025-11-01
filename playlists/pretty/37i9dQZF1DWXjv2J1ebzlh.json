@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 126473,
+  "num_followers": 126506,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "Opendoors",
-      "url": "https://open.spotify.com/track/1gPeJMO7Az6ZtzHiaKUTWb"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Jump Up Calypso",
         "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 162102,
+      "name": "Opendoors",
+      "url": "https://open.spotify.com/track/1gPeJMO7Az6ZtzHiaKUTWb"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Troupeau bleu",
         "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 266040,
       "name": "Huit octobre 1971",
       "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Alegria, Alegria!!!",
         "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Ondatr\u00f3pica",
-        "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
       "artists": [
         {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -843,6 +827,22 @@
       "duration_ms": 162586,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 167533,
       "name": "Kilario",
       "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
-        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
-      },
-      "artists": [
-        {
-          "name": "Hamid Al Shaeri",
-          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
-        }
-      ],
-      "duration_ms": 219624,
-      "name": "Ayonha",
-      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Introducing",
         "url": "https://open.spotify.com/album/4aH9hHamrsRzZm4oSzfcZH"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 275293,
       "name": "Cumbanchero",
       "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Horizon Unlimited",
-        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
-      },
-      "artists": [
-        {
-          "name": "The Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 314520,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "The Very Best of The Dixie Cups: Chapel of Love",
         "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Mandrill Cuts 003",
-        "url": "https://open.spotify.com/album/67iRN3rCbkf99MLcgZbInw"
+        "name": "Horizon Unlimited",
+        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
       },
       "artists": [
         {
-          "name": "NFC",
-          "url": "https://open.spotify.com/artist/4hkvpHClhYuR92kbnMix4L"
+          "name": "The Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
         }
       ],
-      "duration_ms": 256359,
-      "name": "Rico Coco",
-      "url": "https://open.spotify.com/track/2PeL87VR4IqFzr2oyBvNnm"
+      "duration_ms": 314520,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Mandrill Cuts 003",
+        "url": "https://open.spotify.com/album/67iRN3rCbkf99MLcgZbInw"
+      },
+      "artists": [
+        {
+          "name": "NFC",
+          "url": "https://open.spotify.com/artist/4hkvpHClhYuR92kbnMix4L"
+        }
+      ],
+      "duration_ms": 256359,
+      "name": "Rico Coco",
+      "url": "https://open.spotify.com/track/2PeL87VR4IqFzr2oyBvNnm"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Dead Dance",
         "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "S\u00e9rie Samba Soul",
-        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+        "name": "The Loser / Now We Know",
+        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
       },
       "artists": [
         {
-          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
         }
       ],
-      "duration_ms": 152733,
-      "name": "Hei! Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
+      "duration_ms": 218653,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "The Loser / Now We Know",
-        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
+        "name": "S\u00e9rie Samba Soul",
+        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
       },
       "artists": [
         {
-          "name": "Derrick Harriott",
-          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
         }
       ],
-      "duration_ms": 218653,
-      "name": "The Loser",
-      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
+      "duration_ms": 152733,
+      "name": "Hei! Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "\u0130kimiz Bir Fidan\u0131z (45'lik)",
-        "url": "https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q"
-      },
-      "artists": [
-        {
-          "name": "Kamuran Akkor",
-          "url": "https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "\u0130kimiz Bir Fidan\u0131z",
-      "url": "https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Isle Of Magic",
         "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 246799,
       "name": "Kamakumba",
       "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "\u0130kimiz Bir Fidan\u0131z (45'lik)",
+        "url": "https://open.spotify.com/album/3IkS5E4iTSOdTiufaoNx0Q"
+      },
+      "artists": [
+        {
+          "name": "Kamuran Akkor",
+          "url": "https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "\u0130kimiz Bir Fidan\u0131z",
+      "url": "https://open.spotify.com/track/1rRHrIgrPPHUYD97oYAgli"
     },
     {
       "added_at": "2025-03-14 13:51:12",

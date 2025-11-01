@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,763 likes - 93 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,749 likes - 93 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 92 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles Holiday](https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H) | 2:17 |
 | 93 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 |
 
-Snapshot ID: `AAAAAG7u2aHmv7d5vhQW2Q8Uv/2y/bof`
+Snapshot ID: `AAAAAKvHyeWqtoN1BHGvb3soW7zDi1Kv`

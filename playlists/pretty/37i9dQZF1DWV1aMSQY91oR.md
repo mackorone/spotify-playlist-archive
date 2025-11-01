@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\. Cover: Planet Giza
+> We'll be back next week with the latest in hip\-hop\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,880 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,911 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Compliqué](https://open.spotify.com/track/5fye0SLQy7fdOyLq1fJe5D) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Compliqué](https://open.spotify.com/album/2C3Mf9ElXpByjDdc4LMDrz) | 2:23 |
 | 49 | [Too Close](https://open.spotify.com/track/4rQf9YtcgjzLzndj1EUcAm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Memblem](https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI) | [Too Close](https://open.spotify.com/album/1549qienGQFQHzFQcvhl9H) | 1:54 |
 
-Snapshot ID: `AAAAAFXGXoVOUGova3+3tkbD7w163tHk`
+Snapshot ID: `AAAAAKh7QPNHM51tieds5jBNaFfrTY0z`

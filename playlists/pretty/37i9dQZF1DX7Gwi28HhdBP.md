@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6?si=gD4aiSLdQxONDTYraTL03A">  محمود الليثي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,331 likes - 49 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,369 likes - 49 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

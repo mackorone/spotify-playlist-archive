@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 51552,
+  "num_followers": 51557,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 326880,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/6Ac89NtfMzmvVKRNkvQiQ6"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
       },
@@ -1035,22 +1055,6 @@
       "duration_ms": 407373,
       "name": "Periodico De Ayer",
       "url": "https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Musical Conquest",
-        "url": "https://open.spotify.com/album/4OJyl5en2oE93ruuPG3qom"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "El Pio Pio",
-      "url": "https://open.spotify.com/track/1kU7UlD26gXP3kzKSk9ANC"
     },
     {
       "added_at": "2024-09-24 21:05:36",

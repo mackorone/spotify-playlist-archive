@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Cuz",
+        "url": "https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175741,
+      "name": "Cuz",
+      "url": "https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh"
+    },
+    {
+      "album": {
         "name": "Otherness",
         "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },

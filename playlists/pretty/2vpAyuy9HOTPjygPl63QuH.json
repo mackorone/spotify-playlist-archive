@@ -1,13 +1,33 @@
 {
   "description": "The freshest house music | Submit via Instagram: @subshiftmusic",
-  "num_followers": 14328,
+  "num_followers": 14358,
   "original_name": "SUBSHIFT SELECTS",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAm9uv7Gi3/PyEU9GqsV6W89X9pfGLW",
+  "snapshot_id": "AAAm+Pa7mf75sBdra3in1/TfU7cwuLay",
   "tracks": [
+    {
+      "added_at": "2025-10-31 16:49:34",
+      "album": {
+        "name": "Rockin' With",
+        "url": "https://open.spotify.com/album/0hE8oNAQqvLNVrXpGAXkmR"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "KARTY",
+          "url": "https://open.spotify.com/artist/1d4NBnW4o8yblqpLJ0EEci"
+        }
+      ],
+      "duration_ms": 189097,
+      "name": "Rockin' With",
+      "url": "https://open.spotify.com/track/0p4fVoWXtS4IINstVnnNr0"
+    },
     {
       "added_at": "2025-10-08 18:26:58",
       "album": {

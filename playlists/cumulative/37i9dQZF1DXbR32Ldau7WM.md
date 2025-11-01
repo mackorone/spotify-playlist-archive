@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Ling Tosite Sigure 凛として時雨
 
-1,423 songs - 3 day 21 hr 13 min
+1,424 songs - 3 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -928,6 +928,7 @@
 | [それは愛なんだぜ!](https://open.spotify.com/track/4YAm0nGPrA8J0qGEOn5qtv) | [カーリングシトーンズ](https://open.spotify.com/artist/2CWdFcS91QZURvn7PnbpdP) | [それは愛なんだぜ!](https://open.spotify.com/album/1Awt6Ml00XvndM9CEutUzc) | 3:42 | 2022-05-10 | 2022-06-19 |
 | [たかが世界の終わり](https://open.spotify.com/track/6JNER5aKiitRSVygLte3uU) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [たかが世界の終わり](https://open.spotify.com/album/5OLGFJMc0Xq3pkLlV1UKfi) | 2:35 | 2025-04-22 | 2025-05-28 |
 | [たぶんMaybe明治 feat\. あ、たぎれんたろう](https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [あ、たぎれんたろう](https://open.spotify.com/artist/5HT55SPkrxr8N49KCsDrFC) | [レキシチ](https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4) | 3:31 | 2022-05-22 | 2022-07-24 |
+| [だからなんだって話](https://open.spotify.com/track/5WihpZNbe6UrVphH3bM9Jl) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [だからなんだって話](https://open.spotify.com/album/6G9qwO6BxtKgjpA6mXJelS) | 3:37 | 2025-10-23 |  |
 | [てぃんがーら](https://open.spotify.com/track/21vUUai0ml8ydEDIb776om) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [愛彌々](https://open.spotify.com/album/5sQWqif17rMKy4LNifoXFx) | 4:55 | 2022-07-28 | 2022-08-04 |
 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 | 2023-06-27 |  |
 | [とりあえず今は](https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [とりあえず今は](https://open.spotify.com/album/1dBKcsV0XIhCvtijBoYBoD) | 4:29 | 2025-04-08 | 2025-06-11 |
@@ -964,7 +965,7 @@
 | [アイムリアル](https://open.spotify.com/track/2ILWgaW2fK1IzShTZdOhqe) | [Yoshiharu Shiina](https://open.spotify.com/artist/2YoEsDFl4XsjRk3j22YfbH) | [アイムリアル](https://open.spotify.com/album/0BcbumwHjdJ1fEa7m9vH56) | 3:23 | 2022-05-12 | 2022-07-27 |
 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 | 2023-08-15 | 2023-08-23 |
 | [アクマ](https://open.spotify.com/track/6ebno1nYxxJd6Soz0TyjIr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アクマ](https://open.spotify.com/album/5rr61rXAJXNGLPUVgZUcp3) | 3:37 | 2024-11-05 | 2025-04-02 |
-| [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 | 2023-06-27 | 2025-10-24 |
+| [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 | 2023-06-27 |  |
 | [アナザーワールドエンド](https://open.spotify.com/track/3XkGAnx7i8OcFTIEcmVOUP) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 6:24 | 2024-07-23 | 2024-09-04 |
 | [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 | 2024-05-14 | 2024-07-17 |
 | [アフターダーク](https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ワールド ワールド ワールド](https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI) | 3:12 | 2023-06-27 | 2024-02-07 |
@@ -1174,7 +1175,7 @@
 | [君が気高い孤独なら \- 2020 mix & radio edit](https://open.spotify.com/track/2FrouqWUTQxr2jhw6KdKqf) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [THE ESSENTIAL TRACKS 2005 \- 2020](https://open.spotify.com/album/0cPLqG1ogQ2AhWLTnbRIzt) | 4:38 | 2023-05-16 | 2023-05-24 |
 | [君と僕のメロディ](https://open.spotify.com/track/1spkMgFPcWxnUzrILP5FWC) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [THE SPELLBOUND](https://open.spotify.com/album/3XyMTPPidPjGUoINx4Yenc) | 6:04 | 2022-05-12 | 2022-06-05 |
 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 | 2024-04-23 |  |
-| [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 | 2025-07-22 |  |
+| [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 | 2025-07-22 | 2025-11-01 |
 | [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 | 2025-08-01 | 2025-09-24 |
 | [在東京少年](https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5) | 3:38 | 2023-09-12 | 2023-09-27 |
 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-25 |  |
@@ -1290,7 +1291,7 @@
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-05-10 | 2022-11-09 |
 | [水割りをうすくつくっていつまでも](https://open.spotify.com/track/0KlLXIG5ZtKrSqDN2IOKt5) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [水割りをうすくつくっていつまでも](https://open.spotify.com/album/1V2e27tAPHcBPNvh0VStNn) | 3:14 | 2024-02-20 | 2024-02-22 |
 | [水色と空色](https://open.spotify.com/track/3ng50f0XnhrTWF8ooA8wzJ) | [Fumiya Fujii](https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS) | [水色と空色](https://open.spotify.com/album/55BY83icZvzWxKSShP7Bb9) | 4:41 | 2022-05-24 | 2022-06-01 |
-| [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 | 2024-05-28 |  |
+| [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 | 2024-05-28 | 2025-11-01 |
 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 | 2022-07-28 | 2022-08-31 |
 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 | 2023-09-26 | 2025-07-02 |
 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 | 2024-01-25 |

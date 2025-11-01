@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1fdoOFDGMefVqwAm1QFj8D">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-38 songs - 1 hr 57 min
+39 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adios!](https://open.spotify.com/track/2B021Vp8zMjUFsVz26fkN0) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [Adios!](https://open.spotify.com/album/7kGoSK4R4F5uPlacA5ZUQn) | 3:04 | 2022-05-29 |  |
-| [Arcade Games](https://open.spotify.com/track/2A9dSXcHoFBZb978YuVg5J) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [all is not well in heaven](https://open.spotify.com/album/2P5RCDWAC8l1qmnrj6bch3) | 3:06 | 2022-05-29 |  |
+| [Arcade Games](https://open.spotify.com/track/2A9dSXcHoFBZb978YuVg5J) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [all is not well in heaven](https://open.spotify.com/album/2P5RCDWAC8l1qmnrj6bch3) | 3:06 | 2022-05-29 | 2025-11-01 |
+| [Arcade Games](https://open.spotify.com/track/2kLGTBiwX7bFYELUIeHWC5) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [all is not well in heaven](https://open.spotify.com/album/7ffdbUVBAwlYb9dh2TdghA) | 3:06 | 2025-10-31 |  |
 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 | 2022-10-13 |  |
 | [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 | 2022-05-29 | 2022-10-14 |
 | [body in my bed](https://open.spotify.com/track/35A0hbUL2Ey3mG2TbMHo0t) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/2b0dLMRLdninQEdHJpwTiA) | 3:23 | 2022-05-29 | 2022-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,170 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,185 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 30 | [Detalles \- Live](https://open.spotify.com/track/65lf9GOGo5pjHUqImIGwPv) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:41 |
 | 31 | [Tito Nieves Medley \(Sonambulo / El Amor Más Bonito / Almohada\) \- Live](https://open.spotify.com/track/2kSv1nvmn6OLDaUlvsryYp) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Una Historia Musical](https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79) | 8:05 |
 | 32 | [Nuestro Sueño \- En Vivo](https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Grupo Niche \(En Vivo\)](https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3) | 5:35 |
-| 33 | [Lobo Domesticado "En Vivo"](https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [40 Anniversary \(Live Hits\)](https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL) | 4:46 |
+| 33 | [Quimbara \- Live](https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 6:01 |
 | 34 | [Guantanamera \- Live](https://open.spotify.com/track/17m5ZCpxMEC1MyAeuu6u5L) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Jorge Santana](https://open.spotify.com/artist/68GKwB0h4qEbbEWfpT25Vm) | [Live In Africa](https://open.spotify.com/album/5YUlti1Sao9vMmKIinSTR1) | 4:53 |
-| 35 | [Quimbara \- Live](https://open.spotify.com/track/1o88biFSFaZ3khg7bENuz9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 6:01 |
+| 35 | [Lobo Domesticado "En Vivo"](https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [40 Anniversary \(Live Hits\)](https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL) | 4:46 |
 | 36 | [Boranda](https://open.spotify.com/track/029UVd2kWFQVuCJZ7ekuNX) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [45 Aniversario](https://open.spotify.com/album/5T5SzOvy6RDvdKOQre31BR) | 13:32 |
 | 37 | [Sonido Bestial \- En Vivo](https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX) | [Richie Ray](https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Un Sonido Bestial El Concierto \(En Vivo\)](https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg) | 6:11 |
 | 38 | [Lluvia \- En Vivo](https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Eddie Santiago \(En Vivo\)](https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6) | 6:13 |

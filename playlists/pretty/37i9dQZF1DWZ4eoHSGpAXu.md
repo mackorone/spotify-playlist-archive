@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,905 likes - 65 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,008 likes - 65 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 64 | [Heaven's Well \- Live](https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Heaven's Well](https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv) | 4:13 |
 | 65 | [Enough \(Live\)](https://open.spotify.com/track/1BILFyQSq3qQnvrjeO6Pmh) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [All Things New \(Live\)](https://open.spotify.com/album/5Cs8VSRTYu8s6dPKBSZhGv) | 5:35 |
 
-Snapshot ID: `AAAAAHOU5U2rqvCNXAEalTfWT74Zk6lj`
+Snapshot ID: `AAAAAO89Wk4rBkvV2AvkJeYApeLeoynT`

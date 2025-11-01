@@ -4,7 +4,7 @@
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-207 songs - 11 hr 50 min
+208 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,10 +115,11 @@
 | [Lies](https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies](https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e) | 3:47 | 2025-07-18 |  |
 | [Line by Line](https://open.spotify.com/track/2Q2KyAJe3CZbBFLIjo3F3Z) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Line by Line](https://open.spotify.com/album/27uNeCQbCkqnY9MU3zLo1p) | 3:57 | 2025-07-18 |  |
 | [Listening Now](https://open.spotify.com/track/4BEA3Xwkj90eOYo7by1HLI) | [David Arlo](https://open.spotify.com/artist/0p5H44Hufi4BrG8PyaH7rK) | [Listening Now](https://open.spotify.com/album/5mi9kuH3w0mIeToHBkgtc8) | 3:28 | 2025-08-11 |  |
-| [Little By Little](https://open.spotify.com/track/4V5ejXmLyywcFgE9Rqsvr9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:21 | 2025-07-18 |  |
+| [Little By Little](https://open.spotify.com/track/4V5ejXmLyywcFgE9Rqsvr9) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:21 | 2025-07-18 | 2025-11-01 |
 | [Little Freak](https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:22 | 2025-07-18 |  |
 | [Lola \(feat\. Yotuel\)](https://open.spotify.com/track/0Wn8hKAvkTnqIKQHFezxJO) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:05 | 2025-07-18 |  |
 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-04 |  |
+| [lost myself 4 u](https://open.spotify.com/track/730GhznXWwH802wyHVJoqi) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [lost myself 4 u](https://open.spotify.com/album/7nVYdEipAl8lghrBOk0sW6) | 3:50 | 2025-10-31 |  |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/3nGC1K8uBbq8rNOt8nHa00) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3vTmTXu1fTOw2vRn6bfI5j) | 3:00 | 2025-07-18 |  |
 | [Love Me Now](https://open.spotify.com/track/6nxQdXa1uAL0rY72wPZu89) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 3:30 | 2025-07-18 |  |
 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2025-07-18 | 2025-09-13 |

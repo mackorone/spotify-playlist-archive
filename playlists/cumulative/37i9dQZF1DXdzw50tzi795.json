@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e1f\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+        "url": "https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224497,
+      "name": "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23",
+      "url": "https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e1a\u0e2d\u0e01\u0e25\u0e32 (Just To Let Me Know) - Single",
         "url": "https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL"
       },
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 334459,
       "name": "\u0e08\u0e14\u0e08\u0e33",
       "url": "https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS"

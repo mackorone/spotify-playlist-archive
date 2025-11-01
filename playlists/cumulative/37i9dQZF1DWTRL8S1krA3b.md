@@ -2,9 +2,9 @@
 
 ### [New Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DWTRL8S1krA3b)
 
-> This year's new country holiday songs! Cover: Zach Top
+> This year's new country holiday songs! Cover: Lady A
 
-218 songs - 11 hr 56 min
+220 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,8 +114,10 @@
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7DhjoC3MMOP7T0zTPUcCic) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/44zPwP1kchuLwKQRSGBWRT) | 3:20 | 2024-11-08 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/0FYfEH8h4uqj8HCsYA7iMz) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN), [The Campbell Family](https://open.spotify.com/artist/6AwSX4gGVkMuFQxtmnKE6Z) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/7N35BaXEu935ZiysEwAQp7) | 2:35 | 2024-11-29 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1WFjVtWkQhMnaaKgg3sDb3) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas \(Extended Version\)](https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO) | 2:19 | 2023-11-24 | 2024-10-19 |
+| [It's Christmas Y'all](https://open.spotify.com/track/3HBJOL42UhmJsNSm7IJSo3) | [Scotty Inman](https://open.spotify.com/artist/3pWCPKVckgJonKRHNkGY2o) | [It's Christmas Y'all](https://open.spotify.com/album/1775QrVlez9XlUKGG392SO) | 2:33 | 2025-10-31 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [A Classic Christmas](https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1) | 2:33 | 2023-11-24 | 2024-10-19 |
 | [Jingle Bell Rock](https://open.spotify.com/track/1nN7ch5Ky0HNuVJX5MZygs) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [Jingle Bell Rock](https://open.spotify.com/album/7fAQgVaILNw6qRPE9xUlK1) | 2:08 | 2024-11-01 |  |
+| [Jingle Jangle Rock](https://open.spotify.com/track/1yDOdiL1nJEsQNSHis5ufT) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Jingle Jangle Rock](https://open.spotify.com/album/5GPPjUYnbwnYGUZlWs13Pe) | 3:30 | 2025-10-31 |  |
 | [Joy To The World](https://open.spotify.com/track/3Wc6clK3BdmeW0Ce20Du2u) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Joy To The World](https://open.spotify.com/album/1yhL0vfvEp2P5JX7UrMnva) | 3:05 | 2024-11-15 |  |
 | [Joy To The World](https://open.spotify.com/track/4pCfx1Mghl9ccOTK40wRBP) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Joy To The World](https://open.spotify.com/album/4KPj94cA1iorxv8Ki9rBrv) | 2:51 | 2023-11-24 | 2024-10-19 |
 | [Just Takes Two \(To Make It Christmas\)](https://open.spotify.com/track/6HwrjfBjnbyfgKRDzX3jdk) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Just Takes Two \(To Make It Christmas\)](https://open.spotify.com/album/6mByerb31tq2Ng8teBvMqj) | 3:21 | 2024-11-15 |  |

@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "CHANGE THE WORLD",
+        "url": "https://open.spotify.com/album/3Clw4RaxA8YkG6Qlkm8HcW"
+      },
+      "artists": [
+        {
+          "name": "V6",
+          "url": "https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291466,
+      "name": "CHANGE THE WORLD",
+      "url": "https://open.spotify.com/track/6yEblNtkfQPMbrb2FovkQo"
+    },
+    {
+      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/3wmVPZ0DNAAMaq9BjQSjAL"
       },

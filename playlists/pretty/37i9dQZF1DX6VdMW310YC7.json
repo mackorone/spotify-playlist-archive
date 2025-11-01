@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3916435,
+  "num_followers": 3916472,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 137790,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Give Me Life",
-        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 213113,
-      "name": "Give Me Life",
-      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Change of Driver",
         "url": "https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 231024,
       "name": "Change of Driver",
       "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Give Me Life",
+        "url": "https://open.spotify.com/album/2uQ78onkVkQm9JEfVK78tN"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 213113,
+      "name": "Give Me Life",
+      "url": "https://open.spotify.com/track/1VIFS9J23S0zWLbs5U0f2X"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "i don't know what to say",
         "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 209839,
       "name": "i don't know what to say",
       "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1527,6 +1527,30 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        },
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        },
+        {
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
+        }
+      ],
+      "duration_ms": 230035,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
       },
@@ -1559,30 +1583,6 @@
       "duration_ms": 285595,
       "name": "1973",
       "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        },
-        {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        },
-        {
-          "name": "Elissa Mielke",
-          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
-        }
-      ],
-      "duration_ms": 230035,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf"
     },
     {
       "added_at": "2025-10-24 04:00:17",

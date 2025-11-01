@@ -2,7 +2,7 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Megadeth
+> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
 1,156 songs - 3 day 12 hr 12 min
 

@@ -1,13 +1,33 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 75932,
+  "num_followers": 76050,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKq3xQ3DB/5J4GExtvn1tqYI763E",
+  "snapshot_id": "AAAAANpXVUXNKijse5uTBYOy06UBm5EK",
   "tracks": [
+    {
+      "added_at": "2025-10-31 04:00:31",
+      "album": {
+        "name": "Four Seasons",
+        "url": "https://open.spotify.com/album/202onTxhIs4m0L6nZKX7r7"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        },
+        {
+          "name": "Lah-Lah",
+          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
+        }
+      ],
+      "duration_ms": 106708,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/6rORlgBILt7hESfgmW0YKj"
+    },
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {

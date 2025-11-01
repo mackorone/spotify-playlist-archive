@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z8vo6jUcjD.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF?si=0Nmwl3bvRHyUGyKCVacoVQ">ThxSoMch's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,214 likes - 31 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,226 likes - 31 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

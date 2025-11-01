@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Mandisi Dyantyis",
-  "num_followers": 12307,
+  "num_followers": 12312,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANimZcg/boQ5byn0FzrQHYcDInoO",
+  "snapshot_id": "AAAAAPNMVMb4Imo5gNeeWad9j5BXHFmi",
   "tracks": [
     {
       "added_at": "2025-10-24 06:56:19",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "Hymn For Hani",
-        "url": "https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 716000,
-      "name": "Hymn For Hani",
-      "url": "https://open.spotify.com/track/1dyINry7aQw296piLxPzUB"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
         "name": "Ndilapha",
         "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 398530,
       "name": "Wendile",
       "url": "https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
+        "name": "Hymn For Hani",
+        "url": "https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 716000,
+      "name": "Hymn For Hani",
+      "url": "https://open.spotify.com/track/1dyINry7aQw296piLxPzUB"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -435,22 +435,26 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "Come Home (feat. Filah Lah Lah)",
-        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
+        "name": "Water from an Ancient Well",
+        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
       "artists": [
         {
-          "name": "Ndabo Zulu",
-          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+          "name": "Abdullah Ibrahim",
+          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
         },
         {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+          "name": "Noah Jackson",
+          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
+        },
+        {
+          "name": "Cleave Guyton Jr.",
+          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
         }
       ],
-      "duration_ms": 366048,
-      "name": "Come Home (feat. Filah Lah Lah)",
-      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
+      "duration_ms": 244278,
+      "name": "Water from an Ancient Well - Single Edit",
+      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -487,26 +491,22 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "Water from an Ancient Well",
-        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
+        "name": "Come Home (feat. Filah Lah Lah)",
+        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
       },
       "artists": [
         {
-          "name": "Abdullah Ibrahim",
-          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
         },
         {
-          "name": "Noah Jackson",
-          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
-        },
-        {
-          "name": "Cleave Guyton Jr.",
-          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
         }
       ],
-      "duration_ms": 244278,
-      "name": "Water from an Ancient Well - Single Edit",
-      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+      "duration_ms": 366048,
+      "name": "Come Home (feat. Filah Lah Lah)",
+      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "MaBrrrrrrrrr",
-        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 296678,
-      "name": "MaBrrrrrrrrr",
-      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
         "name": "The Y-Factor Project",
         "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 210666,
       "name": "Bawo Ndi Xolele (Hymn)",
       "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -827,6 +827,26 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
+        "name": "Apho Kungenje",
+        "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
+      },
+      "artists": [
+        {
+          "name": "Ncesh Nonxishi",
+          "url": "https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP"
+        },
+        {
+          "name": "Mthunzikazi Mbungwana",
+          "url": "https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo"
+        }
+      ],
+      "duration_ms": 413906,
+      "name": "Ebhedini",
+      "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
         "name": "Njia",
         "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
       },
@@ -855,26 +875,6 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "Apho Kungenje",
-        "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
-      },
-      "artists": [
-        {
-          "name": "Ncesh Nonxishi",
-          "url": "https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP"
-        },
-        {
-          "name": "Mthunzikazi Mbungwana",
-          "url": "https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo"
-        }
-      ],
-      "duration_ms": 413906,
-      "name": "Ebhedini",
-      "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
         "name": "Inkehli",
         "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 413864,
       "name": "Inkehli",
       "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
+        "name": "We Have Been Here Before",
+        "url": "https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE"
+      },
+      "artists": [
+        {
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+        }
+      ],
+      "duration_ms": 290846,
+      "name": "We Have Been Here Before",
+      "url": "https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -911,22 +927,6 @@
       "duration_ms": 338800,
       "name": "When We Love",
       "url": "https://open.spotify.com/track/0xJhuT46JCo3KcE8EECp4e"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
-        "name": "We Have Been Here Before",
-        "url": "https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE"
-      },
-      "artists": [
-        {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
-        }
-      ],
-      "duration_ms": 290846,
-      "name": "We Have Been Here Before",
-      "url": "https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r"
     },
     {
       "added_at": "2025-10-24 06:56:19",

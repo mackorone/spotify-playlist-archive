@@ -4,7 +4,7 @@
 
 > La casa del trap chileno al mando de Lleflight.
 
-298 songs - 15 hr 8 min
+299 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [VLONE](https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [VLONE](https://open.spotify.com/album/6E3i0fUfZf0QseLtnot3S6) | 3:39 | 2022-01-20 | 2023-12-09 |
 | [Vámonos](https://open.spotify.com/track/1XePyPToFkWPaqa4kksAbu) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [H Empire](https://open.spotify.com/artist/5NrnVIh7EqdzSFQpWmxZUH), [Delay Lama](https://open.spotify.com/artist/4jGrj8pcC0gKQTRB968V8P) | [Vámonos](https://open.spotify.com/album/5CPoCagiLaJlU3ILJ65FdY) | 3:43 | 2022-07-22 | 2024-04-19 |
 | [Vámonos \(feat\. Nfx & DrefQuila\)](https://open.spotify.com/track/7AqH0htxZWaGcSBExgUlXV) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Vámonos \(feat\. Nfx & DrefQuila\)](https://open.spotify.com/album/1L0NO0pTkL7XXjgiSi31Wj) | 3:43 | 2022-01-20 | 2024-07-13 |
+| [WBCM](https://open.spotify.com/track/3txxtuegJvlmox88Gp1j0H) | [Ovz](https://open.spotify.com/artist/7hT0nc4jtIE4KFbkYHoG7m), [OCG](https://open.spotify.com/artist/0t75M8NY9mtfGG2SQnyj6i) | [WBCM](https://open.spotify.com/album/0BBWSqSvLgbgCM9J2mkris) | 2:03 | 2025-10-31 |  |
 | [WHIPPING](https://open.spotify.com/track/30O2NJ4xRG91Y50dI8A6mT) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [WHIPPING](https://open.spotify.com/album/2zbI7iT8G0YhWntW7bvFnN) | 3:00 | 2023-11-23 | 2025-06-28 |
 | [www.PolimáWestcoast](https://open.spotify.com/track/7v97B2A6GIkunZHNq5AXRZ) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [www.PolimáWestcoast](https://open.spotify.com/album/1WXCYhu4JBW4afvKyJlmC1) | 1:27 | 2024-06-28 | 2025-03-22 |
 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 | 2022-01-20 |  |

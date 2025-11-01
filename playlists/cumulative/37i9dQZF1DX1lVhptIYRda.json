@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Megan Moroney",
+  "description": "Today's top country hits. Cover: Luke Combs",
   "name": "Hot Country",
   "tracks": [
     {
@@ -4300,6 +4300,24 @@
       "duration_ms": 198660,
       "name": "Drunk Right Now (Na Na Na) with Akon",
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
+    },
+    {
+      "album": {
+        "name": "East Texas and You",
+        "url": "https://open.spotify.com/album/6r3qwX3dT5Qz2rENRPmOJj"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214089,
+      "name": "East Texas and You",
+      "url": "https://open.spotify.com/track/3Vl3sIrcTxAMmeh07x2zN2"
     },
     {
       "album": {
@@ -11345,6 +11363,24 @@
     },
     {
       "album": {
+        "name": "Til The Sun Goes Down",
+        "url": "https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169634,
+      "name": "O.D.",
+      "url": "https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV"
+    },
+    {
+      "album": {
         "name": "Off Road",
         "url": "https://open.spotify.com/album/1eIN0vpmHWQ2TEZspYu7mH"
       },
@@ -15246,7 +15282,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 246141,
       "name": "Thought It Was Love",
       "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"
@@ -16358,7 +16394,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 259022,
       "name": "What Kinda Man",
       "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"

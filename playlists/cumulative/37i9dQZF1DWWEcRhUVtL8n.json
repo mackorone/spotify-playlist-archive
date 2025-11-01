@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Hannah Jadagu",
+  "description": "New and approved indie pop. Cover: Luvcat",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -1290,6 +1290,24 @@
       "duration_ms": 229024,
       "name": "Alien",
       "url": "https://open.spotify.com/track/335zR61okTOqbGmLFlHcrz"
+    },
+    {
+      "album": {
+        "name": "Vicious Delicious",
+        "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR"
     },
     {
       "album": {
@@ -20134,7 +20152,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 191365,
       "name": "Keep Falling in Love",
       "url": "https://open.spotify.com/track/2s0skXthOtkbPfyiwBf7a0"

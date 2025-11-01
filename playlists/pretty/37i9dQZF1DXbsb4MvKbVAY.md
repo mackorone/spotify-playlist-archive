@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa ROSALÍA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,469 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,473 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 10 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
 | 11 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
 | 12 | [DEPRESSED \(feat\. Lauren Spencer Smith\)](https://open.spotify.com/track/0nNNeXIcPpTydVjcqqjsnU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [DEPRESSED \(feat\. Lauren Spencer Smith\)](https://open.spotify.com/album/4ekqyZgR8jXUgT42PlQUJ6) | 2:18 |
-| 13 | [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [](https://open.spotify.com/album/null) | 2:52 |
+| 13 | [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 |
 | 14 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
 | 15 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 16 | [Muija on näläs](https://open.spotify.com/track/7Maax6CVfXC29rUyed8qS5) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1) | [Muija on näläs](https://open.spotify.com/album/0p3Aaw80uddWeuHo66Q0cs) | 3:22 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 39 | [bars !](https://open.spotify.com/track/6c3nk4patuTP4IhG1j3C7R) | [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [WINXTAPE](https://open.spotify.com/album/6aXTHus2hmpRWLXt40IB8p) | 2:27 |
 | 40 | [Fruit Bat](https://open.spotify.com/track/2hmo6Qz1zHKl7nGbVZSl8Z) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Fruit Bat](https://open.spotify.com/album/0FFPcGdpvNUoJJWr1uYZH7) | 8:17 |
 | 41 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 |
-| 42 | [Track 1](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [](https://open.spotify.com/album/null) | 0:00 |
+| 42 | [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 |
 | 43 | [APPETITE](https://open.spotify.com/track/4003cQbVoKzBuMgfUFXVsH) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [APPETITE](https://open.spotify.com/album/5Xfuqblbhg2hdkUeSXcMkB) | 2:47 |
 | 44 | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Proof](https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE) | [The Manifesto \(feat\. Trueno and Proof\)](https://open.spotify.com/album/5XT5XzzSOys3UnnQ4jBNwo) | 7:19 |
 | 45 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |

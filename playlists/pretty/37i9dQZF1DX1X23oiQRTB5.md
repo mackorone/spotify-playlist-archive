@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Favé x SDM au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,606,841 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,606,909 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [FDT](https://open.spotify.com/track/1bLGJ2sbG6SWDzO3oRePSp) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [FDT](https://open.spotify.com/album/620W178thQwaizBX6AV3G9) | 2:02 |
 | 40 | [Job](https://open.spotify.com/track/4pcKa72ZXndYzdMAhyh0AS) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Job](https://open.spotify.com/album/6VVSZP5emclTDs5QLSGvnP) | 3:21 |
 
-Snapshot ID: `AAAAAHPaGMvlde5EQ8qypwyZnZH/lfn4`
+Snapshot ID: `AAAAAESQmNN+/1w1ZdvtLHh1bleRASNi`

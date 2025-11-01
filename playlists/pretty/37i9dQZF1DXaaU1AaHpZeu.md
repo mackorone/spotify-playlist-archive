@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Depresión Sonora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,967 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,963 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [la mala racha](https://open.spotify.com/track/4Swzoi4CXARQwhhDU8kjcw) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Seb Rodríguez](https://open.spotify.com/artist/4EJ8UxTgitlv2YdMFnWRJC) | [la mala racha](https://open.spotify.com/album/0vVykKWkLEiGjJ1RpvUNBK) | 3:08 |
 | 50 | [Artistas](https://open.spotify.com/track/4OdK0uWyiSyhKP5TX4hGB7) | [Duck Fizz](https://open.spotify.com/artist/6sk1tzWevukbzNTIDTlhzy) | [Artistas](https://open.spotify.com/album/3A6azHr67ia0X7BoLEOhuV) | 3:09 |
 
-Snapshot ID: `AAAAAC8prmkQpJr8+lrTBNBPSCJ51C//`
+Snapshot ID: `AAAAAGUCCXcG5LvyvUtt64afjnHoQzT/`

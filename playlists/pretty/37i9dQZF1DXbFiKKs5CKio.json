@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70416,
+  "num_followers": 70427,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/6TlsCm8yHABXEM8NcYghVF"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 215691,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/5dEzVhAhEImxZeTNxHK6GS"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
         "name": "Jeito Certo",
         "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 190993,
       "name": "Jeito Certo",
       "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/6TlsCm8yHABXEM8NcYghVF"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 215691,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/5dEzVhAhEImxZeTNxHK6GS"
     },
     {
       "added_at": "2025-10-24 18:39:08",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
+        "name": "Passageiro do Bem - LADO B",
+        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Voc\u00ea Merece",
+      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
         "name": "Dava Praia",
         "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
-        "name": "Passageiro do Bem - LADO B",
-        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Voc\u00ea Merece",
-      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
     },
     {
       "added_at": "2025-10-24 18:39:08",

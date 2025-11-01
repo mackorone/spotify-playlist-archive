@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,177 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,150 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 99 | [Heaven Is No Feeling](https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Heaven Is No Feeling](https://open.spotify.com/album/5fwq4wZ66Fh8ebZ5uduuwT) | 3:48 |
 | 100 | [my man](https://open.spotify.com/track/12STQE6jL68yjGk63UCmPn) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:59 |
 
-Snapshot ID: `AAAAAIZLK6ECZ2XCDuqVDt1wEn4COQvF`
+Snapshot ID: `AAAAAIGmm5wnNTaif0AusVHvvT2bg36Q`

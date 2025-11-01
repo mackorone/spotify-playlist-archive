@@ -1995,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Binary Flight",
+        "url": "https://open.spotify.com/album/2nAa9owFDZaVlurCT1kqtb"
+      },
+      "artists": [
+        {
+          "name": "Uchu Plxy",
+          "url": "https://open.spotify.com/artist/3x7qVQGvDb55hhwocZqJo4"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343636,
+      "name": "Binary Flight",
+      "url": "https://open.spotify.com/track/6v0NcJ7wFCmCtsVZSfdD2S"
+    },
+    {
+      "album": {
         "name": "Black Card",
         "url": "https://open.spotify.com/album/6U69jHoucZZoLkYWpNQCxq"
       },

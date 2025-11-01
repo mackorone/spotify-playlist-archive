@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Frank Walker, Josh Ross &amp; Norma Jean Martine.
 
-279 songs - 14 hr 53 min
+280 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Mueva](https://open.spotify.com/track/1IS7T8BYibhyAGxX8Jcgbr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Yiğit Karakaş](https://open.spotify.com/artist/1UAs4FqSeogbj5Z9JWfVlT) | [Mueva](https://open.spotify.com/album/20mDTMjaBrViWry8DE4g0E) | 2:56 | 2025-07-18 |  |
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 | 2025-07-19 |
 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 | 2025-02-21 |  |
+| [My Money \(ft\. Yo Gotti\)](https://open.spotify.com/track/32seaxN8ylWOJuzLbCVIGT) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b) | [My Money \(ft\. Yo Gotti\)](https://open.spotify.com/album/4UKCZp6GVxvNLMeAx9rmo8) | 1:55 | 2025-10-31 |  |
 | [My Pony](https://open.spotify.com/track/1JDyaGheki2RWcVzXBwfBC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/16oQXEs12KIgDFwjjjOnpg) | 2:33 | 2023-12-08 | 2024-03-23 |
 | [Need a Hit](https://open.spotify.com/track/7vUzucnemSOROrnuPRyUzh) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [Need a Hit](https://open.spotify.com/album/3rvmNL5HkzmKWkHrS9nUyY) | 3:53 | 2023-12-08 | 2024-05-04 |
 | [Need I Say More](https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Need I Say More](https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp) | 2:58 | 2024-11-01 | 2025-10-25 |

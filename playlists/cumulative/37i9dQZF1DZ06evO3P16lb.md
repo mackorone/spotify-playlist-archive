@@ -4,7 +4,7 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 25 min
+64 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Pa' Dentro \- Versión Banda](https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Pa' Dentro](https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW) | 2:32 | 2025-07-15 | 2025-08-25 |
 | [Podemos \(No Volver a la Ciudad\)](https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Podemos \(No Volver a la Ciudad\)](https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO) | 3:07 | 2025-02-12 |  |
 | [Por Tu Amor](https://open.spotify.com/track/5EUSHPZCMD9Cvr56cUGepa) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:27 | 2025-02-12 |  |
-| [Pos Cui Cui Ri \- En Vivo](https://open.spotify.com/track/3OGCYPudeYS8VBdnSFO1HS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:13 | 2025-02-12 |  |
+| [Pos Cui Cui Ri \- En Vivo](https://open.spotify.com/track/3OGCYPudeYS8VBdnSFO1HS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:13 | 2025-02-12 | 2025-11-01 |
+| [Prenderte una Vela](https://open.spotify.com/track/7jKAnv55HhR0tm3rO1lkbd) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Prenderte una Vela](https://open.spotify.com/album/6Iv1kuWctIKIqMe8o1xOCr) | 3:05 | 2025-11-01 |  |
 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 | 2025-02-12 |  |
 | [Quién No Ha Llorado Por Amor](https://open.spotify.com/track/1a8Pr4g7Q9OIjZyOrS7HWH) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:44 | 2025-07-18 | 2025-09-02 |
 | [Quiéreme Así](https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:13 | 2025-02-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 118654,
+  "num_followers": 118664,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAB0IRM0Z1IRniJvVi9BRhO9",
+  "snapshot_id": "aQKqgAAAAAChwO9J4lEYZ0GdRBzu0frh",
   "tracks": [
     {
       "added_at": null,
@@ -407,42 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing My Way",
-        "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIARI",
-        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        }
-      ],
-      "duration_ms": 216498,
-      "name": "Back In That Mode (feat. YFN Lucci)",
-      "url": "https://open.spotify.com/track/2cN9S9gCFKicJUVoEwHGgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -467,6 +431,42 @@
       "duration_ms": 257600,
       "name": "Rap Saved Me (feat. Quavo)",
       "url": "https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIARI",
+        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        }
+      ],
+      "duration_ms": 216498,
+      "name": "Back In That Mode (feat. YFN Lucci)",
+      "url": "https://open.spotify.com/track/2cN9S9gCFKicJUVoEwHGgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing My Way",
+        "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIARI:OFFSET",
-        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "Athlete",
-      "url": "https://open.spotify.com/track/49FJesHfwQXqZS3qTPL90k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 192779,
       "name": "Startender (feat. Offset and Tyga)",
       "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIARI:OFFSET",
+        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "Athlete",
+      "url": "https://open.spotify.com/track/49FJesHfwQXqZS3qTPL90k"
     },
     {
       "added_at": null,
@@ -883,6 +883,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "Disrespectful",
+      "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIARI:OFFSET",
         "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 193134,
       "name": "Bodies (BNYX\u00ae Mix) [feat. JID, Drowning Pool & BNYX\u00ae)",
       "url": "https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "Disrespectful",
-      "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
     },
     {
       "added_at": null,
@@ -1067,18 +1067,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIARI:OFFSET",
-        "url": "https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6"
+        "name": "Droptopwop",
+        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
       },
       "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 121904,
-      "name": "History",
-      "url": "https://open.spotify.com/track/1TlN08I8jGQ1K5KRIIuvJt"
+      "duration_ms": 209142,
+      "name": "Met Gala (feat. Offset)",
+      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
     }
   ],
   "unique_name": "This Is Offset",

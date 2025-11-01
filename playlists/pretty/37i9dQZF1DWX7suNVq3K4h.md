@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7suNVq3K4h.md) - [plain]
 
 > Relaxing Mozart to soothe you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,422 likes - 52 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,507 likes - 52 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

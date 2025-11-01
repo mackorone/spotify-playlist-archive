@@ -1587,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Bajo El Sol",
+        "url": "https://open.spotify.com/album/0LgUIQgylnmIfE3YnTbnaK"
+      },
+      "artists": [
+        {
+          "name": "Valka",
+          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247619,
+      "name": "Bajo El Sol",
+      "url": "https://open.spotify.com/track/2ytvOzIVCikJX3ealKAvpX"
+    },
+    {
+      "album": {
         "name": "Balas de Fogueo",
         "url": "https://open.spotify.com/album/3fhho7MnychDA1LDUk8TIM"
       },
@@ -8822,7 +8840,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 181573,
       "name": "Life Is A Movie",
       "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"

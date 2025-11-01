@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "It's Not Me, It's You (Special Edition)",
+        "url": "https://open.spotify.com/album/4zZKTqu7DkowQnO9Bcx4KX"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "Chinese",
+      "url": "https://open.spotify.com/track/60XKb9r9CBh93zSyEarCf3"
+    },
+    {
+      "album": {
         "name": "It's Not Me, It's You",
         "url": "https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 208213,
       "name": "Chinese",
       "url": "https://open.spotify.com/track/6IFXwxWeLkeQ68XaUAcxUf"
@@ -382,7 +400,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 244586,
       "name": "I Could Say",
       "url": "https://open.spotify.com/track/2W49c7MFcySAOqzX7yfFFe"
@@ -444,6 +462,24 @@
       "duration_ms": 173640,
       "name": "Knock 'Em Out",
       "url": "https://open.spotify.com/track/1tzREQUvfSvoigbSOU60Bx"
+    },
+    {
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204347,
+      "name": "L8 CMMR",
+      "url": "https://open.spotify.com/track/7pJXKbp8Ls5SmMT3VutAnE"
     },
     {
       "album": {

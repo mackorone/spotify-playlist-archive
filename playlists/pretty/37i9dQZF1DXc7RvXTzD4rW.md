@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 帝乃三姉妹と優  \(アニメ『帝乃三姉妹は案外、チョロい。』\) Cover:©ひらかわあや／小学館／アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,699 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,702 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [LIKE YOU o\(>< = ><\)o LOVE YOU?](https://open.spotify.com/track/6pyeicTfEeKob6aaRvsneu) | [紫雲寺家の子供たち](https://open.spotify.com/artist/3iLHqlb12x7cqJyFtIZWsV) | [LIKE YOU o\(>< = ><\)o LOVE YOU?](https://open.spotify.com/album/3S9FFALqrIt3eqpC2ZgMx3) | 3:52 |
 | 50 | [うたごえハイシックス \- アカペラアレンジver.](https://open.spotify.com/track/34JYTQWyouMWOHtOxQxb8B) | [うたごえはミルフィーユ](https://open.spotify.com/artist/2yeNHu4XU0p3jt8kabjXFB) | [うたごえハイシックス/STAY GOLD](https://open.spotify.com/album/1YY2iykKCCpCLztncLZPtV) | 4:13 |
 
-Snapshot ID: `AAAAAA8ze49vFkkTmrJQ/sBuzCCOBVdm`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

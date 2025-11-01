@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 64574,
+  "num_followers": 64609,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Klub Ska",
-        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 206039,
-      "name": "S\u00f3lo Vivir",
-      "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "One Step Beyond...",
         "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 138360,
       "name": "One Step Beyond",
       "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Klub Ska",
+        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 206039,
+      "name": "S\u00f3lo Vivir",
+      "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -819,38 +819,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "All The Moon Stompers",
-        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "I Wanna Riot",
-      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0"
       },
@@ -867,6 +835,22 @@
       "duration_ms": 159498,
       "name": "I Had Some Help",
       "url": "https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -891,6 +875,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Johnny Quest Thinks We're Sellouts",
         "url": "https://open.spotify.com/album/7mgR3Stdis4IHoMJLscZdX"
       },
@@ -927,38 +943,6 @@
       "duration_ms": 212960,
       "name": "Johnny Quest Thinks We're Sellouts",
       "url": "https://open.spotify.com/track/4ozQ85MuH3xmwS6Og0qKb9"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Mind Your Business",
         "url": "https://open.spotify.com/album/04KN9nSLB7bQoHHjGfWTwH"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Magam sem tudom",
-        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 190335,
-      "name": "Magam sem tudom",
-      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Aizkolari",
         "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 235986,
       "name": "El Ultimo Ska",
       "url": "https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Magam sem tudom",
+        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 190335,
+      "name": "Magam sem tudom",
+      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/6vXaJCdxYv2UFNYQuvikUv"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 251133,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/0Gs3jQei0OSDAZCI3LZlUJ"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Weit, weit weg",
         "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Balkan Boys",
-        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/6vXaJCdxYv2UFNYQuvikUv"
       },
       "artists": [
         {
-          "name": "Dubioza kolektiv",
-          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 124580,
-      "name": "Balkan Boys",
-      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
+      "duration_ms": 251133,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/0Gs3jQei0OSDAZCI3LZlUJ"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1187,6 +1171,22 @@
       "duration_ms": 192106,
       "name": "Contigo Estar\u00e9 Bien",
       "url": "https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Balkan Boys",
+        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
+      },
+      "artists": [
+        {
+          "name": "Dubioza kolektiv",
+          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+        }
+      ],
+      "duration_ms": 124580,
+      "name": "Balkan Boys",
+      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "El Febrero",
+        "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
+      },
+      "artists": [
+        {
+          "name": "Lollypop Lorry",
+          "url": "https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "El Febrero",
+      "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "El Febrero",
-        "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
-      },
-      "artists": [
-        {
-          "name": "Lollypop Lorry",
-          "url": "https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "El Febrero",
-      "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Return Of The Ugly",
-        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
       },
       "artists": [
         {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+          "name": "Ludo",
+          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
         }
       ],
-      "duration_ms": 182600,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+      "duration_ms": 258019,
+      "name": "Dead Man's Party",
+      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
     }
   ],
   "unique_name": "Ska Around The Globe",

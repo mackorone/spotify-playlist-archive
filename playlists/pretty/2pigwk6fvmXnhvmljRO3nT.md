@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,742 songs - 19 day 23 hr 55 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,747 songs - 20 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7750,5 +7750,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7740 | [dothatshit!](https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:04 |
 | 7741 | [Holiday](https://open.spotify.com/track/1Bjy9ZtwMle3uhVgoBgiGN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Holiday Night \- The 6th Album](https://open.spotify.com/album/5MQM8Jw1FvT21Dny8cOXjF) | 3:19 |
 | 7742 | [I Miss You](https://open.spotify.com/track/6XmZNkGNEJngWnT7ITrLpV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Melting](https://open.spotify.com/album/11hjJntrvmauDoga4Krr0U) | 4:16 |
+| 7743 | [Motteke! Sailor Fuku](https://open.spotify.com/track/5Sg6CkwSkxByWyODIw0q5Y) | [Konata Izumi \(CV: Aya Hirano\)](https://open.spotify.com/artist/6iKqcqxRfV6U2GEUmv8CpO), [Kagami Hiiragi \(CV: Emiri Kato\)](https://open.spotify.com/artist/5fvbPC8rqrkz1VsqLqRx0D), [Tsukasa Hiiragi \(CV: Kaori Fukuhara\)](https://open.spotify.com/artist/5J8HJhja1Yop5ZDTQqRafw), [Miyuki Takara \(CV: Aya Endo\)](https://open.spotify.com/artist/7HNz2eAmvR2X7bGuHrBgpw) | [Motteke! Sailor Fuku](https://open.spotify.com/album/3VEAlxkmR2eYNJsuoB9J1x) | 4:14 |
+| 7744 | [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 |
+| 7745 | [Décalcomanie](https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MEMORY](https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7) | 3:35 |
+| 7746 | [체온 Between Us](https://open.spotify.com/track/288ryQQCqObCzKzlXf6FG3) | [LABOUM](https://open.spotify.com/artist/4iO5uKMUphLqQ20TfrdZx3) | [Between Us](https://open.spotify.com/album/5zlXlpOKxzKgT03fvQdrpu) | 3:43 |
+| 7747 | [Heart Attack](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:30 |
 
-Snapshot ID: `AAAJS2fKrLMz57J6i+v/Do3P8VhCfbuo`
+Snapshot ID: `AAAJUCUOu2cm5ggfJDYUGY7kJtngDlzy`

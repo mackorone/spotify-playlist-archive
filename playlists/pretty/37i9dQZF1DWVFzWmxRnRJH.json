@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 347021,
+  "num_followers": 347090,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Old 8 x 10",
         "url": "https://open.spotify.com/album/7vc42OZvG6c1vTz7GOmzTh"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 219080,
       "name": "Deeper Than the Holler",
       "url": "https://open.spotify.com/track/3xx0jE52PbtvwXgNaBUdch"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -459,8 +459,8 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+        "name": "Haywire",
+        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 228186,
-      "name": "Would You Go With Me",
-      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+      "duration_ms": 192800,
+      "name": "Why Don't We Just Dance",
+      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -555,8 +555,8 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Haywire",
-        "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Why Don't We Just Dance",
-      "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+      "duration_ms": 228186,
+      "name": "Would You Go With Me",
+      "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 224866,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Fishin' in the Dark",
-      "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 199840,
       "name": "Bye-Bye",
       "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Fishin' in the Dark",
+      "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Wichita Lineman (Remastered)",
-        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Wichita Lineman - Remastered 2001",
-      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Third Rock From The Sun",
         "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
       },
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -1227,6 +1195,38 @@
       "duration_ms": 218613,
       "name": "Mountain Music",
       "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Good Hearted Woman",
-        "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Good Hearted Woman",
-      "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "C.W. McCall's Greatest Hits",
         "url": "https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 230600,
       "name": "Convoy",
       "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Good Hearted Woman",
+        "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
     },
     {
       "added_at": "2025-10-08 18:26:31",

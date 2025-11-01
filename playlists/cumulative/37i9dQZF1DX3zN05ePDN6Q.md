@@ -4,7 +4,7 @@
 
 > boom bap renasce todo dia\. Foto: Jotapê
 
-725 songs - 1 day 13 hr 46 min
+726 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Dá um Tempo](https://open.spotify.com/track/3djugyrrA5PzsLBlwWJ7ro) | [PrimeiraMente](https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT), [Lucas Gali](https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm) | [Dá um Tempo](https://open.spotify.com/album/1mpJQs5lSy9pHOVi3ZkwmX) | 3:43 | 2022-05-27 | 2022-07-09 |
 | [E Essa Boca Aí?](https://open.spotify.com/track/3DbJ5uxWaEuC0PJeFhw10i) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [E Essa Boca Aí?](https://open.spotify.com/album/4qpE0CGYQRNdKC8jOxCMBy) | 2:27 | 2023-12-01 | 2023-12-09 |
 | [Ebi no Tempura](https://open.spotify.com/track/3zlOvStINIxw84On4S8jlP) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Ebi no Tempura](https://open.spotify.com/album/6iLLYALFWMs1Apq9Kt1FVU) | 2:08 | 2023-06-23 | 2024-08-31 |
+| [EBI NO TEMPURA \- Ao Vivo](https://open.spotify.com/track/2wNLIY6L3M7fujBKki2gco) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [\(ao vivo\) AIR BOLT 2425](https://open.spotify.com/album/46yGiFye3pQeqWD8sLLfDA) | 2:28 | 2025-10-31 |  |
 | [Efeito Manada \(Spi Sou Seu Fã\)](https://open.spotify.com/track/2cTewa37c96hyDjuvnJIvF) | [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Brown G](https://open.spotify.com/artist/2HphyloOLTVp3Ou6qWUsBH), [PedronesPrince](https://open.spotify.com/artist/27NZjUR3kpctF8cHdYZSmU), [Tales](https://open.spotify.com/artist/4Rptq6VFNYQhCiXV3URMOx) | [Efeito Manada \(Spi Sou Seu Fã\)](https://open.spotify.com/album/2jNZ7t6lpwIMDwNmf1nTNK) | 4:08 | 2023-10-13 | 2023-10-28 |
 | [Ego Feio](https://open.spotify.com/track/7GkY8cria742BEJtC7peaG) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu) | [Ego Feio](https://open.spotify.com/album/5KaGeuZ9VbROftPun41nwP) | 3:10 | 2022-03-18 | 2022-12-03 |
 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 | 2023-06-23 | 2024-02-17 |
@@ -535,7 +536,7 @@
 | [Pílula e Reza](https://open.spotify.com/track/5ivx2o694AnUWUvpKeGv6b) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Pílula e Reza](https://open.spotify.com/album/0A9D9uEG7TAKA7OkYKoiGP) | 3:01 | 2023-02-03 | 2023-02-25 |
 | [Qua$i$heila](https://open.spotify.com/track/1yDeZxxcCFeQKJlWSaPifc) | [Matheus Coringa](https://open.spotify.com/artist/3dZNzNVuTLL2UlQCkyEQqF), [VÁRIO$](https://open.spotify.com/artist/6HPxMyyrXYQgI89MO7LQGZ), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [SHEILA Records](https://open.spotify.com/artist/1kDpzhQReRYihrWEhYN8nP) | [Qua$i$heila](https://open.spotify.com/album/55yrZmLYhVWRusGJmYDlw0) | 4:30 | 2023-02-03 | 2023-03-11 |
 | [QUAL FOI](https://open.spotify.com/track/4crsG5vF7S6pKL3li89TNP) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [CONVICTO](https://open.spotify.com/album/2nzvI4V9nJDHaLqgM6jgnC) | 3:15 | 2024-12-13 | 2025-08-01 |
-| [Quantas Vezes?](https://open.spotify.com/track/11RBJ92QSroguVvETZpUqr) | [GDM](https://open.spotify.com/artist/7Imm6565NTHfTlZbcHTvAq), [Lord Ícaro](https://open.spotify.com/artist/4Fkyr91izdI6Pi0vnSLcBm) | [Quantas Vezes?](https://open.spotify.com/album/1UYyjcH5NKVE3IANQ6oT6x) | 2:53 | 2024-12-27 |  |
+| [Quantas Vezes?](https://open.spotify.com/track/11RBJ92QSroguVvETZpUqr) | [GDM](https://open.spotify.com/artist/7Imm6565NTHfTlZbcHTvAq), [Lord Ícaro](https://open.spotify.com/artist/4Fkyr91izdI6Pi0vnSLcBm) | [Quantas Vezes?](https://open.spotify.com/album/1UYyjcH5NKVE3IANQ6oT6x) | 2:53 | 2024-12-27 | 2025-11-01 |
 | [Quanto Que Vale?](https://open.spotify.com/track/0BzIDcmczbA6FXlYvGlRXu) | [L, Lorran](https://open.spotify.com/artist/6YBjBR2EvEPNDqBO1mEYu2), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [Letícia Barizon](https://open.spotify.com/artist/2myCecurIgW9T34UWggCkf) | [Quanto Que Vale?](https://open.spotify.com/album/4d87fiYIJ398ClWSezNAJo) | 3:25 | 2022-03-18 | 2022-06-04 |
 | [Quantos São?](https://open.spotify.com/track/7yICWklR1S4NldM1y1m1cO) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Quantos São?](https://open.spotify.com/album/317P1ydLQMI6g8JcGT1IHa) | 3:00 | 2024-05-20 | 2025-07-05 |
 | [Quem Disse Que o Boombap Morreu?](https://open.spotify.com/track/2WOmJ4FqgYaGkzqMXKl7qy) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 2:18 | 2024-11-29 |  |

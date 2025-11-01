@@ -2,9 +2,9 @@
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Only the best Tech House 🔥 Submit: tstack.app&\#x2F;bassline\-therapy
+> Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
 
-884 songs - 1 day 22 hr 46 min
+885 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Hit It!](https://open.spotify.com/track/7L6wfvgE4StDba9fLLHDgo) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Hit It!](https://open.spotify.com/album/0jQlopvEhj5mXMTw5MmVwb) | 3:12 | 2025-09-27 |  |
 | [Hit the Brakes](https://open.spotify.com/track/0p7EW6BKJJ9FgeNd5Vrb5I) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw), [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Hit the Brakes](https://open.spotify.com/album/25V5D5A9JJJlCAquCMG5U5) | 2:55 | 2024-12-15 | 2025-03-03 |
 | [Hit The Floor](https://open.spotify.com/track/6lAs6I5E4seFitCEwLOIDs) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Discothèque Records Vol\. 5](https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI) | 3:05 | 2024-10-05 | 2025-01-06 |
+| [HMB](https://open.spotify.com/track/36qRJ1tTumTh4RIU17AmX3) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [HMB](https://open.spotify.com/album/0HJV8E50cz4juHtFIkunTI) | 3:32 | 2025-10-31 |  |
 | [Hold a Grip](https://open.spotify.com/track/2hyazl0hytavSA3ShH42XE) | [Hot Pot](https://open.spotify.com/artist/7i6HIKOzInE0wjYjCAfhLb) | [Hot Pot](https://open.spotify.com/album/1b1MTEzCaZG1DCm8lhta7P) | 3:59 | 2025-09-27 |  |
 | [Hold My Love \(feat\. Piper Byers\) \- CASHEW Remix](https://open.spotify.com/track/5aFDvwmaH5jspqDWdtHmzt) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Piper Byers](https://open.spotify.com/artist/2m0Pc2TS4246t620Ut4Dk3), [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Hold My Love \(feat\. Piper Byers\) \[Remixes\]](https://open.spotify.com/album/55Aw8CtNiuiYVKIcZdyasd) | 2:30 | 2024-10-12 | 2024-12-16 |
 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 | 2025-03-16 | 2025-05-19 |

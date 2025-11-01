@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Taylor Swift
+> The best tracks from the world of music\. Cover: JISOO, ZAYN
 
 565 songs - 1 day 6 hr 40 min
 

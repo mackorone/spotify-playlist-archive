@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,028 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,032 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 13 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |
 | 14 | [Footworkin On Air](https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind Of Traxman](https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV) | 4:01 |
 | 15 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
-| 16 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
-| 17 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
+| 16 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
+| 17 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
 | 18 | [DON'T JUST STAND THERE](https://open.spotify.com/track/3tR8VBrDIU6emD1coGfg3I) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Big Hank](https://open.spotify.com/artist/1d7okU7Ufb7pYnCdVT6CnK), [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:26 |
 | 19 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
 | 20 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 31 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
 | 32 | [Wouldn't Get Far](https://open.spotify.com/track/24GUxWledUuwzCm4XEUatd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:00 |
 | 33 | [ICE CREAM](https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:14 |
-| 34 | [Dnb Spaceout](https://open.spotify.com/track/6nAOS8cst8SYqzMAyrRtMv) | [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 3:13 |
-| 35 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 |
+| 34 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 |
+| 35 | [Dnb Spaceout](https://open.spotify.com/track/6nAOS8cst8SYqzMAyrRtMv) | [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 3:13 |
 | 36 | [Samba Focused](https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Strictly 4 My Cdjz 7](https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M) | 3:15 |
 | 37 | [Juice](https://open.spotify.com/track/4p8e7TRZUOu1sy2LGnaMiN) | [DJ T\-Why](https://open.spotify.com/artist/52nwgb3EZSQrv9Q6MltYye) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 2:37 |
 | 38 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
-| 39 | [Elevate](https://open.spotify.com/track/11n4LmYCiLsXPfAO6t5Srd) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P) | 3:28 |
-| 40 | [Get Off Me \(Betta Get Back\) \- Basic Rhythm Remix](https://open.spotify.com/track/4v016wLhvKXHjQk2jG4ZQe) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM), [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2) | [Get Off Me \(Betta Get Back\) \[Basic Rhythm Remix\]](https://open.spotify.com/album/3VA9StGsg25mohWjRqHUr2) | 3:06 |
-| 41 | [Braxe Traxe \- SBF13](https://open.spotify.com/track/7nv1TaJwLtUdbYbRQP95oG) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe) | [Braxe Traxe \(SBF13\)](https://open.spotify.com/album/4XxVcPT88m47hDjVmAWQyr) | 2:05 |
+| 39 | [Get Off Me \(Betta Get Back\) \- Basic Rhythm Remix](https://open.spotify.com/track/4v016wLhvKXHjQk2jG4ZQe) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM), [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2) | [Get Off Me \(Betta Get Back\) \[Basic Rhythm Remix\]](https://open.spotify.com/album/3VA9StGsg25mohWjRqHUr2) | 3:06 |
+| 40 | [Braxe Traxe \- SBF13](https://open.spotify.com/track/7nv1TaJwLtUdbYbRQP95oG) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe) | [Braxe Traxe \(SBF13\)](https://open.spotify.com/album/4XxVcPT88m47hDjVmAWQyr) | 2:05 |
+| 41 | [Elevate](https://open.spotify.com/track/11n4LmYCiLsXPfAO6t5Srd) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P) | 3:28 |
 | 42 | [Never Created, Never Destroyed](https://open.spotify.com/track/6YhSkzyhPBK0N1xulfWlPV) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Black Origami](https://open.spotify.com/album/7526bnJCkFFnAMSQ9fsva9) | 3:31 |
 | 43 | [Tango](https://open.spotify.com/track/7DXBzXF73JbzvQTyygWIpw) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Tango](https://open.spotify.com/album/0zx0BWbByt2zQsH4Mcdu7v) | 3:59 |
 | 44 | [Imma Dog](https://open.spotify.com/track/524AOf3Zmp93608e38RukD) | [bastienGOAT](https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B) | [Aspects](https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC) | 1:48 |

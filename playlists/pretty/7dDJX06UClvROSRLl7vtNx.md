@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,273 likes - 218 songs - 9 hr 22 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,293 likes - 219 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,5 +226,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 216 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 |
 | 217 | [Get You The Moon](https://open.spotify.com/track/3ciO40CQHrP5rYDhoMfOWQ) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Get You The Moon](https://open.spotify.com/album/1LDvI7zJlNVPUpmYh0WasO) | 2:36 |
 | 218 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
+| 219 | [Making Waves](https://open.spotify.com/track/5FKWFoyXLM9rrnp3RJWjV5) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Making Waves](https://open.spotify.com/album/6G3CNB1bzB8CsxS7DI1z6L) | 2:34 |
 
-Snapshot ID: `AABN14B6OnWV3XjLpK3EaRMADNXln37Z`
+Snapshot ID: `AABN2A40aJC+wA2RlECVmfGM7DD0MviR`

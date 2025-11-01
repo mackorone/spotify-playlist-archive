@@ -4,7 +4,7 @@
 
 > The best indie tracks of the moment\. Cover: fanclubwallet
 
-2,620 songs - 6 day 10 hr 23 min
+2,620 songs - 6 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Anna Karenina](https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 5:15 | 2025-10-24 |  |
 | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq) | 3:48 | 2023-09-29 | 2024-01-20 |
 | [Annihilation](https://open.spotify.com/track/3BVLaz2DO9ZaciRQT2J26O) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Annihilation](https://open.spotify.com/album/03DIOoBssmryF4y7HQa9Bb) | 3:22 | 2025-07-25 | 2025-09-19 |
-| [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 | 2025-10-31 |  |
+| [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 | 2025-10-31 |  |
 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/2lB6Q5nBX3d22RWX59jNj9) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/album/6o9ALcWR4xvtJLux65bLkC) | 3:36 | 2025-04-25 | 2025-08-02 |
 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 | 2022-09-16 | 2022-10-08 |
 | [Anvil](https://open.spotify.com/track/7i2bJ4K6Dl0IZUt45B1Obl) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Strange Trip Ahead](https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp) | 4:10 | 2025-10-17 |  |
@@ -871,6 +871,7 @@
 | [Go!](https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [House With The Blue Door](https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93) | 3:05 | 2024-10-04 | 2024-12-07 |
 | [God, Love, Prescriptions, and Politics](https://open.spotify.com/track/5l0djzjCuVuPlqGO5lop0Y) | [Ten Kills the Pack](https://open.spotify.com/artist/73avNAcHbfmgcSGEjKit9l) | [God, Love, Prescriptions, and Politics](https://open.spotify.com/album/4jg2nTTpZtGojGt3SNciEi) | 3:47 | 2022-11-04 | 2022-11-12 |
 | [GODDAMN!](https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [GODDAMN!](https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD) | 4:07 | 2025-09-19 | 2025-10-25 |
+| [Going dark](https://open.spotify.com/track/3gPTHyIsN8FuJg636miAA4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Hypocrite](https://open.spotify.com/album/1T42t0p2wiYZi26F7HGEGD) | 4:13 | 2025-10-31 |  |
 | [Going Home to a Party](https://open.spotify.com/track/67HUaanzX0yFZeYvwcviWF) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [Going Home to a Party](https://open.spotify.com/album/3ifYlOeyOKESM3eiI5VEj4) | 3:09 | 2023-01-06 | 2023-03-18 |
 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 | 2023-03-31 | 2023-07-22 |
 | [Going Somewhere](https://open.spotify.com/track/3zZtZlQb1qDgcvLYGiTx9X) | [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E) | [Going Somewhere](https://open.spotify.com/album/0hvXymzq9XDAkz1lsKz7Me) | 4:05 | 2025-04-11 | 2025-07-26 |
@@ -2359,7 +2360,6 @@
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-30 | 2025-09-19 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2023-10-21 |
 | [Tout ou rien](https://open.spotify.com/track/3QYlNfI20b4uzpmsgFwJk5) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Sans adresse retour](https://open.spotify.com/album/4T3pPT2eKVL9xJob1MN7OH) | 3:40 | 2025-10-17 |  |
-| [Track 9](https://open.spotify.com/track/3gPTHyIsN8FuJg636miAA4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-31 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-05-17 |
 | [Train Full of Gasoline](https://open.spotify.com/track/59DfLCbFpKbgwb7X3wFGDD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Train Full of Gasoline](https://open.spotify.com/album/7eWG2KYKFaGaGD17wbK22O) | 2:50 | 2024-01-05 | 2024-02-03 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-08-22 |

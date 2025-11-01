@@ -2,7 +2,7 @@
 
 ### [Top Hits Workout](https://open.spotify.com/playlist/37i9dQZF1DX73EtbU4jEcn)
 
-> Hits om je helemaal mee in het zweet te werken.
+> Gym motivation, fitness motivation, sport motivation 2025! Hits om je helemaal mee in het zweet te werken.
 
 75 songs - 3 hr 38 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Slimane
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,982 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,026 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Modèle](https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1) | 2:39 |
 | 50 | [Aussi simple que toi](https://open.spotify.com/track/1i4vvuR8zdHunRRPpv06sR) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Aussi simple que toi](https://open.spotify.com/album/02jmgGQEDT0qHOV9oRMxbr) | 2:38 |
 
-Snapshot ID: `AAAAAOAFBZTHuSsXjkN1/XuqacBAjF8N`
+Snapshot ID: `AAAAACuE+pESe/9n1h/+CSXFr2PnbP8o`

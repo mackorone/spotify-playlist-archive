@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,866 likes - 104 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,798 likes - 104 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fidelio](https://open.spotify.com/track/4IBTU8b4bM3ycYYrvwcURk) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fidelio](https://open.spotify.com/album/7pQWc2Fpk4E79bbwIk5DSN) | 2:34 |
 | 2 | [left to right](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 |
-| 3 | [Supernova ft funeral](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova ft funeral](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
+| 3 | [Supernova](https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Supernova](https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV) | 3:04 |
 | 4 | [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 |
 | 5 | [IKNOWYOU](https://open.spotify.com/track/1eYhBtnXSdQLuqd2179SEY) | [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [IKNOWYOU](https://open.spotify.com/album/0f7kExijTUiTROQcQbfu1K) | 1:45 |
 | 6 | [true perspective](https://open.spotify.com/track/1uwiTdqmW7fwgsNNcSoqxN) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O) | [true perspective](https://open.spotify.com/album/6gY2HApVOnrMbn4y47Im0q) | 2:05 |

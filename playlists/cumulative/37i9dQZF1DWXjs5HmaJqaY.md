@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-354 songs - 1 day 8 hr 55 min
+356 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Nocturnal \- Edit](https://open.spotify.com/track/20iF2uPnDuwbeFOsmF9dZC) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Nocturnal \(Edit\)](https://open.spotify.com/album/3yttbWTXJt72VwEfGtFq26) | 4:36 | 2023-10-27 | 2025-02-15 |
 | [Nonentity](https://open.spotify.com/track/1uWHsOO8sq88XyG0MHnuWU) | [Plasmatique](https://open.spotify.com/artist/0Y53znZSnUq6ytRtwWoTej) | [Nonentity](https://open.spotify.com/album/7cSIMtfjFvpCXd4DmNqN3m) | 3:01 | 2025-02-14 | 2025-06-28 |
 | [Now Here No Where](https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [While Waiting For Something To Care About / Now Here No Where](https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU) | 5:46 | 2022-09-16 | 2023-05-20 |
+| [Nyanza](https://open.spotify.com/track/3XvLx6ywaJxRKQPzvzJl3R) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M) | [Nyanza](https://open.spotify.com/album/5okPHcqLyRvX89K5wdQESu) | 4:38 | 2025-10-31 |  |
 | [Off Grid](https://open.spotify.com/track/4XYr8FqCcBUbbrMN2lEMxX) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Dance with the Robots](https://open.spotify.com/album/1ju9nrlL45s0DYtgHXUrHC) | 5:37 | 2023-03-03 | 2023-05-20 |
 | [OK](https://open.spotify.com/track/6FaOYioHDoL3Tt1c1Zn9EZ) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [OK, OK](https://open.spotify.com/album/0TERygqKJpDLNi8zwfyCzZ) | 5:46 | 2022-09-16 | 2023-01-21 |
 | [On my Mind](https://open.spotify.com/track/1397ffAEnc6cv4jsESZlPj) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [A.I.](https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy) | 6:34 | 2024-06-28 | 2024-11-09 |
@@ -255,6 +256,7 @@
 | [Purple Noise](https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Puls](https://open.spotify.com/album/5x7HlzUrvG4KxSrGjDEcBO) | 5:22 | 2022-09-16 | 2023-02-11 |
 | [Python](https://open.spotify.com/track/66t1AeKLiO4MeB4infU6RA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [XOXO](https://open.spotify.com/album/2B0zymgi6PcjXBL6e6sRf3) | 7:52 | 2025-04-25 |  |
 | [R U FCKNG SERIOUS \- Moritz Hofbauer Remix](https://open.spotify.com/track/5SfyXx7eOVL3zI16uNjRRN) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [R U FCKNG SERIOUS \(2023 Remaster + Remixes\)](https://open.spotify.com/album/6DFJ1oSqV2bgw3tXiCdn22) | 6:31 | 2023-08-25 | 2023-11-25 |
+| [Red In The Desert](https://open.spotify.com/track/2h7WCMGmGeNDQRhw40qHUc) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Red In The Desert](https://open.spotify.com/album/3lRV5oID7bkBR4BP4xgBlX) | 3:26 | 2025-10-31 |  |
 | [Red Wedding](https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9) | [SOURCE+RUMITZ](https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh) | [Red Wedding](https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq) | 8:46 | 2023-05-05 | 2024-11-09 |
 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-27 | 2025-02-15 |
 | [Remember the Music](https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Remember the Music](https://open.spotify.com/album/1UEdfYuTCdoBabXAOkyWsy) | 4:04 | 2024-07-01 | 2024-10-12 |

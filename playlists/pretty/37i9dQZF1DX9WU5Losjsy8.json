@@ -1,6 +1,6 @@
 {
   "description": "Megapark bis Bierk\u00f6nig - Malle ist nur einmal im Jahr!",
-  "num_followers": 477703,
+  "num_followers": 477759,
   "original_name": "Malle Party 2025",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
+        "name": "Hey Macarena!",
+        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
+      },
+      "artists": [
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Hey Macarena!",
+      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
         "name": "Handwerker",
         "url": "https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 205842,
       "name": "Handwerker",
       "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
-        "name": "Hey Macarena!",
-        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
-      },
-      "artists": [
-        {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Hey Macarena!",
-      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -391,42 +391,6 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "WOW!",
-        "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "WOW!",
-      "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
-        "name": "Lampen an",
-        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
-      },
-      "artists": [
-        {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
-        }
-      ],
-      "duration_ms": 145341,
-      "name": "Lampen an",
-      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -447,6 +411,42 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "Lampen an",
+        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "duration_ms": 145341,
+      "name": "Lampen an",
+      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "WOW!",
+        "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "WOW!",
+      "url": "https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -483,46 +483,6 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
-        "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "Malle Anja",
-          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
-        },
-        {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
-      "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -543,6 +503,46 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
+        "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "Malle Anja",
+          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
+      "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
+        "name": "Finchi's Love Tape",
+        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 170773,
+      "name": "FiNCHiBOY",
+      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
-        "name": "Finchi's Love Tape",
-        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 170773,
-      "name": "FiNCHiBOY",
-      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+        "name": "Nachbarn",
+        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         }
       ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+      "duration_ms": 181553,
+      "name": "Nachbarn",
+      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1111,22 +1115,18 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Nachbarn",
-        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
         }
       ],
-      "duration_ms": 181553,
-      "name": "Nachbarn",
-      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Gartenh\u00fctte",
-        "url": "https://open.spotify.com/album/3WA4M3aLKt1MOeW7f3b6dr"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 163260,
-      "name": "Gartenh\u00fctte",
-      "url": "https://open.spotify.com/track/4c5CmXIlx8ur2SVBEyghOs"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
         "name": "Von Herzen",
         "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 194173,
       "name": "Strobo Pop",
       "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "Gartenh\u00fctte",
+        "url": "https://open.spotify.com/album/3WA4M3aLKt1MOeW7f3b6dr"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Gartenh\u00fctte",
+      "url": "https://open.spotify.com/track/4c5CmXIlx8ur2SVBEyghOs"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Ein bisschen Aroma (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
-      },
-      "artists": [
-        {
-          "name": "Roger Whittaker",
-          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 178540,
-      "name": "Ein bisschen Aroma - Stereoact Remix",
-      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 239466,
       "name": "7 S\u00fcnden - Party Mix",
       "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+      },
+      "artists": [
+        {
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1339,22 +1339,22 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Hallo kleine Maus",
-        "url": "https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5"
+        "name": "Oben unten (Party Edit)",
+        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
       },
       "artists": [
         {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+          "name": "R\u00e4uber",
+          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
         },
         {
-          "name": "Hannah",
-          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
         }
       ],
-      "duration_ms": 170180,
-      "name": "Hallo kleine Maus",
-      "url": "https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd"
+      "duration_ms": 212250,
+      "name": "Oben unten - Party Edit",
+      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Oben unten (Party Edit)",
-        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
+        "name": "Hallo kleine Maus",
+        "url": "https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5"
       },
       "artists": [
         {
-          "name": "R\u00e4uber",
-          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
         },
         {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+          "name": "Hannah",
+          "url": "https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Oben unten - Party Edit",
-      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
+      "duration_ms": 170180,
+      "name": "Hallo kleine Maus",
+      "url": "https://open.spotify.com/track/2evGZbVlhdk6wjyTJXeXMd"
     },
     {
       "added_at": "2025-10-16 22:00:27",

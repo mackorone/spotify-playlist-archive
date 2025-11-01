@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Florence + The Machine
 
-1,146 songs - 2 day 17 hr 51 min
+1,146 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Almost A Miracle](https://open.spotify.com/track/0zBIltOuyuHaMYWbQ151cq) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Wonderland](https://open.spotify.com/album/63H5mLhEaz0nG3cFpQ1Hjx) | 4:00 | 2024-10-10 | 2024-11-22 |
 | [almost gone](https://open.spotify.com/track/5Zf5gKjAuFPPMDDbQgzFRN) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [petrichor](https://open.spotify.com/album/2kChaEZrJR2hYdERrWfd3U) | 3:21 | 2024-11-14 | 2025-02-14 |
 | [Alone in the Dark](https://open.spotify.com/track/6ACoOMAlEwliECFRTCsTvr) | [Buttercats](https://open.spotify.com/artist/5uIXMYal5c0Yv0sG9DeK2Z) | [Alone in the Dark](https://open.spotify.com/album/4l7xgeq26WRqCk3CoSWHhG) | 3:43 | 2024-08-01 | 2024-10-04 |
-| [Always On My Mind](https://open.spotify.com/track/0TsSgatd7FOCR4r7Z3Ellh) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [](https://open.spotify.com/album/null) | 4:04 | 2025-10-30 |  |
+| [Always On My Mind](https://open.spotify.com/track/0TsSgatd7FOCR4r7Z3Ellh) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Swim School](https://open.spotify.com/album/7mVFFixv8sgNhQBE9n92RH) | 4:04 | 2025-10-30 |  |
 | [always summer](https://open.spotify.com/track/7KPWowW2yokxIVyinIgdPx) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [always summer](https://open.spotify.com/album/3uEX7rleX7v3fjrDiUQDUP) | 3:50 | 2025-06-12 | 2025-08-15 |
 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-09 | 2025-02-14 |
 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 | 2025-02-07 |
@@ -72,7 +72,7 @@
 | [Animaru](https://open.spotify.com/track/1SkY6npvIxrTAU1cP4XMIg) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 2:41 | 2025-05-01 | 2025-06-27 |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-01-16 | 2025-02-07 |
 | [Annihilation](https://open.spotify.com/track/3BVLaz2DO9ZaciRQT2J26O) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Annihilation](https://open.spotify.com/album/03DIOoBssmryF4y7HQa9Bb) | 3:22 | 2025-07-24 | 2025-08-22 |
-| [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 | 2025-10-30 |  |
+| [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 | 2025-10-30 |  |
 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 | 2025-06-05 | 2025-08-15 |
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF) | 5:09 | 2024-06-06 | 2024-07-12 |
 | [Anymore](https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Anymore](https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef) | 3:57 | 2025-06-12 | 2025-08-08 |
@@ -487,6 +487,7 @@
 | [Hocus Pocus](https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Hocus Pocus](https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET) | 3:13 | 2024-10-24 | 2025-01-10 |
 | [Hold Me Close](https://open.spotify.com/track/6XPkfvYhQABbDdhaG0MS9B) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Hold Me Close](https://open.spotify.com/album/0Fvj9BtXFm3Tkq9e2WcvIE) | 4:24 | 2024-12-12 | 2025-02-14 |
 | [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-30 | 2025-03-21 |
+| [Holding On](https://open.spotify.com/track/2IPPb4vmi9pv2T5kC8ayl3) | [Salarymen](https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM) | [Take It Or Leave It](https://open.spotify.com/album/5u7akslHD3nSJJ0kY2dPiM) | 4:07 | 2025-10-30 |  |
 | [Holding On](https://open.spotify.com/track/6b1rteUzofKjQVnPN3Lv6N) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Holding On](https://open.spotify.com/album/4QtFGNKcYlWPqlN9uYz7A4) | 3:37 | 2024-06-20 | 2024-08-02 |
 | [Hollow](https://open.spotify.com/track/7KuC4GpD1tiyaXQcTAk01z) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Hollow](https://open.spotify.com/album/4qmjNRyaVlTiOOW197MTGC) | 3:25 | 2024-09-05 | 2024-10-25 |
 | [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-08 | 2024-09-13 |
@@ -754,7 +755,7 @@
 | [On My Mind \(with PLAYERTWO\)](https://open.spotify.com/track/6lDNXvXYc6cWeLqpf12n07) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [On My Mind \(with PLAYERTWO\)](https://open.spotify.com/album/5ipBa6wosvLfHik8T2Uv8O) | 2:59 | 2025-03-06 | 2025-04-11 |
 | [One Foot](https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [One Foot](https://open.spotify.com/album/0hFYSnZsr8fzTWHUyGU45k) | 2:36 | 2024-11-28 | 2025-01-24 |
 | [One Is Always Heading Somewhere](https://open.spotify.com/track/6AxuCveEWY0qTRwCypqeza) | [Womb](https://open.spotify.com/artist/58DUChzwD72FKOw6Bpjx1s) | [One Is Always Heading Somewhere](https://open.spotify.com/album/1ra43s0CnV3v5TzD888a0M) | 2:42 | 2025-03-13 | 2025-04-11 |
-| [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [](https://open.spotify.com/album/null) | 3:51 | 2025-10-30 |  |
+| [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [HighSchool](https://open.spotify.com/album/3AkpBHPOvTPlxXPEhmNp1b) | 3:51 | 2025-10-30 |  |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-06 | 2025-02-28 |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-09-25 |  |
 | [One Step Off The Pace](https://open.spotify.com/track/1txgc19GYBfpziML86jyXb) | [BANFF](https://open.spotify.com/artist/1HXutqlj4mgfiRmeJSUN2f) | [Bleed Out](https://open.spotify.com/album/1YS33gVZMc999xwUzFtYic) | 3:36 | 2025-10-23 |  |
@@ -1053,7 +1054,6 @@
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-20 | 2025-05-23 |
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 |  |
-| [Track 3](https://open.spotify.com/track/2IPPb4vmi9pv2T5kC8ayl3) | [Salarymen](https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |
 | [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 | 2025-07-31 | 2025-08-22 |

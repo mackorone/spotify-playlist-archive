@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,046 likes - 43 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,078 likes - 43 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 42 | [Once in Royal David's City](https://open.spotify.com/track/0SCNnJ3DAYT3obCiGpEs5s) | [The Harpatons](https://open.spotify.com/artist/0PX2FmQQ5HuoI2uSsIhfKt) | [Once in Royal David's City](https://open.spotify.com/album/3uLkmeBBV0sDJVWt4TwyYo) | 2:04 |
 | 43 | [We Three Kings \- Instrumental](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Hooked On Lullabies](https://open.spotify.com/artist/1kLnOX9PeUNRmvUMAbmBGc) | [Christmas Lullabies, Vol\. 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
 
-Snapshot ID: `AAAAAAgVk3PhHtpzpAGJUYXIM0+V8Kug`
+Snapshot ID: `AAAAAE7R2BVgbhPSEyVWJb5CGm+82rvY`

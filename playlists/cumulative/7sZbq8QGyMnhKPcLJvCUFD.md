@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-781 songs - 1 day 15 hr 7 min
+782 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Samurai](https://open.spotify.com/track/45hr1fXe8raIz3Q851CFa2) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Samurai](https://open.spotify.com/album/7zbwXAxBnAuoJfmZ7m4duL) | 3:20 | 2022-08-09 | 2023-04-28 |
 | [Savannah](https://open.spotify.com/track/0ZdUHFxifUJNqo7G4aJzoF) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Philly K.](https://open.spotify.com/artist/1v8lhkt5jZgHT8xi1wYNUS) | [Savannah](https://open.spotify.com/album/71cGzXXQV7S3GWFIS57IO5) | 3:28 | 2023-08-08 | 2023-12-14 |
 | [Say Goodbye](https://open.spotify.com/track/05Tj9EuuK3me0NBJsgcgd6) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [Say Goodbye](https://open.spotify.com/album/0RH4YAz924r8FUwRsg8Uxk) | 3:50 | 2023-08-08 | 2024-01-06 |
+| [Say To You](https://open.spotify.com/track/0tsx50hVTXTEHAS6xs57uF) | [rghvarchive](https://open.spotify.com/artist/56aLjpDNfCKl5M6SkMXo5z), [redwater](https://open.spotify.com/artist/4uFWM4R4qBU0tfTFwaTXML) | [Say To You](https://open.spotify.com/album/29FRNVXUiZWd9t2x6GzMbv) | 2:15 | 2025-10-31 |  |
 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 | 2022-07-05 | 2024-01-06 |
 | [Second Wind](https://open.spotify.com/track/7d9MoWBBI9sbZnsoW16z5Z) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Second Wind](https://open.spotify.com/album/5e3cX20tXLQKMlNUxTSZ4F) | 3:12 | 2024-11-29 |  |
 | [Set It Free](https://open.spotify.com/track/5dtd0fWHWff91kiKlXxJb3) | [John Dee](https://open.spotify.com/artist/2bSxG8y5oReqlnJDxVsZbo), [Litil](https://open.spotify.com/artist/4izATJEnrbYNOBdZscfYL4), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Set It Free](https://open.spotify.com/album/3a3HBm9uLIXg8hHh0qWokg) | 3:15 | 2023-06-09 | 2023-08-10 |

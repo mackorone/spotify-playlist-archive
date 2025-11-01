@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-164 songs - 9 hr 38 min
+165 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:16 | 2021-11-12 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 5:00 | 2021-11-12 |  |
 | [My Christmas Night](https://open.spotify.com/track/49LTYbjanIrYyKgUKA2s5R) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudia Zannoni](https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Roberto Bobo Facchinetti](https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz) | [My Christmas Night](https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo) | 4:08 | 2021-11-12 |  |
+| [My Favorite Things](https://open.spotify.com/track/5UtrHFB3p5mHYaq4x8m5AR) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [My Favorite Things](https://open.spotify.com/album/5LZq1Oc3U93pX25bZ8TvxS) | 2:17 | 2025-10-31 |  |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6NbGDUxwR2WtUSJdYOGcTP) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [O Come, O Come, Emmanuel](https://open.spotify.com/album/3TZD8xDcOESgi2CRn2u8lv) | 4:05 | 2022-11-18 |  |
 | [O Lettle Town Of Bethlehem](https://open.spotify.com/track/1IBOildd9ZjEcuuAZJz8fB) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/1qnpNMKpPzIC0eXrzVSh6K) | 4:49 | 2021-11-12 |  |
 | [O Lettle Town Of Bethlehem](https://open.spotify.com/track/38YcOVBqCbMZej01gurFFz) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 4:49 | 2021-11-12 | 2024-04-19 |
@@ -115,7 +116,7 @@
 | [Santa Baby](https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ) | 2:56 | 2021-11-12 | 2024-04-19 |
 | [Santa Baby](https://open.spotify.com/track/3qRnBxG2oCmNfJKZMTySep) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Santa Baby](https://open.spotify.com/album/5IjoMkMFv29KNkjbBVsHrQ) | 2:56 | 2021-11-12 |  |
 | [Santa Baby](https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/2zPZAQ0uXCGLODxYGQyFqZ) | 3:02 | 2024-11-13 | 2024-11-16 |
-| [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3nx7GD0euHYrWLzz1FJvcL) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:10 | 2021-11-12 |  |
+| [Santa Claus Is Comin' to Town](https://open.spotify.com/track/3nx7GD0euHYrWLzz1FJvcL) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:10 | 2021-11-12 | 2025-11-01 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 | 2021-11-12 |  |
 | [Sentimental Christmas](https://open.spotify.com/track/7rptjMHya9l8taykiPPMnU) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Sentimental Christmas](https://open.spotify.com/album/4Q5BoV1AAt2JegD2As5H7s) | 4:03 | 2023-11-17 |  |
 | [Shake Hands With Santa Claus](https://open.spotify.com/track/43cikuYdx521QNlJxwpOx3) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:27 | 2021-11-12 |  |

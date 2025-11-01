@@ -4,7 +4,7 @@
 
 > Sophie and the Giants is here for a main pop girl emergency 🆘
 
-1,488 songs - 3 day 2 hr 34 min
+1,490 songs - 3 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Barbie Doll](https://open.spotify.com/track/5aKlUXjfgFUpJfWNvXH2IW) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Barbie Doll](https://open.spotify.com/album/4PHqoOCjJKy3FuFxskhDAc) | 2:05 | 2023-08-18 | 2023-10-07 |
 | [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-06-09 | 2023-09-16 |
 | [Barbiegurl](https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Barbiegurl](https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X) | 2:33 | 2022-06-17 | 2022-09-24 |
+| [BATSH!T](https://open.spotify.com/track/0AmFWQXz3NiPPeJv5xQjJF) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [BATSH!T](https://open.spotify.com/album/0AS8z4Av9vyL2UDkUt1BzJ) | 2:01 | 2025-10-31 |  |
 | [BE A GOOD BOY](https://open.spotify.com/track/56XbcLHPO6x9dcuHZX7CAt) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT), [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [UGLY CRIER \(DELUXE\)](https://open.spotify.com/album/57wbjTPvriburxWMxacPHS) | 2:44 | 2024-03-08 | 2024-05-03 |
 | [Beach House](https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Beach House](https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB) | 2:30 | 2022-08-05 | 2022-09-17 |
 | [Beast](https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Beast](https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw) | 2:20 | 2023-07-21 | 2023-08-19 |
@@ -133,7 +134,7 @@
 | [Bed of Lies](https://open.spotify.com/track/3glCRKuy0fdQGqXbUj0tdp) | [Alice Chater](https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93) | [Bed of Lies](https://open.spotify.com/album/4AyOQC6AMF6er13nsi3Zb4) | 3:19 | 2025-02-07 | 2025-04-05 |
 | [BEEEP](https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BEEEP](https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg) | 2:36 | 2024-12-27 | 2025-02-04 |
 | [Before The Kiss](https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Before The Kiss](https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE) | 2:17 | 2024-10-18 | 2025-01-18 |
-| [Before You Break My Heart](https://open.spotify.com/track/3vbFjvzmJLrdttGuDhGrzi) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:16 | 2025-09-12 |  |
+| [Before You Break My Heart](https://open.spotify.com/track/3vbFjvzmJLrdttGuDhGrzi) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:16 | 2025-09-12 | 2025-11-01 |
 | [Begin Again](https://open.spotify.com/track/5flWX9RciqasGiS4PMremt) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Begin Again](https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21) | 5:24 | 2023-04-14 | 2023-08-05 |
 | [Behind the Wheel \(feat\. Slayyyter\)](https://open.spotify.com/track/3OUPzmzbkjLGcXRBB6aGB6) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Sensation](https://open.spotify.com/album/4upHoOLWg3PeWnnDnHDPDw) | 3:32 | 2024-09-13 | 2025-01-25 |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-11-18 | 2023-01-21 |
@@ -531,7 +532,7 @@
 | [Good Time \- Bright Light Bright Light Remix](https://open.spotify.com/track/4YAmOTejshVDYM2kaVJzmK) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [THEIR VERSIONS](https://open.spotify.com/album/6j6E8QjZqtdM4ts263uEB6) | 4:59 | 2023-01-13 | 2023-01-28 |
 | [Goodbye](https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:45 | 2025-08-29 |  |
 | [Goodnight Sleep Tight](https://open.spotify.com/track/1QbOzVxzYsqDIgFZLRSWOA) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Goodnight Sleep Tight](https://open.spotify.com/album/3e2fWiIiH5VfNy7vAYiAMp) | 2:29 | 2023-11-22 | 2024-03-30 |
-| [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 | 2025-07-25 |  |
+| [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 | 2025-07-25 | 2025-11-01 |
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-22 | 2023-10-14 |
 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 | 2022-10-14 | 2023-02-11 |
 | [Green Light](https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 2:47 | 2025-02-07 | 2025-07-19 |
@@ -1064,6 +1065,7 @@
 | [PSYCHO FREAK](https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [PSYCHO FREAK](https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ) | 2:45 | 2023-01-13 | 2023-07-01 |
 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-04-08 | 2022-07-09 |
 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 | 2022-10-21 | 2023-01-21 |
+| [Pumps](https://open.spotify.com/track/60Kh0MAKU7i3wirJSNHNHB) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology II](https://open.spotify.com/album/6tdvUciIO4hsdvEU1KmKXq) | 2:32 | 2025-10-31 |  |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-07-29 | 2022-08-13 |
 | [Purrr](https://open.spotify.com/track/2nxR4gpUbRufqBEtIZuwSg) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [STARFUCKER](https://open.spotify.com/album/5sjBJH8HZKiBGEa4guEHcL) | 2:11 | 2023-09-22 | 2023-12-02 |
 | [PUSH THE PAIN](https://open.spotify.com/track/1R8YATJiM2Dg6bAFnXu7Kf) | [Boy Deluxe](https://open.spotify.com/artist/742VMDRiRdlhMFfFn2qbpo) | [FROM BLACK SHEEP TO ICON](https://open.spotify.com/album/19bDrGNGY8EM6nV1JDVDU7) | 3:04 | 2025-05-30 | 2025-06-28 |

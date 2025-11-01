@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=L7kvdM7fTrWs4\_oRxzCfrA"> BURUKLYN BOYZ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,443 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,458 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 9 | [Confused](https://open.spotify.com/track/0mTb2zAevbvlHYmqKBOig2) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Confused](https://open.spotify.com/album/4wp3oUWbtZndvUbhk5c70y) | 3:30 |
 | 10 | [Mjanja Mjini](https://open.spotify.com/track/5LpEdN7lVszRk6ERt6Mkd1) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Victims Of Madness 2.0](https://open.spotify.com/album/3CcJvNnOM07yBdcrzAPYCI) | 4:40 |
 | 11 | [SIZE FOUR](https://open.spotify.com/track/2e3zY8wRClVjSZBO5Haq7w) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [SIZE FOUR](https://open.spotify.com/album/2PMAXi2UipKEBlRJBIE7sS) | 2:07 |
-| 12 | [Track 2](https://open.spotify.com/track/6Z7waaGZ4vlQmQsKkj14ED) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [Expensive Tears](https://open.spotify.com/track/6Z7waaGZ4vlQmQsKkj14ED) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [LilSccrt](https://open.spotify.com/artist/48hL35FnwaSzrOwxeAXHhZ) | [MIXTAPE V1](https://open.spotify.com/album/2A4OTvqtkdJoiGXILlfw2m) | 3:25 |
 | 13 | [Work](https://open.spotify.com/track/5NpzsGuxq03iJ0lPFKnSpK) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [Work](https://open.spotify.com/album/5XbpY4u03Pptd67qtcROV6) | 2:30 |
 | 14 | [Kenyan Rap](https://open.spotify.com/track/46eVknH7lZhpab5uMrQhZU) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Kenyan Rap](https://open.spotify.com/album/6TKWOgrXmZcbEV7rQNMP23) | 2:18 |
 | 15 | [C.O.D](https://open.spotify.com/track/6E2V233BcgBMWirxP4sskK) | [€cht](https://open.spotify.com/artist/3nIMQzFVaVlQ3MSFSy4RtN), [De Ryk](https://open.spotify.com/artist/2IXubm3QIS64fW62Z9RLWe) | [C.O.D](https://open.spotify.com/album/2BodXqBKjy47XF909SXuHD) | 2:31 |

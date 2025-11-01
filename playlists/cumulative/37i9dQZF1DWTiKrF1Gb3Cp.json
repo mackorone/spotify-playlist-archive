@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "CH",
+        "url": "https://open.spotify.com/album/4aYdZgEbK585VOvbc0p5y5"
+      },
+      "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173658,
+      "name": "CH",
+      "url": "https://open.spotify.com/track/4bOK2uHs1LJG0lT072AOTg"
+    },
+    {
+      "album": {
         "name": "Chalineras",
         "url": "https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2"
       },
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 154391,
       "name": "Cuatro Rifles",
       "url": "https://open.spotify.com/track/6bZPqpsLzf3YZ11CxQl3Mo"
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
@@ -2839,6 +2857,28 @@
     },
     {
       "album": {
+        "name": "Haciendo Memoria",
+        "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "Haciendo Memoria",
+      "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
+    },
+    {
+      "album": {
         "name": "hARAkiRi",
         "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
       },
@@ -3418,6 +3458,28 @@
       "duration_ms": 214655,
       "name": "Labios de Cereza",
       "url": "https://open.spotify.com/track/5Vlxid9ssp6sDYFiPjRz9P"
+    },
+    {
+      "album": {
+        "name": "Meneo",
+        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170097,
+      "name": "Lamine Yamal",
+      "url": "https://open.spotify.com/track/2Vn76EcX9W9VvvgSPkri0M"
     },
     {
       "album": {
@@ -5860,7 +5922,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 182911,
       "name": "Traigo El Mando",
       "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"

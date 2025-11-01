@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 296237,
+  "num_followers": 296391,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
+        "name": "A Place To Sleep",
+        "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 398265,
+      "name": "A Place To Sleep",
+      "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
-        "name": "A Place To Sleep",
-        "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
-      },
-      "artists": [
-        {
-          "name": "air hunger",
-          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
-        }
-      ],
-      "duration_ms": 398265,
-      "name": "A Place To Sleep",
-      "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "fly high",
         "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 107056,
       "name": "fly high",
       "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "Decomposition: Fox on a Highway",
-        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
-      },
-      "artists": [
-        {
-          "name": "Saapato",
-          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
-        },
-        {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
-        }
-      ],
-      "duration_ms": 201423,
-      "name": "Fur and Exhaust",
-      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "For One Another",
         "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
       },
@@ -907,6 +887,26 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
+        "name": "Decomposition: Fox on a Highway",
+        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
+      },
+      "artists": [
+        {
+          "name": "Saapato",
+          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
+        },
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+        }
+      ],
+      "duration_ms": 201423,
+      "name": "Fur and Exhaust",
+      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
         "name": "4AM ambient version",
         "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 112826,
       "name": "4AM ambient version",
       "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
-      },
-      "artists": [
-        {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
-        }
-      ],
-      "duration_ms": 141483,
-      "name": "Maple Seed",
-      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -955,6 +939,22 @@
       "duration_ms": 146133,
       "name": "cry - Slowed",
       "url": "https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+      },
+      "artists": [
+        {
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Maple Seed",
+      "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
     },
     {
       "added_at": "2025-09-05 04:00:08",

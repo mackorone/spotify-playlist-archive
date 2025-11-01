@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 61600,
+  "num_followers": 61643,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAgGCVkAndE+T1z7ixgu3Rz",
+  "snapshot_id": "aQKqgAAAAABI2N5gZyfqKYnQ23VfV2w6",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 232138,
+      "name": "Jesus Saves",
+      "url": "https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 183026,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 232138,
-      "name": "Jesus Saves",
-      "url": "https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Damn Good Day To Leave",
-      "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 239868,
       "name": "Pick A Place",
       "url": "https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Damn Good Day To Leave",
+      "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Mind If I Do (Deluxe)",
         "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 243033,
       "name": "I Just Need You",
       "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
     },
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+        "name": "Behind The Bar",
+        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Reel Problems",
-      "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
+      "duration_ms": 212200,
+      "name": "I Let A Damn Good Woman Leave",
+      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind The Bar",
-        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 212200,
-      "name": "I Let A Damn Good Woman Leave",
-      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
+      "duration_ms": 197400,
+      "name": "Reel Problems",
+      "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 198699,
-      "name": "Waitin' All Day",
-      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 221946,
       "name": "She Used to Be Mine (with Riley Green)",
       "url": "https://open.spotify.com/track/4gYnnsCa63U0G8sGfLVYS3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 198699,
+      "name": "Waitin' All Day",
+      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
     },
     {
       "added_at": null,

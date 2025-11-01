@@ -2141,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "YAKO",
+        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Fel",
+      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
+    },
+    {
+      "album": {
         "name": "BLODM\u00c5NE",
         "url": "https://open.spotify.com/album/5X50ApLp9EDeyXYuUB4O2s"
       },
@@ -7440,24 +7458,6 @@
       "duration_ms": 172432,
       "name": "Tom Cruisin'",
       "url": "https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "date_added": "2025-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
     },
     {
       "album": {

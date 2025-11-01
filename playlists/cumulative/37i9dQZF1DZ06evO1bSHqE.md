@@ -4,7 +4,7 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 44 min
+80 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2023-07-28 |  |
 | [Outrageous](https://open.spotify.com/track/2vPCRs3g0vdLU8sHlAEytO) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:21 | 2023-07-28 |  |
 | [Overprotected \- Radio Edit](https://open.spotify.com/track/5p0KCAuu5nrHpTuAIhHdLw) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:18 | 2023-07-28 |  |
-| [Perfume](https://open.spotify.com/track/0DOgMeHlNponAEqczZoxX0) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 3:59 | 2023-07-28 |  |
+| [Perfume](https://open.spotify.com/track/0DOgMeHlNponAEqczZoxX0) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 3:59 | 2023-07-28 | 2025-11-01 |
 | [Piece of Me](https://open.spotify.com/track/2EvwLVrnYbCZEG6Kx5DCRy) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:32 | 2023-07-28 |  |
 | [Pretty Girls](https://open.spotify.com/track/6QicTxeiSaRkPnkGDUvYOs) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Pretty Girls](https://open.spotify.com/album/76LmTxakuFgfAmvUvEXz5S) | 2:43 | 2023-07-28 |  |
 | [Radar](https://open.spotify.com/track/29Srmzqyig5Tg5EitFXsb8) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:49 | 2023-07-28 |  |
@@ -81,6 +81,7 @@
 | [Till the World Ends](https://open.spotify.com/track/38iU2jg98IZZEIJPrP7aWD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:57 | 2023-07-28 |  |
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2023-07-28 |  |
 | [Toxic Las Vegas \- Jamieson Shaw Remix \(From The Original Motion Picture Soundtrack ELVIS\) DELUXE EDITION](https://open.spotify.com/track/7JRTxurpdtXfdWRy8rlHrZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Jamieson Shaw](https://open.spotify.com/artist/1lqJXtQ5gmLJN3gJEYj7e5) | [Toxic Las Vegas \[Jamieson Shaw Remix \(From The Original Motion Picture Soundtrack ELVIS\) DELUXE EDITION\]](https://open.spotify.com/album/6KLZRya69N8wIQl76eYhyl) | 2:52 | 2023-07-28 | 2024-06-11 |
+| [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 | 2025-11-01 |  |
 | [Toy Soldier](https://open.spotify.com/track/4uSLxMqGSIuWeMSoLdoKq3) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:21 | 2024-04-24 | 2024-05-27 |
 | [Unusual You](https://open.spotify.com/track/5yFDS6dDzjjmGFVaYcwPAB) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 4:21 | 2023-12-13 | 2024-04-20 |
 | [What U See \(Is What U Get\)](https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:36 | 2023-07-28 |  |

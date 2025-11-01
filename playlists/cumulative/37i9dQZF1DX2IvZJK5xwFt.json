@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
+  "description": "Only the best rock in the world. Cover: Linkin Park",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 187235,
       "name": "Break",
       "url": "https://open.spotify.com/track/0qAKgPXZbWgK5lpUC3APCz"
@@ -2736,10 +2736,28 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 158146,
       "name": "Chevrolet",
       "url": "https://open.spotify.com/track/3EAwwKLCzKubSQFyuH9XGC"
+    },
+    {
+      "album": {
+        "name": "Taylor Momsen's Pretty Reckless Christmas",
+        "url": "https://open.spotify.com/album/6Y9WENXPwpVPnfrWKVYhB2"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142568,
+      "name": "Christmas Is Killing Me",
+      "url": "https://open.spotify.com/track/1xtlEoY8yW3FzttzUUrvWw"
     },
     {
       "album": {
@@ -3890,7 +3908,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 143497,
       "name": "DESK JOB",
       "url": "https://open.spotify.com/track/3fkO4mY8kjtfyTWvhTt7UJ"
@@ -6974,6 +6992,46 @@
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
+    },
+    {
+      "album": {
+        "name": "Hole In The Ground",
+        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224532,
+      "name": "Hole In The Ground",
+      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
+    },
+    {
+      "album": {
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293219,
+      "name": "Hollow Man (with Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/5Jm69AaRALGmbbeEFajC03"
     },
     {
       "album": {
@@ -14311,6 +14369,24 @@
     },
     {
       "album": {
+        "name": "Surprise Surprise",
+        "url": "https://open.spotify.com/album/0FDA1qgav59oEQxtu8fZBc"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253257,
+      "name": "Surprise Surprise",
+      "url": "https://open.spotify.com/track/3pM6JXD9ELe2GATA6NXyQt"
+    },
+    {
+      "album": {
         "name": "Sweet Little Sugar",
         "url": "https://open.spotify.com/album/2scUs7MUrUTOcHfLAfZ5ir"
       },
@@ -14370,6 +14446,24 @@
       "duration_ms": 167831,
       "name": "Swerve - Rockzilla Remix",
       "url": "https://open.spotify.com/track/2nUicn7YuS1bo2DqgELtj0"
+    },
+    {
+      "album": {
+        "name": "Sympathy Magic",
+        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
     },
     {
       "album": {
@@ -14770,7 +14864,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 189772,
       "name": "The Death of the Crows",
       "url": "https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF"
@@ -15332,7 +15426,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 143560,
       "name": "The story of us",
       "url": "https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n"

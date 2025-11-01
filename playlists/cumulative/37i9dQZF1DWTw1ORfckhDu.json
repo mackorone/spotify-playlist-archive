@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "NEED SUM MO",
+        "url": "https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164803,
+      "name": "ANTHEM",
+      "url": "https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN"
+    },
+    {
+      "album": {
         "name": "M\u00fcnchen",
         "url": "https://open.spotify.com/album/7e3B2rQiznomLKgLpkgNTg"
       },
@@ -18412,24 +18430,6 @@
       "duration_ms": 144414,
       "name": "Toxic Mami",
       "url": "https://open.spotify.com/track/1TtJce46FJzvOEYQPRywyd"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "M//O",
-          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
-        }
-      ],
-      "date_added": "2025-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN"
     },
     {
       "album": {

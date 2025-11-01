@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,659 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,689 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
 | 50 | [K HUBO PS MOR](https://open.spotify.com/track/2lhp8Nc4xsikcJXl7vNWmM) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [K HUBO PS MOR](https://open.spotify.com/album/4vmg2S2isfFP5l9Sc6Qvjw) | 3:54 |
 
-Snapshot ID: `AAAAAOrLLzY6ETTN9zgM9EVRwp/4vNKk`
+Snapshot ID: `AAAAAIvy/xLb8YCYCJj8iouunnTEL3cB`

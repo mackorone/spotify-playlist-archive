@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Kane Rodriguez en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Hermano Espinoza en portada.",
   "name": "Corridos 2025",
   "tracks": [
     {
@@ -390,6 +390,24 @@
       "duration_ms": 248422,
       "name": "6 Millones Empolvados (N1N1)",
       "url": "https://open.spotify.com/track/44jbEHnG8wE1rZXkBFXeb4"
+    },
+    {
+      "album": {
+        "name": "Historias Mal Contadas",
+        "url": "https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183374,
+      "name": "7",
+      "url": "https://open.spotify.com/track/6dKDwvZWjxrAzOA57Phiik"
     },
     {
       "album": {
@@ -1268,6 +1286,32 @@
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "album": {
+        "name": "AMANECIDO Y REGA\u00d1ADO",
+        "url": "https://open.spotify.com/album/0H5gvCntscRctlcdmwMUJF"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205032,
+      "name": "AMANECIDO Y REGA\u00d1ADO",
+      "url": "https://open.spotify.com/track/67BjeJkPgqHpkzlQveRoFh"
     },
     {
       "album": {
@@ -3486,6 +3530,28 @@
       "duration_ms": 157395,
       "name": "B\u00e9licos X Moda",
       "url": "https://open.spotify.com/track/3u0THDzCSxbz64gFpbRXD8"
+    },
+    {
+      "album": {
+        "name": "C.A.S.M",
+        "url": "https://open.spotify.com/album/4RUJhrtwf1BGhuFTmSYpQf"
+      },
+      "artists": [
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+        },
+        {
+          "name": "Nivel Tr3s",
+          "url": "https://open.spotify.com/artist/0Vl3qeVf3rmIMPnG6iGi5u"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151402,
+      "name": "C.A.S.M",
+      "url": "https://open.spotify.com/track/72xI2d8sT2DbLByMtCz0di"
     },
     {
       "album": {
@@ -6483,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Phoenix",
+        "url": "https://open.spotify.com/album/4nSC1dT9mdRrxRPyZa9i7j"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188015,
+      "name": "Dinero y Salud (En Vivo)",
+      "url": "https://open.spotify.com/track/5RAov8IW3pY71kXJ4zZiyo"
+    },
+    {
+      "album": {
         "name": "Dinero, Fama y Poder",
         "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
       },
@@ -8189,6 +8273,24 @@
     },
     {
       "album": {
+        "name": "El Capo",
+        "url": "https://open.spotify.com/album/6iapJcyMNDXQeapRUz7knk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142435,
+      "name": "El Capo",
+      "url": "https://open.spotify.com/track/1G6UuYgVNFi54L0wXQfMhO"
+    },
+    {
+      "album": {
         "name": "El Cartel",
         "url": "https://open.spotify.com/album/0zi7eSgEN1Kil6b2hRGDGj"
       },
@@ -8944,7 +9046,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 127745,
       "name": "El Corrido De Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/52v0SCPzLnuJbgMhNFpFKC"
@@ -12666,7 +12768,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 185615,
       "name": "El Pinky",
       "url": "https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ"
@@ -14922,7 +15024,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 119089,
       "name": "En Verdes Pensando",
       "url": "https://open.spotify.com/track/6wmjP0GFWJgHX6BE2CcAwz"
@@ -16917,6 +17019,24 @@
     },
     {
       "album": {
+        "name": "Historias Mal Contadas",
+        "url": "https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191375,
+      "name": "Guason",
+      "url": "https://open.spotify.com/track/4Wuwir9pHgQnCdSDIDgrhv"
+    },
+    {
+      "album": {
         "name": "Guerra Sin Cuartel",
         "url": "https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v"
       },
@@ -17528,6 +17648,24 @@
       "duration_ms": 190750,
       "name": "Hoodboys",
       "url": "https://open.spotify.com/track/3OjUpNktUUJWn4lcKVKp8f"
+    },
+    {
+      "album": {
+        "name": "Hoy Me La Pelan",
+        "url": "https://open.spotify.com/album/2F3y7e9oyfl2tLUQeTPyab"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173127,
+      "name": "Hoy Me La Pelan",
+      "url": "https://open.spotify.com/track/5wUQg88seGQen2Jifa2Ld6"
     },
     {
       "album": {
@@ -21691,6 +21829,28 @@
     },
     {
       "album": {
+        "name": "Lo Logre (En Vivo)",
+        "url": "https://open.spotify.com/album/3YYUwMlpFbCF2E0xLccjLb"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216583,
+      "name": "Lo Logre (En Vivo)",
+      "url": "https://open.spotify.com/track/2KUhobv1VMr3f665kWH7mh"
+    },
+    {
+      "album": {
         "name": "Lo Paseado Qui\u00e9n Me Lo Quita",
         "url": "https://open.spotify.com/album/2pg9lePFwsEtRNTnijEI9U"
       },
@@ -22585,6 +22745,24 @@
     },
     {
       "album": {
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174089,
+      "name": "LUCES ROJAS",
+      "url": "https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP"
+    },
+    {
+      "album": {
         "name": "Luces, C\u00e1mara y Acci\u00f3n",
         "url": "https://open.spotify.com/album/5NfTz4lFMYJDEWISZVrs6U"
       },
@@ -23062,7 +23240,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 162358,
       "name": "Malencachado",
       "url": "https://open.spotify.com/track/5EoCaQgaStJIL4HpaBUJ2Q"
@@ -23312,7 +23490,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 151126,
       "name": "Max",
       "url": "https://open.spotify.com/track/2zpZulC33PM0CXkF8GO0si"
@@ -24982,7 +25160,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 171971,
       "name": "Mustangson",
       "url": "https://open.spotify.com/track/4csFCk0dMJr9Cq2AI0xy9r"
@@ -26696,7 +26874,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 179129,
       "name": "Pensando En Grande",
       "url": "https://open.spotify.com/track/4FTEOxnTFtuXTxQ6D4jbLD"
@@ -26758,6 +26936,24 @@
       "duration_ms": 104985,
       "name": "Pese A Quien Le Pese",
       "url": "https://open.spotify.com/track/2Pvx5MfPEzmDUNjnq9GFjP"
+    },
+    {
+      "album": {
+        "name": "Peso",
+        "url": "https://open.spotify.com/album/6rgt1VDWGmY3tjWom1qaU6"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233568,
+      "name": "Peso",
+      "url": "https://open.spotify.com/track/11PDXMGdJ3fbRrWLvFfmfz"
     },
     {
       "album": {
@@ -32530,7 +32726,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 186305,
       "name": "Vamos Avanzando",
       "url": "https://open.spotify.com/track/0aqg9YIHyCooStivRegRt4"

@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 127179,
       "name": "A\u0161 Tik \u017dmogus",
       "url": "https://open.spotify.com/track/070dsZFWXM5P1TsA966lta"
@@ -18728,7 +18728,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 190645,
       "name": "Kino filmai 2015",
       "url": "https://open.spotify.com/track/2FL1QfpTu3hZIDfw3IPA3L"
@@ -19626,7 +19626,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 256693,
       "name": "Laikas Keistis",
       "url": "https://open.spotify.com/track/64uZgjybWWpwhZ4JKZWQa8"
@@ -20128,7 +20128,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 317293,
       "name": "Les",
       "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
@@ -22426,7 +22426,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 182676,
       "name": "Marozika",
       "url": "https://open.spotify.com/track/2LUy7WN9ExjiABCvmOVGAy"
@@ -25363,6 +25363,24 @@
     },
     {
       "album": {
+        "name": "NEBE\u017dINAU",
+        "url": "https://open.spotify.com/album/4oZ8hZlbyT4JSo6ZYAcJ0U"
+      },
+      "artists": [
+        {
+          "name": "YEDIE",
+          "url": "https://open.spotify.com/artist/76LXoVgtK8OQsiRLi2xUyr"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170702,
+      "name": "NEBE\u017dINAU",
+      "url": "https://open.spotify.com/track/1UCbR6qqxO9ZyDS4q9RGJP"
+    },
+    {
+      "album": {
         "name": "Noriu \u0160okt",
         "url": "https://open.spotify.com/album/6PiqXDe7wIJjhsiObo4LXx"
       },
@@ -26306,7 +26324,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -28758,7 +28776,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 283960,
       "name": "Pauk\u0161\u010diai",
       "url": "https://open.spotify.com/track/1wv9vsbCvsMtOIS0aSCtyG"
@@ -29038,7 +29056,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Perlai",
       "url": "https://open.spotify.com/track/2riBo7Y0x7MoFCN6fv5yue"
@@ -33004,7 +33022,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 237666,
       "name": "Sav\u0119s per daug",
       "url": "https://open.spotify.com/track/5akw1IRooLXMwxRK9zVap2"
@@ -34114,6 +34132,24 @@
       "duration_ms": 249894,
       "name": "Skandalas",
       "url": "https://open.spotify.com/track/0eZUaJ7slrWWkiJGZckJva"
+    },
+    {
+      "album": {
+        "name": "Skauda",
+        "url": "https://open.spotify.com/album/2iXiaBBU2C1ATZXxGx9ndw"
+      },
+      "artists": [
+        {
+          "name": "Rokas Yan",
+          "url": "https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Skauda",
+      "url": "https://open.spotify.com/track/0duTkYiKOzftYNrgIvFMN9"
     },
     {
       "album": {
@@ -36304,7 +36340,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -36322,7 +36358,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"

@@ -19248,7 +19248,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
@@ -24538,7 +24538,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 227319,
       "name": "Fearful Thing",
       "url": "https://open.spotify.com/track/1kgZgssoMOPX4XJ7U140RT"
@@ -28100,7 +28100,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 118466,
       "name": "gigolo",
       "url": "https://open.spotify.com/track/0zZXEuRkmE44e78mniF5MU"
@@ -30352,7 +30352,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 182375,
       "name": "Halloween Theme",
       "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
@@ -35702,7 +35702,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 144866,
       "name": "I Put a Spell On You",
       "url": "https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ"
@@ -43440,7 +43440,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "LET THE WORLD BURN (Hoodtrap / Mylancore Remix)",
       "url": "https://open.spotify.com/track/6AxxHZTffWwQbN9qPbucSi"
@@ -49630,6 +49630,10 @@
         {
           "name": "Furac\u00e3o 2000",
           "url": "https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0"
+        },
+        {
+          "name": "Nyasia",
+          "url": "https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW"
         }
       ],
       "date_added": "2025-09-29",
@@ -69472,7 +69476,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 238786,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
@@ -70802,7 +70806,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -78054,7 +78058,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
@@ -79994,7 +79998,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 200258,
       "name": "Tutor",
       "url": "https://open.spotify.com/track/2KQBM1PYjg2ZpeA5xbTjrJ"
@@ -86468,10 +86472,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 321387,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/3nY6mivFNJlCGSlMW9BAFH"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/4ggAqavt81oF4dQLF4D7lp"
+      },
+      "artists": [
+        {
+          "name": "Orion7",
+          "url": "https://open.spotify.com/artist/5xq85p5vUAcHW9qjlJ2Hle"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321394,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/3EWDDciJNMk7gAZNp6L6V7"
     },
     {
       "album": {

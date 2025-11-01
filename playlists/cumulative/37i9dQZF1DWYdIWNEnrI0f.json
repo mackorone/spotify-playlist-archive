@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Clair de lune",
+        "url": "https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204578,
+      "name": "Clair de lune",
+      "url": "https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W"
+    },
+    {
+      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
       },
@@ -830,7 +848,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 61874,
       "name": "Visions of You",
       "url": "https://open.spotify.com/track/1WVcBCMEt5UgvFGTiEbhsn"

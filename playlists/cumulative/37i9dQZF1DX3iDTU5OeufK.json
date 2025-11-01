@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195096,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -1011,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183247,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
+    },
+    {
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -1156,7 +1192,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 157979,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/0QdP6TMTjB0P6rYWpOE1Og"
@@ -1174,7 +1210,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 176250,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv"
@@ -1368,6 +1404,24 @@
       "duration_ms": 158400,
       "name": "Nostalgia .0002 L\u00e1grimas",
       "url": "https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz"
+    },
+    {
+      "album": {
+        "name": "HEROINA",
+        "url": "https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156577,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD"
     },
     {
       "album": {
@@ -1950,7 +2004,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 145918,
       "name": "techno s3x!",
       "url": "https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe"
@@ -2117,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "VEN AC\u00c1",
+        "url": "https://open.spotify.com/album/28opQKCs6mjHJ7egVgMj60"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134582,
+      "name": "VEN AC\u00c1",
+      "url": "https://open.spotify.com/track/67VOcsWPZ38BXFL2NnJWs6"
+    },
+    {
+      "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
       },
@@ -2212,7 +2284,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 172806,
       "name": "Y Yo Me Le Pego",
       "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"

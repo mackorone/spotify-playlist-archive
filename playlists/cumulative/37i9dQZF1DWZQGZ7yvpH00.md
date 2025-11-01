@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Juanchito en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 DannyLux en portada.
 
-531 songs - 1 day 5 hr 22 min
+533 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 | 2025-05-02 |  |
 | [Me Robaron](https://open.spotify.com/track/3Mvg1j86v0StZyT5zHQib8) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh) | [Me Robaron](https://open.spotify.com/album/5kta8yiRYAb1PUZB6dpmpa) | 3:02 | 2025-01-31 | 2025-03-15 |
 | [Me Vuelves Loco](https://open.spotify.com/track/5dCkGth7tNwJzX19iKKKKr) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Me Vuelves Loco](https://open.spotify.com/album/7a3pecJxQO32p5KeC7FnW4) | 4:36 | 2021-12-13 | 2022-07-09 |
-| [MELANCOLÍA:\(](https://open.spotify.com/track/4wR5jcBOkGNCllTrVu1qCN) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 3:49 | 2025-05-16 |  |
+| [MELANCOLÍA:\(](https://open.spotify.com/track/4wR5jcBOkGNCllTrVu1qCN) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [LEYENDA](https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY) | 3:49 | 2025-05-16 | 2025-11-01 |
 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-06-30 |  |
 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:08 | 2023-06-30 | 2024-04-19 |
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-01-28 | 2023-10-07 |
@@ -292,6 +292,7 @@
 | [No Hay Nadie Mas](https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE), [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [No Hay Nadie Mas](https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu) | 3:43 | 2023-06-09 | 2023-08-05 |
 | [NO HAY SEÑAL](https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [NO HAY SEÑAL](https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph) | 2:41 | 2024-01-26 | 2024-03-09 |
 | [No Nos Tocaba](https://open.spotify.com/track/4ExNmJ5ng48ZIE5VG4Qdrk) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [No Nos Tocaba](https://open.spotify.com/album/6Oj9y1fLCIlSVRzNZjrFkE) | 3:28 | 2025-10-24 |  |
+| [No Pasa Nada](https://open.spotify.com/track/7FbPMf2BoNVfpPG5Yv2hIe) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [No Pasa Nada](https://open.spotify.com/album/1ZIKJLkZXQwteGXiwfzwkR) | 2:26 | 2025-10-31 |  |
 | [NO PIERDO LA VIDA](https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [NO PIERDO LA VIDA](https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2) | 2:48 | 2024-09-13 | 2024-11-16 |
 | [No Se Puede Decir Adiós](https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [No Se Puede Decir Adiós / Nuestra Canción](https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29) | 2:44 | 2023-03-31 | 2023-06-10 |
 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 | 2023-02-17 | 2023-06-24 |
@@ -357,6 +358,7 @@
 | [Por Tu Culpa](https://open.spotify.com/track/72jvp2nP4zstRmFdhyWgGu) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente](https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV) | 3:48 | 2025-01-10 | 2025-05-31 |
 | [Porque Te Vas](https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque Te Vas](https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX) | 3:50 | 2025-01-10 | 2025-06-07 |
 | [Porque Te Vas De Mi \- Live](https://open.spotify.com/track/5PmJVyeiO6hzmu56MWabWt) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Recordando Ariel Camacho \(Live\)](https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq) | 3:16 | 2025-04-11 | 2025-05-10 |
+| [preguntalealaluna](https://open.spotify.com/track/2zvBpVyuuWIBfNh2k1UWvi) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [preguntalealaluna](https://open.spotify.com/album/1C8ND2Lh3xBQ1jwQEZcvOo) | 3:48 | 2025-10-31 |  |
 | [Pretender](https://open.spotify.com/track/2a8q3CS5vCPezW8xFUGuo3) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Pretender](https://open.spotify.com/album/0JOlC6XynWzVpVVQ2h0gho) | 3:33 | 2024-01-19 | 2024-03-09 |
 | [PRINCESA](https://open.spotify.com/track/5MvPOrI2YGBG0wnvwARTD0) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [ONLY ENAMORADOS](https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU) | 2:28 | 2025-02-14 | 2025-03-22 |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-16 | 2023-07-01 |
@@ -438,7 +440,7 @@
 | [Tal Vez](https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:02 | 2025-01-10 |  |
 | [Tal Vez](https://open.spotify.com/track/29FsuKnbCrHD9JChkrpK9W) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Tal Vez](https://open.spotify.com/album/2TYhUcY7yfCsKr9pUhQ1en) | 2:53 | 2024-01-05 | 2024-02-03 |
 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 | 2023-10-27 | 2024-01-16 |
-| [Tal Vez Un Dia](https://open.spotify.com/track/4z5xAWrPpjbf4b5XzEBapX) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh) | [Tal Vez Un Dia](https://open.spotify.com/album/3a7tJRjnVhATC6NWkfODJv) | 2:34 | 2025-10-10 |  |
+| [Tal Vez Un Dia](https://open.spotify.com/track/4z5xAWrPpjbf4b5XzEBapX) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh) | [Tal Vez Un Dia](https://open.spotify.com/album/3a7tJRjnVhATC6NWkfODJv) | 2:34 | 2025-10-10 | 2025-11-01 |
 | [TBT](https://open.spotify.com/track/6s7W2gBG06Tf7SrhGM5EjS) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [TBT](https://open.spotify.com/album/0VVBEKAI3GHTim1prz7ZMS) | 3:09 | 2024-08-02 | 2024-09-14 |
 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 | 2023-01-13 |  |
 | [Te Compre Unas Flores](https://open.spotify.com/track/5uBydlXbPK3ieL6lNrjTvt) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Te Compre Unas Flores](https://open.spotify.com/album/1oqsJRayPCwGMsVvvxOASt) | 4:03 | 2025-08-29 |  |

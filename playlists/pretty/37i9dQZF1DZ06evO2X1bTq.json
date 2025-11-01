@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1256200,
+  "num_followers": 1256234,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAB0vzY4g2WAHXbvyEN58CJw",
+  "snapshot_id": "aQKqgAAAAABelhON+gMA7phujj89Slkq",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 257365,
+      "name": "Running To Stand Still",
+      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -455,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
       "artists": [
         {
@@ -464,9 +480,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 257365,
-      "name": "Running To Stand Still",
-      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
+      "duration_ms": 227173,
+      "name": "Ordinary Love - Extraordinary Mix",
+      "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
     },
     {
       "added_at": null,
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 227173,
-      "name": "Ordinary Love - Extraordinary Mix",
-      "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
+      "duration_ms": 176596,
+      "name": "In God's Country",
+      "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
       "duration_ms": 294000,
       "name": "The Unforgettable Fire - Remastered 2009",
       "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 176596,
-      "name": "In God's Country",
-      "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
     },
     {
       "added_at": null,

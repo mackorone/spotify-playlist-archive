@@ -125,7 +125,7 @@
     },
     {
       "album": {
-        "name": "Aap Ki Yaad",
+        "name": "Aap Ki Yaad, 2.0",
         "url": "https://open.spotify.com/album/3UWhmzPxb02fJl65JxoEFB"
       },
       "artists": [
@@ -138,7 +138,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 321227,
-      "name": "Aap Ki Yaad",
+      "name": "Aap Ki Yaad, 2.0",
       "url": "https://open.spotify.com/track/4HbnrDaNkW6CDwdHfYEGr8"
     },
     {
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 155428,
       "name": "Chan Mahiya",
       "url": "https://open.spotify.com/track/1iqOIvVu9KWPUgvT5Ky56o"
@@ -2595,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Neelofar - The Film",
+        "url": "https://open.spotify.com/album/1uvTjCvn9NUXqSA5s7Ppaf"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Vicky Haider",
+          "url": "https://open.spotify.com/artist/0yjJxYWXNv9286zFPQaAXO"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214177,
+      "name": "Ja Rahe",
+      "url": "https://open.spotify.com/track/28NsSkD1WSQW5gKZSd1HBS"
+    },
+    {
+      "album": {
         "name": "Jaa Rahe Ho Tum",
         "url": "https://open.spotify.com/album/6WAuYjbM87qeR9CKqDePT2"
       },
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 163953,
       "name": "Kon Ae Tu?",
       "url": "https://open.spotify.com/track/4jIVye9jAjdr0M7tqwJFHv"
@@ -3942,7 +3960,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 171329,
       "name": "mere yaara",
       "url": "https://open.spotify.com/track/0NMQWfRPVOfCXt7amdONuP"

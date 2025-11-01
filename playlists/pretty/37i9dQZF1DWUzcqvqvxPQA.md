@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,876 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,888 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 28 | [Higher Places](https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Higher Places](https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf) | 2:33 |
 | 29 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 | 30 | [Blood Stained Cross](https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [Blood Stained Cross](https://open.spotify.com/album/3NBB2PDKEh0RG8IBW6yD1a) | 4:51 |
-| 31 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
-| 32 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
+| 31 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
+| 32 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
 | 33 | [Brittle](https://open.spotify.com/track/1TfhnviXtcjpfXi6nINyDg) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Brittle](https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J) | 3:32 |
 | 34 | [Things Jesus Didn't Say](https://open.spotify.com/track/03qGBQopCiCi47Kq2ZPsn2) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Things Jesus Didn't Say](https://open.spotify.com/album/0BqDLIkQKH99l04mD2rkm7) | 2:22 |
 | 35 | [Homeward Ache](https://open.spotify.com/track/2iEDTIFg9oMHQAq3tlpA1a) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [Homeward Ache](https://open.spotify.com/album/4iyzKhfv21pH7dPsZN0Kkf) | 4:17 |
 | 36 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
-| 37 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
-| 38 | [Roseanne](https://open.spotify.com/track/1NdXyZ5LszDOul0fVZ6iPO) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Roseanne](https://open.spotify.com/album/4qSA4zR0a7mzv46SW9eXJF) | 3:59 |
+| 37 | [Roseanne](https://open.spotify.com/track/1NdXyZ5LszDOul0fVZ6iPO) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Roseanne](https://open.spotify.com/album/4qSA4zR0a7mzv46SW9eXJF) | 3:59 |
+| 38 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
 | 39 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
 | 40 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
 | 41 | [Wait For The Dawn](https://open.spotify.com/track/5PHrgpOiAn8BeYwKmDgKAl) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Wait For The Dawn](https://open.spotify.com/album/51JfkMN3NDLGHJYpmlZpDa) | 3:04 |

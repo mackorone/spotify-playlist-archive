@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Super Powers / Right Now",
+        "url": "https://open.spotify.com/album/4ldZhgSrGGquj0NxpcnSuR"
+      },
+      "artists": [
+        {
+          "name": "V6",
+          "url": "https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Super Powers",
+      "url": "https://open.spotify.com/track/5ItXAcidK1KlJ9LL1RXGBk"
+    },
+    {
+      "album": {
         "name": "The 1",
         "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
       },

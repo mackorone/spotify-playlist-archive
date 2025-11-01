@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 79442,
+  "num_followers": 79450,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAC0LJ95xm8h20OdbCRZ/DBv",
+  "snapshot_id": "aQKqgAAAAAB8aQCutMe0qBI37l9/kRjM",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 247693,
-      "name": "Don't Look Down",
-      "url": "https://open.spotify.com/track/4gMYkfOztdTywqnakbBtpQ"
+      "duration_ms": 47893,
+      "name": "Presage",
+      "url": "https://open.spotify.com/track/25HZHTKy9gkPwSCJMsmzpy"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 47893,
-      "name": "Presage",
-      "url": "https://open.spotify.com/track/25HZHTKy9gkPwSCJMsmzpy"
+      "duration_ms": 247693,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/4gMYkfOztdTywqnakbBtpQ"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 259693,
-      "name": "Enemy Within",
-      "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
+      "duration_ms": 252053,
+      "name": "Carry the Cross",
+      "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "Carry the Cross",
-      "url": "https://open.spotify.com/track/5GnJy3HRwswXKX3rmffErf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -692,9 +676,25 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 255133,
-      "name": "Burning Angel",
-      "url": "https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b"
+      "duration_ms": 259693,
+      "name": "Enemy Within",
+      "url": "https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "Taking Back My Soul",
+      "url": "https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 275186,
-      "name": "Taking Back My Soul",
-      "url": "https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wages of Sin",
         "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
@@ -756,9 +740,25 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Dead Bury Their Dead",
-      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
+      "duration_ms": 255133,
+      "name": "Burning Angel",
+      "url": "https://open.spotify.com/track/4OPnLRsM1PXQ5s3h1M9y0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Enter the Machine",
+      "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Enter the Machine",
-      "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
+      "duration_ms": 233000,
+      "name": "Dead Bury Their Dead",
+      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
     }
   ],
   "unique_name": "This Is Arch Enemy",

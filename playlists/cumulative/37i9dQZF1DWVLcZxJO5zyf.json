@@ -2407,6 +2407,32 @@
     },
     {
       "album": {
+        "name": "Deu Fuga",
+        "url": "https://open.spotify.com/album/2xIZo4jHK9XWdUgjQfnrGv"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Deu Fuga",
+      "url": "https://open.spotify.com/track/4MBAPktG4S6jq309xDvnYA"
+    },
+    {
+      "album": {
         "name": "DEUSA",
         "url": "https://open.spotify.com/album/63bxU6zYHWnFREUErxDeUM"
       },
@@ -3200,7 +3226,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 183786,
       "name": "fool for love",
       "url": "https://open.spotify.com/track/1hAz2JnuvuPhas00eHIoHb"
@@ -4392,7 +4418,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
@@ -5270,6 +5296,28 @@
       "duration_ms": 146538,
       "name": "Noites de Neon",
       "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
+    },
+    {
+      "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI"
+      },
+      "artists": [
+        {
+          "name": "Vivi",
+          "url": "https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183032,
+      "name": "Noites em Miami",
+      "url": "https://open.spotify.com/track/6KQ0cjaECXJy5TohPYqkQl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 186828,
+  "num_followers": 186881,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAk/aod8G81nA4ol1C6QLPC",
+  "snapshot_id": "aQKqgAAAAACQdwzCk1cPiPqPpTy9sZ2o",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "Lib\u00e9rame",
-      "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOGOT\u00c1",
         "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 228562,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "Lib\u00e9rame",
+      "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde Que Te Vi",
         "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 171789,
       "name": "Desde Que Te Vi",
       "url": "https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Este Cuento",
-        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Este Cuento",
-      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Lastim\u00e9",
+        "url": "https://open.spotify.com/album/3NiY4M0jMYZP9NkAziX41p"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 221211,
+      "name": "Te Lastim\u00e9",
+      "url": "https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Lastim\u00e9",
-        "url": "https://open.spotify.com/album/3NiY4M0jMYZP9NkAziX41p"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 221211,
-      "name": "Te Lastim\u00e9",
-      "url": "https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU"
     },
     {
       "added_at": null,

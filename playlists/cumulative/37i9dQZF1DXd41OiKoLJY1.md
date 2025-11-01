@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  REVISORS Artwork: Isu Kim
 
-3,800 songs - 9 day 5 hr 54 min
+3,802 songs - 9 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1910,6 +1910,7 @@
 | [Liham](https://open.spotify.com/track/66pO1LMXa4JanEM2kOBMRK) | [Sweet December](https://open.spotify.com/artist/7juR9A9SsCXSmecbWM3lEi) | [Liham](https://open.spotify.com/album/273rcewEae2bs4KPEghC1W) | 5:05 | 2022-05-19 | 2022-09-09 |
 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 | 2023-06-15 | 2024-01-12 |
 | [Lihim](https://open.spotify.com/track/0U9E8dvp6QRCtT4qety9BY) | [Aiyana](https://open.spotify.com/artist/5sqOhwxKvMBr4TnvVKyKmw) | [Lihim](https://open.spotify.com/album/3bZYMbYhi4uFEjYLD5xUzH) | 3:16 | 2024-06-13 | 2024-07-12 |
+| [Lihim](https://open.spotify.com/track/3Tlx991r6xlNZroENTgnTJ) | [Rain Santana](https://open.spotify.com/artist/3TBNJi4uSguowtGyCUmgRE) | [Lihim](https://open.spotify.com/album/0vpvHS3F7jQgHAVRc1pxc5) | 4:10 | 2025-10-31 |  |
 | [Lihim](https://open.spotify.com/track/4HkaeOpzdXDJrf2U0PzPMH) | [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0), [Earl of Manila](https://open.spotify.com/artist/0xtKz4aUHJzF29sfEOOJ6s) | [Lihim](https://open.spotify.com/album/13OPgKf0Dpa9MxbiJyrMmR) | 3:03 | 2023-10-26 | 2023-12-09 |
 | [Like Gasoline](https://open.spotify.com/track/2TmTOmqESCJ2XPx70NFabe) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Like Gasoline](https://open.spotify.com/album/6f3gdUljmDMbmPPPshtyvk) | 3:40 | 2023-04-06 | 2023-04-28 |
 | [Like It Like That](https://open.spotify.com/track/4D5GeUzGohrhmONK97sgKA) | [Heaven](https://open.spotify.com/artist/06gu4fdWmcnhL0IiWgWgQd), [MIGGI MENTAL](https://open.spotify.com/artist/2IfExs2uHgexJELwPS4Xfk) | [Like It Like That](https://open.spotify.com/album/7cznTBaKWGcKZLXieGsHrg) | 2:05 | 2025-09-11 |  |
@@ -3167,6 +3168,7 @@
 | [songs from the 90s](https://open.spotify.com/track/76BWqacDCHcgH7t9EHQYUe) | [John Winters](https://open.spotify.com/artist/4AGLG8UZxXDomdJtosf0am) | [songs from the 90s](https://open.spotify.com/album/6gO0bGksxsRTR2ST7RA29y) | 2:21 | 2023-07-06 | 2023-07-21 |
 | [Soredemo \- Kahit Na](https://open.spotify.com/track/3o4MzauCVr2hLl63lnVMnU) | [SKYGARDEN](https://open.spotify.com/artist/6bd1xlTpnocDeNG9QHJTbe), [Jillian Ward](https://open.spotify.com/artist/26dzCeIvzEBis2thw0Nncq) | [Soredemo \(Kahit Na\)](https://open.spotify.com/album/43ogSjllDBSQftSBYhCSpG) | 5:29 | 2024-09-19 | 2024-10-11 |
 | [Sorrow \( I just wanna hold on \)](https://open.spotify.com/track/10JXn1ZWLHpDPlAdW8OcoA) | [LATESNACK](https://open.spotify.com/artist/48LFwy3xEEUhlwv6rcomRe) | [Sorrow \( I just wanna hold on \)](https://open.spotify.com/album/0D1sA5MRFNmbZpwnAiEHoK) | 2:36 | 2023-05-18 | 2023-06-02 |
+| [SOS](https://open.spotify.com/track/7oysfQr4Y8x0kJAwynRVPf) | [Vince Noriega](https://open.spotify.com/artist/1dUYa3FKkH6WMCTSJJnl57) | [SOS](https://open.spotify.com/album/3T9FeJKBGDOAFz68O9qEzz) | 2:41 | 2025-10-31 |  |
 | [Sosa](https://open.spotify.com/track/4G68WvEP9mSXvcAOOsJPYf) | [BORGYNISM](https://open.spotify.com/artist/2XVtrErxJnfwIJRRKlxjxw), [YOUNG LORD WAVY](https://open.spotify.com/artist/7p05MFiCtMBrfmjxuDH22h), [DJ DXXXRKTRXXXP](https://open.spotify.com/artist/1LBGgNjyJBIUPuz81ozzq4) | [Sosa](https://open.spotify.com/album/26RNiK562szrMbDagdVx6W) | 2:13 | 2025-09-04 |  |
 | [Soul](https://open.spotify.com/track/3jaQDPoc0XRiYho0h3qzg5) | [Seconds After Sunset](https://open.spotify.com/artist/6zO4hMiJBJloY1Bbh9Ha2f) | [Soul](https://open.spotify.com/album/07p8RHOmhldaVDrvIUEP2J) | 4:11 | 2023-02-23 | 2024-01-12 |
 | [Soul 2 Soul](https://open.spotify.com/track/1uF8mDvy4TOXym4XxbDjRN) | [Olympia](https://open.spotify.com/artist/25EmaRTU27MwKGwEieeBqV) | [Soul 2 Soul](https://open.spotify.com/album/0dtpTIrSWmvHtZl77e0vDX) | 3:14 | 2024-09-19 | 2024-10-11 |

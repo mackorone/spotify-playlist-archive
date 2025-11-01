@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,721 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,728 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 92 | [エンドレスサマー](https://open.spotify.com/track/68IfDjhHNu7ZWTJbc89UKs) | [suiheisen](https://open.spotify.com/artist/2JDltXALEgRIAukd403crv) | [エンドレスサマー](https://open.spotify.com/album/3NvLu5ZToQdTikFtVwHIGt) | 4:28 |
 | 93 | [Zero](https://open.spotify.com/track/7r0U4MVBcnW5IwTFyobyOZ) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [ZERO](https://open.spotify.com/album/15Hk4OVqrIY6iwbNA5ODRq) | 3:49 |
 | 94 | [君に聞きたいひとつのこと](https://open.spotify.com/track/6PAgNC3nJKQny6wHoFtN03) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君に聞きたいひとつのこと](https://open.spotify.com/album/5bTD1CKUC4jEO0rg6Byp2J) | 5:26 |
-| 95 | [ジレンマ](https://open.spotify.com/track/6XyLt6RO5lQXoIn3XAtie2) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Seein' Your Ghost](https://open.spotify.com/album/04XIQYcGVoEtwONIjV9DBd) | 2:44 |
+| 95 | [ジレンマ](https://open.spotify.com/track/6XyLt6RO5lQXoIn3XAtie2) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Seein' Your Ghost](https://open.spotify.com/album/04XIQYcGVoEtwONIjV9DBd) | 2:44 |
 | 96 | [回想列車](https://open.spotify.com/track/4T8buG0qAbXtfecgOmbhiZ) | [Reaction The Buttha](https://open.spotify.com/artist/7HT7QBLHLQ16iL4W2xjkeX) | [still e.p](https://open.spotify.com/album/4ocodshuqc5vfV5Cd0Wdwf) | 2:52 |
 | 97 | [ロックンロール](https://open.spotify.com/track/1Z1UJEecyEfsRwfj7Oq46d) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [ロックンロール](https://open.spotify.com/album/2hjD4nubEze2ZWXMyqtmPh) | 4:32 |
 | 98 | [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [MELT](https://open.spotify.com/album/4qTPu3k41zzLZilDNyGEyD) | 3:56 |

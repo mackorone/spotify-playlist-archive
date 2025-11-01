@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Paky in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,953 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,923 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HD](https://open.spotify.com/track/2IwY6DUQDyDike5HQjo3iO) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [HD](https://open.spotify.com/album/5jDWMiIq4kZYClEMSjj8rw) | 3:33 |
 | 2 | [G&V](https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw) | 1:52 |
-| 3 | [Floyd Mayweather](https://open.spotify.com/track/3xrtjStNBOWioe7CN7YMDy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:03 |
+| 3 | [Floyd Mayweather \(feat\. Papa V e Nerissima Serpe\)](https://open.spotify.com/track/3xrtjStNBOWioe7CN7YMDy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:03 |
 | 4 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
 | 5 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 |
 | 6 | [DUOMO](https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 3:44 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 45 | [IL MIO DEAL \(feat\. Young Hash\)](https://open.spotify.com/track/7egBWl4HwkQ80GYjX63DI5) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [IL MIO DEAL \(feat\. Young Hash\)](https://open.spotify.com/album/2Fz4X6urACFPLMHX5NeNaY) | 1:58 |
 | 46 | [SOLDI](https://open.spotify.com/track/1OqT2O7y9kxJXjWZn3btnV) | [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [SOLDI](https://open.spotify.com/album/0e7aOjwRECWV6wLVgV3C6y) | 2:09 |
 | 47 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [CHAMPIONS LEAGUE](https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4) | 3:04 |
-| 48 | [QUE PASA \(feat\. Salmo & nayt\) \- Prod\. Luciennn](https://open.spotify.com/track/2XIKgvqa06lm1gydT3Df19) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Teoria Del Contrario Mixtape Vol\. 3](https://open.spotify.com/album/3GGyy5u29yQ6sv9VA8UocU) | 3:12 |
+| 48 | [QUE PASA \(feat\. Salmo & nayt\) \- Prod\. Luciennn](https://open.spotify.com/track/2XIKgvqa06lm1gydT3Df19) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP) | [Teoria Del Contrario Mixtape Vol\. 3](https://open.spotify.com/album/3GGyy5u29yQ6sv9VA8UocU) | 3:12 |
 | 49 | [a me piace \#249 \(feat\. LILCR\)](https://open.spotify.com/track/78Wk5K5YOrpyaRxgWmh7qN) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [TORINO SANGUINA](https://open.spotify.com/album/38dpyXQ8dnqHjKNxOqst2S) | 2:31 |
 | 50 | [Sesso in strada](https://open.spotify.com/track/5WmYJj386xh0yOzXcGet8v) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Sesso in strada](https://open.spotify.com/album/61AWtimOGE15zMTrIDtkrZ) | 2:32 |
 

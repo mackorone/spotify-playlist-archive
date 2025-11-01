@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Carnaval Do Brasil",
+        "url": "https://open.spotify.com/album/6yFxZIQutnNrI4EAEDhvq5"
+      },
+      "artists": [
+        {
+          "name": "Henk",
+          "url": "https://open.spotify.com/artist/5yt5ZGD6Q2FfK1Elw2Efbv"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171871,
+      "name": "Carnaval Do Brasil",
+      "url": "https://open.spotify.com/track/0sH9GexrcK3yhMCREq2OOX"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/7uCJbAjUNki8L9qO5IGHE1"
       },
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 144000,
       "name": "Stolen Dance - Hypertechno Mix",
       "url": "https://open.spotify.com/track/2NjmUTwNBWJ2KKQj1LejWP"

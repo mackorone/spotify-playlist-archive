@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off\. cover:  Maz B
 
-277 songs - 12 hr 50 min
+279 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2024-02-02 |  |
 | [Handstand](https://open.spotify.com/track/7d8JbC6QfJouRyVUXzt5mg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Handstand](https://open.spotify.com/album/2Fz1ONkQVqZg081Xk9ORwK) | 0:57 | 2025-08-22 |  |
 | [hard feelings](https://open.spotify.com/track/37cYXXzlmUXnjuSZ2DqhPY) | [Essiyas](https://open.spotify.com/artist/09QOTdywNrZkFw4SYXf71t) | [hard feelings](https://open.spotify.com/album/4PaQ1RBPRa40qqV5FVmJsD) | 2:23 | 2024-10-18 |  |
+| [heartless.](https://open.spotify.com/track/1YimlTpz5MgE86IB4TjIP2) | [Flyy Armani](https://open.spotify.com/artist/1zpQUYwOMrhBBHfzgdr2n9), [Vanna Rainelle](https://open.spotify.com/artist/5KiKWAR8D8UjkuD21Depbe) | [heartless.](https://open.spotify.com/album/4f4upPlKvPsXubb66IHguy) | 2:49 | 2025-10-31 |  |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 |  |
 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 | 2024-04-26 |  |
 | [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 | 2025-04-04 |  |
@@ -155,6 +156,7 @@
 | [Love Sick](https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Love Sick](https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN) | 1:52 | 2024-06-28 | 2024-10-19 |
 | [Love This Pain Away](https://open.spotify.com/track/1N6ZdINH7LO9Al14Ouedm3) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:10 | 2025-10-17 |  |
 | [Love This Pain Away](https://open.spotify.com/track/4eKLPRValz4g6ys9HIJe72) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Love This Pain Away](https://open.spotify.com/album/4i4OSrF8Fp7i3J0pllAJ9c) | 3:10 | 2025-06-20 | 2025-10-18 |
+| [LUST I LEARNT](https://open.spotify.com/track/5OaL5ip2IqMKFRlw1Dl2ly) | [LARIICA](https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h) | [LUST I LEARNT](https://open.spotify.com/album/0j68peYgjsbCOYaKWdXjZF) | 1:25 | 2025-10-31 |  |
 | [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 | 2024-10-18 |  |
 | [Make You Mine](https://open.spotify.com/track/7BFxrSduKzrgkZP8Sg0r5i) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [MYM / Fantasies](https://open.spotify.com/album/4UkUdp6JTJfURZKQIUOapL) | 2:30 | 2025-03-21 |  |
 | [Marni Problems](https://open.spotify.com/track/4c6JSOjeHcGfkKXOVlvTVi) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Torrential](https://open.spotify.com/album/4dLdtItbaaUw3KNALG3c2b) | 2:36 | 2025-08-08 |  |

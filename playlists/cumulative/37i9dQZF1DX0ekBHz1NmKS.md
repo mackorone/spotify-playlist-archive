@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,039 songs - 4 day 9 hr 39 min
+2,040 songs - 4 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,7 +702,7 @@
 | [Hallå hallå](https://open.spotify.com/track/1Ngsjy3FBg0hiYDEMBpu34) | [Eric Sporrong](https://open.spotify.com/artist/4ThLnQoYqiBCMWJKi8hnFO) | [Hallå hallå](https://open.spotify.com/album/0c53CwHfQEV3G8EZES70IC) | 2:53 | 2024-05-02 | 2024-06-01 |
 | [Halvfullt sprucket glas](https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Halvfullt sprucket glas](https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX) | 3:30 | 2023-11-09 | 2024-02-09 |
 | [han e done](https://open.spotify.com/track/4X7OxzooUwGd8wQTYtLWKk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [han e done](https://open.spotify.com/album/0otIfMs1Ie7jSBOvqnecDy) | 2:39 | 2025-01-23 | 2025-05-23 |
-| [Han vill ha dig](https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Han vill ha dig](https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a) | 3:28 | 2025-09-11 |  |
+| [Han vill ha dig](https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Han vill ha dig](https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a) | 3:28 | 2025-09-11 | 2025-11-01 |
 | [Hand i hand](https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Hand i hand](https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s) | 2:27 | 2024-05-09 | 2024-06-07 |
 | [HAPPENS](https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [HAPPENS](https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj) | 3:28 | 2024-08-29 | 2024-10-19 |
 | [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 | 2023-06-29 | 2023-11-17 |
@@ -1738,6 +1738,7 @@
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 | 2023-10-06 |
 | [Tappat Sina Blad](https://open.spotify.com/track/4Kuu57ri5Bw9RkypofKili) | [Aron Milton](https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam) | [Tappat Sina Blad](https://open.spotify.com/album/6HmQDEmDgdQDOYCLDNM5FZ) | 2:28 | 2024-08-29 | 2024-10-11 |
 | [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 | 2022-11-08 |
+| [Tarantino](https://open.spotify.com/track/7KS2RrJiJ4q89tMQAPTaiI) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Tarantino](https://open.spotify.com/album/4OHSuHEsgNFVPw1kkeA7rD) | 3:54 | 2025-10-30 |  |
 | [Taste Of Heaven](https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Taste Of Heaven](https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG) | 2:50 | 2023-11-03 | 2024-02-09 |
 | [Taxin](https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Taxin](https://open.spotify.com/album/4z5n7zYUidCJA6enyihZ6F) | 2:53 | 2022-05-05 | 2022-07-23 |
 | [Teach Me](https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Youth And Why It Ends](https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn) | 2:40 | 2023-11-03 | 2024-01-26 |

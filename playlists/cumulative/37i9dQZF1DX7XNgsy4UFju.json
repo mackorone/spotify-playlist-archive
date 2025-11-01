@@ -2649,8 +2649,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Again",
+        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
       },
       "artists": [
         {
@@ -15992,6 +15992,24 @@
       "duration_ms": 247468,
       "name": "GODDAMN!",
       "url": "https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11"
+    },
+    {
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/1T42t0p2wiYZi26F7HGEGD"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253443,
+      "name": "Going dark",
+      "url": "https://open.spotify.com/track/3gPTHyIsN8FuJg636miAA4"
     },
     {
       "album": {
@@ -43516,24 +43534,6 @@
       "duration_ms": 220551,
       "name": "Tout ou rien",
       "url": "https://open.spotify.com/track/3QYlNfI20b4uzpmsgFwJk5"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
-        }
-      ],
-      "date_added": "2025-10-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/3gPTHyIsN8FuJg636miAA4"
     },
     {
       "album": {

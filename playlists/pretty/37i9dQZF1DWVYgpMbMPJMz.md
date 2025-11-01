@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: 7 Hills Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,655 likes - 90 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,690 likes - 90 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 89 | [A Great Awakening](https://open.spotify.com/track/11CVrv9H4laDRS8aAjT887) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A Great Awakening](https://open.spotify.com/album/21NrdGWPVjX1SxCpjEGbRG) | 4:01 |
 | 90 | [Take You At Your Word](https://open.spotify.com/track/292BtqhxZ6U8fHIBPO2XWc) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Take You At Your Word](https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT) | 3:44 |
 
-Snapshot ID: `AAAAACgWtYAKVRnJ4d/ruq+C7fzrCP8n`
+Snapshot ID: `AAAAAFTraIbcWiZweMtBXx5c1vdyjU8L`

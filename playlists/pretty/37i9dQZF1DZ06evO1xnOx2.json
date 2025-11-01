@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 621207,
+  "num_followers": 621281,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAr5EER2UmByQhpgp2hKJZD",
+  "snapshot_id": "aQKqgAAAAAB9JZnsr56JmTMnGN4AQCSu",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+        "name": "Forever Is A Feeling: The Archives",
+        "url": "https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         },
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 271696,
-      "name": "Blood Upon the Snow",
-      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+      "duration_ms": 227083,
+      "name": "Bullseye (at Radio City Music Hall)",
+      "url": "https://open.spotify.com/track/1InFoRPPAtAstb3Hv5glGx"
     },
     {
       "added_at": null,
@@ -367,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Is A Feeling: The Archives",
-        "url": "https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        },
-        {
           "name": "Hozier",
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 227083,
-      "name": "Bullseye (at Radio City Music Hall)",
-      "url": "https://open.spotify.com/track/1InFoRPPAtAstb3Hv5glGx"
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
     },
     {
       "added_at": null,

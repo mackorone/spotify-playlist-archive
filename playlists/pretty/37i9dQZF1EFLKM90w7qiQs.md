@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 24 | [Do It To Myself](https://open.spotify.com/track/2Lut3LTFWQK3SXj6BpCrgd) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [The Passion](https://open.spotify.com/album/111TDrB2azfWpNCHohiP7z) | 3:13 |
 | 25 | [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 |
 | 26 | [Rent Free \- feat\. GRACEY](https://open.spotify.com/track/5SG2y67BbtCQm6KwcNi6E4) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/4MGvFyMua1aBO0hDNafkp5) | 2:44 |
-| 27 | [Purpose](https://open.spotify.com/track/6APLWNdNt72jjkLfB1dYey) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 2:50 |
-| 28 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 |
+| 27 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 |
+| 28 | [Purpose](https://open.spotify.com/track/6APLWNdNt72jjkLfB1dYey) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 2:50 |
 | 29 | [If You Loved Me](https://open.spotify.com/track/3ExAXzgV1cbwQHLcxGwLx4) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [If You Loved Me](https://open.spotify.com/album/2tpHEjm8uJht1p5q0AQhzD) | 2:58 |
 | 30 | [Make You Dance](https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:11 |
 | 31 | [Got You Covered](https://open.spotify.com/track/0yyxb5ORtu0n5KaHVAI674) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Got You Covered](https://open.spotify.com/album/75ZE1CYqgrmZXXDpjRq2HR) | 2:56 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 64 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
 | 65 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
 
-Snapshot ID: `AcAR5gAAAACqiknFO/sl617a8OgpJyxR`
+Snapshot ID: `AcAXaAAAAADAO9N2kpmjmUM82zjjwLBl`

@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 124489,
+  "num_followers": 124499,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAJxBWQamWYBOhbs3vYry/q",
+  "snapshot_id": "aQKqgAAAAAA9neUpCatylhIglJ45cDhH",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 261862,
-      "name": "I Wish You Were Here",
-      "url": "https://open.spotify.com/track/078MAirupKl43OeGplw8aW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 151840,
       "name": "The Warrior's Code",
       "url": "https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "The Dirty Glass",
+      "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "The Dirty Glass",
-      "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SIGNED and SEALED in BLOOD",
         "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 199093,
       "name": "The Boys Are Back",
       "url": "https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 229101,
+      "name": "Smash Shit Up",
+      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
       "duration_ms": 207331,
       "name": "Longshot (feat. The Scratch)",
       "url": "https://open.spotify.com/track/0VNSdAd66v11AVnFZbS5jp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 229101,
-      "name": "Smash Shit Up",
-      "url": "https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w"
     },
     {
       "added_at": null,
@@ -255,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "The Mary Wallopers",
-          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
-        }
-      ],
-      "duration_ms": 207017,
-      "name": "Bury the Bones (feat. The Mary Wallopers)",
-      "url": "https://open.spotify.com/track/6Sms3RiIGM56FN1jgiD0yx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing Loud, Sing Proud",
         "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
@@ -287,38 +251,6 @@
       "duration_ms": 157053,
       "name": "The Rocky Road to Dublin",
       "url": "https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Going Out In Style",
-      "url": "https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Captain Kelly's Kitchen",
-      "url": "https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA"
     },
     {
       "added_at": null,
@@ -339,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Captain Kelly's Kitchen",
+      "url": "https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -351,6 +299,42 @@
       "duration_ms": 155642,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Going Out In Style",
+      "url": "https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "The Mary Wallopers",
+          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
+        }
+      ],
+      "duration_ms": 207017,
+      "name": "Bury the Bones (feat. The Mary Wallopers)",
+      "url": "https://open.spotify.com/track/6Sms3RiIGM56FN1jgiD0yx"
     },
     {
       "added_at": null,
@@ -387,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 181843,
-      "name": "Kids Games",
-      "url": "https://open.spotify.com/track/2C6jvd2NOW1asMrn4nmZW9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing Loud, Sing Proud",
         "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
@@ -419,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 181843,
+      "name": "Kids Games",
+      "url": "https://open.spotify.com/track/2C6jvd2NOW1asMrn4nmZW9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
       },
@@ -431,22 +415,6 @@
       "duration_ms": 241760,
       "name": "Blood",
       "url": "https://open.spotify.com/track/2uOb4zNJahkxtCUNewkY6t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 109134,
-      "name": "Cadence To Arms",
-      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
     },
     {
       "added_at": null,
@@ -483,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "Until the Next Time",
-      "url": "https://open.spotify.com/track/4ZrmwLwhWQ0m4YNlCDHlC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -511,6 +463,22 @@
       "duration_ms": 153600,
       "name": "Boys on the Docks",
       "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "Until the Next Time",
+      "url": "https://open.spotify.com/track/4ZrmwLwhWQ0m4YNlCDHlC8"
     },
     {
       "added_at": null,
@@ -531,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest of Times Limited Edition",
-        "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "(F)lannigan's Ball",
-      "url": "https://open.spotify.com/track/67PwQNkJRsrqWXz45wK6Qj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -559,6 +511,38 @@
       "duration_ms": 231655,
       "name": "Queen Of Suffolk County",
       "url": "https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 109134,
+      "name": "Cadence To Arms",
+      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Meanest of Times Limited Edition",
+        "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "(F)lannigan's Ball",
+      "url": "https://open.spotify.com/track/67PwQNkJRsrqWXz45wK6Qj"
     },
     {
       "added_at": null,
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 139152,
-      "name": "Finnegan's Wake",
-      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
     },
     {
       "added_at": null,
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
       "artists": [
         {
@@ -620,25 +604,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 160013,
-      "name": "Mick Jones Nicked My Pudding",
-      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 162853,
-      "name": "The Lonesome Boatman",
-      "url": "https://open.spotify.com/track/1eX5SoCjIWCIS3TGoZ6upR"
+      "duration_ms": 139152,
+      "name": "Finnegan's Wake",
+      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
     },
     {
       "added_at": null,
@@ -655,6 +623,22 @@
       "duration_ms": 158600,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 162853,
+      "name": "The Lonesome Boatman",
+      "url": "https://open.spotify.com/track/1eX5SoCjIWCIS3TGoZ6upR"
     },
     {
       "added_at": null,
@@ -691,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/4DSNKOpbGJ891TB2sEIKH4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singles Collection Vol. 2",
         "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
@@ -719,6 +687,22 @@
       "duration_ms": 283680,
       "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
       "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/4DSNKOpbGJ891TB2sEIKH4"
     },
     {
       "added_at": null,
@@ -755,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Paying My Way",
-      "url": "https://open.spotify.com/track/6MSzeTzRq4ZMH4VwJs7XMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singles Collection Vol. 2",
         "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
@@ -787,22 +755,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
       },
       "artists": [
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 140693,
-      "name": "Peg O' My Heart (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77"
+      "duration_ms": 234133,
+      "name": "Paying My Way",
+      "url": "https://open.spotify.com/track/6MSzeTzRq4ZMH4VwJs7XMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 261862,
+      "name": "I Wish You Were Here",
+      "url": "https://open.spotify.com/track/078MAirupKl43OeGplw8aW"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 156618,
       "name": "Cold Like This",
       "url": "https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

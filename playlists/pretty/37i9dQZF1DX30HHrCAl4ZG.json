@@ -1,13 +1,69 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party",
-  "num_followers": 812613,
+  "description": "Explore all things indie rock right now. Featuring music from The Belair Lip Bombs",
+  "num_followers": 812586,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANn6anVZ+QT49FqSP/XXzWx2cAXN",
+  "snapshot_id": "AAAAAB+5mbltwy+GU8picHIiuxHb6Hc+",
   "tracks": [
+    {
+      "added_at": "2025-10-31 04:00:36",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 157027,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
+    },
+    {
+      "added_at": "2025-10-31 04:00:36",
+      "album": {
+        "name": "Snocaps",
+        "url": "https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad"
+      },
+      "artists": [
+        {
+          "name": "Snocaps",
+          "url": "https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Allison Crutchfield",
+          "url": "https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj"
+        }
+      ],
+      "duration_ms": 143415,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My"
+    },
+    {
+      "added_at": "2025-10-31 04:00:36",
+      "album": {
+        "name": "Devour",
+        "url": "https://open.spotify.com/album/0ZnuaHRAI6C7fGxg1VuoXO"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 212886,
+      "name": "Slaughterhouse",
+      "url": "https://open.spotify.com/track/5ZTRqD25RsTcKrfX82FSZD"
+    },
     {
       "added_at": "2025-10-17 04:00:52",
       "album": {
@@ -2415,134 +2471,6 @@
       "duration_ms": 180973,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Defense / Virginia Tech",
-        "url": "https://open.spotify.com/album/4loQm364AOexSa6uEMUpUo"
-      },
-      "artists": [
-        {
-          "name": "Panda Bear",
-          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
-        }
-      ],
-      "duration_ms": 267516,
-      "name": "Virginia Tech",
-      "url": "https://open.spotify.com/track/63RXrwFp8OlTvnr5JsXVY2"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Blister",
-        "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Get Sunk",
-        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "CPR",
-        "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 170337,
-      "name": "CPR",
-      "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2ZGmAsD1mMWyLpFF9WxpGR"
-      },
-      "artists": [
-        {
-          "name": "In Color",
-          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
-        }
-      ],
-      "duration_ms": 169927,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/7shaHtNeaR9wolLuJOLqfH"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Return of Youth",
-        "url": "https://open.spotify.com/album/0rBtZug6roUoHxRSVCpPWC"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 458000,
-      "name": "Return of Youth",
-      "url": "https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/3GeBXNOa1KPiFXNyAqeChF"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 296316,
-      "name": "Forever Ever After",
-      "url": "https://open.spotify.com/track/4MGnciz1ka4fYa3gJO8NTM"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 216692,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
     }
   ],
   "unique_name": "Today's Indie Rock",

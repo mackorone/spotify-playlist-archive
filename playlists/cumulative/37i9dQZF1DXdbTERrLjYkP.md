@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Hohnen Ford
+> Discover the next wave of talent writing their own songs\. Cover: Grace Enger
 
-957 songs - 2 day 3 hr 24 min
+961 songs - 2 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Hahaha](https://open.spotify.com/track/0E6mNyZk7aN8XYkZ3rLD9n) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Hahaha](https://open.spotify.com/album/0ymEWOOv24RYfduGFeuAA7) | 3:22 | 2023-09-29 | 2024-01-13 |
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-26 | 2024-08-17 |
 | [Hallelujah](https://open.spotify.com/track/7HfhipszjuQRcfHWO9loZ4) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [For The Romantics](https://open.spotify.com/album/1yZQkacmUXEp1Ig3ZpuZu6) | 2:59 | 2022-05-20 | 2022-07-06 |
-| [Hand On The Bible](https://open.spotify.com/track/4pEupmTD5rymu7ly4DcYVx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Hand On The Bible](https://open.spotify.com/album/79jQaFPu4zthfeBHPjDFsD) | 3:30 | 2025-10-10 |  |
+| [Hand On The Bible](https://open.spotify.com/track/4pEupmTD5rymu7ly4DcYVx) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Hand On The Bible](https://open.spotify.com/album/79jQaFPu4zthfeBHPjDFsD) | 3:30 | 2025-10-10 | 2025-11-01 |
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-05-05 | 2023-10-01 |
 | [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-06-22 | 2022-09-10 |
 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 | 2022-01-14 | 2022-04-29 |
@@ -372,7 +372,7 @@
 | [Hit Me Where It Hurts](https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [No Good At Hanging Up](https://open.spotify.com/album/0FqRkiRcQtME8oqX8A5MGe) | 3:25 | 2025-08-22 |  |
 | [Holding You](https://open.spotify.com/track/4usJx7T935Bw61ALK915Xe) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [Holding You](https://open.spotify.com/album/7u0hcPOpSjU77LF7xDC3pH) | 2:51 | 2023-02-24 | 2023-08-12 |
 | [Holy Place](https://open.spotify.com/track/4hXkYDNE8j7JCJG3gzZD4C) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [Holy Place](https://open.spotify.com/album/0CkxO3XjDHito2dkzS6kxn) | 3:02 | 2023-04-28 | 2023-08-19 |
-| [Holy Water](https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Holy Water](https://open.spotify.com/album/3UUq8mwAJrBQ9NiiFRq744) | 3:28 | 2025-09-22 |  |
+| [Holy Water](https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Holy Water](https://open.spotify.com/album/3UUq8mwAJrBQ9NiiFRq744) | 3:28 | 2025-09-22 | 2025-11-01 |
 | [Home](https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Home](https://open.spotify.com/album/1rBYvlZe1eyLbpJLYnRcCO) | 3:27 | 2024-12-13 | 2025-04-19 |
 | [Home](https://open.spotify.com/track/2IyLA43MRICilLudwDPgBz) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Home](https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e) | 2:40 | 2024-12-20 | 2025-04-26 |
 | [HOME](https://open.spotify.com/track/0Po4nPZoSyDf0GE8MXJgoo) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [HOME](https://open.spotify.com/album/44zCI5RAkDwK2fFJpqNvZ0) | 2:55 | 2025-06-27 | 2025-07-19 |
@@ -461,6 +461,7 @@
 | [If You'll Be Mine](https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [If You'll Be Mine](https://open.spotify.com/album/2hWRvVLlBOGkTVfB776DaF) | 2:51 | 2023-12-15 | 2024-08-17 |
 | [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 | 2023-01-27 | 2023-04-15 |
 | [in my head](https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [in my head](https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I) | 3:44 | 2023-04-28 | 2023-09-02 |
+| [In My Sleep](https://open.spotify.com/track/46LKpy0VOIcUOn9jJhCtTZ) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [In My Sleep](https://open.spotify.com/album/2ceea7b3XHoKXbljZcYSbM) | 3:22 | 2025-10-31 |  |
 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 | 2023-05-05 | 2023-07-15 |
 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-07-22 | 2022-10-01 |
 | [In The Wild](https://open.spotify.com/track/0Rt1p1SafJXy63MqX9dvtm) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [In The Wild](https://open.spotify.com/album/1gyThah2qGByCUDyU69ZWv) | 2:32 | 2023-06-02 | 2023-09-02 |
@@ -635,7 +636,7 @@
 | [Out Of Excuses](https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:17 | 2022-01-14 | 2022-03-18 |
 | [Over it Now](https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo) | [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [Over it Now](https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8) | 3:23 | 2025-08-29 |  |
 | [Over My Head](https://open.spotify.com/track/7u49mBpgPYp3xgo3S088qb) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Over My Head](https://open.spotify.com/album/5hKZBHDXhDOLGriXJvXwMU) | 3:04 | 2024-01-26 | 2024-08-17 |
-| [Overboard](https://open.spotify.com/track/3RyHooc6Lg3OYgjP9zygkj) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Overboard](https://open.spotify.com/album/5qadLX0c9e3jauPPlI0WWz) | 3:12 | 2025-08-01 |  |
+| [Overboard](https://open.spotify.com/track/3RyHooc6Lg3OYgjP9zygkj) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Overboard](https://open.spotify.com/album/5qadLX0c9e3jauPPlI0WWz) | 3:12 | 2025-08-01 | 2025-11-01 |
 | [Paper Rose](https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Spiderwebs](https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo) | 4:21 | 2024-05-10 | 2024-08-24 |
 | [Parachute](https://open.spotify.com/track/63AH0CKhrzqFVQt3VfJsom) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Parachute](https://open.spotify.com/album/2Uf2MHzOLmlfuciVughpzO) | 2:31 | 2024-09-27 | 2024-10-19 |
 | [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 | 2023-03-05 |
@@ -704,6 +705,7 @@
 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 | 2025-08-15 | 2025-10-11 |
 | [Ruin A Good Thing](https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [Bug](https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w) | 3:19 | 2025-05-30 | 2025-09-23 |
 | [Ruined](https://open.spotify.com/track/2NinkPppZ8hpTg6UabxfCz) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Driving Backwards](https://open.spotify.com/album/3AzgjMcUjnXhK7yV4epzEq) | 2:25 | 2025-05-09 | 2025-08-02 |
+| [Running Back To You](https://open.spotify.com/track/4ftn9eICouTLrae4eVv5A7) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Running Back To You](https://open.spotify.com/album/4TQlcl49wK4KU62EI7X792) | 3:50 | 2025-10-31 |  |
 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 | 2023-03-24 | 2023-10-01 |
 | [Running Wild](https://open.spotify.com/track/7N04vaIHwmsEFIOSOtEzGd) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Running Wild](https://open.spotify.com/album/6R2ai9D2j6WRbQ5r9gE5wM) | 3:27 | 2024-12-20 | 2025-05-10 |
 | [Sadtown USA](https://open.spotify.com/track/5L7sbhEYjCagSs6fGdfVbi) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/64nylLzvc9O40yAD3EaJ2G) | 3:10 | 2022-09-09 | 2022-11-19 |
@@ -749,7 +751,7 @@
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-11-12 |
 | [Sleepy](https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:08 | 2022-09-09 | 2022-12-24 |
 | [Slow Burn](https://open.spotify.com/track/4W0TNEgP0qfw6FLLrCcax9) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Slow Burn](https://open.spotify.com/album/2EUxbbzuYVDMdVF855Dayl) | 3:18 | 2023-04-07 | 2024-03-23 |
-| [slow burner](https://open.spotify.com/track/55ejPEgt8rxP9NQcAR7tZu) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [slow burner](https://open.spotify.com/album/4jHWsdq0GDxoIP7anxllXq) | 3:12 | 2025-08-08 |  |
+| [slow burner](https://open.spotify.com/track/55ejPEgt8rxP9NQcAR7tZu) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [slow burner](https://open.spotify.com/album/4jHWsdq0GDxoIP7anxllXq) | 3:12 | 2025-08-08 | 2025-11-01 |
 | [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 | 2022-08-12 | 2022-12-10 |
 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-07-01 | 2022-08-31 |
 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2025-09-12 |  |
@@ -878,6 +880,7 @@
 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 | 2025-09-26 |  |
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-09 | 2022-12-24 |
 | [Understood](https://open.spotify.com/track/1U1oiy0gG7yqhzJ8duuzMd) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Understood](https://open.spotify.com/album/7f7tuG3YU6KszNajcLEmpy) | 2:11 | 2023-02-17 | 2023-04-09 |
+| [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 |  |
 | [Unfinished Business](https://open.spotify.com/track/51Es7m0L8xBEthyJna04so) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Unfinished Business](https://open.spotify.com/album/4EgBAIKvsEgr9JZXd28G6K) | 3:56 | 2024-08-23 | 2025-01-18 |
 | [Universe](https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Universe](https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl) | 3:55 | 2022-03-25 | 2022-09-28 |
 | [Unrecognizable](https://open.spotify.com/track/3GxQ8j3v80oVBVEozR5iKm) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 2: The Shedding](https://open.spotify.com/album/4ud34EAx7gghmzMVlgikuZ) | 3:36 | 2022-01-14 | 2022-03-05 |
@@ -936,6 +939,7 @@
 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 | 2022-01-21 | 2022-02-19 |
 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 | 2023-08-18 | 2023-11-11 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2022-01-14 | 2022-03-05 |
+| [Wishing For Wounds](https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Wishing For Wounds](https://open.spotify.com/album/6t730CtJHxx2ykmDTwvZfy) | 4:19 | 2025-10-31 |  |
 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 | 2025-06-06 | 2025-09-27 |
 | [Without You](https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Without You](https://open.spotify.com/album/3OzhhZiW3NhqiYXI6WveaT) | 2:56 | 2023-11-10 | 2024-08-17 |
 | [without you with me](https://open.spotify.com/track/0WqHYUiGuqkC7koA2l5Ou1) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [without you with me](https://open.spotify.com/album/7CEx4rylOMVh4bI3Lb7anX) | 2:54 | 2022-01-14 | 2022-03-12 |

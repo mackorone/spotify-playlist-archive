@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 
 > A collection of timeless queer love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,702 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,712 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 | 29 | [Love Today](https://open.spotify.com/track/6vOReYWXVpmVRKKM0xeGdR) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/2FgwL1GHWKTbuHzAIjEeFa) | 3:55 |
 | 30 | [I Only Wanna Be With You](https://open.spotify.com/track/22OUIfVCLTDQOlhbYGENnw) | [Samantha Fox](https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa) | [I Wanna Have Some Fun \(Deluxe Edition\)](https://open.spotify.com/album/6ozfMMbw3Q8mpAyG3RsiIe) | 2:44 |
 | 31 | [Love Is Love](https://open.spotify.com/track/4j6gtujBx7Yz2spqF8BB4k) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 3:51 |
-| 32 | [Who Am I](https://open.spotify.com/track/74l0jBScdgJr6guky8aMXS) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/7G7cYqdhZqAivcQbvOtHUH) | 4:27 |
-| 33 | [Closer to You](https://open.spotify.com/track/0MggXP5ci9f9ei85Lgt2dI) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandi Carlile](https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD) | 2:51 |
+| 32 | [Closer to You](https://open.spotify.com/track/0MggXP5ci9f9ei85Lgt2dI) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandi Carlile](https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD) | 2:51 |
+| 33 | [Who Am I](https://open.spotify.com/track/74l0jBScdgJr6guky8aMXS) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/7G7cYqdhZqAivcQbvOtHUH) | 4:27 |
 | 34 | [Good Guys](https://open.spotify.com/track/6wCO5ogfiksJRDpYysqhKE) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven](https://open.spotify.com/album/6zVIADLuIrdkiChta3XiSo) | 3:23 |
 | 35 | [Miss Chatelaine](https://open.spotify.com/track/4EtgMdgRhQuIDk8bfBP4Uk) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 3:49 |
 | 36 | [Memoir](https://open.spotify.com/track/0z21vE4xHXXYSyXkOLDUXF) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [The Waves](https://open.spotify.com/album/6tgcCHvlpGnpHFpd5kfABz) | 3:32 |

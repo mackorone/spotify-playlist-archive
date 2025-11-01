@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-126 songs - 9 hr 8 min
+128 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,10 @@
 | [Songbirds](https://open.spotify.com/track/56WdyKvj6C0qO3UDnnuyzy) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [WHALE LIVING](https://open.spotify.com/album/6g2VJGloN8HVnedNkGEmK7) | 5:29 | 2021-12-21 |  |
 | [Songbirds](https://open.spotify.com/track/7bSd1aNSVD6XxyqxQXc1F6) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Songbirds](https://open.spotify.com/album/4Pb1Px7D4XtomO4qKjuXNc) | 5:33 | 2021-12-21 | 2023-09-15 |
 | [Sparkling Daydream](https://open.spotify.com/track/343P4NOfSrRoWq3l9hNfZl) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [NOISY Lab.](https://open.spotify.com/album/1xFcpdZWds4oZSICgjY1BI) | 4:09 | 2021-12-21 |  |
+| [Super Powers](https://open.spotify.com/track/5ItXAcidK1KlJ9LL1RXGBk) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [Super Powers / Right Now](https://open.spotify.com/album/4ldZhgSrGGquj0NxpcnSuR) | 3:45 | 2025-10-31 |  |
 | [Synchrogazer](https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:27 | 2021-12-21 |  |
 | [THE DAY](https://open.spotify.com/track/5Nb08bCwVTjsqrK5wUCHtA) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE DAY](https://open.spotify.com/album/3CCLycmOuNfKZiZ2KScBxK) | 4:03 | 2025-09-01 |  |
+| [Timeless](https://open.spotify.com/track/28w02Xi8OGUwnilatNXR4r) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [Timeless](https://open.spotify.com/album/30cP6HQWCsakG0Anp9opBx) | 3:55 | 2025-10-31 |  |
 | [Union](https://open.spotify.com/track/5lWjB3gZdGSMNOY1AA7MDv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:44 | 2021-12-21 | 2024-04-19 |
 | [UNION](https://open.spotify.com/track/2Op7ZaXB0Kt5zDhetTL0ZQ) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [SSSS.GRIDMANオープニング主題歌「UNION」](https://open.spotify.com/album/3dHQ6Kdva0TkCfydkLKpoh) | 3:46 | 2021-12-21 |  |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2021-12-21 | 2024-04-19 |

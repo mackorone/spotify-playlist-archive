@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7176,
+  "num_followers": 7192,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAADVlpZdO83Tn0AiBeG+u8NL",
+  "snapshot_id": "aQKqgAAAAAAaKuowoVGhp3c+tF9Mi9UW",
   "tracks": [
     {
       "added_at": null,
@@ -219,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porsche",
-        "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
+        "name": "Soul (feat. T.I BLAZE)",
+        "url": "https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG"
       },
       "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 172035,
-      "name": "Porsche",
-      "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"
+      "duration_ms": 144509,
+      "name": "Soul (feat. T.I BLAZE)",
+      "url": "https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ"
     },
     {
       "added_at": null,
@@ -267,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul (feat. T.I BLAZE)",
-        "url": "https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG"
-      },
-      "artists": [
-        {
-          "name": "Salle",
-          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 144509,
-      "name": "Soul (feat. T.I BLAZE)",
-      "url": "https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fresh Prince Of Lagos",
         "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 133773,
       "name": "Try",
       "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porsche",
+        "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"
     },
     {
       "added_at": null,
@@ -359,38 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 131364,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/03gv6Nvv66Ugkee2TX1b1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pay Me",
         "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
       },
@@ -411,6 +379,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/03gv6Nvv66Ugkee2TX1b1x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 131364,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 135070,
       "name": "Popori",
       "url": "https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 160960,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 160960,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escober",
         "url": "https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK"
       },
@@ -499,26 +499,6 @@
       "duration_ms": 183693,
       "name": "Escober",
       "url": "https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Play (feat. Fave)",
-      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
     },
     {
       "added_at": null,
@@ -555,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Play (feat. Fave)",
+      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Fresh Prince Of Lagos",
         "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 188737,
       "name": "Oba (feat. Barry Jhay)",
       "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 134736,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 134736,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -651,26 +651,6 @@
       "duration_ms": 118938,
       "name": "On D Low",
       "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 144552,
-      "name": "Alone (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
     },
     {
       "added_at": null,
@@ -711,6 +691,26 @@
       "duration_ms": 174863,
       "name": "Adura",
       "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 144552,
+      "name": "Alone (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
     },
     {
       "added_at": null,

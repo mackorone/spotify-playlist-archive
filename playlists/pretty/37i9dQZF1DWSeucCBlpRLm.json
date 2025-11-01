@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 91078,
+  "num_followers": 91114,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
+        "name": "Jalebi Baby",
+        "url": "https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Jalebi Baby",
+      "url": "https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
         "name": "Race 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Q5RHgCR1iKzaZzJurDKEK"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 280369,
       "name": "Lat Lag Gayee",
       "url": "https://open.spotify.com/track/5XsoDbDt98b0FkFLOhsJuS"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
-        "name": "Jalebi Baby",
-        "url": "https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc"
-      },
-      "artists": [
-        {
-          "name": "Tesher",
-          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Jalebi Baby",
-      "url": "https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -987,30 +987,22 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
       },
       "artists": [
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         },
         {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         }
       ],
-      "duration_ms": 216054,
-      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1051,22 +1043,30 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
       },
       "artists": [
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
         },
         {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+      "duration_ms": 216054,
+      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
+        "name": "ONE (Original Never Ends)",
+        "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "She Move It Like",
+      "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
         "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
         "url": "https://open.spotify.com/album/2pyoVGd8LlX9pVdkUPyYMt"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 320000,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/464gxyow4GJ7Wuz3cHrdBB"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
-        "name": "ONE (Original Never Ends)",
-        "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "She Move It Like",
-      "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1507,26 +1507,30 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+        "name": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE"
       },
       "artists": [
         {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+          "name": "Shaarib Toshi",
+          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
         },
         {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         },
         {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          "name": "Indeep Bakshi",
+          "url": "https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ"
+        },
+        {
+          "name": "Akriti Kakar",
+          "url": "https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+      "duration_ms": 210799,
+      "name": "Saturday Saturday",
+      "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1571,30 +1575,26 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Humpty Sharma Ki Dulhania (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5jqOPaSXkGQv3IH62dHoUE"
+        "name": "Mitron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
       },
       "artists": [
         {
-          "name": "Shaarib Toshi",
-          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
         },
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
         },
         {
-          "name": "Indeep Bakshi",
-          "url": "https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ"
-        },
-        {
-          "name": "Akriti Kakar",
-          "url": "https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW"
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
         }
       ],
-      "duration_ms": 210799,
-      "name": "Saturday Saturday",
-      "url": "https://open.spotify.com/track/5L9gWUx3Ystgb42kn3AF0i"
+      "duration_ms": 251640,
+      "name": "Kamariya",
+      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
     },
     {
       "added_at": "2025-09-18 12:21:29",

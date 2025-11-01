@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Clara Riva
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,192 likes - 95 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,198 likes - 95 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 94 | [Makna Nostalgia](https://open.spotify.com/track/5oEZn7bhmZwTxeJTdKchXK) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Makna Nostalgia](https://open.spotify.com/album/1q7bfBILGBE6SALzgqZEKo) | 5:16 |
 | 95 | [Di Pusat Jakarta](https://open.spotify.com/track/4tPQOHV8XjjWWAs3h2rvmf) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/4xH2VwMdlg44P9P3qMnjjR) | 3:19 |
 
-Snapshot ID: `AAAAAOtB0CpQjmuMJKMANnyrFTTh2X11`
+Snapshot ID: `AAAAAHLp0ihaSIDBMT8eZdwd29G/9Ril`

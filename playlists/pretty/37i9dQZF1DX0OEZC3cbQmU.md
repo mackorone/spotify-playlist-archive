@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Nair Nany
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,320,910 likes - 75 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,321,083 likes - 75 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Mil Motivos \- Ao Vivo](https://open.spotify.com/track/3lkwPbiLU17Lxpv4SiNYC8) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Mil Motivos \(Ao Vivo\)](https://open.spotify.com/album/3FRxarPiY11wjoiSSJF76b) | 4:56 |
 | 75 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 |
 
-Snapshot ID: `AAAAAD4KXR50CQ1tYL5mXlpe0I6ceF2o`
+Snapshot ID: `AAAAACkLXyGwt2iQ41N89lV2QxwYaito`

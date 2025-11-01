@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4514,
+  "num_followers": 4520,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAABVZCaAMSMov76BibcSFvQb",
+  "snapshot_id": "aQKqgAAAAADZj3ctP7KJjEMRQgr7PfFq",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parting the Sea Between Brightness and Me",
         "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 110333,
-      "name": "Home Away from Here",
-      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 97429,
       "name": "And Now It's Happening in Mine",
       "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 110333,
+      "name": "Home Away from Here",
+      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 98866,
-      "name": "Art Official",
-      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 44418,
       "name": "Nine",
       "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 98866,
+      "name": "Art Official",
+      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 108280,
-      "name": "The Great Repetition",
-      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 92976,
       "name": "History Reshits Itself",
       "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 108280,
+      "name": "The Great Repetition",
+      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
     },
     {
       "added_at": null,

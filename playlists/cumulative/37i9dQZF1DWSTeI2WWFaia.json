@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Amazing Graces",
+        "url": "https://open.spotify.com/album/43JRM16cHzdQGBzBa4CdMS"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156027,
+      "name": "Amazing Graces",
+      "url": "https://open.spotify.com/track/2GYwp8YJd4Ofd0o1Hvjhll"
+    },
+    {
+      "album": {
         "name": "Ambiance",
         "url": "https://open.spotify.com/album/4ZxWW2tTsVcDqk4TkuEINf"
       },
@@ -3886,7 +3908,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 130263,
       "name": "Daddy's Girl",
       "url": "https://open.spotify.com/track/2a3FGFNNn9OJsn7RL70Jhs"
@@ -4142,7 +4164,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 216386,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
@@ -6132,6 +6154,54 @@
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
+    },
+    {
+      "album": {
+        "name": "Harlem's Finest: Return Of The King",
+        "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
+    },
+    {
+      "album": {
+        "name": "The Reinvention",
+        "url": "https://open.spotify.com/album/0KU9QIIHIK1v11G67tPPmO"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223067,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/6PAQVu4u3NLkX5YKlmocfS"
     },
     {
       "album": {
@@ -12768,7 +12838,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 219000,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
@@ -17688,24 +17758,6 @@
       "duration_ms": 173999,
       "name": "TOURMALINE",
       "url": "https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "date_added": "2025-10-17",
-      "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/6PAQVu4u3NLkX5YKlmocfS"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Knucks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,399,198 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,248 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chapter 16 \(feat\. Kano\)](https://open.spotify.com/track/1Vn4C8zBO7b2pZPQ8L0oZO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 6:20 |
 | 2 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 |
 | 3 | [Jersey King](https://open.spotify.com/track/6kzk0q8DGUFKEkn9BHf13P) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Jersey King](https://open.spotify.com/album/7tWLugjXuivR9MEGOuPklk) | 2:18 |
-| 4 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [](https://open.spotify.com/album/null) | 2:43 |
+| 4 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [A Fine African Man](https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d) | 2:43 |
 | 5 | [8PM](https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [8PM](https://open.spotify.com/album/2lSP65EeW6axaAeFw3WHHm) | 2:51 |
 | 6 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 |
 | 7 | [175 Months](https://open.spotify.com/track/7HkOwm4wmvTsKbe405RhE3) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:34 |

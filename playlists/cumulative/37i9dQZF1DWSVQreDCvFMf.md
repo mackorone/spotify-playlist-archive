@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: juan karlos ft\. Flow G
 
-584 songs - 1 day 12 hr 29 min
+588 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2024-09-24 | 2025-02-26 |
 | [Ayaw Baya](https://open.spotify.com/track/42Xk3IBopZoqG5R9YSctGS) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Ayaw Baya](https://open.spotify.com/album/0zLGNLnfdMdb0dpsfEQGmy) | 4:10 | 2025-08-01 |  |
 | [Ayoko Magmadali](https://open.spotify.com/track/5v0DTg7KJdp0rxY0DcJDr2) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Ayoko Magmadali](https://open.spotify.com/album/2jsr3JYfTQKDnsaAXL97XW) | 2:24 | 2025-07-25 |  |
+| [AYOS LANG](https://open.spotify.com/track/5ao7bBo7bVdG83EV4qyhAf) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [AYOS LANG](https://open.spotify.com/album/1kDAyu74Or1EPw4rHRojlH) | 2:21 | 2025-10-31 |  |
 | [Ayos Lang](https://open.spotify.com/track/1k1emHrNUbvDBVihKDBR2f) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ayos Lang](https://open.spotify.com/album/6PIFh1ebIsEIArIFojLg8W) | 3:13 | 2025-03-28 | 2025-06-21 |
 | [Bababa](https://open.spotify.com/track/19BGZtnvH41wHrlW4h6SiG) | [1621](https://open.spotify.com/artist/02NMfOlZLaiwrDvQsZxXOI) | [Bababa](https://open.spotify.com/album/6Kf1U9GPu7ra3YcwrUbDyz) | 2:10 | 2025-04-22 | 2025-07-13 |
 | [Babalik](https://open.spotify.com/track/5jCT5oKgrvvQF11ThHJgds) | [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Babalik](https://open.spotify.com/album/24pfBSNtLlKielvr1FciMU) | 4:37 | 2025-07-12 |  |
@@ -244,6 +245,7 @@
 | [KASAMA](https://open.spotify.com/track/11xHaPJE7xl0x9jDMhwler) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [KASAMA](https://open.spotify.com/album/4E8YnnMIzr1ypVKPGmh3Lu) | 4:09 | 2025-05-19 | 2025-10-25 |
 | [Kasama](https://open.spotify.com/track/1qA0gniLfP4RIRmVTEe1eM) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Chito Miranda](https://open.spotify.com/artist/72VBk3SEsEFPF948CmkHT4) | [Kasama](https://open.spotify.com/album/2t6TUKXucrJSErtNohifVu) | 4:19 | 2024-10-04 | 2025-03-01 |
 | [Kasayaw](https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa) | [Kiss n Tell](https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ) | [Kasayaw](https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q) | 4:10 | 2024-07-17 | 2024-11-09 |
+| [Katabi](https://open.spotify.com/track/6NDOMT855o4eT2qUUhUSfZ) | [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [Katabi](https://open.spotify.com/album/7nRmOH1RzQUrXWtgWccB08) | 3:31 | 2025-10-31 |  |
 | [KAYA](https://open.spotify.com/track/277gaYbG6eV6WneuUQj2yu) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [KAYA](https://open.spotify.com/album/6orgKZ9bVEiQU6unyNX1Gg) | 5:35 | 2025-01-31 | 2025-04-16 |
 | [Kidlat](https://open.spotify.com/track/6utifKVIx7dSUzD8D7ivW2) | [Plume](https://open.spotify.com/artist/666ekgxxGiZCImY6lwlOmk) | [Kidlat](https://open.spotify.com/album/3EjMtnIERkGojDYYjZc2uL) | 3:40 | 2025-05-20 | 2025-10-25 |
 | [Kilala](https://open.spotify.com/track/2wzn9QDSMkZHuxXi7xzHr0) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kilala](https://open.spotify.com/album/2wN4WXC3zWNOmwBygIzxiN) | 4:31 | 2025-03-28 | 2025-06-21 |
@@ -342,6 +344,7 @@
 | [Naguguluhan](https://open.spotify.com/track/31FVAqbnQyl75EXunOj9P2) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Naguguluhan](https://open.spotify.com/album/1lDPsstoNpXWJB2iylCTIk) | 3:51 | 2025-08-01 |  |
 | [Nahanap Din Kita](https://open.spotify.com/track/3pfi3bvPA83jW2c7rHcbXp) | [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY) | [Nahanap Din Kita](https://open.spotify.com/album/3ZBpiF0jnWAYP8xb4VCkPi) | 4:13 | 2025-06-20 | 2025-10-25 |
 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 | 2025-04-25 | 2025-07-19 |
+| [Nahihiya](https://open.spotify.com/track/5jnguhkFqipMdzBfu5jJbD) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Nahihiya](https://open.spotify.com/album/5KUGAemrEcNvLizkRXmgVz) | 3:27 | 2025-10-31 |  |
 | [Nahulog](https://open.spotify.com/track/3rv7NlbjyX6HBeeZu7Fj0q) | [LUMI](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA) | [Intimate](https://open.spotify.com/album/5VBeXv1y9mlRoFxl6ItveU) | 3:48 | 2025-09-19 |  |
 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 | 2025-04-29 | 2025-07-13 |
 | [Naliligaw](https://open.spotify.com/track/5NtXzPfin1HBrIp8gsCxnn) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Naliligaw](https://open.spotify.com/album/4UvTQn49HBc2Y2JWqRbhLn) | 2:58 | 2024-08-02 | 2024-11-09 |
@@ -571,6 +574,7 @@
 | [Vibrate](https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Vibrate](https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb) | 2:52 | 2025-10-14 |  |
 | [Wag Ako](https://open.spotify.com/track/4eEvkWe9r5qoXGYXuC8qQg) | [Rocksteddy](https://open.spotify.com/artist/2uSQi2dS9WLbu4IlzTPLKr) | [INTERGALACTIC ADIKINSANE](https://open.spotify.com/album/7BHkuFACzaTl1MgyNTA8sv) | 4:49 | 2025-09-19 |  |
 | [Wait](https://open.spotify.com/track/3aVN1nyimXo5waQ8M6o8j2) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Wait](https://open.spotify.com/album/2QiFJDsku1Yl67JjRAacaN) | 4:01 | 2025-09-26 |  |
+| [Wala Na Bang Pag\-ibig](https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RD Covers \(Live\)](https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT) | 4:36 | 2025-10-31 |  |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-07-26 | 2024-11-09 |
 | [wanted you](https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [wanted you](https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW) | 2:44 | 2024-07-19 | 2024-11-05 |
 | [Wasabi](https://open.spotify.com/track/1hk8R3dc6pJsyZcngDWa3i) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Wasabi](https://open.spotify.com/album/3n6ghEbNvbPQvJskAGcLHB) | 3:13 | 2025-08-08 |  |

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Scout
 
-1,403 songs - 3 day 1 hr 55 min
+1,404 songs - 3 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,6 +426,7 @@
 | [Fortuneteller](https://open.spotify.com/track/0FMM57pGzUK87SDIzNDcN9) | [Two dots and a smile](https://open.spotify.com/artist/0UbodjjA2yRw1iFYbDgRIr) | [Fortuneteller](https://open.spotify.com/album/5mIid79bkHjxvMLmDp0Z7o) | 4:31 | 2025-10-16 |  |
 | [Found](https://open.spotify.com/track/6W37Y4SPJyXyS3u6OS6ab6) | [Özgür Can](https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi) | [Found](https://open.spotify.com/album/35doqyE14bQ0BjCtcK4QgQ) | 5:02 | 2024-07-25 | 2024-08-30 |
 | [Four Lines](https://open.spotify.com/track/2scMtJuoUmvZSuoexUJptp) | [Enler & Tallen](https://open.spotify.com/artist/0PaXLR15yjwwYP0Ro5r6wo) | [Four Lines](https://open.spotify.com/album/4IDki5h2lFwF4H6rR7dhya) | 3:40 | 2025-02-27 | 2025-03-28 |
+| [Fraud](https://open.spotify.com/track/4IRV9YWThTmcNxrwpDXVGC) | [STHLMA](https://open.spotify.com/artist/4ka7VkwmzaGw0gDASqniao) | [Fraud](https://open.spotify.com/album/5tOaNFYIr43KXbSnNnxB1e) | 3:46 | 2025-10-30 |  |
 | [Free](https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Free](https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL) | 2:29 | 2024-06-20 | 2024-08-09 |
 | [Free Falling](https://open.spotify.com/track/5v6XZ6a5iT9jKXoKUlGDip) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Free Falling](https://open.spotify.com/album/04uKVOqC9Zzo5PcGJFccyn) | 2:20 | 2024-05-09 | 2024-05-24 |
 | [FRIENDLY FEELINGS](https://open.spotify.com/track/1mAyVyICWy1kP91ekCa466) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [FRIENDLY FEELINGS](https://open.spotify.com/album/4rJMlEgBdTbNek890DkQq5) | 2:56 | 2024-02-08 | 2024-03-15 |
@@ -569,7 +570,7 @@
 | [i gotta go](https://open.spotify.com/track/2k3wJvbMhxcnMfRMkbJ5UG) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [i gotta go](https://open.spotify.com/album/3mdRsSTmet3TdnsRGSpywT) | 3:43 | 2025-10-23 |  |
 | [I HATE IT!](https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v) | [Hanna Mel](https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8) | [I HATE IT!](https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82) | 2:58 | 2024-06-27 | 2024-08-23 |
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-05-30 | 2025-01-03 |
-| [I Know U Can Do It](https://open.spotify.com/track/2yBBWkH5lyOAuEGruZikX7) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [](https://open.spotify.com/album/null) | 3:01 | 2025-10-30 |  |
+| [I Know U Can Do It](https://open.spotify.com/track/2yBBWkH5lyOAuEGruZikX7) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [I Know U Can Do It](https://open.spotify.com/album/2fM5gS0X85TNMxD9EXl8u5) | 3:01 | 2025-10-30 |  |
 | [I Know, It's for the Better](https://open.spotify.com/track/66TZajdc6UWW6RGf2dilSa) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [I Know, It's for the Better](https://open.spotify.com/album/6Xs8sKWiysw54dko2unHhy) | 2:40 | 2025-05-22 | 2025-06-20 |
 | [i like u...](https://open.spotify.com/track/1igY8lMxx6INXLCJK5xjbR) | [ORZC](https://open.spotify.com/artist/37oTmLY6rQTgMe4v8afZqE) | [i like u...](https://open.spotify.com/album/4CAslFQh9bAEgBPOuVyebG) | 2:35 | 2024-08-01 | 2024-09-20 |
 | [I Love U Loving Me](https://open.spotify.com/track/1YJJJNcE1wI882U2XdbPiw) | [ROVAS](https://open.spotify.com/artist/2RS4b1iY3UXPXr1tsDQdRc) | [I Love U Loving Me](https://open.spotify.com/album/1d44k1mPERbvMSaTQBnfb9) | 2:31 | 2024-08-22 | 2024-09-27 |
@@ -805,7 +806,7 @@
 | [Minute by Day](https://open.spotify.com/track/55wdL1VMU5irTZf3rbyKXF) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Minute by Day](https://open.spotify.com/album/5BTiYThaDPEtH3QkS1pcxg) | 2:31 | 2024-02-15 | 2024-03-22 |
 | [Mio](https://open.spotify.com/track/30mf2jx7lqNfSFoHXMJjn5) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Running Pine](https://open.spotify.com/artist/6G8trVKRkLIs2SHsmq0jcY) | [Aqua Lull](https://open.spotify.com/album/0xhroZPlO1F2eFiFI0H1fk) | 7:08 | 2024-05-02 | 2025-01-03 |
 | [Miracle](https://open.spotify.com/track/77QoFtwtVcS9j8r9KecFFY) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Miracle](https://open.spotify.com/album/0tamNtdH2thktZvLt0U07j) | 2:44 | 2025-07-10 | 2025-09-12 |
-| [Miranda](https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [](https://open.spotify.com/album/null) | 2:49 | 2025-10-30 |  |
+| [Miranda](https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Miranda](https://open.spotify.com/album/7rZaeXP7J1DBUCYWr5bQy4) | 2:49 | 2025-10-30 |  |
 | [Mirror](https://open.spotify.com/track/4y6tduyVsVIkMjuwJYLmz2) | [Sally F](https://open.spotify.com/artist/3W1oOTi2VTBprsvw6IWVe4) | [Mirror](https://open.spotify.com/album/5IwgOIrLulRYrAZvLmSlHJ) | 2:51 | 2025-10-23 |  |
 | [Misconception](https://open.spotify.com/track/7GAExfw1SSZklMzTwfPDW0) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [All Rights Reserved](https://open.spotify.com/album/1LgTFDtxq0cyXnBEJYjP5U) | 3:33 | 2025-09-18 |  |
 | [MISS ME](https://open.spotify.com/track/2M4CkwOClFTWSjv5cndkWq) | [Nellie Drené](https://open.spotify.com/artist/2UYVoGUWe4w4ctQvYikm7W) | [MISS ME](https://open.spotify.com/album/6KQqofHnF3ZW6z5rV2kiVQ) | 2:36 | 2025-05-08 | 2025-06-06 |

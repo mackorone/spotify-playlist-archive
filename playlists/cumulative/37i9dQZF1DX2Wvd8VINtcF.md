@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Cobrah  ✨
 
-2,111 songs - 4 day 18 hr 17 min
+2,112 songs - 4 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,6 +805,7 @@
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/0Bz6Ih38mhIR3ZnzB1TYDV) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky \(feat\. underscores\)](https://open.spotify.com/album/6PIdDhgeQGjq2B01RP0m23) | 3:53 | 2024-10-17 | 2025-01-17 |
 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 | 2025-02-27 | 2025-05-23 |
 | [Hate Me](https://open.spotify.com/track/0lPkJtARVfp6nnHzJW9An7) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Hate Me](https://open.spotify.com/album/2X0L3mHPZqsAbMewqVtV9e) | 2:25 | 2023-06-01 | 2023-06-09 |
+| [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 | 2025-10-30 |  |
 | [havet](https://open.spotify.com/track/5wJf2MmIa9zSK5VrztQA9B) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [havet](https://open.spotify.com/album/6fQ0pD1xd66tZki5Znw37L) | 3:19 | 2024-05-16 | 2024-07-27 |
 | [Hazy](https://open.spotify.com/track/6LOaejtM3tqdwXbZeKzLVQ) | [FRANKIE OCTOBER](https://open.spotify.com/artist/40DZ0XYPJCrVu76o6nzyHw) | [Hazy](https://open.spotify.com/album/14sVNZiSivxb39arlX0UUO) | 2:44 | 2025-03-06 | 2025-04-04 |
 | [Head In The Clouds](https://open.spotify.com/track/0OOXQu3PYdzhpF31rdVbiZ) | [Shenie Fogo](https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy) | [Head In The Clouds](https://open.spotify.com/album/2Cu9oyTHjXLOmRwZ6NK04G) | 3:12 | 2022-10-28 | 2022-12-16 |

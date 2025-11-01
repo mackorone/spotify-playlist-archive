@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,143 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,264 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 51 | [Gal Yuh Body Hot](https://open.spotify.com/track/2jPlPtYwsBM3RUZDI530E8) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Gal Yuh Body Hot](https://open.spotify.com/album/5P7oFZBpqVZf2sZPyKYksL) | 3:46 |
 | 52 | [Gangster Love](https://open.spotify.com/track/7yldkAkn1B45ExAE5RN2Op) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Gangster Love](https://open.spotify.com/album/1uUWqM3BSmNSUoM6FZtAcN) | 2:11 |
 | 53 | [Banana](https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Banana](https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu) | 2:30 |
-| 54 | [Dutty Casamigos](https://open.spotify.com/track/3GRqU9RVxTjeTRpCajrrVO) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Dutty Casamigos](https://open.spotify.com/album/3l0qrKvvIujmIzvdb3Z0d6) | 2:44 |
-| 55 | [Vibrate](https://open.spotify.com/track/6IpYgAtkoBjRh0aLd6Uyko) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH) | [Vibrate](https://open.spotify.com/album/5ownMtyYCzXj0gYwkJudh0) | 2:42 |
+| 54 | [Vibrate](https://open.spotify.com/track/6IpYgAtkoBjRh0aLd6Uyko) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH) | [Vibrate](https://open.spotify.com/album/5ownMtyYCzXj0gYwkJudh0) | 2:42 |
+| 55 | [Dutty Casamigos](https://open.spotify.com/track/3GRqU9RVxTjeTRpCajrrVO) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Dutty Casamigos](https://open.spotify.com/album/3l0qrKvvIujmIzvdb3Z0d6) | 2:44 |
 | 56 | [Money Fever](https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Money Fever](https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN) | 2:31 |
 | 57 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |
 | 58 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |

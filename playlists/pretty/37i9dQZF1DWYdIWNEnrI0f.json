@@ -1,12 +1,12 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 16288,
+  "num_followers": 16392,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANm1b7W9cPU1zntnrMzygGdibPG5",
+  "snapshot_id": "AAAAAJj0tj3GL9sWautCH9WUBBfKxsxq",
   "tracks": [
     {
       "added_at": "2025-10-24 05:20:49",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-10-24 05:20:49",
       "album": {
+        "name": "insideout",
+        "url": "https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW"
+      },
+      "artists": [
+        {
+          "name": "Pleij",
+          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "insideout",
+      "url": "https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9"
+    },
+    {
+      "added_at": "2025-10-24 05:20:49",
+      "album": {
         "name": "Sasanqua",
         "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 134959,
       "name": "Sasanqua",
       "url": "https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU"
-    },
-    {
-      "added_at": "2025-10-24 05:20:49",
-      "album": {
-        "name": "insideout",
-        "url": "https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW"
-      },
-      "artists": [
-        {
-          "name": "Pleij",
-          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "insideout",
-      "url": "https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9"
     },
     {
       "added_at": "2025-10-24 05:20:49",
@@ -895,22 +895,18 @@
     {
       "added_at": "2025-10-24 05:20:49",
       "album": {
-        "name": "Spirit of the Golden Era",
-        "url": "https://open.spotify.com/album/345VVBjIO5Ck3bRYmXSGMe"
+        "name": "Clair de lune",
+        "url": "https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY"
       },
       "artists": [
         {
-          "name": "BudaMunk",
-          "url": "https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC"
-        },
-        {
-          "name": "Ill Sugi",
-          "url": "https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c"
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
         }
       ],
-      "duration_ms": 61874,
-      "name": "Visions of You",
-      "url": "https://open.spotify.com/track/1WVcBCMEt5UgvFGTiEbhsn"
+      "duration_ms": 204578,
+      "name": "Clair de lune",
+      "url": "https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W"
     }
   ],
   "unique_name": "Fujiyama Beats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Yaelokre \(Philippines\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,431 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,514 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [聖なるバナナが住んでる家](https://open.spotify.com/track/4noUqSHFjbFhu30xWFCADc) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [聖なるバナナが住んでる家](https://open.spotify.com/album/6Q0OPzW5ySRzAPFwLsnaWB) | 3:20 |
 | 100 | [Object Of My Affliction](https://open.spotify.com/track/3piTx8Xoc27FudUWj20Iqo) | [We Are Imaginary](https://open.spotify.com/artist/3KdhDztHsa0h7cySaWrYvr) | [Object Of My Affliction](https://open.spotify.com/album/3h28iRvaKJqWAH2bdkRGm5) | 3:10 |
 
-Snapshot ID: `AAAAAIXIZhp8q998u5Lp0+FeJCel8WvL`
+Snapshot ID: `AAAAAFcXJbYVnnpGQjGbjhBjS6uCgCmg`

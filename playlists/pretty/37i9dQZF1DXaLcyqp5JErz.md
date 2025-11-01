@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,992 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,116 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 20 | [Agnus Dei](https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [No Infinito Deste Amor](https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY) | 9:40 |
 | 21 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
 | 22 | [Te Agradeço \- Ao Vivo](https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 5:04 |
-| 23 | [Fiel a Mim](https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 7:22 |
-| 24 | [Santo Pra Sempre](https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Santo Pra Sempre](https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f) | 5:11 |
+| 23 | [Santo Pra Sempre](https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Santo Pra Sempre](https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f) | 5:11 |
+| 24 | [Fiel a Mim](https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 7:22 |
 | 25 | [Ouço Deus Me Chamar](https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:19 |
 | 26 | [Aos Pés da Cruz](https://open.spotify.com/track/2Ab8zrDctK010iNqBGCrUt) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Histórias e Bicicletas](https://open.spotify.com/album/4JQYqu6oRSh7pEj2YS4Ggc) | 5:39 |
 | 27 | [Aclame ao Senhor \- Ao Vivo](https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 7:35 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 33 | [Não Há Barreiras \- Ao Vivo](https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:24 |
 | 34 | [Quer Vitória \- Ao Vivo](https://open.spotify.com/track/3gXDmMNei3ZZacsIRGhHOs) | [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Ao Vivo](https://open.spotify.com/album/7Jwn9McsZwU3pW49BXa2SH) | 4:38 |
 | 35 | [Abraça\-Me \- Ao Vivo em BH](https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Abraça\-Me \(Paixão Fogo e Glória\) \[Ao Vivo em BH\]](https://open.spotify.com/album/3gSpJkm2v3lIaLh4i7jRJX) | 14:07 |
-| 36 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 |
-| 37 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
+| 36 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
+| 37 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 |
 | 38 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 |
 | 39 | [Identidade](https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm) | 4:35 |
 | 40 | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \- Ao Vivo](https://open.spotify.com/track/5otPb7Zvj6WOa7hoUk11sI) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \(Ao Vivo\)](https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA) | 6:39 |

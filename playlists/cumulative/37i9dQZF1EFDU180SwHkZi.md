@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-139 songs - 6 hr 32 min
+140 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [It Takes A Village \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/2i3nKABNrDCfKSxVYrzpdw) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [The Indian Connect](https://open.spotify.com/artist/02fUYRha20hRbxvEhZ8w0B) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:19 | 2025-07-17 |  |
 | [It Takes Two](https://open.spotify.com/track/3Af368pDQKIuVWwKsOUMqK) | [Tash Wolf](https://open.spotify.com/artist/10EGVgMvnFkNlI3BF2LhV3) | [It Takes Two](https://open.spotify.com/album/3fXlmghgJCCE9Pc6eYIagp) | 2:37 | 2025-07-03 |  |
 | [Jadugarni](https://open.spotify.com/track/2X4nY0nU2qVxEN8nMTFCOq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:17 | 2025-07-31 |  |
-| [january](https://open.spotify.com/track/4BCwkKDpIsWgAJohzaEjux) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/0VGR9ywEKEl4vMgTvSVC5m) | 2:36 | 2025-07-03 |  |
+| [january](https://open.spotify.com/track/4BCwkKDpIsWgAJohzaEjux) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/0VGR9ywEKEl4vMgTvSVC5m) | 2:36 | 2025-07-03 | 2025-11-01 |
+| [january](https://open.spotify.com/track/4IalQd9uplUh8uRL0H8QjJ) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/24a54UeA3iikbqJEOkqq7W) | 2:36 | 2025-10-31 |  |
 | [Jealous](https://open.spotify.com/track/5wXX1UkC8iX4fD1WIkcXdn) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:16 | 2025-07-03 |  |
 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 | 2025-07-03 |  |
 | [King Of The Jungle](https://open.spotify.com/track/7wEOwZ7aB7AmVaUysX4vXF) | [Natania](https://open.spotify.com/artist/2KW0urp5EKEWxgkdVOEFYO), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [King Of The Jungle](https://open.spotify.com/album/5sWsG2Z675inKrJTuVq2nS) | 2:40 | 2025-07-03 |  |

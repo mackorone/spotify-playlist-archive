@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,040 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,045 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 6](https://open.spotify.com/track/5iBnkccw2gyMbMmB1IWN48) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [ENDE SÅDAN](https://open.spotify.com/track/5iBnkccw2gyMbMmB1IWN48) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [JEEZ](https://open.spotify.com/album/3EWP8YtT28co1o8A6d14KH) | 2:43 |
 | 2 | [XL\-BYG](https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [XL\-BYG](https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0) | 2:22 |
 | 3 | [Woodstock](https://open.spotify.com/track/5H9t67ui38cdTPo5ZURc1w) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Woodstock](https://open.spotify.com/album/7ykBwGuz9mSCR2BNRao9xl) | 2:55 |
-| 4 | [Marcelo](https://open.spotify.com/track/5dRw9iWHJYEw3eAVu20JhJ) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [](https://open.spotify.com/album/null) | 2:02 |
+| 4 | [Marcelo](https://open.spotify.com/track/5dRw9iWHJYEw3eAVu20JhJ) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Young & Heartless](https://open.spotify.com/album/1c9x0b4WAEXdKHYyTAT8hL) | 2:02 |
 | 5 | [NATTEN BLIVER MORGEN](https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 3:37 |
 | 6 | [10 Dage](https://open.spotify.com/track/39t0uVgHWyL8SW5At2yiYF) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Calirose](https://open.spotify.com/album/34JHALTKLW2kiyCpJOtOsO) | 3:42 |
 | 7 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 |

@@ -4,12 +4,13 @@
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-70 songs - 4 hr 49 min
+72 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Silent Night](https://open.spotify.com/track/3AX2SrD2UnZ2uNcGeDsFrv) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [A Silent Night](https://open.spotify.com/album/0bmUJW3r9I5TBFSZEXt7bC) | 4:10 | 2023-10-27 |  |
 | [A Winter Lullaby](https://open.spotify.com/track/7hiMwoo7wXdbYxu87ckhYS) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Christmas with You](https://open.spotify.com/album/4yn6KTWcoZ3EvoMJ7qlckf) | 4:09 | 2021-11-12 |  |
+| [All I Want For Christmas Is You](https://open.spotify.com/track/3XeNbr9ixMz59P0MMTXX9s) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [All I Want For Christmas Is You](https://open.spotify.com/album/17ylCkYomb5rFPIVpQlWrn) | 4:09 | 2025-10-31 |  |
 | [All I've Hoped For](https://open.spotify.com/track/6SkSKngy9Gv88FF8RHBwVz) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [All I Hope For Christmas](https://open.spotify.com/album/12P7q2LLdzgjGywnw0mbab) | 6:18 | 2021-11-12 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/0xysaDMwmF0jmtf0htOFn9) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Snowbound](https://open.spotify.com/album/0KFxRqO4FUXlOZ1GbPgJ23) | 4:51 | 2021-11-12 | 2024-04-19 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/12Bgw8ZZEWfVS1kkn6502z) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Snowbound](https://open.spotify.com/album/4KW0MUvW0oeLY8xUtmSBof) | 4:51 | 2021-11-12 |  |
@@ -61,6 +62,7 @@
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/1yV7p2Pa2O8aikHIBTyQKA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [December](https://open.spotify.com/album/4NsBiFRTE50Egj4eesK4mG) | 4:07 | 2021-11-12 |  |
 | [Silent Night](https://open.spotify.com/track/0TckXJ96MJhzgTNEuhCh1Y) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [A Smooth Jazz Holiday](https://open.spotify.com/album/1bxW1fhSA1Cyho4K9onGCF) | 3:32 | 2021-11-12 |  |
 | [Silver Bells](https://open.spotify.com/track/5jHHcVbCUQYkcnyzobYTjF) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Classic Christmas Album](https://open.spotify.com/album/29big2asVjHGaNijZP9dDU) | 3:58 | 2021-12-03 |  |
+| [Someday At Christmas](https://open.spotify.com/track/7MD5uSIitD4mYDSA1uIoiB) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Someday At Christmas](https://open.spotify.com/album/0poBgNxUGZlCwgyp7ZXWUw) | 2:51 | 2025-10-31 |  |
 | [The Christmas Song](https://open.spotify.com/track/3LOhIheEbRY1umUKE1IR0C) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/1wxd8kjNTUmmJC5CvrszR2) | 3:41 | 2023-10-27 | 2024-03-10 |
 | [The Christmas Song](https://open.spotify.com/track/4fFJ7l4A4SibMLvBzFr6HV) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4L8VU0sSJwhrH4TqCHWGUV) | 3:41 | 2023-10-27 | 2024-11-23 |
 | [The Christmas Song](https://open.spotify.com/track/5nT9ArtXb3OMLQdFvzm6D1) | [Eric Knight](https://open.spotify.com/artist/2svTV60bdf6SzTFkOfJT0W) | [The Christmas Song](https://open.spotify.com/album/4FSzrcXxW3BmqsOcNydE4H) | 3:41 | 2023-10-27 | 2024-04-19 |

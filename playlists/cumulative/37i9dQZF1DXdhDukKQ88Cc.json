@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "JEEZ",
+        "url": "https://open.spotify.com/album/3EWP8YtT28co1o8A6d14KH"
+      },
+      "artists": [
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163837,
+      "name": "ENDE S\u00c5DAN",
+      "url": "https://open.spotify.com/track/5iBnkccw2gyMbMmB1IWN48"
+    },
+    {
+      "album": {
         "name": "Energien",
         "url": "https://open.spotify.com/album/4aiBX7RmA3AOlIE1dPlmPV"
       },
@@ -5469,8 +5487,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Young & Heartless",
+        "url": "https://open.spotify.com/album/1c9x0b4WAEXdKHYyTAT8hL"
       },
       "artists": [
         {
@@ -7934,24 +7952,6 @@
       "duration_ms": 141833,
       "name": "Topform (feat. Lamin)",
       "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "wicky",
-          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
-        }
-      ],
-      "date_added": "2025-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/5iBnkccw2gyMbMmB1IWN48"
     },
     {
       "album": {

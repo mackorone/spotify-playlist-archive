@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 201874,
       "name": "Birth",
       "url": "https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT"
@@ -1626,6 +1626,24 @@
       "duration_ms": 158650,
       "name": "Kaze no Oto",
       "url": "https://open.spotify.com/track/7cKyV4MSnsEkCcaIgP2Wgw"
+    },
+    {
+      "album": {
+        "name": "Lakeside",
+        "url": "https://open.spotify.com/album/0GVEfZ3VR8njmrbXjA3oeA"
+      },
+      "artists": [
+        {
+          "name": "Harbours & Oceans",
+          "url": "https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Lakeside",
+      "url": "https://open.spotify.com/track/4i6mioJF303ji4qZixNyUF"
     },
     {
       "album": {

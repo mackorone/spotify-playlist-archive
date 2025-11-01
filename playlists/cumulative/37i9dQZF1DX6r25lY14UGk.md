@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-939 songs - 1 day 14 hr 54 min
+940 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Follow Your Heart](https://open.spotify.com/track/62g0ZP425BgKzILiIWyhzP) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Barbie & Teresa: Recipe for Friendship](https://open.spotify.com/album/4uJthLoA5QtHpLHRPWMQdX) | 2:22 | 2025-03-07 |  |
 | [Follow Your Passion](https://open.spotify.com/track/167R2ezxujzd4CA89RNZon) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Follow Your Passion](https://open.spotify.com/album/3Gz2eX6W56Dk5DKlfTwavH) | 2:27 | 2024-03-22 | 2024-08-24 |
 | [Forward and Back](https://open.spotify.com/track/46uVvBNpdIKGP0YS6Dqf6N) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Forward and Back](https://open.spotify.com/album/1CkwTG5aH5MPzPuqtScaCL) | 2:31 | 2025-08-15 |  |
+| [Four Seasons](https://open.spotify.com/track/6rORlgBILt7hESfgmW0YKj) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa), [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Four Seasons](https://open.spotify.com/album/202onTxhIs4m0L6nZKX7r7) | 1:46 | 2025-10-31 |  |
 | [Freight Train](https://open.spotify.com/track/60gLhveA4SJJ4eAKGkdTea) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Freight Train](https://open.spotify.com/album/7fgaICBd9oIGrTon0bbLrd) | 2:19 | 2024-04-19 | 2025-03-08 |
 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0epwO9Y9JZkLBRwadMSWYY) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 3:25 | 2025-06-13 |  |
 | [Friends Are the Best](https://open.spotify.com/track/0RMaNx3r2D2Kwz2ajIyCTA) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Friends Are the Best](https://open.spotify.com/album/2XViMdz4NLfnkSlC48aUyj) | 2:25 | 2024-08-16 | 2025-03-08 |

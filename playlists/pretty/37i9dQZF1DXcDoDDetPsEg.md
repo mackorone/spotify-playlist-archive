@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Tion Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,998 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,981 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 4 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 |
 | 5 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 6 | [Getting Paid ​\(f​eat​\. Asake, Wizkid, Skillibeng​\)](https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:28 |
-| 7 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [](https://open.spotify.com/album/null) | 2:43 |
+| 7 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [A Fine African Man](https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d) | 2:43 |
 | 8 | [Regime](https://open.spotify.com/track/2FUmIQRaT4e5AwUtFvubcS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Regime](https://open.spotify.com/album/5uJxJCsrlkMM2EN3t3Xx5i) | 2:48 |
 | 9 | [No Comment](https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [No Comment](https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss) | 3:02 |
 | 10 | [Here We Go Again](https://open.spotify.com/track/7jXIpGIVk3M80zg1oj0sXT) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [2 EASY](https://open.spotify.com/album/1KYDfAVps1egxt3TU6jShb) | 2:20 |

@@ -1,12 +1,12 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - NAYEL",
-  "num_followers": 14997,
+  "num_followers": 15041,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5exfXOSHZeXc8zladT9hv0iBMQ",
+  "snapshot_id": "AAAAAIceGBGF1jJLt59gf9dGyqyHdani",
   "tracks": [
     {
       "added_at": "2025-10-20 06:54:01",
@@ -43,6 +43,22 @@
       "duration_ms": 158961,
       "name": "Chalo Door Kahin",
       "url": "https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9"
+    },
+    {
+      "added_at": "2025-10-31 04:00:37",
+      "album": {
+        "name": "Neelofar - The Film",
+        "url": "https://open.spotify.com/album/1uvTjCvn9NUXqSA5s7Ppaf"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Vicky Haider",
+          "url": "https://open.spotify.com/artist/0yjJxYWXNv9286zFPQaAXO"
+        }
+      ],
+      "duration_ms": 214177,
+      "name": "Ja Rahe",
+      "url": "https://open.spotify.com/track/28NsSkD1WSQW5gKZSd1HBS"
     },
     {
       "added_at": "2025-10-24 04:00:20",
@@ -495,22 +511,6 @@
     {
       "added_at": "2025-10-20 06:54:01",
       "album": {
-        "name": "Chan Mahiya",
-        "url": "https://open.spotify.com/album/3e5j4WoJbLcfWSUosoOR9X"
-      },
-      "artists": [
-        {
-          "name": "Raafay Israr",
-          "url": "https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "Chan Mahiya",
-      "url": "https://open.spotify.com/track/1iqOIvVu9KWPUgvT5Ky56o"
-    },
-    {
-      "added_at": "2025-10-20 06:54:01",
-      "album": {
         "name": "Luv Summer",
         "url": "https://open.spotify.com/album/4Rj4pFxfcihI6WlC8efI1v"
       },
@@ -739,7 +739,7 @@
     {
       "added_at": "2025-10-20 06:54:01",
       "album": {
-        "name": "Aap Ki Yaad",
+        "name": "Aap Ki Yaad, 2.0",
         "url": "https://open.spotify.com/album/3UWhmzPxb02fJl65JxoEFB"
       },
       "artists": [
@@ -749,28 +749,8 @@
         }
       ],
       "duration_ms": 321227,
-      "name": "Aap Ki Yaad",
+      "name": "Aap Ki Yaad, 2.0",
       "url": "https://open.spotify.com/track/4HbnrDaNkW6CDwdHfYEGr8"
-    },
-    {
-      "added_at": "2025-10-20 06:54:01",
-      "album": {
-        "name": "mere yaara",
-        "url": "https://open.spotify.com/album/0lSk4Mqwkt9Zr4XT4QC5fF"
-      },
-      "artists": [
-        {
-          "name": "Bilal Khalid",
-          "url": "https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf"
-        },
-        {
-          "name": "Saif Altaf",
-          "url": "https://open.spotify.com/artist/2dIHcU5M4hH1kv6xthhqnV"
-        }
-      ],
-      "duration_ms": 171329,
-      "name": "mere yaara",
-      "url": "https://open.spotify.com/track/0NMQWfRPVOfCXt7amdONuP"
     },
     {
       "added_at": "2025-10-20 06:54:01",
@@ -1179,30 +1159,6 @@
       "duration_ms": 309701,
       "name": "Ajnabi",
       "url": "https://open.spotify.com/track/7BFWKCDCb0Y4jWTxz7Hv5q"
-    },
-    {
-      "added_at": "2025-10-20 06:54:01",
-      "album": {
-        "name": "Kon Ae Tu?",
-        "url": "https://open.spotify.com/album/6wyTkLCl6L8jUHDyT8r7No"
-      },
-      "artists": [
-        {
-          "name": "Rabi Ahmed",
-          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
-        },
-        {
-          "name": "Syed Hamza",
-          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
-        },
-        {
-          "name": "Aalehaider Gillani",
-          "url": "https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA"
-        }
-      ],
-      "duration_ms": 163953,
-      "name": "Kon Ae Tu?",
-      "url": "https://open.spotify.com/track/4jIVye9jAjdr0M7tqwJFHv"
     },
     {
       "added_at": "2025-10-20 06:54:01",

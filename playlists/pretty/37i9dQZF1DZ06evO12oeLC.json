@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17865,
+  "num_followers": 17866,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAACQDMe0fMugWOgu+1RWT662",
+  "snapshot_id": "aQKqgAAAAAABUUa9bp38KHc08gARAl/g",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERDUE",
-        "url": "https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 317513,
-      "name": "PERDUE",
-      "url": "https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MENTAL",
         "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 214650,
       "name": "MTV",
       "url": "https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERDUE",
+        "url": "https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 317513,
+      "name": "PERDUE",
+      "url": "https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 415422,
-      "name": "SEXE",
-      "url": "https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MENTAL",
         "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 206000,
       "name": "SUICIDE",
       "url": "https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 415422,
+      "name": "SEXE",
+      "url": "https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 213601,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MENTAL",
         "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 213601,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 212784,
       "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "L\u2019orage",
-      "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "L\u2019orage",
+      "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRUT",
         "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 381226,
       "name": "101 REGRETS",
       "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "La vague",
-      "url": "https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "La vague",
+      "url": "https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BRUT",
         "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
@@ -679,54 +679,6 @@
       "duration_ms": 230600,
       "name": "N\u00c9ON ROUGE",
       "url": "https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 186323,
-      "name": "Rouge",
-      "url": "https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diego",
-        "url": "https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Diego",
-      "url": "https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd"
     },
     {
       "added_at": null,
@@ -747,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 186323,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yseult",
         "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
       },
@@ -756,15 +724,15 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 243493,
-      "name": "La mamma",
-      "url": "https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6"
+      "duration_ms": 180866,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY"
+        "name": "Diego",
+        "url": "https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD"
       },
       "artists": [
         {
@@ -772,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 183020,
-      "name": "Rod\u00e9o",
-      "url": "https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk"
+      "duration_ms": 167773,
+      "name": "Diego",
+      "url": "https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd"
     },
     {
       "added_at": null,
@@ -795,6 +763,38 @@
       "duration_ms": 196600,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 183020,
+      "name": "Rod\u00e9o",
+      "url": "https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "La mamma",
+      "url": "https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6"
     },
     {
       "added_at": null,
@@ -823,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+        "name": "Le gang des antillais",
+        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
       },
       "artists": [
+        {
+          "name": "Lino",
+          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
+        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 150533,
-      "name": "Pour l\u2019impossible",
-      "url": "https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym"
+      "duration_ms": 218467,
+      "name": "Meilleur homme",
+      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
     },
     {
       "added_at": null,
@@ -859,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le gang des antillais",
-        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
       },
       "artists": [
-        {
-          "name": "Lino",
-          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
-        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 218467,
-      "name": "Meilleur homme",
-      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
+      "duration_ms": 150533,
+      "name": "Pour l\u2019impossible",
+      "url": "https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym"
     },
     {
       "added_at": null,

@@ -1,13 +1,85 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: DAVE)",
-  "num_followers": 454410,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Kodak Black)",
+  "num_followers": 454433,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+JuNOoWbJH93yKqHwY1MJvDEqb",
+  "snapshot_id": "AAAAALHCqFM24fnumseCgLVVZvwOvV+j",
   "tracks": [
+    {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 229861,
+      "name": "Who You Seeing Tonight (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/02hwmwDf2tWe6sM9Ms9Hlr"
+    },
+    {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "CHROMAKOPIA +",
+        "url": "https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 280790,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM"
+    },
+    {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "KO",
+        "url": "https://open.spotify.com/album/3xgTFQpbgsnyHRaL1JXs9F"
+      },
+      "artists": [
+        {
+          "name": "NLE The Great",
+          "url": "https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 214122,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5"
+    },
+    {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "Get Dat",
+        "url": "https://open.spotify.com/album/1bsM1bf9DHxnFrnHO7tkun"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Get Dat",
+      "url": "https://open.spotify.com/track/0tiTHNFceq3bd9oFv8w5fq"
+    },
     {
       "added_at": "2025-10-23 23:00:23",
       "album": {

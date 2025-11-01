@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,279 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,331 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 59 | [Over](https://open.spotify.com/track/1Qw2tZX3aiZNaGZk6B28Ac) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Over](https://open.spotify.com/album/5yCy4Vh2r5jzxiqEKJEtlV) | 3:16 |
 | 60 | [Upendo](https://open.spotify.com/track/6qRTFjQCkdfQKgY68QQr96) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Upendo](https://open.spotify.com/album/1112N3GxCGKwDeJY2dd42W) | 3:45 |
 
-Snapshot ID: `AAAAAF0f7ehpSGepUwqNVZ3Kt5rttwY3`
+Snapshot ID: `AAAAAHisrYv9FmhNUUbzq4kNGHJ+Or1q`

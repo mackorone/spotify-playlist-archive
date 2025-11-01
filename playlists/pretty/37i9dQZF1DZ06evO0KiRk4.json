@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 573308,
+  "num_followers": 573498,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAACFmSCuxExDkap50HzI3TCI",
+  "snapshot_id": "aQKqgAAAAAA1BYUjXZRowmMLKlpoz1Bq",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From Final Fantasy XV",
-        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
+        "name": "Sympathy Magic",
+        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 245780,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
+      "duration_ms": 268886,
+      "name": "Sympathy Magic",
+      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
       "duration_ms": 213102,
       "name": "Choreomania",
       "url": "https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From Final Fantasy XV",
+        "url": "https://open.spotify.com/album/3G5GOLjvWUBRIrRp3GKnXO"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 245780,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/5XSU59wtE5CRCAEyHmmGy4"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Fever",
         "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 257961,
       "name": "Cassandra",
       "url": "https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
       "duration_ms": 241760,
       "name": "Big God",
       "url": "https://open.spotify.com/track/1NcXkWB3UwXfMt8izByICb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sympathy Magic",
-        "url": "https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 268886,
-      "name": "Sympathy Magic",
-      "url": "https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb"
     },
     {
       "added_at": null,
@@ -599,18 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Lungs",
-        "url": "https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh"
+        "name": "EDM Party",
+        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 287240,
-      "name": "Heavy In Your Arms",
-      "url": "https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn"
+      "duration_ms": 264574,
+      "name": "You Got The Love (Mark Knight Remix) / One",
+      "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
     },
     {
       "added_at": null,
@@ -647,26 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EDM Party",
-        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
+        "name": "Between Two Lungs",
+        "url": "https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 264574,
-      "name": "You Got The Love (Mark Knight Remix) / One",
-      "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
+      "duration_ms": 287240,
+      "name": "Heavy In Your Arms",
+      "url": "https://open.spotify.com/track/3svizT5TsRqDffORHCmwKn"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 333400,
-      "name": "What The Water Gave Me",
-      "url": "https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Fever (Complete Edition)",
         "url": "https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 275319,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 333400,
+      "name": "What The Water Gave Me",
+      "url": "https://open.spotify.com/track/10H6mvk1cPPTzs3IHsHSHi"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 298453,
-      "name": "Only If For A Night",
-      "url": "https://open.spotify.com/track/4vJAhLLHcgPeR3pQopGaIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Presents Unplugged: Florence + The Machine",
         "url": "https://open.spotify.com/album/11JHRCPKllt4DDiaaBi3Kl"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 275333,
       "name": "Dog Days Are Over - MTV Unplugged, 2012 / Live",
       "url": "https://open.spotify.com/track/3pRRYcXy3Z0PsAa8griSoF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 298453,
+      "name": "Only If For A Night",
+      "url": "https://open.spotify.com/track/4vJAhLLHcgPeR3pQopGaIG"
     },
     {
       "added_at": null,

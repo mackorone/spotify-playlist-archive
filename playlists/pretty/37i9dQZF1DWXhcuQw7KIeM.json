@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 561614,
+  "num_followers": 561803,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -102,6 +102,14 @@
         {
           "name": "Trevor Morris",
           "url": "https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq"
+        },
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        },
+        {
+          "name": "Steve Tavaglione",
+          "url": "https://open.spotify.com/artist/24DYsjzmOJblWOhpdEDUJE"
         }
       ],
       "duration_ms": 191066,
@@ -619,6 +627,22 @@
     {
       "added_at": "2025-09-26 04:00:27",
       "album": {
+        "name": "Gnosis",
+        "url": "https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Gnosis",
+      "url": "https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P"
+    },
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
         "name": "Blot",
         "url": "https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf"
       },
@@ -647,22 +671,6 @@
       "duration_ms": 243645,
       "name": "Spine",
       "url": "https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q"
-    },
-    {
-      "added_at": "2025-09-26 04:00:27",
-      "album": {
-        "name": "Gnosis",
-        "url": "https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF"
-      },
-      "artists": [
-        {
-          "name": "Equilibrium",
-          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Gnosis",
-      "url": "https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P"
     },
     {
       "added_at": "2025-09-26 04:00:27",
@@ -915,22 +923,6 @@
     {
       "added_at": "2025-09-26 04:00:27",
       "album": {
-        "name": "Hersir",
-        "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 145826,
-      "name": "Hersir",
-      "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
-    },
-    {
-      "added_at": "2025-09-26 04:00:27",
-      "album": {
         "name": "Set the Sails",
         "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
       },
@@ -963,6 +955,22 @@
       "duration_ms": 398160,
       "name": "Anaia",
       "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
+    },
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
+        "name": "Hersir",
+        "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 145826,
+      "name": "Hersir",
+      "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
     },
     {
       "added_at": "2025-09-26 04:00:27",
@@ -1095,22 +1103,6 @@
     {
       "added_at": "2025-09-26 04:00:27",
       "album": {
-        "name": "Malstr\u00f6msbrus",
-        "url": "https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl"
-      },
-      "artists": [
-        {
-          "name": "Vintersorg",
-          "url": "https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6"
-        }
-      ],
-      "duration_ms": 403626,
-      "name": "Malstr\u00f6msbrus",
-      "url": "https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV"
-    },
-    {
-      "added_at": "2025-09-26 04:00:27",
-      "album": {
         "name": "Fenris",
         "url": "https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n"
       },
@@ -1123,6 +1115,22 @@
       "duration_ms": 347204,
       "name": "Fenris",
       "url": "https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU"
+    },
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
+        "name": "Malstr\u00f6msbrus",
+        "url": "https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl"
+      },
+      "artists": [
+        {
+          "name": "Vintersorg",
+          "url": "https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6"
+        }
+      ],
+      "duration_ms": 403626,
+      "name": "Malstr\u00f6msbrus",
+      "url": "https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV"
     },
     {
       "added_at": "2025-09-26 04:00:27",
@@ -1175,6 +1183,22 @@
     {
       "added_at": "2025-09-26 04:00:27",
       "album": {
+        "name": "Midvinter",
+        "url": "https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy"
+      },
+      "artists": [
+        {
+          "name": "Ereb Altor",
+          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
+        }
+      ],
+      "duration_ms": 392983,
+      "name": "Midvinter",
+      "url": "https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H"
+    },
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
         "name": "Snake Pit Poetry",
         "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
       },
@@ -1191,22 +1215,6 @@
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
-    },
-    {
-      "added_at": "2025-09-26 04:00:27",
-      "album": {
-        "name": "Midvinter",
-        "url": "https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy"
-      },
-      "artists": [
-        {
-          "name": "Ereb Altor",
-          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
-        }
-      ],
-      "duration_ms": 392983,
-      "name": "Midvinter",
-      "url": "https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H"
     },
     {
       "added_at": "2025-09-26 04:00:27",

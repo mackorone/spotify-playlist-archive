@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,483 songs - 5 day 10 hr 27 min
+2,484 songs - 5 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1707,7 +1707,7 @@
 | [P.I.B](https://open.spotify.com/track/6YwglTFkBDJ2DcgzbUpXOD) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/1WmWymM85Nr8mCo92QGjyT) | 2:12 | 2025-09-10 | 2025-09-12 |
 | [P.I.B](https://open.spotify.com/track/3TAZc74uzlJW77FAGbvddN) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/5nxUUmZPyFp2QOiXuZb4fX) | 2:13 | 2025-10-23 |  |
 | [P.O.V.](https://open.spotify.com/track/2mZaUAjM2b6GUGwHMOjgQf) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:21 | 2023-10-29 | 2023-11-02 |
-| [Pa Pa Paw](https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [SARAH SEY](https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:35 | 2025-05-31 |  |
+| [Pa Pa Paw](https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [SARAH SEY](https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:35 | 2025-05-31 | 2025-11-01 |
 | [Pablo](https://open.spotify.com/track/0KifVydMFjrwl53BPjhS0o) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Pablo](https://open.spotify.com/album/1pU0VS9klvCOCdoEkjQfOW) | 3:07 | 2022-07-06 | 2022-07-08 |
 | [Paddle](https://open.spotify.com/track/2oVMbiuuqoRoEzdQKcaQgO) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [AVTLR](https://open.spotify.com/album/4k10wWcbZwk1SfBwawz64s) | 2:18 | 2025-10-03 |  |
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-11-26 | 2024-11-30 |
@@ -2072,6 +2072,7 @@
 | [Skit lost memo](https://open.spotify.com/track/3pW8ZoX5PEaTImlcCmPn20) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 0:32 | 2022-09-17 | 2022-09-22 |
 | [SKITZO](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-07-29 | 2023-07-31 |
 | [Sky Priority](https://open.spotify.com/track/6ItXr7qOXzK6KlhTbUu6hp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:49 | 2021-12-05 | 2022-01-23 |
+| [Skywalker Haze \- A COLORS SHOW](https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Skywalker Haze \- A COLORS SHOW](https://open.spotify.com/album/3Xudj0lVJpPiBkiMLy5aim) | 3:04 | 2025-10-31 |  |
 | [Sleigh Ride](https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 2:39 | 2022-12-25 | 2022-12-27 |
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-25 | 2024-12-28 |
 | [SLOVAKIA](https://open.spotify.com/track/54aUPx2uiZyqHpcoW7lHNO) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 4:02 | 2025-06-21 | 2025-06-23 |

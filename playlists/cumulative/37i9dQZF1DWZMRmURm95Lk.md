@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Caparezza in cover.
 
-592 songs - 1 day 9 hr 30 min
+593 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [I BAMBINI DELLA GUERRA](https://open.spotify.com/track/1uzNtQv6oJU5TKaTrgutBy) | [Amir Issaa](https://open.spotify.com/artist/70KwF5p6fS97rw3rQxPht5), [Earl 16](https://open.spotify.com/artist/0kcnCj06HoqRJz2Vk0P9ly), [Macro Marco](https://open.spotify.com/artist/4W7U7bpnH1h0VKxMIRSzTn) | [I BAMBINI DELLA GUERRA](https://open.spotify.com/album/2aHQnKrLGhqDWgLePEUuZM) | 2:54 | 2024-11-28 | 2025-01-10 |
 | [Icaro](https://open.spotify.com/track/0WLqXBbvrDqJOkppuIwzsF) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Patrick Benifei](https://open.spotify.com/artist/3dOrb7nbZX0f0nGEdZLgTx) | [Icaro](https://open.spotify.com/album/6GWsoj18YefnGxtkIKLSja) | 2:52 | 2023-12-07 | 2024-03-22 |
 | [Idiocracy \(feat\. Gemitaiz\)](https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Viscerale](https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT) | 2:43 | 2025-04-03 |  |
-| [Il 6° Senso](https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [kARMA](https://open.spotify.com/album/6IGY3OoYPu02MkighTgO2N) | 3:58 | 2022-06-02 |  |
+| [Il 6° Senso](https://open.spotify.com/track/1qoEXARIkDNbGAPLnynlAN) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [kARMA](https://open.spotify.com/album/6IGY3OoYPu02MkighTgO2N) | 3:58 | 2022-06-02 | 2025-11-01 |
 | [Il 6° Senso](https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [kARMA](https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z) | 3:58 | 2022-07-28 | 2024-04-19 |
 | [Il Battesimo \(feat\. Inoki\)](https://open.spotify.com/track/1uH3J5qTcl28NtgQnJS0EN) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Il Battesimo \(feat\. Inoki\)](https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs) | 2:27 | 2025-10-09 |  |
 | [IL BUIO NELLE MANI](https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [KLOAKA](https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF) | 2:30 | 2025-01-21 |  |
@@ -553,6 +553,7 @@
 | [Tiger Mask \- Se Acabo](https://open.spotify.com/track/5UVvbBbPmlBl6i7OAZRMpP) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Wego FTS](https://open.spotify.com/artist/2PoxLmzjISQlPoZ7KLzOMf) | [Tiger Mask \(Se Acabo\)](https://open.spotify.com/album/60oDLiIshmfMvwYg3KX5SJ) | 3:10 | 2022-05-12 | 2022-06-23 |
 | [Tinta unita \(feat\. Danno\)](https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [CRISTI E DIAVOLI](https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC) | 2:48 | 2023-04-20 |  |
 | [Titanic](https://open.spotify.com/track/3j3woTPzyCtMANeff1VEe1) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [Titanic](https://open.spotify.com/album/2g5mdnKae0ZnGzI6nXyDko) | 3:50 | 2022-06-02 | 2022-08-02 |
+| [Training Day](https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX) | [Doye](https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF), [Giovane Platone](https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9) | [Training Day](https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS) | 1:36 | 2025-10-30 |  |
 | [Tranqi Funky](https://open.spotify.com/track/2ttUbhePgGQQKAe5vxQVG4) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe) | [Così Com' è](https://open.spotify.com/album/4qtNe5vJDsAYXFhMX81Gp2) | 3:23 | 2022-06-30 | 2024-03-15 |
 | [Treddepomeriggio](https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP) | [Er Costa](https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1) | [Treddepomeriggio](https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF) | 3:03 | 2022-05-12 | 2024-06-01 |
 | [TROPPAweed \(feat\. Noyz Narcos\)](https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Canerandagio \- Parte 1](https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc) | 2:45 | 2025-04-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 315505,
+  "num_followers": 315553,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAABG8QgW1oyLPLi1kry+3BRD",
+  "snapshot_id": "aQKqgAAAAAApD58VRTHq4M1NW/fVGZRl",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 127741,
       "name": "Al\u00e9m do Dinheiro",
       "url": "https://open.spotify.com/track/7qLM93TElkbHLnLBNviq3y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8"
     },
     {
       "added_at": null,
@@ -723,30 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaterial (Deluxe)",
-        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "N\u00e3o Desista Agora",
-      "url": "https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 228529,
       "name": "Emo\u00e7\u00f5es - Vers\u00e3o Suja",
       "url": "https://open.spotify.com/track/58EQwPY12eH9aisrgvQhGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "N\u00e3o Desista Agora",
+      "url": "https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaterial (Deluxe)",
-        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "F* F* M*",
-      "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
       },
@@ -871,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
       "artists": [
         {
@@ -880,13 +860,33 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "MC Cidinho",
-          "url": "https://open.spotify.com/artist/6jiipNBcxUvaKPyxU7nBv7"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 276491,
-      "name": "Chefe do Crime Perfeito",
-      "url": "https://open.spotify.com/track/6MVFI8t52RU5ESYQyLp5MI"
+      "duration_ms": 176000,
+      "name": "F* F* M*",
+      "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
     },
     {
       "added_at": null,
@@ -911,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
       },
       "artists": [
         {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Cidinho",
+          "url": "https://open.spotify.com/artist/6jiipNBcxUvaKPyxU7nBv7"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
+      "duration_ms": 276491,
+      "name": "Chefe do Crime Perfeito",
+      "url": "https://open.spotify.com/track/6MVFI8t52RU5ESYQyLp5MI"
     },
     {
       "added_at": null,
@@ -1199,6 +1199,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+        "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+      "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00eddia",
         "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
       },
@@ -1235,38 +1267,6 @@
       "duration_ms": 233181,
       "name": "M\u00eddia",
       "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-        "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-      "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
     }
   ],
   "unique_name": "This Is Filipe Ret",

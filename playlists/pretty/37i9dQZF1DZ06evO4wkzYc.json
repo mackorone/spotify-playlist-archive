@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 177431,
+  "num_followers": 177565,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAACgZutgjIh/P8agakELgGIH",
+  "snapshot_id": "aQKqgAAAAAAVXG80OdHEMb26PQ2ONb4D",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 147602,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Proveedor",
         "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 231402,
       "name": "El Proveedor",
       "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 147602,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
     },
     {
       "added_at": null,

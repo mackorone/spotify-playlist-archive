@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuw: JR, Boufi, Graci en meer",
+  "description": "Nieuw: BFLQuatro, CC, A3 en meer",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -24,6 +24,32 @@
       "duration_ms": 154698,
       "name": "1 Voor De Money",
       "url": "https://open.spotify.com/track/30IzllhL2C7P2fOd34NNVW"
+    },
+    {
+      "album": {
+        "name": "100.000 Mistakes",
+        "url": "https://open.spotify.com/album/0ikY46np7sr8m4dH4Wr12k"
+      },
+      "artists": [
+        {
+          "name": "Tramo",
+          "url": "https://open.spotify.com/artist/6iScCoy2D7zw7MLWNZETTb"
+        },
+        {
+          "name": "Safouu",
+          "url": "https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy"
+        },
+        {
+          "name": "Curved",
+          "url": "https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128823,
+      "name": "100.000 Mistakes",
+      "url": "https://open.spotify.com/track/3NXJXHUMrd3Hj3bAlPKaOj"
     },
     {
       "album": {
@@ -96,7 +122,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 140099,
       "name": "1626 FREESTYLE",
       "url": "https://open.spotify.com/track/0sMiTfoCuPPWqEktvZeL50"
@@ -114,7 +140,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 171314,
       "name": "2 ogen dicht",
       "url": "https://open.spotify.com/track/4rvVUfz7N6nc2iX6fGTJVG"
@@ -180,7 +206,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 150289,
       "name": "4, 5 Shots",
       "url": "https://open.spotify.com/track/2eeKFKWZLnoQQX886943f1"
@@ -228,7 +254,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 186496,
       "name": "4WIEL",
       "url": "https://open.spotify.com/track/6fDKErrqoJ82liH3lWBtx8"
@@ -397,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Alors On Suil",
+        "url": "https://open.spotify.com/album/5xBEg8KgWNjkaFgF0MOLPL"
+      },
+      "artists": [
+        {
+          "name": "Suilju",
+          "url": "https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114893,
+      "name": "Alors On Suil",
+      "url": "https://open.spotify.com/track/3HexcpVhvvQdxWGKYWYe9P"
+    },
+    {
+      "album": {
         "name": "ARMA\u00c7\u00c3O DE PERA",
         "url": "https://open.spotify.com/album/6RQbeUovleFoWxk1epnHml"
       },
@@ -452,7 +496,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 150593,
       "name": "AURA (1000+)",
       "url": "https://open.spotify.com/track/4hPBfytslW7KPfJsJa9ymp"
@@ -478,10 +522,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 198622,
       "name": "Ay Si",
       "url": "https://open.spotify.com/track/4Lt6YTpQKTJvVzme9eUTAM"
+    },
+    {
+      "album": {
+        "name": "BACKSEAT",
+        "url": "https://open.spotify.com/album/4D7vPYvM28l2ZGHIl0n9WS"
+      },
+      "artists": [
+        {
+          "name": "Leafs",
+          "url": "https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "BACKSEAT",
+      "url": "https://open.spotify.com/track/7Cc6Bs9VALK1D483fZ8qfw"
     },
     {
       "album": {
@@ -500,7 +562,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 163943,
       "name": "BAD B*TCH",
       "url": "https://open.spotify.com/track/5DnoJX0Z9uS7S1WJQlvgcQ"
@@ -570,7 +632,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 160833,
       "name": "BAKAYOKO (feat. Freezz, BFLClyde & Highguest)",
       "url": "https://open.spotify.com/track/3XHjlFMOT4UtCuV2stR42J"
@@ -592,7 +654,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 127619,
       "name": "Balliemangs",
       "url": "https://open.spotify.com/track/5ZkSqDsQJKOxRnt7GezAxN"
@@ -654,7 +716,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 233904,
       "name": "Begrafenis",
       "url": "https://open.spotify.com/track/1tOwpG5OVkVfemP7v6R53f"
@@ -734,7 +796,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 150000,
       "name": "Blamen",
       "url": "https://open.spotify.com/track/06k4NiskMvaaEqNCjUtLez"
@@ -822,7 +884,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 153469,
       "name": "Breken",
       "url": "https://open.spotify.com/track/5lhOd5fkuh27ukVTG8Cbx2"
@@ -1121,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Daar voor jou",
+        "url": "https://open.spotify.com/album/5LM3tmU6uglf9Jb5ybMUD3"
+      },
+      "artists": [
+        {
+          "name": "Ries",
+          "url": "https://open.spotify.com/artist/4JzWQoYWa4uI7iVJorKEtG"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Daar voor jou",
+      "url": "https://open.spotify.com/track/5aBQ6NZbiiRQR8tbB7sTaa"
+    },
+    {
+      "album": {
         "name": "Daggoes",
         "url": "https://open.spotify.com/album/0ixiURrcCvL2oAbCdtXpc2"
       },
@@ -1198,6 +1278,24 @@
       "duration_ms": 157703,
       "name": "Degradatie",
       "url": "https://open.spotify.com/track/1r2NF9qGlhOE1I4CaxwpeP"
+    },
+    {
+      "album": {
+        "name": "Djoen",
+        "url": "https://open.spotify.com/album/2rcGvzyFCwrGp5IxNAn0cn"
+      },
+      "artists": [
+        {
+          "name": "PN",
+          "url": "https://open.spotify.com/artist/2R3ccmRzKs416pa2YAUYc1"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Djoen",
+      "url": "https://open.spotify.com/track/2wyo5QYiJr9aWFOSvHZnEB"
     },
     {
       "album": {
@@ -1290,7 +1388,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 207567,
       "name": "Euro's",
       "url": "https://open.spotify.com/track/2wHEVSc5qJOhw0MmZgRAcI"
@@ -1308,7 +1406,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 138169,
       "name": "EWA DRERRIE",
       "url": "https://open.spotify.com/track/30GEBYprQt2h3CSon5wiV9"
@@ -1483,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/3DHuNn2T2uPeOhQq3LW31G"
+      },
+      "artists": [
+        {
+          "name": "AH7",
+          "url": "https://open.spotify.com/artist/3MzIvVjbjraAm4rUFmgZ2l"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124470,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/6ERP5RufAQJ7KypF4spsox"
+    },
+    {
+      "album": {
         "name": "Geen Rem",
         "url": "https://open.spotify.com/album/1gbDx70roNVXz41OZGzbV9"
       },
@@ -1524,7 +1640,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 217600,
       "name": "Geen Smoke",
       "url": "https://open.spotify.com/track/0QkA1oZ6V4tvSI5GhyTY2d"
@@ -1608,7 +1724,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 163200,
       "name": "Gemaakt Voor Dit",
       "url": "https://open.spotify.com/track/49JvRLdvAz81GLdNfnD7kT"
@@ -1700,7 +1816,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 121666,
       "name": "Goed Gepakt",
       "url": "https://open.spotify.com/track/1YqT88mO4ISuyrRn9hd4W9"
@@ -1779,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "Halverwege",
+        "url": "https://open.spotify.com/album/6QnV0OMemf0a9y2ifU4VoI"
+      },
+      "artists": [
+        {
+          "name": "Kieks",
+          "url": "https://open.spotify.com/artist/726JnbIAqlICv9oInzGQ1Q"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117803,
+      "name": "Halverwege",
+      "url": "https://open.spotify.com/track/7KxHjOF8gA8GalwSCXVvlG"
+    },
+    {
+      "album": {
         "name": "hangen met jou",
         "url": "https://open.spotify.com/album/3btwZUat7bOImpEhgKeB2T"
       },
@@ -1790,7 +1928,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 164776,
       "name": "hangen met jou",
       "url": "https://open.spotify.com/track/0OzXbMmlUvTW7OW1hT4j8q"
@@ -1834,6 +1972,36 @@
       "duration_ms": 214000,
       "name": "HELEMAAL HERRES",
       "url": "https://open.spotify.com/track/7gnyhzKhIKufBX0xmjT35s"
+    },
+    {
+      "album": {
+        "name": "Hetzelfde Feestje",
+        "url": "https://open.spotify.com/album/46RtKKTGTJk3PWRcu0yRN2"
+      },
+      "artists": [
+        {
+          "name": "Remster",
+          "url": "https://open.spotify.com/artist/36YggACPaNTi4OLpZ9i4TE"
+        },
+        {
+          "name": "JAH",
+          "url": "https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659"
+        },
+        {
+          "name": "stay away from dante!",
+          "url": "https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd"
+        },
+        {
+          "name": "Brunzyn",
+          "url": "https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175891,
+      "name": "Hetzelfde Feestje",
+      "url": "https://open.spotify.com/track/4JnEBcbIQ2nrXu0gQPwqnO"
     },
     {
       "album": {
@@ -2064,7 +2232,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 174915,
       "name": "Kamer",
       "url": "https://open.spotify.com/track/4yH7yI0cJCDChG8VpzcUo3"
@@ -2162,7 +2330,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 197530,
       "name": "Klaar is kees",
       "url": "https://open.spotify.com/track/1LFG0gHscCwzJGk29SHJe4"
@@ -2188,6 +2356,48 @@
       "duration_ms": 123809,
       "name": "Knalprobleem",
       "url": "https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP"
+    },
+    {
+      "album": {
+        "name": "Kraaiennest - Zonamo Hoodcypher",
+        "url": "https://open.spotify.com/album/4ob6LqSpyS2NNGEpoj1ndK"
+      },
+      "artists": [
+        {
+          "name": "Zonamo-Underground",
+          "url": "https://open.spotify.com/artist/161uzPzZefQiZ2SSIl7zkb"
+        },
+        {
+          "name": "Kiddo-Cee",
+          "url": "https://open.spotify.com/artist/7wH3WHmCemROspaw8eKWXY"
+        },
+        {
+          "name": "MC Lost",
+          "url": "https://open.spotify.com/artist/3Tw31Sa6vnZHiyo4P39eQ5"
+        },
+        {
+          "name": "Maluku",
+          "url": "https://open.spotify.com/artist/72nZH5Tr0J5PQZWzSowGFu"
+        },
+        {
+          "name": "Dharan Rimal",
+          "url": "https://open.spotify.com/artist/0ybScfALpfcG1CIi1zLkrQ"
+        },
+        {
+          "name": "Jojo Wavy",
+          "url": "https://open.spotify.com/artist/4xq9B09qPeGipdrCRm7ZbQ"
+        },
+        {
+          "name": "RQS",
+          "url": "https://open.spotify.com/artist/3ehh3BDuRVlDY1II5OpquA"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484239,
+      "name": "Kraaiennest - Zonamo Hoodcypher",
+      "url": "https://open.spotify.com/track/5bWV99Bu2xQebDjMINRzRn"
     },
     {
       "album": {
@@ -2238,7 +2448,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 163636,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/1WVJX5RqyixulKgxioGFwf"
@@ -2574,7 +2784,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 152624,
       "name": "Man Zijn",
       "url": "https://open.spotify.com/track/6ntnmM14ptMpdOcUziSdCC"
@@ -2596,7 +2806,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 168275,
       "name": "MARV & MACK",
       "url": "https://open.spotify.com/track/1xzPeSp1Zd0VbrfhV2RgDB"
@@ -2812,7 +3022,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 171000,
       "name": "N & N",
       "url": "https://open.spotify.com/track/7K8eJmLopPwxTWmr507WgU"
@@ -3106,7 +3316,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 210461,
       "name": "Oneerlijk",
       "url": "https://open.spotify.com/track/4JHcB7g5n7clfjp0b0fBgl"
@@ -3146,7 +3356,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 158171,
       "name": "Oops",
       "url": "https://open.spotify.com/track/2jHVaUzmv8FYwEsNYqGogT"
@@ -3513,6 +3723,46 @@
     },
     {
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/0Zjcplje0NavtcVorcmKJc"
+      },
+      "artists": [
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        },
+        {
+          "name": "CC",
+          "url": "https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149793,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/6jAc3YHbqtYNZh8s7VjTMX"
+    },
+    {
+      "album": {
+        "name": "Snotneus",
+        "url": "https://open.spotify.com/album/4ocszAEfSeW9fUx37bI2ux"
+      },
+      "artists": [
+        {
+          "name": "Flo",
+          "url": "https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Snotneus",
+      "url": "https://open.spotify.com/track/6PkauAK5MnF4dRpbV8YdLl"
+    },
+    {
+      "album": {
         "name": "Snus & dadels",
         "url": "https://open.spotify.com/album/5snOy7ftJhPwKgKrR8n2Kc"
       },
@@ -3558,7 +3808,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 144000,
       "name": "Speld",
       "url": "https://open.spotify.com/track/1RlQQ7IhyKqSih2cWopppl"
@@ -3734,7 +3984,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 124137,
       "name": "Swiss Cheese",
       "url": "https://open.spotify.com/track/6Ty8HQA2ZPDNhuK7TEjSCB"
@@ -3778,7 +4028,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 116800,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/55A4jJvAhsQrUMxI3SuBDV"
@@ -3814,7 +4064,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 142736,
       "name": "Thuisbasis",
       "url": "https://open.spotify.com/track/3TlIlIjY45oQMTNyp0kqOw"
@@ -3858,7 +4108,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 120000,
       "name": "Toasted",
       "url": "https://open.spotify.com/track/4UCsvu897Bikp6NE2oNJow"
@@ -3950,7 +4200,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 195630,
       "name": "Twee handen",
       "url": "https://open.spotify.com/track/5UWybrgkMX5k1sx9RldaMc"
@@ -4030,7 +4280,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 180000,
       "name": "UNC",
       "url": "https://open.spotify.com/track/7sX1MtwoBHcznKQ9xw2lIr"
@@ -4056,6 +4306,24 @@
       "duration_ms": 128274,
       "name": "UNLIMITED SPACE",
       "url": "https://open.spotify.com/track/7HEpCldsVF6J9sw2B9spSK"
+    },
+    {
+      "album": {
+        "name": "Verstandig",
+        "url": "https://open.spotify.com/album/2lC8phRG5tRWHZFWoPamou"
+      },
+      "artists": [
+        {
+          "name": "A3",
+          "url": "https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Verstandig",
+      "url": "https://open.spotify.com/track/0RiU2lKqcj1EO0tRjF5hKf"
     },
     {
       "album": {
@@ -4131,6 +4399,24 @@
     },
     {
       "album": {
+        "name": "Weg kwijt",
+        "url": "https://open.spotify.com/album/7moKZ7HMD1P14mZQ8XOgrW"
+      },
+      "artists": [
+        {
+          "name": "Matero",
+          "url": "https://open.spotify.com/artist/3ZPajb37viy8ugZWkLg7li"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166677,
+      "name": "Weg kwijt",
+      "url": "https://open.spotify.com/track/63pY7lFL8PciCX6qA3GFuI"
+    },
+    {
+      "album": {
         "name": "What\u2019s Love",
         "url": "https://open.spotify.com/album/1YpHk1zm8qG280NDliArx1"
       },
@@ -4172,7 +4458,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 145000,
       "name": "Wie Is Better Than?",
       "url": "https://open.spotify.com/track/0KZFqYwvXPcU9V7EahCDlj"
@@ -4212,7 +4498,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 172394,
       "name": "WORD PARANOIA",
       "url": "https://open.spotify.com/track/0ngGRk0UtWbZEXCXYZMfvn"

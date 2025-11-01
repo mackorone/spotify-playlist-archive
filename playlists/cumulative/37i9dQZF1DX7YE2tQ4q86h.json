@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "BATSH!T",
+        "url": "https://open.spotify.com/album/0AS8z4Av9vyL2UDkUt1BzJ"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "BATSH!T",
+      "url": "https://open.spotify.com/track/0AmFWQXz3NiPPeJv5xQjJF"
+    },
+    {
+      "album": {
         "name": "UGLY CRIER (DELUXE)",
         "url": "https://open.spotify.com/album/57wbjTPvriburxWMxacPHS"
       },
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 196386,
       "name": "Before You Break My Heart",
       "url": "https://open.spotify.com/track/3vbFjvzmJLrdttGuDhGrzi"
@@ -10022,7 +10040,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 199690,
       "name": "gossip",
       "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
@@ -20178,6 +20196,24 @@
       "duration_ms": 189000,
       "name": "PULSE",
       "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
+    },
+    {
+      "album": {
+        "name": "Bodyology II",
+        "url": "https://open.spotify.com/album/6tdvUciIO4hsdvEU1KmKXq"
+      },
+      "artists": [
+        {
+          "name": "Snow Wife",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152802,
+      "name": "Pumps",
+      "url": "https://open.spotify.com/track/60Kh0MAKU7i3wirJSNHNHB"
     },
     {
       "album": {

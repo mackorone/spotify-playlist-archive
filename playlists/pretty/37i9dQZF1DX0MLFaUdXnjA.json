@@ -1,13 +1,61 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Noah Rinker",
-  "num_followers": 1821246,
+  "description": "Sit back and relax to the chillest pop.  Cover: Baby Bugs",
+  "num_followers": 1821087,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlKeXakBWhgqu2GiM0t6G4dWRL4",
+  "snapshot_id": "AAAAANk9eF3ES4XldeoPo3Qp1dF+E2Ga",
   "tracks": [
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "Wishing For Wounds",
+        "url": "https://open.spotify.com/album/6t730CtJHxx2ykmDTwvZfy"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Wishing For Wounds",
+      "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "Favorite Place",
+        "url": "https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 196415,
+      "name": "Favorite Place",
+      "url": "https://open.spotify.com/track/523GiEoDg0ulav50HZItuF"
+    },
+    {
+      "added_at": "2025-06-27 04:00:42",
+      "album": {
+        "name": "Lover Girl",
+        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+    },
     {
       "added_at": "2025-10-24 04:00:21",
       "album": {
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
     },
     {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
+    },
+    {
       "added_at": "2025-10-17 04:00:51",
       "album": {
         "name": "Kicking My Feet",
@@ -73,20 +137,20 @@
       "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
     },
     {
-      "added_at": "2025-06-27 04:00:42",
+      "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
+        "name": "$82 at Erewhon",
+        "url": "https://open.spotify.com/album/59unleOrwrllljDVxIfZ9i"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+      "duration_ms": 227423,
+      "name": "$82 at Erewhon",
+      "url": "https://open.spotify.com/track/4DfOEg7MBodW1fxXkP5ViL"
     },
     {
       "added_at": "2025-10-10 04:00:38",
@@ -103,6 +167,22 @@
       "duration_ms": 183803,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
+    },
+    {
+      "added_at": "2025-10-25 14:44:13",
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0k6CuggnRkJAem9XowL1Zc"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -171,22 +251,6 @@
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2025-10-25 14:44:13",
-      "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/0k6CuggnRkJAem9XowL1Zc"
     },
     {
       "added_at": "2025-10-24 04:00:21",
@@ -505,22 +569,6 @@
       "url": "https://open.spotify.com/track/5zyy6rCsnG4OMxL2VLDAoM"
     },
     {
-      "added_at": "2025-10-10 04:00:38",
-      "album": {
-        "name": "A Wonderful Life (Epilogue)",
-        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 193393,
-      "name": "When I Close My Eyes",
-      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
-    },
-    {
       "added_at": "2025-10-17 04:00:51",
       "album": {
         "name": "I'm Trying",
@@ -535,26 +583,6 @@
       "duration_ms": 189939,
       "name": "I'm Trying",
       "url": "https://open.spotify.com/track/0iLSq0Xyro2Zq9UjZ1EHFj"
-    },
-    {
-      "added_at": "2025-09-26 04:00:31",
-      "album": {
-        "name": "Here For It All",
-        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 224788,
-      "name": "Play This Song (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
     },
     {
       "added_at": "2025-10-10 04:00:38",
@@ -635,26 +663,6 @@
       "duration_ms": 200964,
       "name": "Tomorrow's Tomorrow",
       "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
-    },
-    {
-      "added_at": "2025-10-10 04:00:38",
-      "album": {
-        "name": "Tie you down",
-        "url": "https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Tie you down",
-      "url": "https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -851,22 +859,6 @@
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-10-03 04:00:57",
-      "album": {
-        "name": "NOSEBLEED",
-        "url": "https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 164341,
-      "name": "NOSEBLEED",
-      "url": "https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d"
     },
     {
       "added_at": "2025-09-26 04:00:31",

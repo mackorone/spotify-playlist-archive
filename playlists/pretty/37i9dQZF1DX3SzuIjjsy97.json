@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406410,
+  "num_followers": 406408,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,42 @@
     {
       "added_at": "2025-08-29 10:42:43",
       "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 241501,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
+    },
+    {
+      "added_at": "2025-08-29 10:42:43",
+      "album": {
+        "name": "Sunset Boulevard",
+        "url": "https://open.spotify.com/album/2gP8X7vYXXLRRc1xc236Ji"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
+    },
+    {
+      "added_at": "2025-08-29 10:42:43",
+      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -407,42 +443,6 @@
       "duration_ms": 333154,
       "name": "My Shot",
       "url": "https://open.spotify.com/track/4cxvludVmQxryrnx1m9FqL"
-    },
-    {
-      "added_at": "2025-08-29 10:42:43",
-      "album": {
-        "name": "Sunset Boulevard",
-        "url": "https://open.spotify.com/album/2gP8X7vYXXLRRc1xc236Ji"
-      },
-      "artists": [
-        {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
-        },
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Sunset Boulevard",
-      "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
-    },
-    {
-      "added_at": "2025-08-29 10:42:43",
-      "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 241501,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
     },
     {
       "added_at": "2025-08-29 10:42:43",

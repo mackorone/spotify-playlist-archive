@@ -4,7 +4,7 @@
 
 > 100 Suomi 💶 Kannessa M//O.
 
-1,038 songs - 2 day 1 hr 18 min
+1,038 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Annan sul vähän](https://open.spotify.com/track/4l7tL4uh91FBb10tVzZOuX) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Annan sul vähän](https://open.spotify.com/album/4mbVbPGSUpkNJjNmY5BSBj) | 2:37 | 2024-05-23 | 2024-09-13 |
 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 | 2024-11-28 | 2025-02-21 |
 | [Anteeks \(feat\. Fabe\)](https://open.spotify.com/track/3Ac9v4pFJyTlMc5ZCDWuZ6) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Anteeks \(feat\. Fabe\)](https://open.spotify.com/album/7xuvRuxXjOzepUrtfnoQCr) | 2:40 | 2024-02-08 | 2024-04-19 |
+| [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 | 2025-10-30 |  |
 | [Armi ja Danny](https://open.spotify.com/track/1HMe4X4mVkfrLR6WTAxP4C) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [München](https://open.spotify.com/album/7e3B2rQiznomLKgLpkgNTg) | 2:51 | 2024-05-16 | 2024-07-02 |
 | [Armoo](https://open.spotify.com/track/3FyvJmR0jH2Xqy1KGBjzyP) | [Ainty](https://open.spotify.com/artist/5aUZAXbicTE1Q29666xC8U), [Kapu](https://open.spotify.com/artist/1o4XlgF854Y2FBMCfSc0FI) | [Armoo](https://open.spotify.com/album/78obkta6yQ7DmxsoJ7nUvD) | 3:02 | 2023-12-14 | 2024-01-05 |
 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 | 2024-11-28 | 2025-02-28 |
@@ -913,7 +914,6 @@
 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-25 |  |
 | [TOXIC B \(pidämustkii\)](https://open.spotify.com/track/32cwVMP4pZtxtf7weKt8E3) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [CAKE](https://open.spotify.com/album/0jt1rOi0cB3fNZOJjhBv5h) | 2:58 | 2024-01-11 | 2024-02-23 |
 | [Toxic Mami](https://open.spotify.com/track/1TtJce46FJzvOEYQPRywyd) | [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Toxic Mami](https://open.spotify.com/album/1pHANfdHmhxpzUZDJ3X48L) | 2:24 | 2024-05-16 | 2024-07-02 |
-| [Track 1](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [Tragedian Lyhyt Oppimäärä](https://open.spotify.com/track/6Vr8roAlaX2xFBV3juRJ5S) | [Pijall](https://open.spotify.com/artist/0CfkmCl2XN2IWxYcMzPMlq) | [MINNESOTA](https://open.spotify.com/album/749Cb2vryMtdSlD4Zk1jfW) | 3:42 | 2023-10-05 | 2023-10-20 |
 | [TRAP PRINSESSA](https://open.spotify.com/track/7ubxbH63j6aRQYZq00Of9Z) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [TRAP PRINSESSA](https://open.spotify.com/album/3Drp0KbEo6fBW8fKenUuM8) | 2:50 | 2025-08-28 | 2025-09-13 |
 | [Trapetsitaiteilen \(feat\. Louhi\)](https://open.spotify.com/track/3ru8ZqaLhygUIXQ9lXtqfK) | [Leo Luthando](https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6), [Louhi](https://open.spotify.com/artist/4hixqE8xjQRUmqgNTRtwYk) | [Trapetsitaiteilen \(feat\. Louhi\)](https://open.spotify.com/album/3sdWeACOIdDc2meu2TiEU5) | 2:33 | 2024-04-18 | 2024-05-03 |

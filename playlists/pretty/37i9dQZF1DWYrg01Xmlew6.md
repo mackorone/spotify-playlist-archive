@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Dipinto e Frezza in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,007 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,020 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 74 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 |
 | 75 | [Plaza Freestyle](https://open.spotify.com/track/0eLYWoIuuNzaR26eynemYM) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [DJ Princex](https://open.spotify.com/artist/1pipFnAOzhlbkEXc4WsBHl) | [Plaza Freestyle](https://open.spotify.com/album/6wi7ySINUoSx25FTEyTDv3) | 1:28 |
 
-Snapshot ID: `AAAAANZ7jL6777PXV+2wqsPPXgChXa3A`
+Snapshot ID: `AAAAADWT74dat/jWumLTNVCNw/eza7+z`

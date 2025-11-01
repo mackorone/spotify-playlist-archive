@@ -12273,6 +12273,28 @@
     },
     {
       "album": {
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162018,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
+    },
+    {
+      "album": {
         "name": "Mismatched: Season 2 (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/2bJRbj971pXenefii5i3mY"
       },
@@ -21348,7 +21370,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 213288,
       "name": "Sang Rahiyo",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
@@ -23066,7 +23088,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 178244,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob"
@@ -23972,7 +23994,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
@@ -25088,7 +25110,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 284779,
       "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
@@ -26916,7 +26938,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"

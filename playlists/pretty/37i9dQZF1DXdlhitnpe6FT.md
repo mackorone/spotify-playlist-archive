@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,663 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,736 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 73 | [Il](https://open.spotify.com/track/7CvMq5t11kJI64GAJLQawP) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 Años Volumen 1](https://open.spotify.com/album/2XNeUwQOcioKg3asaQm3WY) | 3:17 |
 | 74 | [Look For A Star](https://open.spotify.com/track/0e1rlLP4kTqs4f2JQqUAZ7) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:10 |
 | 75 | [East Bound And Down](https://open.spotify.com/track/287NlxhT7ovzqs1XeChOhW) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [East Bound And Down](https://open.spotify.com/album/6i4T3kD5KHM5CcQu4yH9iT) | 2:42 |
-| 76 | [The Lonely Shepherd](https://open.spotify.com/track/3OQEVjVEQ6CvfAJ6XhTs6c) | [Zamfir](https://open.spotify.com/artist/5V2pWwhu3KcEtgwkjMOcwQ) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 4:20 |
-| 77 | [The Entertainer \- The Sting/Soundtrack Version/Orchestra Version](https://open.spotify.com/track/1wOCbnIsFcps5HALzAwRF5) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:00 |
+| 76 | [The Entertainer \- The Sting/Soundtrack Version/Orchestra Version](https://open.spotify.com/track/1wOCbnIsFcps5HALzAwRF5) | [Marvin Hamlisch](https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:00 |
+| 77 | [The Lonely Shepherd](https://open.spotify.com/track/3OQEVjVEQ6CvfAJ6XhTs6c) | [Zamfir](https://open.spotify.com/artist/5V2pWwhu3KcEtgwkjMOcwQ) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 4:20 |
 | 78 | [Lazy Bones](https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds In Stereo](https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG) | 2:45 |
 | 79 | [Sail Along Silv'ry Moon](https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:06 |
 | 80 | [Beer Barrel Polka](https://open.spotify.com/track/0TfEddOVb6s6qhzb6GVdTn) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [The Big Bands Collection, Vol\. 18/23: André Popp \- Delirium in Hi\-Fi](https://open.spotify.com/album/1AlBfGcQSHZMAGvVo42l0X) | 2:40 |

@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "How Great Thou Art",
+        "url": "https://open.spotify.com/album/2wy4KYFnO3Lo2RsLI47GNo"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235905,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/6xafhOxBgaG6IrmAVE0zpw"
+    },
+    {
+      "album": {
         "name": "Rubberband",
         "url": "https://open.spotify.com/album/3vyIhKkksVFjHYy5HDsB1b"
       },

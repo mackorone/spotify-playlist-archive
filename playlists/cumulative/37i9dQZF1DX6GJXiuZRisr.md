@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-636 songs - 1 day 20 hr 0 min
+637 songs - 1 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Distraction](https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Distraction](https://open.spotify.com/album/18iJol0H5J6ApQzwRkniXp) | 3:55 | 2024-05-03 |  |
 | [Don't Look Down \- Edit](https://open.spotify.com/track/10NoopYlXNLPFLCvm2l4nT) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Don't Look Down](https://open.spotify.com/album/0lKB8S9EwZygC7JYEYAvL1) | 4:23 | 2022-05-06 | 2022-07-29 |
 | [Dreamers](https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI) | [Dreamers](https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO) | 6:43 | 2021-10-25 | 2023-07-15 |
-| [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-18 |  |
+| [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-18 | 2025-11-01 |
 | [Easy](https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Easy](https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78) | 3:25 | 2023-11-17 | 2025-03-22 |
 | [Easy Love](https://open.spotify.com/track/520bx5thoXdK6SsBJseLGl) | [Krismi](https://open.spotify.com/artist/3ujWl7adFLOFZOkNtVi0WL) | [Easy Love](https://open.spotify.com/album/07gM5wpFq7rh1kGg9NECTj) | 3:26 | 2024-07-26 | 2025-04-19 |
 | [Echoes](https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Echoes](https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye) | 3:37 | 2025-10-10 |  |
@@ -551,6 +551,7 @@
 | [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 | 2024-06-02 |
 | [The Morning After](https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [The Morning After](https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq) | 3:33 | 2023-12-01 | 2024-04-19 |
 | [The Navigator](https://open.spotify.com/track/6iNjFncKo3p2T2gi9yKuOw) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [The Navigator](https://open.spotify.com/album/1K1IAd3OoWMakUBD5CRiZD) | 6:03 | 2021-11-05 | 2022-06-26 |
+| [The New World](https://open.spotify.com/track/3rijWVJCbbQV9JBfJsYwBy) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [The New World](https://open.spotify.com/album/3MN5fRouasS88fiBT5Jn3T) | 3:32 | 2025-10-24 |  |
 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 | 2024-06-04 |
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2024-02-09 | 2024-03-02 |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-28 | 2023-08-18 |

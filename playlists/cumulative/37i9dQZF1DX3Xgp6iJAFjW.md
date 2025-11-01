@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-189 songs - 12 hr 51 min
+190 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Baracunatana](https://open.spotify.com/track/6SjrXHZuPjXXbdBBL2gFAM) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [El Viaje Musical de Lisandro Meza, 60 Años, Vol\. 1](https://open.spotify.com/album/2ZwCWFJY7Kx12Uh1BrFdg3) | 4:46 | 2022-11-25 | 2022-12-24 |
 | [Baracunatana](https://open.spotify.com/track/54Mmo8YOqrr6A53QVO14il) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3), [Los Hijos De La Niña Luz](https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2) | [17 Éxitos](https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved) | 4:46 | 2022-12-18 | 2024-04-19 |
 | [Bebo Hoy Bebo Mañana](https://open.spotify.com/track/5N8NdJ4K7GT7FCaH1gx1WC) | [Conjunto Quisquella](https://open.spotify.com/artist/0YhGsTSxJheGpoWWHq8Jeb) | [Merengue Navideño](https://open.spotify.com/album/723wthgUpMymoNyzovCz5e) | 4:54 | 2022-11-25 | 2022-12-19 |
+| [Birim Bim Bim](https://open.spotify.com/track/416lMQBgHsNGKLpxuDH6xk) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Navidad en AI](https://open.spotify.com/album/1MSF7YERJPf6daVp8WGUvq) | 3:26 | 2025-10-31 |  |
 | [Blanca Navidad](https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:18 | 2023-12-19 | 2025-10-15 |
 | [Bomba De Navidad](https://open.spotify.com/track/15FpekWI5k2GY5ikBYJmoG) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:20 | 2023-12-19 |  |
 | [Bomba en Navidad](https://open.spotify.com/track/1mqTAwIQFWR6JCrAMFiE8Y) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 5:06 | 2023-11-17 |  |
@@ -96,7 +97,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/7DIeziYfgC6i2chzXCh5Vc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Duelo Cumbiambero En Navidad](https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy) | 2:58 | 2022-11-25 | 2025-10-20 |
 | [Feliz Navidad](https://open.spotify.com/track/364zaCkRaENgzJ9THwg6dD) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Behind This Guitar](https://open.spotify.com/album/5FsRPLn0LijFONLY9HogEH) | 3:07 | 2022-11-25 | 2023-11-18 |
 | [Fin de Semana \- Version Navideña](https://open.spotify.com/track/4he2N9NCRkMdzCcFyADnp7) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Y Es Fácil!](https://open.spotify.com/album/0hTAsUTkGytIz0jozjge3A) | 4:39 | 2022-11-25 |  |
-| [Gaita es Gaita](https://open.spotify.com/track/4KMwOrUZ2L4g7CXpjHhA2f) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Neguito Borjas](https://open.spotify.com/artist/6rs8uM2E2JKbIHk4oTgdVC) | [C4 Suena a Navidad](https://open.spotify.com/album/2rRbC5Ti8ji2BoEYU28tva) | 3:57 | 2023-12-19 |  |
+| [Gaita es Gaita](https://open.spotify.com/track/4KMwOrUZ2L4g7CXpjHhA2f) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Neguito Borjas](https://open.spotify.com/artist/6rs8uM2E2JKbIHk4oTgdVC) | [C4 Suena a Navidad](https://open.spotify.com/album/2rRbC5Ti8ji2BoEYU28tva) | 3:57 | 2023-12-19 | 2025-11-01 |
 | [Grito En Navidad](https://open.spotify.com/track/3jWOE0Ly1Weqfl1nxlLjhc) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Navideños](https://open.spotify.com/album/7lsz6aRXUQ37WOtDz3yVOh) | 5:48 | 2022-12-18 | 2024-10-06 |
 | [Gózate La Navidad](https://open.spotify.com/track/2JP7cYDckFDmhu8wrLGtg9) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Gózate La Navidad](https://open.spotify.com/album/20Oy7Ji4W1CCrekZx4NcG5) | 4:20 | 2023-11-17 | 2024-06-04 |
 | [Gózate La Navidad](https://open.spotify.com/track/42RVNjHSOKCzWzGJygIO7s) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Gózate La Navidad](https://open.spotify.com/album/5DYT72bROztD8TEnneE5PC) | 4:20 | 2023-12-19 | 2024-04-19 |

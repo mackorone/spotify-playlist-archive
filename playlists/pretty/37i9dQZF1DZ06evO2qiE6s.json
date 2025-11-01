@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 126575,
+  "num_followers": 126594,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAIQZRvs87w/RFte+Ct+h/L",
+  "snapshot_id": "aQKqgAAAAAByTvzMbQ00DB00mHgNwlNQ",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Innamorata (Sweetheart) - Remastered",
-      "url": "https://open.spotify.com/track/5QqaUAYLJCaTaChZlu0PU5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At The Movies",
         "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 168466,
       "name": "My Rifle, My Pony And Me - Remastered",
       "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Innamorata (Sweetheart) - Remastered",
+      "url": "https://open.spotify.com/track/5QqaUAYLJCaTaChZlu0PU5"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Under The Bridges Of Paris",
-      "url": "https://open.spotify.com/track/2Ui8SvDYTtQWbJq5uOWWAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
+      "duration_ms": 168933,
+      "name": "Under The Bridges Of Paris",
+      "url": "https://open.spotify.com/track/2Ui8SvDYTtQWbJq5uOWWAU"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 171600,
       "name": "Hit The Road To Dreamland",
       "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": null,

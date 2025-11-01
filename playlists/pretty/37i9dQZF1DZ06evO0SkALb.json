@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12548,
+  "num_followers": 12550,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAD76Kk9B4rqarSDzatFcNPH",
+  "snapshot_id": "aQKqgAAAAACTWaBIgnVIDxUT3M+ST9Yn",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Halloween's Gravest Hits",
+        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 351653,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Be Good to You",
         "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 325853,
       "name": "Let Me Be Good to You",
       "url": "https://open.spotify.com/track/0Z1OoeOob3W4Qf4eAuz463"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Dead End Street",
-      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halloween's Gravest Hits",
-        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 351653,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4"
+      "duration_ms": 240640,
+      "name": "Dead End Street",
+      "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Plays Bossa Nova",
-        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 263200,
-      "name": "The Girl From Ipanema - Live",
-      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
+      "duration_ms": 276093,
+      "name": "Time Will Take Care of Everything",
+      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Be Good to You",
-        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+        "name": "Blue Note Plays Bossa Nova",
+        "url": "https://open.spotify.com/album/6dsdyyYjxktA7E79DNBowM"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 276093,
-      "name": "Time Will Take Care of Everything",
-      "url": "https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m"
+      "duration_ms": 263200,
+      "name": "The Girl From Ipanema - Live",
+      "url": "https://open.spotify.com/track/6nDJRsqTMNl3jTFKTk6TI9"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now Is The Time",
-        "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 209040,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now Is The Time",
+        "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 274306,
-      "name": "St. James Infirmary - Live/Remastered",
-      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 278946,
       "name": "Ain't That Loving You (For More Reasons Than One)",
       "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 274306,
+      "name": "St. James Infirmary - Live/Remastered",
+      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 173026,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu"
+      "duration_ms": 215240,
+      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 267333,
-      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
-      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
+      "duration_ms": 173026,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black And Blue",
-        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 215240,
-      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+      "duration_ms": 267333,
+      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
+      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
     },
     {
       "added_at": null,

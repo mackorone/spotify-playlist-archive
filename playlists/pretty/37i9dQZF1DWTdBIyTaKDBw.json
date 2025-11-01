@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 21082,
+  "num_followers": 21118,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Buena Vista",
+        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 99996,
+      "name": "Sakura Trees",
+      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Back to Nature",
         "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 139636,
       "name": "Tiger Lily",
       "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Buena Vista",
-        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 99996,
-      "name": "Sakura Trees",
-      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Mirage of the Mind",
-        "url": "https://open.spotify.com/album/7hsMSV5SDoUbez11UqHRva"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Whispers of Eden",
-      "url": "https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 160000,
       "name": "Away",
       "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Mirage of the Mind",
+        "url": "https://open.spotify.com/album/7hsMSV5SDoUbez11UqHRva"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Whispers of Eden",
+      "url": "https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "First Light Of Spring",
-        "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
-      },
-      "artists": [
-        {
-          "name": "Lenny B",
-          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
-        },
-        {
-          "name": "Coloured Rocks",
-          "url": "https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t"
-        }
-      ],
-      "duration_ms": 140678,
-      "name": "Jade Temple",
-      "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Stories From Japan II",
         "url": "https://open.spotify.com/album/2z39Ia2ATOWwjVns0G7jjF"
       },
@@ -975,18 +955,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Road to Kiyomizu",
-        "url": "https://open.spotify.com/album/1PwAaIHNxoaUh2zMzRHZdb"
+        "name": "First Light Of Spring",
+        "url": "https://open.spotify.com/album/7FvGvkEWBL4UN6HgDkGdtH"
       },
       "artists": [
         {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        },
+        {
+          "name": "Coloured Rocks",
+          "url": "https://open.spotify.com/artist/4CMUg0w1aGMdiWjfl3zI8t"
         }
       ],
-      "duration_ms": 163778,
-      "name": "Road to Kiyomizu",
-      "url": "https://open.spotify.com/track/2VtwKcB38DMOBBJW6EsYGq"
+      "duration_ms": 140678,
+      "name": "Jade Temple",
+      "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1019,6 +1003,22 @@
       "duration_ms": 214343,
       "name": "Streetlight Reverie",
       "url": "https://open.spotify.com/track/074zpK5Xw0yeNdi0kVCXhG"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Road to Kiyomizu",
+        "url": "https://open.spotify.com/album/1PwAaIHNxoaUh2zMzRHZdb"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 163778,
+      "name": "Road to Kiyomizu",
+      "url": "https://open.spotify.com/track/2VtwKcB38DMOBBJW6EsYGq"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Inevitability",
-      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Dozing",
         "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
       },
@@ -1103,6 +1087,38 @@
       "duration_ms": 146090,
       "name": "Dozing",
       "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "The Shining Kingdom",
+        "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
+      },
+      "artists": [
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "duration_ms": 156059,
+      "name": "The Shining Kingdom",
+      "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
+      },
+      "artists": [
+        {
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Inevitability",
+      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Kodama",
         "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "The Shining Kingdom",
-        "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
       "artists": [
         {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 156059,
-      "name": "The Shining Kingdom",
-      "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Ancient Bond",
+        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
+      },
+      "artists": [
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Ancient Bond",
+      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Chinese Morning",
         "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 174545,
       "name": "Chinese Morning",
       "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Yamete",
-        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
-      },
-      "artists": [
-        {
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Yamete",
-      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Ancient Bond",
-        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
+        "name": "Yamete",
+        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
       },
       "artists": [
         {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+          "name": "Tosama Beats",
+          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Ancient Bond",
-      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
+      "duration_ms": 195829,
+      "name": "Yamete",
+      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Lost in Japan II",
-        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
-      },
-      "artists": [
-        {
-          "name": "Elijah Nang",
-          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "Song of the Samurai",
-      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Nama",
         "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 161020,
       "name": "Nama",
       "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Lost in Japan II",
+        "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
+      },
+      "artists": [
+        {
+          "name": "Elijah Nang",
+          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "Song of the Samurai",
+      "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1487,6 +1487,38 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Blood Oath",
+        "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
+      },
+      "artists": [
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Blood Oath",
+      "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "rainy day",
+      "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Distant Worlds 4",
         "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
       },
@@ -1503,18 +1535,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Blood Oath",
-        "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
+        "name": "isolation",
+        "url": "https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb"
       },
       "artists": [
         {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+          "name": "cliffe",
+          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Blood Oath",
-      "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
+      "duration_ms": 117366,
+      "name": "muse",
+      "url": "https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1539,34 +1571,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
       },
       "artists": [
         {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 221832,
-      "name": "rainy day",
-      "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "isolation",
-        "url": "https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb"
-      },
-      "artists": [
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        },
         {
-          "name": "cliffe",
-          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
         }
       ],
-      "duration_ms": 117366,
-      "name": "muse",
-      "url": "https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb"
+      "duration_ms": 139200,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1591,38 +1611,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
+        "name": "Sakura Temple",
+        "url": "https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3"
       },
       "artists": [
         {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        },
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Miso",
-        "url": "https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6"
-      },
-      "artists": [
-        {
-          "name": "Shiitaki",
-          "url": "https://open.spotify.com/artist/0nzcDWQ95e9yOxs81NUpQ8"
-        }
-      ],
-      "duration_ms": 129082,
-      "name": "Miso",
-      "url": "https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa"
+      "duration_ms": 168000,
+      "name": "Sakura Temple",
+      "url": "https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1639,22 +1639,6 @@
       "duration_ms": 203076,
       "name": "Ren'ai",
       "url": "https://open.spotify.com/track/2Vs4mAQUclWvqJWCwZNx8R"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Sakura Temple",
-        "url": "https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3"
-      },
-      "artists": [
-        {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Sakura Temple",
-      "url": "https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1691,6 +1675,22 @@
       "duration_ms": 157718,
       "name": "Enchanting Lights",
       "url": "https://open.spotify.com/track/30COvB6DZzh3waT3MQFV0R"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Miso",
+        "url": "https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6"
+      },
+      "artists": [
+        {
+          "name": "Shiitaki",
+          "url": "https://open.spotify.com/artist/0nzcDWQ95e9yOxs81NUpQ8"
+        }
+      ],
+      "duration_ms": 129082,
+      "name": "Miso",
+      "url": "https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa"
     }
   ],
   "unique_name": "oriental lofi",

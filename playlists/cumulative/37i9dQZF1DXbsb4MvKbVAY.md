@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa ROSALÍA.
 
-1,770 songs - 3 day 16 hr 39 min
+1,770 songs - 3 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [360 featuring robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [360 featuring robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-07-02 | 2024-08-30 |
 | [4X4](https://open.spotify.com/track/4y1kHTpSNXM4VeCUtEFA1m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/3bTbGN3QwizcRPt5SBHKT6) | 3:10 | 2025-01-27 | 2025-02-28 |
 | [50K](https://open.spotify.com/track/6v5AdleoPvngaOvLRHoHfo) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [50K](https://open.spotify.com/album/039LgQD5qo2rAYY5UTWb7n) | 2:24 | 2024-11-15 | 2024-11-22 |
-| [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [](https://open.spotify.com/album/null) | 2:52 | 2025-10-30 |  |
+| [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 | 2025-10-30 |  |
 | [A Punch In The Face](https://open.spotify.com/track/29IoKl81fYbFa8QkVNADm3) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [A Punch In The Face](https://open.spotify.com/album/6eU7PDLnzbIFL6WnzKoHle) | 3:09 | 2025-01-30 | 2025-02-07 |
 | [A.D.I](https://open.spotify.com/track/4dowlEKgOztCjm8eKmXKW7) | [ADI](https://open.spotify.com/artist/7pQPSSRLhVEr3rNYfpSvW3) | [A.D.I](https://open.spotify.com/album/5C10qYGb5tVa9LVkXKLok6) | 2:54 | 2025-01-23 | 2025-01-31 |
 | [aallot](https://open.spotify.com/track/3qDXdajvy1rRJjV86QANlj) | [Yrjänä](https://open.spotify.com/artist/4CmFTG3y5YXHlV7vQ3jvH7) | [aallot](https://open.spotify.com/album/1ICmnthA9CsQ7FLjQX86bd) | 3:56 | 2025-07-03 | 2025-07-11 |
@@ -99,6 +99,7 @@
 | [Anteeks minä](https://open.spotify.com/track/5WmvVkCh3wIhoSRB0eO5eU) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Anteeks minä](https://open.spotify.com/album/1ZvR4KVLqbLLLovSsywpat) | 3:10 | 2025-02-21 | 2025-02-28 |
 | [anteeksi demo \- sätkynukkekoti \(live\)](https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sätkynukkekoti \(live\)](https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq) | 4:13 | 2024-12-12 | 2024-12-27 |
 | [Anthem](https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Anthem](https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW) | 3:05 | 2025-02-27 | 2025-03-15 |
+| [ANTHEM](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:44 | 2025-10-30 |  |
 | [Anything](https://open.spotify.com/track/4jVVO2Fqredo9XdIOMBwGj) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Anything](https://open.spotify.com/album/3TKskzjVwKJdSAu6YokIQl) | 2:19 | 2024-08-01 | 2024-08-09 |
 | [APPETITE](https://open.spotify.com/track/4003cQbVoKzBuMgfUFXVsH) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [APPETITE](https://open.spotify.com/album/5Xfuqblbhg2hdkUeSXcMkB) | 2:47 | 2025-10-30 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 | 2025-02-07 |
@@ -1545,7 +1546,6 @@
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-09-27 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-05-09 |
 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 | 2025-10-23 |  |
-| [Track 1](https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-09-17 |
 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 | 2025-06-12 | 2025-07-11 |
 | [Trappist girl \(The night\)](https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [Trappist girl \(The night\) / AITOMONSTERI](https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh) | 2:48 | 2025-09-18 | 2025-09-26 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: error
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,179 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,253 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Die Hälfte von Nichts](https://open.spotify.com/track/47u568kIrGNx00Wmp2YBS0) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [](https://open.spotify.com/album/null) | 3:17 |
+| 1 | [Die Hälfte von Nichts](https://open.spotify.com/track/47u568kIrGNx00Wmp2YBS0) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [DAS GLÜCK GEHÖRT VERSAGERN](https://open.spotify.com/album/5Qvx0ZaOYT4WTpvPW4SrV2) | 3:17 |
 | 2 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
 | 3 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
 | 4 | [oktober](https://open.spotify.com/track/28PQchsQ78scEeJoFCEZRv) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [zwei songs aus unserem album kids](https://open.spotify.com/album/01VlZbiMzETZdwYhwcGp9k) | 2:26 |

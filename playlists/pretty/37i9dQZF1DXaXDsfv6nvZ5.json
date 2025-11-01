@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Olivia Dean",
-  "num_followers": 786843,
+  "num_followers": 786855,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGJrzTPm6pupDKTV6307NeE5OA6j",
+  "snapshot_id": "AAAAAKgFaSegA8UPhhlRSpCgUNLNM6+n",
   "tracks": [
     {
       "added_at": "2025-10-24 09:36:46",
@@ -1865,22 +1865,6 @@
       "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Live For You",
@@ -1913,6 +1897,22 @@
       "url": "https://open.spotify.com/track/3bUBljQLIeJcsdfKy9NzsS"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "black like you",
+        "url": "https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz"
+      },
+      "artists": [
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "duration_ms": 192964,
+      "name": "black like you",
+      "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "That's What I Love",
@@ -1929,20 +1929,20 @@
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "black like you",
-        "url": "https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz"
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
       "artists": [
         {
-          "name": "Joseph Solomon",
-          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
         }
       ],
-      "duration_ms": 192964,
-      "name": "black like you",
-      "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2024-06-07 12:35:37",
@@ -2089,26 +2089,6 @@
       "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
-        }
-      ],
-      "duration_ms": 238571,
-      "name": "Lying To You",
-      "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
-    },
-    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "3rd Shift - A COLORS SHOW",
@@ -2127,6 +2107,26 @@
       "duration_ms": 165976,
       "name": "3rd Shift - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        }
+      ],
+      "duration_ms": 238571,
+      "name": "Lying To You",
+      "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
     },
     {
       "added_at": "2023-09-08 06:01:16",
@@ -2353,22 +2353,6 @@
       "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
     },
     {
-      "added_at": "2025-09-26 04:57:19",
-      "album": {
-        "name": "Toot Toot",
-        "url": "https://open.spotify.com/album/6xnkILTaILSmlkZPW7gVtu"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        }
-      ],
-      "duration_ms": 226652,
-      "name": "Toot Toot",
-      "url": "https://open.spotify.com/track/4nd047fTPL3XfSpD8Y0b2o"
-    },
-    {
       "added_at": "2024-08-30 05:27:28",
       "album": {
         "name": "SOS (Sex on Sight) (feat. USHER)",
@@ -2387,6 +2371,26 @@
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
+    },
+    {
+      "added_at": "2023-09-16 14:17:34",
+      "album": {
+        "name": "Waiting For You (feat. Naomi Sharon)",
+        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 219998,
+      "name": "Waiting For You (feat. Naomi Sharon)",
+      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2425,24 +2429,20 @@
       "url": "https://open.spotify.com/track/7eiY7TxrwFgWEYPmbwnbTP"
     },
     {
-      "added_at": "2023-09-16 14:17:34",
+      "added_at": "2025-09-26 04:57:19",
       "album": {
-        "name": "Waiting For You (feat. Naomi Sharon)",
-        "url": "https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ"
+        "name": "Toot Toot",
+        "url": "https://open.spotify.com/album/6xnkILTaILSmlkZPW7gVtu"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        },
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
         }
       ],
-      "duration_ms": 219998,
-      "name": "Waiting For You (feat. Naomi Sharon)",
-      "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+      "duration_ms": 226652,
+      "name": "Toot Toot",
+      "url": "https://open.spotify.com/track/4nd047fTPL3XfSpD8Y0b2o"
     },
     {
       "added_at": "2024-05-17 07:14:12",
@@ -2525,22 +2525,6 @@
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
-      "added_at": "2024-11-15 07:05:31",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 186259,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Waterfall (I Adore You)",
@@ -2555,6 +2539,22 @@
       "duration_ms": 292940,
       "name": "Waterfall (I Adore You)",
       "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
+    },
+    {
+      "added_at": "2024-11-15 07:05:31",
+      "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 186259,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2609,22 +2609,6 @@
       "url": "https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL"
     },
     {
-      "added_at": "2025-09-05 04:53:23",
-      "album": {
-        "name": "Still Blessed",
-        "url": "https://open.spotify.com/album/58BVCM9wm5p0XGDQ26UEqa"
-      },
-      "artists": [
-        {
-          "name": "threetwenty",
-          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Still Blessed",
-      "url": "https://open.spotify.com/track/20qPYWhpCFufU2aTPK9ZSu"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2639,6 +2623,22 @@
       "duration_ms": 250434,
       "name": "Good Bye",
       "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
+    },
+    {
+      "added_at": "2025-09-05 04:53:23",
+      "album": {
+        "name": "Still Blessed",
+        "url": "https://open.spotify.com/album/58BVCM9wm5p0XGDQ26UEqa"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Still Blessed",
+      "url": "https://open.spotify.com/track/20qPYWhpCFufU2aTPK9ZSu"
     },
     {
       "added_at": "2024-05-31 07:10:31",

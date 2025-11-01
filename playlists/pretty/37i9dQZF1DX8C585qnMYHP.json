@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7nfBxjb99prCqaT3wk87u5\">Samba Jean-Baptiste</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 191543,
+  "num_followers": 191549,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
+      },
+      "artists": [
+        {
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
         "name": "Clandestine",
         "url": "https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 156000,
       "name": "new links",
       "url": "https://open.spotify.com/track/2MFXIYR10k8fUumqanMSLI"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "By Night",
-        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
-      },
-      "artists": [
-        {
-          "name": "Noah Praise God",
-          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
-      },
-      "artists": [
-        {
-          "name": "moreru",
-          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
-        }
-      ],
-      "duration_ms": 255154,
-      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Hymnal",
         "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 330410,
       "name": "Ending",
       "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
+      },
+      "artists": [
+        {
+          "name": "moreru",
+          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
+        }
+      ],
+      "duration_ms": 255154,
+      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Walks",
-        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
-      },
-      "artists": [
-        {
-          "name": "Group Listening",
-          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "New Brighton",
-      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "2D0GS",
         "url": "https://open.spotify.com/album/2Ka5EHomm6uXGwyDpcfXtB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 231600,
       "name": "PUNTZ RETURN",
       "url": "https://open.spotify.com/track/1wAe6d3vRv570pqFhjaHrK"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Walks",
+        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
+      },
+      "artists": [
+        {
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "New Brighton",
+      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
+        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
+        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
+      },
+      "artists": [
+        {
+          "name": "Gryphon Rue",
+          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Squatter's Quarters",
+      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
         "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
         "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 342463,
       "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
       "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
-        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
-        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
-      },
-      "artists": [
-        {
-          "name": "Gryphon Rue",
-          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "Squatter's Quarters",
-      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "HM2BB",
-        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
-      },
-      "artists": [
-        {
-          "name": "Indira Elias",
-          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
-        }
-      ],
-      "duration_ms": 133848,
-      "name": "HM2BB",
-      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Corrosiv",
         "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 284000,
       "name": "Here Used To Be A Star",
       "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "HM2BB",
+        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
+      },
+      "artists": [
+        {
+          "name": "Indira Elias",
+          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "HM2BB",
+      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
+        "name": "BOH\u00c8ME",
+        "url": "https://open.spotify.com/album/75myWFnHRo0c6hhaRmdf0K"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/6G1mq9bIF75elODWirXe8f"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
         "name": "Manast\u0131r",
         "url": "https://open.spotify.com/album/2qjpmeQBHMGDLpQ0vL4A1G"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "BOH\u00c8ME",
-        "url": "https://open.spotify.com/album/75myWFnHRo0c6hhaRmdf0K"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Resistance",
-      "url": "https://open.spotify.com/track/6G1mq9bIF75elODWirXe8f"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Too Close to Call",
         "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Summer Rain (Keep on Dancing Rework)",
-        "url": "https://open.spotify.com/album/4LriIWQ4kyswqYNH54IPyW"
-      },
-      "artists": [
-        {
-          "name": "Le Parody",
-          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
-        }
-      ],
-      "duration_ms": 271701,
-      "name": "Summer Rain - Keep on Dancing Rework",
-      "url": "https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Neptune Anteater",
         "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 238948,
       "name": "Neptune Anteater",
       "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Summer Rain (Keep on Dancing Rework)",
+        "url": "https://open.spotify.com/album/4LriIWQ4kyswqYNH54IPyW"
+      },
+      "artists": [
+        {
+          "name": "Le Parody",
+          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
+        }
+      ],
+      "duration_ms": 271701,
+      "name": "Summer Rain - Keep on Dancing Rework",
+      "url": "https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Tem",
-        "url": "https://open.spotify.com/album/6zuy2pmy5JqamvOJNlGe66"
-      },
-      "artists": [
-        {
-          "name": "Joe Westerlund",
-          "url": "https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy"
-        }
-      ],
-      "duration_ms": 184226,
-      "name": "Tem",
-      "url": "https://open.spotify.com/track/1dCG1tEzjPzCQx0ij0dRh5"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Noor-e Vojood",
         "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 254599,
       "name": "B\u00e2rieh",
       "url": "https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Tem",
+        "url": "https://open.spotify.com/album/6zuy2pmy5JqamvOJNlGe66"
+      },
+      "artists": [
+        {
+          "name": "Joe Westerlund",
+          "url": "https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy"
+        }
+      ],
+      "duration_ms": 184226,
+      "name": "Tem",
+      "url": "https://open.spotify.com/track/1dCG1tEzjPzCQx0ij0dRh5"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1543,22 +1543,34 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "I'll Wait for You in the Car Park",
-        "url": "https://open.spotify.com/album/69xYnYghU3lHTWWOQTiqtr"
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
       },
       "artists": [
         {
-          "name": "Violeta Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
-        },
-        {
-          "name": "Hora Lunga",
-          "url": "https://open.spotify.com/artist/5WUDtbvP7A3VhVA8VsYIuX"
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
         }
       ],
-      "duration_ms": 237093,
-      "name": "I Think I Just Died a Lil Bit",
-      "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
+      "duration_ms": 221960,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
+    },
+    {
+      "added_at": "2025-10-24 19:31:01",
+      "album": {
+        "name": "Charged Up 2",
+        "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
+      },
+      "artists": [
+        {
+          "name": "Heavee",
+          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
+        }
+      ],
+      "duration_ms": 264902,
+      "name": "Cross Road",
+      "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1579,18 +1591,22 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Charged Up 2",
-        "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
+        "name": "I'll Wait for You in the Car Park",
+        "url": "https://open.spotify.com/album/69xYnYghU3lHTWWOQTiqtr"
       },
       "artists": [
         {
-          "name": "Heavee",
-          "url": "https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw"
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        },
+        {
+          "name": "Hora Lunga",
+          "url": "https://open.spotify.com/artist/5WUDtbvP7A3VhVA8VsYIuX"
         }
       ],
-      "duration_ms": 264902,
-      "name": "Cross Road",
-      "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
+      "duration_ms": 237093,
+      "name": "I Think I Just Died a Lil Bit",
+      "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
     },
     {
       "added_at": "2025-10-24 19:31:01",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
-      },
-      "artists": [
-        {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
-    },
-    {
-      "added_at": "2025-10-24 19:31:01",
-      "album": {
         "name": "Muddy Shores",
         "url": "https://open.spotify.com/album/7dXHKXvI27xVaZlNbNVLMo"
       },
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-10-24 19:31:01",
       "album": {
-        "name": "PP#1",
-        "url": "https://open.spotify.com/album/4jjvaOgG9QZ7adMyrUxCm3"
+        "name": "Waiting pt 1",
+        "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
       },
       "artists": [
         {
-          "name": "CATTANEO",
-          "url": "https://open.spotify.com/artist/5P3fNSjAKAwWRPOYJ910KY"
+          "name": "Jane Paknia",
+          "url": "https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM"
         }
       ],
-      "duration_ms": 259555,
-      "name": "PP#1",
-      "url": "https://open.spotify.com/track/7wjPWOClyMeZuMWYEFn2Du"
+      "duration_ms": 132318,
+      "name": "Waiting pt 1",
+      "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

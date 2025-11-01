@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: JayaHadADream
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,415 likes - 71 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,438 likes - 71 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 70 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 71 | [Tamper](https://open.spotify.com/track/2Cymy83v0iB4X4rJuJcYT2) | [Kacie](https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0) | [I Like To Tamper](https://open.spotify.com/album/2Z5MkPnCOUK2x641hnpUEo) | 2:33 |
 
-Snapshot ID: `AAAAAHSGZqocivT4oN8tXGakuuxrETqQ`
+Snapshot ID: `AAAAAMWr/N5zkNMP3vpH2NTYeGmMgkDS`

@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: De Saloon",
-  "num_followers": 187658,
+  "num_followers": 187654,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-10-31 03:00:25",
       "album": {
+        "name": "De La Luz",
+        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
+      },
+      "artists": [
+        {
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "\u00danete A Mi Ser",
+      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
+    },
+    {
+      "added_at": "2025-10-31 03:00:25",
+      "album": {
         "name": "Arauco Tiene una Pena",
         "url": "https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 348871,
       "name": "Arauco Tiene una Pena",
       "url": "https://open.spotify.com/track/2cBNm3iPJeD0nLiE6KB4Dc"
-    },
-    {
-      "added_at": "2025-10-31 03:00:25",
-      "album": {
-        "name": "De La Luz",
-        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
-      },
-      "artists": [
-        {
-          "name": "Kuervos del Sur",
-          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "\u00danete A Mi Ser",
-      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
     },
     {
       "added_at": "2025-10-31 03:00:25",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-10-31 03:00:25",
       "album": {
-        "name": "Caballo sin due\u00f1o",
-        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
-      },
-      "artists": [
-        {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
-        }
-      ],
-      "duration_ms": 217543,
-      "name": "Caballo sin due\u00f1o",
-      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
-    },
-    {
-      "added_at": "2025-10-31 03:00:25",
-      "album": {
         "name": "Se Aleja el Tren",
         "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 246322,
       "name": "Se Aleja el Tren",
       "url": "https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63"
+    },
+    {
+      "added_at": "2025-10-31 03:00:25",
+      "album": {
+        "name": "Caballo sin due\u00f1o",
+        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        }
+      ],
+      "duration_ms": 217543,
+      "name": "Caballo sin due\u00f1o",
+      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
     },
     {
       "added_at": "2025-10-31 03:00:25",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-10-31 03:00:25",
       "album": {
-        "name": "Revuelta En Vivo",
-        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 276465,
-      "name": "He barrido el sol (Revuelta en vivo)",
-      "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
-    },
-    {
-      "added_at": "2025-10-31 03:00:25",
-      "album": {
         "name": "Solo de Ti",
         "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 237830,
       "name": "Solo de Ti",
       "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
+    },
+    {
+      "added_at": "2025-10-31 03:00:25",
+      "album": {
+        "name": "Revuelta En Vivo",
+        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 276465,
+      "name": "He barrido el sol (Revuelta en vivo)",
+      "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
     },
     {
       "added_at": "2025-10-31 03:00:25",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-10-31 03:00:25",
       "album": {
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+    },
+    {
+      "added_at": "2025-10-31 03:00:25",
+      "album": {
         "name": "Al otro lado del canal",
         "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 181812,
       "name": "Cahu\u00edn",
       "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
-    },
-    {
-      "added_at": "2025-10-31 03:00:25",
-      "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
-      },
-      "artists": [
-        {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2025-10-31 03:00:25",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-10-31 03:00:25",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
-    },
-    {
-      "added_at": "2025-10-31 03:00:25",
-      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 224235,
       "name": "P\u00e1lida Forma Nocturna",
       "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
+    },
+    {
+      "added_at": "2025-10-31 03:00:25",
+      "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2025-10-31 03:00:25",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-31 03:00:25",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
-    },
-    {
-      "added_at": "2025-10-31 03:00:25",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 219000,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+    },
+    {
+      "added_at": "2025-10-31 03:00:25",
+      "album": {
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2025-10-31 03:00:25",

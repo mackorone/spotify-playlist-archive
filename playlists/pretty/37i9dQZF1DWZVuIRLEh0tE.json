@@ -1,13 +1,29 @@
 {
   "description": "pq no to' e' dembow en rd loko. Portada: Huan62",
-  "num_followers": 293664,
+  "num_followers": 293705,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD5L2XVEcO++iJ8/HXGya5g5idyv",
+  "snapshot_id": "AAAAAJNL3yp3NAaBhOBpYIpm/Yv4N299",
   "tracks": [
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Como Isabella",
+        "url": "https://open.spotify.com/album/79OjCgSseaGci9GB1Ay77Q"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Como Isabella",
+      "url": "https://open.spotify.com/track/07D3DlDiC9BCa06jfHjZMT"
+    },
     {
       "added_at": "2025-09-05 04:00:17",
       "album": {
@@ -55,6 +71,26 @@
       "duration_ms": 167142,
       "name": "Envenenau",
       "url": "https://open.spotify.com/track/4Ailfne6VKzKbVTunFs9Ih"
+    },
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Repeat",
+        "url": "https://open.spotify.com/album/0jakSKwUuV2euvwC1StwqB"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Yk It\u2019s Junaa",
+          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Repeat",
+      "url": "https://open.spotify.com/track/3m8S31BMGE9Hck6heXw10X"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -139,6 +175,26 @@
       "duration_ms": 146526,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/5tzUJfMnLfAsjliIvdQl7Y"
+    },
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Otro Difunto",
+        "url": "https://open.spotify.com/album/0uf1AyxVbcZOkVbervy2O5"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Kiry Curu",
+          "url": "https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A"
+        }
+      ],
+      "duration_ms": 140312,
+      "name": "Otro Difunto",
+      "url": "https://open.spotify.com/track/57SuGoPSrtH2E15JXPkDD5"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -239,22 +295,6 @@
       "duration_ms": 148380,
       "name": "El Punto",
       "url": "https://open.spotify.com/track/1etWW7mTNfW6gqiWIGNs1F"
-    },
-    {
-      "added_at": "2025-09-12 04:00:17",
-      "album": {
-        "name": "Jarabe",
-        "url": "https://open.spotify.com/album/7kQVzTZWolp1cWXcN8b3rp"
-      },
-      "artists": [
-        {
-          "name": "Luis Brown",
-          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
-        }
-      ],
-      "duration_ms": 127410,
-      "name": "Jarabe",
-      "url": "https://open.spotify.com/track/7ymRbPu2ovlBekUHtwINOi"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -365,22 +405,6 @@
       "url": "https://open.spotify.com/track/4fwKpMyCBWCaj0W45a3emW"
     },
     {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "Genesis, Vol. 2",
-        "url": "https://open.spotify.com/album/16V18SK9PQo4EFMy8fYL1x"
-      },
-      "artists": [
-        {
-          "name": "El Mello 06",
-          "url": "https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo"
-        }
-      ],
-      "duration_ms": 498083,
-      "name": "Genesis, Vol. 2",
-      "url": "https://open.spotify.com/track/37Z3uRglRlVROB4L8qp2Wi"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Juguete",
@@ -405,26 +429,6 @@
       "url": "https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze"
     },
     {
-      "added_at": "2025-09-26 14:37:09",
-      "album": {
-        "name": "FIGUEROA",
-        "url": "https://open.spotify.com/album/1nSIZf6MihyahVTzlx5xg0"
-      },
-      "artists": [
-        {
-          "name": "Carlos Trvp",
-          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
-        },
-        {
-          "name": "Sugarhill Ddot",
-          "url": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "FIGUEROA",
-      "url": "https://open.spotify.com/track/0tLcI539hZ1o4EKXXxFlwB"
-    },
-    {
       "added_at": "2024-09-06 15:15:19",
       "album": {
         "name": "El Brujo",
@@ -443,6 +447,26 @@
       "duration_ms": 178775,
       "name": "Llame Pa Verte",
       "url": "https://open.spotify.com/track/4Zipd2pVN1WBYo5rro5jOl"
+    },
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Nadie Mas",
+        "url": "https://open.spotify.com/album/0iDsBJk7fCVEILH6lo8lLC"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mvp",
+          "url": "https://open.spotify.com/artist/6YwVhxlzWmTYrvwYyjNAao"
+        },
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        }
+      ],
+      "duration_ms": 163245,
+      "name": "Nadie Mas",
+      "url": "https://open.spotify.com/track/55SeJOx5KhXARvM06xTFDr"
     },
     {
       "added_at": "2025-10-03 04:00:58",
@@ -561,30 +585,6 @@
       "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"
     },
     {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "QUIEREN SER COMO YO",
-        "url": "https://open.spotify.com/album/7qcD5EuE3AmGro4iTAc383"
-      },
-      "artists": [
-        {
-          "name": "Luan",
-          "url": "https://open.spotify.com/artist/1yW3gxm1nt8sSY5VvXACHy"
-        },
-        {
-          "name": "Potencia Lirical",
-          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
-        },
-        {
-          "name": "Obreidy",
-          "url": "https://open.spotify.com/artist/2a5TwZOhEyrA5OCzSOwwm0"
-        }
-      ],
-      "duration_ms": 128365,
-      "name": "QUIEREN SER COMO YO",
-      "url": "https://open.spotify.com/track/4W2pIoUulTbgTRq3JZ5LLi"
-    },
-    {
       "added_at": "2025-02-21 05:00:19",
       "album": {
         "name": "OTRO SISTEMA",
@@ -661,26 +661,6 @@
       "url": "https://open.spotify.com/track/4zcb1tsfs9J8bBxmkdbEeb"
     },
     {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "El Tracker",
-        "url": "https://open.spotify.com/album/6B8ExJg3yUZ4ZcFOsrM3Iz"
-      },
-      "artists": [
-        {
-          "name": "El Fecho RD",
-          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
-        },
-        {
-          "name": "Yenlay La Noticia",
-          "url": "https://open.spotify.com/artist/62RgedUnxKuc6WtK8U1nQO"
-        }
-      ],
-      "duration_ms": 293543,
-      "name": "El Tracker",
-      "url": "https://open.spotify.com/track/6YGjxvxNZL5xKJVcDhb5ba"
-    },
-    {
       "added_at": "2024-03-27 20:37:44",
       "album": {
         "name": "Solo",
@@ -719,6 +699,22 @@
       "duration_ms": 121714,
       "name": "SIN NV",
       "url": "https://open.spotify.com/track/3ZtQa32FXOb4D5WdD9Zr0q"
+    },
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Sospechoso",
+        "url": "https://open.spotify.com/album/5qjeZYtUupfPjrrfYCoGLd"
+      },
+      "artists": [
+        {
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Sospechoso",
+      "url": "https://open.spotify.com/track/2PdoNFvGUawVNuZ1vins9q"
     },
     {
       "added_at": "2024-04-01 19:33:45",
@@ -851,6 +847,26 @@
       "duration_ms": 152500,
       "name": "Chica Ganster",
       "url": "https://open.spotify.com/track/2kWmqy1fHEOsI1MYAf9kwF"
+    },
+    {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Hijo De La Calle",
+        "url": "https://open.spotify.com/album/1UhWiBZSXIGinUcDaNFE7c"
+      },
+      "artists": [
+        {
+          "name": "ALYEEN8",
+          "url": "https://open.spotify.com/artist/3as365Uj8N2baMGRvYBtNp"
+        },
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Hijo De La Calle",
+      "url": "https://open.spotify.com/track/3fzqdexTQ2wGMm8Nypd10P"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1011,34 +1027,6 @@
       "duration_ms": 167852,
       "name": "PANTI",
       "url": "https://open.spotify.com/track/1BNzMJ3cpGleoMeDsSZ6p2"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "En Nadie Confio",
-        "url": "https://open.spotify.com/album/7qRriMSykoUMLgWj5ylO4m"
-      },
-      "artists": [
-        {
-          "name": "Yutta",
-          "url": "https://open.spotify.com/artist/2fa423JZ6J2wEpJRo92hoO"
-        },
-        {
-          "name": "Kiry Curu",
-          "url": "https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A"
-        },
-        {
-          "name": "Vendeta",
-          "url": "https://open.spotify.com/artist/7r2wRvzjL4bfBXLmebImud"
-        },
-        {
-          "name": "KEPI Publishing LLC",
-          "url": "https://open.spotify.com/artist/57wTEXzFHic4hHuKzSL7Gl"
-        }
-      ],
-      "duration_ms": 201769,
-      "name": "En Nadie Confio",
-      "url": "https://open.spotify.com/track/4XbMQcSByOFGC344zOX5f7"
     },
     {
       "added_at": "2025-09-05 04:00:17",
@@ -1377,6 +1365,34 @@
       "url": "https://open.spotify.com/track/3vPEOORh1ulDAf47hp7tAh"
     },
     {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Ring Ring",
+        "url": "https://open.spotify.com/album/0O7XpKFtFQBtjiWKNzq1UZ"
+      },
+      "artists": [
+        {
+          "name": "Darlyn Nay",
+          "url": "https://open.spotify.com/artist/0E2ThpwVP2mOS1H9ciE4gV"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        },
+        {
+          "name": "Young Capo",
+          "url": "https://open.spotify.com/artist/6d47mdtpFjn6VtljRMw0vC"
+        },
+        {
+          "name": "El 100 Oficial",
+          "url": "https://open.spotify.com/artist/1lC4gmyp9USUUzhRnMlNEE"
+        }
+      ],
+      "duration_ms": 170097,
+      "name": "Ring Ring",
+      "url": "https://open.spotify.com/track/3bkcLo4oJwmpkVgoDzDV0w"
+    },
+    {
       "added_at": "2025-10-24 04:00:30",
       "album": {
         "name": "NO DUERMO (VERIFIED)",
@@ -1541,6 +1557,22 @@
       "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
     },
     {
+      "added_at": "2025-10-31 04:00:41",
+      "album": {
+        "name": "Con Razon",
+        "url": "https://open.spotify.com/album/0GuOREuC94AETBM1QcfKKP"
+      },
+      "artists": [
+        {
+          "name": "Puntico",
+          "url": "https://open.spotify.com/artist/6pvDkKoo5XPRtocPULD6ec"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Con Razon",
+      "url": "https://open.spotify.com/track/6iiVVQh6vi55idGJXmjm7I"
+    },
+    {
       "added_at": "2025-02-14 05:00:15",
       "album": {
         "name": "ABAYARDE",
@@ -1563,22 +1595,6 @@
       "duration_ms": 238947,
       "name": "ABAYARDE",
       "url": "https://open.spotify.com/track/2TroCRdvxRu1TTCbTutn6k"
-    },
-    {
-      "added_at": "2025-10-24 04:00:30",
-      "album": {
-        "name": "Elite",
-        "url": "https://open.spotify.com/album/4T32d8KiN1geRqeeew94Ru"
-      },
-      "artists": [
-        {
-          "name": "Mandrake El Malocorita",
-          "url": "https://open.spotify.com/artist/7z4uW6xL36waxCZxj5MpN0"
-        }
-      ],
-      "duration_ms": 187175,
-      "name": "Elite",
-      "url": "https://open.spotify.com/track/65o2923KGlvDyzAUJzIvvC"
     },
     {
       "added_at": "2025-05-30 04:00:26",
@@ -1733,24 +1749,20 @@
       "url": "https://open.spotify.com/track/4TMhWoyolZhdT65j7TZQVh"
     },
     {
-      "added_at": "2025-10-10 04:00:37",
+      "added_at": "2025-10-31 04:00:41",
       "album": {
-        "name": "Yo Quisiera Matalo",
-        "url": "https://open.spotify.com/album/1WXn0OClUpcjORbzNDaqOG"
+        "name": "Cuando vienes a verme",
+        "url": "https://open.spotify.com/album/78bUsQ4oamX1fvGCu3o5Ps"
       },
       "artists": [
         {
-          "name": "LA PEDRA",
-          "url": "https://open.spotify.com/artist/3c0uQUbK29DdOGXAemU4Wq"
-        },
-        {
-          "name": "Kiry Curu",
-          "url": "https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A"
+          "name": "ORWELL",
+          "url": "https://open.spotify.com/artist/4CcQuCAxgNrRjcVxisOXlI"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Yo Quisiera Matalo",
-      "url": "https://open.spotify.com/track/68C0omBdxMha5OX2rTSDmO"
+      "duration_ms": 159333,
+      "name": "Cuando vienes a verme",
+      "url": "https://open.spotify.com/track/1TFCq1vXrV1D8HtpSgge0Z"
     },
     {
       "added_at": "2025-10-24 04:00:30",
@@ -1943,26 +1955,6 @@
       "duration_ms": 175200,
       "name": "You Look Sexy",
       "url": "https://open.spotify.com/track/2EsC3rzTdH8HH8c7lFUNjZ"
-    },
-    {
-      "added_at": "2025-10-03 04:00:58",
-      "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/5cVXfGrBAKW5KcPB7fWy7j"
-      },
-      "artists": [
-        {
-          "name": "K2 La Para Musical",
-          "url": "https://open.spotify.com/artist/6y8Td6QsLfjnDCz0psGth6"
-        },
-        {
-          "name": "Raydel Produce",
-          "url": "https://open.spotify.com/artist/4DMzPadyUduAkLaVUw0UnR"
-        }
-      ],
-      "duration_ms": 114392,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/4hrmqqa8n0B5shJD7ip0uG"
     },
     {
       "added_at": "2025-10-24 04:00:30",

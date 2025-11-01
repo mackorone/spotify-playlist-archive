@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75090,
+  "num_followers": 75093,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAB4zi0FZ/z7olQ3Afl6+NRG",
+  "snapshot_id": "aQKqgAAAAAAo8uHWw9nNN03fgugapT7w",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "be a bitch",
+        "url": "https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 184406,
+      "name": "be a bitch",
+      "url": "https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Make You Say",
         "url": "https://open.spotify.com/album/650l6jxDJ5c8thTRY42QU2"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 206000,
       "name": "Make You Say",
       "url": "https://open.spotify.com/track/1elhmWW7Bv0MOQj2gAsyoV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D R E A M S I C L E (deluxe)",
-        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 184406,
-      "name": "be a bitch",
-      "url": "https://open.spotify.com/track/62EUDu2IcL7pgmqiCY2J2I"
     },
     {
       "added_at": null,

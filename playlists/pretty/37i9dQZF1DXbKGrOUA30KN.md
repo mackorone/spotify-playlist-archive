@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: Wincent Weiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,785 likes - 90 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,763 likes - 90 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 2 | [Elefantastisch](https://open.spotify.com/track/0VwQrqWfGbuUjSjTaWB7Ac) | [Basti Stein](https://open.spotify.com/artist/5srjoLQYI0dv9Fyf0JkXRG) | [Elefantastisch](https://open.spotify.com/album/5MWACh8onVSHkNQbEjRlSL) | 2:17 |
 | 3 | [Herz über Kopf](https://open.spotify.com/track/4Lpps50Ott94n1tN80qfuQ) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Herz über Kopf](https://open.spotify.com/album/7znwSVvZI4KMZwMbbym5Ew) | 2:38 |
 | 4 | [VERLIEBT IN MICH](https://open.spotify.com/track/1XZK1B904mtFv1Ze3Rgeg2) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERLIEBT IN MICH](https://open.spotify.com/album/1mgjUkBHhJLQlrcxtC3QOX) | 2:09 |
-| 5 | [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [](https://open.spotify.com/album/null) | 2:54 |
+| 5 | [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:54 |
 | 6 | [Herzensmensch](https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzensmensch](https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi) | 2:40 |
 | 7 | [Erst wenn die Sterne](https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:15 |
 | 8 | [ICH HAB'S GUT, ICH HAB DICH](https://open.spotify.com/track/4YRZjTbW4ZKJvlKkxDNSZm) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [ICH HAB'S GUT, ICH HAB DICH](https://open.spotify.com/album/0HwmC3bl3rmAWjUh2yevdm) | 2:25 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 35 | [Alles geht vorbei](https://open.spotify.com/track/0fMQaxrTwTS8WObA5Khm3x) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE), [Clara Lösel](https://open.spotify.com/artist/2zvrvaZ5KQSvaytNqlvRXC) | [Alles geht vorbei](https://open.spotify.com/album/7gxjpXv6sLLIvt7ud26yUw) | 2:31 |
 | 36 | [Ok ich check](https://open.spotify.com/track/6C0ru05AIHvARhbQ4TdTNc) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Ok ich check](https://open.spotify.com/album/4ExpueLMrJsWQ7QYTxRG8X) | 2:18 |
 | 37 | [Herz so laut](https://open.spotify.com/track/6maRpKmo8xAykRER7TrYf7) | [wylhem](https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS) | [Herz so laut](https://open.spotify.com/album/0XEwpPksdZ1caVsV0mhsNY) | 2:51 |
-| 38 | [Track 6](https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [](https://open.spotify.com/album/null) | 0:00 |
+| 38 | [Worte wie Messer](https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Worte wie Messer](https://open.spotify.com/album/7qYzPkns7NCmTi6H0xQan5) | 2:32 |
 | 39 | [Adieu](https://open.spotify.com/track/5GCadjq15wCiYe5l8CAUfL) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP) | [Adieu](https://open.spotify.com/album/2kAvTA4eyLVM8e3w38GPqd) | 2:46 |
 | 40 | [Dein Herz](https://open.spotify.com/track/1ZGxtnkwknaW0SczhI9keA) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dein Herz](https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc) | 2:51 |
 | 41 | [Spiegelbild](https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Spiegelbild](https://open.spotify.com/album/1dz0p7G7H5J6emAIVll695) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > Spooky season is begonnen! Luister hier naar de meest griezelige halloween hits.👻
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,368 likes - 61 songs - 3 hr 49 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,403 likes - 61 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 | 60 | [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 |
 | 61 | [Thriller](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:57 |
 
-Snapshot ID: `AAA8wIx33v3NqX2ejp1Fx0bViPi8VsXB`
+Snapshot ID: `AAA8wnUwCmOjyTtYCIfWvNbI7CG95qLZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Ty Dolla $ign
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,663 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,648 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 69 | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 |
 | 70 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:53 |
 
-Snapshot ID: `AAAAAN5R3UwSStmcFUtw65IHPAaM9a1K`
+Snapshot ID: `AAAAAO7OVxEfoaTpo8+mTkSji+23JyA/`

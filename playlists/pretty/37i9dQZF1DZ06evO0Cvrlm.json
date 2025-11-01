@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 591754,
+  "num_followers": 591780,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAxKt9wW3JA+I1jmR0LYH38",
+  "snapshot_id": "aQKqgAAAAACHUEtFDCTH8V+OYV6wqeVx",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 263573,
+      "name": "John and Elvis Are Dead",
+      "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirito Italiano",
         "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 255733,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "John and Elvis Are Dead",
-      "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
     },
     {
       "added_at": null,

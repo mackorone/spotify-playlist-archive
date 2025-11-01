@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 26.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,424 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,537 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 102 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
 | 103 | [Millennium Freak](https://open.spotify.com/track/2XHpYk5tPivm8fJxLjmf8y) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq), [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 2:29 |
 
-Snapshot ID: `AAAAAJuST1TQfz8xrOdrKh4HvUkBDSr4`
+Snapshot ID: `AAAAAPeMzm1sPNaCin1Rb9O51neRSnC8`

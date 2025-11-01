@@ -3967,6 +3967,28 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/7FObTaQiaPaAS5w2ioYyPD"
+      },
+      "artists": [
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        },
+        {
+          "name": "Pianoalani",
+          "url": "https://open.spotify.com/artist/0hGWwi26siJSLSzUq1n011"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363636,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/4MshOexDDxmT0VZTpvivac"
+    },
+    {
+      "album": {
         "name": "Let's Keep Floating",
         "url": "https://open.spotify.com/album/6kHRvKCyPNFXOHNSS3J51A"
       },

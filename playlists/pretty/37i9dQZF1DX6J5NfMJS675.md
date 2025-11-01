@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,638,653 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,638,840 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Acid World](https://open.spotify.com/track/3Dnz6RCYRybCh9liOFWYp8) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Rian Wood](https://open.spotify.com/artist/5llw3jYyaK1eBCYkbrjcGX), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [Acid World](https://open.spotify.com/album/5IH3CLYmgu9ghGj7gMYiwd) | 3:05 |
 | 100 | [In Trance](https://open.spotify.com/track/7fnZaUCpzwaj35lp6OfqnC) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Flug](https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m) | [ARTCORE DUO VI](https://open.spotify.com/album/1ETb5HIW5SAmILZNVIpSYe) | 3:50 |
 
-Snapshot ID: `AAAAAN4oeoxPKQJ7Xnf5F59cBLi3UZie`
+Snapshot ID: `AAAAANfxVzVWILDDgvVYm5Q06UeEubtc`

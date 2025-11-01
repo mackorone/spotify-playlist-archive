@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,644 likes - 104 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,644 likes - 104 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
-| 2 | [Track 11](https://open.spotify.com/track/0UDgAr1L3PWtivDoPARmex) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Ghost](https://open.spotify.com/track/0UDgAr1L3PWtivDoPARmex) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [AFTERLIFE](https://open.spotify.com/album/3J14Y5GCG4wCb4hfbjkHwG) | 2:33 |
 | 3 | [Dog With A Gun](https://open.spotify.com/track/6UXxbsBlfREafW9nLMVmLM) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [The Rest Of The Story](https://open.spotify.com/album/7temZ6v1c69UOhyXHq6vOp) | 2:58 |
-| 4 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 |
+| 4 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
 | 5 | [What Good?](https://open.spotify.com/track/33B5ndQdjowreqRzRzKV92) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [What Good?](https://open.spotify.com/album/37t024pDno6KveKjG2BvJM) | 2:59 |
 | 6 | [FEEL2](https://open.spotify.com/track/7rXKU8tLrFjA9JtLksIkgN) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [What a Life!](https://open.spotify.com/album/5DFMjy4osskmBfXGwI9m1R) | 1:54 |
-| 7 | [Meet Me In The Middle](https://open.spotify.com/track/44VBgxQ5khk3QgfJFKVi3X) | [The Boojums](https://open.spotify.com/artist/3cZi4em8rnssExt3yLA75E) | [](https://open.spotify.com/album/null) | 1:39 |
+| 7 | [Meet Me In The Middle](https://open.spotify.com/track/44VBgxQ5khk3QgfJFKVi3X) | [The Boojums](https://open.spotify.com/artist/3cZi4em8rnssExt3yLA75E) | [The Boojums](https://open.spotify.com/album/3HrgNlrQR721YwHOfaRFBB) | 1:39 |
 | 8 | [limbo](https://open.spotify.com/track/1jjZSKkkm71iFGjTFVtHxs) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [limbo](https://open.spotify.com/album/19n6SzmWCHrTAnFxFaSXla) | 3:08 |
 | 9 | [Everybody Knows](https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Everybody Knows](https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs) | 3:19 |
 | 10 | [Deluxe Nightmare](https://open.spotify.com/track/435CzsSw2COieUxvvyUzNR) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Deluxe Nightmare](https://open.spotify.com/album/2n2YEo8CXPrrrumfixTF2z) | 4:40 |

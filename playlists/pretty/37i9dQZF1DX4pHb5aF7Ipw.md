@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by SAHIL CHEEMA, Riar Saab and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,211 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,272 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Silence \(feat\. Sikander Kahlon\)](https://open.spotify.com/track/2Fqd46msQeecXCq51w0N73) | [SNXRE](https://open.spotify.com/artist/63mpHVYZrAefPyV62M2Prl), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Silence \(feat\. Sikander Kahlon\)](https://open.spotify.com/album/5XiZJbEUEPisLZO6cUHnsf) | 2:52 |
 | 75 | [Hold That Thought](https://open.spotify.com/track/1Fp1fZkAayF5bk7DPwdLGV) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy), [Muzzle](https://open.spotify.com/artist/19trpXQWUc00d2UEGLZQVB), [Premium](https://open.spotify.com/artist/7wYUJJRfwIDE6RghioaRk3) | [Hold That Thought](https://open.spotify.com/album/02HWtMc21EmbgCuYuZ29Zx) | 2:20 |
 
-Snapshot ID: `AAAAAOsuawvYsSNyFvfQT6k+a1L/DYHI`
+Snapshot ID: `AAAAAME8/FjfcAg+m6MJZ6EvJ28VaPOv`

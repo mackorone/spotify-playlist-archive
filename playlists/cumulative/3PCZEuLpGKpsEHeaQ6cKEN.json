@@ -26079,6 +26079,28 @@
     },
     {
       "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/0nYR96e78pVEtbDTH4AA2f"
+      },
+      "artists": [
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "The Underdog Project",
+          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154312,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4BlmlyFhSBMmz2hNu1Koto"
+    },
+    {
+      "album": {
         "name": "Saturday Night (Feel The Groove)",
         "url": "https://open.spotify.com/album/1oSDNl2qNV8uy6kP47ohdu"
       },
@@ -34690,6 +34712,28 @@
       "duration_ms": 200930,
       "name": "When It Kicks",
       "url": "https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym"
+    },
+    {
+      "album": {
+        "name": "When The Beat Drops Out",
+        "url": "https://open.spotify.com/album/1YCAKFiQXFiIsyTHJcwNnz"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Ro",
+          "url": "https://open.spotify.com/artist/1MeAnyFGpDcuwi1VDMAXHV"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137665,
+      "name": "When The Beat Drops Out",
+      "url": "https://open.spotify.com/track/6XcxjzT9uGoYedbzxFO3V1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 117735,
+  "num_followers": 117747,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAABjd6ucBjHDzJY9CSQWk49M",
+  "snapshot_id": "aQKqgAAAAACi16RcvOP5Ea8gzHeuwN8D",
   "tracks": [
     {
       "added_at": null,
@@ -127,18 +127,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beacon Street Collection",
-        "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
+        "name": "What Is Wrong & What Is Right",
+        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
       },
       "artists": [
         {
+          "name": "T.I.M.",
+          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
+        },
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
+        },
+        {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Mother's Finest",
+          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Total Hate '95",
-      "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
+      "duration_ms": 179840,
+      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
+      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
     },
     {
       "added_at": null,
@@ -195,30 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Wrong & What Is Right",
-        "url": "https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me"
+        "name": "The Beacon Street Collection",
+        "url": "https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw"
       },
       "artists": [
         {
-          "name": "T.I.M.",
-          "url": "https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC"
-        },
-        {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY"
-        },
-        {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Mother's Finest",
-          "url": "https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H"
         }
       ],
-      "duration_ms": 179840,
-      "name": "What Is Wrong & What Is Right (feat. Adrian Young of No Doubt)",
-      "url": "https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD"
+      "duration_ms": 198226,
+      "name": "Total Hate '95",
+      "url": "https://open.spotify.com/track/7uljNKb9leurDlZYAagvgK"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 232346,
-      "name": "Big Distraction",
-      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
+      "duration_ms": 206880,
+      "name": "Everything In Time - Los Angeles",
+      "url": "https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 206880,
-      "name": "Everything In Time - Los Angeles",
-      "url": "https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN"
+      "duration_ms": 232346,
+      "name": "Big Distraction",
+      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 219973,
-      "name": "You're So Foxy",
-      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
+      "duration_ms": 269000,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
+      "duration_ms": 219973,
+      "name": "You're So Foxy",
+      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
     },
     {
       "added_at": null,

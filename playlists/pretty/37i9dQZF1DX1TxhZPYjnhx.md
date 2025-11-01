@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,627 likes - 111 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,626 likes - 111 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 9 | [Too Good to be Bad](https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Too Good to be Bad](https://open.spotify.com/album/5NQNmJ3Q1PALGrmnl0c22t) | 2:52 |
 | 10 | [Better With You](https://open.spotify.com/track/4iJbcvYEIdB4f24RK1R6n9) | [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4) | [Better With You](https://open.spotify.com/album/5BQJE3rpBotsmWVaQAw5pQ) | 3:24 |
 | 11 | [beautiful disaster](https://open.spotify.com/track/1LMYoMkISpBuySn4NCwmCO) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [beautiful disaster](https://open.spotify.com/album/5p10dXl0Ydb49Yb5VnsqId) | 3:24 |
-| 12 | [On My Own](https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [](https://open.spotify.com/album/null) | 2:36 |
+| 12 | [On My Own](https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [HEROINA](https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal) | 2:36 |
 | 13 | [people pleaser](https://open.spotify.com/track/0UO8qysepsd0eppPu7bYp0) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe) | 2:56 |
 | 14 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
 | 15 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |

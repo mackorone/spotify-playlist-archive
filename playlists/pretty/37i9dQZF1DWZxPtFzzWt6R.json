@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 105132,
+  "num_followers": 105176,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
         "name": "Nascer de Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 239791,
       "name": "Nascer de Novo (Ao Vivo)",
       "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00e9lia Santos",
-          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
-        }
-      ],
-      "duration_ms": 226269,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "Assim Como Deus Quer",
         "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 163258,
       "name": "Assim Como Deus Quer",
       "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00e9lia Santos",
+          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
+        }
+      ],
+      "duration_ms": 226269,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
     },
     {
       "added_at": "2025-10-03 03:01:34",

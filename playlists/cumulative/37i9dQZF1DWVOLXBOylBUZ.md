@@ -2,9 +2,9 @@
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Latinoamérica baila al ritmo de Ryan Castro.
+> Latinoamérica baila al ritmo de BROKIX.
 
-1,332 songs - 2 day 21 hr 11 min
+1,333 songs - 2 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [La Ubi](https://open.spotify.com/track/2CFDYS2Gs79rQLqD2DF0YF) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [La Ubi](https://open.spotify.com/album/6ToG50G4v9v6ueB8XNOKe8) | 3:10 | 2025-06-06 | 2025-06-21 |
 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 | 2022-12-16 | 2023-04-22 |
 | [La Última Canción](https://open.spotify.com/track/2mRwodUOATBk5spcUsEidB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:04 | 2023-01-30 | 2023-04-29 |
+| [La última vez](https://open.spotify.com/track/3O64sKENUVihEaEFNayfwE) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [La última vez](https://open.spotify.com/album/1B0yb0qL2Brf6P2GJqxhIk) | 3:16 | 2025-10-31 |  |
 | [La Única \- Sprite Limelight](https://open.spotify.com/track/1VAYxguLGwy4NpnLMSh8R9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Única \(Sprite Limelight\)](https://open.spotify.com/album/7MUPz6QaXyT6CBZCHoQcjX) | 2:29 | 2022-10-07 | 2022-11-05 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-30 | 2023-09-23 |
 | [Lalo Ebratt Hotline: Cobuz & Bustta](https://open.spotify.com/track/3UDZISwcvGJhqWX6wSdwRc) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Lalo Ebratt Hotline: Cobuz & Bustta](https://open.spotify.com/album/5Qp2bS9cDOnJaK5jjGXotq) | 2:29 | 2023-02-24 | 2023-06-24 |
@@ -1089,7 +1090,7 @@
 | [Si Si Si](https://open.spotify.com/track/5pfn2dFlOvpx5hsTDk0SH5) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Si Si Si](https://open.spotify.com/album/6bb67M0aTVOuHxBLOs3eEl) | 3:45 | 2023-09-15 | 2023-12-08 |
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-09-15 | 2023-12-08 |
 | [SI TE PEGAS](https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:03 | 2023-07-07 | 2023-09-23 |
-| [Si Tu Quieres](https://open.spotify.com/track/51sbLPU6LvDOMSRFK9OkZg) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Si Tu Quieres](https://open.spotify.com/album/28Sh2G8uDLXW1UB1D7q09J) | 2:42 | 2025-04-25 |  |
+| [Si Tu Quieres](https://open.spotify.com/track/51sbLPU6LvDOMSRFK9OkZg) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Si Tu Quieres](https://open.spotify.com/album/28Sh2G8uDLXW1UB1D7q09J) | 2:42 | 2025-04-25 | 2025-11-01 |
 | [SI TÚ ME LLAMAS](https://open.spotify.com/track/70BfpMR5l7JIFGpBJ9CZIe) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [SI TÚ ME LLAMAS](https://open.spotify.com/album/1FuG5aVjhS1mnmcArhYqFv) | 3:02 | 2023-08-25 | 2023-12-16 |
 | [SIGO AL PENDIENTE](https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SIGO AL PENDIENTE](https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc) | 3:15 | 2024-02-23 | 2024-05-04 |
 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 | 2024-01-19 | 2024-06-29 |

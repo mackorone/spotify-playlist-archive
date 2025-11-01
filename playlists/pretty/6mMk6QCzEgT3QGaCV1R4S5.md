@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Frank Walker, Josh Ross &amp; Norma Jean Martine.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,727 likes - 99 songs - 5 hr 26 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,724 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 97 | [Freedom](https://open.spotify.com/track/5VoByKp0qo2OVO1ehyPtSa) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Freedom](https://open.spotify.com/album/0jUgrbJG2BgcBfCB5fwr8w) | 2:21 |
 | 98 | [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 |
 | 99 | [Coffee & Cigarettes](https://open.spotify.com/track/1boIJkAILLJCggEyaNxCss) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Coffee & Cigarettes](https://open.spotify.com/album/7yIpo1ILwyOIBUKX2QYe91) | 2:42 |
+| 100 | [My Money \(ft\. Yo Gotti\)](https://open.spotify.com/track/32seaxN8ylWOJuzLbCVIGT) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b) | [My Money \(ft\. Yo Gotti\)](https://open.spotify.com/album/4UKCZp6GVxvNLMeAx9rmo8) | 1:55 |
 
-Snapshot ID: `AAAiQBdvOd40IIDpxUO/SOA63ugzLBng`
+Snapshot ID: `AAAiQdx1tAoXpI5PKFOMD7RQCCytpdW1`

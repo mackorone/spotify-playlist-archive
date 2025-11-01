@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Une s\u00e9lection 100 % chill, 100 % Montr\u00e9al. Photo: En St\u00e9r\u00e9o",
+  "description": "Une s\u00e9lection 100 % chill, 100 % Montr\u00e9al. Photo: San James",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 160643,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/46ub00quUTby9VKlkcxtro"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 190280,
       "name": "Another Stone",
       "url": "https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 140974,
       "name": "Beaux yeux",
       "url": "https://open.spotify.com/track/10JgZbQ9rStUkJcUB0SY5R"
@@ -1552,6 +1552,24 @@
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
+    },
+    {
+      "album": {
+        "name": "Bonne chance",
+        "url": "https://open.spotify.com/album/66MHqqazWOvCAM7tieOXgb"
+      },
+      "artists": [
+        {
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Bonne chance",
+      "url": "https://open.spotify.com/track/3anC3RBeKXHDdbzEHuxY4u"
     },
     {
       "album": {
@@ -2446,6 +2464,24 @@
       "duration_ms": 177897,
       "name": "Comme au cin\u00e9ma",
       "url": "https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj"
+    },
+    {
+      "album": {
+        "name": "Journ\u00e9e ordinaire / Comment se perdre",
+        "url": "https://open.spotify.com/album/0mt908UFb2yiqgYyC5aG2t"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256146,
+      "name": "Comment se perdre",
+      "url": "https://open.spotify.com/track/0SPxnX6Zb5C8v85JgVoxbi"
     },
     {
       "album": {
@@ -3791,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Fille comme toi",
+        "url": "https://open.spotify.com/album/0OntlsOCuKTF4YM1n4KjTQ"
+      },
+      "artists": [
+        {
+          "name": "Vinni Payne",
+          "url": "https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179572,
+      "name": "Fille comme toi",
+      "url": "https://open.spotify.com/track/4LppGJVGSYyTOltD5zuI6s"
+    },
+    {
+      "album": {
         "name": "medium plaisir",
         "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
       },
@@ -4445,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288346,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
+    },
+    {
+      "album": {
         "name": "Halfmoon",
         "url": "https://open.spotify.com/album/47KeqI7vwzGUSr2TjK4L7T"
       },
@@ -4667,6 +4739,24 @@
     },
     {
       "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/1jkCaYoUGw06w5W5nPT1b9"
+      },
+      "artists": [
+        {
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Hey You Hello",
+      "url": "https://open.spotify.com/track/1Z0imEfJWW0zR5UhsuJ2iY"
+    },
+    {
+      "album": {
         "name": "Highly Unrecommended",
         "url": "https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx"
       },
@@ -4790,7 +4880,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 143826,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/6O066SuknbFTwYD3F6bpiD"
@@ -5596,7 +5686,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 194514,
       "name": "Je veux rester",
       "url": "https://open.spotify.com/track/6b0pbcyXV9BcpbFgZoiLIL"
@@ -6446,7 +6536,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 215000,
       "name": "Les morceaux perdus",
       "url": "https://open.spotify.com/track/4l0t2AKGqSkWCX4yY3aMna"
@@ -8280,6 +8370,24 @@
       "duration_ms": 183776,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43"
+    },
+    {
+      "album": {
+        "name": "oui non I know",
+        "url": "https://open.spotify.com/album/1lkPyq3kwRTHmi2kPXpZLX"
+      },
+      "artists": [
+        {
+          "name": "HAWA B",
+          "url": "https://open.spotify.com/artist/5oLk1TljUmRtfqtaeLBWam"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "oui non I know",
+      "url": "https://open.spotify.com/track/2cQyLwCqV0QJmdkKW96zLw"
     },
     {
       "album": {
@@ -11381,6 +11489,24 @@
     },
     {
       "album": {
+        "name": "Toujours mieux",
+        "url": "https://open.spotify.com/album/6ZHZUzD5Eiz1uA0d3h41Xf"
+      },
+      "artists": [
+        {
+          "name": "Tom Leger",
+          "url": "https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145176,
+      "name": "Toujours mieux",
+      "url": "https://open.spotify.com/track/4LAdc3GvmKO0JaEh58FmQ0"
+    },
+    {
+      "album": {
         "name": "Toune 1",
         "url": "https://open.spotify.com/album/4up15itKNiWEDZYtmTcMof"
       },
@@ -11684,7 +11810,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
@@ -11814,6 +11940,24 @@
       "duration_ms": 193781,
       "name": "Un soleil toujours",
       "url": "https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx"
+    },
+    {
+      "album": {
+        "name": "Un s\u00e9jour",
+        "url": "https://open.spotify.com/album/6yNhD3rCdl9dybaNjuGKqu"
+      },
+      "artists": [
+        {
+          "name": "Laura Lefebvre",
+          "url": "https://open.spotify.com/artist/5snBpIp0IDCIljFC4D7ArF"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245761,
+      "name": "Un s\u00e9jour",
+      "url": "https://open.spotify.com/track/0M3M4qmkTszFVePh6FcAxd"
     },
     {
       "album": {

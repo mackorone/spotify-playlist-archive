@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: David Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,124 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,094 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Green Lights](https://open.spotify.com/track/2Ei88nNdS8u8U7W2eDQ9ht) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Green Lights](https://open.spotify.com/album/07tMXxjf1ldSFWcS86a5bM) | 3:27 |
 | 75 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |
 
-Snapshot ID: `AAAAAHShkOZb27bfcuvOhqtBOK7rRINJ`
+Snapshot ID: `AAAAAIiLNO1jn7sgf9kLiHfRPfyMdoqb`

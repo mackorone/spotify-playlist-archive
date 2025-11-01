@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/17ylCkYomb5rFPIVpQlWrn"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249229,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/3XeNbr9ixMz59P0MMTXX9s"
+    },
+    {
+      "album": {
         "name": "All I Hope For Christmas",
         "url": "https://open.spotify.com/album/12P7q2LLdzgjGywnw0mbab"
       },
@@ -988,6 +1010,24 @@
       "duration_ms": 238333,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/5jHHcVbCUQYkcnyzobYTjF"
+    },
+    {
+      "album": {
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/0poBgNxUGZlCwgyp7ZXWUw"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171819,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/7MD5uSIitD4mYDSA1uIoiB"
     },
     {
       "album": {

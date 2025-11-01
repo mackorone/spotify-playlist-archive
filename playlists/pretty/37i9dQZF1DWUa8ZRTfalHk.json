@@ -1,28 +1,44 @@
 {
-  "description": "Who's now and next in pop. Cover: SIENNA SPIRO",
-  "num_followers": 3210321,
+  "description": "Who's now and next in pop. Cover: Lily Allen",
+  "num_followers": 3210248,
   "original_name": "Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAXaADHUb3R0o7Nn0b5GH6MXnZZ",
+  "snapshot_id": "AAAAACS6XTXp2LbOy8oiLAM4XKWKpYcu",
   "tracks": [
     {
-      "added_at": "2025-10-17 04:01:01",
+      "added_at": "2025-10-31 04:00:38",
       "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
+      "duration_ms": 241693,
+      "name": "Pussy Palace",
+      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
+    },
+    {
+      "added_at": "2025-10-31 04:00:38",
+      "album": {
+        "name": "HOT POT!",
+        "url": "https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "ego of a man",
+      "url": "https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -39,22 +55,6 @@
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
-    },
-    {
-      "added_at": "2025-10-24 04:39:37",
-      "album": {
-        "name": "It\u2019s Not That Deep",
-        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 183247,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
     },
     {
       "added_at": "2025-10-17 04:01:01",
@@ -77,44 +77,36 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2025-10-10 04:00:42",
+      "added_at": "2025-10-17 04:01:01",
       "album": {
-        "name": "Gone Gone Gone",
-        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 198004,
-      "name": "Gone Gone Gone",
-      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
     },
     {
       "added_at": "2025-10-24 04:39:37",
       "album": {
-        "name": "Telephone Busy",
-        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 195806,
-      "name": "Telephone Busy",
-      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
+      "duration_ms": 183247,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -147,22 +139,6 @@
       "duration_ms": 185155,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y"
-    },
-    {
-      "added_at": "2025-10-24 04:39:37",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -251,6 +227,30 @@
     {
       "added_at": "2025-10-10 04:00:42",
       "album": {
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 198004,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
+    },
+    {
+      "added_at": "2025-10-10 04:00:42",
+      "album": {
         "name": "Soft",
         "url": "https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k"
       },
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
+      "added_at": "2025-10-31 04:00:38",
+      "album": {
+        "name": "shady",
+        "url": "https://open.spotify.com/album/0Tq1fXfkBJHlGSCcC0E78p"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 128230,
+      "name": "shady",
+      "url": "https://open.spotify.com/track/3WCcDNT4MecCulBiLMBETx"
+    },
+    {
       "added_at": "2025-10-17 04:01:01",
       "album": {
         "name": "So Sad So Hot",
@@ -295,6 +311,22 @@
       "duration_ms": 171014,
       "name": "So Sad So Hot",
       "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
+    },
+    {
+      "added_at": "2025-10-24 04:39:37",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2025-10-24 04:39:37",
@@ -365,6 +397,22 @@
       "url": "https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9"
     },
     {
+      "added_at": "2025-10-24 04:39:37",
+      "album": {
+        "name": "Telephone Busy",
+        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 195806,
+      "name": "Telephone Busy",
+      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
+    },
+    {
       "added_at": "2025-08-26 19:30:53",
       "album": {
         "name": "BITE ME",
@@ -395,6 +443,22 @@
       "duration_ms": 171760,
       "name": "The Way a Heart Breaks",
       "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
+    },
+    {
+      "added_at": "2025-07-25 04:00:59",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2025-10-17 04:01:01",
@@ -477,22 +541,6 @@
       "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
     },
     {
-      "added_at": "2025-07-25 04:00:59",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
       "added_at": "2025-10-03 04:00:47",
       "album": {
         "name": "The Life of a Showgirl",
@@ -507,6 +555,22 @@
       "duration_ms": 207349,
       "name": "Wi$h Li$t",
       "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
+    },
+    {
+      "added_at": "2025-10-31 04:00:38",
+      "album": {
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Underworld",
+      "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
     },
     {
       "added_at": "2025-10-10 04:00:42",
@@ -607,6 +671,22 @@
       "duration_ms": 187215,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U"
+    },
+    {
+      "added_at": "2025-10-31 04:00:38",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 203710,
+      "name": "Good Ol' Days",
+      "url": "https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On"
     },
     {
       "added_at": "2025-10-17 04:01:01",
@@ -771,6 +851,22 @@
       "duration_ms": 157420,
       "name": "No Heartbreak's Killed Me Yet",
       "url": "https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht"
+    },
+    {
+      "added_at": "2025-10-31 04:00:38",
+      "album": {
+        "name": "Bite My Tongue (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/681qv0Au08NIjJwh72luYf"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 218699,
+      "name": "Bite My Tongue - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/62LsiE0qxL8mpNvQShAGkp"
     },
     {
       "added_at": "2025-10-24 04:39:37",
@@ -1185,22 +1281,6 @@
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
     },
     {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/6DvcqZjRJ2f462uQAeHHoG"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 212092,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
-    },
-    {
       "added_at": "2025-09-05 04:01:52",
       "album": {
         "name": "Rich Man - The 6th Mini Album",
@@ -1263,26 +1343,6 @@
       "duration_ms": 180117,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
-    },
-    {
-      "added_at": "2025-09-19 04:00:35",
-      "album": {
-        "name": "folding chairs on the moon",
-        "url": "https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "folding chairs on the moon",
-      "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
     },
     {
       "added_at": "2025-08-22 04:00:30",
@@ -1465,42 +1525,6 @@
       "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
-      "added_at": "2025-08-22 04:00:30",
-      "album": {
-        "name": "Love Is Like (Deluxe)",
-        "url": "https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 143966,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/512cDJ621OgORGlwXLKFZL"
-    },
-    {
-      "added_at": "2025-07-18 04:00:30",
-      "album": {
-        "name": "LOVE INSANE (Feat. JAY of ENHYPEN)",
-        "url": "https://open.spotify.com/album/2U3VnUzhG6tRWT7ZrjOWQI"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "JAY (ENHYPEN)",
-          "url": "https://open.spotify.com/artist/1dxyDekkPqYVKpC7iW71zJ"
-        }
-      ],
-      "duration_ms": 151067,
-      "name": "LOVE INSANE (Feat. JAY of ENHYPEN)",
-      "url": "https://open.spotify.com/track/3IglY1ukGerwdCA0FVWY2i"
-    },
-    {
       "added_at": "2025-08-29 04:00:44",
       "album": {
         "name": "SHE DON'T NEED TO KNOW",
@@ -1597,22 +1621,6 @@
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
-      "added_at": "2025-06-20 04:00:53",
-      "album": {
-        "name": "Plastic Box",
-        "url": "https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Plastic Box",
-      "url": "https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU"
-    },
-    {
       "added_at": "2025-09-05 04:01:52",
       "album": {
         "name": "halfwaythru",
@@ -1667,26 +1675,6 @@
       "duration_ms": 202161,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
-    },
-    {
-      "added_at": "2025-08-29 04:00:44",
-      "album": {
-        "name": "LIVING ROOM",
-        "url": "https://open.spotify.com/album/1o0UNfcH3Ro2DDYnDaPM4E"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        },
-        {
-          "name": "Mergui",
-          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "LIVING ROOM",
-      "url": "https://open.spotify.com/track/2JAYY8Ts7FruUCEXxE07Nt"
     }
   ],
   "unique_name": "Pop Rising",

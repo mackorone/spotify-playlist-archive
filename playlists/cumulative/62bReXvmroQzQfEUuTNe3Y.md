@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to this Summer 2025\. Updated weekly!
 
-500 songs - 1 day 3 hr 56 min
+501 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [How You Holding Up](https://open.spotify.com/track/2OolzGY8DXkFiF0ZxasiSP) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [How You Holding Up](https://open.spotify.com/album/43KZCd48RCaL2JiDvIEQTk) | 3:08 | 2021-04-24 | 2021-10-16 |
 | [Howl](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Howl](https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ) | 3:12 | 2022-09-16 |  |
 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 | 2023-06-09 | 2024-02-24 |
-| [Howling](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3) | [Howling](https://open.spotify.com/album/3t37WoINIdC4wNrsZMxHZG) | 3:07 | 2020-12-26 |  |
+| [Howling](https://open.spotify.com/track/48fzVg5tLc7DII84diRCUO) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3) | [Howling](https://open.spotify.com/album/3t37WoINIdC4wNrsZMxHZG) | 3:07 | 2020-12-26 | 2025-11-01 |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-10-04 |  |
 | [I Can Feel Your Love](https://open.spotify.com/track/45HQ2uow1flBrzw3uDIwlM) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r), [Emma Wells](https://open.spotify.com/artist/3ChhgHO30YBZB8X7kyligx) | [I Can Feel Your Love](https://open.spotify.com/album/3cBuDutAXydPeChsT1RQaX) | 3:20 | 2025-02-28 | 2025-07-31 |
 | [I Can Make It](https://open.spotify.com/track/4ruM7ZgntoMNIj5pm0tARQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:09 | 2023-12-08 |  |
@@ -483,6 +483,7 @@
 | [When You’re Gone](https://open.spotify.com/track/2uG4gsPRkOsBPOXJFlzRVx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:56 | 2021-06-26 | 2021-07-24 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-12-15 | 2023-04-01 |
 | [Where the Sun Goes Down](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Where the Sun Goes Down](https://open.spotify.com/album/5pGrEUOizHSULgSDY66Bfj) | 3:04 | 2024-02-23 |  |
+| [Where We Belong](https://open.spotify.com/track/1eCbYVNIkLFf54XkKWN6uf) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Where We Belong](https://open.spotify.com/album/26WkOvzdTHuO2uVVZObHUc) | 4:41 | 2025-10-31 |  |
 | [White Flag](https://open.spotify.com/track/649uvcXpUZG504aZF19ilf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [White Flag](https://open.spotify.com/album/4zxa9Gu0z5rIIfbsGb3wfs) | 3:18 | 2021-04-20 | 2021-11-06 |
 | [Why](https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt) | [Bobby Love](https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Why](https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy) | 3:23 | 2020-09-13\* | 2024-02-24 |
 | [Wide Awake & Dreaming \- Radio Edit](https://open.spotify.com/track/6HL4GL2ZJQAC20Xzw5q4X5) | [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Wide Awake & Dreaming](https://open.spotify.com/album/59uazWJ6GhvC3Gl8ZY0IM8) | 3:26 | 2020-09-13\* | 2021-03-06 |

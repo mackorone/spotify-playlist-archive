@@ -1,12 +1,12 @@
 {
   "description": "Chill r&b. Cover: Daniel Caesar",
-  "num_followers": 2368309,
+  "num_followers": 2368248,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKzyCKGiCJgQ4ESQgRwosUmkX3m",
+  "snapshot_id": "AAAAAD3TAoPcN++d2CpUoW3iJaWCADEv",
   "tracks": [
     {
       "added_at": "2025-10-24 08:57:48",
@@ -101,6 +101,22 @@
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "The Way I Love You / With You (Acoustic)",
+        "url": "https://open.spotify.com/album/347aGCrSf0rmbfJelbJHOD"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "The Way I Love You - Acoustic",
+      "url": "https://open.spotify.com/track/2a1YoHUcoZeQMCDT5jIRMr"
+    },
+    {
       "added_at": "2025-10-24 08:57:48",
       "album": {
         "name": "love?... or something like it",
@@ -167,6 +183,38 @@
       "duration_ms": 204308,
       "name": "Star Signs",
       "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
+    },
+    {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "have to.",
+        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 207023,
+      "name": "have to.",
+      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
+    },
+    {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "Spin The Block",
+        "url": "https://open.spotify.com/album/63oVRW1UwC5I9Rbctswah9"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 161481,
+      "name": "Spin The Block",
+      "url": "https://open.spotify.com/track/4xsbMmk4sWSsnlMMiuPwdp"
     },
     {
       "added_at": "2025-10-17 04:47:43",
@@ -241,6 +289,22 @@
       "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510"
     },
     {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "For War",
+        "url": "https://open.spotify.com/album/6GjNpGI381NCFW3hyzFO9a"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 182812,
+      "name": "For War",
+      "url": "https://open.spotify.com/track/7aTxTd8KhzZFIMEKV5m3Rq"
+    },
+    {
       "added_at": "2025-10-24 08:57:48",
       "album": {
         "name": "Always",
@@ -295,6 +359,22 @@
       "duration_ms": 198200,
       "name": "No More Loving (On Women I Don\u2019t Love) (Feat. 646yf4t)",
       "url": "https://open.spotify.com/track/2U7Tux550YbkSHwn33FJbD"
+    },
+    {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "ghosted",
+        "url": "https://open.spotify.com/album/6NNQuKvbvvTzPYsZRwn1Ma"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "ghosted",
+      "url": "https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb"
     },
     {
       "added_at": "2025-10-24 08:57:48",
@@ -691,6 +771,22 @@
       "duration_ms": 212941,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/3mkRf3aCGR47rOxtJJiv9u"
+    },
+    {
+      "added_at": "2025-10-31 04:00:40",
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2ZliVIQ7bqON4tAM5KdcqZ"
+      },
+      "artists": [
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "duration_ms": 137222,
+      "name": "AGLM",
+      "url": "https://open.spotify.com/track/4bkcRS9NDHpuq62ADQ8QKC"
     },
     {
       "added_at": "2025-10-24 08:57:48",
@@ -3327,22 +3423,6 @@
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
-      "added_at": "2025-05-09 04:00:20",
-      "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 242789,
-      "name": "Calm Waters",
-      "url": "https://open.spotify.com/track/2hXUdn16IRBwOLC9OkawZc"
     },
     {
       "added_at": "2025-03-28 04:00:48",

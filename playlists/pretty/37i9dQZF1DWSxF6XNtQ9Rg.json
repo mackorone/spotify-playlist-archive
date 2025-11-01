@@ -1,6 +1,6 @@
 {
-  "description": "Solo hit rap da ascoltare in loop. Cover: Sfera Ebbasta",
-  "num_followers": 240094,
+  "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
+  "num_followers": 240163,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -256,7 +256,7 @@
           "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 162411,
+      "duration_ms": 162412,
       "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
       "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 133217,
+      "name": "Marocchino",
+      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 144210,
       "name": "TT LE GIRLZ (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 133217,
-      "name": "Marocchino",
-      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -707,26 +707,22 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "VETRI NERI",
-        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
       },
       "artists": [
         {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 164776,
-      "name": "VETRI NERI",
-      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
+      "duration_ms": 167339,
+      "name": "IL MALE CHE MI FAI (feat. Marracash)",
+      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -755,22 +751,26 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+        "name": "VETRI NERI",
+        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
         },
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 167339,
-      "name": "IL MALE CHE MI FAI (feat. Marracash)",
-      "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
+      "duration_ms": 164776,
+      "name": "VETRI NERI",
+      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
         "name": "Senza Di Me",
         "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 201961,
       "name": "Senza Di Me (feat. Venerus & Franco126)",
       "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "BBE (feat. Lazza)",
-      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -947,8 +947,8 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+        "name": "Vero",
+        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Bling Bling (Oro)",
-      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
+      "duration_ms": 182232,
+      "name": "Eravamo Re",
+      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Vero",
-        "url": "https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7"
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 182232,
-      "name": "Eravamo Re",
-      "url": "https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj"
+      "duration_ms": 208506,
+      "name": "Bling Bling (Oro)",
+      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/4nJJuilxSgfHHaaC7dwDfp"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "Cupido (feat. Quavo)",
-      "url": "https://open.spotify.com/track/0dLToDou8YHYJpQltj3Ijy"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4nJJuilxSgfHHaaC7dwDfp"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "Cupido (feat. Quavo)",
+      "url": "https://open.spotify.com/track/0dLToDou8YHYJpQltj3Ijy"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "MM Vol. 2",
-        "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
-      },
-      "artists": [
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Veleno 6",
-      "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 208853,
       "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)",
       "url": "https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "MM Vol. 2",
+        "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Veleno 6",
+      "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
+        "name": "Mowgli",
+        "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Vertigini",
+      "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
       },
@@ -1779,26 +1799,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "MADAME",
-        "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
-      },
-      "artists": [
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 211498,
-      "name": "TU MI HAI CAPITO (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "Non Siamo Pi\u00f9 Quelli Di Mi Fist",
         "url": "https://open.spotify.com/album/0s2xs0ue5T9aA16k3Xc5un"
       },
@@ -1815,22 +1815,22 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Mowgli",
-        "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
+        "name": "MADAME",
+        "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
         },
         {
-          "name": "Chris Nolan",
-          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 203040,
-      "name": "Vertigini",
-      "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
+      "duration_ms": 211498,
+      "name": "TU MI HAI CAPITO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB"
     },
     {
       "added_at": "2025-07-02 16:26:41",

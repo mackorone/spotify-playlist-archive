@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Make Me Rainbows",
+        "url": "https://open.spotify.com/album/76J4OCj6na4NliLGRK1X2E"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201629,
+      "name": "Make Me Rainbows",
+      "url": "https://open.spotify.com/track/5Mh5M6Q72P7mLjFIu5hnm1"
+    },
+    {
+      "album": {
         "name": "The Trumpet Artistry Of Chet Baker",
         "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
       },

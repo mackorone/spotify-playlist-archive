@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > Mura Masa's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,729 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,739 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 49 | [DRAMA](https://open.spotify.com/track/0ibFwDOXgLL26XN3wHTRR3) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Till We Die](https://open.spotify.com/album/7i0FhJSTEmv9mEa9lgo4Ju) | 2:23 |
 | 50 | [Sink In](https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:16 |
 
-Snapshot ID: `AAAAAOeJ9yOzAvAs8hUOudCS/fzCZBWf`
+Snapshot ID: `AAAAALHeU+A6gGFiUnLzPyj3UZ7Ae6ZP`

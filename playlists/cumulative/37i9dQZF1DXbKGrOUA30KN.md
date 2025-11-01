@@ -4,7 +4,7 @@
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: Wincent Weiss
 
-103 songs - 4 hr 32 min
+103 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,6 @@
 | [Spiegelbild](https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Spiegelbild](https://open.spotify.com/album/1dz0p7G7H5J6emAIVll695) | 2:37 | 2025-10-30 |  |
 | [Spürst du das auch](https://open.spotify.com/track/2ixJRQMGyC7oWRrH6CbewK) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE), [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Spürst du das auch](https://open.spotify.com/album/4r91wKpYcCe9Vu9VV25jGE) | 2:25 | 2025-10-24 |  |
 | [tanz vor dir](https://open.spotify.com/track/5TYXJjM3zoFaATkpGTTAgI) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [tanz vor dir](https://open.spotify.com/album/5S79DC0vOk4drHwWjRUnbM) | 2:25 | 2025-10-24 |  |
-| [Track 6](https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 |  |
 | [tu was du nicht lassen kannst.](https://open.spotify.com/track/108VJ9dXI45I6IZb2SYux8) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tu was du nicht lassen kannst.](https://open.spotify.com/album/1ElqUsxfaqFdUt3s8XlImO) | 2:31 | 2025-10-24 |  |
 | [Unbesiegbar](https://open.spotify.com/track/3Sm5fnLXDD4lRP9dSkqIKQ) | [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A) | [Unbesiegbar](https://open.spotify.com/album/0EIfuG6boq1JIaTHUoA4sX) | 2:47 | 2025-10-24 |  |
@@ -95,7 +94,7 @@
 | [VERLIEBT IN MICH](https://open.spotify.com/track/1XZK1B904mtFv1Ze3Rgeg2) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERLIEBT IN MICH](https://open.spotify.com/album/1mgjUkBHhJLQlrcxtC3QOX) | 2:09 | 2025-10-24 |  |
 | [Versprechen](https://open.spotify.com/track/5KswjIWT5BL9qaNyKMUZgL) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Versprechen](https://open.spotify.com/album/4sKPaOA5U8BLNtnyizYvLe) | 2:49 | 2025-10-24 |  |
 | [vielleicht fehlst du mir](https://open.spotify.com/track/6e4ntmP3oc63oA7pt7ixjg) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [vielleicht fehlst du mir](https://open.spotify.com/album/20f16ZQ8Pj9dMxoQMF1Y03) | 2:35 | 2025-10-24 |  |
-| [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [](https://open.spotify.com/album/null) | 2:54 | 2025-10-30 |  |
+| [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:54 | 2025-10-30 |  |
 | [Warum sind wir so?](https://open.spotify.com/track/4fBCVzfG0Usl03ExqrZsA5) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Freigeistin](https://open.spotify.com/album/45jR67OkTrxfc2k0dQE5vs) | 3:10 | 2025-10-24 |  |
 | [was bleibt dann zwischen uns?](https://open.spotify.com/track/76DasZKUhyLV7tQX1Scq4A) | [Nico Onur](https://open.spotify.com/artist/1HCkDfRlNOYkLntyxtwyDI) | [was bleibt dann zwischen uns?](https://open.spotify.com/album/1otMfAgGoXLnthOKxvG5eg) | 2:04 | 2025-10-24 |  |
 | [was ich fühl](https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [was ich fühl](https://open.spotify.com/album/30dMPlHrOzT58edpPsKpUJ) | 2:51 | 2025-10-24 |  |
@@ -105,6 +104,7 @@
 | [Wenn die Welt zerbricht](https://open.spotify.com/track/6CoKunu9S70kREmvCeOWDN) | [ENKAY](https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j), [JONA](https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6) | [Wenn die Welt zerbricht](https://open.spotify.com/album/7lU5Nw0suoWYh3bDrp80Cf) | 3:21 | 2025-10-24 |  |
 | [Wer wir sind](https://open.spotify.com/track/6qcEMiN7OvfOiw7dzwjuGZ) | [ALLESS.](https://open.spotify.com/artist/0XfxzDkOJ7NkZG46mTsnxl), [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [Wer wir sind](https://open.spotify.com/album/1LrKBpuzw2lRatwsVcT1u9) | 3:15 | 2025-10-24 |  |
 | [Wir tanzen den Regen weg](https://open.spotify.com/track/7tnm7BOAvYriNjqfZ199bm) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 3:33 | 2025-10-24 |  |
+| [Worte wie Messer](https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Worte wie Messer](https://open.spotify.com/album/7qYzPkns7NCmTi6H0xQan5) | 2:32 | 2025-10-30 |  |
 | [Wunderschön](https://open.spotify.com/track/1ofD3FXI7RsKj7iQ4vBblb) | [Unheilig](https://open.spotify.com/artist/6f1kv0aUPG9I0Rp3dmLCPi) | [Wunderschön](https://open.spotify.com/album/3YrUHOajo24CP7VFtAoeqe) | 3:22 | 2025-10-24 |  |
 | [Wärst du mir nie passiert](https://open.spotify.com/track/5SZEk5aStVnpNZEL3UDkHq) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Wärst du mir nie passiert](https://open.spotify.com/album/37jDHjcvjIRX0sf5iVUBgO) | 3:52 | 2025-10-30 |  |
 | [Zu spät](https://open.spotify.com/track/3ZJF5GTJdXRpxPhi8G3OqW) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Zu spät](https://open.spotify.com/album/3hbvMCLN3oOD9Ce4jOXN8s) | 2:37 | 2025-10-24 |  |

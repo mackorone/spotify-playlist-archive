@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,317 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,313 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 31 | [Azul, Bebê](https://open.spotify.com/track/6EGGqJCJgR1wD7Z39OD6O5) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Beleza\. Mas agora a gente faz o que com isso?](https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf) | 3:29 |
 | 32 | [Praia do Futuro](https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [O Mundo Dá Voltas](https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp) | 5:21 |
 | 33 | [Rota](https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Lucs Romero](https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:35 |
-| 34 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
-| 35 | [Bogotá](https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [BOGOTÁ](https://open.spotify.com/album/74imuWw1wN5lI4hiX57410) | 3:15 |
+| 34 | [Bogotá](https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [BOGOTÁ](https://open.spotify.com/album/74imuWw1wN5lI4hiX57410) | 3:15 |
+| 35 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
 | 36 | [pesimista](https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:54 |
 | 37 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 |
 | 38 | [Ahí Estabas Tú](https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 1:52 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 70 | [Profecia](https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Ida e Volta](https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7) | 3:13 |
 | 71 | [Queixa das almas jovens censuradas \- Ao Vivo](https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo) | [Camané](https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK) | [Camané Ao Vivo No CCB \- Homenagem a José Mário Branco](https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074) | 5:14 |
 | 72 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |
-| 73 | [Concerto No\. 4 para Violão e Orquestra de Cordas "À Brasileira": II\. Lento](https://open.spotify.com/track/4VjFEwFFezqzCMGBTJ966y) | [Radamés Gnattali](https://open.spotify.com/artist/10KxhFfJjMOgwomXBlcO8R), [Fabio Zanon](https://open.spotify.com/artist/7CxgDz8p96NJV3OVwDfwJ9), [São Paulo Chamber Soloists](https://open.spotify.com/artist/4y63e2CxfWrQMntizfnEuB) | [Radamés](https://open.spotify.com/album/5OnZTYpYQJLDs4QaP7NM0C) | 4:38 |
-| 74 | [Flight 962](https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1) | [Cassio Vianna Jazz Orchestra](https://open.spotify.com/artist/3u82f9AHow4ZrhStBZvamR) | [Vida](https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod) | 7:32 |
+| 73 | [Flight 962](https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1) | [Cassio Vianna Jazz Orchestra](https://open.spotify.com/artist/3u82f9AHow4ZrhStBZvamR) | [Vida](https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod) | 7:32 |
+| 74 | [Concerto No\. 4 para Violão e Orquestra de Cordas "À Brasileira": II\. Lento](https://open.spotify.com/track/4VjFEwFFezqzCMGBTJ966y) | [Radamés Gnattali](https://open.spotify.com/artist/10KxhFfJjMOgwomXBlcO8R), [Fabio Zanon](https://open.spotify.com/artist/7CxgDz8p96NJV3OVwDfwJ9), [São Paulo Chamber Soloists](https://open.spotify.com/artist/4y63e2CxfWrQMntizfnEuB) | [Radamés](https://open.spotify.com/album/5OnZTYpYQJLDs4QaP7NM0C) | 4:38 |
 | 75 | [Suíte Ameríndia](https://open.spotify.com/track/2mhaDGmKW0SAd23QLs1emM) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Martín Sued & Orquestra Assintomática](https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx), [Orquestra Assintomática](https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI) | [Saga](https://open.spotify.com/album/1n2sWBGetGhjVOIC8cO1kv) | 14:01 |
 
 Snapshot ID: `AAAAADemuTEM2CcA0nUXUPFnotj3Hjz6`

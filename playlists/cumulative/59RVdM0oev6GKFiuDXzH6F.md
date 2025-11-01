@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,007 songs - 2 day 3 hr 32 min
+1,008 songs - 2 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Best Friend \(Never Let Me Down\) \[BLR Mix\]](https://open.spotify.com/track/7a2ZxSSWQRyK7jihIni8PW) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Best Friend \(Never Let Me Down\) \[BLR Mix\]](https://open.spotify.com/album/0AAPEgBSt4ERy3NCNYhikX) | 4:00 | 2024-01-12 | 2024-09-26 |
 | [Bidi Bam](https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bidi Bam](https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7) | 2:00 | 2024-06-07 | 2024-09-26 |
 | [Big Bad City](https://open.spotify.com/track/6xmOyNPiAfN1O1Zoq9txOZ) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Big Bad City](https://open.spotify.com/album/2L2L6vKqHKMNYjx0Kx74KK) | 3:03 | 2023-11-10 | 2024-10-11 |
+| [Binary Flight](https://open.spotify.com/track/6v0NcJ7wFCmCtsVZSfdD2S) | [Uchu Plxy](https://open.spotify.com/artist/3x7qVQGvDb55hhwocZqJo4) | [Binary Flight](https://open.spotify.com/album/2nAa9owFDZaVlurCT1kqtb) | 5:43 | 2025-10-31 |  |
 | [Black Card](https://open.spotify.com/track/4qA00yEaKEC68iX6GScr8S) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Black Card](https://open.spotify.com/album/6U69jHoucZZoLkYWpNQCxq) | 2:13 | 2023-11-10 | 2024-09-26 |
 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 | 2023-10-26 | 2024-09-26 |
 | [Blessed \(Lost & Found\)](https://open.spotify.com/track/61YKjWGAo6dGy43mHmQ8un) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Blessed \(Lost & Found\)](https://open.spotify.com/album/5fhv3zHmYuIPO7S8zFarFq) | 3:28 | 2023-12-22 | 2024-09-26 |

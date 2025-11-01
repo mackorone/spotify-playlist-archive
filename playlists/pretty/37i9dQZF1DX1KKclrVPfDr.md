@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं\. Cover: Surabhi Kashyap, Stuti Sinha, Nikita Rai
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,076 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,095 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 33 | [NADIYA KE OH PAAR](https://open.spotify.com/track/1Q7Qpt5MyPReEMIArW7LqF) | [Sudhanshu Pandey](https://open.spotify.com/artist/40rk0rug5179qRVBbba1s5), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [NADIYA KE OH PAAR](https://open.spotify.com/album/3jFSjbB9l5jjJIQI6AVhhK) | 2:30 |
 | 34 | [CHUTKI BHAR SENURA](https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO) | [CHUTKI BHAR SENURA](https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy) | 4:50 |
 | 35 | [SAJANWA Love in Bangkok](https://open.spotify.com/track/3uV48MQcXm310OWtoGxWID) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q), [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm) | [SAJANWA Love in Bangkok](https://open.spotify.com/album/78LZ3Ix8rrUiQfJKOZ4JQT) | 3:42 |
-| 36 | [Reliya Bairan](https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Reliya Bairan](https://open.spotify.com/album/3qRmFf2z2OLvm2GMIXqr1u) | 5:21 |
+| 36 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
 | 37 | [Pyaar ka Vyapar](https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Pyaar ka Vyapar](https://open.spotify.com/album/0oC8Z3ACgjvm2ZprSMhsOP) | 3:24 |
 | 38 | [Doliya Kahar](https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Doliya Kahar](https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi) | 4:07 |
 | 39 | [Far Gaile Nembua](https://open.spotify.com/track/5dS1QpIQNwYBb1UQEGwuND) | [Srishty Shandilya](https://open.spotify.com/artist/4Q5lbT1axsaPWwkbq36iIe) | [Far Gaile Nembua](https://open.spotify.com/album/5GlJ4gu9CXPm0Z7MQ4qPDU) | 2:35 |
 | 40 | [Jiya Kare Dhaka Dhak](https://open.spotify.com/track/2g2Fqd1rTRwaL2r0BjK3Mr) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA), [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [Jiya Kare Dhaka Dhak](https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4) | 3:26 |
-| 41 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
+| 41 | [Reliya Bairan](https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Reliya Bairan](https://open.spotify.com/album/3qRmFf2z2OLvm2GMIXqr1u) | 5:21 |
 | 42 | [Dilwa Loot Lihla](https://open.spotify.com/track/5L2JpyWV23u9Rq74Q6vOpi) | [Tanaya](https://open.spotify.com/artist/4Bdfa1oZQkvRJiii4DbFLJ) | [Dilwa Loot Lihla](https://open.spotify.com/album/0zkbYsD5wkTpSQlvEatrMV) | 3:01 |
 | 43 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 |
 | 44 | [Kachauri Gali](https://open.spotify.com/track/2m7fE5rq2if3kiTDBb7wzD) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Kachauri Gali](https://open.spotify.com/album/6iLsiXl8RXpspJlikhx6qc) | 3:45 |

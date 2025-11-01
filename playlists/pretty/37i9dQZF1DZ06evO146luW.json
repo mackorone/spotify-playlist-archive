@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49833,
+  "num_followers": 49841,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAMGaHDM4jp5U7NCE+jS/yb",
+  "snapshot_id": "aQKqgAAAAAC2Z/GrgnKb997QJICZRZLw",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 240265,
-      "name": "Fuss and Fight",
-      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
+      "duration_ms": 240265,
+      "name": "Fuss and Fight",
+      "url": "https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH"
     },
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happier Alone",
-        "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 224027,
-      "name": "Happier Alone",
-      "url": "https://open.spotify.com/track/3cTPILvh238II28NyF5OEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Six String Sorrow Sessions",
         "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 288128,
       "name": "Gunshy - Rerecorded",
       "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happier Alone",
+        "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/3cTPILvh238II28NyF5OEf"
     },
     {
       "added_at": null,

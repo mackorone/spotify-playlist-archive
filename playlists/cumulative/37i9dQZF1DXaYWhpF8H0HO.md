@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Dinda Ghania
 
-514 songs - 1 day 5 hr 55 min
+514 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-06-27 | 2025-01-24 |
 | [Shadows of Goodbye](https://open.spotify.com/track/4FcnID6A9ecLg6K8JVOB3C) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX), [Leo Hartley](https://open.spotify.com/artist/6ih6ExFcIl58uv2jBLEEp2) | [Shadows of Goodbye](https://open.spotify.com/album/711Hf4CHjqtFATdDZifiOh) | 3:15 | 2024-10-31 | 2025-01-24 |
 | [She Told Me Everything](https://open.spotify.com/track/43bd6diCww6vwmHc6kAmbw) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [She Told Me Everything](https://open.spotify.com/album/0wl3QHxUnisiTMoRQFuT0w) | 3:22 | 2025-04-03 | 2025-05-30 |
+| [She's Mysterious](https://open.spotify.com/track/6xeDOENsTSZoIx9wWveCrE) | [Roadtrip to Antarctica](https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg) | [Hotel Du Monde](https://open.spotify.com/album/093p6MOfrOmzMnDzymMEvq) | 2:44 | 2025-10-30 |  |
 | [Sheepish](https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Sheepish](https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS) | 3:03 | 2024-10-17 | 2025-01-24 |
 | [Shell Of A Man](https://open.spotify.com/track/6V2FEvybZVpO9Q6GoHnF5O) | [Audi Kirana](https://open.spotify.com/artist/4oYiHw3MUvsD71zQuqx84C) | [Shell Of A Man](https://open.spotify.com/album/6K5a00me4cDHnuCUpi3tTv) | 4:09 | 2024-11-21 | 2025-04-25 |
 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 | 2025-05-01 |  |
@@ -474,7 +475,6 @@
 | [TONIGHT](https://open.spotify.com/track/0lioQgT9edE4iwCx4tsHBe) | [CLDGRAY](https://open.spotify.com/artist/0w7Y9t1I6Bxzxsvu4Slpvw) | [TONIGHT](https://open.spotify.com/album/4ID9aUi9LK1oI8eNgCcdyF) | 3:08 | 2024-10-31 | 2024-11-29 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-06-27 | 2025-01-18 |
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 | 2025-07-11 |
-| [Track 9](https://open.spotify.com/track/6xeDOENsTSZoIx9wWveCrE) | [Roadtrip to Antarctica](https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [Train Ride Home](https://open.spotify.com/track/4KzFWYSUwLYtqBP0wfECID) | [aya](https://open.spotify.com/artist/4CRwvKZuSEGCjntogXqo1N) | [Train Ride Home](https://open.spotify.com/album/51mLBZhsNZY04UPcZSgHj5) | 3:39 | 2025-04-17 | 2025-06-13 |
 | [Transition](https://open.spotify.com/track/77Cm7H3RvqXE9kXvuXjXUA) | [Soul Of Decay](https://open.spotify.com/artist/3OXI7ZdQqQyR9UmB8wExHA) | [Transition](https://open.spotify.com/album/7t2BiD6aTuWb677C2tLm93) | 4:24 | 2024-09-26 | 2025-01-24 |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-29 |  |

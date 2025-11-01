@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷\. La Pocima Norteña en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,107 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,142 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 99 | [Ultimadamente](https://open.spotify.com/track/3RkTybs3IQ3B1hT8oF8RA5) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Ultimadamente](https://open.spotify.com/album/5VU9pQh8es15ZejYaskMvE) | 2:43 |
 | 100 | [No Hay Solución](https://open.spotify.com/track/6bNBT3bdlv8lxrk8mAkrAG) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Hay Solución](https://open.spotify.com/album/4XAO6xBCAuwIH1pqrGlCqu) | 2:24 |
 
-Snapshot ID: `AAAAACWIDZE7r9//tUC9IIATb4mjwMkZ`
+Snapshot ID: `AAAAAFH/7V6URArZxWcH4Tpj1WviuCtp`

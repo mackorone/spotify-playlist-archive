@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Malte August
 
-341 songs - 17 hr 19 min
+342 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 | 2024-08-29 |  |
 | [Hvad Nu Hvis](https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:14 | 2024-06-27 |  |
 | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/track/4PejgbI6KITxcOV89OHRt3) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/album/6qO89wFyHbBDTiayGAmhFl) | 2:49 | 2025-04-07 | 2025-06-13 |
-| [hver tredje tanke](https://open.spotify.com/track/2NvlPjW8lqMmTSLahIBH6J) | [efterglød](https://open.spotify.com/artist/12ilOlZgqYHKwSkeBWMly3) | [hver tredje tanke](https://open.spotify.com/album/3HPzIP54YDXelJvcXaHPqJ) | 2:48 | 2025-10-16 |  |
+| [hver tredje tanke](https://open.spotify.com/track/2NvlPjW8lqMmTSLahIBH6J) | [efterglød](https://open.spotify.com/artist/12ilOlZgqYHKwSkeBWMly3) | [hver tredje tanke](https://open.spotify.com/album/3HPzIP54YDXelJvcXaHPqJ) | 2:48 | 2025-10-16 | 2025-11-01 |
 | [Hvor Skabet Skal Stå](https://open.spotify.com/track/1VtcllLThCZaQpTC0912PQ) | [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [Nimbus](https://open.spotify.com/album/583YsSUYDxrag3ipPEToiK) | 2:43 | 2025-10-16 | 2025-10-24 |
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 |  |
@@ -286,6 +286,7 @@
 | [Sunny](https://open.spotify.com/track/0I4KrchOuSukO393z4qwpB) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Sunny](https://open.spotify.com/album/4OwdPcbGEcmrYRHRxnL5t5) | 2:20 | 2025-06-19 | 2025-09-05 |
 | [Sunshine](https://open.spotify.com/track/1Tz8z22Kkxhr2GHNfrgjTz) | [BeOK](https://open.spotify.com/artist/1NH28ZggscQ3R2xddnZ8rC) | [Sunshine](https://open.spotify.com/album/7167cmKJyvfa2N5vpKGf7R) | 2:38 | 2025-08-07 | 2025-08-15 |
 | [Sunshine In Atalaya](https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3) | [Visti's Vinyl Collective](https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl), [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Sunshine In Atalaya](https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9) | 4:22 | 2024-06-27 | 2025-03-30 |
+| [Syg af følelser](https://open.spotify.com/track/26xQNPL2NfgQEzwezhcOml) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Sikkert syg af følelser](https://open.spotify.com/album/20fZqsijpjF3PbufuepQbD) | 2:51 | 2025-10-30 |  |
 | [Syg Den Dag](https://open.spotify.com/track/7gukFEHaDj4kw3SiOzy0xY) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Syg Den Dag](https://open.spotify.com/album/2DxIcnkcsIOAi7k5GOX4gv) | 2:57 | 2024-11-28 | 2025-02-23 |
 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 | 2024-08-29 |  |
 | [Syreregn](https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Syreregn](https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz) | 2:50 | 2024-09-11 | 2024-10-12 |
@@ -335,7 +336,7 @@
 | [Void](https://open.spotify.com/track/0FnPLGAM2kz47V99T5YskK) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Void](https://open.spotify.com/album/3VZSSQaS4szKE3aq2vNNEW) | 3:16 | 2025-10-23 |  |
 | [Vores Forhandling](https://open.spotify.com/track/2Ljapecp7oUgZGkOkO6FcI) | [Karoline Funder](https://open.spotify.com/artist/05YpD8zp3oH1xrBIncrTwV) | [Vores Forhandling](https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR) | 2:29 | 2025-02-06 |  |
 | [Vågen igen](https://open.spotify.com/track/4ZA8fLnOlO8u0OOT4QrMD5) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/2XjznrGCaPqfMTvdadWfzb) | 4:10 | 2024-10-24 | 2025-03-21 |
-| [Vægtløs](https://open.spotify.com/track/1D5t5C40UMsyIVxooccqQX) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [](https://open.spotify.com/album/null) | 2:57 | 2025-10-30 |  |
+| [Vægtløs](https://open.spotify.com/track/1D5t5C40UMsyIVxooccqQX) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/6OMdkRGQXsRaLKAh2qp2FX) | 2:57 | 2025-10-30 |  |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 | 2025-06-19 |  |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 | 2025-09-12 |

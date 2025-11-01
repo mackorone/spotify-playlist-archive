@@ -1443,24 +1443,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
-        }
-      ],
-      "date_added": "2025-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV"
-    },
-    {
-      "album": {
         "name": "Tr\u00e4um weiter",
         "url": "https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe"
       },
@@ -1631,8 +1613,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Leben \u00fcberleben EP",
+        "url": "https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J"
       },
       "artists": [
         {
@@ -1816,6 +1798,24 @@
       "duration_ms": 213527,
       "name": "Wir tanzen den Regen weg",
       "url": "https://open.spotify.com/track/7tnm7BOAvYriNjqfZ199bm"
+    },
+    {
+      "album": {
+        "name": "Worte wie Messer",
+        "url": "https://open.spotify.com/album/7qYzPkns7NCmTi6H0xQan5"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152437,
+      "name": "Worte wie Messer",
+      "url": "https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV"
     },
     {
       "album": {

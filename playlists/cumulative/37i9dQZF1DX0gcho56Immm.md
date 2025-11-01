@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Elias Rønnenfelt
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Mother Soki
 
-198 songs - 11 hr 30 min
+201 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [CPH](https://open.spotify.com/track/71ut6WB7qCVH0wOiXGtzFt) | [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Still life](https://open.spotify.com/album/688FqKQlinS1PjgQnj29jJ) | 5:03 | 2025-03-31 |  |
 | [Crickets](https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Crickets](https://open.spotify.com/album/2PgyjdmNivt1iFXQ4C7VkI) | 3:21 | 2025-03-13 | 2025-08-09 |
 | [Cute Little Spore](https://open.spotify.com/track/6qRLpNRWAAiaF1SBNmutHs) | [Velvy](https://open.spotify.com/artist/3QOzYZsjM7lKys2jAyg9JV) | [The Room We Lived In](https://open.spotify.com/album/00wYWrRYnSOBLNFSqYJn42) | 3:12 | 2025-03-13 | 2025-10-18 |
+| [CY](https://open.spotify.com/track/3qKYZAvIbxsxMtBLDucDz6) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [CY](https://open.spotify.com/album/16UbcoUWBK6nwzPfCnO1R2) | 4:30 | 2025-10-31 |  |
 | [daughter](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daughter](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 | 2025-06-06 | 2025-10-11 |
 | [Days In My Arms](https://open.spotify.com/track/6juSVsEDuNqM2Zp8D0kK5L) | [Milan W.](https://open.spotify.com/artist/4ZCux8WXdeKCoARMg1JSok) | [Leave Another Day](https://open.spotify.com/album/40UEAKeQY7F59p1dLFrD24) | 4:00 | 2025-03-13 |  |
 | [Days Incomplete](https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 3:39 | 2025-03-13 | 2025-09-27 |
@@ -73,7 +74,7 @@
 | [follow your nature](https://open.spotify.com/track/5lyvMhPSs4Lz9XVT9Vyhi4) | [great area](https://open.spotify.com/artist/2RZuX5qzl7vZSxlX5T2hBj) | [Follow Your Nature](https://open.spotify.com/album/7jcUICqffbjaDdPpDT7Yxt) | 2:16 | 2025-03-13 | 2025-10-18 |
 | [Forever Young](https://open.spotify.com/track/1At5Kac65XSBlzmA5HU8jx) | [Marie Noreger](https://open.spotify.com/artist/5xyRNaMYYZySaNqjiFyR47) | [LOOP](https://open.spotify.com/album/3aSQKq4522Dshi4sE448Ah) | 3:13 | 2025-10-10 |  |
 | [Forget her](https://open.spotify.com/track/3YfTmBx4kMU53AFOmzBKq5) | [EERA](https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc) | [I'll stop when I'm done.](https://open.spotify.com/album/27d2dBjKdysIgsiCv1ztQh) | 3:37 | 2025-10-10 |  |
-| [Forget her](https://open.spotify.com/track/5Pf5FOgGfEyKK9zizL2UtA) | [EERA](https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc) | [Forget her](https://open.spotify.com/album/7wEFFT8ha9xLJ4w5uAZvlz) | 3:37 | 2025-07-04 |  |
+| [Forget her](https://open.spotify.com/track/5Pf5FOgGfEyKK9zizL2UtA) | [EERA](https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc) | [Forget her](https://open.spotify.com/album/7wEFFT8ha9xLJ4w5uAZvlz) | 3:37 | 2025-07-04 | 2025-11-01 |
 | [Forgetful](https://open.spotify.com/track/3Q1u8slUCTZEy8zlS9W3iZ) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY), [Mija Milovic](https://open.spotify.com/artist/2OOCBx8T5zRIv2tLXF8l59) | [Forgetful](https://open.spotify.com/album/3JkbrPgAyJMSn9YuPUpNS5) | 4:41 | 2025-03-13 |  |
 | [Formula 1](https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [Formula 1](https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY) | 3:09 | 2025-05-15 |  |
 | [G\-LIP](https://open.spotify.com/track/6F8GWMveksAfUHPjisf7MD) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:17 | 2025-08-08 |  |
@@ -98,7 +99,7 @@
 | [Human Siren](https://open.spotify.com/track/0m4w9f4a7JTTMNg16wu3fl) | [Emma Acs](https://open.spotify.com/artist/6iLTh6Fhd16Cdq212BaS5c) | [Human Siren](https://open.spotify.com/album/0PEOUpjx1VTyesEx8K6igz) | 7:26 | 2025-03-13 | 2025-10-18 |
 | [I am I am what](https://open.spotify.com/track/5ExwUqRjRiILMt1eDAhH12) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [I am I am what](https://open.spotify.com/album/0oIJ7qcEcrivPVkgyd27PT) | 2:17 | 2025-04-03 | 2025-05-16 |
 | [I Believe In Love](https://open.spotify.com/track/0fecUhqxUBAXwDoeBD596a) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF), [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Blurb](https://open.spotify.com/album/2nkpUN7muFl2Me3gBnjJRt) | 2:43 | 2025-03-13 | 2025-08-09 |
-| [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 | 2025-04-24 |  |
+| [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 | 2025-04-24 | 2025-11-01 |
 | [I'm Only Boggin'](https://open.spotify.com/track/5yqFZvV4aUF6rMHhlcDcGG) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 1:27 | 2025-03-13 | 2025-08-09 |
 | [I'm Ready for Love](https://open.spotify.com/track/6bAHE9IuISQLImsUMO6Jgw) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I'm Ready for Love](https://open.spotify.com/album/0IEWIBmD1A5asUlxclmrX5) | 3:38 | 2025-04-03 | 2025-10-18 |
 | [Idea.2](https://open.spotify.com/track/6MElKOLK2nXBHRYNTJTHdr) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Idea.2](https://open.spotify.com/album/5GeAunzkiBxeRx118tj1Jg) | 6:01 | 2025-08-22 | 2025-09-27 |
@@ -118,6 +119,7 @@
 | [Little Gods](https://open.spotify.com/track/2FpX0lLE01fW4HD88l2DmJ) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE) | [Little Gods](https://open.spotify.com/album/3nzBF4atvaVYxVPjGOG845) | 3:40 | 2025-08-08 |  |
 | [Little Hooks](https://open.spotify.com/track/1JwIHAXrpiaeBnQYb5XCsR) | [Shell Company](https://open.spotify.com/artist/0wqMgaPqqrfHV9zu9ojyFA) | [Locket](https://open.spotify.com/album/29KIEGHMYXe8QpwLFprQIY) | 5:41 | 2025-10-10 |  |
 | [Long Sardine](https://open.spotify.com/track/7DeppqAvyRBMFyvbGL7Gqp) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/3bcaVoQfjwuDmsYoWAgvaJ) | 1:52 | 2025-03-13 | 2025-08-09 |
+| [Losing Tennessee](https://open.spotify.com/track/0cgrMmkoFQCJXnosXSqHWd) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 3:38 | 2025-10-31 |  |
 | [LOVE & POP](https://open.spotify.com/track/657y4ybpQX9jyGLRKgNalz) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Lick The Lens – Pt.1](https://open.spotify.com/album/6MLL5vClk79Yhned782Crg) | 3:47 | 2025-09-26 |  |
 | [Love How It Feels](https://open.spotify.com/track/6Fx3P9danCmSW1d8sZ9aAF) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Love How It Feels](https://open.spotify.com/album/6I4cQwheAaAfnlYylLoJeL) | 3:04 | 2025-09-26 |  |
 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 | 2025-03-13 |  |
@@ -160,7 +162,7 @@
 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 | 2025-04-03 |  |
 | [Skeletons Coupling](https://open.spotify.com/track/3AjfZFzMkI6jr4r1JKAOd0) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Skeletons Coupling](https://open.spotify.com/album/5cPMW5JjKembPp2CJBKPHu) | 3:27 | 2025-08-22 | 2025-09-13 |
 | [Sky Writing](https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Sky Writing](https://open.spotify.com/album/2UrkYjEt3aCRtfY5yXQ2EL) | 3:05 | 2025-05-16 | 2025-07-19 |
-| [Sliver](https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/2ubi5gA5HBQnq4FbJYN1Hi) | 2:36 | 2025-08-18 |  |
+| [Sliver](https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/2ubi5gA5HBQnq4FbJYN1Hi) | 2:36 | 2025-08-18 | 2025-11-01 |
 | [Sober Love](https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Sober Love](https://open.spotify.com/album/34Y7XtOzScB4f6B7bXyPrF) | 2:30 | 2025-06-19 |  |
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-01 |  |
 | [Sometimes](https://open.spotify.com/track/297G6WwahvL2zaRj4BGZio) | [Jennifer Walton](https://open.spotify.com/artist/1tsCntTj7gHy67liJL1uhg) | [Sometimes](https://open.spotify.com/album/4odwwTmIfvxdm7ACw9767y) | 4:15 | 2025-09-16 |  |
@@ -171,6 +173,7 @@
 | [Stardust](https://open.spotify.com/track/6IxRRIh4IcRL5bspf2uP8g) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Facing Atlas](https://open.spotify.com/album/3gfEp3bCySjOJ1vCIFINCi) | 6:46 | 2025-09-23 |  |
 | [Stay](https://open.spotify.com/track/01hSEJ4ymUJzj1jpgXkfGx) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Stay](https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi) | 4:05 | 2025-03-13 | 2025-08-09 |
 | [Still Above](https://open.spotify.com/track/01jtoPWy6B49NfXtI51JIq) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Seventeen](https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz) | 2:28 | 2025-08-08 |  |
+| [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 | 2025-10-31 |  |
 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 | 2025-05-29 |  |
 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-06 | 2025-08-09 |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 |  |

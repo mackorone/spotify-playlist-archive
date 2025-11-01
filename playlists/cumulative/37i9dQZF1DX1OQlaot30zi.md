@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di IvanBi, Capo Plaza, Tedua, Don Joe, Nabi e molti altri.
 
-6,315 songs - 11 day 16 hr 15 min
+6,316 songs - 11 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4682,6 +4682,7 @@
 | [quattro a.m.](https://open.spotify.com/track/17qEnEJcrb8fQOWlTP8tTs) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [quattro a.m.](https://open.spotify.com/album/31740pq14YjuCJG1DEuMWp) | 1:39 | 2024-09-05 | 2024-09-20 |
 | [QUATTRO MUSTANG](https://open.spotify.com/track/0q9HPdoXqGQAqYZQd74tzk) | [Kid Baby](https://open.spotify.com/artist/31Uc2EdmuVfsgTXkGDqpxd), [LB GANG](https://open.spotify.com/artist/20m7OA0skSZHQi2nLt29wV), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [PRIMOGENITO](https://open.spotify.com/album/2hiL1iqMcsJxzpXIqGF9A3) | 2:49 | 2025-03-28 | 2025-04-11 |
 | [Que Pasa](https://open.spotify.com/track/0O5pS2v8X5o66vVeC3TXt0) | [Bastio167](https://open.spotify.com/artist/3xuKGlb6coOq5I9w3cY1re), [Ronny167](https://open.spotify.com/artist/19DcKkC92DviF01rO2TARs), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY), [Beniz](https://open.spotify.com/artist/1lyGkvW6FHmenE5FjjqL3F), [Rush167](https://open.spotify.com/artist/1JuHKeUGibWZWTZRhSLhUl) | [Que Pasa](https://open.spotify.com/album/6xHQadbjK0DWeCQeWGG6JL) | 3:53 | 2022-06-16 | 2022-06-29 |
+| [QUE PASA \(feat\. Salmo & nayt\) \- Prod\. Luciennn](https://open.spotify.com/track/2XIKgvqa06lm1gydT3Df19) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Luciennn](https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP) | [Teoria Del Contrario Mixtape Vol\. 3](https://open.spotify.com/album/3GGyy5u29yQ6sv9VA8UocU) | 3:12 | 2025-10-31 |  |
 | [QUEL CHE HAI DI ME](https://open.spotify.com/track/2j1fz4St4QjQYrkBqeIKWV) | [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC) | [QUEL CHE HAI DI ME](https://open.spotify.com/album/46PFB5Kd7vLgy9tYMevyQS) | 2:45 | 2024-11-14 | 2024-12-06 |
 | [Quella Notte](https://open.spotify.com/track/0O4mJ8VY5eYzyDj4IfnCYj) | [KAPPA EFFE](https://open.spotify.com/artist/5QvNnXniCcBponf9p2W0ZU), [Resse](https://open.spotify.com/artist/08CsfaERwAp4cip94RlQKA) | [La Favelá](https://open.spotify.com/album/2BcORW0qbk3Z0YDxV6VSvn) | 2:32 | 2025-07-24 | 2025-09-05 |
 | [Quelle brave ragazze](https://open.spotify.com/track/3Y6nRvIZWb6T943XwBIQ2s) | [Sara Maggio](https://open.spotify.com/artist/45aCEF299nG7NE2iRbZNGJ) | [Quelle brave ragazze](https://open.spotify.com/album/45XZYXQv7NHPsAI7wcUQ1M) | 2:00 | 2024-04-18 | 2024-05-03 |

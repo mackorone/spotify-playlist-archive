@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Mario G Klau
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,021 likes - 158 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,025 likes - 158 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pulanglah](https://open.spotify.com/track/2Vi3r6oDAGkuWRpFAGKVda) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Pulanglah](https://open.spotify.com/album/5nIq4Y5uugZtiVUM9nBVoL) | 4:02 |
 | 2 | [Bermimpi](https://open.spotify.com/track/4Bq5WOROZbYRlfoEjh1gAM) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Koma,](https://open.spotify.com/album/0kEgfBZs3R5GJDuCp8yTYx) | 3:40 |
-| 3 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
+| 3 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 |
 | 4 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 5 | [Laguku](https://open.spotify.com/track/5La9TqGSD55qIOCFaK0Af4) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Laguku](https://open.spotify.com/album/1CyH65NPBmMPKzX1myRUKq) | 4:41 |
 | 6 | [2025 Masih Asik Sendiri](https://open.spotify.com/track/3hc8GUtRRudA3CjaxVwYdb) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [2025 Masih Asik Sendiri](https://open.spotify.com/album/5CzJEblHlyNLqEmxRb1gKG) | 4:12 |

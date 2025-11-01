@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388390,
+  "num_followers": 388383,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABDVs0/PbxGJv8v58FFuCpQWnVzk",
+  "snapshot_id": "AAAAAA5Lo0PcTvuM4gQc4BIQSuyJ30mR",
   "tracks": [
     {
       "added_at": "2025-10-23 22:00:32",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Disarray",
-        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 310853,
-      "name": "Disarray",
-      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Still In Love",
         "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 161164,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Disarray",
+        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 310853,
+      "name": "Disarray",
+      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
         "name": "The Rest Of Me",
         "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Wally",
-        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Wally",
-      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "That's What I Love",
         "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 243595,
       "name": "Rent California",
       "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -563,26 +563,18 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "22:22",
-        "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Vico",
-          "url": "https://open.spotify.com/artist/1QwGRdDUTv7oISCcd5sPgM"
-        },
-        {
-          "name": "Antonin",
-          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
         }
       ],
-      "duration_ms": 269413,
-      "name": "22:23",
-      "url": "https://open.spotify.com/track/0TjAjZ6Hp7smLH8qUBlNuR"
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -603,18 +595,26 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+        "name": "22:22",
+        "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
       },
       "artists": [
         {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Vico",
+          "url": "https://open.spotify.com/artist/1QwGRdDUTv7oISCcd5sPgM"
+        },
+        {
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
         }
       ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
+      "duration_ms": 269413,
+      "name": "22:23",
+      "url": "https://open.spotify.com/track/0TjAjZ6Hp7smLH8qUBlNuR"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 188037,
       "name": "In The Meantime",
       "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Within a Heartbeat",
-        "url": "https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor"
-      },
-      "artists": [
-        {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
-        }
-      ],
-      "duration_ms": 221991,
-      "name": "Within a Heartbeat",
-      "url": "https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 201133,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Within a Heartbeat",
+        "url": "https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "duration_ms": 221991,
+      "name": "Within a Heartbeat",
+      "url": "https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
         "name": "Make It Work",
         "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 255877,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
-        "name": "Hoagy's Place",
-        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Hoagy's Place",
-      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 236346,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Good Company (Deluxe)",
         "url": "https://open.spotify.com/album/1zmNQrPSuRoQfCBj2qUUMr"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 140008,
       "name": "Slippin In",
       "url": "https://open.spotify.com/track/0dn0qZHVXr644FfvAdb7pU"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 236346,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

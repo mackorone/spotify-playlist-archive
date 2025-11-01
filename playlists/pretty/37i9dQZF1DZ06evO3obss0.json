@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 146594,
+  "num_followers": 146753,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAAzSYhlESL45dxSFIIbqNJ",
+  "snapshot_id": "aQKqgAAAAABiWKVHvFN1kxp4pOkJtuyQ",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 199293,
-      "name": "The Thrill Is Gone.",
-      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Oscar Winning Tears.",
-      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+      "duration_ms": 199293,
+      "name": "The Thrill Is Gone.",
+      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Of Your Life",
+        "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196170,
+      "name": "Love Of Your Life",
+      "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Of Your Life",
-        "url": "https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196170,
-      "name": "Love Of Your Life",
-      "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "Genesis.",
-      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Me Again",
         "url": "https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 242066,
       "name": "All Dressed Up",
       "url": "https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Genesis.",
+      "url": "https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 211417,
+      "name": "Thank You (feat. RAYE)",
+      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Make It To Heaven (with Raye)",
         "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 172380,
       "name": "Make It to Heaven (with Raye)",
       "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 211417,
-      "name": "Thank You (feat. RAYE)",
-      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decline",
         "url": "https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 188172,
       "name": "Decline",
       "url": "https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": null,

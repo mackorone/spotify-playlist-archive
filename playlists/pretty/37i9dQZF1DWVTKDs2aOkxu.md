@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Luvcat
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,395 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,378 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
 | 2 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
-| 3 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [](https://open.spotify.com/album/null) | 3:57 |
+| 3 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 3:57 |
 | 4 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 |
 | 5 | [Koya](https://open.spotify.com/track/6GMUwFCOUn5DxXPpxpE9LG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Koya](https://open.spotify.com/album/0XjWU0ZXEr2sVK33LUSpFy) | 5:17 |
 | 6 | [Hole In The Ground](https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Hole In The Ground](https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK) | 3:44 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 19 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 20 | [Sleeping Away My Prime](https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Sleeping Away My Prime](https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK) | 2:33 |
 | 21 | [Fruit Bat](https://open.spotify.com/track/2hmo6Qz1zHKl7nGbVZSl8Z) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Fruit Bat](https://open.spotify.com/album/0FFPcGdpvNUoJJWr1uYZH7) | 8:17 |
-| 22 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 |
+| 22 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
 | 23 | [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Human Happens / Paint Me A Picture](https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1) | 4:03 |
 | 24 | [The Field](https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [After EP 2](https://open.spotify.com/album/4wrJJTECEgSMnwHeoBzoGz) | 3:28 |
 | 25 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 27 | [Name the Band](https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Name the Band](https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ) | 1:32 |
 | 28 | [Find Ur Ppl](https://open.spotify.com/track/6IW6GWm5Oor03wAG6vCVae) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm), [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Find Ur Ppl](https://open.spotify.com/album/75X4hTbfFyLYrowN0TPg1l) | 3:47 |
 | 29 | [Fashion](https://open.spotify.com/track/1aoFQBQrclXuxUTCldGNYh) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fashion](https://open.spotify.com/album/5inSPDl3eQnBxY1nJhZatm) | 2:53 |
-| 30 | [Slaughterhouse](https://open.spotify.com/track/5ZTRqD25RsTcKrfX82FSZD) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [](https://open.spotify.com/album/null) | 3:32 |
+| 30 | [Slaughterhouse](https://open.spotify.com/track/5ZTRqD25RsTcKrfX82FSZD) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Devour](https://open.spotify.com/album/0ZnuaHRAI6C7fGxg1VuoXO) | 3:32 |
 | 31 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 | 32 | [Don't Throw Rocks](https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Don't Throw Rocks](https://open.spotify.com/album/6vIgYCy9Q8NkjF3aTTU1n8) | 3:01 |
 | 33 | [Lucky Girl](https://open.spotify.com/track/5FVJyqzJJB4La4SIp242mY) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lucky Girl](https://open.spotify.com/album/1aCLxO8VWsYJCLiloC1Qce) | 3:50 |

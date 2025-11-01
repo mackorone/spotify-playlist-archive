@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-421 songs - 1 day 3 hr 14 min
+422 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Curiosity](https://open.spotify.com/track/3DapJ2ikSbXpWnPzPEKk4k) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Curiosity](https://open.spotify.com/album/3g1I2BHAkPbktQopihCgT0) | 4:06 | 2023-12-30 |  |
 | [D.O.G.S.](https://open.spotify.com/track/1gqbRVPF9rkYvvmEMpY6w8) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Doc's Da Name 2000](https://open.spotify.com/album/1VgJ9FxJXQBbr0rXrTTiER) | 3:49 | 2023-12-30 |  |
 | [Dangerous Mouths](https://open.spotify.com/track/0LdfoYTifz29tqkof3W7S8) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Da Real World](https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i) | 3:28 | 2023-12-30 |  |
-| [Dat Bitch](https://open.spotify.com/track/2XYhFVxlrHh3iG5WDCnnPA) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Malpractice](https://open.spotify.com/album/0PMUPc7P3VM5mrrNCGA6ZJ) | 3:53 | 2023-12-30 |  |
+| [Dat Bitch](https://open.spotify.com/track/2XYhFVxlrHh3iG5WDCnnPA) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Malpractice](https://open.spotify.com/album/0PMUPc7P3VM5mrrNCGA6ZJ) | 3:53 | 2023-12-30 | 2025-11-01 |
+| [Dat Bitch](https://open.spotify.com/track/5NxEdp9yUt7tmJ0GvnvrTM) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Malpractice](https://open.spotify.com/album/3OccL9684tABKQvidYBulW) | 3:53 | 2025-10-31 |  |
 | [Dats What I'm Talkin About \(feat\. R\. Kelly\)](https://open.spotify.com/track/4MqClQbpmsDEN0XwcuzGgw) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 4:48 | 2023-12-30 |  |
 | [Dat’s Right](https://open.spotify.com/track/4OxvuR6IMRmVd9O6l44U5w) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ) | [Torch](https://open.spotify.com/album/56W9TJvPDvdPIUggDOGLpu) | 3:08 | 2023-12-30 |  |
 | [Deep](https://open.spotify.com/track/0self0iy5M8fZP195Mi8GD) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Motor\-Booty Affair](https://open.spotify.com/album/4nJxMt76H3NtmGfIkL035z) | 9:09 | 2023-12-30 |  |

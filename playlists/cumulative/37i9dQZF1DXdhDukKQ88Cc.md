@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-451 songs - 19 hr 18 min
+451 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Eatlanta](https://open.spotify.com/track/76D8JXMrWkyZetOuQFQ5Eh) | [Matongo](https://open.spotify.com/artist/2TtN6WlbGQ2DAN7xJzHlG6) | [Eatlanta](https://open.spotify.com/album/5cSmMFAZCcf5DNMZaTSSYw) | 1:53 | 2025-10-16 |  |
 | [Elektrisk](https://open.spotify.com/track/1iiupkiVWWfxNURbSFKSNc) | [Milbo](https://open.spotify.com/artist/7hdXOb76rDsDAe3ZdDstT3), [ML](https://open.spotify.com/artist/4iDL8WJDAcDu1C80B7Gnmb) | [Elektrisk](https://open.spotify.com/album/0DH6fAMBFzAD6xCZ9MIjjA) | 2:16 | 2025-08-28 | 2025-09-12 |
 | [ELEVATOR \(feat\. Stepz\)](https://open.spotify.com/track/5KZqhvLLmjOXaFOP6jjaZa) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [ELEVATOR](https://open.spotify.com/album/6vqIrUHCsxp1iVLkZFkXkJ) | 2:19 | 2023-11-10 | 2024-01-19 |
+| [ENDE SÅDAN](https://open.spotify.com/track/5iBnkccw2gyMbMmB1IWN48) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [JEEZ](https://open.spotify.com/album/3EWP8YtT28co1o8A6d14KH) | 2:43 | 2025-10-30 |  |
 | [Energien](https://open.spotify.com/track/24iwVwLUrHV2Y1Bmfyr5sq) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Energien](https://open.spotify.com/album/4aiBX7RmA3AOlIE1dPlmPV) | 2:45 | 2024-06-27 | 2025-03-14 |
 | [Eneste \(feat\. KESI\)](https://open.spotify.com/track/5ehIhNQBMskl6sPE9Jf4TH) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Eneste \(feat\. KESI\)](https://open.spotify.com/album/3x52rk2qRrPRlgJsbysqNB) | 2:14 | 2024-06-06 | 2025-01-10 |
 | [Ensom](https://open.spotify.com/track/46NhgL7Fvf99VfSp2yafEE) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:20 | 2024-02-15 | 2024-04-19 |
@@ -280,7 +281,7 @@
 | [MAGIC AIRLINES \(feat\. Blæst\)](https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 2:43 | 2024-05-23 | 2024-09-13 |
 | [Mama \(feat\. Fouli\)](https://open.spotify.com/track/6Uhm7x6qW5Ec3yrmPvG6Gk) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mama \(feat\. Fouli\)](https://open.spotify.com/album/09npcb0ZCxF4QgaLk8pto2) | 2:14 | 2025-07-17 | 2025-08-15 |
 | [Mannschaft](https://open.spotify.com/track/13PJBkdi5W6h438CRjCTk4) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Mannschaft](https://open.spotify.com/album/50OWKkK1u1qIxUt6uf8XJG) | 2:16 | 2025-10-16 |  |
-| [Marcelo](https://open.spotify.com/track/5dRw9iWHJYEw3eAVu20JhJ) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [](https://open.spotify.com/album/null) | 2:02 | 2025-10-30 |  |
+| [Marcelo](https://open.spotify.com/track/5dRw9iWHJYEw3eAVu20JhJ) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Young & Heartless](https://open.spotify.com/album/1c9x0b4WAEXdKHYyTAT8hL) | 2:02 | 2025-10-30 |  |
 | [Marinering](https://open.spotify.com/track/1280hDWpO5hNiY5AB7M7jL) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Marinering](https://open.spotify.com/album/3PZHL0cl9aE0ZpbIwKoEdq) | 1:57 | 2025-08-21 | 2025-09-19 |
 | [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 | 2023-11-16 | 2024-09-13 |
 | [MASKINEN](https://open.spotify.com/track/2dgFFuTVQgX482FK3qA3fW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/7aDIiIQVIGVi5b0gYVHMhk) | 2:13 | 2024-02-22 | 2024-04-19 |
@@ -406,7 +407,6 @@
 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 | 2025-02-28 |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
-| [Track 6](https://open.spotify.com/track/5iBnkccw2gyMbMmB1IWN48) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-30 |  |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 |  |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-09-26 |
 | [Trump](https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Trump](https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx) | 2:02 | 2025-05-15 | 2025-06-06 |

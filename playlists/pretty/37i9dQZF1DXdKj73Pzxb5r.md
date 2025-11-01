@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Alahad, Shinjoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,788 likes - 86 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,792 likes - 86 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 85 | [Minggu](https://open.spotify.com/track/29oaLVw5BEusRDauIyCfwK) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio) | [Minggu](https://open.spotify.com/album/20BlkwZZJfzNj6xTxPrehi) | 3:38 |
 | 86 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 |
 
-Snapshot ID: `AAAAALeU2yUmpsjP2Rxoe/Ps3SfO/fgG`
+Snapshot ID: `AAAAAG6vaQ/JQ7EduPKZq9kKAPfiinlU`

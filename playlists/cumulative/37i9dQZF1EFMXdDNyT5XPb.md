@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-119 songs - 6 hr 5 min
+120 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Keeping Love Alive](https://open.spotify.com/track/0xa6jAQk4tg32ejgqKkKXf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Endurance](https://open.spotify.com/album/4GNOqLveFyxhNfZtK15T50) | 2:03 | 2024-05-01 | 2025-08-09 |
 | [Keeping Love Alive](https://open.spotify.com/track/7kCCdSNqB49oplJe3vnc19) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Endurance](https://open.spotify.com/album/0k1VF4vzODNMUQageIc3j5) | 2:03 | 2025-08-08 |  |
 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 | 2024-11-17 |  |
-| [Landslide](https://open.spotify.com/track/5XPTKgKIuFzSinSUKfrYZk) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/1su801cFXN57dqGWV8sN1u) | 3:19 | 2024-05-01 |  |
+| [Landslide](https://open.spotify.com/track/5GOwSGaZbQcg9uwl4j9GyH) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/36X88HKH0GEhGFXmrRld2E) | 3:19 | 2025-10-31 |  |
+| [Landslide](https://open.spotify.com/track/5XPTKgKIuFzSinSUKfrYZk) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL), [Crissie Rhodes](https://open.spotify.com/artist/1ihjZOWoOqFjbSVIgxEaCp) | [Cedarmont](https://open.spotify.com/album/1su801cFXN57dqGWV8sN1u) | 3:19 | 2024-05-01 | 2025-11-01 |
 | [Lay With Me](https://open.spotify.com/track/5E3IZVtPnAMKJ5jC177L2M) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lay With Me](https://open.spotify.com/album/4MfKhq3j9MqPdicPW31B6o) | 2:51 | 2024-05-01 |  |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-05-01 | 2025-10-13 |
 | [Lighthouse](https://open.spotify.com/track/57t9hza2T0WUr8qZMIcxhH) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:11 | 2025-10-12 |  |

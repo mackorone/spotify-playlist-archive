@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,062 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,144 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 44 | [Party All Night](https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Sahil Kaushal](https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz) | [Boss](https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep) | 4:42 |
 | 45 | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Vishal](https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba) | 3:21 |
 | 46 | [Bhaag D.K\. Bose, Aandhi Aayi](https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Delhi Belly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi) | 4:01 |
-| 47 | [Bom Diggy](https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy \- Single](https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8) | 3:27 |
-| 48 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
+| 47 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
+| 48 | [Bom Diggy](https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy \- Single](https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8) | 3:27 |
 | 49 | [Urvashi](https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Urvashi](https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso) | 3:35 |
 | 50 | [Tenu Ki Pata \(From "The Ba\*\*\*ds Of Bollywood"\)](https://open.spotify.com/track/4CmC0E2G1arkpmK47O5Ew7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS), [Aryan Khan](https://open.spotify.com/artist/61gOxq7Ufie0TwQ5NzdG6F), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Tenu Ki Pata \(From "The Ba\*\*\*ds Of Bollywood"\)](https://open.spotify.com/album/2bfsQ0IEwNs0JHpsDf2Hxx) | 2:53 |
 

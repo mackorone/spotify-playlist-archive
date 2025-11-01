@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-557 songs - 1 day 7 hr 44 min
+559 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 | 2024-02-02 |  |
 | [Dream On Me](https://open.spotify.com/track/1dCpERd2GVVFbKuOpJjgPm) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:02 | 2022-11-27 |  |
 | [Dream On Me](https://open.spotify.com/track/6vHE5zEPYdb0HUKRaIQ6tI) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Dream On Me](https://open.spotify.com/album/6YR3EVz9Cd981Vss9jl3AN) | 3:02 | 2022-09-08 | 2022-11-28 |
+| [Drinking My Water \(feat\. MNEK\)](https://open.spotify.com/track/4FPg1hBzEPFDEGKSUVtM4f) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Don't Look Down](https://open.spotify.com/album/1RAGs6JnmurAIytKWIbAxX) | 3:05 | 2025-10-31 |  |
 | [Drum](https://open.spotify.com/track/759Qc9P8jWrRw4huLXWGQS) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:34 | 2023-02-23 |  |
 | [EASY ON ME](https://open.spotify.com/track/5PvDkxIW9DoKLEJu0F1upY) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:22 | 2022-11-16 |  |
 | [EASY ON ME](https://open.spotify.com/track/5Wjf1uUhP6Y2MKe1pJ8Ohe) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?](https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI) | 3:22 | 2022-09-08 | 2022-11-17 |
@@ -148,6 +149,7 @@
 | [Eat You Up](https://open.spotify.com/track/5EfC8dEGT6hRMpvBkVoMiX) | [NASHE](https://open.spotify.com/artist/2GUJqSGRk1wqqvcbELRMAC) | [With Love \(Deluxe\)](https://open.spotify.com/album/5Dv1bxV6dqdgmzUZnnJITh) | 3:36 | 2022-09-08 | 2023-02-25 |
 | [Enough](https://open.spotify.com/track/4gAOsYjYab3gcAjy6iXUSk) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Enough](https://open.spotify.com/album/6bZ48hDnMVSavEVMcH4qdm) | 2:29 | 2023-03-31 |  |
 | [Entirety](https://open.spotify.com/track/7Cu9VJOK9A0gJtTTLbJ9GU) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Entirety](https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT) | 3:08 | 2022-09-08 |  |
+| [Eurosummer](https://open.spotify.com/track/2EhJHJV7itLmFGH1CQoK3i) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:52 | 2025-10-31 |  |
 | [Every Inch](https://open.spotify.com/track/0WI7JhGKeqHLmer6os2L8S) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Late](https://open.spotify.com/album/7CyG35mBwUatCOKv9yBOcx) | 4:31 | 2025-01-09 | 2025-04-12 |
 | [Everything](https://open.spotify.com/track/7urCyCOzhOLrzgMzgfhluA) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Everybody's Talking About Jamie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UqKCHOpXqyypagS12l4ns) | 3:48 | 2022-12-15 |  |
 | [Everything\(2012 Remaster\)](https://open.spotify.com/track/1rCIuApWMhwAFQZPwwYKRS) | [GLORY HILL](https://open.spotify.com/artist/4PvwOUBC9YDdra6Fsz62Kk) | [independent days](https://open.spotify.com/album/7qttbdXhLumnSab72LCpsh) | 3:34 | 2023-12-13 | 2025-06-01 |

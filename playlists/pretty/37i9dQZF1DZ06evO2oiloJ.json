@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 243451,
+  "num_followers": 243505,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAC65r5pcHU62kK+kWYOfOF8",
+  "snapshot_id": "aQKqgAAAAAAWdt1CEqqn/d0BkDwUY0Iw",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 136071,
-      "name": "Paint The Sky Red",
-      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shooting Star",
         "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 183850,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 136071,
+      "name": "Paint The Sky Red",
+      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 163080,
-      "name": "Ribbon In The Sky",
-      "url": "https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0"
+      "duration_ms": 168586,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 168586,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9"
+      "duration_ms": 163080,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-127 songs - 7 hr 32 min
+128 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,10 +32,11 @@
 | [Desnúdame Con La Boca](https://open.spotify.com/track/44iTkje2BHNMm4DZfa3rf5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enfermo De Amor](https://open.spotify.com/album/6YPqIlrOLgXeOqCVe8yYtH) | 3:44 | 2022-06-03 | 2025-09-16 |
 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 | 2022-06-01 |  |
 | [Desvelado \- En Vivo](https://open.spotify.com/track/22ygsTxbazCWHhloEsEFU7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Desvelado \(En Vivo\)](https://open.spotify.com/album/6LJAgDBVTLgv5YFyX7uCbs) | 5:26 | 2025-04-25 | 2025-05-22 |
-| [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 | 2022-06-01 |  |
+| [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 | 2022-06-01 | 2025-11-01 |
 | [Difícil Es](https://open.spotify.com/track/63SeaRiwlp1AwDi1hKPejK) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Para Que Baile Mi Pueblo](https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b) | 3:16 | 2022-10-30 | 2023-02-20 |
 | [Dime Qué Debo Hacer](https://open.spotify.com/track/4JdXfOJ344Cbf55yzfOZow) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:06 | 2022-06-02 | 2022-10-13 |
 | [Donde Estés](https://open.spotify.com/track/1hnwKfd41RHPru8zZraOQY) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:06 | 2022-06-03 | 2022-10-11 |
+| [Días de Ayer](https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Días de Ayer](https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j) | 3:26 | 2025-11-01 |  |
 | [Dígale \- En Vivo](https://open.spotify.com/track/1X7okJ8EP8DQ9l1rj2zmAo) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Dígale \(En Vivo\)](https://open.spotify.com/album/4KpyafkE99qVYKZxUtH5pO) | 3:58 | 2025-05-15 | 2025-06-20 |
 | [Dígale \- En Vivo](https://open.spotify.com/track/60ETioGGVj5Tb8bk4SCuR5) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bobby Pulido & Friends Una Tuya Y Una Mía \(Vol\. 1 / En Vivo\)](https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8) | 3:58 | 2025-06-20 |  |
 | [Eclipse](https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM) | [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Juntos](https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm) | 3:37 | 2022-06-01 |  |

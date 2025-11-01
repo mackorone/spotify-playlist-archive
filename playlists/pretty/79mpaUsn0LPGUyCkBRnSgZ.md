@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 602 songs - 1 day 15 hr 24 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 603 songs - 1 day 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -608,7 +608,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 598 | [Tell It To Me](https://open.spotify.com/track/2AgTYr7uZM1C2wfItdtvlc) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/5Y83CwSuyymvHbtg2KgK7j) | 2:47 |
 | 599 | [Welcome To The Working Week](https://open.spotify.com/track/39rkLB2TEENIvhwAlRC5ae) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 1:23 |
 | 600 | [Dusty](https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:05 |
-| 601 | [Please Don't Let Me Be So Understood](https://open.spotify.com/track/4VIAvJKD31aODBCXiwUItg) | [Tweedy](https://open.spotify.com/artist/3F4PBcfdeFdmxjRPS2UdMl), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Sukierae](https://open.spotify.com/album/0Y2C0vkDk1gxQjIr2IbFte) | 1:33 |
+| 601 | [Please Don't Let Me Be So Understood](https://open.spotify.com/track/4VIAvJKD31aODBCXiwUItg) | [Tweedy](https://open.spotify.com/artist/3F4PBcfdeFdmxjRPS2UdMl), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Sukierae](https://open.spotify.com/album/0Y2C0vkDk1gxQjIr2IbFte) | 1:32 |
 | 602 | [Opening Station](https://open.spotify.com/track/1Ouddr47W1oaAhj2ER32kq) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 0:41 |
+| 603 | [给抱着盒子的姑娘](https://open.spotify.com/track/5kpqZy4npLRTd8AEjkV6YH) | [宋冬野](https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo) | [安和桥北](https://open.spotify.com/album/4MTEs0gR5jeInhPAu5aZkD) | 2:05 |
 
-Snapshot ID: `AAAH90jGYEdWt99gc4P9dYD7cjrupvyK`
+Snapshot ID: `AAAH+EkaLxosKakMjA61G5aKJfrDiE4d`

@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-70 songs - 4 hr 43 min
+71 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-04 |  |
 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 | 2024-02-28 |  |
 | [Shining ray](https://open.spotify.com/track/2jxiuMVIyPeDeHP9qne6BJ) | [Janne Da Arc](https://open.spotify.com/artist/17OoiwOfChkOVxbqaLzB1W) | [ANOTHER STORY](https://open.spotify.com/album/7HCy1UvD6nkIMorKPYC1Nc) | 3:58 | 2023-08-23 |  |
+| [Super Powers](https://open.spotify.com/track/5ItXAcidK1KlJ9LL1RXGBk) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [Super Powers / Right Now](https://open.spotify.com/album/4ldZhgSrGGquj0NxpcnSuR) | 3:45 | 2025-10-31 |  |
 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-04-28 |  |
 | [TVアニメ『ONE PIECE』25周年！ 【きただにひろし×田中公平】あーーっす！スペシャル対談](https://open.spotify.com/episode/4YdvgzkkZPAnA0ntN176Bm) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【桃源暗鬼】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 41:44 | 2024-03-29 |  |
 | [Wake up!](https://open.spotify.com/track/2ZCkl705ROXLgLtXXKhBp2) | [AAA](https://open.spotify.com/artist/1AyWsgtaIgXbzjJlTx2ZDp) | [GOLD SYMPHONY](https://open.spotify.com/album/2K4rdeEWAiU0CgqI8XXdjR) | 3:43 | 2023-08-23 |  |

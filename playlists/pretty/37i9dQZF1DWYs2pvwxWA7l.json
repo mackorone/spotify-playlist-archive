@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Tyla",
-  "num_followers": 631664,
+  "num_followers": 631703,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABg01iKBojth6+1BgUG1ix8Ox2aY",
+  "snapshot_id": "AAAAAFcLyQLICsiHLxxr/9KcT9Al7DNw",
   "tracks": [
     {
       "added_at": "2025-10-24 00:01:29",
@@ -931,30 +931,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "Arike (Remix)",
-        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Arike - Remix",
-      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 153941,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "Arike (Remix)",
+        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Arike - Remix",
+      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC"
+      },
+      "artists": [
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        }
+      ],
+      "duration_ms": 239572,
+      "name": "Taya",
+      "url": "https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
       },
@@ -1063,38 +1079,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC"
-      },
-      "artists": [
-        {
-          "name": "Okello Max",
-          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
-        }
-      ],
-      "duration_ms": 239572,
-      "name": "Taya",
-      "url": "https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 135637,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 148297,
       "name": "My Dealer",
       "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 135637,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 153098,
       "name": "alone (feat. BhadBoi OML)",
       "url": "https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2025-10-24 00:01:29",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2025-10-24 00:01:29",
       "album": {
-        "name": "Toro - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 194436,
-      "name": "Toro - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
-    },
-    {
-      "added_at": "2025-10-24 00:01:29",
-      "album": {
         "name": "Sooner",
         "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "added_at": "2025-10-24 00:01:29",
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     }
   ],
   "unique_name": "Afropop",

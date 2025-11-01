@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,266 likes - 97 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,272 likes - 97 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 24 | [Feel](https://open.spotify.com/track/5DUMqUjOSutQaOjwf4NQGc) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 4:05 |
 | 25 | [Happy](https://open.spotify.com/track/3rkMU90xsY5kDLOsl0lbrT) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 3:58 |
 | 26 | [I Want You \(Fever\)](https://open.spotify.com/track/1s2t8mpGkaar5VErp1xLqd) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ) | 3:37 |
-| 27 | [watermark](https://open.spotify.com/track/3B4Gx0i7whEmg41n30YcIq) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT) | [slow food](https://open.spotify.com/album/04DfHu8ikFwauBSOVeYFZd) | 3:31 |
+| 27 | [watermark](https://open.spotify.com/track/3B4Gx0i7whEmg41n30YcIq) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT) | [slow food](https://open.spotify.com/album/04DfHu8ikFwauBSOVeYFZd) | 3:36 |
 | 28 | [Secrets](https://open.spotify.com/track/6hawTk0rC1XZ3Q85VPxNdz) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Secrets](https://open.spotify.com/album/5Haih9CAPJC4F79wF9ubwo) | 4:41 |
 | 29 | [Limbo](https://open.spotify.com/track/3agLVs0D9DJl1v8ICi0MV9) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Limbo](https://open.spotify.com/album/5Ep7CnoV1wVY3nHgIFgt5i) | 4:43 |
 | 30 | [tears](https://open.spotify.com/track/1450gHNQR7jMixdYvfRyl0) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 3:31 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAzsQLhU7Ty6ASAxaRvgRAG",
+  "snapshot_id": "aQKqgAAAAADIu6SO7G1DY/eaRJ08dQ+/",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "Tiempos Violentos (feat. Mon Laferte)",
+        "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
       },
       "artists": [
         {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr"
+      "duration_ms": 237029,
+      "name": "Tiempos Violentos (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
     },
     {
       "added_at": null,
@@ -275,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Violentos (feat. Mon Laferte)",
-        "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 237029,
-      "name": "Tiempos Violentos (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
+      "duration_ms": 229960,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 115373,
-      "name": "Candy Darling",
-      "url": "https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz"
+      "duration_ms": 200426,
+      "name": "My Baby Wants A Baby",
+      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Chloe In The Afternoon",
-      "url": "https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP"
+      "duration_ms": 227826,
+      "name": "All My Stars Aligned",
+      "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marry Me",
-        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
       "artists": [
         {
@@ -812,15 +812,15 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 227826,
-      "name": "All My Stars Aligned",
-      "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
+      "duration_ms": 175786,
+      "name": "Chloe In The Afternoon",
+      "url": "https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "The Nowhere Inn",
+        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 244840,
-      "name": "The Strangers",
-      "url": "https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR"
+      "duration_ms": 33453,
+      "name": "Carrie Voicemail",
+      "url": "https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo"
     },
     {
       "added_at": null,

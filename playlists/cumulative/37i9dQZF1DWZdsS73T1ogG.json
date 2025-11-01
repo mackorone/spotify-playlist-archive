@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Ryan Castro",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: De La Rose & Eladio Carrion",
   "name": "el nuevo urbano",
   "tracks": [
+    {
+      "album": {
+        "name": "$extape",
+        "url": "https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244894,
+      "name": "$extape",
+      "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
+    },
     {
       "album": {
         "name": "+ Paca M\u00e1s El\u00e1stico",
@@ -1006,6 +1028,36 @@
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
+    },
+    {
+      "album": {
+        "name": "444 (Remix)",
+        "url": "https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299325,
+      "name": "444 - Remix",
+      "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
     },
     {
       "album": {
@@ -5930,6 +5982,28 @@
       "duration_ms": 189600,
       "name": "Blunt",
       "url": "https://open.spotify.com/track/6QIZZAq8DnZ3ull7MW167v"
+    },
+    {
+      "album": {
+        "name": "BOBADITA",
+        "url": "https://open.spotify.com/album/5P3zmTUYu5O7NaFXCrRDHX"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244333,
+      "name": "BOBADITA",
+      "url": "https://open.spotify.com/track/52IeC2QBiJqk9jAR5gbe14"
     },
     {
       "album": {
@@ -11203,6 +11277,44 @@
     },
     {
       "album": {
+        "name": "Desorden",
+        "url": "https://open.spotify.com/album/1gBxoKDyltZUjBiJlcJnh0"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182816,
+      "name": "Desorden",
+      "url": "https://open.spotify.com/track/0rbmAwml0Q0x0jS36Z2Zuv"
+    },
+    {
+      "album": {
         "name": "MJ",
         "url": "https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp"
       },
@@ -12296,7 +12408,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 146553,
       "name": "DRINKS",
       "url": "https://open.spotify.com/track/3x2UEWj7M3zQ4r47shqkd7"
@@ -12988,7 +13100,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 140017,
       "name": "El Del Flavor",
       "url": "https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8"
@@ -13872,6 +13984,54 @@
       "duration_ms": 164465,
       "name": "Encerra' en Casa",
       "url": "https://open.spotify.com/track/5L0VzdSpg5XMy3Kwiucloe"
+    },
+    {
+      "album": {
+        "name": "Enchulau",
+        "url": "https://open.spotify.com/album/1evcBKzCayjdRT3S5HQLo3"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "L-O-N",
+          "url": "https://open.spotify.com/artist/3nzfJeScfLaqasTrNn2QGj"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Enchulau",
+      "url": "https://open.spotify.com/track/2tREio1GBE7sG02jAdfeQP"
+    },
+    {
+      "album": {
+        "name": "ENDEMO",
+        "url": "https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2"
+      },
+      "artists": [
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356033,
+      "name": "ENDEMO",
+      "url": "https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg"
     },
     {
       "album": {
@@ -17112,7 +17272,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 147096,
       "name": "GLOSS DIOR",
       "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
@@ -22272,7 +22432,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 187428,
       "name": "LEGENDARIOS",
       "url": "https://open.spotify.com/track/7ATFG7dhmhofQZTf82bCOF"
@@ -23324,7 +23484,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 162912,
       "name": "L\u00e1grimas En La Playa",
       "url": "https://open.spotify.com/track/649ghezPxFFHVNQ0oQDgM2"
@@ -25548,7 +25708,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 176845,
       "name": "MI ALGO",
       "url": "https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK"
@@ -25950,6 +26110,44 @@
       "duration_ms": 183333,
       "name": "Mi Peor Error",
       "url": "https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB"
+    },
+    {
+      "album": {
+        "name": "Mi Perra Es",
+        "url": "https://open.spotify.com/album/4LDPfPrYt6vM1l9Ae5htIu"
+      },
+      "artists": [
+        {
+          "name": "LEANDRO",
+          "url": "https://open.spotify.com/artist/2BFWa30G0rc3ll9oY2BA3F"
+        },
+        {
+          "name": "KEICY",
+          "url": "https://open.spotify.com/artist/2Ep5jp8iscI74sMi7XNrvy"
+        },
+        {
+          "name": "Leandro Santos",
+          "url": "https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4"
+        },
+        {
+          "name": "WestCOL",
+          "url": "https://open.spotify.com/artist/7aHjCnaU9hjEKutc27SJxE"
+        },
+        {
+          "name": "Manix",
+          "url": "https://open.spotify.com/artist/1eJ5J8WxQ0FVGfvh5s9fkk"
+        },
+        {
+          "name": "Kavy Kali",
+          "url": "https://open.spotify.com/artist/77bweg7RoY35EmCC7kFXOc"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245161,
+      "name": "Mi Perra Es",
+      "url": "https://open.spotify.com/track/7uyMSEjNulquqW61YOod7z"
     },
     {
       "album": {
@@ -27474,6 +27672,10 @@
         {
           "name": "Topboy TGR",
           "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "Kzadores",
+          "url": "https://open.spotify.com/artist/4y6AiRdD8ZaV9DbpmsQdei"
         }
       ],
       "date_added": "2025-10-27",
@@ -30662,7 +30864,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 156033,
       "name": "P*ter\u00eda",
       "url": "https://open.spotify.com/track/6uh5QlrDzUlw54pZ3zUOC4"
@@ -31888,7 +32090,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 255319,
       "name": "Party Privado (feat. Raul Clyde)",
       "url": "https://open.spotify.com/track/5HYNvdGdepoSArZ1fW1x8v"
@@ -32680,7 +32882,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 181892,
       "name": "Perreo \u00c9lite",
       "url": "https://open.spotify.com/track/1dUE5pUpMRod8lKuej9ji3"
@@ -32938,6 +33140,32 @@
       "duration_ms": 182400,
       "name": "Piensas En Mi",
       "url": "https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY"
+    },
+    {
+      "album": {
+        "name": "Pieza Exhibici\u00f3n",
+        "url": "https://open.spotify.com/album/7p5H5BRUqMenAPNZmLsiuX"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283668,
+      "name": "Pieza Exhibici\u00f3n",
+      "url": "https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp"
     },
     {
       "album": {
@@ -33224,7 +33452,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 236580,
       "name": "Playita",
       "url": "https://open.spotify.com/track/0ZebCJ9HYw4l8wDIA0t4kE"
@@ -33574,7 +33802,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 136615,
       "name": "Por Amor",
       "url": "https://open.spotify.com/track/6OiLsc7FEiM9mLwW3W92cz"
@@ -34132,6 +34360,28 @@
       "duration_ms": 245760,
       "name": "Primer Lugar",
       "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
+    },
+    {
+      "album": {
+        "name": "LA DIRTY HOUSE",
+        "url": "https://open.spotify.com/album/0H8xh634nCrEwSpxfxFeFA"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rowma",
+          "url": "https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193109,
+      "name": "PRIMERA CLASE",
+      "url": "https://open.spotify.com/track/411DTYa3rdOors6tscYDSk"
     },
     {
       "album": {
@@ -37299,6 +37549,24 @@
     },
     {
       "album": {
+        "name": "ScattPack",
+        "url": "https://open.spotify.com/album/2ZIICLtPZ2LEgg2rqMPoN4"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "ScattPack",
+      "url": "https://open.spotify.com/track/2l8uaEndVVJ6wlXgv4qHYA"
+    },
+    {
+      "album": {
         "name": "SCORPIO",
         "url": "https://open.spotify.com/album/63lPDlkhYUJdGIfInXAosy"
       },
@@ -40182,7 +40450,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 195652,
       "name": "Suiza",
       "url": "https://open.spotify.com/track/0AZ7BmqJF6zwcbRnV8RKF4"
@@ -41122,6 +41390,28 @@
       "duration_ms": 200506,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
+    },
+    {
+      "album": {
+        "name": "te imaginas?",
+        "url": "https://open.spotify.com/album/3KfXukZtzQ8UCTq3vCoY4S"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00ed",
+          "url": "https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ"
+        },
+        {
+          "name": "BASSYY",
+          "url": "https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "te imaginas?",
+      "url": "https://open.spotify.com/track/5UiSlL2QwvR7WHWjMyDYWg"
     },
     {
       "album": {
@@ -44570,7 +44860,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 147482,
       "name": "U\u00f1as Afiladas",
       "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"

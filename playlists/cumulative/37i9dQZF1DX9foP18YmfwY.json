@@ -2971,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "Neste Lugar H\u00e1 Poder",
+        "url": "https://open.spotify.com/album/2TMrjUKjwf5CrZ8bGSpg9R"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        },
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365989,
+      "name": "Neste Lugar H\u00e1 Poder - Ao Vivo",
+      "url": "https://open.spotify.com/track/2m99EkDjjEJzLd2bU4QZaV"
+    },
+    {
+      "album": {
         "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
       },
@@ -3880,7 +3902,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 218599,
       "name": "Seguir Viagem",
       "url": "https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg"

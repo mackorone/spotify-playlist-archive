@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Welcome to My World",
+        "url": "https://open.spotify.com/album/4SdLtYp7F85nVAAmEWy8j7"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179019,
+      "name": "Welcome to My World",
+      "url": "https://open.spotify.com/track/3aGUMAygaH3ne0AXyutHle"
+    },
+    {
+      "album": {
         "name": "What a Feeling",
         "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
       },

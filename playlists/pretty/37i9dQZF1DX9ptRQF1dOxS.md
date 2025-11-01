@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: FKA twigs<br/>💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,008 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,006 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cheap Hotel](https://open.spotify.com/track/41zAokFNg9C9PoQWUwNLnc) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/219sgEyBTSG8rrjI0cPZj2) | 3:30 |
+| 1 | [Cheap Hotel](https://open.spotify.com/track/41zAokFNg9C9PoQWUwNLnc) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/219sgEyBTSG8rrjI0cPZj2) | 3:32 |
 | 2 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 |
 | 3 | [This Woman's Work](https://open.spotify.com/track/7GRMSK8jCD7zTNM9vGFaBi) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World](https://open.spotify.com/album/7EB9bQqKddQyAkNGYEpco1) | 3:38 |
 | 4 | [Faithfulness](https://open.spotify.com/track/7r4pYs338gSzvvtEgNgjPi) | [Skin](https://open.spotify.com/artist/0HIhHN1AjF18APmk5yIEZY) | [Fleshwounds](https://open.spotify.com/album/0hZhk6QVZn28yLxq9A7V8D) | 4:03 |

@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 201428,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/5AlT85aYdhGZu212LSLB8t"
@@ -2928,6 +2928,36 @@
       "duration_ms": 195443,
       "name": "Tickete$",
       "url": "https://open.spotify.com/track/458EoGLFOBxgHH8NqPRoN0"
+    },
+    {
+      "album": {
+        "name": "La Ausencia del Descanso",
+        "url": "https://open.spotify.com/album/6AX2fPHjtS3QvlxCS8vCAq"
+      },
+      "artists": [
+        {
+          "name": "Afterclass",
+          "url": "https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N"
+        },
+        {
+          "name": "Vic Deal",
+          "url": "https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ"
+        },
+        {
+          "name": "Luis7Lunes",
+          "url": "https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB"
+        },
+        {
+          "name": "Maco Maat",
+          "url": "https://open.spotify.com/artist/29W1vGuAmmxv2FhBDxmCg9"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184746,
+      "name": "Tiempos de Sequ\u00eda",
+      "url": "https://open.spotify.com/track/47KE9G86rxB7qR7leqWEpo"
     },
     {
       "album": {

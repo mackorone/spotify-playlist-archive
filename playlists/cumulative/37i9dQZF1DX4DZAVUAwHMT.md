@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Witch Fever
 
-1,184 songs - 2 day 18 hr 1 min
+1,184 songs - 2 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,7 +438,7 @@
 | [Hard Feelings](https://open.spotify.com/track/4BaX0wDUFPhBAoCpkOUCaX) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hard Feelings](https://open.spotify.com/album/41FGOYGw8gSYZ1t4YTYUHp) | 2:54 | 2023-02-17 | 2023-05-05 |
 | [HATE 2 LUV U](https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HATE 2 LUV U](https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj) | 2:57 | 2023-11-24 | 2023-12-01 |
 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 | 2024-09-20 | 2024-12-20 |
-| [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [](https://open.spotify.com/album/null) | 3:56 | 2025-10-31 |  |
+| [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 | 2025-10-31 |  |
 | [Headstones](https://open.spotify.com/track/4nHFfSDh3pX9uBr86FLVwf) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Headstones](https://open.spotify.com/album/3AscAyjq1SctzFVi1YoC4U) | 3:01 | 2025-06-05 | 2025-07-25 |
 | [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 | 2023-09-21 | 2023-10-27 |
 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 | 2023-02-17 | 2023-07-14 |
@@ -501,6 +501,7 @@
 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 | 2023-02-03 | 2023-03-03 |
 | [I Love You](https://open.spotify.com/track/08dtFS80qE37EvWufccmoK) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 3:06 | 2023-10-06 | 2023-10-27 |
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-11-15 | 2025-03-07 |
+| [I SEE IT](https://open.spotify.com/track/1pR7qxJIY5rGubSBQnDQdO) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [FEVEREATEN](https://open.spotify.com/album/0UvNdmhApnZZ4WCozEv6CP) | 3:51 | 2025-10-31 |  |
 | [I Steal What I Want](https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED](https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ) | 2:06 | 2025-08-07 | 2025-09-12 |
 | [I Used To Be A Real Piece Of Shit](https://open.spotify.com/track/4TdEpIsXQytCXjWxxegZdt) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [I Used To Be A Real Piece Of Shit](https://open.spotify.com/album/4SpOELLHyGJCAvRJsMYvuT) | 1:58 | 2024-09-12 | 2024-12-20 |
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-07-27 | 2023-10-06 |
@@ -1073,7 +1074,6 @@
 | [tough love](https://open.spotify.com/track/6ERnRiuKn7UoPjnrPIPkj5) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [tough love](https://open.spotify.com/album/5yAFypkqbOtxBzfI4AqQe9) | 4:31 | 2025-09-11 | 2025-10-10 |
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-09-11 |  |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 |  |
-| [Track 12](https://open.spotify.com/track/1pR7qxJIY5rGubSBQnDQdO) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-31 |  |
 | [trainers](https://open.spotify.com/track/23vLeNNP8fSyjyW8E7ruLg) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [rl stine](https://open.spotify.com/album/1Kr3GUqBV7mcSFLE7UD0AQ) | 2:45 | 2025-10-02 | 2025-10-31 |
 | [Trash Puppy](https://open.spotify.com/track/1ywFs89j3YEMzc69fYRDdZ) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Cream](https://open.spotify.com/album/2QhlzKJweHYmtFZByf51qc) | 3:08 | 2023-11-17 | 2023-11-18 |
 | [Trash Puppy](https://open.spotify.com/track/3oTsGbcgAedlZwLY2425L0) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Cream](https://open.spotify.com/album/6YwvYiSdEW6AULeLF5imiQ) | 3:08 | 2023-11-17 | 2024-01-19 |

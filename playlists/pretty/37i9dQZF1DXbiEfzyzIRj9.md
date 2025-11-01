@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,041 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,039 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [more soul](https://open.spotify.com/track/6n8cm6hPcYMYOUtdIjDkSC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:17 |
 | 100 | [Echoes feat\. Aile The Shota](https://open.spotify.com/track/1iw02L4YO5K6wlcDM0rAcp) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Echoes feat\. Aile The Shota](https://open.spotify.com/album/3wh9fOOwGxXmjicOYbFKtn) | 5:22 |
 
-Snapshot ID: `AAAAAGlMSVaj5ZzcY39oujBhBz25laYj`
+Snapshot ID: `AAAAALRT+7wYBeDwqG0giDuevvrPhFYI`

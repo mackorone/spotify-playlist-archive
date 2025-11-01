@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Charlie Charles in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,791 likes - 73 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,820 likes - 73 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

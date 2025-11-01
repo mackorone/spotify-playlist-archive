@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Sped up songs on the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Nightcore\. Sped up nightcore.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 23,854 likes - 51 songs - 2 hr 25 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 23,856 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

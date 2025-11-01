@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: OG
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,744 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,130 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Odiyamma \(From "Hi Nanna"\) \[TELUGU\]](https://open.spotify.com/track/1g9V1QE7vbeAx5Xm04DfLi) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Odiyamma \(From "Hi Nanna"\) \[TELUGU\]](https://open.spotify.com/album/3l0neQyP1UjjSFoyCtxS75) | 3:15 |
 | 50 | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG) | 3:24 |
 
-Snapshot ID: `AAAAAJA36DruuQj2/nrQ4swAzL3+CUqc`
+Snapshot ID: `AAAAAOiCRSdwO+3cxbpqNMCOqBu0Lv4Q`

@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 93196,
+  "num_followers": 93208,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Killer Queen - Remastered 2011",
-      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "The Four Seasons",
-          "url": "https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 434720,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "The Four Seasons",
+          "url": "https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 231560,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "The Best Of Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/6W7na0F9qczswPzdb42rZO"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Love Come Down - Single Version",
-      "url": "https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Good Times: The Very Best Of Chic & Sister Sledge",
         "url": "https://open.spotify.com/album/5kPejohrlhJVzEBxMObjDU"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 247666,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/2tSzHVPE05bV6mFwm2Tndd"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "The Best Of Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/6W7na0F9qczswPzdb42rZO"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Love Come Down - Single Version",
+      "url": "https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR"
     },
     {
       "added_at": "2024-03-26 13:49:34",

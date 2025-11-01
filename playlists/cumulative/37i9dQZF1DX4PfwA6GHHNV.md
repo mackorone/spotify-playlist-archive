@@ -4,7 +4,7 @@
 
 > afrobeats daqui, de fora, de todos os cantos
 
-238 songs - 11 hr 51 min
+239 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Do Nada](https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah) | [Do Nada](https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F) | 3:25 | 2023-09-29 | 2024-04-06 |
 | [Doce](https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Doce](https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH) | 2:35 | 2024-06-28 | 2025-06-28 |
 | [Doce de Latche](https://open.spotify.com/track/3YacGCNqPQFiN7kRfpDPkV) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH) | [It Girl Pt\. 2](https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK) | 2:55 | 2024-04-19 | 2024-07-06 |
-| [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 | 2024-11-01 |  |
+| [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 | 2024-11-01 | 2025-11-01 |
 | [Ela Quer Fumar](https://open.spotify.com/track/2cYM45KrFyawEUL9uGfuXN) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Escolhas e Reflexos](https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5) | 3:22 | 2024-11-08 | 2025-03-25 |
 | [Ele Disse](https://open.spotify.com/track/57fStA0bfvW3G9i08Ik1Q9) | [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Ele Disse](https://open.spotify.com/album/0r1PYxqazNEdKfQKM9JJ9L) | 2:52 | 2025-07-11 | 2025-08-19 |
 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 | 2023-11-03 | 2023-12-02 |
@@ -236,6 +236,7 @@
 | [VERÃO](https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 3:34 | 2024-03-01 | 2025-07-15 |
 | [Vibe](https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Vibe](https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX) | 2:30 | 2025-02-21 |  |
 | [Vitória Brindar](https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Vitória Brindar](https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O) | 3:17 | 2023-10-27 | 2023-11-11 |
+| [Wallah Wallah](https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Wallah Wallah](https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p) | 2:22 | 2025-10-31 |  |
 | [Wifi](https://open.spotify.com/track/2TFk8hcQ7aLErud6AbhKLo) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 3:20 | 2024-07-05 | 2024-08-10 |
 | [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 | 2023-09-15 | 2024-11-02 |
 | [YESHUA](https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [YESHUA](https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx) | 2:40 | 2024-08-30 | 2024-11-23 |

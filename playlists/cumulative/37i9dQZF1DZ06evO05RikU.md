@@ -4,7 +4,7 @@
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 41 min
+94 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Si Me Ven Llorando](https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:13 | 2025-08-25 |  |
 | [Siempre Llegas Tarde](https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:38 | 2025-08-14 |  |
 | [Siempre Llegas Tarde](https://open.spotify.com/track/3kn0PVkaeJQ0yxtemQRJ6D) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Siempre Llegas Tarde](https://open.spotify.com/album/51vlzBXDLGLc1St5xOc8hr) | 2:38 | 2024-07-21 | 2025-08-14 |
-| [Solo Yo](https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Solo Yo](https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z) | 4:08 | 2023-09-25 |  |
+| [Solo Yo](https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Solo Yo](https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z) | 4:08 | 2023-09-25 | 2025-11-01 |
+| [Solo Yo](https://open.spotify.com/track/4DWTVpNexbmJIVc2AmNEZc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 4:08 | 2025-11-01 |  |
 | [Tell Me \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7MszYozBEVXQ846HIedBV1) | [AXSHN](https://open.spotify.com/artist/0riQwemsOuO4qtu9Kdqv9i), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Tell Me \(feat\. Sofia Reyes\)](https://open.spotify.com/album/0qvgH8vp9fR5hDEiRuC5by) | 3:11 | 2023-09-25 | 2023-10-11 |
 | [TICK TOCK](https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [TICK TOCK](https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb) | 2:51 | 2023-09-25 | 2025-03-12 |
 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-09-25 |  |

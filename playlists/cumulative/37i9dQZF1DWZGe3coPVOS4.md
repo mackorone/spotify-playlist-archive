@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-109 songs - 5 hr 18 min
+110 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Heaven](https://open.spotify.com/track/4wtMlbWmelUHUR0KI36w8C) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:06 | 2023-07-14 | 2024-07-16 |
 | [HOT TO GO!](https://open.spotify.com/track/19Gh9vtYx8Jwe3kkynR8dA) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [HOT TO GO!](https://open.spotify.com/album/5v5NhSYwKmuQbtB7caQhtR) | 3:05 | 2024-11-22 |  |
 | [Houdini](https://open.spotify.com/track/2Nwn4dQ20bDNcxLXF59Kn9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Houdini](https://open.spotify.com/album/3cN7jPYAA3oxyEOu0Or6sr) | 3:00 | 2024-02-16 | 2024-07-16 |
-| [I Ain't Worried](https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:22 | 2023-06-09 |  |
+| [I Ain't Worried](https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:22 | 2023-06-09 | 2025-11-01 |
 | [I Wrote A Song](https://open.spotify.com/track/2CdRAA3ePcENTDoslY7Gmv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Wrote A Song](https://open.spotify.com/album/4eGsdwxe0rSrNQslZcgmCu) | 3:04 | 2023-06-09 | 2023-07-15 |
 | [I Wrote A Song](https://open.spotify.com/track/11VcpT6pAf1DDqnDEvqZdt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:04 | 2023-07-14 | 2024-07-16 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4H7g8si45lsEWcO6sBYzZp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:42 | 2023-06-09 | 2024-11-23 |
@@ -105,6 +105,7 @@
 | [Sure Thing](https://open.spotify.com/track/6xK0Wl7bMml6WIVpf1T7Rp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Sure Thing](https://open.spotify.com/album/0yHOOLzYRp9n05wnXCF9Lw) | 3:17 | 2023-06-09 | 2023-07-15 |
 | [Sure Thing \- Sped Up Version](https://open.spotify.com/track/4Ru4657V9SSJz1ZAsUxDR2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/7k3oURmxEIjTeGxIXbMIUK) | 2:30 | 2023-06-09 | 2024-07-16 |
 | [Tattoo](https://open.spotify.com/track/0vZ4wU5lqTuDw1ieuCxvEp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:55 | 2024-01-22 | 2024-07-16 |
+| [Tears](https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Tears](https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A) | 2:31 | 2025-10-31 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TEXAS HOLD 'EM](https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF) | 3:35 | 2024-05-03 |  |
 | [TOO MUCH](https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TOO MUCH](https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku) | 2:10 | 2024-03-08 |  |
 | [TQG](https://open.spotify.com/track/5rpsAg6usB6NepA846O9K1) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:47 | 2023-07-14 | 2024-07-16 |

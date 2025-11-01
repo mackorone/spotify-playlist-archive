@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 甜約翰 \(Sweet John\)
 
-782 songs - 2 day 3 hr 1 min
+783 songs - 2 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Across the River](https://open.spotify.com/track/13jvrpQwaWrKcUdpDrfYpw) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [Across the River](https://open.spotify.com/album/79E1mJ4t8JXKDLriU6fIVy) | 4:04 | 2025-03-27 | 2025-04-11 |
 | [Action（From《AFTER SCOOL》男團選秀Attention小分隊）](https://open.spotify.com/track/5TCBjDJ00x81AvX4T7BWkc) | [SCOOL](https://open.spotify.com/artist/39fvShWcI12gynGYyEOTeb) | [《AFTER SCOOL》畢業紀念專輯：Cerememory](https://open.spotify.com/album/6p8i0dRqW5PTDn7l2SXgJQ) | 3:10 | 2025-09-04 | 2025-09-26 |
 | [Agile 還](https://open.spotify.com/track/3x5CEnZovZMtaD5v3gkdSf) | [Zy The Way 中庸](https://open.spotify.com/artist/07qnej9HNl1dlS6bC17KON) | [Then and Now 溯](https://open.spotify.com/album/0YCmqpCKjxbDrWywJtHcgm) | 5:01 | 2024-11-21 | 2024-12-13 |
+| [All Money Back My Home](https://open.spotify.com/track/13JAgWw8UW97CA3rHNYVUY) | [固定客](https://open.spotify.com/artist/75gIu5RpeMPXybm4R51oIw) | [All Money Back My Home](https://open.spotify.com/album/418GC66DBbEzy1Z5copY3D) | 3:27 | 2025-10-31 |  |
 | [All On You](https://open.spotify.com/track/5xoZa4sntDk7Bj2QTmoD7c) | [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO), [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [DCIV](https://open.spotify.com/artist/1ek0Tv8frXGgW6GCCE2jit), [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Star Wu](https://open.spotify.com/artist/41imUY7LVjxTpJwTDgDR6v), [That's My Shhh](https://open.spotify.com/artist/5iUU1iEJjzYNmZv8l2rMVp) | [All On You](https://open.spotify.com/album/4nwsLD8jhZZcoJA9ZTIGSq) | 6:40 | 2025-03-13 | 2025-04-04 |
 | [Alpha](https://open.spotify.com/track/0bOg6ml6qnG1h9dJWYZpEq) | [ROLLING SISTERS](https://open.spotify.com/artist/3jgF4ElGLpJQDVKCKUmiET), [刘忻](https://open.spotify.com/artist/5UgeL9yjnOMlBvnP4Teawa), [张予曦](https://open.spotify.com/artist/52JuCUosahcqLX8kfYxKB5), [Guo Bi Ting](https://open.spotify.com/artist/62KEagX4r21jbqdcOp5x5O), [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [Alpha](https://open.spotify.com/album/3yWndLFjAvNWIE0fwfP3pA) | 2:38 | 2025-06-19 | 2025-06-27 |
 | [Another Lover](https://open.spotify.com/track/5OjK43v389m7FFt0yDmFEr) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7) | [Still Here](https://open.spotify.com/album/2LQk0SA9eHveBrOPdLwgPN) | 4:52 | 2025-09-11 | 2025-09-26 |
@@ -66,7 +67,7 @@
 | [Fairy on the eaves](https://open.spotify.com/track/1BHJqD9jiTNmDpWQvUWysF) | [蘇菲花園樂隊](https://open.spotify.com/artist/3lrOoXaMTvHP5wzei7fNej) | [Fairy on the eaves](https://open.spotify.com/album/5mAl9dbbvJDUZGXHhCZFXt) | 3:54 | 2025-08-14 | 2025-09-05 |
 | [fallen lights](https://open.spotify.com/track/5adfY8Hw3cK17XjXGqsKzl) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [fallen lights](https://open.spotify.com/album/1kIPthOnebcPIlJGa2QelL) | 3:56 | 2025-05-15 | 2025-06-06 |
 | [Falling](https://open.spotify.com/track/139gIXpLlNmTePIuuIQisj) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [Falling](https://open.spotify.com/album/3S2I89BqUXjD59bDyeTzPX) | 4:54 | 2024-12-26 | 2025-01-17 |
-| [FAR AWAY](https://open.spotify.com/track/7uuZS2YZyI66PRgr0yDk40) | [VOOID](https://open.spotify.com/artist/5KQSa8lX9YzvetL7ol4zeq) | [CYBERPUNK](https://open.spotify.com/album/1m2bldHmr0D2l3SHoKwP5p) | 2:01 | 2025-10-30 |  |
+| [FAR AWAY](https://open.spotify.com/track/7uuZS2YZyI66PRgr0yDk40) | [VOOID](https://open.spotify.com/artist/54vDp6XXiGAYQINLBx59oC) | [CYBERPUNK](https://open.spotify.com/album/1m2bldHmr0D2l3SHoKwP5p) | 2:01 | 2025-10-30 |  |
 | [Fear \- Mong Tong Remix](https://open.spotify.com/track/4amEFQlOmB3cJwy0CEhX5Q) | [Lomboy](https://open.spotify.com/artist/7laFKr0vZdtV9KNGfJ0Ird), [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Fear \(Mong Tong Remix\)](https://open.spotify.com/album/3Gz3xyZhWUfIyvxNEFLu4g) | 3:02 | 2024-10-17 | 2024-11-08 |
 | [FEEL THE FRIGHT](https://open.spotify.com/track/79n4brL0NrPTQmy4MtELBa) | [Nini Music](https://open.spotify.com/artist/4iggZUAEXfBeJH9DjKwccm), [NiNi](https://open.spotify.com/artist/1yRlzSYXePSpSnffspTXYQ) | [FEEL THE FRIGHT](https://open.spotify.com/album/5tqDpYAW88b4QBYnyHNOQA) | 2:40 | 2024-10-24 | 2024-11-01 |
 | [Finally Home](https://open.spotify.com/track/6iR5O2B7JVJTCfHmqrHU4N) | [多樂園](https://open.spotify.com/artist/6mA46tStfzbPs9IyF9Nart) | [Finally Home](https://open.spotify.com/album/198hQcblSP2zjXHYUpScOS) | 5:18 | 2024-12-05 | 2025-05-16 |

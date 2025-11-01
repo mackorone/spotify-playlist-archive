@@ -259,6 +259,22 @@
     {
       "added_at": "2025-10-30 16:00:31",
       "album": {
+        "name": "Kopi Hitam",
+        "url": "https://open.spotify.com/album/4DRpOI4Bmze0VRI5s8eO5r"
+      },
+      "artists": [
+        {
+          "name": "Jasper Supayah",
+          "url": "https://open.spotify.com/artist/36WvSisYnkW9dgAq2rtFzG"
+        }
+      ],
+      "duration_ms": 180557,
+      "name": "Kopi Hitam",
+      "url": "https://open.spotify.com/track/1lEdyWcyCuQcTjcKI9eNAJ"
+    },
+    {
+      "added_at": "2025-10-30 16:00:31",
+      "album": {
         "name": "Jujur Aku Rindu",
         "url": "https://open.spotify.com/album/625AvY0zJWmw3XQLw9ylLF"
       },

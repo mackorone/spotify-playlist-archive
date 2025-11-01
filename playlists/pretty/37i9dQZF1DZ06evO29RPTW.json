@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 132782,
+  "num_followers": 132812,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAsyC8z1pxDnHeMGnU139pn",
+  "snapshot_id": "aQKqgAAAAAAR8LzLAifuwQvvCpn8mXsQ",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 30400,
-      "name": "Call Of The Zombie",
-      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
+      "duration_ms": 251866,
+      "name": "Demonoid Phenomenon",
+      "url": "https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Demonoid Phenomenon",
-      "url": "https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB"
+      "duration_ms": 30400,
+      "name": "Call Of The Zombie",
+      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
     },
     {
       "added_at": null,
@@ -723,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+        "name": "The Matrix Reloaded: The Album",
+        "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Charlie Clouser",
+          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
         }
       ],
-      "duration_ms": 198613,
-      "name": "Lucifer Rising",
-      "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
+      "duration_ms": 265160,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
     },
     {
       "added_at": null,
@@ -755,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Matrix Reloaded: The Album",
-        "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Charlie Clouser",
-          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
         }
       ],
-      "duration_ms": 265160,
-      "name": "Reload",
-      "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
+      "duration_ms": 198613,
+      "name": "Lucifer Rising",
+      "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
     },
     {
       "added_at": null,

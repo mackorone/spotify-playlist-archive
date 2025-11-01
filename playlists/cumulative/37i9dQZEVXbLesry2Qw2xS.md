@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-2,854 songs - 6 day 9 hr 30 min
+2,855 songs - 6 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1412,6 +1412,7 @@
 | [Luukered](https://open.spotify.com/track/5egnjZzhZLuNXluoMmEC6t) | [SADU](https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K) | [PROBLEEMID PARADIISIS](https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH) | 3:56 | 2025-09-25 |  |
 | [Lux Æterna](https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv) | 3:25 | 2022-11-30 | 2022-12-02 |
 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-22 | 2025-02-24 |
+| [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 | 2025-10-31 |  |
 | [LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:40 | 2025-02-05 | 2025-04-12 |
 | [Lyfestylë \(with Lil Wayne\)](https://open.spotify.com/track/15qRV1yUqFR6ViOwxoopod) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:56 | 2024-02-17 | 2024-02-19 |
 | [Läbi roosipõõsaste](https://open.spotify.com/track/4oCqS0d1y53LOD20AbuO77) | [SADU](https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K) | [PROBLEEMID PARADIISIS](https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH) | 2:58 | 2025-09-25 | 2025-10-29 |
@@ -1783,7 +1784,7 @@
 | [Opening Night](https://open.spotify.com/track/4oahRRZECfGud6eL7Lj7CO) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 1:36 | 2025-02-01 | 2025-02-04 |
 | [OPM BABI](https://open.spotify.com/track/76yJsfb1CUy5Um8nFL7jKQ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-15 | 2025-03-22 |
 | [Or What](https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 3:19 | 2024-10-08 | 2024-10-10 |
-| [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-03-27 |  |
+| [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-03-27 | 2025-11-01 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-08 | 2025-03-28 |
 | [Original Don](https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Original Don](https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL) | 2:48 | 2025-09-20 | 2025-09-22 |
 | [ou piff](https://open.spotify.com/track/44ru4YUmYE8iNbZgUl54ZI) | [triibupasta](https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL) | [õlleavaja](https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K) | 2:28 | 2025-05-03 | 2025-09-23 |

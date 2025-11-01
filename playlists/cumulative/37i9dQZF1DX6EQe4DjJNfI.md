@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-315 songs - 16 hr 13 min
+316 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 | 2025-08-01 |  |
 | [Despacha](https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Despacha](https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi) | 2:58 | 2025-08-22 |  |
 | [Detalhes](https://open.spotify.com/track/5Px7eU18TbFlkyNkHGnjR8) | [Bia Torres](https://open.spotify.com/artist/5icJdDlpFGAAPTueX3DqWN), [Badauy](https://open.spotify.com/artist/0ynBSrfkccSeJlzdIqOTHl) | [Detalhes](https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD) | 2:50 | 2024-03-22 | 2024-05-29 |
+| [Deu Fuga](https://open.spotify.com/track/4MBAPktG4S6jq309xDvnYA) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [Deu Fuga](https://open.spotify.com/album/2xIZo4jHK9XWdUgjQfnrGv) | 3:08 | 2025-10-31 |  |
 | [Devi](https://open.spotify.com/track/5tXVcUSWxmyydJJ9IFLfHF) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Melissa Hartman](https://open.spotify.com/artist/7F4XNGirBB17gfXa1yov36), [Leo Ost](https://open.spotify.com/artist/1rQb8CUCS1rCyOCyAg1mJE) | [Devi](https://open.spotify.com/album/0aomgOztLFDXdWKyZJyO02) | 3:16 | 2023-02-24 | 2023-04-09 |
 | [Dias Melhores](https://open.spotify.com/track/1LCSQQmH7VK2Orq5eBDPcL) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Dias Melhores](https://open.spotify.com/album/35R7EwBfYJ4wpsnrbwlQrJ) | 3:00 | 2024-09-20 | 2024-11-16 |
 | [Difícil Lembrar, né?](https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Difícil Lembrar, né?](https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM) | 2:35 | 2022-11-18 | 2023-08-12 |
@@ -320,7 +321,7 @@
 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 | 2024-10-11 |  |
 | [Volta](https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Volta](https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL) | 3:24 | 2022-11-18 | 2024-04-06 |
 | [Voz De Um Querubim](https://open.spotify.com/track/04RTQv2qPDXsbiacFy6DYQ) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Canguru](https://open.spotify.com/artist/4ztqBTwprdTcXkE5Tte6AG), [Macena288](https://open.spotify.com/artist/1E1vrT6H75zBAZOHI9eWWr) | [Voz De Um Querubim](https://open.spotify.com/album/3CwishKgndzmoz94L8Zb8A) | 3:25 | 2024-02-16 | 2024-08-17 |
-| [VVS](https://open.spotify.com/track/2mA2z7NCvYth6TJ6Dw48sJ) | [Emovy](https://open.spotify.com/artist/5Fhn5tGcRvKPO6XmDw1wHA), [Mec slerry](https://open.spotify.com/artist/3g0cylZ3cCuskAYgJQ0wcS), [Ras Akin](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558) | [VVS](https://open.spotify.com/album/3KVPNhmpuYD8BhXUUqUKs4) | 3:41 | 2025-10-24 |  |
+| [VVS](https://open.spotify.com/track/2mA2z7NCvYth6TJ6Dw48sJ) | [Emovy](https://open.spotify.com/artist/5Fhn5tGcRvKPO6XmDw1wHA), [Mec slerry](https://open.spotify.com/artist/3g0cylZ3cCuskAYgJQ0wcS), [Ras Akin](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558) | [VVS](https://open.spotify.com/album/3KVPNhmpuYD8BhXUUqUKs4) | 3:41 | 2025-10-24 | 2025-11-01 |
 | [Água \- Dj Nyack Remix](https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Vico](https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Água \(Dj Nyack Remix\)](https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx) | 3:53 | 2023-03-10 | 2023-07-22 |
 | [Águias e Sereias](https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Sentido](https://open.spotify.com/album/2bSaKc16naXhVcu5LGBj35) | 3:49 | 2024-09-27 | 2024-10-05 |
 

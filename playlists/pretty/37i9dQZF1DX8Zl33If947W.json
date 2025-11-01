@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 196577,
+  "num_followers": 196624,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Bunte Scherben",
-        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
-      },
-      "artists": [
-        {
-          "name": "Keimzeit",
-          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Kling Klang",
-      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Was Muss Muss - Best Of",
         "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 209720,
       "name": "Demo (Letzter Tag)",
       "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Bunte Scherben",
+        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
+      },
+      "artists": [
+        {
+          "name": "Keimzeit",
+          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Kling Klang",
+      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
     },
     {
       "added_at": "2025-03-26 13:54:44",

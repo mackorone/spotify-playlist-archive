@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Dept
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Plastic Plastic​
 
-146 songs - 10 hr 10 min
+147 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 | 2024-06-27 | 2024-09-21 |
 | [พื้นที่ความทรงจำ](https://open.spotify.com/track/7D8eiRaPyZjdn32F6y9Zo3) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [พื้นที่ความทรงจำ](https://open.spotify.com/album/6wAd9J32861HPk1QYhJZWm) | 4:21 | 2025-08-22 | 2025-10-25 |
 | [มอง=กอด](https://open.spotify.com/track/7yKGkOde6ogB4MjpNVDajp) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [มอง=กอด](https://open.spotify.com/album/5S868uu0jbeLlwQinp6Ecs) | 4:01 | 2025-05-16 |  |
+| [มีชีวิต \(Alive\)](https://open.spotify.com/track/21NBknen0yxwugDGFPYXy1) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Alive](https://open.spotify.com/album/6iG4T2CRpmPDsj8VRTBZAJ) | 3:42 | 2025-10-31 |  |
 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-06-27 | 2024-11-09 |
 | [ยังดี \(You\)](https://open.spotify.com/track/0oZh9OKGPeyDPVzh1eJNaK) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [Common Sense](https://open.spotify.com/album/4Xd1G8WXQb9p8KeB3OnayE) | 3:43 | 2025-08-15 | 2025-10-25 |
 | [ยังมี \| Better Next Day](https://open.spotify.com/track/6vzHVDu4OtkvXcGar8mDM2) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ยังมี \| Better Next Day](https://open.spotify.com/album/7bqfOLuEACwFsP7mcJNvV0) | 2:56 | 2025-03-21 | 2025-08-23 |
@@ -131,7 +132,7 @@
 | [เวลากะเลยทุย \(otwwwww\) \(feat\. Pearprapa\)](https://open.spotify.com/track/1LQ1mZIeVfIED2q2KgXd2H) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of), [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [เวลากะเลยทุย \(otwwwww\) \(feat\. Pearprapa\)](https://open.spotify.com/album/1GKeEQ1JOV89q69IAMmR5X) | 3:10 | 2024-10-04 | 2024-10-19 |
 | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/track/6nGCZQxuPyeLLMZLt9oIr0) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/album/4WuZYQx6xvRxwvhlNqroZl) | 4:03 | 2025-07-18 |  |
 | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2024-06-27 | 2025-05-17 |
-| [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 | 2024-06-27 |  |
+| [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 | 2024-06-27 | 2025-11-01 |
 | [แด่ทุกความหวัง](https://open.spotify.com/track/0vnuqB3psAS2HImfo0C3BD) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [แด่ทุกความหวัง](https://open.spotify.com/album/332NqRo6dLl5YgjpYfN96P) | 3:53 | 2024-10-18 | 2025-03-01 |
 | [แบบที่ฉันเคยทำ](https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [แบบที่ฉันเคยทำ](https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL) | 4:16 | 2024-06-27 | 2025-05-02 |
 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 | 2024-06-27 | 2024-07-27 |

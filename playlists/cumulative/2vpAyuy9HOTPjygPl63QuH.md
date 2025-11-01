@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,320 songs - 5 day 10 hr 53 min
+2,321 songs - 5 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1677,6 +1677,7 @@
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-04-21 | 2023-04-29 |
 | [Rock With It](https://open.spotify.com/track/0DERnltMeapqQ0vvRDjAmR) | [Erick Diaz](https://open.spotify.com/artist/4avEqbkqIkOS7xEPy7ixDm), [Freshcobar](https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd), [Lavelle Dupree](https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m) | [Rock With It](https://open.spotify.com/album/6dg209L4D2gPURC2z9s45X) | 3:57 | 2024-07-17 | 2024-08-31 |
 | [Rockin'](https://open.spotify.com/track/4Hh7h8a7S1Q0LjZFwn56lg) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Rockin'](https://open.spotify.com/album/7veglwyYAQL5LV1lHbhfnU) | 2:58 | 2024-06-13 | 2024-07-08 |
+| [Rockin' With](https://open.spotify.com/track/0p4fVoWXtS4IINstVnnNr0) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [KARTY](https://open.spotify.com/artist/1d4NBnW4o8yblqpLJ0EEci) | [Rockin' With](https://open.spotify.com/album/0hE8oNAQqvLNVrXpGAXkmR) | 3:09 | 2025-10-31 |  |
 | [Rockstar](https://open.spotify.com/track/73Isx1gb055c1VEHleCdn9) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Pitros](https://open.spotify.com/artist/1qoyJsbPjo0dpWnfSlRGLv) | [Rockstar](https://open.spotify.com/album/0Nu3frQlJLyJDGMqatvJFB) | 2:31 | 2024-11-29 | 2025-01-25 |
 | [Rodeo](https://open.spotify.com/track/3n7bTMRshWeaIcl8mfJboJ) | [Frents](https://open.spotify.com/artist/4vc5Jd6VrKpKcsimzyMYFK) | [Casse Croûte Sampler Vol\. 01](https://open.spotify.com/album/5nhCaLvXOG3NYQJObiBahC) | 3:49 | 2022-09-02 | 2022-09-10 |
 | [Roll Deep](https://open.spotify.com/track/0aM9pyp7B9aCcuhac1Rmov) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [JSED](https://open.spotify.com/artist/2cmDOnKaD2t6yi7uMc9CCq) | [Roll Deep](https://open.spotify.com/album/6vTSZuSEzAauBKX1A6rH7c) | 2:40 | 2024-02-04 | 2024-03-16 |

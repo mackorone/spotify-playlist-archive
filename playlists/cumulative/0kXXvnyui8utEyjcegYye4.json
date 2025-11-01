@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/4Fztm0SXyoQpQhoHivKYq6"
+      },
+      "artists": [
+        {
+          "name": "Grioten",
+          "url": "https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt"
+        },
+        {
+          "name": "xlout",
+          "url": "https://open.spotify.com/artist/75PX8lcu5vm4c9HOCqB6KX"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98572,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/0VYwkWxC5VpIN2yBwp3Ehk"
+    },
+    {
+      "album": {
         "name": "After Hours (Deluxe)",
         "url": "https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7"
       },

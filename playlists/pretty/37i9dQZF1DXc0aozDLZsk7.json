@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 576078,
+  "num_followers": 576091,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-10-09 22:15:12",
       "album": {
+        "name": "Can I Be Him (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Can I Be Him - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+    },
+    {
+      "added_at": "2025-10-09 22:15:12",
+      "album": {
         "name": "Hurt Somebody",
         "url": "https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 168640,
       "name": "Hurt Somebody (With Julia Michaels)",
       "url": "https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe"
-    },
-    {
-      "added_at": "2025-10-09 22:15:12",
-      "album": {
-        "name": "Can I Be Him (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Can I Be Him - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
     },
     {
       "added_at": "2025-10-09 22:15:12",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-10-09 22:15:12",
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 201657,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
+    },
+    {
+      "added_at": "2025-10-09 22:15:12",
+      "album": {
         "name": "brent ii",
         "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
-    },
-    {
-      "added_at": "2025-10-09 22:15:12",
-      "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 201657,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
     },
     {
       "added_at": "2025-10-09 22:15:12",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-10-09 22:15:12",
       "album": {
-        "name": "Let\u2019s Go Home Together",
-        "url": "https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 208692,
-      "name": "Let\u2019s Go Home Together",
-      "url": "https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA"
-    },
-    {
-      "added_at": "2025-10-09 22:15:12",
-      "album": {
         "name": "Crying Over You",
         "url": "https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 178949,
       "name": "Crying Over You",
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
+    },
+    {
+      "added_at": "2025-10-09 22:15:12",
+      "album": {
+        "name": "Let\u2019s Go Home Together",
+        "url": "https://open.spotify.com/album/7DrqGKIDV8xq1LwSTlEqlv"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 208692,
+      "name": "Let\u2019s Go Home Together",
+      "url": "https://open.spotify.com/track/53fP1JzpjywHdJKx1flKCA"
     },
     {
       "added_at": "2025-10-09 22:15:12",

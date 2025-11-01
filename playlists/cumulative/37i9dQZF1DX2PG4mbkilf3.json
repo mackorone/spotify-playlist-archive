@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, featuring Daniel Caesar from Oshawa, ON.",
+  "description": "Your guide to R&B in Canada, featuring Lou Val from Toronto, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 254320,
       "name": "All to Myself",
       "url": "https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 163221,
       "name": "Behave !",
       "url": "https://open.spotify.com/track/0V5JH4ELW3bvWnpmbwZ0Zs"
@@ -7178,7 +7178,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 156839,
       "name": "enough",
       "url": "https://open.spotify.com/track/7vUA3US7bDT9ggWKZuudDk"
@@ -11009,6 +11009,24 @@
     },
     {
       "album": {
+        "name": "Here nor there",
+        "url": "https://open.spotify.com/album/7IngwF6npRbqJSPEMLGZvx"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159408,
+      "name": "I get u bby",
+      "url": "https://open.spotify.com/track/0NwpFfqxAOvGDodAAZgEf5"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/5g8acbr044Lsjpxl8WoJln"
       },
@@ -11436,6 +11454,28 @@
       "duration_ms": 211468,
       "name": "If I Get Caught - Spotify Singles",
       "url": "https://open.spotify.com/track/2B7ttNw5LpZxTcXAQ1u817"
+    },
+    {
+      "album": {
+        "name": "If I Knew About It",
+        "url": "https://open.spotify.com/album/55cUnJjHrLtLxjvlE6EMpa"
+      },
+      "artists": [
+        {
+          "name": "The Liquor Store",
+          "url": "https://open.spotify.com/artist/1wTJHudeVpwXvplnDjtdRX"
+        },
+        {
+          "name": "Malia Laura",
+          "url": "https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "If I Knew About It",
+      "url": "https://open.spotify.com/track/67XDmh8yohiX7NCa9Mb5Xg"
     },
     {
       "album": {
@@ -12358,6 +12398,24 @@
       "duration_ms": 211727,
       "name": "just a call away (feat. Lafa Taylor & Mr. Carmack)",
       "url": "https://open.spotify.com/track/72ixJIhUCZMwIw0Ooxoqoe"
+    },
+    {
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/5bGu5nboSbdvM3ggBfFcjd"
+      },
+      "artists": [
+        {
+          "name": "NITAP",
+          "url": "https://open.spotify.com/artist/74BPG8mr54PDRxjszcQ6qc"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170199,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/3RSX7OgnB1vOj0bhxLwnhB"
     },
     {
       "album": {
@@ -13418,7 +13476,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 203157,
       "name": "Life 2",
       "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
@@ -13494,7 +13552,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 247431,
       "name": "Light of the World",
       "url": "https://open.spotify.com/track/5hBWhGMG71MUyebFOQ4FYu"
@@ -15486,7 +15544,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
@@ -20294,6 +20352,24 @@
       "duration_ms": 298710,
       "name": "RHYAN'S HYMN",
       "url": "https://open.spotify.com/track/4xaD8rHYk3Fe51NH9HdDen"
+    },
+    {
+      "album": {
+        "name": "Rhythm",
+        "url": "https://open.spotify.com/album/1N3NH4c32eeahnJInf726s"
+      },
+      "artists": [
+        {
+          "name": "Kiarrah Ireland",
+          "url": "https://open.spotify.com/artist/46aVL8FITZr3tomNq4h9Gb"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173555,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/51kQQc9a8r3kLA1Wpgn9rR"
     },
     {
       "album": {
@@ -27926,7 +28002,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 220005,
       "name": "WiiCKEDEST",
       "url": "https://open.spotify.com/track/1uh75mVDUEAlVUtIYW7r4d"
@@ -28068,7 +28144,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 144500,
       "name": "With You",
       "url": "https://open.spotify.com/track/2WXeML2aZLwSY96bSnnOrA"
@@ -28382,7 +28458,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 173483,
       "name": "You Did That",
       "url": "https://open.spotify.com/track/3JHkfxv005qSKitkgJFy8h"

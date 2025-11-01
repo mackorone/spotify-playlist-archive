@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 149668,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/1kSLc4Vw3UiX7Po7YJ2ae7"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 168000,
       "name": "FAV*",
       "url": "https://open.spotify.com/track/6fDIkE5JJgzfmOohRTPnM6"
@@ -3097,6 +3097,28 @@
     },
     {
       "album": {
+        "name": "INSIDE (feat. LAZYLOXY)",
+        "url": "https://open.spotify.com/album/6lRe6tDtEiEhsm41V7tl0V"
+      },
+      "artists": [
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217391,
+      "name": "INSIDE (feat. LAZYLOXY)",
+      "url": "https://open.spotify.com/track/4XJOg3Z9yqas8fIcXWzMRV"
+    },
+    {
+      "album": {
         "name": "INTRO [BABY FOREVER]",
         "url": "https://open.spotify.com/album/4qHFQaN419mQQgjDBINGJJ"
       },
@@ -3825,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Medecine girl ( \u0e22\u0e32\u0e14\u0e35 )",
+        "url": "https://open.spotify.com/album/2aptN1FwiSQWgq4OJ3D3V9"
+      },
+      "artists": [
+        {
+          "name": "Jh4y",
+          "url": "https://open.spotify.com/artist/01yGyVB1FyqBdpe7usXZ9o"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Medecine girl ( \u0e22\u0e32\u0e14\u0e35 )",
+      "url": "https://open.spotify.com/track/2YPJZnNgVJp6P2lHtAgXac"
+    },
+    {
+      "album": {
         "name": "MELODY GIRL",
         "url": "https://open.spotify.com/album/7q54gQ1eWYcPnTtetPjr5R"
       },
@@ -4050,6 +4090,24 @@
       "duration_ms": 231346,
       "name": "MR TELEPHONE",
       "url": "https://open.spotify.com/track/1nzYV4bWkLK0BjssMnCl3m"
+    },
+    {
+      "album": {
+        "name": "Mr. 333",
+        "url": "https://open.spotify.com/album/2RBuXEM2GVjIUp4WSA0T7y"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231910,
+      "name": "Mr. 333",
+      "url": "https://open.spotify.com/track/143zbhp7yTYoto0mfEYOj4"
     },
     {
       "album": {
@@ -6400,7 +6458,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 214573,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6RnF5N4lILE5E1cDJ2iFxT"
@@ -7598,7 +7656,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 226909,
       "name": "\u0e01\u0e2d\u0e14\u0e2a\u0e48\u0e07\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/6NqCSZ23VkE1DQtLPvn7j6"
@@ -7624,7 +7682,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 248067,
       "name": "\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/3rfu1m1gWDVUNmdWJdu4lF"
@@ -8146,6 +8204,32 @@
       "duration_ms": 160864,
       "name": "\u0e04\u0e19\u0e25\u0e30\u0e21\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/11mHuqEZVq7iCtNjAhAcNW"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e2a\u0e27\u0e22",
+        "url": "https://open.spotify.com/album/1F0MzFFKNZXVtI4I1gFXqH"
+      },
+      "artists": [
+        {
+          "name": "BETAYOURBITCH",
+          "url": "https://open.spotify.com/artist/2xoedC37KSMtbCYLd1PVLc"
+        },
+        {
+          "name": "N0RMA1",
+          "url": "https://open.spotify.com/artist/4JSLcITtMXeF5drdVO3f1b"
+        },
+        {
+          "name": "BARON",
+          "url": "https://open.spotify.com/artist/1Tf1lWGHooWhKhn6bwbMZv"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200418,
+      "name": "\u0e04\u0e19\u0e2a\u0e27\u0e22",
+      "url": "https://open.spotify.com/track/4I0F3ItogIEpgH9qbjCiQz"
     },
     {
       "album": {
@@ -9350,6 +9434,28 @@
       "duration_ms": 220366,
       "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e1b\u0e48\u0e32",
       "url": "https://open.spotify.com/track/5epaIb0YdSNaqr2JMBPcvQ"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e32\u0e27\u0e40\u0e14\u0e35\u0e22\u0e27\u0e14\u0e32\u0e22 (Lonely Star) (feat. SIMON)",
+        "url": "https://open.spotify.com/album/30zytBk28he2yVUcrRD92g"
+      },
+      "artists": [
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/55ZPwcoGjs0zb2oMXYrt2M"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "\u0e14\u0e32\u0e27\u0e40\u0e14\u0e35\u0e22\u0e27\u0e14\u0e32\u0e22 (Lonely Star) (feat. SIMON)",
+      "url": "https://open.spotify.com/track/3h6mxBXK9jFM3MHUrxqhTt"
     },
     {
       "album": {
@@ -10639,6 +10745,32 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/3rld4RtibIkOiLAFLZgoOB"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209700,
+      "name": "\u0e1e\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/4Q92eOoja3QN0lb4LOohDa"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e34\u0e29\u0e20\u0e31\u0e22",
         "url": "https://open.spotify.com/album/0vQxrz3zSuD4JndtlJ4D5i"
       },
@@ -11530,7 +11662,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 205732,
       "name": "\u0e23\u0e39\u0e49\u0e21\u0e37\u0e2d^^",
       "url": "https://open.spotify.com/track/3TxaUVX2S7matMMm95f9uj"
@@ -12016,7 +12148,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 127756,
       "name": "\u0e27\u0e31\u0e19\u0e27\u0e32\u0e2c\u0e22\u0e31\u0e07\u0e04\u0e07\u0e40\u0e2b\u0e07\u0e32 \u0e16\u0e49\u0e32\u0e40\u0e2d\u0e32\u0e41\u0e15\u0e48\u0e40\u0e21\u0e32\u0e40\u0e23\u0e32\u0e08\u0e30\u0e2b\u0e19\u0e35\u0e44\u0e1b\u0e40\u0e21\u0e35\u0e22\u0e07\u0e19\u0e2d\u0e01",
       "url": "https://open.spotify.com/track/4M83eRcAmOlriPBk8tU4tm"
@@ -12762,7 +12894,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 241850,
       "name": "\u0e2d\u0e18\u0e34\u0e10\u0e32\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e08\u0e35\u0e1a",
       "url": "https://open.spotify.com/track/6aT78snPmyW7RbTAlPcxyA"
@@ -12824,6 +12956,28 @@
       "duration_ms": 151673,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e1e\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e1b\u0e14\u0e39\u0e04\u0e2d\u0e19\u0e40\u0e2a\u0e34\u0e23\u0e4c\u0e15\u0e27\u0e31\u0e19\u0e21\u0e34\u0e25",
       "url": "https://open.spotify.com/track/5wC0pEdfBw4ugv41doWRWh"
+    },
+    {
+      "album": {
+        "name": "BLVCKHEART",
+        "url": "https://open.spotify.com/album/77umFOUUMlR0gQH7LEU7EM"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        },
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e08\u0e30\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e02\u0e49\u0e32\u0e07\u0e01\u0e32\u0e22 (I Told My Father)",
+      "url": "https://open.spotify.com/track/6C0O21H2MXs0jKJrajBGa6"
     },
     {
       "album": {
@@ -14227,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "Twenty Eight",
+        "url": "https://open.spotify.com/album/2cqU0W9jpLV5bzyzBqBtD8"
+      },
+      "artists": [
+        {
+          "name": "MIXSJAY",
+          "url": "https://open.spotify.com/artist/5TUXqFa1zqj9ZBsj6Vg2n9"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163999,
+      "name": "\u0e40\u0e21\u0e32\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e14\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/762QVfM4AZm5PYwG8r3V7G"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e21\u0e32\u0e44\u0e2b\u0e19\u0e19\u0e2d\u0e19\u0e19\u0e31\u0e48\u0e19",
         "url": "https://open.spotify.com/album/6Q8mfo4gKSK2iGzBt8NFl3"
       },
@@ -14344,6 +14516,24 @@
       "duration_ms": 164791,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e23\u0e32\u0e27\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e25\u0e37\u0e21",
       "url": "https://open.spotify.com/track/56IJQ9HAa5l8aqLGHadljD"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19\u0e21\u0e31\u0e49\u0e22",
+        "url": "https://open.spotify.com/album/0AzjU2icCvN04Po0TAGbzF"
+      },
+      "artists": [
+        {
+          "name": "RachYO",
+          "url": "https://open.spotify.com/artist/620yKKXiTGmnZg0MVqUGo8"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286224,
+      "name": "\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19\u0e21\u0e31\u0e49\u0e22",
+      "url": "https://open.spotify.com/track/4nt3bMic9VToZD6WTc05TV"
     },
     {
       "album": {
@@ -14618,7 +14808,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 145000,
       "name": "\u0e41\u0e04\u0e48\u0e1c\u0e39\u0e49\u0e0a\u0e32\u0e22\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07",
       "url": "https://open.spotify.com/track/6bnN3FQoeMYPRVazExnT5k"
@@ -15255,6 +15445,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e1f\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
+        "url": "https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "\u0e43\u0e08\u0e09\u0e31\u0e19\u0e15\u0e32\u0e21\u0e40\u0e18\u0e2d\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e08\u0e1c\u0e21\u0e2a\u0e31\u0e48\u0e19",
         "url": "https://open.spotify.com/album/5rVW2FWuyh60fQyWzPfrjX"
       },
@@ -15756,7 +15964,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 258721,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e02\u0e32\u0e08\u0e30\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/3nnPBqKiBxCz3ZWXVjxWhc"

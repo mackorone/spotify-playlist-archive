@@ -6,7 +6,7 @@
     "name": "ssamt",
     "url": "https://open.spotify.com/user/ssamt"
   },
-  "snapshot_id": "AAAAd+km8T1F2XRsOjcIS3Ngr0q+w7hU",
+  "snapshot_id": "AAAAehrUJaM7/+WyvPJkPrdN497Sp7EB",
   "tracks": [
     {
       "added_at": "2024-07-17 14:28:31",
@@ -23,22 +23,6 @@
       "duration_ms": 240651,
       "name": "The Truth Is a Cave",
       "url": "https://open.spotify.com/track/27TPKGBLVn1Bv3B2thAzqz"
-    },
-    {
-      "added_at": "2024-05-10 19:12:07",
-      "album": {
-        "name": "Love & War & The Sea In Between",
-        "url": "https://open.spotify.com/album/3jrVFS6lW7HvxOKN7QPQC8"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 234964,
-      "name": "Bread & Wine",
-      "url": "https://open.spotify.com/track/6CgrS3cN3hBo4uCft5uFom"
     },
     {
       "added_at": "2024-07-17 14:28:31",
@@ -103,6 +87,26 @@
       "duration_ms": 676986,
       "name": "The Mighty Rio Grande",
       "url": "https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS"
+    },
+    {
+      "added_at": "2025-10-31 20:40:43",
+      "album": {
+        "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+        "url": "https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        }
+      ],
+      "duration_ms": 50080,
+      "name": "Goldberg Variations, BWV 988: Variation 20 a 2 Clav.",
+      "url": "https://open.spotify.com/track/54VrtN6vHC3gXyqhDulUcW"
     },
     {
       "added_at": "2024-05-10 19:11:07",

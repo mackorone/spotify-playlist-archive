@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the Holiday Season with your favorite country artists\. Cover: Jordan Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,245 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,343 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 99 | [Please Come Home For Christmas](https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Koe Wetzel Presents...Wetzel's Wonderland](https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga) | 2:52 |
 | 100 | [Holly Jolly Christmas](https://open.spotify.com/track/3RToWSH2mkKq8QfI8bgMH3) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Super Deluxe\)](https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o) | 2:11 |
 
-Snapshot ID: `AAAAAAvduC4KjN0SMjx3lpgHiFfTlJUy`
+Snapshot ID: `AAAAACzzKL6g3942SRruHcgenTQaRJBK`

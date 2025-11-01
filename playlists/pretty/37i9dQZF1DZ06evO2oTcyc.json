@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 224812,
+  "num_followers": 224863,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAD9P21Hb37vPt76Gr5Ksvf",
+  "snapshot_id": "aQKqgAAAAABmuTTiH4oO7O0VhsF0UoOi",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Owe Me",
-        "url": "https://open.spotify.com/album/3qtwvgTjmEDPRHXYPSW3Nk"
-      },
-      "artists": [
-        {
-          "name": "Buddah Bless",
-          "url": "https://open.spotify.com/artist/6F6Kv1EpOjiXonTNYFdXWW"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Owe Me",
-      "url": "https://open.spotify.com/track/3SFWyVnGTGGvTH6iQmLAxL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LYFESTYLE",
         "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 213028,
       "name": "Gave It All I Got",
       "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Owe Me",
+        "url": "https://open.spotify.com/album/3qtwvgTjmEDPRHXYPSW3Nk"
+      },
+      "artists": [
+        {
+          "name": "Buddah Bless",
+          "url": "https://open.spotify.com/artist/6F6Kv1EpOjiXonTNYFdXWW"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Owe Me",
+      "url": "https://open.spotify.com/track/3SFWyVnGTGGvTH6iQmLAxL"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 168312,
+      "name": "Day for Day",
+      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 168312,
-      "name": "Day for Day",
-      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
     },
     {
       "added_at": null,
@@ -963,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 156112,
-      "name": "Z Look Jamaican",
-      "url": "https://open.spotify.com/track/2Lw5B2B1KsssGf5NbjDeyj"
+      "duration_ms": 198109,
+      "name": "Patty Cake",
+      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
     }
   ],
   "unique_name": "This Is Kodak Black",

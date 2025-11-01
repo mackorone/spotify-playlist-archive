@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: DJ Zigão, MC Roger
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,626,457 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,627,150 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 16 | [Tipo Nino Vs Kabrinha](https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Tipo Nino Vs Kabrinha](https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH) | 3:21 |
 | 17 | [OUTRA](https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [fire hair](https://open.spotify.com/artist/6wyE69vcYrfYvRaG5GNEkN), [WenHard](https://open.spotify.com/artist/4otphgHII0GMrR36Kexd3o) | [OUTRA](https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz) | 2:08 |
 | 18 | [Tipo Insta do Buzeira](https://open.spotify.com/track/2kap2PwtaXA1OeDBlNw5wZ) | [Jhow](https://open.spotify.com/artist/25OOXt52LeFqr5wwv5cYcI), [MC Makauli](https://open.spotify.com/artist/3yEYK0ziQxY02hCEZwpR9w), [GP DA ZL](https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3) | [Tipo Insta do Buzeira](https://open.spotify.com/album/7t355sjxyYwWth3RmyfPJF) | 1:41 |
-| 19 | [Pé na Areia🍀](https://open.spotify.com/track/2Ki2eKWyUq0a75yDNlreQA) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Pé na Areia](https://open.spotify.com/album/1OLQjH7XeZDm51XYpjbrTY) | 2:58 |
+| 19 | [Pé na Areia 🍀](https://open.spotify.com/track/2Ki2eKWyUq0a75yDNlreQA) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Pé na Areia 🍀](https://open.spotify.com/album/1OLQjH7XeZDm51XYpjbrTY) | 2:58 |
 | 20 | [Deu Match](https://open.spotify.com/track/55rJhnQiyIO47pFqjcaG8s) | [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK) | [Deu Match](https://open.spotify.com/album/70dNnDtDWu3vJfa4ihEiRU) | 3:12 |
 | 21 | [Pega Essa Chapada](https://open.spotify.com/track/2mjdqwAM1FtqEjjJbSh1qJ) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ), [MC LZ](https://open.spotify.com/artist/1f5NWqPf5riYVQ7fSg0J6r) | [Pega Essa Chapada](https://open.spotify.com/album/7moFCVexoXqguOu76jAe7L) | 2:05 |
 | 22 | [Cada Vez Mais Gostosa](https://open.spotify.com/track/6v6MmJlw7elqJUty23mvS4) | [Dj Tchouzen](https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Cada Vez Mais Gostosa](https://open.spotify.com/album/4QruqlNqDMXyQYOp5oLUq1) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Sexta Feira Hoje Tem](https://open.spotify.com/track/7jCgslBhuPF61B6yk90VYb) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Sexta Feira Hoje Tem](https://open.spotify.com/album/3QDz4QyC01WzuUaYi6BOin) | 6:27 |
 | 50 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |
 
-Snapshot ID: `AAAAAGQF+5YbkA0rALUE833Q8IWr0l3D`
+Snapshot ID: `AAAAAMGZ3FB91+gXPi47kNIOqxIWcSwh`

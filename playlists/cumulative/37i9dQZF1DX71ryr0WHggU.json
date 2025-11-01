@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Scream If You Wanna Go Faster",
+        "url": "https://open.spotify.com/album/2sgOJkKcXuxEqXW26W3sQf"
+      },
+      "artists": [
+        {
+          "name": "Geri Halliwell",
+          "url": "https://open.spotify.com/artist/5orH1OWgjAYUX8sZ5gihTv"
+        }
+      ],
+      "date_added": "2024-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254640,
+      "name": "It's Raining Men",
+      "url": "https://open.spotify.com/track/7q3qX7Ees3FZtRFJXWgPZs"
+    },
+    {
+      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -933,7 +951,7 @@
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 230466,
+      "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 251327,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"

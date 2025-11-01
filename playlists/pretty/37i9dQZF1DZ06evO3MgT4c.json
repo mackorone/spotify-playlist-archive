@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 437228,
+  "num_followers": 437234,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAf/WnjOqDbTYXl4bhMyO0Y",
+  "snapshot_id": "aQKqgAAAAABASkaJfBKWK2rMc6W2ZjWm",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taco Tuesday",
-        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
       "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 96563,
-      "name": "Taco Tuesday",
-      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
+      "duration_ms": 262308,
+      "name": "Drip (feat. Migos)",
+      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+        "name": "Taco Tuesday",
+        "url": "https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn"
       },
       "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 262308,
-      "name": "Drip (feat. Migos)",
-      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
+      "duration_ms": 96563,
+      "name": "Taco Tuesday",
+      "url": "https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP"
     },
     {
       "added_at": null,

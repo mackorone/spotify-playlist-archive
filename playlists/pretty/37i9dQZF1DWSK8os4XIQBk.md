@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Luke Combs and the biggest hits in country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,728 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,727 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 49 | [Be Your Man](https://open.spotify.com/track/7v8UTNAwAE5eb85FGKVl4N) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Be Your Man](https://open.spotify.com/album/4y0kalZtaXrYjUxkqG6wu7) | 3:13 |
 | 50 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 |
 
-Snapshot ID: `AAAAAO5lvDPp/ZweQzSCD37U3z0hnSSw`
+Snapshot ID: `AAAAADwYyBqB5+Gsi+5Es0Uiht7En3ms`

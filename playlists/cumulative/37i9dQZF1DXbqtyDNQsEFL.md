@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze
 
-637 songs - 2 day 9 hr 34 min
+637 songs - 2 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Man Wey God Show Mercy](https://open.spotify.com/track/3sOVXmrMfjM9Cyb0EFussg) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Man Wey God Show Mercy](https://open.spotify.com/album/5PDUNqju1XfVwaYlnB9ReW) | 4:24 | 2024-10-11 | 2024-11-03 |
 | [Maranatha](https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 6:35 | 2023-01-27 | 2024-03-16 |
 | [Marvelous God](https://open.spotify.com/track/6PruBH8M3BJlVMrQMvPDiq) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/09BaJhUnNCDBkbIsUvwLxF) | 3:53 | 2024-12-31 | 2025-01-07 |
+| [Me & My Jesus](https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Clarity](https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY) | 2:20 | 2025-10-31 |  |
 | [Melodies](https://open.spotify.com/track/1Evjgpabe7O551q1MGZ1Qb) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Melodies](https://open.spotify.com/album/2wfiWkB0R8e3PaJNsMxKNA) | 2:34 | 2024-10-11 | 2024-11-30 |
 | [Mensuro](https://open.spotify.com/track/1cM5uGt3561vmeY5wHQBnY) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 6:48 | 2022-06-09 | 2023-06-16 |
 | [Merciful](https://open.spotify.com/track/4pcdrkqwBw8wY6XR1Np81G) | [Benita Okojie](https://open.spotify.com/artist/0PboSSy527dayDLBcSl10a) | [Merciful](https://open.spotify.com/album/3TZZ526YDnpc7JU5gdFREZ) | 3:04 | 2022-06-09 | 2023-04-05 |
@@ -554,7 +555,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2024-07-19 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-07-07 |  |
 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 | 2025-05-30 |  |
-| [Track 1](https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-31 |  |
 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 | 2023-07-28 | 2024-07-27 |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-10 |
 | [Trust You](https://open.spotify.com/track/0NKi8ZMlifzwbQq2IyK8jx) | [Nikki Laoye](https://open.spotify.com/artist/7lVBawhz0dr9UnFokEvtrP) | [Trust You](https://open.spotify.com/album/1w3dJc5Uyfnmyc4UOlSVVM) | 5:13 | 2023-11-17 | 2023-12-09 |

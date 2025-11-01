@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 360159,
+  "num_followers": 360231,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "Eu e o Rei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 337525,
-      "name": "Eu e o Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 236013,
       "name": "Meu Barquinho",
       "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
+        "name": "Eu e o Rei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 337525,
+      "name": "Eu e o Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 444976,
-      "name": "Seu Amor: YOUnique - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
+        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 444976,
+      "name": "Seu Amor: YOUnique - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -703,6 +703,26 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
+        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 242963,
+      "name": "T\u00e1 Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
-        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 242963,
-      "name": "T\u00e1 Tudo Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -1075,26 +1075,18 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "Esque\u00e7o At\u00e9 o Tempo",
-        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
+        "name": "On Tape (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
       },
       "artists": [
         {
           "name": "Os Meireles",
           "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
-        },
-        {
-          "name": "Benjamim Silva",
-          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
         }
       ],
-      "duration_ms": 159825,
-      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
+      "duration_ms": 228388,
+      "name": "Falar Com Deus - Faixa B\u00f4nus",
+      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -1139,22 +1131,6 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
         "name": "Ac\u00fastico, Vol. 4",
         "url": "https://open.spotify.com/album/1SdnAD8W9tPuULdYDZGuhm"
       },
@@ -1171,18 +1147,42 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "On Tape (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
+        "name": "Esque\u00e7o At\u00e9 o Tempo",
+        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
       },
       "artists": [
         {
           "name": "Os Meireles",
           "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+        },
+        {
+          "name": "Benjamim Silva",
+          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
         }
       ],
-      "duration_ms": 228388,
-      "name": "Falar Com Deus - Faixa B\u00f4nus",
-      "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
+      "duration_ms": 159825,
+      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "Quem Sou",
-        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
-      },
-      "artists": [
-        {
-          "name": "PEDRAZUL",
-          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
-        },
-        {
-          "name": "Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5"
-        },
-        {
-          "name": "Jaqueline Nobre",
-          "url": "https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd"
-        }
-      ],
-      "duration_ms": 270933,
-      "name": "Quem Sou",
-      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
+        "name": "Quem Sou",
+        "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
+      },
+      "artists": [
+        {
+          "name": "PEDRAZUL",
+          "url": "https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA"
+        },
+        {
+          "name": "Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/3XlPRhG9w1NMCPvS1f4dW5"
+        },
+        {
+          "name": "Jaqueline Nobre",
+          "url": "https://open.spotify.com/artist/4Ho1MOw0lfdAfXvH4DVJXd"
+        }
+      ],
+      "duration_ms": 270933,
+      "name": "Quem Sou",
+      "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
     },
     {
       "added_at": "2025-09-12 17:44:01",

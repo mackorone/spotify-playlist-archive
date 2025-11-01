@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Psychedelic Porn Crumpets
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,419 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,421 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Born In the A.D's](https://open.spotify.com/track/2HAYMQVH6T9haMNv5iqfkK) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pogo Rodeo](https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL) | 4:33 |
-| 2 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 |
+| 2 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
 | 3 | [Make My Mind Up](https://open.spotify.com/track/6Y8QaIWaE5gBmpmw1lmK9D) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Make My Mind Up](https://open.spotify.com/album/03VAGqO2P3qjhga99wXn2s) | 3:18 |
-| 4 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [](https://open.spotify.com/album/null) | 3:51 |
+| 4 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [HighSchool](https://open.spotify.com/album/3AkpBHPOvTPlxXPEhmNp1b) | 3:51 |
 | 5 | [Stay In Your Lane](https://open.spotify.com/track/5lOn7OwAXXO1pahwPZgdYY) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Stay In Your Lane](https://open.spotify.com/album/2R2IGEJFuPkOeRp7A1CdN7) | 3:14 |
 | 6 | [\(I'm here for the\) GIRLS](https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\(I'm here for the\) GIRLS](https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl) | 2:20 |
 | 7 | [DEATH CULT ZOMBIE](https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [DEATH CULT ZOMBIE](https://open.spotify.com/album/4jeNB0UKUljys3WNSWC4Je) | 3:36 |

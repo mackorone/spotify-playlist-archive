@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Azuky en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Proof en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 253312,
       "name": "Alzypher Vol. 21",
       "url": "https://open.spotify.com/track/1C8lQVid5gd5V9x3pk5iqs"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 152967,
       "name": "AY MAR\u00cdA",
       "url": "https://open.spotify.com/track/3ChU4ffZzIhNRpOnjFxicj"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 242790,
       "name": "Azetalokos y Sanfelokos",
       "url": "https://open.spotify.com/track/7Fk8DwD3GPlvZyWx0J9cN3"
@@ -2722,6 +2722,28 @@
       "duration_ms": 207582,
       "name": "Calafia Tour",
       "url": "https://open.spotify.com/track/5oqPZDLDphVqvMCwzUDRsd"
+    },
+    {
+      "album": {
+        "name": "Las Calaveritas Literarias",
+        "url": "https://open.spotify.com/album/0BElAWkArYxPWkyi7qFhVo"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174432,
+      "name": "Calaverita A M\u00ed Mismo",
+      "url": "https://open.spotify.com/track/4AwxY3TjY9RP4320hHYJda"
     },
     {
       "album": {
@@ -3958,7 +3980,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 219221,
       "name": "Cuentos de la Cripta",
       "url": "https://open.spotify.com/track/3yYMckkR04NAXZCfRpPSUE"
@@ -5473,6 +5495,28 @@
     },
     {
       "album": {
+        "name": "El Rosario (Bonus Track)",
+        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "El Rosario - Bonus Track",
+      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
+    },
+    {
+      "album": {
         "name": "El Tatuado",
         "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
       },
@@ -6838,6 +6882,28 @@
       "duration_ms": 185000,
       "name": "Gangstas",
       "url": "https://open.spotify.com/track/0zetj2e5QBWucd7M96a7ye"
+    },
+    {
+      "album": {
+        "name": "Gastando Suela",
+        "url": "https://open.spotify.com/album/4mhCqGKVuAp9sjw64RXEfV"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204889,
+      "name": "Gastando Suela",
+      "url": "https://open.spotify.com/track/7m8Iwu82FSDDo9DuXCwd8h"
     },
     {
       "album": {
@@ -10582,7 +10648,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 214300,
       "name": "Mi santa muerte",
       "url": "https://open.spotify.com/track/2Iqwrl9csBISy7vy4XDGCn"
@@ -11948,6 +12014,24 @@
       "duration_ms": 159037,
       "name": "Otra Calaverita",
       "url": "https://open.spotify.com/track/7gfmvCGs02C6KKdeIEoMgQ"
+    },
+    {
+      "album": {
+        "name": "Otra M\u00e1s",
+        "url": "https://open.spotify.com/album/1KApgC28MECkt5ugd47lbj"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Otra M\u00e1s",
+      "url": "https://open.spotify.com/track/2NODxQRbHVxilqQ8Ij7PKu"
     },
     {
       "album": {
@@ -14644,6 +14728,44 @@
       "duration_ms": 200000,
       "name": "Serendipia",
       "url": "https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ"
+    },
+    {
+      "album": {
+        "name": "Sesi\u00f3n 25",
+        "url": "https://open.spotify.com/album/5Wv5MGL98h2tDNnDZ10vy3"
+      },
+      "artists": [
+        {
+          "name": "Skal",
+          "url": "https://open.spotify.com/artist/1dOypTWNlXPsEZnXjDybSX"
+        },
+        {
+          "name": "Gera Noriega",
+          "url": "https://open.spotify.com/artist/4toppCdRYJfcnqsWzLz5QA"
+        },
+        {
+          "name": "W. Corona",
+          "url": "https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ"
+        },
+        {
+          "name": "Michel Groma",
+          "url": "https://open.spotify.com/artist/5yPMPBkanL4RvfmNx3CF8P"
+        },
+        {
+          "name": "Oscar BBR",
+          "url": "https://open.spotify.com/artist/0wMbqQV7w1o9lb9rGTyzOP"
+        },
+        {
+          "name": "Negro Maldito",
+          "url": "https://open.spotify.com/artist/1XaZg59VZL1UjP0FFAxaCR"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Sesi\u00f3n 25",
+      "url": "https://open.spotify.com/track/7BJkYViN7k0LtjkTDv2BHk"
     },
     {
       "album": {

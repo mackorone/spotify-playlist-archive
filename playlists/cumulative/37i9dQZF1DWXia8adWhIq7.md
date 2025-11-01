@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Esther Durán, Chris Duran
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-205 songs - 12 hr 21 min
+206 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Até Sermos Um](https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41) | [Leo Schiappadini](https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr) | [Até Sermos Um](https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG) | 2:58 | 2024-04-19 |  |
 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 | 2023-03-17 | 2023-07-22 |
 | [Azul do Céu](https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Azul do Céu](https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI) | 3:02 | 2022-08-05 | 2023-11-04 |
+| [BAILE DE MÁSCARAS](https://open.spotify.com/track/6SHC773RxGrSvTttmvhjXj) | [Gui Neris](https://open.spotify.com/artist/3b0kljAJUuDkWnCg12DGKo) | [SAI DO CHÃO](https://open.spotify.com/album/50U61DNRIMJDFnB9mpyaoz) | 2:36 | 2025-10-31 |  |
 | [Batida](https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Batida](https://open.spotify.com/album/7997L9t3OvtVovg51EsNNm) | 4:04 | 2022-08-05 | 2023-03-25 |
 | [Beijo do Céu](https://open.spotify.com/track/65Nt8jiYHdMRrxHJSQnX50) | [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Beijo do Céu](https://open.spotify.com/album/6bTgTQzv5iCC5R3zH0w4cH) | 3:24 | 2023-09-01 | 2023-11-25 |
 | [Bençãos Que Não Tem Fim • BRAVE Pocket](https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX) | [Bençãos Que Não Tem Fim • BRAVE Pocket](https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH) | 2:59 | 2024-06-21 |  |
@@ -168,7 +169,7 @@
 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 | 2022-08-05 |  |
 | [Sinal de Aviso](https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Sinal de Aviso](https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4) | 3:15 | 2023-11-03 | 2024-04-19 |
 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 | 2022-08-05 |  |
-| [Sol inteiro](https://open.spotify.com/track/0L1MqPbLHeF2IWivOclJT8) | [José Jr](https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6) | [das coisas que carrego dentro](https://open.spotify.com/album/6DiX9DyyRnNZBVRoAnyXa5) | 3:32 | 2024-09-27 |  |
+| [Sol inteiro](https://open.spotify.com/track/0L1MqPbLHeF2IWivOclJT8) | [José Jr](https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6) | [das coisas que carrego dentro](https://open.spotify.com/album/6DiX9DyyRnNZBVRoAnyXa5) | 3:32 | 2024-09-27 | 2025-11-01 |
 | [Sonhar](https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw) | [Sonhar](https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK) | 2:18 | 2023-11-03 |  |
 | [Sopro de Deus](https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Sopro de Deus](https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c) | 4:21 | 2022-08-05 | 2024-04-20 |
 | [sua colheita](https://open.spotify.com/track/4IMf9Kwx8CfO5rlaqDjlg3) | [LARAIAN](https://open.spotify.com/artist/6d7FoULORaLQORWSXoPVn3) | [SEMENTES](https://open.spotify.com/album/3JYgncdrjqEgyqJwWHDXgx) | 3:44 | 2023-10-06 | 2023-10-21 |

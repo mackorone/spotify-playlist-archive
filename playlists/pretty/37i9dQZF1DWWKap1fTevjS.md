@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,089 likes - 325 songs - 15 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,152 likes - 325 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -334,4 +334,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 324 | [Edenora](https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Edenora](https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9) | 2:57 |
 | 325 | [Nightblooom](https://open.spotify.com/track/0Lc0SeMSM2Ao7hcCcr6kmB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Nightblooom](https://open.spotify.com/album/1bTVVlALCmMtFarxxZFqyo) | 2:18 |
 
-Snapshot ID: `AAAAAGoBIRuuodt8IGwiCs8a9CCy2292`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

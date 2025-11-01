@@ -2,9 +2,9 @@
 
 ### [mint](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n)
 
-> The world's biggest dance & electronic hits\. Cover: Marlon Hoffstadt
+> The world's biggest dance & electronic hits\. Cover: Fred again..
 
-1,371 songs - 3 day 3 hr 53 min
+1,372 songs - 3 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-02-02 | 2024-06-01 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-05-13 | 2022-09-10 |
 | [Hard dreams](https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Hard dreams](https://open.spotify.com/album/15kCPeNnhlUuZfKyr1CJuy) | 2:50 | 2024-03-01 | 2024-03-30 |
+| [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 | 2025-10-31 |  |
 | [Havana Bounce](https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Havana Bounce](https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w) | 4:31 | 2025-08-15 | 2025-10-11 |
 | [He Goes Down](https://open.spotify.com/track/4Jxqo3meY7nbbnqa7cQY7p) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [He Goes Down](https://open.spotify.com/album/2fD8NBqB9lxwJpTdZuZhSr) | 2:38 | 2022-06-17 | 2022-10-29 |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-02-18 | 2022-05-14 |
@@ -1367,7 +1368,7 @@
 | [You Go I Go](https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [You Go I Go](https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY) | 2:46 | 2025-10-17 |  |
 | [You Got The Love \(feat\. Jules Buckley & The Heritage Orchestra\) \- Tiësto Remix](https://open.spotify.com/track/3N50cZLMLohd9DcGA4LIMp) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [You Got The Love \(feat\. Jules Buckley & The Heritage Orchestra\) \[Tiësto Remix\]](https://open.spotify.com/album/1zlYl1OYOvf79RWXEc6NZb) | 3:06 | 2022-05-20 | 2022-07-09 |
 | [You Take My Hand](https://open.spotify.com/track/6ZahQeSE8fqyvC0jKr7CHA) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [Healing Forest](https://open.spotify.com/album/2P5fOX5q2FOcuxtBJBVorC) | 5:15 | 2022-02-18 | 2022-05-07 |
-| [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 | 2025-10-03 |  |
+| [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 | 2025-10-03 | 2025-11-01 |
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-01-28 | 2022-05-07 |
 | [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-10-17 |  |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-03-11 | 2022-05-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1452869,
+  "num_followers": 1453034,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-10-25 00:50:26",
       "album": {
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+    },
+    {
+      "added_at": "2025-10-25 00:50:26",
+      "album": {
         "name": "Carnav\u00e1lia (Ao Vivo)",
         "url": "https://open.spotify.com/album/205INdvEuLF2IfLOA3yTOl"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 234570,
       "name": "Barato Total",
       "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2025-10-25 00:50:26",
-      "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
     },
     {
       "added_at": "2025-10-25 00:50:26",

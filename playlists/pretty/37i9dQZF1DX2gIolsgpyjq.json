@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: Scout",
-  "num_followers": 28192,
+  "num_followers": 28228,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
@@ -27,8 +27,8 @@
     {
       "added_at": "2025-10-30 22:59:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Miranda",
+        "url": "https://open.spotify.com/album/7rZaeXP7J1DBUCYWr5bQy4"
       },
       "artists": [
         {
@@ -111,8 +111,24 @@
     {
       "added_at": "2025-10-30 22:59:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Fraud",
+        "url": "https://open.spotify.com/album/5tOaNFYIr43KXbSnNnxB1e"
+      },
+      "artists": [
+        {
+          "name": "STHLMA",
+          "url": "https://open.spotify.com/artist/4ka7VkwmzaGw0gDASqniao"
+        }
+      ],
+      "duration_ms": 226959,
+      "name": "Fraud",
+      "url": "https://open.spotify.com/track/4IRV9YWThTmcNxrwpDXVGC"
+    },
+    {
+      "added_at": "2025-10-30 22:59:13",
+      "album": {
+        "name": "I Know U Can Do It",
+        "url": "https://open.spotify.com/album/2fM5gS0X85TNMxD9EXl8u5"
       },
       "artists": [
         {

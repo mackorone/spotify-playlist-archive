@@ -1,6 +1,6 @@
 {
   "description": "Genre-less. Quality first always. Cover: Tyler, The Creator",
-  "num_followers": 1333641,
+  "num_followers": 1333582,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAC7D5lHPQ+PBH8AzITciCweokUCp",
   "tracks": [
+    {
+      "added_at": "2025-10-31 00:00:20",
+      "album": {
+        "name": "have to.",
+        "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 207023,
+      "name": "have to.",
+      "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
+    },
     {
       "added_at": "2025-10-31 00:00:20",
       "album": {
@@ -59,8 +75,8 @@
     {
       "added_at": "2025-10-31 00:00:20",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Here nor there",
+        "url": "https://open.spotify.com/album/7IngwF6npRbqJSPEMLGZvx"
       },
       "artists": [
         {
@@ -68,8 +84,8 @@
           "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 159408,
+      "name": "I get u bby",
       "url": "https://open.spotify.com/track/0NwpFfqxAOvGDodAAZgEf5"
     },
     {
@@ -112,7 +128,7 @@
           "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
         }
       ],
-      "duration_ms": 288000,
+      "duration_ms": 286285,
       "name": "HARDSTYLE 2",
       "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
     },

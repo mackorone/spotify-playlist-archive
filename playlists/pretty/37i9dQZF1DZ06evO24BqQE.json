@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 42290,
+  "num_followers": 42309,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAACJ26s+LkQYPKuwfaH7W9GM",
+  "snapshot_id": "aQKqgAAAAABaCtVRCXjTVS/er4E8GwAX",
   "tracks": [
     {
       "added_at": null,
@@ -743,18 +743,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Spoil My Steeze",
-        "url": "https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6"
+        "name": "ATSG, Vol. 1",
+        "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
       },
       "artists": [
         {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
         }
       ],
-      "duration_ms": 211652,
-      "name": "No Spoil My Steeze",
-      "url": "https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz"
+      "duration_ms": 189038,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS"
     },
     {
       "added_at": null,
@@ -779,26 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ATSG, Vol. 1",
-        "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
+        "name": "No Spoil My Steeze",
+        "url": "https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6"
       },
       "artists": [
         {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
         }
       ],
-      "duration_ms": 189038,
-      "name": "Hustle",
-      "url": "https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS"
+      "duration_ms": 211652,
+      "name": "No Spoil My Steeze",
+      "url": "https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz"
     },
     {
       "added_at": null,

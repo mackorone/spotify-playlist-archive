@@ -2165,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "MIXTAPE V1",
+        "url": "https://open.spotify.com/album/2A4OTvqtkdJoiGXILlfw2m"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "LilSccrt",
+          "url": "https://open.spotify.com/artist/48hL35FnwaSzrOwxeAXHhZ"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205174,
+      "name": "Expensive Tears",
+      "url": "https://open.spotify.com/track/6Z7waaGZ4vlQmQsKkj14ED"
+    },
+    {
+      "album": {
         "name": "F Tz Rappers 1",
         "url": "https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF"
       },
@@ -8428,24 +8450,6 @@
       "duration_ms": 132685,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "date_added": "2025-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6Z7waaGZ4vlQmQsKkj14ED"
     },
     {
       "album": {

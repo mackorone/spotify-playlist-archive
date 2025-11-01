@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Omar Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,639 likes - 80 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,826 likes - 80 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bendice Alma Mía](https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Bendice Alma Mía](https://open.spotify.com/album/0sMclJaxwKDWAozmU1ENAe) | 4:44 |
-| 2 | [Te Exaltaré](https://open.spotify.com/track/55aat3EMyWAfEco7Tk2j0N) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [ALIENTO](https://open.spotify.com/album/5MjxSfcQek6UfwcSVAZUyF) | 7:10 |
-| 3 | [Clamé](https://open.spotify.com/track/7cIHhDPOqzyb4ABNF3h5Rz) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Clamé](https://open.spotify.com/album/7vRulXQPkn42HqWTmbutqp) | 4:44 |
+| 2 | [Inquebrantable](https://open.spotify.com/track/5bQhc8SI484MRfa7X7PlOv) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Inquebrantable](https://open.spotify.com/album/3M0Jh6mEcpMSJXbM5vqNQ0) | 3:33 |
+| 3 | [Te Exaltaré](https://open.spotify.com/track/55aat3EMyWAfEco7Tk2j0N) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [ALIENTO](https://open.spotify.com/album/5MjxSfcQek6UfwcSVAZUyF) | 7:10 |
 | 4 | [Príncipe de paz](https://open.spotify.com/track/2bQJg9yqWio0X79c6jpCQn) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Gustavo Astellano](https://open.spotify.com/artist/7iBZRN4l1DCqcLJnaPdHMR), [Rodrigo Rocha](https://open.spotify.com/artist/5wCuGKTEYBCW7V29FHz0gz) | [Príncipe de paz](https://open.spotify.com/album/7l71nUBgPIrfg9YPrizJDU) | 8:12 |
 | 5 | [Herencia](https://open.spotify.com/track/1VGlBYgQP4BTDuqtJTFdqC) | [Yadah](https://open.spotify.com/artist/0Mlie91CFtq7dZceNEyZAP), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Herencia](https://open.spotify.com/album/51ZlroscMJpLfa0MRojECm) | 4:23 |
 | 6 | [Coritos Con Miel](https://open.spotify.com/track/0hYqaquKV75dGLvZ7VHgzi) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [CORITOS Vol\. 2](https://open.spotify.com/album/3KqiCx9xRXDburFzABihxq) | 7:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 79 | [Aleluya, Él Viene Ya](https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:58 |
 | 80 | [El Gozo de Dios \- Live At The Belonging Co, Nashville, TN / 2024](https://open.spotify.com/track/51x4s8bI0X4JTa6Ti2pylu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [El Gozo de Dios \(Live\)](https://open.spotify.com/album/48ZyIvLbT85ZZ3M8f6WdmA) | 5:29 |
 
-Snapshot ID: `AAAAAOvX/QexqDnXd5o/Al9jDmG+ADpp`
+Snapshot ID: `AAAAADXCiGEEkXZd13yXDWqEBIoGpKCJ`

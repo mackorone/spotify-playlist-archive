@@ -4,7 +4,7 @@
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Monokate
 
-501 songs - 1 day 2 hr 8 min
+502 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Голубочки \- prod\. by Jandy](https://open.spotify.com/track/0U0Km4b5cPsj7ofScTV5uR) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Голубочки \(prod\. by Jandy\)](https://open.spotify.com/album/2oqyoH7Ap13kiaGiZ6QxLZ) | 2:46 | 2024-06-27 | 2024-08-24 |
 | [ГРУДИ](https://open.spotify.com/track/7C17EZA3zti5JrabxNsMHj) | [sugarock](https://open.spotify.com/artist/2uozgeLQcq8V3kPeKafN3O) | [ТРАВМИ МИНУЛОГО Я](https://open.spotify.com/album/3wcWJ7FXGwf4ucqqACUQe6) | 2:31 | 2024-07-12 | 2024-07-27 |
 | [Грім](https://open.spotify.com/track/3D0yIqLOW0MRQdlgZkSCqp) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Грім](https://open.spotify.com/album/6R3V04E5Xxms9CbRtlvqyv) | 2:19 | 2024-10-18 | 2024-11-08 |
+| [Давай Тікай](https://open.spotify.com/track/102r3LmKTn3JL6BMa7qPny) | [Granat Garden](https://open.spotify.com/artist/2KMR2HzUel7KoNvJaTjt5L) | [Давай Тікай](https://open.spotify.com/album/1AHwB9pvaLS0YcNxAvBtbf) | 4:49 | 2025-10-23 |  |
 | [Дай мені час](https://open.spotify.com/track/3DXwgIs3GBavjSQi0zeQ16) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Дай мені час](https://open.spotify.com/album/5okpkmmkbQea9ZjCinNDxK) | 3:26 | 2025-04-24 | 2025-05-17 |
 | [Дай мені шанс](https://open.spotify.com/track/4OUNPYTUH6NxOn8H6jRWPc) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Чорний лебідь](https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ) | 2:26 | 2024-06-27 | 2024-12-10 |
 | [Далеко](https://open.spotify.com/track/4sWSz6KehThL55CCTPVBFR) | [pasta fibonacci](https://open.spotify.com/artist/0acnHYtXIU7WMipEgQUPT2) | [Далеко](https://open.spotify.com/album/5Us6kMB53DmuVLKtqj7dKg) | 2:49 | 2025-03-17 | 2025-10-24 |
@@ -219,7 +220,7 @@
 | [кілька фраз](https://open.spotify.com/track/1lhauxM37QLAdZx5f4FAxn) | [yosyaa](https://open.spotify.com/artist/3G8XcG1zIsU5edIBQGsnIV) | [кілька фраз](https://open.spotify.com/album/20d06QHhQUE5qXVSEWh702) | 2:32 | 2025-05-16 | 2025-06-20 |
 | [Лесбіянство \(не\) модно](https://open.spotify.com/track/0r3YToqYduJnqAQLvda1j0) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Лесбіянство \(не\) модно](https://open.spotify.com/album/2ErrKh5Je7FE64vfGEK2gq) | 2:40 | 2025-10-23 |  |
 | [Липи](https://open.spotify.com/track/10pG6zv6npF36Ryfm3EeTc) | [Htyvyi](https://open.spotify.com/artist/5NCTD3oKQEOW44Acb45fbP), [Dmytro Kod](https://open.spotify.com/artist/2enZNbbp8gTet6jZI9Rbfa) | [Липи](https://open.spotify.com/album/6whowGej3MjFo0MvXBOy2x) | 3:04 | 2025-06-19 | 2025-07-01 |
-| [Лише](https://open.spotify.com/track/2NKdzNro3GxhLfGnItAKmX) | [MOISHE](https://open.spotify.com/artist/6pcvAwBZmKzwCFYeCSo3eh) | [Лише](https://open.spotify.com/album/7urA01aCuLElIXb87pKKYG) | 2:26 | 2025-08-08 |  |
+| [Лише](https://open.spotify.com/track/2NKdzNro3GxhLfGnItAKmX) | [MOISHE](https://open.spotify.com/artist/6pcvAwBZmKzwCFYeCSo3eh) | [Лише](https://open.spotify.com/album/7urA01aCuLElIXb87pKKYG) | 2:26 | 2025-08-08 | 2025-11-01 |
 | [Лоботомія](https://open.spotify.com/track/6vEyh2rOwDEw3LEcwvFzeg) | [Максим Тощо](https://open.spotify.com/artist/3Ep1gS5T8izuWbdLi02gLQ), [Тощо](https://open.spotify.com/artist/5xtYAoNSDJqff7kKvLp1VZ) | [Косметика \(Делюкс\)](https://open.spotify.com/album/0UFLvHROZBTb7PRvOfn2Gp) | 3:43 | 2025-05-16 | 2025-05-31 |
 | [Луги](https://open.spotify.com/track/2A6RrJHuuKUvGKbDoPqSDW) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Луги](https://open.spotify.com/album/7rFdDzZpQkzXw48uhQ7Owm) | 3:07 | 2024-06-27 | 2024-07-13 |
 | [Лунає](https://open.spotify.com/track/1eD2eY8EOi8pOGm7toAfQF) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [AMARA](https://open.spotify.com/album/4PG7HcZnnk0aIqkvQPLiZR) | 2:34 | 2025-05-30 |  |

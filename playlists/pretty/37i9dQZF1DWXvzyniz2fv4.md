@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,273 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,274 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 15 | [replay](https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [replay](https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4) | 2:31 |
 | 16 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 |
 | 17 | [Sábado](https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Voos Internacionais, Vol\. 2](https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj) | 2:23 |
-| 18 | [Eles Não Querem](https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Eles Não Querem](https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215) | 3:46 |
-| 19 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
+| 18 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
+| 19 | [Eles Não Querem](https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Eles Não Querem](https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215) | 3:46 |
 | 20 | [sintetizar](https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X) | [sazack](https://open.spotify.com/artist/6Xvmre2lrs6Rl0IdJlmVz1), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Matt](https://open.spotify.com/artist/4l1lw74M2WiTks3caXBtl9) | [cinco noites em sp](https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm) | 2:26 |
 | 21 | [quem dera fosse...](https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS) | [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Léo da Bodega](https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [quem dera fosse...](https://open.spotify.com/album/2buJ0NeUZkGf0uu4I7CjCK) | 2:49 |
 | 22 | [Tira, Coloca De Volta](https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw) | [Tira, Coloca De Volta](https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE) | 2:24 |

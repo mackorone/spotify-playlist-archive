@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 61632,
+  "num_followers": 61633,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAkjaMFt2YRgdD5WLxoll5j",
+  "snapshot_id": "aQKqgAAAAABUopGNYcxI2mjbzK84x6qK",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "A.C.D.C.",
-      "url": "https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dr. Demento Covered In Punk",
         "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Roadrunner",
+      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 187560,
       "name": "Love Is Pain",
       "url": "https://open.spotify.com/track/689CSL6W1c4JdonfEB6q2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "A.C.D.C.",
+      "url": "https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 170506,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Roadrunner",
-      "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Tush",
-      "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 182413,
       "name": "School Days",
       "url": "https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Tush",
+      "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love Rock 'N' Roll (Live At The New York Bottom Line, Dec 20th 1980)",
-        "url": "https://open.spotify.com/album/6fG2kqSgt8sM99iJj3keTJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        },
-        {
-          "name": "Blackhearts",
-          "url": "https://open.spotify.com/artist/5mJzqDKepWgcC9IeHNTCKa"
-        }
-      ],
-      "duration_ms": 39033,
-      "name": "Band Intros - Live",
-      "url": "https://open.spotify.com/track/0dOQ4qzbfNVB5zEvCreGgX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
         "url": "https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd"
       },
@@ -727,6 +707,22 @@
       "duration_ms": 173853,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 140066,
+      "name": "Wooly Bully",
+      "url": "https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC"
     },
     {
       "added_at": null,
@@ -747,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
       },
       "artists": [
         {
@@ -756,9 +752,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 140066,
-      "name": "Wooly Bully",
-      "url": "https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC"
+      "duration_ms": 182800,
+      "name": "I Love Playin' With Fire",
+      "url": "https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
+        "name": "I Love Rock 'N' Roll (Live At The New York Bottom Line, Dec 20th 1980)",
+        "url": "https://open.spotify.com/album/6fG2kqSgt8sM99iJj3keTJ"
       },
       "artists": [
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        },
+        {
+          "name": "Blackhearts",
+          "url": "https://open.spotify.com/artist/5mJzqDKepWgcC9IeHNTCKa"
         }
       ],
-      "duration_ms": 182800,
-      "name": "I Love Playin' With Fire",
-      "url": "https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ"
+      "duration_ms": 39033,
+      "name": "Band Intros - Live",
+      "url": "https://open.spotify.com/track/0dOQ4qzbfNVB5zEvCreGgX"
     },
     {
       "added_at": null,

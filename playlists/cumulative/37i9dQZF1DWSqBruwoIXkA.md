@@ -4,10 +4,11 @@
 
 > heartbreak feels good in a place like sad hour, with Alexander Stewart
 
-983 songs - 2 day 6 hr 5 min
+985 songs - 2 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$82 at Erewhon](https://open.spotify.com/track/4DfOEg7MBodW1fxXkP5ViL) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [$82 at Erewhon](https://open.spotify.com/album/59unleOrwrllljDVxIfZ9i) | 3:47 | 2025-10-31 |  |
 | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [\(Wish I Didn't Have to\) Lie \[feat\. JORDY\]](https://open.spotify.com/album/6Xw2btwdvf4zFwt8XxBG0r) | 2:55 | 2021-12-17 | 2022-07-29 |
 | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 | 2023-12-08 | 2023-12-23 |
 | [0 OR 100 \(SIDE A\)](https://open.spotify.com/track/3mj6Vpr689fQFjyXq6TInY) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V3](https://open.spotify.com/album/4B1AKRB1vuuwu8JoQHwDmW) | 2:23 | 2023-08-18 | 2023-09-09 |
@@ -502,6 +503,7 @@
 | [June Gloom](https://open.spotify.com/track/5fvPYln4Ke77apnrjbbvOo) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 3:00 | 2024-08-31 | 2025-03-26 |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2022-12-17 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-05 | 2025-03-26 |
+| [Just Enough](https://open.spotify.com/track/0KT2QiCsOLGQsxSobg61BM) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 3:11 | 2025-10-31 |  |
 | [Just Like Us](https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Just Like Us](https://open.spotify.com/album/4rm9TMVQIUkgLHLs9TldWD) | 3:15 | 2025-09-12 | 2025-09-21 |
 | [Just Married](https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:18 | 2023-02-17 | 2023-08-05 |
 | [Keep Hoping](https://open.spotify.com/track/4RhK5GQfBDhrJfkHImoBS0) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Keep Hoping](https://open.spotify.com/album/61GIbNflbuWH1DWUoHxI8Q) | 3:26 | 2022-03-18 | 2022-04-16 |
@@ -604,7 +606,7 @@
 | [messier](https://open.spotify.com/track/53H3ajzHjI5M9ZeewvRO3h) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:57 | 2024-01-12 | 2024-04-13 |
 | [mexico city](https://open.spotify.com/track/34Y7LIhSelCjmzJUZHBEOn) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 2:27 | 2022-01-21 | 2022-01-29 |
 | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv) | 3:57 | 2024-02-09 | 2024-02-24 |
-| [Misbehave](https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Misbehave](https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF) | 2:25 | 2025-09-19 |  |
+| [Misbehave](https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Misbehave](https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF) | 2:25 | 2025-09-19 | 2025-11-01 |
 | [Miss Me the Same \(with Anson Seabra\)](https://open.spotify.com/track/5pSueoHUFxwBiLebqpcGUU) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Miss Me The Same \(with Anson Seabra\)](https://open.spotify.com/album/6trwAd4aAcGduTeXvuVwN3) | 3:36 | 2023-04-28 | 2023-08-01 |
 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-28 | 2022-12-17 |
 | [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-21 | 2022-10-30 |
@@ -651,7 +653,7 @@
 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 | 2024-02-14 | 2024-09-14 |
 | [Nostalgia](https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:03 | 2025-02-21 | 2025-08-18 |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-08-01 |
-| [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-07-15 |  |
+| [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-07-15 | 2025-11-01 |
 | [not over you](https://open.spotify.com/track/1hXAkVaCozEsMUPVCcEkO9) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [bye](https://open.spotify.com/album/6qgMAtWzDo8Y1yBoGxv189) | 3:10 | 2022-01-07 | 2022-03-15 |
 | [Not Used To Normal](https://open.spotify.com/track/7hOCTGGlJBfdenJDrjduht) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Not Used To Normal](https://open.spotify.com/album/6kz7FJsraxGIXVN3dqsnYM) | 2:02 | 2022-05-27 | 2022-10-22 |
 | [Not Usually Like This](https://open.spotify.com/track/6jFzlVYVaGUUBbkZtMPxWh) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Not Usually Like This](https://open.spotify.com/album/0LEquNgl5YmOrDs2yLymJV) | 3:19 | 2021-12-17 | 2022-01-08 |

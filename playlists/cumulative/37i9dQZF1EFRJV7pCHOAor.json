@@ -1993,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186773,
+      "name": "LYIN'",
+      "url": "https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB"
+    },
+    {
+      "album": {
         "name": "This Is Me...Now",
         "url": "https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt"
       },

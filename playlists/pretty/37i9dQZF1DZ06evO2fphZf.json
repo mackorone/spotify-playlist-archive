@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12451,
+  "num_followers": 12448,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAACoD/KPZlpZFDcFipCpU7fv",
+  "snapshot_id": "aQKqgAAAAADZsPS3HTtmcmNPxosv/5Us",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KAWASAKI (with Felip & th\u1ee7y)",
         "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 130666,
       "name": "KAWASAKI (with Felip & th\u1ee7y)",
       "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "in my head",
-      "url": "https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 166155,
-      "name": "dumb luck",
-      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this",
         "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 144396,
       "name": "in my bag",
       "url": "https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 166155,
+      "name": "dumb luck",
+      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
     },
     {
       "added_at": null,

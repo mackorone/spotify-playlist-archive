@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória, Nívea Soares
 
-300 songs - 1 day 3 hr 24 min
+301 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Eu Cuido De Você](https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Eu Cuido De Você](https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL) | 5:01 | 2022-09-09 | 2023-03-25 |
 | [Eu Disse](https://open.spotify.com/track/4H3FWYvpm1mCa0EySJaGti) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Eu Disse](https://open.spotify.com/album/3VfBCfcFcR03pnSdaoQgLX) | 4:37 | 2022-10-28 | 2022-12-17 |
 | [Eu Mais Deus \- Ao Vivo](https://open.spotify.com/track/2Ivq3QTLrQwqP9WOzJkUB6) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Mais Deus \(Ao Vivo\)](https://open.spotify.com/album/1IudxS4wetQCAuugeZLLwX) | 6:59 | 2023-10-20 |  |
-| [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/track/1CLdTTa42Y2PZMuYuwbMVS) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/album/5m0ssj0Vlx2Nw0oX1Xu9JZ) | 4:03 | 2025-04-17 |  |
+| [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/track/1CLdTTa42Y2PZMuYuwbMVS) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/album/5m0ssj0Vlx2Nw0oX1Xu9JZ) | 4:03 | 2025-04-17 | 2025-11-01 |
 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 | 2023-05-26 | 2024-04-20 |
 | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d) | 4:41 | 2023-07-14 | 2023-08-05 |
 | [Eu Quem Merecia](https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Eu Quem Merecia](https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib) | 5:50 | 2025-08-11 |  |
@@ -277,6 +277,7 @@
 | [Transforma\-me \(Ao Vivo\)](https://open.spotify.com/track/76RWrsRr467nRctpzdwn0H) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Transforma\-me \(Ao Vivo\)](https://open.spotify.com/album/4VvjMi1B7az8yTBkU2lJ7s) | 5:55 | 2024-04-19 | 2025-07-20 |
 | [Tremeu](https://open.spotify.com/track/2j2K6cO24BaD1lq48bhhMA) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Tremeu](https://open.spotify.com/album/1PjFlonqoZsWn4PNyZqVjh) | 4:43 | 2023-05-05 | 2023-05-27 |
 | [Tu És Deus](https://open.spotify.com/track/00OmdEHRlkPyUr50noD3bA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Deluxe\)](https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN) | 5:13 | 2023-07-28 | 2023-09-09 |
+| [Tua Glória Me Abraça \- Ao Vivo](https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tua Glória Me Abraça \(Ao Vivo\)](https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa) | 5:27 | 2025-10-31 |  |
 | [Tua Palavra \(Ao Vivo\)](https://open.spotify.com/track/7gejGDUDpKcXHlYztF40J4) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Tua Palavra \(Ao Vivo\)](https://open.spotify.com/album/41Syb7Ldbj3NbqulQYjps0) | 3:40 | 2023-11-03 | 2023-12-19 |
 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 | 2023-03-24 | 2023-07-22 |
 | [Tudo em Mim](https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Tudo em Mim](https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj) | 4:05 | 2023-11-24 | 2024-04-20 |

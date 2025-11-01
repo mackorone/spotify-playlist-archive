@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain]
 
 > Clean Versions of Your Favourite Hits! Includes The Weeknd, Justin Bieber, Shawn Mendes and more! Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 4,543 likes - 87 songs - 4 hr 33 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 4,542 likes - 87 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

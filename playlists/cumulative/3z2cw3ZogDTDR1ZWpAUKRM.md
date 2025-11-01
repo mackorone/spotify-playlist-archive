@@ -4,13 +4,13 @@
 
 > 
 
-41 songs - 3 hr 2 min
+42 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Another New World](https://open.spotify.com/track/2OWfdex8Sx9e6RqUeFfUKW) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Ahoy!](https://open.spotify.com/album/36jzIBBHAa6v02X8fE1JB8) | 6:30 | 2024-04-08 | 2024-05-17 |
 | [Blackest Eyes \- Remastered](https://open.spotify.com/track/72MXwlutXRUV31lmFhylgn) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [In Absentia \(Deluxe \- Remastered\)](https://open.spotify.com/album/38d7C2XIoUX0v5cU0HuSSW) | 4:24 | 2024-07-17 |  |
-| [Bread & Wine](https://open.spotify.com/track/6CgrS3cN3hBo4uCft5uFom) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Love & War & The Sea In Between](https://open.spotify.com/album/3jrVFS6lW7HvxOKN7QPQC8) | 3:54 | 2024-05-10 |  |
+| [Bread & Wine](https://open.spotify.com/track/6CgrS3cN3hBo4uCft5uFom) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Love & War & The Sea In Between](https://open.spotify.com/album/3jrVFS6lW7HvxOKN7QPQC8) | 3:54 | 2024-05-10 | 2025-11-01 |
 | [Can't Win For Nothing](https://open.spotify.com/track/3wTOBV4b65YjvwOYs2yCuY) | [Symba](https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD) | [Results Take Time](https://open.spotify.com/album/2ZNgCAl9uWdJiil7vb45LP) | 3:50 | 2024-04-15 |  |
 | [Carry No Thing](https://open.spotify.com/track/3bJs7zfcoFrHEPiB0VwQmy) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Carry No Thing](https://open.spotify.com/album/5o2w9W01C8EI12pigBbazh) | 3:23 | 2025-03-05 |  |
 | [Cate’s Brother](https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Cate’s Brother](https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F) | 3:00 | 2024-04-08 | 2024-05-03 |
@@ -23,6 +23,7 @@
 | [Don't Forget Me](https://open.spotify.com/track/5tlXwZ4m7dbRZyG4natJZ1) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:25 | 2024-10-28 |  |
 | [Enemy, love.](https://open.spotify.com/track/1FJuSxwLugTKphYmrLDuhn) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:18 | 2024-04-25 | 2024-05-11 |
 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 | 2024-04-15 | 2024-07-18 |
+| [Goldberg Variations, BWV 988: Variation 20 a 2 Clav.](https://open.spotify.com/track/54VrtN6vHC3gXyqhDulUcW) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 0:50 | 2025-10-31 |  |
 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2024-04-08 | 2024-04-16 |
 | [heart pt\. 6](https://open.spotify.com/track/1x95pL62pLkxgPprH9ONkQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 4:52 | 2025-03-05 |  |
 | [Hold On, We're Going Home \- Live](https://open.spotify.com/track/3ERYCA53SPsF1M8JboN7ld) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Crowder’s Neon Porch Extravaganza \(Live\)](https://open.spotify.com/album/06Sgy5mHvpIRy2a2Jv4dUo) | 1:42 | 2024-07-17 | 2024-10-30 |

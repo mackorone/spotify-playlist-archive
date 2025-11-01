@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-317 songs - 19 hr 45 min
+318 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Misery](https://open.spotify.com/track/2SVbjw7sdiNjAvGpQ4eEai) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Remade In Misery](https://open.spotify.com/album/7IuAUPmji3K4QusCAR6iw1) | 3:12 | 2023-07-25 |  |
 | [Money, Sex, or God](https://open.spotify.com/track/694R5GadE4oSFvn8uk0pEE) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Money, Sex, or God](https://open.spotify.com/album/3rEfQMNIq9ZXeJZg61dFA6) | 3:39 | 2024-05-10 |  |
 | [Monster In Me](https://open.spotify.com/track/4vyztsf6uzcuLF5gRDQYWt) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:34 | 2023-07-28 |  |
+| [Monsters In My Head](https://open.spotify.com/track/0q2Q3YPiI8zbfLoLJ4pf8A) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [ANGELS CALLING](https://open.spotify.com/album/04jzwcuicEAURi04bVSArG) | 2:59 | 2025-10-31 |  |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-01-24 |  |
 | [Needles](https://open.spotify.com/track/6V8oQXzymTzpEZOsiBiyJT) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:13 | 2023-05-17 |  |
 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 | 2021-10-01 | 2023-01-04 |

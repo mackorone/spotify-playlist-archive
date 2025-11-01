@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Omar Rodriguez
 
-859 songs - 2 day 19 hr 44 min
+860 songs - 2 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [CICATRICES](https://open.spotify.com/track/7hr0OyJzcvtkyNxrjlzFUS) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [CICATRICES](https://open.spotify.com/album/4o0231wiUwMNR3movn9RbR) | 3:00 | 2023-06-23 | 2023-09-09 |
 | [Cielo](https://open.spotify.com/track/6hqctfu3b8INEoarQ6GyzP) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Cielo](https://open.spotify.com/album/6QXkdgqP0i3oeA5TVF3zcJ) | 3:13 | 2022-05-06 | 2022-06-25 |
 | [Clamo A Cristo](https://open.spotify.com/track/29mVu59pryGlHa2g52yuCD) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Clamo A Cristo](https://open.spotify.com/album/1rFix36XxWCHOhjiMvRdqk) | 5:57 | 2025-03-11 |  |
-| [Clamé](https://open.spotify.com/track/7cIHhDPOqzyb4ABNF3h5Rz) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Clamé](https://open.spotify.com/album/7vRulXQPkn42HqWTmbutqp) | 4:44 | 2025-09-26 |  |
+| [Clamé](https://open.spotify.com/track/7cIHhDPOqzyb4ABNF3h5Rz) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Clamé](https://open.spotify.com/album/7vRulXQPkn42HqWTmbutqp) | 4:44 | 2025-09-26 | 2025-11-01 |
 | [Color de Alegría](https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV) | [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Color de Alegría](https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9) | 2:41 | 2022-04-22 | 2022-10-29 |
 | [Colores \- Live](https://open.spotify.com/track/0NB8PzSYEgOXkIoGnRXvAn) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [UNO \(Live\)](https://open.spotify.com/album/5vdYMnnCJmO7SfznAbalil) | 3:34 | 2025-02-14 | 2025-07-19 |
 | [Come What May \(Spanish/English Version\)](https://open.spotify.com/track/5KxMKSeGHvTCL0cFRtUwPz) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Come What May \(Spanish/English Version\)](https://open.spotify.com/album/6KKUvTtlXEepTEK2BYb2Yy) | 3:24 | 2022-09-16 | 2023-08-26 |
@@ -402,6 +402,7 @@
 | [Indescribable \(feat\. Un Corazón, WHATUPRG\)](https://open.spotify.com/track/6aHnk0vmpekMPYWpLXTY2f) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/6yFD9a0CkXz8tY75nyN9wo) | 3:31 | 2022-02-25 | 2022-04-29 |
 | [Indestructible](https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Indestructible](https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z) | 4:04 | 2022-07-01 | 2022-09-03 |
 | [INEXPLICABLE](https://open.spotify.com/track/6uOIHZAzjVPw4HMvVm2iLB) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [INEXPLICABLE](https://open.spotify.com/album/1nd9D1hguoYMOlvIljJym1) | 7:51 | 2023-10-13 | 2025-01-18 |
+| [Inquebrantable](https://open.spotify.com/track/5bQhc8SI484MRfa7X7PlOv) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Inquebrantable](https://open.spotify.com/album/3M0Jh6mEcpMSJXbM5vqNQ0) | 3:33 | 2025-10-31 |  |
 | [Invencible](https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7) | [Ariel Ramirez](https://open.spotify.com/artist/7MmJna5pkLxaGMaKBdczjv), [Jadi Torres](https://open.spotify.com/artist/2qK5GWkN7jKSM5GOAzD564), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Invencible](https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw) | 3:37 | 2024-06-28 | 2025-02-22 |
 | [Irremplazable](https://open.spotify.com/track/6Gafrb0iWf2L8lYKinhvNy) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Irremplazable](https://open.spotify.com/album/02ZRieI3zzi4LiMhJHP1hA) | 3:55 | 2022-07-15 | 2022-10-01 |
 | [Isla del Encanto](https://open.spotify.com/track/4i90a4xXMqAOxcacd6G6Yx) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Isla del Encanto](https://open.spotify.com/album/4YNWFXP52soSmtu9u8Pbwe) | 3:09 | 2023-08-11 | 2024-06-01 |

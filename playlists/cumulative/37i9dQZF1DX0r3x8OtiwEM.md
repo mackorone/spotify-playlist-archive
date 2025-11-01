@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-745 songs - 2 day 22 hr 37 min
+746 songs - 2 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Bloom In The Cold](https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Bloom In The Cold](https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX) | 4:23 | 2023-02-18 | 2024-07-19 |
 | [Blue Dream](https://open.spotify.com/track/7etFQJui0P0UpMF4TDMBvl) | [Beatamines](https://open.spotify.com/artist/12q8WblexNLJ0QGejfoeXK) | [Blue Dream](https://open.spotify.com/album/3H3HlMwpfD8CpTjhVwhKw9) | 5:51 | 2019-08-06\* | 2019-09-19 |
 | [Boavista](https://open.spotify.com/track/5XWtnEDX7CJC9yK6F7KeK6) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Boavista](https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3) | 7:37 | 2021-10-11 | 2022-07-28 |
+| [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 | 2025-10-24 |  |
 | [Boundaries](https://open.spotify.com/track/4hJyUjsqSPN9WedW4J6S5p) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Should Have Seen It Coming EP](https://open.spotify.com/album/0vg4zAM1cS40kkCxfINEey) | 4:11 | 2021-02-20 | 2022-07-16 |
 | [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-04 |  |
 | [Boys & Girls](https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM) | [Nightwhisper](https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa) | [Boys & Girls](https://open.spotify.com/album/212D606rlOMsRWxOV6s0jW) | 2:32 | 2020-11-28 | 2022-04-24 |
@@ -175,7 +176,7 @@
 | [Distant Paradise](https://open.spotify.com/track/1wwfW6cJLS3kf0NV1dGzlA) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 8:04 | 2020-01-01 | 2020-01-04 |
 | [Divergence](https://open.spotify.com/track/1NNSKbwxHECS8soJykPFHD) | [Lake People](https://open.spotify.com/artist/6YTWss7MFcjsJRDgmtqO2l) | [Dixon & Âme Present Limbo](https://open.spotify.com/album/4mG0wdymDEjVc8S8LcShI5) | 3:25 | 2020-12-24 | 2021-02-26 |
 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 | 2021-12-17 | 2024-12-27 |
-| [Don't Give Up](https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Don't Give Up](https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5) | 3:06 | 2025-09-12 |  |
+| [Don't Give Up](https://open.spotify.com/track/41IzbkTcmjj8EMsMCAw0iM) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Don't Give Up](https://open.spotify.com/album/1MuZwe2gViW1Pv3MQrznk5) | 3:06 | 2025-09-12 | 2025-11-01 |
 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Talal](https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz), [Amy Wawn](https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf) | [Don't Give Up \(Radio Edit\)](https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN) | 3:28 | 2021-05-09 | 2022-12-24 |
 | [Don't Hold Back \- Edit](https://open.spotify.com/track/7g2ubdOa7LFHBGgt4UcjqO) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Don't Hold Back \(Edit\)](https://open.spotify.com/album/3MG0AAwNKfBPAUMGJR3mRz) | 4:30 | 2021-10-04 | 2022-07-29 |
 | [Don't Stop Me Now](https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Don't Stop Me Now](https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS) | 5:44 | 2024-12-13 | 2025-01-19 |

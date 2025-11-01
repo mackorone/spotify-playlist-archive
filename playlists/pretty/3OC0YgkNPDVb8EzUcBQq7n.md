@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 
 > Best of  the female era! The biggest hits wrapped in one playlist, with Sabrina Carpenter, Gracie Abrams, Billie Eilish, Chappell Roan and more
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 43,451 likes - 74 songs - 4 hr 2 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 43,441 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 | 73 | [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 |
 | 74 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
 
-Snapshot ID: `AAARUql8kKumV31+M7XvnHKOUUJQnv9H`
+Snapshot ID: `AAARVCbTLm6qZWqVxh36WMUKJcJhrDJU`

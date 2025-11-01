@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 
 > hand\-picked and hot right now 📈 cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,417 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,416 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 37 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 | 38 | [mirrors demo](https://open.spotify.com/track/3LDEJgX75Dh0HzEDtQY7lv) | [overtonight throwaways](https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7), [overtonight](https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs) | [SWAT](https://open.spotify.com/album/2dZ0APHp9odDMxKUTxIPQh) | 1:45 |
 | 39 | [Make Believe](https://open.spotify.com/track/5iH81hIpxAYJKrominvxST) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/5rz0T4v8f8U8fdZeq93BhH) | 3:05 |
-| 40 | [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 |
+| 40 | [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 |
 | 41 | [Sugar On My Tongue](https://open.spotify.com/track/1BrQRA3j6Ua6zj6xvb2mU7) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/66dOCZnzAEgxWpG8DVjoUv) | 2:33 |
 | 42 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 |
 | 43 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 |

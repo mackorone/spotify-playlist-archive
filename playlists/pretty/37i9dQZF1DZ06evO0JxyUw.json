@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275653,
+  "num_followers": 275657,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQFZAAAAAAAI3ZYzMat6LHEYsF6I4RHP",
+  "snapshot_id": "aQKqgAAAAAASegi+ElyeWa5/NKi7NrRg",
   "tracks": [
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Addams Family 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jhL3hfmzNgwgHZhkfpebG"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 43636,
+      "name": "The Addams Family - Theme",
+      "url": "https://open.spotify.com/track/1ghMIzXESR7hQpfCWDogEX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AGUILERA",
         "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 246146,
       "name": "Tell Me (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Addams Family 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1jhL3hfmzNgwgHZhkfpebG"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 43636,
-      "name": "The Addams Family - Theme",
-      "url": "https://open.spotify.com/track/1ghMIzXESR7hQpfCWDogEX"
     },
     {
       "added_at": null,

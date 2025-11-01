@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Homer el Mero Mero en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,003 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,057 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 49 | [RESPETO](https://open.spotify.com/track/4Amr9e2FjzQWtsz696lNDw) | [Rc La Sensacion](https://open.spotify.com/artist/4yR1GCYxY2lgkvPUhUM8Ws) | [RESPETO](https://open.spotify.com/album/5Bs4pslrUo6mzkj4g7f3UH) | 1:34 |
 | 50 | [LA ´PARA Y VAKERÓ](https://open.spotify.com/track/6woEKGoP2XiAI2BhrPZ1gT) | [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [SE FUE LA LUZ](https://open.spotify.com/album/5Q7wLNKTv3MnxcOSg2Y2bV) | 3:17 |
 
-Snapshot ID: `AAAAAOw6+5nFnfHgF1FAV+FyfB1lTIHR`
+Snapshot ID: `AAAAAFBQacU7B/Ku0qX+mAI/wcufXCX1`

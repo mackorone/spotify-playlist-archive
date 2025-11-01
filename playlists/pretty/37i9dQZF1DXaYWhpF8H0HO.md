@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Dinda Ghania
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,386 likes - 105 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,421 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never True](https://open.spotify.com/track/6Z0UxAt1z5IzSrlb5wd26J) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Never True](https://open.spotify.com/album/7hmq0Xvo1adsy8Sv8PHoXt) | 2:57 |
 | 2 | [I Don’t Wanna Hate the World](https://open.spotify.com/track/3l3djcnaZrqsfQTWXcofY7) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [I Don’t Wanna Hate the World](https://open.spotify.com/album/6Dqo1Hw8LpEhH7KtSIL9Kg) | 3:31 |
 | 3 | [Artificial Grass](https://open.spotify.com/track/3J5r1YebSC4fW4R14Zgf72) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Artificial Grass](https://open.spotify.com/album/6zrKX85vdTchx5H2oSMDhU) | 3:02 |
-| 4 | [Track 9](https://open.spotify.com/track/6xeDOENsTSZoIx9wWveCrE) | [Roadtrip to Antarctica](https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [She's Mysterious](https://open.spotify.com/track/6xeDOENsTSZoIx9wWveCrE) | [Roadtrip to Antarctica](https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg) | [Hotel Du Monde](https://open.spotify.com/album/093p6MOfrOmzMnDzymMEvq) | 2:44 |
 | 5 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
 | 6 | [Get 2 U](https://open.spotify.com/track/6qdsmy31Lw9o5QtgFQ6XO4) | [Bayu Risa](https://open.spotify.com/artist/3YaBuuR6wR9wAxwB1G9SN8), [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [Get 2 U](https://open.spotify.com/album/2gEp6DORyfYH7FddJa0i98) | 3:15 |
 | 7 | [crown \- Extended version](https://open.spotify.com/track/747NwXzJbzxokNvuBTISIF) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [crown \(Extended version\)](https://open.spotify.com/album/26hmmNJYwMY5RvjNPhPdpk) | 4:19 |

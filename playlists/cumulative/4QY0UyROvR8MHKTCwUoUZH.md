@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2025 \| Koffie Chill \| Café Music
 
-141 songs - 7 hr 40 min
+144 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Can't Take You Home](https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4) | [Denzel Chain](https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0) | [Can't Take You Home](https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4) | 3:01 | 2025-07-18 |  |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2025-07-18 | 2025-08-23 |
 | [Catch 22](https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Catch 22](https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv) | 3:17 | 2025-07-18 | 2025-10-18 |
+| [Chance Encounter](https://open.spotify.com/track/2uuQPxTltYpigcGJb1xKUc) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Chance Encounter](https://open.spotify.com/album/3ySvgHcZ8wqWDy6QbYskim) | 3:27 | 2025-10-31 |  |
 | [Cincinnati Heart](https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Cincinnati Heart](https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS) | 2:51 | 2025-07-18 |  |
 | [Colorbars \(feat\. Chris Thile\)](https://open.spotify.com/track/3OY2R7N6anYFW5IND5Ekrj) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Colorbars \(feat\. Chris Thile\)](https://open.spotify.com/album/4tkOBq5HLmSXT18ufEUBM6) | 5:23 | 2025-08-15 |  |
 | [Coming of Age](https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Coming of Age](https://open.spotify.com/album/5zqWfzZ722bHdKH4aBmaZP) | 3:16 | 2025-07-18 |  |
@@ -75,7 +76,7 @@
 | [It's A Beautiful Day Today](https://open.spotify.com/track/6wn3ZYA7XiXqfUCJCBo7q0) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Saving Grace](https://open.spotify.com/album/3E3qeXLdDtaX16OV4kbNoF) | 3:41 | 2025-09-26 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2025-07-18 | 2025-09-13 |
 | [Little Black Dress](https://open.spotify.com/track/6PlcDrN7nKvMB2caDnlWS2) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Little Black Dress](https://open.spotify.com/album/5jSuvKgusy6isCP4pdqGXs) | 3:16 | 2025-10-10 |  |
-| [Little More Peace](https://open.spotify.com/track/4hzIJ03631VAlr6rDZAJfX) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Little More Peace](https://open.spotify.com/album/38mBMbqdvlVW8G9BORbpqb) | 2:57 | 2025-07-18 |  |
+| [Little More Peace](https://open.spotify.com/track/4hzIJ03631VAlr6rDZAJfX) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Little More Peace](https://open.spotify.com/album/38mBMbqdvlVW8G9BORbpqb) | 2:57 | 2025-07-18 | 2025-11-01 |
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2025-07-18 |  |
 | [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 | 2025-07-18 | 2025-09-13 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-07-18 |  |
@@ -101,6 +102,7 @@
 | [Over You](https://open.spotify.com/track/3slbgFPGIqBPcQH1gDynB5) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Over You](https://open.spotify.com/album/4QZRQsznUdzpTFeKXb4x95) | 3:28 | 2025-07-18 | 2025-09-13 |
 | [peace of mind \(feat\. blackwave.\)](https://open.spotify.com/track/5hZ4Ta8RoPjlRIOp1viGM5) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD) | [333](https://open.spotify.com/album/3qZqLv9ASu1fawBdLD11JZ) | 3:24 | 2025-07-18 | 2025-08-23 |
 | [Pinocchio](https://open.spotify.com/track/4PlauR1yKbWWgUoZhDT1kh) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Pinocchio](https://open.spotify.com/album/7FW3kBFDP5PIY8dVV2LQSP) | 3:10 | 2025-07-18 | 2025-10-11 |
+| [Polo TSI](https://open.spotify.com/track/66bN4vvWaiZP1u8wVuYOiq) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Polo TSI](https://open.spotify.com/album/1YbtxQJz9kisYy5IwfPU8G) | 2:48 | 2025-10-31 |  |
 | [Pretending](https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pretending](https://open.spotify.com/album/5GNrY0z2yqaOOcvbmq1t5m) | 2:35 | 2025-10-17 |  |
 | [Puzzle](https://open.spotify.com/track/1E1bsQ93htYPzHqKbakej9) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Puzzle](https://open.spotify.com/album/6o2y7CpR7xIBqHYyFIXOu5) | 3:00 | 2025-07-18 | 2025-08-23 |
 | [Pyramid Scheme](https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Pyramid Scheme](https://open.spotify.com/album/1GFVlKpMG87Le8H1EmFKpG) | 3:15 | 2025-07-18 | 2025-09-20 |
@@ -126,7 +128,8 @@
 | [Tell Me Why](https://open.spotify.com/track/1GSqNxAu0EN8Iwe79arVed) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Tell Me Why](https://open.spotify.com/album/7GwD5eC55hJIarBxslZniG) | 2:23 | 2025-10-03 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2025-07-18 | 2025-10-04 |
 | [The Knife In My Back](https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Knife In My Back](https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX) | 2:49 | 2025-09-05 |  |
-| [The Way](https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [The Way](https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ) | 3:01 | 2025-07-18 |  |
+| [The Ocean](https://open.spotify.com/track/2L3yAc4GOgoDJb50YKVqxw) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [The Ocean](https://open.spotify.com/album/6ab2amp1PfPLEklhyIKqf3) | 1:03 | 2025-10-31 |  |
+| [The Way](https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [The Way](https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ) | 3:01 | 2025-07-18 | 2025-11-01 |
 | [There She Goes](https://open.spotify.com/track/17Oq7DCHIwtaFs2GuWHEr2) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [There She Goes](https://open.spotify.com/album/7tJQYF7j1H65H3HHVrXfvy) | 3:02 | 2025-09-12 |  |
 | [This Life](https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [This Life](https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy) | 3:02 | 2025-07-18 | 2025-09-27 |
 | [Thousand Nights](https://open.spotify.com/track/7bNfbHChtz9j65zMLvPoGV) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Thousand Nights](https://open.spotify.com/album/21woPwk6trw5H7sshSK7j2) | 2:59 | 2025-09-26 |  |
@@ -141,7 +144,7 @@
 | [what are friends for?](https://open.spotify.com/track/2w2XDOLq812JhcXe4nL2lI) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what are friends for?](https://open.spotify.com/album/1lleZ7nqFgCsP6ySrObaMn) | 2:57 | 2025-07-18 | 2025-08-16 |
 | [What’s on your mind?!](https://open.spotify.com/track/7zetTt73XEyvXy3xdq5gDs) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [What’s on your mind?!](https://open.spotify.com/album/400zMpudSCsm7wltCmspf3) | 3:38 | 2025-07-18 |  |
 | [Will I Ever Love Again \(feat\. Christina Barrett\)](https://open.spotify.com/track/6sKBBcC2A2LHQmu818UPdB) | [Blue Hue](https://open.spotify.com/artist/06Hn5bMvONssasZlSCJ7fU), [Christina Barrett](https://open.spotify.com/artist/0wCF391GJXKDyaKZcrvrEM) | [Birdsongs \(feat\. Christina Barrett\)](https://open.spotify.com/album/4ukEFrB5vzdV7UTnytGUgq) | 3:06 | 2025-08-15 | 2025-08-30 |
-| [Window](https://open.spotify.com/track/4vM1YX1WQVIz5B3eMgPCs1) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Window](https://open.spotify.com/album/1OzD9mT2n8432RK5z2HTe4) | 3:16 | 2025-08-22 |  |
+| [Window](https://open.spotify.com/track/4vM1YX1WQVIz5B3eMgPCs1) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Window](https://open.spotify.com/album/1OzD9mT2n8432RK5z2HTe4) | 3:16 | 2025-08-22 | 2025-11-01 |
 | [Wish I Never Met You](https://open.spotify.com/track/0fzCczqLzsWvvMobo1dUmy) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Wish I Never Met You](https://open.spotify.com/album/0XwXdmNgdSNC3eYojBIdsk) | 2:37 | 2025-07-18 | 2025-09-06 |
 | [Wonder](https://open.spotify.com/track/7bNA3soSLudaENsLHsKWjX) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Wonder](https://open.spotify.com/album/5wNacGekpjRqVqrZiUd2vd) | 4:07 | 2025-10-17 |  |
 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 | 2025-10-10 |  |

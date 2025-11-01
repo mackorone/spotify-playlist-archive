@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Skrillex & ISOxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,570 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,591 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [PUT IT DOWN \- Jkyl & Hyde Remix](https://open.spotify.com/track/46WqNBxyjLaxbHMM4BKTA2) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [PUT IT DOWN \(Jkyl & Hyde Remix\)](https://open.spotify.com/album/5DjMcPsSEQpWcECwAT0mKp) | 3:14 |
 | 100 | [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 |
 
-Snapshot ID: `AAAAAJGmErwYZ1SEsOVs/I7GI11lVD2j`
+Snapshot ID: `AAAAALfjD4KsyZ7uT3IF6ZF3EaLE94WF`

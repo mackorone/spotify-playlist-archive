@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with oskar med k",
-  "num_followers": 1852911,
+  "num_followers": 1852801,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL5YW7q4NTNRg4t+uP0Zggoj0cCE",
+  "snapshot_id": "AAAAAGofYoSP64QnA+RJyAjVTMAa9B/J",
   "tracks": [
     {
       "added_at": "2025-10-10 04:00:25",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl"
     },
     {
+      "added_at": "2025-10-31 04:00:36",
+      "album": {
+        "name": "Stay Still, A Little While",
+        "url": "https://open.spotify.com/album/3dCJW7g5MkeE9p7X4h4sjd"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Stay Still, A Little While",
+      "url": "https://open.spotify.com/track/6qbdnKNznLiwqplr35yb1n"
+    },
+    {
       "added_at": "2025-10-17 04:00:39",
       "album": {
         "name": "DNCR / imprint",
@@ -93,24 +113,20 @@
       "url": "https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA"
     },
     {
-      "added_at": "2025-10-10 04:00:25",
+      "added_at": "2025-10-31 04:00:36",
       "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+        "name": "Cocaine Inside My Blunts",
+        "url": "https://open.spotify.com/album/7BldDDjsC71bTainaI86JL"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+      "duration_ms": 187733,
+      "name": "Cocaine Inside My Blunts",
+      "url": "https://open.spotify.com/track/5fNaWjwU4FvSZoX1Q7g8gZ"
     },
     {
       "added_at": "2025-10-03 04:00:42",
@@ -135,6 +151,26 @@
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "added_at": "2025-10-31 04:00:36",
+      "album": {
+        "name": "Entwined",
+        "url": "https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Entwined",
+      "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
     },
     {
       "added_at": "2025-10-10 04:00:25",
@@ -231,6 +267,46 @@
       "duration_ms": 201230,
       "name": "Call You Back",
       "url": "https://open.spotify.com/track/38Cn5WXAveelCjMczHaK2P"
+    },
+    {
+      "added_at": "2025-10-31 04:00:36",
+      "album": {
+        "name": "Feel the Rhythm",
+        "url": "https://open.spotify.com/album/67YOOGJXXbfL0N5xRjRpDl"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "Feel the Rhythm",
+      "url": "https://open.spotify.com/track/7mnmhbOCsqpYnJg8en0j4D"
+    },
+    {
+      "added_at": "2025-10-10 04:00:25",
+      "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2025-10-10 04:00:25",
@@ -1425,22 +1501,6 @@
       "url": "https://open.spotify.com/track/5HCOROrwg6GYBhDG4BcKpO"
     },
     {
-      "added_at": "2025-08-22 04:00:17",
-      "album": {
-        "name": "The Remedy",
-        "url": "https://open.spotify.com/album/0IaYbZzTVe1ipJ4yn3eMXu"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 221130,
-      "name": "The Remedy",
-      "url": "https://open.spotify.com/track/7lzWB5OQsulccR6ywX4JjM"
-    },
-    {
       "added_at": "2025-09-12 04:00:07",
       "album": {
         "name": "GIRL I WANT YOU",
@@ -1531,42 +1591,6 @@
     {
       "added_at": "2025-08-22 04:00:17",
       "album": {
-        "name": "ascension",
-        "url": "https://open.spotify.com/album/2ATV1vTGeO6H7nMwo2cIAN"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "ascension",
-      "url": "https://open.spotify.com/track/64I6rOFgXK6XzElgsF4moV"
-    },
-    {
-      "added_at": "2025-08-22 04:00:17",
-      "album": {
-        "name": "alive",
-        "url": "https://open.spotify.com/album/4793thhWqAaumOMiplcu9y"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "alive",
-      "url": "https://open.spotify.com/track/43IicbdTFqQdd70qPUAFyi"
-    },
-    {
-      "added_at": "2025-08-22 04:00:17",
-      "album": {
         "name": "GIVE IN",
         "url": "https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o"
       },
@@ -1579,22 +1603,6 @@
       "duration_ms": 175945,
       "name": "GIVE IN",
       "url": "https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j"
-    },
-    {
-      "added_at": "2025-08-22 04:00:17",
-      "album": {
-        "name": "Burning Inside",
-        "url": "https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3"
-      },
-      "artists": [
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 218142,
-      "name": "Burning Inside",
-      "url": "https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z"
     },
     {
       "added_at": "2025-09-05 04:00:11",

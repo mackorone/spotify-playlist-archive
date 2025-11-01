@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,262 likes - 72 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,305 likes - 74 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 68 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
 | 69 | [光のシグナル](https://open.spotify.com/track/68VO2aVwUrkRJo7m0XrK45) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [光のシグナル](https://open.spotify.com/album/28mES2k7GFbwbhK2lVULON) | 4:24 |
 | 70 | [GO\-GO たまごっち!](https://open.spotify.com/track/4o7S3ohVMcmpppfjoNG8sZ) | [Yuria Nara](https://open.spotify.com/artist/6jDETxjdmgLtsewT4c3WMn) | [GO\-GO たまごっち!](https://open.spotify.com/album/43pOv6KdgB05eUgUO34OLV) | 3:48 |
-| 71 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
-| 72 | [Crow Song](https://open.spotify.com/track/3gvA4qesNQ2HyBVr34i1q3) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/6zdGnjO1xFsPr3eEIrjQec) | 4:08 |
+| 71 | [Super Powers](https://open.spotify.com/track/5ItXAcidK1KlJ9LL1RXGBk) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [Super Powers / Right Now](https://open.spotify.com/album/4ldZhgSrGGquj0NxpcnSuR) | 3:45 |
+| 72 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
+| 73 | [Crow Song](https://open.spotify.com/track/3gvA4qesNQ2HyBVr34i1q3) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/6zdGnjO1xFsPr3eEIrjQec) | 4:08 |
+| 74 | [Timeless](https://open.spotify.com/track/28w02Xi8OGUwnilatNXR4r) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [Timeless](https://open.spotify.com/album/30cP6HQWCsakG0Anp9opBx) | 3:55 |
 
-Snapshot ID: `AAAAAOx65pCnjm1a8gOBHL/NeRSm0o0g`
+Snapshot ID: `AAAAAI+RHCuKE2bqfNVI7xHIi7EO2nTN`

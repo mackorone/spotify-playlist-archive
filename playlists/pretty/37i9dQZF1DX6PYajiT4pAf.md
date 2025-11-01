@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Amaia,  ROSALÍA x Björk x Yves Tumor, Dani Martín, María Becerra y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,581 likes - 58 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,361 likes - 58 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 16 | [Perdónenme](https://open.spotify.com/track/1C93XmW0PPgdNWqhVY1ufS) | [Albert Pla](https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK), [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Perdónenme](https://open.spotify.com/album/0bvY0FaDvIbyh8TqssMdyp) | 3:49 |
 | 17 | [Mujer sola, hombre solo](https://open.spotify.com/track/4L64oHad8LTensWM5YWvbd) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Mujer sola, hombre solo](https://open.spotify.com/album/5v56kcomCCViUvmui0CBa6) | 4:02 |
 | 18 | [Modern Times](https://open.spotify.com/track/3GcakfkKpEStBeomWwYPwO) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Modern Times](https://open.spotify.com/album/3EyNltfgFSTxVvvNpKlHJ8) | 4:27 |
-| 19 | [On My Own](https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [](https://open.spotify.com/album/null) | 2:36 |
+| 19 | [On My Own](https://open.spotify.com/track/6b2TFoHrZ3DRelsx9sVjgD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [HEROINA](https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal) | 2:36 |
 | 20 | [Ghostface](https://open.spotify.com/track/3630Dlyqr0CyV1MPK5Z2Ur) | [El Jhota](https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz), [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Ghostface](https://open.spotify.com/album/4p8P2zJEazNlXOmI8dmx9a) | 2:39 |
 | 21 | [LA ESO](https://open.spotify.com/track/1noHgKhrhkh73jLPqAE1Dq) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM) | [LA ESO](https://open.spotify.com/album/6VVBvjiJbHXp3syFkSY4eG) | 2:56 |
 | 22 | [Tus Sacáis No](https://open.spotify.com/track/20t9Otk2eh69uc1dVkNxFF) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [Tus Sacáis No](https://open.spotify.com/album/0GwCr5LwAuTFCvStxqd2LJ) | 3:23 |

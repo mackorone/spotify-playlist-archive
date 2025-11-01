@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain]
 
 > The essential works of Wolfgang Amadeus Mozart, featuring relaxing piano, soulful strings, a few magical operas, and plenty of legendary melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,318 likes - 76 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,404 likes - 76 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

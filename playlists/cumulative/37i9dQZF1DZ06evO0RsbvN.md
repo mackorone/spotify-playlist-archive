@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-259 songs - 13 hr 1 min
+260 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Explaining the Blues](https://open.spotify.com/track/7il4L95CZqh0bzb2a9630n) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 3:27 | 2022-08-05 | 2023-08-31 |
 | [Explaining The Blues \(Take 1\)](https://open.spotify.com/track/1sFYRQvMot02dynAbJGypj) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:27 | 2023-06-22 | 2023-07-09 |
 | [Explaining The Blues \(Take 2\)](https://open.spotify.com/track/48rhwdAMn1do74dBSVkblE) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:24 | 2023-06-19 | 2023-06-21 |
+| [Farewell Daddy Blues](https://open.spotify.com/track/2X96z2ZcAxCFH0ye996o4u) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 3:02 | 2025-11-01 |  |
 | [Farewell Daddy Blues](https://open.spotify.com/track/5gXcVZdE4t3625XIYn2ZTt) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:02 | 2023-02-02 | 2024-11-16 |
 | [Farewell Daddy Blues](https://open.spotify.com/track/4Z1u9GjegmxbnxMByl1BnC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 3:02 | 2022-08-06 | 2025-03-23 |
 | [Farewell Daddy Blues](https://open.spotify.com/track/4lPLeuNkXCgBtjeClDc9kC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Essential Classics, Vol\. 687: Ma Rainey](https://open.spotify.com/album/3QusH6dhyXSPkw3ocjc154) | 3:03 | 2025-09-18 | 2025-10-27 |
@@ -98,7 +99,7 @@
 | [Georgia Cake Walk](https://open.spotify.com/track/21KNYnyvwRPR9olc34a1vp) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 3:02 | 2022-08-05 |  |
 | [Gone Daddy Blues](https://open.spotify.com/track/1A6ZrQTuzaoIO5qedWY9pF) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 2:32 | 2022-08-07 | 2022-08-09 |
 | [Gone Daddy Blues](https://open.spotify.com/track/3Xinuxt0iGklhDpa0i1UnI) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 2:35 | 2025-06-21 | 2025-10-22 |
-| [Gone Daddy Blues](https://open.spotify.com/track/4MoHZLvxd4FiXL6cFyI3NM) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 2:35 | 2025-02-15 |  |
+| [Gone Daddy Blues](https://open.spotify.com/track/4MoHZLvxd4FiXL6cFyI3NM) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 2:35 | 2025-02-15 | 2025-11-01 |
 | [Gone Daddy Blues](https://open.spotify.com/track/5nTmbti4tTyuySIH9TyAlS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:35 | 2022-09-14 | 2024-09-20 |
 | [Goodbye Daddy Blues](https://open.spotify.com/track/43QK5A7OW1bVTnwnF9Z8h0) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 3:24 | 2023-09-10 | 2023-09-16 |
 | [Goodbye Daddy Blues](https://open.spotify.com/track/7F7MhNEg2YRFt369eML7Uu) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Booze and Blues](https://open.spotify.com/album/0QBW52anY4yPNHKvTAjUsQ) | 3:24 | 2022-08-05 | 2023-06-11 |

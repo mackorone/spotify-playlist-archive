@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: ILUKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,955 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,965 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 3 | [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 |
 | 4 | [nosebleed](https://open.spotify.com/track/3pEYEtgeElrKYyx91oZo89) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [nosebleed](https://open.spotify.com/album/230ciUxJ0pvuHpdBPazZva) | 3:21 |
 | 5 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 |
-| 6 | [How To Be Human](https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [](https://open.spotify.com/album/null) | 2:40 |
+| 6 | [How To Be Human](https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 2:40 |
 | 7 | [Muscles](https://open.spotify.com/track/1HQF4o9vjPLDIbe9c6z558) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Muscles](https://open.spotify.com/album/1PuNHCKstGVTrdCZe85oo5) | 3:05 |
 | 8 | [paris \(to get you out my head\)](https://open.spotify.com/track/2CHHafaXxfqDbtGk9aF1yO) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [paris \(to get you out my head\)](https://open.spotify.com/album/6iZupBE68Jqu7notlxehVg) | 3:45 |
 | 9 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 20 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 21 | [Beautiful Nothing](https://open.spotify.com/track/1kFojchtdHTel9dzdLNMEm) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Beautiful Nothing](https://open.spotify.com/album/3tOaw3YiWcPrrqLKuDxTHK) | 3:44 |
 | 22 | [as i wave goodbye](https://open.spotify.com/track/3NsnczRs7xsd7gx89w5Ufo) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [LOVERCORE](https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB) | 2:26 |
-| 23 | [Somebody I'm Not](https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [](https://open.spotify.com/album/null) | 3:29 |
+| 23 | [Somebody I'm Not](https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl](https://open.spotify.com/album/6WOa0ML0MubR3Vz2QwTI6R) | 3:29 |
 | 24 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 | 25 | [shady](https://open.spotify.com/track/3WCcDNT4MecCulBiLMBETx) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [shady](https://open.spotify.com/album/0Tq1fXfkBJHlGSCcC0E78p) | 2:08 |
 | 26 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |

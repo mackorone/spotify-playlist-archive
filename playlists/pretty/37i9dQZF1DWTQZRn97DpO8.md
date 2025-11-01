@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Blynk
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,874 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,931 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Septembre](https://open.spotify.com/track/69oM9FG9MjQg8hmSfHMpiD) | [Mi Yoo](https://open.spotify.com/artist/5nrI4zcbwtB0NLi9O3fBlu) | [Septembre](https://open.spotify.com/album/2AcLdUpK98EXkGbBUZlOiD) | 2:23 |
 | 50 | [Avant Tout](https://open.spotify.com/track/2IZ47U71GDfcDoyOTpeSg7) | [Kudu Banga](https://open.spotify.com/artist/4W9h2nB1gKS6lLdqVH9vaE), [Ike Ortiz](https://open.spotify.com/artist/6CzEqMZy8672tncGY4x22q) | [Still Pushing The Vibes](https://open.spotify.com/album/4mCWvIpfqKIFqqIs929PQX) | 2:31 |
 
-Snapshot ID: `AAAAAIWyp8EnLXXV0elvHd0N3NAJbZMW`
+Snapshot ID: `AAAAAKk5nKUYXLUduGP5ul5IatbHcRwe`

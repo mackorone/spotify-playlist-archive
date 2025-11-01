@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,277 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,297 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
-| 2 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [](https://open.spotify.com/album/null) | 2:37 |
+| 2 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
 | 3 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 4 | [CY](https://open.spotify.com/track/3qKYZAvIbxsxMtBLDucDz6) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [CY](https://open.spotify.com/album/16UbcoUWBK6nwzPfCnO1R2) | 4:30 |
-| 5 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [](https://open.spotify.com/album/null) | 3:51 |
+| 5 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [HighSchool](https://open.spotify.com/album/3AkpBHPOvTPlxXPEhmNp1b) | 3:51 |
 | 6 | [Fr3o](https://open.spotify.com/track/1CQhEJ1Eg6jqmU1qQH8uJ9) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Fr3o](https://open.spotify.com/album/2kn6CbVOHlyu4i82oIkpOK) | 3:27 |
 | 7 | [Normal Today](https://open.spotify.com/track/31Nc6gzU9XQ2N424Ox8RDk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Normal Today](https://open.spotify.com/album/26q3rNHs0qM9khbGaiWTcd) | 3:13 |
 | 8 | [DEATH CULT ZOMBIE](https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [DEATH CULT ZOMBIE](https://open.spotify.com/album/4jeNB0UKUljys3WNSWC4Je) | 3:36 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 13 | [Days](https://open.spotify.com/track/6DDVeEMoGibnq9ysxfkcUu) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [Days](https://open.spotify.com/album/6tLGTPPE9hmBleVbhjg0PQ) | 2:45 |
 | 14 | [Looking For Nothing](https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Looking For Nothing](https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu) | 3:58 |
 | 15 | [NOSEBLEED](https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [NOSEBLEED](https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I) | 2:44 |
-| 16 | [Track 3](https://open.spotify.com/track/2IPPb4vmi9pv2T5kC8ayl3) | [Salarymen](https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM) | [](https://open.spotify.com/album/null) | 0:00 |
+| 16 | [Holding On](https://open.spotify.com/track/2IPPb4vmi9pv2T5kC8ayl3) | [Salarymen](https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM) | [Take It Or Leave It](https://open.spotify.com/album/5u7akslHD3nSJJ0kY2dPiM) | 4:07 |
 | 17 | [White Lighter](https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [White Lighter](https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W) | 2:51 |
 | 18 | [Eyes Closed](https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Eyes Closed](https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ) | 2:57 |
 | 19 | [what's good](https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough \(Deluxe\)](https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO) | 3:23 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 23 | [Getting Older \(Trust Me\)](https://open.spotify.com/track/0S4u61KEEGk898kgblUkop) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [\(Trust Me\)](https://open.spotify.com/album/1Rj3JOSBCkriiRP5Vvr0mU) | 3:32 |
 | 24 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 |
 | 25 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 |
-| 26 | [Always On My Mind](https://open.spotify.com/track/0TsSgatd7FOCR4r7Z3Ellh) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [](https://open.spotify.com/album/null) | 4:04 |
+| 26 | [Always On My Mind](https://open.spotify.com/track/0TsSgatd7FOCR4r7Z3Ellh) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Swim School](https://open.spotify.com/album/7mVFFixv8sgNhQBE9n92RH) | 4:04 |
 | 27 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
 | 28 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 |
 | 29 | [This Time For Real](https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [This Time For Real](https://open.spotify.com/album/4Tv8PFvKfr1Bb4dOZq9b8Z) | 3:12 |

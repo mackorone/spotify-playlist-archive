@@ -206,6 +206,24 @@
     {
       "album": {
         "name": "Diego",
+        "url": "https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Diego",
+      "url": "https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG"
+    },
+    {
+      "album": {
+        "name": "Diego",
         "url": "https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD"
       },
       "artists": [
@@ -216,7 +234,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 167773,
       "name": "Diego",
       "url": "https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd"
@@ -424,6 +442,24 @@
     {
       "album": {
         "name": "Rien \u00e0 prouver",
+        "url": "https://open.spotify.com/album/0obywN6ixOQ0z4yaNWCPPR"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242908,
+      "name": "Rien \u00e0 prouver",
+      "url": "https://open.spotify.com/track/1cdlIbmkHBpQpOEQRHLlKT"
+    },
+    {
+      "album": {
+        "name": "Rien \u00e0 prouver",
         "url": "https://open.spotify.com/album/4GRz2ygP3fWDvzVvsUPDH5"
       },
       "artists": [
@@ -434,7 +470,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 242908,
       "name": "Rien \u00e0 prouver",
       "url": "https://open.spotify.com/track/4I7bxhw4Lx0BM7BASksily"

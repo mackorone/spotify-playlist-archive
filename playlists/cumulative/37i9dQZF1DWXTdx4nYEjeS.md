@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,040 songs - 2 day 15 hr 12 min
+1,041 songs - 2 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Demoliendo Hoteles](https://open.spotify.com/track/6BjMngmseW8ftFagIsGETc) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/01xiMDTDiyi5sYDZr2kuDX) | 2:15 | 2022-04-08 | 2022-04-10 |
 | [Demoliendo Hoteles](https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 2:15 | 2022-07-25 | 2024-04-19 |
 | [Desapego](https://open.spotify.com/track/7ByPSNnUNiphi4BD9ZkrHO) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Desapego](https://open.spotify.com/album/2NuOfxucLkgP5MsLRkU6Ej) | 3:38 | 2022-04-13 | 2022-04-17 |
-| [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 | 2025-05-19 |  |
+| [Desastres Fabulosos](https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Desastres Fabulosos](https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09) | 2:43 | 2025-05-19 | 2025-11-01 |
 | [Desconectados](https://open.spotify.com/track/5YjjAJHr7soCB1a39OkiqZ) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Desconectados](https://open.spotify.com/album/6EIrVKXpq5YszguN45m2qd) | 4:07 | 2022-07-04 | 2022-07-06 |
 | [Desconfío](https://open.spotify.com/track/4EcL6qWjlXADH370vm1X9G) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 2](https://open.spotify.com/album/6G1Pv29aeIgKC8Fb3C9cjH) | 2:38 | 2022-01-28 | 2022-02-14 |
 | [Desde Acá](https://open.spotify.com/track/0rj1XCf4rb8eWz37Bn9sHK) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [Doppel Gangs](https://open.spotify.com/artist/5AVUoW156Hi45i1sJ1ueQt) | [Desde Acá](https://open.spotify.com/album/3x1wZ2e2GM5kBtZ1fap96Y) | 4:08 | 2022-04-01 | 2022-04-20 |
@@ -331,6 +331,7 @@
 | [El pescador de Barú](https://open.spotify.com/track/7ir6arYkzJsXsAkY9goF24) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Istituto italiano di Cumbia](https://open.spotify.com/artist/6eS04mgMDaeQ3zx0e8fuW1) | [Antigua](https://open.spotify.com/album/7ycO0ov3bClBN6fWtdHiQQ) | 3:48 | 2022-03-28 | 2022-04-19 |
 | [El Pibe de los Astilleros](https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS) | 3:32 | 2022-03-24 | 2024-01-04 |
 | [El Pibe de los Astilleros](https://open.spotify.com/track/2aWd3hLrewRnRA9gYcl9WS) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 3:32 | 2024-01-12 | 2024-04-19 |
+| [El Problema Del Amor](https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [El Problema Del Amor](https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv) | 3:40 | 2025-10-31 |  |
 | [El Próximo Viernes](https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Próximo Viernes](https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA) | 4:19 | 2022-01-28 | 2022-07-29 |
 | [El Regalo \(feat\. Natalie Perez\)](https://open.spotify.com/track/4S6xZnnSy1gdUI2sOKW6LH) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [El Regalo \(feat\. Natalie Perez\)](https://open.spotify.com/album/6EpbvpUGQhhapliINC24Vm) | 2:46 | 2022-01-28 | 2022-04-13 |
 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 | 2025-02-07 | 2025-09-06 |

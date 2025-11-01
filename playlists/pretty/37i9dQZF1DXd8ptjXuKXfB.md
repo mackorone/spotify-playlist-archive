@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,651 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,655 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 38 | [ANGYALOK](https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ANGYALOK](https://open.spotify.com/album/7El982ts9FR1auscPCNLr6) | 3:31 |
 | 39 | [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 |
 | 40 | [Passport](https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:17 |
-| 41 | [LEVÉL](https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [LEVÉL](https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh) | 2:37 |
-| 42 | [Papírom](https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [Papírom](https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf) | 2:39 |
+| 41 | [Papírom](https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [Papírom](https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf) | 2:39 |
+| 42 | [LEVÉL](https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [LEVÉL](https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh) | 2:37 |
 | 43 | [POKOL](https://open.spotify.com/track/7lIfQpi27wkoNeNJ6qtt3p) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [POKOL](https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94) | 3:05 |
 | 44 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 |
 | 45 | [herót](https://open.spotify.com/track/4mFHpUfQG5U3xXOubtyGZP) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [herót](https://open.spotify.com/album/2S06E2r9OS9rwNpVB5BWmF) | 3:14 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 71 | [az én országom](https://open.spotify.com/track/0Xymkt9jHypCBwW9NWfPoN) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [az én országom](https://open.spotify.com/album/1B0fhyY2g7APOcJW6xulVs) | 3:04 |
 | 72 | [Beházasodtam](https://open.spotify.com/track/3SBqXm4ArrhOqNdUwHvzGa) | [HRflow](https://open.spotify.com/artist/3YuXReN1XJtyvBhUd0zjBk) | [Beházasodtam](https://open.spotify.com/album/2Zo8W6TqE90d8omt0fW8pY) | 2:26 |
 | 73 | [Átutazó](https://open.spotify.com/track/0CCg3ywQIY93SSuAJ8I2rd) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [Átutazó](https://open.spotify.com/album/7mWhXfPQYzUTkw8Mdo9qO2) | 2:55 |
-| 74 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 |
-| 75 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 |
+| 74 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 |
+| 75 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 |
 | 76 | [SISS](https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [SISS](https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM) | 2:50 |
 | 77 | [Szobor](https://open.spotify.com/track/6hWybKVOmVE6q4LeJRcoay) | [Wavy](https://open.spotify.com/artist/6yhyLqCUsp3DMQDRRb6iEq), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72), [FRANKO](https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [MENNI MIXTAPE](https://open.spotify.com/album/2ppanRLrOHhtXlf3RztiB7) | 3:11 |
 | 78 | [Mégegyszer](https://open.spotify.com/track/6MoY6upCR0LGbyy9HOVwJ2) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Mégegyszer](https://open.spotify.com/album/74PfAetWEsR4nxqDq2UWlr) | 3:03 |
-| 79 | [Titkos üzenet](https://open.spotify.com/track/5OdmRZPg8cCOJE6j3wm87X) | [TNT](https://open.spotify.com/artist/0mrz04tAG5y6E8xTJUhLwa) | [Bomba](https://open.spotify.com/album/3zbdVP1otrUnQoxlCvKQMu) | 3:36 |
-| 80 | [Marimba](https://open.spotify.com/track/243WfEVYauoBabr1HDrJMU) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Marimba](https://open.spotify.com/album/15gAf3ThC9J6qQswJEAFTW) | 2:46 |
+| 79 | [Marimba](https://open.spotify.com/track/243WfEVYauoBabr1HDrJMU) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [DOÓR](https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o) | [Marimba](https://open.spotify.com/album/15gAf3ThC9J6qQswJEAFTW) | 2:46 |
+| 80 | [Titkos üzenet](https://open.spotify.com/track/5OdmRZPg8cCOJE6j3wm87X) | [TNT](https://open.spotify.com/artist/0mrz04tAG5y6E8xTJUhLwa) | [Bomba](https://open.spotify.com/album/3zbdVP1otrUnQoxlCvKQMu) | 3:36 |
 
 Snapshot ID: `AAAAALIZ1vfWB42eRI/mRYwrD4wxw5Q3`

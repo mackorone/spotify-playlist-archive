@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Ryan Castro.",
+  "description": "Latinoam\u00e9rica baila al ritmo de BROKIX.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -14013,6 +14013,24 @@
     },
     {
       "album": {
+        "name": "La \u00faltima vez",
+        "url": "https://open.spotify.com/album/1B0yb0qL2Brf6P2GJqxhIk"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196663,
+      "name": "La \u00faltima vez",
+      "url": "https://open.spotify.com/track/3O64sKENUVihEaEFNayfwE"
+    },
+    {
+      "album": {
         "name": "La \u00danica (Sprite Limelight)",
         "url": "https://open.spotify.com/album/7MUPz6QaXyT6CBZCHoQcjX"
       },
@@ -23914,7 +23932,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-01",
       "duration_ms": 162857,
       "name": "Si Tu Quieres",
       "url": "https://open.spotify.com/track/51sbLPU6LvDOMSRFK9OkZg"
