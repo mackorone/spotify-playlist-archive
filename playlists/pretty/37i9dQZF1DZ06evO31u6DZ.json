@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAAAm0rQHZfXNT4JKxq9KYjW7",
+  "snapshot_id": "aQP8AAAAAACZVb9yjqyC2D+/1+FGvhfE",
   "tracks": [
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 194466,
-      "name": "New Year's Eve",
-      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
+      "duration_ms": 224133,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 224133,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
+      "duration_ms": 194466,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
     },
     {
       "added_at": null,
@@ -819,18 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+        "name": "Lullaby covers of Senses Fail and Saves the Day songs",
+        "url": "https://open.spotify.com/album/0SBZvGXx9SD4pYEby5N7ai"
       },
       "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        },
         {
           "name": "Senses Fail",
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 195826,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
+      "duration_ms": 313312,
+      "name": "Lady in a Blue Dress",
+      "url": "https://open.spotify.com/track/4ISxrOmpbJHFnY9s5qjZNq"
     }
   ],
   "unique_name": "This Is Senses Fail",

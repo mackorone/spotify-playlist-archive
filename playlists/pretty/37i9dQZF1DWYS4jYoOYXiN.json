@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 97901,
+  "num_followers": 97919,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Latin Bugalu",
-        "url": "https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH"
-      },
-      "artists": [
-        {
-          "name": "Charlie Palmieri",
-          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Aprovecha el Tiempo",
         "url": "https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 213426,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Latin Bugalu",
+        "url": "https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/4okBgDaUxKi8bNihP3PYSK"
     },
     {
       "added_at": "2024-07-18 20:57:58",

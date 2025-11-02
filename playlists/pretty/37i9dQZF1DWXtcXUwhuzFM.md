@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat ABREU, ROSALÍA, M//O, Tupe\. Pasi ja Anssi Victor Nordis...ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,016 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,034 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 64 | [Scars](https://open.spotify.com/track/55bhjtCVHesWwcn2tvk6f5) | [Ida Alex](https://open.spotify.com/artist/5AmspRr2LtWkA9gomFuhB7) | [Scars](https://open.spotify.com/album/2Mhyq0YLe5CFcZysmbl728) | 2:32 |
 | 65 | [Oblivion](https://open.spotify.com/track/0nAQRskXeYqJhPiqpvcjtc) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [Oblivion](https://open.spotify.com/album/7cwEcqIqx1KYoQZE8w3TyK) | 3:25 |
 | 66 | [Halfway Gone](https://open.spotify.com/track/1rfX0CC3vDK6K5SgVmAZYx) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Halfway Gone](https://open.spotify.com/album/5ciWbAgjpNqsG3COHjBjxo) | 4:06 |
-| 67 | [Lies](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [Lies](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
+| 67 | [LIES](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [LIES](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
 | 68 | [Miranda](https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Miranda](https://open.spotify.com/album/7rZaeXP7J1DBUCYWr5bQy4) | 2:49 |
 | 69 | [Jos kukaan ei näkis](https://open.spotify.com/track/5qnkdzYdjeN2BefGmr0T6l) | [Lauri Mikkola](https://open.spotify.com/artist/4ijdfro9NietabPPZz91es) | [Jos kukaan ei näkis](https://open.spotify.com/album/5PPD018udzc1vBR8BoTyrA) | 2:54 |
 | 70 | [Red Poppy Flowers](https://open.spotify.com/track/1mIXkpBvpvgIYlMuXrvGhF) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Red Poppy Flowers](https://open.spotify.com/album/28Ro4TLpoHFxvE8R8we12q) | 3:32 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 72 | [X\-Files](https://open.spotify.com/track/7q6gEGQbYiFpvrOz84tGXd) | [AWA](https://open.spotify.com/artist/5HZjJPJYFK6te9ZeMv3VQP) | [X\-Files](https://open.spotify.com/album/66UzXQ1zCqKXmPkB8h64jz) | 2:27 |
 | 73 | [Sympathy Is A Knife](https://open.spotify.com/track/3DwoBh7cAfEOrSVWRUtgOE) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn), [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Sympathy Is A Knife](https://open.spotify.com/album/74FsBdVP7714hvE7BOu9So) | 3:29 |
 | 74 | [Up All Night](https://open.spotify.com/track/4DkDuhUgPPudvqnUTMXbaM) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [Up All Night](https://open.spotify.com/album/5njqUfhD0ondQ3xJxDZaNz) | 2:57 |
-| 75 | [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
+| 75 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 76 | [STARBOI](https://open.spotify.com/track/5A6rYYlGawud5SVWZMrReG) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 2:27 |
 | 77 | [Sincerity \(You Were Never There For Me\)](https://open.spotify.com/track/2qdPYroaAHBxnk6VdO0yOk) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3), [Lyric Noel](https://open.spotify.com/artist/77cvyQlM3ovknD2b0Kk6bI), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Insincerity](https://open.spotify.com/album/7zCm3uRCp77YUeOttmIxlh) | 3:15 |
 | 78 | [Milano](https://open.spotify.com/track/67kvIYRLOC3kmzErX2fG4l) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [Milano](https://open.spotify.com/album/76eLdS9euVE0CZJlVNKeSh) | 2:48 |

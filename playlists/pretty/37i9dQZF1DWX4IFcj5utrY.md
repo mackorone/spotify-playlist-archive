@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: CIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,696 likes - 65 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,780 likes - 65 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 64 | [Bawo Vula](https://open.spotify.com/track/0B1TKxC6Mf9bsZ2FtBiPrv) | [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV) | [The New Testament](https://open.spotify.com/album/6Jp5anRdBdocRLr1h7fmig) | 5:48 |
 | 65 | [Ulwembu](https://open.spotify.com/track/0pA2QyewlswtbJ72IadWgC) | [Mbalenhle M](https://open.spotify.com/artist/4RYtjdGDorR1hFO3vjAdIO), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Section Five](https://open.spotify.com/artist/5pM2d7Jh0CvXvddLhBsRfS) | [Ulwembu](https://open.spotify.com/album/5ap68Aiq0jL9dSiwMXR8ph) | 6:08 |
 
-Snapshot ID: `AAAAAOSzzrXxUqkvf1eFmqW3jo9LrG3a`
+Snapshot ID: `AAAAAArTv2QdIKI4tCdxzXpAYi/XfG7p`

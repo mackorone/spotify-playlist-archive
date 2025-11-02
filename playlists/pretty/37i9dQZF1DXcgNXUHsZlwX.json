@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf42",
-  "num_followers": 141390,
+  "num_followers": 141403,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-10-31 04:01:14",
       "album": {
-        "name": "Islands in the Stream",
-        "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 194699,
-      "name": "Islands in the Stream",
-      "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
-    },
-    {
-      "added_at": "2025-10-31 04:01:14",
-      "album": {
         "name": "Parmi les autres",
         "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 219000,
       "name": "Parmi les autres",
       "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
+    },
+    {
+      "added_at": "2025-10-31 04:01:14",
+      "album": {
+        "name": "Islands in the Stream",
+        "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 194699,
+      "name": "Islands in the Stream",
+      "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
     },
     {
       "added_at": "2025-10-31 04:01:14",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-10-31 04:01:14",
       "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+    },
+    {
+      "added_at": "2025-10-31 04:01:14",
+      "album": {
         "name": "Champagne rubis / Pitstop",
         "url": "https://open.spotify.com/album/200qsTRZQHWpt8JaR2ckqf"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 167740,
       "name": "Champagne rubis",
       "url": "https://open.spotify.com/track/4lTNJ3Zd7ehGiJahvam4Wj"
-    },
-    {
-      "added_at": "2025-10-31 04:01:14",
-      "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
     },
     {
       "added_at": "2025-10-31 04:01:14",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-10-31 04:01:14",
       "album": {
-        "name": "Questions",
-        "url": "https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU"
-      },
-      "artists": [
-        {
-          "name": "Bells Larsen",
-          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
-        }
-      ],
-      "duration_ms": 265957,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl"
-    },
-    {
-      "added_at": "2025-10-31 04:01:14",
-      "album": {
         "name": "it takes 2",
         "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 220677,
       "name": "it takes 2",
       "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
+    },
+    {
+      "added_at": "2025-10-31 04:01:14",
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU"
+      },
+      "artists": [
+        {
+          "name": "Bells Larsen",
+          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
+        }
+      ],
+      "duration_ms": 265957,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl"
     },
     {
       "added_at": "2025-10-31 04:01:14",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2025-10-31 04:01:14",
       "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 257838,
+      "name": "Pleure pas pour moi",
+      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
+    },
+    {
+      "added_at": "2025-10-31 04:01:14",
+      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
-    },
-    {
-      "added_at": "2025-10-31 04:01:14",
-      "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Post Mortem",
-      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
     },
     {
       "added_at": "2025-10-31 04:01:14",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-10-31 04:01:14",
       "album": {
-        "name": "Cycle d\u00e9licat",
-        "url": "https://open.spotify.com/album/4hqEE1IiUlsdMHN5bNjclK"
-      },
-      "artists": [
-        {
-          "name": "Simon Lachance",
-          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
-        }
-      ],
-      "duration_ms": 169346,
-      "name": "Lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7gftmvH7kAgf7ZM71Fyj3g"
-    },
-    {
-      "added_at": "2025-10-31 04:01:14",
-      "album": {
         "name": "Ma chanson Natashquan",
         "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
       },
@@ -1636,13 +1620,29 @@
           "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
         },
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
         }
       ],
-      "duration_ms": 257838,
-      "name": "Pleure pas pour moi",
-      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
+      "duration_ms": 223733,
+      "name": "Post Mortem",
+      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
+    },
+    {
+      "added_at": "2025-10-31 04:01:14",
+      "album": {
+        "name": "Cycle d\u00e9licat",
+        "url": "https://open.spotify.com/album/4hqEE1IiUlsdMHN5bNjclK"
+      },
+      "artists": [
+        {
+          "name": "Simon Lachance",
+          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
+        }
+      ],
+      "duration_ms": 169346,
+      "name": "Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7gftmvH7kAgf7ZM71Fyj3g"
     },
     {
       "added_at": "2025-10-31 04:01:14",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2025-10-31 04:01:14",
       "album": {
-        "name": "Mixtape (part. 3)",
-        "url": "https://open.spotify.com/album/1JsS8yGtuPAL4Obkp9xIeS"
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
       "artists": [
         {
-          "name": "Baroque Baroque",
-          "url": "https://open.spotify.com/artist/1QqhblRxfwVnkkCVgJkQ9I"
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Carrousel",
-      "url": "https://open.spotify.com/track/7tXDdUUQNJqHtGB8Gsfqv4"
+      "duration_ms": 197320,
+      "name": "Tu danses, condessa",
+      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

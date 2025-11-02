@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Shad
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,202 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,206 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 11 | [Still Here](https://open.spotify.com/track/76TOw82CZVgP5qCKBE654h) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw) | [Still Here](https://open.spotify.com/album/7c42cnKhXR5oZgMu5DcySY) | 1:28 |
 | 12 | [Runnin](https://open.spotify.com/track/5nOnkyjbiIfAyUvBSJv6LG) | [THE Chmst](https://open.spotify.com/artist/7H1HgfrNn9jIqKJUGgQukG), [Tamir](https://open.spotify.com/artist/6IiMfiwSN3v4x3lVuxC6kH), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Runnin](https://open.spotify.com/album/5vHnvp5Gb7nnk5fBOxyFTE) | 3:24 |
 | 13 | [Creep](https://open.spotify.com/track/18K2IixA6vPlMariBILxrH) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r), [Capt.](https://open.spotify.com/artist/0pKVXb50HVjL1VJ6jEy0GB), [Fonz0](https://open.spotify.com/artist/1KCn3OSU14kwqCa2sGXMam), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [Creep](https://open.spotify.com/album/5Wvy7SAUc4n4mV8HDH6k9Q) | 2:10 |
-| 14 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Taalib](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
+| 14 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
 | 15 | [BAD NEWS](https://open.spotify.com/track/244kRH5kkHzpd2Z0jm7BqU) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [MANZU BEATZ](https://open.spotify.com/artist/76HpKeRda5JouOqgIkmjSz), [New Villain](https://open.spotify.com/artist/40besloKy8FwnTH3jR039K) | [BAD NEWS](https://open.spotify.com/album/5rFGxobkRkfpQiIAEy7ES1) | 3:03 |
 | 16 | [BLAOW](https://open.spotify.com/track/0hhuswpS4boXjy8XDOgX4U) | [Troy Dunnit](https://open.spotify.com/artist/05dKYqnKFrjD0Fs4D7G00z) | [BLAOW](https://open.spotify.com/album/2c9WtyNWtWpRvNpnN2FRjY) | 1:57 |
 | 17 | [Same Energy](https://open.spotify.com/track/3oRkX73S44Y3RlErps2uNc) | [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig), [Uncle Fester](https://open.spotify.com/artist/1NDO9FL12aOUTjSL6BdZMU), [Quake Matthews](https://open.spotify.com/artist/2I2GpkVOATiTrXSXCafxvO) | [hi/lo](https://open.spotify.com/album/4IapDgBnEsJEHlIAN2PS0G) | 3:03 |

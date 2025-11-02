@@ -27406,7 +27406,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -28802,7 +28802,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 255625,
       "name": "Gyal Guayna De Espalda",
       "url": "https://open.spotify.com/track/3DNTc0lLlNLhQtQa56UAwe"
@@ -37862,7 +37862,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 227999,
       "name": "Llena est\u00e1 la tierra de su Gloria",
       "url": "https://open.spotify.com/track/763gDFL9nKalQRMo6Lev5Z"
@@ -50496,7 +50496,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -52060,7 +52060,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 189176,
       "name": "Paris",
       "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
@@ -68962,6 +68962,32 @@
       "duration_ms": 157261,
       "name": "Tinnitus (Wanna be a rock)",
       "url": "https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X"
+    },
+    {
+      "album": {
+        "name": "Tip (Remix)",
+        "url": "https://open.spotify.com/album/7opMZiBGs9V3EzJGcPmkhY"
+      },
+      "artists": [
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        },
+        {
+          "name": "Nvtzz",
+          "url": "https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140270,
+      "name": "Tip (Remix)",
+      "url": "https://open.spotify.com/track/4htPOWzCk0OTiqYYrsUwG7"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23132,
+  "num_followers": 23149,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAADzr2ZP+/05/98F11nECLyJ",
+  "snapshot_id": "aQP8AAAAAABIBzjFPu6HgqRXwIyPSaTV",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jebroer 4 Life",
-        "url": "https://open.spotify.com/album/1QpDBsLPy4pazlvEb5pUtt"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 136692,
-      "name": "Flitsmeister",
-      "url": "https://open.spotify.com/track/4Y7tzYw5EMJONPYzbtvtqp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magnifico (Jump Remix)",
         "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 159774,
       "name": "Magnifico - Jump Remix",
       "url": "https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jebroer 4 Life",
+        "url": "https://open.spotify.com/album/1QpDBsLPy4pazlvEb5pUtt"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 136692,
+      "name": "Flitsmeister",
+      "url": "https://open.spotify.com/track/4Y7tzYw5EMJONPYzbtvtqp"
     },
     {
       "added_at": null,

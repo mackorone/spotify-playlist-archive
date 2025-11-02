@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,226 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,349 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Ghini](https://open.spotify.com/track/1kc02l5upOU0bON1PQnrdN) | [ELIKIA](https://open.spotify.com/artist/5DajocHP3pwzsTsrjtyGmX) | [Ghini](https://open.spotify.com/album/6j2OlCftSLPlZV3scV7dvW) | 2:16 |
 | 50 | [Fan de Toi](https://open.spotify.com/track/27H1sOZnjTLtBtBx6XV03f) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Fan De Toi](https://open.spotify.com/album/5sQFJeYf84nfIhL8Mpn1aH) | 2:43 |
 
-Snapshot ID: `AAAAACDYf9D1St+NgpaifYuvpxgB2q6a`
+Snapshot ID: `AAAAABvwSxElwkJRSF27pivWIdlQL3Kw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAK58Yov6Re.md) - [plain]
 
 > Enjoy SiM's newest album "PLAYDEAD" along with MAH's Video interview!! Interview by TAKUTO ONUKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209 likes - 27 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 27 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Jinan Laetitia
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,551 likes - 97 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,555 likes - 97 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 96 | [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 |
 | 97 | [Sini](https://open.spotify.com/track/6hc5Ryshu6sdcJSShDQc8F) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Sini](https://open.spotify.com/album/312vsgcSCjvlPvKVriVXQg) | 3:58 |
 
-Snapshot ID: `AAAAAOps8WisshN0ZbAsZbgvO8zHd5mn`
+Snapshot ID: `AAAAAE0OZINHpUnScyb15qEDZS2BLXbt`

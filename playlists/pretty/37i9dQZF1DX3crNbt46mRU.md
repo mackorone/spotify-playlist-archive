@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including ROSALÍA,  Tyler, The Creator, EAZ, Florence + The Machine, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,655 likes - 96 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,662 likes - 96 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 6 | [To The Sky](https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [To The Sky](https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep) | 2:49 |
 | 7 | [Selfish](https://open.spotify.com/track/0tNOx9dD28vZ1CobwYF65O) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Selfish](https://open.spotify.com/album/54ZV7zY67yPyvPYIEq6S1b) | 2:54 |
 | 8 | [Pretty](https://open.spotify.com/track/3EM0zZvbn8iwTkrvJOr8vX) | [Mondetto](https://open.spotify.com/artist/4uZjiCgLj2mow6evui8ybw), [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Pretty](https://open.spotify.com/album/3UJbADK9LqeLVMAXkjnOt1) | 2:46 |
-| 9 | [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
+| 9 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 10 | [SPOTLIGHTS](https://open.spotify.com/track/4KKynk7hZkvTZ9tBFlouRd) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [DOM PERIGNON CRYING](https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc) | 3:10 |
 | 11 | [Skywalker Haze \- A COLORS SHOW](https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Skywalker Haze \- A COLORS SHOW](https://open.spotify.com/album/3Xudj0lVJpPiBkiMLy5aim) | 3:04 |
 | 12 | [The Future Is Cancelled](https://open.spotify.com/track/63RRBZLduS3iKJkzzlHnp0) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [The Future Is Cancelled](https://open.spotify.com/album/5NqBxIPIZ6Fm9x6X7QafoU) | 3:27 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 35 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
 | 36 | [Das schönste Mädchen der Welt](https://open.spotify.com/track/54h7GhGTN7expLX1qYVe8P) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Das schönste Mädchen der Welt](https://open.spotify.com/album/2fuitv9wX2nfqTOLrPvoQh) | 3:00 |
 | 37 | [SOBER](https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SOBER](https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df) | 2:29 |
-| 38 | [Lies](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [Lies](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
+| 38 | [LIES](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [LIES](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
 | 39 | [Wait For Your Love](https://open.spotify.com/track/6Xjzd1MocclDoo2jcKBdK9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Maison Rouge](https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I) | 3:07 |
 | 40 | [A comic book saved my life](https://open.spotify.com/track/59ZgUigp6gHlNOBhJCOdDk) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Orbit Orbit](https://open.spotify.com/album/2qtPd2WzqpICxTS6FfMgPp) | 4:12 |
 | 41 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |

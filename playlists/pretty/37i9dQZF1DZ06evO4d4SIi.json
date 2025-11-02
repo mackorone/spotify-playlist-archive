@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 52559,
+  "num_followers": 52586,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAAA91AV7ulm/LBY8k/UA1pQd",
+  "snapshot_id": "aQP8AAAAAAAmDoswDjV4VqMjpo1Qqtn8",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "About A Woman (Deluxe)",
-        "url": "https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa"
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
       "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 187917,
-      "name": "Ain't A Bad Life",
-      "url": "https://open.spotify.com/track/6lLZgVDwQSDsaAJyX3ozM9"
+      "duration_ms": 161066,
+      "name": "Damn Good Time",
+      "url": "https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE"
     },
     {
       "added_at": null,
@@ -363,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa"
       },
       "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 161066,
-      "name": "Damn Good Time",
-      "url": "https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE"
+      "duration_ms": 187917,
+      "name": "Ain't A Bad Life",
+      "url": "https://open.spotify.com/track/6lLZgVDwQSDsaAJyX3ozM9"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 169346,
-      "name": "Short Fuse",
-      "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
+      "duration_ms": 188266,
+      "name": "Part Of It",
+      "url": "https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 188266,
-      "name": "Part Of It",
-      "url": "https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI"
+      "duration_ms": 169346,
+      "name": "Short Fuse",
+      "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Steven Victor
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,088 likes - 72 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,067 likes - 72 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

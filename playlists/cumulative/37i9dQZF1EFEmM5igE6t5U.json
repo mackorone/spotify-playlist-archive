@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 321360,
       "name": "Fire We Make",
       "url": "https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W"
@@ -4682,6 +4682,24 @@
       "duration_ms": 232586,
       "name": "Wreckless Love",
       "url": "https://open.spotify.com/track/1JVN2oMHiWXHD5j5nhniST"
+    },
+    {
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139725,
+      "name": "You Don't Have To Be Alone",
+      "url": "https://open.spotify.com/track/02Jg0jFoyNkZCAdrYnP3TR"
     },
     {
       "album": {

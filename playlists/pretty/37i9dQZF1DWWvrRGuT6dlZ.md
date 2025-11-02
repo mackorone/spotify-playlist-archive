@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: d00nuts\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,046 likes - 134 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,045 likes - 134 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

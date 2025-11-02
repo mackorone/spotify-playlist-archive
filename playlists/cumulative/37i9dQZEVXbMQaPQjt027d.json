@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/4JyIQSykJUzxTdntLhqdio"
+      },
+      "artists": [
+        {
+          "name": "ChopCity",
+          "url": "https://open.spotify.com/artist/5jOkUo5pqi4gENfdfPYVyL"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149539,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/3Z8OEfsix03lv3X7IWZaux"
+    },
+    {
+      "album": {
         "name": "Carolien (Nee, Ik Blijf Wel Hier)",
         "url": "https://open.spotify.com/album/1gKBbgBvOu94ah1HP2mpoy"
       },
@@ -1653,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Halloween Horror Sounds: Very Creepy & Scary Mood, Spooky Sound Effect 2022",
+        "url": "https://open.spotify.com/album/03hu0ePSIAxOR5lhdrKG30"
+      },
+      "artists": [
+        {
+          "name": "Spooky Halloween Sounds",
+          "url": "https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214410,
+      "name": "Creepy Little Girl Singing (Horror Sound Effect)",
+      "url": "https://open.spotify.com/track/6eqS8y8qnueb6D099eQV94"
+    },
+    {
+      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -2044,6 +2080,24 @@
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
+    },
+    {
+      "album": {
+        "name": "Dit is Voor Nederland",
+        "url": "https://open.spotify.com/album/55yTXvPky2BjOjEp8aTiRz"
+      },
+      "artists": [
+        {
+          "name": "JW \"Broken Veteran\"",
+          "url": "https://open.spotify.com/artist/7vpoGzvUHw31dnQlyd5YSW"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229599,
+      "name": "Dit is Voor Nederland",
+      "url": "https://open.spotify.com/track/4EwbTlzeFYbbzJ2YPsxH3t"
     },
     {
       "album": {
@@ -2456,7 +2510,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
@@ -2842,7 +2896,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 204650,
       "name": "Gelukkig",
       "url": "https://open.spotify.com/track/54IC3MsaaeBkxY4GXKUixY"
@@ -3014,7 +3068,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -3036,6 +3090,40 @@
       "duration_ms": 225084,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/74HNHfB066STy568ETJsPl"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113230,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
     },
     {
       "album": {
@@ -4222,7 +4310,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 123809,
       "name": "Knalprobleem",
       "url": "https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP"
@@ -5446,6 +5534,28 @@
     {
       "album": {
         "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/2iJkrwXpyChhfeClyX7oov"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c"
+    },
+    {
+      "album": {
+        "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
       },
       "artists": [
@@ -5460,7 +5570,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
@@ -5804,7 +5914,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 241077,
       "name": "Pijn",
       "url": "https://open.spotify.com/track/1gqisIAHr9y8qn5P45moWn"
@@ -5906,7 +6016,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 186084,
       "name": "Predador de Perereca",
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"

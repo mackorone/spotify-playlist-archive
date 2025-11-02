@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,885 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,891 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [Superpower](https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Superpower](https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n) | 4:44 |
 | 16 | [Sommer](https://open.spotify.com/track/148ipTGpwMc6rqVLKv1Ni5) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Sommer](https://open.spotify.com/album/5eVuUpVYXKvRQHhD2wQlBn) | 2:43 |
 | 17 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
-| 18 | [4 akkorde](https://open.spotify.com/track/6TzlxYCPjUAs0f2dbgWAiy) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [darf ich bitten?](https://open.spotify.com/album/5w9Hlxd4S1g1RgGWn0cZcX) | 2:29 |
-| 19 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
+| 18 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
+| 19 | [4 akkorde](https://open.spotify.com/track/6TzlxYCPjUAs0f2dbgWAiy) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [darf ich bitten?](https://open.spotify.com/album/5w9Hlxd4S1g1RgGWn0cZcX) | 2:29 |
 | 20 | [1500 km](https://open.spotify.com/track/44yo6y9qPGldiP6RQZzfdP) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [1500 km](https://open.spotify.com/album/4CI1WgOgHtQfTdJiO7fSds) | 2:06 |
 | 21 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 |
 | 22 | [Solang wir](https://open.spotify.com/track/2iCwGZ3jyU2BLBk12AZGur) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Solang wir](https://open.spotify.com/album/7kKY2ZJfBLpcsNfW2i2evA) | 2:57 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Immerx3](https://open.spotify.com/track/3SLrSR2jkWiUWxx1ONzHOI) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Immerx3](https://open.spotify.com/album/6AtltYp1XUC8eKVV1zK5Kb) | 3:28 |
 | 37 | [Gatekeeper](https://open.spotify.com/track/22IBkO4ocBVIUHC4unEmp0) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Gatekeeper](https://open.spotify.com/album/4glmI7tJmWKR4CcIb3n0QB) | 2:42 |
 | 38 | [Glühwürmchen](https://open.spotify.com/track/0bkkcQ3GXWJLAUDnpwEFa2) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Glühwürmchen](https://open.spotify.com/album/3NSxwMjPi3mTANNAJ6IHFx) | 2:52 |
-| 39 | [Immer wenn du trinkst](https://open.spotify.com/track/36FFwVZq24okiqI9py4X8p) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Immer wenn du trinkst / Keine Zeit](https://open.spotify.com/album/1J5GWCG3Lxe4s9oDCpvJo0) | 3:34 |
-| 40 | [Cheerleader](https://open.spotify.com/track/2WG9JA4opUdNucD9kAiT7L) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Cheerleader](https://open.spotify.com/album/2L276JUtx0LarSYMGJxt22) | 3:39 |
+| 39 | [Cheerleader](https://open.spotify.com/track/2WG9JA4opUdNucD9kAiT7L) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Cheerleader](https://open.spotify.com/album/2L276JUtx0LarSYMGJxt22) | 3:39 |
+| 40 | [Immer wenn du trinkst](https://open.spotify.com/track/36FFwVZq24okiqI9py4X8p) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Immer wenn du trinkst / Keine Zeit](https://open.spotify.com/album/1J5GWCG3Lxe4s9oDCpvJo0) | 3:34 |
 | 41 | [Date You Won't Forget](https://open.spotify.com/track/7MgG0DwqLSGPHfScZ4YhNM) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Date You Won't Forget](https://open.spotify.com/album/5W4HnNFHtayuXHevqXdrut) | 1:47 |
 | 42 | [Very Far Away](https://open.spotify.com/track/0q9CqWspKpvVkH5OKTbgRS) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Very Far Away EP](https://open.spotify.com/album/37RdgI61BvnCrNqXIUT6zC) | 3:42 |
 | 43 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |

@@ -4,7 +4,7 @@
 
 > 
 
-9 songs - 28 min 35 sec
+10 songs - 33 min 49 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [I Don't Remember](https://open.spotify.com/track/6m3yuXdLzDTgwJ1y1VnNaH) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered Version\)](https://open.spotify.com/album/0LF0vWmmKRVPXoikpNkO5W) | 4:42 | 2025-10-24 |  |
 | [I Lost Thursday](https://open.spotify.com/track/5KAs9OVZmGt6DNyGNwXoZv) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Super Cool](https://open.spotify.com/album/0QYdhxj2cOe102smrHABGF) | 3:14 | 2023-03-26 |  |
 | [Prisencolinensinainciusol](https://open.spotify.com/track/5JetV93PpZhcHhX7utmzOr) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Adrian](https://open.spotify.com/album/6v2w4UvQ2jEWx4x5XDhqec) | 3:51 | 2024-12-04 |  |
+| [Puppet Loosely Strung](https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Puppet Loosely Strung](https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix) | 5:14 | 2025-11-01 |  |
 | [Wait Actually Yeah No](https://open.spotify.com/track/2iXItGd5Z7N8UyljFsS3nt) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 3:20 | 2023-03-26 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

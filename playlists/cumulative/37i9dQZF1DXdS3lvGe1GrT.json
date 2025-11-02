@@ -19335,24 +19335,6 @@
     },
     {
       "album": {
-        "name": "Ark",
-        "url": "https://open.spotify.com/album/3NFu5Rr9eOmj4Qg0HzHzMG"
-      },
-      "artists": [
-        {
-          "name": "Lefty Parker",
-          "url": "https://open.spotify.com/artist/5NvSLQOTzXhKMV5TMdwxuk"
-        }
-      ],
-      "date_added": "2025-10-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 223932,
-      "name": "Love On The Guadalupe",
-      "url": "https://open.spotify.com/track/19oSlD2tP12Ks7xlTZZyzg"
-    },
-    {
-      "album": {
         "name": "Love On Your Side",
         "url": "https://open.spotify.com/album/6PcAbv5JxZpQVgmX2sc0KX"
       },
@@ -19934,6 +19916,24 @@
       "duration_ms": 118329,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7"
+    },
+    {
+      "album": {
+        "name": "Ark",
+        "url": "https://open.spotify.com/album/3NFu5Rr9eOmj4Qg0HzHzMG"
+      },
+      "artists": [
+        {
+          "name": "Lefty Parker",
+          "url": "https://open.spotify.com/artist/5NvSLQOTzXhKMV5TMdwxuk"
+        }
+      ],
+      "date_added": "2025-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223932,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/19oSlD2tP12Ks7xlTZZyzg"
     },
     {
       "album": {

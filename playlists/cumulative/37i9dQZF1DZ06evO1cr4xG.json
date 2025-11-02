@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 269853,
       "name": "Brave This Storm",
       "url": "https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 229019,
       "name": "Dig",
       "url": "https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY"
@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Struck Dead",
+        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438552,
+      "name": "Six Walls",
+      "url": "https://open.spotify.com/track/5fsPDbW7ZRVpJ8w3x5EOIl"
+    },
+    {
+      "album": {
         "name": "Silence in the Snow (Special Edition)",
         "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
@@ -1234,6 +1252,24 @@
       "duration_ms": 269266,
       "name": "Strife",
       "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
+    },
+    {
+      "album": {
+        "name": "Struck Dead",
+        "url": "https://open.spotify.com/album/6nJMEK1URMQE8vgFmsYRXJ"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317174,
+      "name": "Struck Dead",
+      "url": "https://open.spotify.com/track/3b8yFZD80QgsltsbrYjJXQ"
     },
     {
       "album": {

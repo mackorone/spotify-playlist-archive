@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Unmissable emerging pop 💫 Skye Newman on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,096 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,098 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 69 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 |
 | 70 | [this is what dreams are made of](https://open.spotify.com/track/30SHnh4Juq7dvGMg6rtMQU) | [Emma Bradley](https://open.spotify.com/artist/5xYIRSJkHjlWgZidBISyzk) | [this is what dreams are made of](https://open.spotify.com/album/6Iihb0VfgzpR55jQGS39ra) | 3:00 |
 
-Snapshot ID: `AAAAAJR3D9fbb7u1cXhoGksSo7jmULmi`
+Snapshot ID: `AAAAANlfyHc3yNk+XPpS6gLCyhJf986d`

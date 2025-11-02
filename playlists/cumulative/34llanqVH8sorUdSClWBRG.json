@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Puppet Loosely Strung",
+        "url": "https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix"
+      },
+      "artists": [
+        {
+          "name": "The Correspondents",
+          "url": "https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314813,
+      "name": "Puppet Loosely Strung",
+      "url": "https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u"
+    },
+    {
+      "album": {
         "name": "Beautiful Rat Sunset",
         "url": "https://open.spotify.com/album/4Matl0g5l7qXKvsoorZ1Bf"
       },

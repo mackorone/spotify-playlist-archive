@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Cassian
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,270 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,267 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 4 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 |
 | 5 | [Muscles](https://open.spotify.com/track/1HQF4o9vjPLDIbe9c6z558) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Muscles](https://open.spotify.com/album/1PuNHCKstGVTrdCZe85oo5) | 3:05 |
 | 6 | [WAITING](https://open.spotify.com/track/4K4itwcuTopegq8qWQnRzk) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [WAITING](https://open.spotify.com/album/2iYFhXy1kMSJwxvd2OB4YM) | 4:00 |
-| 7 | [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
+| 7 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 8 | [Put Your Bassline](https://open.spotify.com/track/3IwC6rhjOfEdswlSV6RvzX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Put Your Bassline](https://open.spotify.com/album/4NOx87J66hA6p5l2t8iyin) | 2:31 |
 | 9 | [Camera \(CYRIL Remix\)](https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Camera \(CYRIL Remix\)](https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n) | 2:43 |
 | 10 | [P4M](https://open.spotify.com/track/3iHmMVxXwD172MhHtF0kMA) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [P4M](https://open.spotify.com/album/26ob8Yzz8IznM0gLGSI0hP) | 3:08 |

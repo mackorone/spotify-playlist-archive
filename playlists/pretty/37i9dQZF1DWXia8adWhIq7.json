@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 111057,
+  "num_followers": 111073,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-10-31 03:01:33",
       "album": {
-        "name": "Bom \u00c2nimo",
-        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Bom \u00c2nimo",
-      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
-    },
-    {
-      "added_at": "2025-10-31 03:01:33",
-      "album": {
         "name": "Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
       },
@@ -567,6 +551,38 @@
       "duration_ms": 298703,
       "name": "Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
+    },
+    {
+      "added_at": "2025-10-31 03:01:33",
+      "album": {
+        "name": "Bom \u00c2nimo",
+        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Bom \u00c2nimo",
+      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
+    },
+    {
+      "added_at": "2025-10-31 03:01:33",
+      "album": {
+        "name": "Desacreditar Jamais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 225068,
+      "name": "Desacreditar Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp"
     },
     {
       "added_at": "2025-10-31 03:01:33",
@@ -591,22 +607,6 @@
       "duration_ms": 196093,
       "name": "Agora",
       "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
-    },
-    {
-      "added_at": "2025-10-31 03:01:33",
-      "album": {
-        "name": "Desacreditar Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "Desacreditar Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp"
     },
     {
       "added_at": "2025-10-31 03:01:33",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-10-31 03:01:33",
       "album": {
-        "name": "Um Conselho",
-        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
-      },
-      "artists": [
-        {
-          "name": "Milena Pina",
-          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
-        }
-      ],
-      "duration_ms": 147810,
-      "name": "Um Conselho",
-      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
-    },
-    {
-      "added_at": "2025-10-31 03:01:33",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 249444,
       "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
       "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
+    },
+    {
+      "added_at": "2025-10-31 03:01:33",
+      "album": {
+        "name": "Um Conselho",
+        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
+      },
+      "artists": [
+        {
+          "name": "Milena Pina",
+          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+        }
+      ],
+      "duration_ms": 147810,
+      "name": "Um Conselho",
+      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
     },
     {
       "added_at": "2025-10-31 03:01:33",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-10-31 03:01:33",
       "album": {
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
+    },
+    {
+      "added_at": "2025-10-31 03:01:33",
+      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
-    },
-    {
-      "added_at": "2025-10-31 03:01:33",
-      "album": {
-        "name": "Iluminado",
-        "url": "https://open.spotify.com/album/6WidAThASUspFTkUzM9X88"
-      },
-      "artists": [
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/4e3IEiapCBKboOv2QNivDV"
     },
     {
       "added_at": "2025-10-31 03:01:33",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-10-31 03:01:33",
       "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+        "name": "SAI DO CH\u00c3O",
+        "url": "https://open.spotify.com/album/50U61DNRIMJDFnB9mpyaoz"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+          "name": "Gui Neris",
+          "url": "https://open.spotify.com/artist/3b0kljAJUuDkWnCg12DGKo"
         }
       ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
+      "duration_ms": 156521,
+      "name": "BAILE DE M\u00c1SCARAS",
+      "url": "https://open.spotify.com/track/6SHC773RxGrSvTttmvhjXj"
     },
     {
       "added_at": "2025-10-31 03:01:33",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-10-31 03:01:33",
       "album": {
-        "name": "Selo do Perd\u00e3o (Legado)",
-        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
       "artists": [
         {
-          "name": "Carlinhos F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
         }
       ],
-      "duration_ms": 250186,
-      "name": "Selo do Perd\u00e3o (Legado)",
-      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2025-10-31 03:01:33",
@@ -1123,6 +1123,22 @@
       "duration_ms": 215125,
       "name": "Pra Onde Vou Correr",
       "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+    },
+    {
+      "added_at": "2025-10-31 03:01:33",
+      "album": {
+        "name": "Selo do Perd\u00e3o (Legado)",
+        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Selo do Perd\u00e3o (Legado)",
+      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
     },
     {
       "added_at": "2025-10-31 03:01:33",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2025-10-31 03:01:33",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 199864,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
-    },
-    {
-      "added_at": "2025-10-31 03:01:33",
-      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
+    },
+    {
+      "added_at": "2025-10-31 03:01:33",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 199864,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
     },
     {
       "added_at": "2025-10-31 03:01:33",
@@ -1487,22 +1503,6 @@
       "duration_ms": 262019,
       "name": "Reconstituir",
       "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
-    },
-    {
-      "added_at": "2025-10-31 03:01:33",
-      "album": {
-        "name": "SAI DO CH\u00c3O",
-        "url": "https://open.spotify.com/album/50U61DNRIMJDFnB9mpyaoz"
-      },
-      "artists": [
-        {
-          "name": "Gui Neris",
-          "url": "https://open.spotify.com/artist/3b0kljAJUuDkWnCg12DGKo"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "BAILE DE M\u00c1SCARAS",
-      "url": "https://open.spotify.com/track/6SHC773RxGrSvTttmvhjXj"
     },
     {
       "added_at": "2025-10-31 03:01:33",

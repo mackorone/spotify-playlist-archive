@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > We'll be back next week with the latest in hip\-hop\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,911 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,915 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 19 | [Back Cooking](https://open.spotify.com/track/7CycwjLRm7wKubir9PCXXd) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 2:37 |
 | 20 | [Roaches](https://open.spotify.com/track/69dcSnCesjUMepu9FmEmxB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DIRECTOR'S CUT](https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ) | 2:53 |
 | 21 | [Part of Me](https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Part of Me](https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv) | 2:47 |
-| 22 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Taalib](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
+| 22 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
 | 23 | [Letter To My Block](https://open.spotify.com/track/13t9AfJrAFiOJm5ZSODads) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Letter To My Block](https://open.spotify.com/album/4sEo0V4bfSD5iV3ZOowPlz) | 3:14 |
 | 24 | [Oh oui](https://open.spotify.com/track/4TRSWjUjyW0EQYTT187igH) | [Christophe Martin](https://open.spotify.com/artist/3akKZuAkggR7yITsAxH43s), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Oh oui](https://open.spotify.com/album/1g6vGZcHw7fslO5kII265M) | 3:19 |
 | 25 | [Look At Me](https://open.spotify.com/track/0HQrzSGRnLgOgTPzcZWIxP) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:29 |

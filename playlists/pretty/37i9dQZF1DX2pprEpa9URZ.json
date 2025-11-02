@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 881340,
+  "num_followers": 881469,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -263,30 +263,6 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Pepele",
-        "url": "https://open.spotify.com/album/2P671ocWaBotiKC0Q0jCaA"
-      },
-      "artists": [
-        {
-          "name": "AFRONOM",
-          "url": "https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0"
-        },
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Pepele",
-      "url": "https://open.spotify.com/track/5nxNh5IIUKPF6HAYQo2Qjj"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
         "name": "Mui",
         "url": "https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 243902,
       "name": "Mui",
       "url": "https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "Pepele",
+        "url": "https://open.spotify.com/album/2P671ocWaBotiKC0Q0jCaA"
+      },
+      "artists": [
+        {
+          "name": "AFRONOM",
+          "url": "https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Pepele",
+      "url": "https://open.spotify.com/track/5nxNh5IIUKPF6HAYQo2Qjj"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -399,18 +399,22 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
       },
       "artists": [
         {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
         }
       ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -435,22 +439,18 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Closer (feat. Bantu)",
-        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
       "artists": [
         {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Closer (feat. Bantu)",
-      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
         "name": "Amado",
         "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 210500,
       "name": "Amado",
       "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "I'm Here",
-        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        }
-      ],
-      "duration_ms": 205864,
-      "name": "I'm Here",
-      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 184761,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "I'm Here",
+        "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "duration_ms": 205864,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -883,22 +883,18 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Agua e pipa",
-        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
       "artists": [
         {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
-          "name": "Jose Solano",
-          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
         }
       ],
-      "duration_ms": 202553,
-      "name": "Agua e pipa",
-      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -923,18 +919,38 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+        "name": "Agua e pipa",
+        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
       },
       "artists": [
         {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Jose Solano",
+          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
         }
       ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+      "duration_ms": 202553,
+      "name": "Agua e pipa",
+      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -971,22 +987,6 @@
       "duration_ms": 238410,
       "name": "Cantando",
       "url": "https://open.spotify.com/track/5YFOEd3018BV4trm8xkHis"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
         "name": "Nuabi",
         "url": "https://open.spotify.com/album/2LTFRCCHrAuJwGC4ZmbO2Y"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
+        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
+        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
+      },
+      "artists": [
+        {
+          "name": "David Rausch",
+          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
+        },
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 431565,
+      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
+      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
+    },
+    {
+      "added_at": "2025-09-15 10:22:27",
+      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -1223,22 +1243,18 @@
     {
       "added_at": "2025-09-15 10:22:27",
       "album": {
-        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
-        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
       },
       "artists": [
         {
-          "name": "David Rausch",
-          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
-        },
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
         }
       ],
-      "duration_ms": 431565,
-      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
-      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2025-09-15 10:22:27",
@@ -1263,22 +1279,6 @@
       "duration_ms": 265573,
       "name": "Guard Your Joy",
       "url": "https://open.spotify.com/track/0kN37UhHU9BGZe2ZLyFW1O"
-    },
-    {
-      "added_at": "2025-09-15 10:22:27",
-      "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2025-09-15 10:22:27",

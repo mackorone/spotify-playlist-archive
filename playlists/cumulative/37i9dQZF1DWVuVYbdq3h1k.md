@@ -2,7 +2,7 @@
 
 ### [Los 2000 México](https://open.spotify.com/playlist/37i9dQZF1DWVuVYbdq3h1k)
 
-> Sí, ¡ya estamos viejos! Belanova en portada.
+> Sí, ¡ya estamos viejos! RBD en portada.
 
 139 songs - 8 hr 49 min
 

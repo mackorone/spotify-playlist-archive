@@ -3571,24 +3571,6 @@
     },
     {
       "album": {
-        "name": "Basha",
-        "url": "https://open.spotify.com/album/4wpq7hS78juDYEjgP1kuFZ"
-      },
-      "artists": [
-        {
-          "name": "Muslim",
-          "url": "https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD"
-        }
-      ],
-      "date_added": "2025-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154545,
-      "name": "Basha",
-      "url": "https://open.spotify.com/track/7xzXV6rUspGbYr9yaHPSh3"
-    },
-    {
-      "album": {
         "name": "Basseen Ala Bokra",
         "url": "https://open.spotify.com/album/3bCSL9eeJHRQwBN5xae5xw"
       },
@@ -21376,6 +21358,24 @@
       "duration_ms": 138000,
       "name": "\u0628\u0627\u0628\u0627 \u062c\u0647",
       "url": "https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0627\u0634\u0627 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0642\u0635\u0631 \u0627\u0644\u0628\u0627\u0634\u0627)",
+        "url": "https://open.spotify.com/album/4wpq7hS78juDYEjgP1kuFZ"
+      },
+      "artists": [
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "\u0628\u0627\u0634\u0627 (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0642\u0635\u0631 \u0627\u0644\u0628\u0627\u0634\u0627)",
+      "url": "https://open.spotify.com/track/7xzXV6rUspGbYr9yaHPSh3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,236 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,234 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [N.O.V.A](https://open.spotify.com/track/7u2yyIyLLMGyAuFrAHRbm6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [N.O.V.A](https://open.spotify.com/album/4HBA9y6e5lpzONKwSfs487) | 2:40 |
 | 80 | [Ricochet](https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk) | 3:41 |
 
-Snapshot ID: `AAAAAKMGw/rrrB9TDa+nDOk4+6nJciGH`
+Snapshot ID: `AAAAAPvJ5YWVZIANAjEmJqLBZPnNK0oc`

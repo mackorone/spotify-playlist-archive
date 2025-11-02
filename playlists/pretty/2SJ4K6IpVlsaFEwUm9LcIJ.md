@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,477 likes - 82 songs - 4 hr 36 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,474 likes - 84 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 80 | [Shadows and Sparks](https://open.spotify.com/track/29IESUgB8VqXKnRBhRigHV) | [Turbo Fade](https://open.spotify.com/artist/4nN1OspoRH7RDBbe9ooNOW) | [Shadows and Sparks](https://open.spotify.com/album/0ZJK0oyAiB93A6jT5Lmnz6) | 2:11 |
 | 81 | [kira](https://open.spotify.com/track/3XYF84eNPPvRObZZPHsgla) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [spirit](https://open.spotify.com/album/5wEy1LKkVbEEKnyk9Ql5Ke) | 4:10 |
 | 82 | [Soulsides](https://open.spotify.com/track/7njVyqzN7SfrGHvOo4hXGX) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Gentle Eyes](https://open.spotify.com/album/0GgRhNd77djlIJTndk2G1M) | 4:28 |
+| 83 | [ចាំនៅតែចាំ](https://open.spotify.com/track/5gqEV0HG9wakmVPB3GORGU) | [Ros Serey Sothea](https://open.spotify.com/artist/6aBWAoJJ2F6HD6mTr2aLZ0) | [តើថ្ងៃណាទៅវិលវិញ?\. នឹកអើយសែននឹក](https://open.spotify.com/album/0P3YI4mCXyqATNfAq5Tuhr) | 3:37 |
+| 84 | [100 years of Bill & Lil](https://open.spotify.com/track/14S4p6XIlsHNJdiz8Ptws7) | [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Hamstrings & Hurricanes](https://open.spotify.com/album/1tXqXb6NGntGK4OfOc6j5o) | 3:35 |
 
-Snapshot ID: `AAANWnEOp08DTu9H4M6+eU7bsjRD6eqS`
+Snapshot ID: `AAANXFPI8LRyF1qSMt2/u2+/O5bYZpkU`

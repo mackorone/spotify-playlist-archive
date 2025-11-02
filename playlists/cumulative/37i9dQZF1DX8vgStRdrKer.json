@@ -4113,6 +4113,28 @@
     },
     {
       "album": {
+        "name": "No Label",
+        "url": "https://open.spotify.com/album/0ghyhpA9XBMUK7d7D8IniC"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218046,
+      "name": "Goodness And Mercy",
+      "url": "https://open.spotify.com/track/1lgzLzh6dZabFvdJAD1CaG"
+    },
+    {
+      "album": {
         "name": "Gospel Gyration Praise",
         "url": "https://open.spotify.com/album/6a86EokSQpzN3wluTEnBFB"
       },
@@ -5832,7 +5854,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 143651,
       "name": "Imole",
       "url": "https://open.spotify.com/track/6HsbS2KoENKjS5NatyXldL"
@@ -7890,6 +7912,24 @@
       "duration_ms": 200769,
       "name": "MOST HIGH",
       "url": "https://open.spotify.com/track/31naSIp2Ioi41c5gavyUkY"
+    },
+    {
+      "album": {
+        "name": "Mount Carmel II",
+        "url": "https://open.spotify.com/album/2cxabjK2gr29O1RsRvuPu3"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613094,
+      "name": "Mount Carmel II",
+      "url": "https://open.spotify.com/track/0aIukRf2gSZqmuOIFeBarQ"
     },
     {
       "album": {
@@ -10336,7 +10376,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 525048,
       "name": "Show Up - Live",
       "url": "https://open.spotify.com/track/64QSlc4hsh1ABuNkiyrIWg"

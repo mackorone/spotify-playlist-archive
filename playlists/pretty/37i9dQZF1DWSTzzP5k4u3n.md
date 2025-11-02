@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Haloo Helsinki!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,580 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,577 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Tankkaan rakkautta](https://open.spotify.com/track/3NLyHNGljkUdEOGHPEEB3O) | [Lumottu Apina](https://open.spotify.com/artist/5Mdiip7nTjBxc29Lu9K9iY) | [Tankkaan rakkautta](https://open.spotify.com/album/6mdiZqQtVQXllrrJWxgxaO) | 3:04 |
 | 80 | [Uni](https://open.spotify.com/track/528qaRmD1cLOMA0ZEjul1w) | [Taiminen](https://open.spotify.com/artist/55P4ZXc5mKxkhty6fqYPIx) | [Uni](https://open.spotify.com/album/7c8nunEbnOjtK6p5pRyXRJ) | 3:42 |
 
-Snapshot ID: `AAAAAEjo+VFTuofEWHqjKx2yBTY2oI8j`
+Snapshot ID: `AAAAAJZHdvwfzu1kBtW8eTGyzEqz07mE`

@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "No Survivors",
+        "url": "https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        },
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "No Survivors",
+      "url": "https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF"
+    },
+    {
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
       },

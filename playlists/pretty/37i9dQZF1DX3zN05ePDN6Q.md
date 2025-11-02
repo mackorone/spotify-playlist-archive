@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Jotapê
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,616 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,629 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CAFAJE$TE \- Spotify Singles](https://open.spotify.com/track/0LmKucquAPmc2b6hleg8k3) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [CAFAJE$TE \- Spotify Singles](https://open.spotify.com/album/5ao8iMY0a0hONNq1EQwkSk) | 2:33 |
 | 2 | [Marginais Boombap 4](https://open.spotify.com/track/034zxdscs9SoonpNUtl5kG) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [AR Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ) | [Marginais Boombap 4](https://open.spotify.com/album/00ZnCZQO2b2dZJiXpnScK0) | 3:30 |
-| 3 | [EBI NO TEMPURA \- Ao Vivo](https://open.spotify.com/track/2wNLIY6L3M7fujBKki2gco) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [\(ao vivo\) AIR BOLT 2425](https://open.spotify.com/album/46yGiFye3pQeqWD8sLLfDA) | 2:28 |
+| 3 | [EBI NO TEMPURA \- Ao Vivo](https://open.spotify.com/track/2wNLIY6L3M7fujBKki2gco) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [\(ao vivo\) AIR BOLT 2425](https://open.spotify.com/album/46yGiFye3pQeqWD8sLLfDA) | 2:28 |
 | 4 | [Banho de Sol](https://open.spotify.com/track/5LTVFHlOuOQnneEVR2A4ok) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [RIVA](https://open.spotify.com/album/1CvMpqtrSIAyLNTxLZywW6) | 3:30 |
 | 5 | [Sangue Latino](https://open.spotify.com/track/3QQcV1Majkj2JFJK1Kb3Ye) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Self Provoked](https://open.spotify.com/artist/0cbx0hVFtnEBVGVBExW09X), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [SENS31](https://open.spotify.com/artist/2XcFgUzi3UXbxK0AG7mCtp) | [Quando os Caminhos Se Confundem](https://open.spotify.com/album/5kH90GZcz7pzyxpolJj0Us) | 4:37 |
 | 6 | [GTA](https://open.spotify.com/track/4rq7f9LzEu2fqtkUj1anFX) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:22 |

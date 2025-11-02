@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Latest Hindi drops, right here\. Listen now\. Cover: Thamma
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,676 likes - 76 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,880 likes - 76 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 75 | [Rona Sikha Diya](https://open.spotify.com/track/2SJbl84Qk16fqHrjBYYDKI) | [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Farhan Memon](https://open.spotify.com/artist/1C0aNdorffHCQOIQLlXhxX) | [Baaghi 4](https://open.spotify.com/album/3S7prbLe2cHnA7HwfGCGsu) | 3:58 |
 | 76 | [Tenu Ki Pata \(From "The Ba\*\*\*ds Of Bollywood"\)](https://open.spotify.com/track/4CmC0E2G1arkpmK47O5Ew7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS), [Aryan Khan](https://open.spotify.com/artist/61gOxq7Ufie0TwQ5NzdG6F), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Tenu Ki Pata \(From "The Ba\*\*\*ds Of Bollywood"\)](https://open.spotify.com/album/2bfsQ0IEwNs0JHpsDf2Hxx) | 2:53 |
 
-Snapshot ID: `AAAAAEbgIqFfh5wozj0/fitZ8OtBJ3No`
+Snapshot ID: `AAAAAOnvoGSoilWdRkeAVFdPmBUaqSNd`

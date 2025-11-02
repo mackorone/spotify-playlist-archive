@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Chavanté & Kleine John ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,584 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,582 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 17 | [Pinpas](https://open.spotify.com/track/0zKtsWu08TQ2joYfctFCwH) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Jacob](https://open.spotify.com/artist/2ZWlxqdbnltt0uP7DQZzJb), [CHIO](https://open.spotify.com/artist/17KBGFpwzRiw52IRtvJnYu), [Jermaine Niffer](https://open.spotify.com/artist/2kN7bQzdCZkSBYhzF6k5lY), [Manny](https://open.spotify.com/artist/6KiVn4W8Lqp3xHacePilJT) | [Pinpas](https://open.spotify.com/album/70Jqgixh0hNzgcAf6snUqz) | 1:40 |
 | 18 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 19 | [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 |
-| 20 | [AZOTA MAMASOTA](https://open.spotify.com/track/5SO20gQK9WJba4coPLPIN4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 2:14 |
+| 20 | [AZOTA MAMASOTA](https://open.spotify.com/track/5SO20gQK9WJba4coPLPIN4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 2:14 |
 | 21 | [Rude](https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [How You Bad Suh](https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U) | 2:27 |
 | 22 | [Baddie Zoals Jij](https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Baddie Zoals Jij](https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX) | 2:39 |
 | 23 | [ZAAZAA \- Kish Remix](https://open.spotify.com/track/3Ww0WKo9ajRAe9f5REosCd) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [ZAAZAA \(REMIX PACK\)](https://open.spotify.com/album/0irrVpBU2ZWacOQjR0CbBr) | 1:30 |

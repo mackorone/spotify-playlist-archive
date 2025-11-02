@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 52593,
+  "num_followers": 52609,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAACoinnePEKdjoOgf4NO0rGj",
+  "snapshot_id": "aQP8AAAAAACk0EC+xGf59V3jT3NunKDd",
   "tracks": [
     {
       "added_at": null,
@@ -739,38 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Ke Mandan",
-        "url": "https://open.spotify.com/album/21XOUr8BC9Vq5CKcK4eylp"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Cristaleros Michoacanos - Banda",
-      "url": "https://open.spotify.com/track/1dUNwv4VmEjtHVyHkEvewj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Contigo Me Gusta",
-      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -791,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
       "artists": [
         {
@@ -800,9 +768,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
+      "duration_ms": 186746,
+      "name": "Contigo Me Gusta",
+      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
     },
     {
       "added_at": null,
@@ -819,6 +787,38 @@
       "duration_ms": 200040,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Va A Gustar",
+        "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc"
     }
   ],
   "unique_name": "This Is El Chapo De Sinaloa",

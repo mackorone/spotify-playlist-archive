@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > The ultimate songbook ⏳ feat\. Celeste
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,289 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,285 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [If I Could Choose It Would Be You](https://open.spotify.com/track/7pIB4HGio2mg7CWuBcLYlL) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [If I Could Choose It Would Be You](https://open.spotify.com/album/2SQEwp1onp2w742B7mFouS) | 3:50 |
 | 100 | [Ama said](https://open.spotify.com/track/6hoUDe5xg5Ex0LAQYK549t) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Ama said](https://open.spotify.com/album/1q8t2RUT0UsMfZ2kuDCLrQ) | 2:55 |
 
-Snapshot ID: `AAAAAAGOq6Y/zWAgbA0STcdLd1mEM8oK`
+Snapshot ID: `AAAAAE/d7ldsrh3IJ3BlgmV/9roU/Yq8`

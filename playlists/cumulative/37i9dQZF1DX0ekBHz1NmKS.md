@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,040 songs - 4 day 9 hr 43 min
+2,041 songs - 4 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1247,7 +1247,7 @@
 | [Never Enough](https://open.spotify.com/track/7dzSmIEjI8AO2ET2SLMUlw) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [Never Enough](https://open.spotify.com/album/3njKzpqfXbFpiZoSzPZeMe) | 3:06 | 2021-12-16 | 2022-02-15 |
 | [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 | 2025-01-09 | 2025-05-23 |
 | [New World Coming](https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [New World Coming](https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE) | 2:05 | 2022-11-10 | 2023-03-25 |
-| [Ni har oss i ryggen](https://open.spotify.com/track/51Snii1N9DXZjh7LLjnlVW) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa), [Friidrottslandslaget](https://open.spotify.com/artist/6mNsxXdt1dzWiW3q3mxcMm) | [Ni har oss i ryggen](https://open.spotify.com/album/1uAxVXLjWxBiLGj9Tr9Nlg) | 4:07 | 2025-08-08 |  |
+| [Ni har oss i ryggen](https://open.spotify.com/track/51Snii1N9DXZjh7LLjnlVW) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa), [Friidrottslandslaget](https://open.spotify.com/artist/6mNsxXdt1dzWiW3q3mxcMm) | [Ni har oss i ryggen](https://open.spotify.com/album/1uAxVXLjWxBiLGj9Tr9Nlg) | 4:07 | 2025-08-08 | 2025-11-02 |
 | [Nightwalker](https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Nightwalker](https://open.spotify.com/album/1mHq9ulE1PvexkZnpv5Lrs) | 2:32 | 2021-12-16 | 2022-05-13 |
 | [Nine Minutes](https://open.spotify.com/track/6LtAO6yClMpD5rDpKl6D0p) | [Clara Malby](https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH) | [Nine Minutes](https://open.spotify.com/album/6IXocBzWyc3zqMBX63rOlQ) | 3:08 | 2022-06-02 | 2022-06-24 |
 | [Nitty Gritty](https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Nitty Gritty](https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0) | 3:38 | 2023-09-21 | 2024-01-19 |
@@ -2026,6 +2026,7 @@
 | [Younger](https://open.spotify.com/track/0wZjnMwbyuDvHzvEa6Gjh8) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/4tte71gCL4dpijvIR6U3ab) | 3:16 | 2023-12-14 | 2024-01-26 |
 | [Your Number](https://open.spotify.com/track/7FxCwTyHGx7zLXx92Nomj9) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Your Number](https://open.spotify.com/album/0Z6bdj3jiXVtiV3ozBB0zW) | 2:45 | 2022-03-10 | 2022-06-01 |
 | [Yours](https://open.spotify.com/track/1Ibc9R9cQTESTZjGorWtRT) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Yours](https://open.spotify.com/album/1r8WGwm16WpWJX6nvO3IpO) | 3:24 | 2022-05-20 | 2022-07-27 |
+| [Yup](https://open.spotify.com/track/70pfTEWs5Z7K6bBkR8JyNi) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Yup](https://open.spotify.com/album/1LlP9glKx0kPVKdncrMIs6) | 4:07 | 2025-10-30 |  |
 | [Zinken stänger 01](https://open.spotify.com/track/7nKcRLDrXpPUBOaLs4dOGI) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Zinken stänger 01](https://open.spotify.com/album/1d4BRWb3RxQcMTwvtV1Nkg) | 2:23 | 2024-01-11 | 2024-03-08 |
 | [Zlatan Ibrahimović](https://open.spotify.com/track/4fDUU3PetUumiNtPRCG7mV) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Zlatan Ibrahimović](https://open.spotify.com/album/46XuTYTVVCOTWrsmLFH8XG) | 2:23 | 2023-03-23 | 2023-04-24 |
 | [Zoey](https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd), [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Zoey](https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX) | 3:03 | 2024-09-26 | 2025-03-22 |

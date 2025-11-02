@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,293 likes - 200 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,204 likes - 200 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

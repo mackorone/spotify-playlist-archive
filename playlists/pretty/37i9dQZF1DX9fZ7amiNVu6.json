@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 549223,
+  "num_followers": 549207,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
+        "name": "Buster Poindexter",
+        "url": "https://open.spotify.com/album/4lFx9yBIZmyiBXmw0nFUQf"
+      },
+      "artists": [
+        {
+          "name": "Buster Poindexter And His Banshees Of Blue",
+          "url": "https://open.spotify.com/artist/77GFTVwA0F6Ag1xtlYr0UA"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Hot Hot Hot",
+      "url": "https://open.spotify.com/track/2BeFYfKuc0AZGhbeVY78ep"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
         "name": "Up, Up And Away",
         "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 163346,
       "name": "Up, Up and Away",
       "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
-        "name": "!Volare! The Very Best of the Gipsy Kings",
-        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 346760,
-      "name": "Hotel California (Spanish Mix)",
-      "url": "https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM"
     }
   ],
   "unique_name": "Feel Good Summer",

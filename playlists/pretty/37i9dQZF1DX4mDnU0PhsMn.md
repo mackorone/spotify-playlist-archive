@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mDnU0PhsMn.md) - [plain]
 
 > Add these kid\-friendly stories to your family's bedtime routine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,040 likes - 21 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,042 likes - 21 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

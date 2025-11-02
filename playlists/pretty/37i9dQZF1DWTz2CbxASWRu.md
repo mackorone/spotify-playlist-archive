@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Hispana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,352 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,350 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 89 | [Mi ultima voluntad \(Tonite\)](https://open.spotify.com/track/252nm9BBDtnTKdEsuNRIxK) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [La Semilla Escondida](https://open.spotify.com/album/7AJvocGmrVjuvTv5sUYzEL) | 4:25 |
 | 90 | [Zion Gate Dub](https://open.spotify.com/track/0XDFYnvZANTULQxWofURlH) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [From The Palace Of Dub](https://open.spotify.com/album/0Tx1mUzIAdN43N7lMW2LUW) | 3:10 |
 
-Snapshot ID: `AAAAAKwNPB9bMVpefyXw0p2+tpJjr3fk`
+Snapshot ID: `AAAAAMIZXHasHT5cBD6E1iQm5+Cact8Z`

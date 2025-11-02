@@ -753,6 +753,28 @@
     },
     {
       "album": {
+        "name": "ENTREPUERTAS",
+        "url": "https://open.spotify.com/album/1fa6JbtzQPfPHcvtpENX59"
+      },
+      "artists": [
+        {
+          "name": "Dimitri y las brujas",
+          "url": "https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Indiferentes",
+      "url": "https://open.spotify.com/track/5fDcpMyx7m0uGQIZhoYa2v"
+    },
+    {
+      "album": {
         "name": "Intenciones",
         "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
       },

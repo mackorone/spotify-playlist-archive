@@ -17769,6 +17769,24 @@
     },
     {
       "album": {
+        "name": "In the middle",
+        "url": "https://open.spotify.com/album/1vsuqdkQj3U6avr1aeqEHL"
+      },
+      "artists": [
+        {
+          "name": "SOFYKA",
+          "url": "https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "In the middle",
+      "url": "https://open.spotify.com/track/2wVUvuhjTEBX1UHS15GNJS"
+    },
+    {
+      "album": {
         "name": "Veronica Swift",
         "url": "https://open.spotify.com/album/053XeiFx1CVMD0sU3gZ8f8"
       },
@@ -28126,7 +28144,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 203076,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm"

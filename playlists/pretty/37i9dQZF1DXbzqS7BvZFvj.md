@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,422 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,424 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 79 | [Katsushika](https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX), [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Katsushika](https://open.spotify.com/album/51zBaQpAdiAWxRP0pA1R0f) | 2:11 |
 | 80 | [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 |
 
-Snapshot ID: `AAAAAIgMJZoNQEF2aOX+oSjG7XhoHCOM`
+Snapshot ID: `AAAAAC0zoYXrIP1ipMn/yAqM5zXpW5Ar`

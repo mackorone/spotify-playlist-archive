@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de BROKIX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,551 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,533 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La última vez](https://open.spotify.com/track/3O64sKENUVihEaEFNayfwE) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [La última vez](https://open.spotify.com/album/1B0yb0qL2Brf6P2GJqxhIk) | 3:16 |
-| 2 | [PELINEGRA](https://open.spotify.com/track/2mRj0ZKy6kFAWIJ2fXHqyM) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 1:57 |
+| 2 | [PELINEGRA](https://open.spotify.com/track/2mRj0ZKy6kFAWIJ2fXHqyM) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 1:57 |
 | 3 | [EL TOQUE](https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LAMENTO EN BAILE](https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t) | 2:48 |
 | 4 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 5 | [Gatita](https://open.spotify.com/track/16gluNDUf7GitRH9W3Y4zI) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Gatita](https://open.spotify.com/album/5qU46sCdXutaPCKYLEv0NJ) | 3:24 |

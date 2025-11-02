@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 140669,
       "name": "A me mi piace",
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -6078,7 +6078,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -7530,7 +7530,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 185604,
       "name": "Buio (feat. Giorgia)",
       "url": "https://open.spotify.com/track/6NtsVuYgkSMDVuvA16IB5n"
@@ -8376,7 +8376,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -8530,6 +8530,24 @@
       "duration_ms": 180500,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/1qd3VDzfheygZf4m7lygoV"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/4DnymAVWXHJVtC27FQDDrq"
     },
     {
       "album": {
@@ -12829,6 +12847,28 @@
     },
     {
       "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151475,
+      "name": "Cup + Ghiaccio (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/784S3AvFE0BdbAZnMPasjQ"
+    },
+    {
+      "album": {
         "name": "CVLT",
         "url": "https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1"
       },
@@ -13888,7 +13928,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 185503,
       "name": "Destri",
       "url": "https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59"
@@ -17328,7 +17368,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 172067,
       "name": "Fanculo (feat. Marracash)",
       "url": "https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f"
@@ -18625,6 +18665,32 @@
     },
     {
       "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "Floyd Mayweather (feat. Papa V e Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/3xrtjStNBOWioe7CN7YMDy"
+    },
+    {
+      "album": {
         "name": "Follow You / Cutthroat",
         "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
       },
@@ -19510,7 +19576,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 112500,
       "name": "G&V",
       "url": "https://open.spotify.com/track/6poK4dgWF5wQmmB7i92mhh"
@@ -20130,7 +20196,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 228000,
       "name": "Ginevra (feat. Geolier)",
       "url": "https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7"
@@ -20984,6 +21050,24 @@
       "duration_ms": 204386,
       "name": "Grattacieli meteoriti gli angeli",
       "url": "https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171122,
+      "name": "Grazie a Dio",
+      "url": "https://open.spotify.com/track/2PrWyTk78yOfXaqn4u3OjU"
     },
     {
       "album": {
@@ -23176,7 +23260,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 186090,
       "name": "Il brivido della vita",
       "url": "https://open.spotify.com/track/0P4wjuZdQvFkMYqDYiM9EF"
@@ -23456,7 +23540,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 187403,
       "name": "il filo rosso",
       "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
@@ -24178,7 +24262,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 204811,
       "name": "Incoscienti Giovani",
       "url": "https://open.spotify.com/track/3l4KzIHsh002W3evllH3EF"
@@ -24288,6 +24372,24 @@
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173738,
+      "name": "Infami e Thot",
+      "url": "https://open.spotify.com/track/2BsgtTse3t6p9MPkVxL1BE"
     },
     {
       "album": {
@@ -27116,7 +27218,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 222794,
       "name": "La musica non c'\u00e8",
       "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
@@ -28022,6 +28124,24 @@
       "duration_ms": 135929,
       "name": "LAPROVINCE #4",
       "url": "https://open.spotify.com/track/5dfkNaeDjMiRZTPM83atGC"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155287,
+      "name": "Larry Hoover",
+      "url": "https://open.spotify.com/track/5GiisuLYC3uSKRWROIQGGp"
     },
     {
       "album": {
@@ -33791,6 +33911,24 @@
     },
     {
       "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "Moncler",
+      "url": "https://open.spotify.com/track/4UIfhpUA5n6MTHWP7oBPGp"
+    },
+    {
+      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -34748,6 +34886,24 @@
       "duration_ms": 132373,
       "name": "Napoletano",
       "url": "https://open.spotify.com/track/3aUtI5J9jU7n0OQDzl2egV"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "Nasco e Muoio Hustle",
+      "url": "https://open.spotify.com/track/6cApGDjWSUNhSeK8WXqwcL"
     },
     {
       "album": {
@@ -37568,7 +37724,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 195988,
       "name": "Occhi color mare",
       "url": "https://open.spotify.com/track/1EVOcQcJeAbtmzmuYnI14C"
@@ -37728,6 +37884,24 @@
       "duration_ms": 179079,
       "name": "OGNI AMICO MIO",
       "url": "https://open.spotify.com/track/3zgyiQGgT3OyBa2gsds6UV"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207230,
+      "name": "Ogni Male",
+      "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
     },
     {
       "album": {
@@ -38458,7 +38632,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 303032,
       "name": "Ora che non ho pi\u00f9 te",
       "url": "https://open.spotify.com/track/25idOmfSOCGGdgPhw9iCRm"
@@ -41092,7 +41266,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 218307,
       "name": "Piazza San Marco (feat. Marco Mengoni)",
       "url": "https://open.spotify.com/track/1LTd7empRlYeo6IwKgqBjB"
@@ -44108,6 +44282,24 @@
       "duration_ms": 163115,
       "name": "Rollin' Pt. 2",
       "url": "https://open.spotify.com/track/1Q3G8aiT6zz1SzTT1JlyF6"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174935,
+      "name": "Rolls",
+      "url": "https://open.spotify.com/track/4rBWKupDU5QjOtJAEOWpjf"
     },
     {
       "album": {
@@ -47829,6 +48021,24 @@
     },
     {
       "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141357,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/6NaqgmzkORbjDKOzVrI26M"
+    },
+    {
+      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
       },
@@ -51513,6 +51723,24 @@
     },
     {
       "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Trappala",
+      "url": "https://open.spotify.com/track/41A3UzjnfsiDSuhZ4dhMtw"
+    },
+    {
+      "album": {
         "name": "sFaCioLaTe miXTaPe",
         "url": "https://open.spotify.com/album/7qj8awQvM423Uvc0VpxtXq"
       },
@@ -52054,6 +52282,28 @@
       "duration_ms": 188151,
       "name": "Tu sei il mattino",
       "url": "https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193235,
+      "name": "Tudo Bem (feat. Caio Luccas)",
+      "url": "https://open.spotify.com/track/0YgC6yL1a3mL4UflyPbrdm"
     },
     {
       "album": {
@@ -54988,6 +55238,24 @@
       "duration_ms": 180863,
       "name": "VVS CARTIER",
       "url": "https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176846,
+      "name": "VVS Dancin",
+      "url": "https://open.spotify.com/track/4l05FRqgYaeeGUSeKp5WAu"
     },
     {
       "album": {

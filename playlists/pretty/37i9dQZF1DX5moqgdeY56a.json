@@ -1,6 +1,6 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 534,
+  "num_followers": 555,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
@@ -727,18 +727,22 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 258800,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/1IQ7XkK4TSwLLHrDSXMGDj"
+      "duration_ms": 169472,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/2Tb9OIosEStb1zkItETEgf"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -807,22 +811,18 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 169472,
-      "name": "Dime C\u00f3mo Quieres",
-      "url": "https://open.spotify.com/track/2Tb9OIosEStb1zkItETEgf"
+      "duration_ms": 258800,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/1IQ7XkK4TSwLLHrDSXMGDj"
     },
     {
       "added_at": "2024-04-09 17:24:23",

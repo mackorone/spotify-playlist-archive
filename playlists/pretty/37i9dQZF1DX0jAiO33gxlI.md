@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto:   Yago Oproprio, LK O Marroquino, Rô Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,683 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,670 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vagabundo Nato](https://open.spotify.com/track/0C1HFUJLbxhQnRRtZrcWuk) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [LK O Marroquino](https://open.spotify.com/artist/13CPOWLAYa2sN7Y9k2TtLT), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Vagabundo Nato](https://open.spotify.com/album/7F4PR72VpCS8FUauitIz2s) | 2:24 |
 | 2 | [Podepá](https://open.spotify.com/track/5riGP3lVKMZ8r4iqoJ1NKW) | [Stencyone](https://open.spotify.com/artist/6fX0LADoDyTpqTvBJMDB7A), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Podepá](https://open.spotify.com/album/7qOiyoWVRpH1OJ0ZEB2jkw) | 2:40 |
-| 3 | [SUPER HIP\-HOP \- Ao Vivo](https://open.spotify.com/track/0uDRUdbqsZEfZzCLF20jI2) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [\(ao vivo\) AIR BOLT 2425](https://open.spotify.com/album/46yGiFye3pQeqWD8sLLfDA) | 2:29 |
+| 3 | [SUPER HIP\-HOP \- Ao Vivo](https://open.spotify.com/track/0uDRUdbqsZEfZzCLF20jI2) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [\(ao vivo\) AIR BOLT 2425](https://open.spotify.com/album/46yGiFye3pQeqWD8sLLfDA) | 2:29 |
 | 4 | [Me Odeia Pq Ñ Te Amo Mais](https://open.spotify.com/track/2ds8b5Bl3k2uMxE806THBN) | [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Atemporal](https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb) | 3:23 |
 | 5 | [Frequência Poética](https://open.spotify.com/track/4Y6NNPdgihyi1fRleBvDy6) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [R.beats](https://open.spotify.com/artist/7qoFOfKirBIJc3lSvpkgDo) | [Frequência Poética](https://open.spotify.com/album/47ITU9XTb9BBiXUxWgCYGQ) | 2:48 |
 | 6 | [Cosmo](https://open.spotify.com/track/6kjUQuZNXEr6BBlM0Ubqty) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [Cosmo](https://open.spotify.com/album/1C1DXMKl8zdOnNHCQBhRNX) | 2:30 |

@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142785,
+  "num_followers": 1142791,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
+        "name": "Astronaut (Something About Your Love)",
+        "url": "https://open.spotify.com/album/7gXdTAAzBuXqTV2kxSIPAk"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 202694,
+      "name": "Astronaut - Something About Your Love",
+      "url": "https://open.spotify.com/track/4sG6J4S2FCuMr3oooYAwFS"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
         "name": "Emergency Contact",
         "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
       },
@@ -1587,6 +1603,22 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Want You Like That",
+      "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
         "name": "Guru",
         "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
       },
@@ -1599,38 +1631,6 @@
       "duration_ms": 204466,
       "name": "Guru",
       "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "Gooey",
-        "url": "https://open.spotify.com/album/6DpPctloXGrodIm8fZg7hn"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1oSuscBj84xVHVhFZOnMXF"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
     }
   ],
   "unique_name": "You & Me",

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Nov 04:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Nov 04:04 UTC.
 
-5,762 songs - 13 day 8 hr 42 min
+5,764 songs - 13 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Big Pink Bubble](https://open.spotify.com/track/4I43vEkyuNfH2pNKGOjM8i) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Big Pink Bubble](https://open.spotify.com/album/3b1GcZJ9SCyzJY5sU26ABW) | 1:57 | 2025-03-23 | 2025-04-02 |
 | [Big Piranhas](https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Big Piranhas](https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps) | 3:31 | 2024-05-03 | 2024-05-07 |
 | [BIG STEPPER](https://open.spotify.com/track/3DUVAw6nLbe5WYaD5CaXOf) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [BIG STEPPER](https://open.spotify.com/album/50xSIqjAkOZnbBkiABvmbo) | 2:48 | 2024-11-29 | 2024-12-05 |
+| [Bigger](https://open.spotify.com/track/2265AOHbWTKisgb1mPcqT6) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Bigger](https://open.spotify.com/album/00wYIRKQj39UVdGU5GGbMO) | 2:25 | 2025-11-02 |  |
 | [Biggie Boom Boom](https://open.spotify.com/track/4oW4aeRU5W6uixbb8UYxK7) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Biggie Boom Boom](https://open.spotify.com/album/2eNVJRXDDgRyyLxE4w1i0R) | 2:36 | 2024-08-30 | 2024-09-03 |
 | [Bike Air Anthem \(feat\. Nigel Sylvester\)](https://open.spotify.com/track/64l10zH8TMlar9zCqpUaEg) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Bike Air Anthem \(feat\. Nigel Sylvester\)](https://open.spotify.com/album/4BqLZhPK5wK6arUiSbuI7Q) | 1:27 | 2025-08-16 | 2025-08-28 |
 | [Bikinis and Trackies](https://open.spotify.com/track/55xDoUMKFhBWi3ZxJBzyt5) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bikinis and Trackies](https://open.spotify.com/album/6WsFthfrDQuLxlvu5uYWW3) | 2:43 | 2024-11-04 | 2024-11-08 |
@@ -1592,7 +1593,7 @@
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 | 2024-05-05 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/0EVteu1b9ADgqPdSRvLDGL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Every Time the Sun Comes Up](https://open.spotify.com/album/6UF26PZulm5iH78Tw1EMFu) | 4:22 | 2024-05-28 | 2024-06-01 |
 | [Everybody Gets Down](https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Everybody Gets Down](https://open.spotify.com/album/2itGQCqttw47maPiLdncOM) | 2:41 | 2025-05-12 | 2025-05-22 |
-| [Everybody Knows](https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Everybody Knows](https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs) | 3:19 | 2025-10-30 |  |
+| [Everybody Knows](https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Everybody Knows](https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs) | 3:19 | 2025-10-30 | 2025-11-02 |
 | [Everybody Laughs](https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Everybody Laughs](https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL) | 3:48 | 2025-06-10 | 2025-06-21 |
 | [Everybody Needs Me](https://open.spotify.com/track/7i5sSFLuU6PKPxOnPvdWKA) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Everybody Needs Me](https://open.spotify.com/album/7oIR0HGqW8m9Gn4IuzfdkT) | 3:11 | 2024-08-23 | 2024-08-29 |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-20 | 2025-09-02 |
@@ -2090,6 +2091,7 @@
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-26 | 2024-08-01 |
 | [Gvasalia](https://open.spotify.com/track/1ahqJKpmzSAOYzvdpaQSVR) | [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [Gvasalia](https://open.spotify.com/album/4Zb4K0GsexEYdGUcJ5LZqM) | 2:29 | 2025-06-29 | 2025-07-05 |
 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 | 2024-09-12 | 2024-09-14 |
+| [H.A.P.P.Y](https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [H.A.P.P.Y](https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB) | 2:29 | 2025-11-01 |  |
 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-13 | 2025-06-23 |
 | [Hacker](https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Hacker](https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8) | 2:59 | 2024-10-30 | 2024-11-02 |
 | [Had I Not Seen the Sun](https://open.spotify.com/track/59oOaUav2cqt9zkhpQgmru) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Robin](https://open.spotify.com/artist/55NononxYKjAdaLpphQ4JD), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Had I Not Seen the Sun](https://open.spotify.com/album/2ffyKF0sGtbOTUsoEm7opF) | 2:25 | 2024-06-19 | 2024-06-21 |
@@ -4972,7 +4974,7 @@
 | [The Problem](https://open.spotify.com/track/3bXUEuVG1SZX69Kt88yzIh) | [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU), [DJ Hoppa](https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD) | [The Problem](https://open.spotify.com/album/1ifh5JsdKht971fdNQTyst) | 3:05 | 2024-12-06 | 2024-12-11 |
 | [The Queen is Back](https://open.spotify.com/track/63Sp7Gv1yK4WugcbyZF7up) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [The Queen is Back](https://open.spotify.com/album/3Q65ciBjkErYUwbzR4bw7z) | 3:49 | 2024-05-11 | 2024-05-15 |
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-23 | 2025-03-01 |
-| [The Real Contra Band](https://open.spotify.com/track/4kBtmojfp18pLG6HPtn5xR) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [The Real Contra Band](https://open.spotify.com/album/4VeS0UCjBAsBhF0HH7Snsr) | 3:09 | 2025-10-23 |  |
+| [The Real Contra Band](https://open.spotify.com/track/4kBtmojfp18pLG6HPtn5xR) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [The Real Contra Band](https://open.spotify.com/album/4VeS0UCjBAsBhF0HH7Snsr) | 3:09 | 2025-10-23 | 2025-11-02 |
 | [THE REASON WE FIGHT](https://open.spotify.com/track/4wbRdnhI4VtO4HoGjXAouy) | [GALNERYUS](https://open.spotify.com/artist/3BNDjSD67jJE4fhxX1b2OV) | [THE REASON WE FIGHT](https://open.spotify.com/album/7q4OTMHgBrq6esXoxW38ji) | 7:20 | 2024-08-16 | 2024-08-18 |
 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 | 2024-08-09 | 2024-08-14 |
 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2024-10-03 | 2024-10-05 |

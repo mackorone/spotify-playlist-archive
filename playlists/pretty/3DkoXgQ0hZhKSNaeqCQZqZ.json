@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, made for furs, by furs. ",
-  "num_followers": 808,
+  "num_followers": 810,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEV9Jcj5gvX7m5cwNaCZzNu9ly7EGS",
+  "snapshot_id": "AAAEWMItnRBFp9zT/jMXRImxwgX5620W",
   "tracks": [
+    {
+      "added_at": "2025-11-01 07:20:12",
+      "album": {
+        "name": "PREY",
+        "url": "https://open.spotify.com/album/63GY1hMoq8g2EGO5MVJhLA"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "PREY",
+      "url": "https://open.spotify.com/track/5TuDbn9gFxM8HZRHCdMOXT"
+    },
     {
       "added_at": "2025-10-29 19:14:49",
       "album": {

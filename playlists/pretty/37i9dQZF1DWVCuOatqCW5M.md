@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Darshan Raval & Yashraj & Badshah and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,867 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,927 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Jiya Laage Na](https://open.spotify.com/track/65Ejv1ucmRi0nXBdZMWM0S) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Shirley Setia](https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs) | [Jiya Laage Na](https://open.spotify.com/album/2xje52JHa9JUqqsteK8QQY) | 3:26 |
 | 50 | [Lagey Rabb Warga](https://open.spotify.com/track/1JzfMiyxwzEk2JmZBNMZVD) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Mukku](https://open.spotify.com/artist/6UONv04Z1hQqtQjskS0H0p) | [Lagey Rabb Warga](https://open.spotify.com/album/1fsotABIj9rKdSirJVwi72) | 3:10 |
 
-Snapshot ID: `AAAAAAbuZ5/GdXM859UbGkDBw8QCxgG4`
+Snapshot ID: `AAAAAJrHNQF4l3GWLwtUYeD9r+Q9khFD`

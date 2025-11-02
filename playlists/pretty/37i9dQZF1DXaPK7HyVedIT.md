@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,570 likes - 77 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,424 likes - 77 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 9 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:21 |
 | 10 | [Bachata](https://open.spotify.com/track/5g7qZi147gRPAESbYKpgQs) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Bachata](https://open.spotify.com/album/27GGNlHPIDEM2hWCnP278T) | 3:36 |
 | 11 | [Wanna Know](https://open.spotify.com/track/06HZfiqCvTIcyB06b4SfMu) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Pithman](https://open.spotify.com/artist/102gEOw4rXYB94Y1yUz7fe) | [Wanna Know](https://open.spotify.com/album/7c8Q5Y6Tbd0a5cSECnUo9N) | 3:21 |
-| 12 | [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
+| 12 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 13 | [Hand in Hand \- Diego Druck Remix](https://open.spotify.com/track/0v20nQM0HNhL63IO9syp8B) | [EMOTIONAL](https://open.spotify.com/artist/71oIj7nqfDmjE0bQIaQDP1), [JAW](https://open.spotify.com/artist/05BpORreAobgNUA5feAsui), [Diego Druck](https://open.spotify.com/artist/018o9a7ArNnvYzhw2gMEUY) | [Hand in Hand \(Diego Druck Remix\)](https://open.spotify.com/album/2Rd4Pv33rpITLCbXlFZvCd) | 4:23 |
 | 14 | [Busy Busy Busy](https://open.spotify.com/track/4emH7mwKIoymAn8RyxA3EK) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Busy Busy Busy](https://open.spotify.com/album/4oXF5CJDXBee3YzTW0Fvet) | 2:58 |
 | 15 | [Noises + Mochakk](https://open.spotify.com/track/5HJXM2QwgNVWRABiBn9rk9) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 6:31 |

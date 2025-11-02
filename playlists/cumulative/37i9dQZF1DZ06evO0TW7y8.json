@@ -1086,10 +1086,28 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 203813,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky"
+    },
+    {
+      "album": {
+        "name": "The Way I Love You / With You (Acoustic)",
+        "url": "https://open.spotify.com/album/347aGCrSf0rmbfJelbJHOD"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "The Way I Love You - Acoustic",
+      "url": "https://open.spotify.com/track/2a1YoHUcoZeQMCDT5jIRMr"
     },
     {
       "album": {

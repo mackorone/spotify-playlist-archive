@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232640,
+  "num_followers": 232665,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Jovelina P\u00e9rola Negra",
-        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
-      },
-      "artists": [
-        {
-          "name": "Jovelina Perola Negra",
-          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Menina Voc\u00ea Bebeu",
-      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Nova Bis - Clara Nunes",
         "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 181466,
       "name": "\u00ca Baiana",
       "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Jovelina P\u00e9rola Negra",
+        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Menina Voc\u00ea Bebeu",
+      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
     },
     {
       "added_at": "2025-09-19 22:07:37",

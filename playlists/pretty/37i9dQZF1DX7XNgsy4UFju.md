@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: fanclubwallet
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,102 likes - 112 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,099 likes - 112 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

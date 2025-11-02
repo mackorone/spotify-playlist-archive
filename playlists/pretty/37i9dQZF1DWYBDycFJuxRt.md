@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ヒグチアイ \*👉 <a href="https://spice.eplus.jp/articles/341706">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,197 likes - 85 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,239 likes - 85 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 8 | [フラワー](https://open.spotify.com/track/3BF4RksNihC06UoqYi6hnq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [フラワー](https://open.spotify.com/album/2EcW1SjKIISp8sZImkbFgu) | 4:47 |
 | 9 | [Gravity](https://open.spotify.com/track/445l20YWwFUp9EWyNB8HeR) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Gravity / イノセントブルー](https://open.spotify.com/album/7kfIVD1wznLWfIzxjMuJvw) | 4:26 |
 | 10 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
-| 11 | [CHO BUSY](https://open.spotify.com/track/1W7OhKAf3XCXXd7pfhDnf3) | [RAISAN](https://open.spotify.com/artist/4iCxaZSzEaNVFC8MNrZZBH) | [CHO BUSY](https://open.spotify.com/album/565SNN8cicbnxcBwmxijuz) | 2:38 |
+| 11 | [CHO BUSY](https://open.spotify.com/track/1W7OhKAf3XCXXd7pfhDnf3) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [CHO BUSY](https://open.spotify.com/album/565SNN8cicbnxcBwmxijuz) | 2:38 |
 | 12 | [My Answer](https://open.spotify.com/track/5sb1ngao5lKvPfGBiBsQW8) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [My Answer](https://open.spotify.com/album/0P2qYoVgXNwR6zsxSYhyn8) | 3:32 |
 | 13 | [Beat\-Boxer](https://open.spotify.com/track/4X8JreC8HgOwxmh0bRjQ4w) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Beat\-Boxer](https://open.spotify.com/album/6SPjS2fx5nvWvmhWfJjAHi) | 2:35 |
 | 14 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |

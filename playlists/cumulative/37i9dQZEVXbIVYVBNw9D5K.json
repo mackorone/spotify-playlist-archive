@@ -5035,6 +5035,36 @@
     },
     {
       "album": {
+        "name": "BRAPAP II",
+        "url": "https://open.spotify.com/album/1vbFMbZJjCAAJeW7VmFi9v"
+      },
+      "artists": [
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        },
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141400,
+      "name": "BRAPAP II",
+      "url": "https://open.spotify.com/track/5etcvKg0jUs1vRVw1CqBqu"
+    },
+    {
+      "album": {
         "name": "Kad\u0131n",
         "url": "https://open.spotify.com/album/5aSqHgJXiGReiPlk8BaWre"
       },
@@ -12598,7 +12628,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 156240,
       "name": "\u0130HT\u0130YA\u00c7 YOK OTELE",
       "url": "https://open.spotify.com/track/1pwgLmoW8nB0kunWcOgiws"
@@ -13730,7 +13760,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 166736,
       "name": "Kalbim Yan\u0131mda",
       "url": "https://open.spotify.com/track/3Lpeu0zbUXY1WfoGy1vEuh"
@@ -16130,7 +16160,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 125983,
       "name": "Makossa",
       "url": "https://open.spotify.com/track/7BTcDCfp3kWquEvHepCAFM"
@@ -18882,7 +18912,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 133472,
       "name": "PEK\u0130 PEK\u0130",
       "url": "https://open.spotify.com/track/5qzoVhaHblEfeVtBwrTIap"
@@ -20600,7 +20630,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 204833,
       "name": "Sana G\u00fcvenmiyorum - Dedub Sessions",
       "url": "https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ"
@@ -20764,7 +20794,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 271210,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj"
@@ -21602,7 +21632,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 100965,
       "name": "SHEVCHENKO",
       "url": "https://open.spotify.com/track/4GJEkYQVl6CSxh0qaS5O0Q"
@@ -22300,7 +22330,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 211426,
       "name": "S\u00f6nen Sigaralar",
       "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"
@@ -24294,7 +24324,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 151512,
       "name": "YANKI X \u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie"
@@ -25924,7 +25954,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 114285,
       "name": "\u00c7OK A\u011eLADIM",
       "url": "https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat"
@@ -26492,7 +26522,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 248400,
       "name": "\u015eiire Gazele",
       "url": "https://open.spotify.com/track/37UtxZlR7UXMInXGgauHzT"

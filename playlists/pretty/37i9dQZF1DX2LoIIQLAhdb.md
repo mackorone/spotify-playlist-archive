@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : RnBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,717 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,721 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Délice](https://open.spotify.com/track/7cHYUPz5z6BVDrcAhk5NL1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Délice](https://open.spotify.com/album/6ljFY4w4kQOepaA7KEr3N0) | 2:38 |
 | 40 | [Perdu dans tes jeux](https://open.spotify.com/track/4g1HfSI1Lb7OfEThLjQrRt) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Terence G](https://open.spotify.com/artist/3QiQ4OVxpefbpoqUSDDrQK) | [Perdu dans tes jeux](https://open.spotify.com/album/7G6465SbMJGkaKe7xYDT3I) | 3:33 |
 
-Snapshot ID: `AAAAAGGcvWX9zEpDN0G10FL/hOYOlSZY`
+Snapshot ID: `AAAAAMIFzsyINRGU72J/gE6CR6tWlUpz`

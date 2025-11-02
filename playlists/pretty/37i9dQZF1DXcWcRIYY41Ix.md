@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,497 likes - 102 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,515 likes - 102 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 67 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 |
 | 68 | [La batalla de los cisnes](https://open.spotify.com/track/2X623oR7LpvA7wmTbREwrb) | [Musgö](https://open.spotify.com/artist/0RvtJwcCisaSRZHLhuBAbT) | [La batalla de los cisnes](https://open.spotify.com/album/7wLog2Kyh5aXrlfAYAdxTb) | 3:24 |
 | 69 | [La maleza](https://open.spotify.com/track/1OcthnIlVcqN6Tqlvcz2Ny) | [Chloé Bird](https://open.spotify.com/artist/1DbosGATEZmWSixTqlGPUh) | [La Maleza](https://open.spotify.com/album/3eG2CiXR8IGinvyvOXFh8A) | 4:04 |
-| 70 | [Tan delicada](https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU) | [Nadia Alvarez](https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku), [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Tan delicada](https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu) | 3:19 |
+| 70 | [Tan delicada \(con Quique González\)](https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU) | [Nadia Alvarez](https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku), [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Tan delicada \(con Quique González\)](https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu) | 3:19 |
 | 71 | [Continuar](https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Continuar](https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL) | 2:37 |
 | 72 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 |
 | 73 | [tiene que ser más fácil](https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [tiene que ser más fácil](https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa) | 3:50 |

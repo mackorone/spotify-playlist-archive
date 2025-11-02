@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 71301,
+  "num_followers": 71304,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Triumph (Expanded Version)",
-        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "Can You Feel It - 7\" Version",
-      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Odyssey (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 336466,
       "name": "Native New Yorker - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Triumph (Expanded Version)",
+        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "Can You Feel It - 7\" Version",
+      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "C'est Chic",
+        "url": "https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 415466,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 468831,
       "name": "Don't You Want My Love - Remastered",
       "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/0y1GuBD52TFARX9e4EOJeD"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 405293,
-      "name": "Haven't You Heard",
-      "url": "https://open.spotify.com/track/3Kf0nJpV3AMRWRTL1SEqUl"
     }
   ],
   "unique_name": "Disco Decadence",

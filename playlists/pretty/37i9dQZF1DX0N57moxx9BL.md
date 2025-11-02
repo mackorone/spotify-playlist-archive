@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Art of Dying
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,682 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,735 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [Enough!](https://open.spotify.com/track/0SuC99M8imUnCwvMsmGiGZ) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Enough!](https://open.spotify.com/album/2ECLXxxCxW08CVMpuXJOAH) | 3:31 |
 | 80 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 |
 
-Snapshot ID: `AAAAACvmO2uiN95b4bjsqmsROzu6tF7f`
+Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`

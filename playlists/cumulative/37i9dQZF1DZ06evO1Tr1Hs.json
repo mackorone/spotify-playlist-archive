@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "yes",
+        "url": "https://open.spotify.com/album/7IKQ2LS9mqFhGMB1M0IJrt"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174989,
+      "name": "yes",
+      "url": "https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO"
+    },
+    {
+      "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 20648,
+  "num_followers": 20652,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAADeq1J/Btip4TQqYUR+ICVr",
+  "snapshot_id": "aQP8AAAAAABsEzeSb1WZy9T708WD5uXC",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
       "duration_ms": 141141,
       "name": "Iconisch",
       "url": "https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waarom Moet Ze Nou Een DJ Zijn",
+        "url": "https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK"
+      },
+      "artists": [
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 154186,
+      "name": "Waarom Moet Ze Nou Een DJ Zijn",
+      "url": "https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH"
     },
     {
       "added_at": null,

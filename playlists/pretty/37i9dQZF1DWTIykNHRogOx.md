@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,322 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,329 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [facilement](https://open.spotify.com/track/4uf3w3CXmwSA2sK6pLH82s) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:41 |
 | 50 | [Ami Amour](https://open.spotify.com/track/72IpO8YdavUCpqTsqh0FRM) | [Anjaa](https://open.spotify.com/artist/59bBzMdhPynQmBjE3dyrTz) | [Les Météores](https://open.spotify.com/album/07ya5hGHzB0hBzwVdOAiCV) | 3:16 |
 
-Snapshot ID: `AAAAAGvGfaSN2v+Sv8T86uEjr+qtAe5Q`
+Snapshot ID: `AAAAAAdT6/TQ/oR2t9BrXXBCdHQQQxqG`

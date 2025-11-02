@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Banshee
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,221 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,274 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [Breathing Underwater](https://open.spotify.com/track/6h14vSIGSm7xyzVf1RZpJq) | [Dead Air Divine](https://open.spotify.com/artist/4VP54WAmI5rW6jcKO45ESS), [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn), [Tilian](https://open.spotify.com/artist/2hj2E6c3lMHm5QlqsQFI04) | [Breathing Underwater](https://open.spotify.com/album/5mIcx3Nbcxzfl39h8U9Abd) | 3:09 |
 | 50 | [Pull Me In](https://open.spotify.com/track/6ND1KkDppdf0JRwSEqzINC) | [NOAPOLOGY](https://open.spotify.com/artist/5ZCqsLsFST7VxWXjwAUkUV) | [Pull Me In](https://open.spotify.com/album/2lMoJhE6tbDjhdCaXlwsPg) | 4:04 |
 
-Snapshot ID: `AAAAACuQdDHyxM/510DdsZbkRwhnI/jJ`
+Snapshot ID: `AAAAALp1fjjL3ZCduDeMIwywKsMKDWHt`

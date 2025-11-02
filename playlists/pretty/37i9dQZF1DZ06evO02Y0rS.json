@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 162726,
+  "num_followers": 162728,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAAAukUi7yRvLAtiECOU2dpAl",
+  "snapshot_id": "aQP8AAAAAABflcIyaTbE9HAPhwULYUbA",
   "tracks": [
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Linked",
-        "url": "https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR"
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 369461,
-      "name": "Linked",
-      "url": "https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K"
+      "duration_ms": 376533,
+      "name": "Nothing Owed",
+      "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "Linked",
+        "url": "https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 376533,
-      "name": "Nothing Owed",
-      "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
+      "duration_ms": 369461,
+      "name": "Linked",
+      "url": "https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 780492,
+  "num_followers": 780509,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2025-09-05 12:15:28",
       "album": {
-        "name": "Varrendo a Lua (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "De Janeiro a Janeiro",
-      "url": "https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW"
-    },
-    {
-      "added_at": "2025-09-05 12:15:28",
-      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
       },
@@ -411,22 +391,6 @@
     {
       "added_at": "2025-09-05 12:15:28",
       "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2025-09-05 12:15:28",
-      "album": {
         "name": "Detonautas Ac\u00fastico",
         "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
       },
@@ -439,6 +403,42 @@
       "duration_ms": 254520,
       "name": "Voc\u00ea me faz t\u00e3o bem",
       "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
+    },
+    {
+      "added_at": "2025-09-05 12:15:28",
+      "album": {
+        "name": "Varrendo a Lua (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "De Janeiro a Janeiro",
+      "url": "https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW"
+    },
+    {
+      "added_at": "2025-09-05 12:15:28",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2025-09-05 12:15:28",

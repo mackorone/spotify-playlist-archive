@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 190522,
       "name": "Jacarandosa",
       "url": "https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi"
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 197588,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/7Fk8ERPKE82O8xWwqqj5qB"
@@ -2304,6 +2304,24 @@
       "duration_ms": 203125,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/6zDbT0ltQqymfFwQekJHSU"
+    },
+    {
+      "album": {
+        "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/4AAxr6YcB2n3yn7VAyozMI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203126,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3LUoAN6rKESMBwV6hOXKBF"
     },
     {
       "album": {

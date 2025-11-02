@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-176 songs - 20 hr 14 min
+177 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [From a Distance \(Blast Master V the Corpral\)](https://open.spotify.com/track/0CBbN4YIOkmYEGuJsFZNC7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 3:55 | 2024-11-16 | 2024-11-24 |
 | [Fussball](https://open.spotify.com/track/5cZ90X5hD4SEGFtaunUg45) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [More Tales from the Orbservatory](https://open.spotify.com/album/2NOoRjZZ03QCUZjZZkfRBS) | 4:30 | 2022-05-29 |  |
 | [Gee Strings](https://open.spotify.com/track/0sL0xqRM1Hbr84JPHpG8i6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:13 | 2024-11-13 | 2024-12-02 |
-| [Gee Strings](https://open.spotify.com/track/2UYcPt2XWLN8p2PHTz2wcw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 5:13 | 2024-12-02 |  |
+| [Gee Strings](https://open.spotify.com/track/2UYcPt2XWLN8p2PHTz2wcw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 5:13 | 2024-12-02 | 2025-11-02 |
 | [Glen Coe \[Mixed\]](https://open.spotify.com/track/6r63smEsviOfs7wXMXggwy) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Connecting The Dots \(DJ Mix\)](https://open.spotify.com/album/46L9tNr4y1nCwpwDkYIyIT) | 4:54 | 2023-01-02 | 2023-02-04 |
 | [Go Down Evil](https://open.spotify.com/track/79AofcxiLVPQ2E0t8JgBSJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 5:29 | 2022-06-07 | 2022-10-11 |
 | [God's Mirrorball](https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Moonbuilding 2703 AD](https://open.spotify.com/album/1pSigtLUTHraLsmmc1PYAv) | 14:44 | 2022-05-31 | 2022-10-13 |
@@ -82,7 +82,8 @@
 | [Into The Fourth Dimension](https://open.spotify.com/track/6vsFXXLsb83fM0QtlXQm0r) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 9:15 | 2022-06-02 |  |
 | [Isle of Horns](https://open.spotify.com/track/6e4E9dM10JS3RImIGb5k13) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 5:26 | 2022-09-21 | 2022-09-23 |
 | [It's Coming Soon](https://open.spotify.com/track/4ilN3buPvTXvnvgbFkAtjh) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [It's Coming Soon](https://open.spotify.com/album/08lUKyWInjb0ae5INhps8q) | 6:20 | 2025-09-12 | 2025-10-21 |
-| [It's Coming Soon](https://open.spotify.com/track/7JBKRzIjWLn9mXPRlRsyQL) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Buddhist Hipsters](https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif) | 6:20 | 2025-10-21 |  |
+| [It's Coming Soon](https://open.spotify.com/track/7JBKRzIjWLn9mXPRlRsyQL) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Buddhist Hipsters](https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif) | 6:20 | 2025-10-21 | 2025-11-02 |
+| [It's Coming Soon \- Edit](https://open.spotify.com/track/45zbIWFP9E7E66qRMrTnUH) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [It's Coming Soon \(Edit\)](https://open.spotify.com/album/4uF35qsaaTw3CeJ5M17dSv) | 3:35 | 2025-11-02 |  |
 | [Ital Orb \(Iron Chair\) \- Gaudi Remix](https://open.spotify.com/track/2x2b7BBPR6XjWd0pS84WWa) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP) | [Abolition of the Royal Familia \(Guillotine Mixes\)](https://open.spotify.com/album/750aWEljQEs90DHcS7DDsc) | 6:54 | 2022-05-29 | 2023-03-04 |
 | [Just Because I Really Really Luv Ya](https://open.spotify.com/track/197qEq8OyjaWcHQvGkiwNJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [COW / Chill Out, World!](https://open.spotify.com/album/0l5czlo6eYAxcpw95BtPVZ) | 4:21 | 2022-10-06 | 2025-01-09 |
 | [Khàron](https://open.spotify.com/track/1sJQkDOxwIjI8qtdJA9xO1) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Buddhist Hipsters](https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif) | 12:01 | 2025-10-13 | 2025-10-15 |
@@ -165,7 +166,7 @@
 | [The Cult Of Youth Ambient Mix Parts 1 & 2 \- Edit](https://open.spotify.com/track/4iPCa0uM1gkpDkkdP8VCdi) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres](https://open.spotify.com/album/7Kj5DZcW4jlqGjYnu0UTT7) | 5:35 | 2022-06-01 | 2024-11-13 |
 | [The End of the End](https://open.spotify.com/track/6ZVoXytdIwXcMtLx9Pk2DF) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [No Sounds Are Out of Bounds \(Deluxe\)](https://open.spotify.com/album/2vyUnf6hnPpsYC5Ja8T0QL) | 3:57 | 2022-05-29 | 2023-07-15 |
 | [The Land of Green Ginger](https://open.spotify.com/track/6OrYdM6zEOOOAEmjj4onWz) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Bicycles & Tricycles](https://open.spotify.com/album/70fno0qBHcxnRKUgxwgtRY) | 4:01 | 2023-04-11 | 2024-02-12 |
-| [The Oort Cloud \(Too Night\)](https://open.spotify.com/track/0xtd9ew9P3SvRXyoiuE0Pk) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Buddhist Hipsters](https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif) | 6:57 | 2025-10-12 | 2025-10-21 |
+| [The Oort Cloud \(Too Night\)](https://open.spotify.com/track/0xtd9ew9P3SvRXyoiuE0Pk) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Buddhist Hipsters](https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif) | 6:57 | 2025-10-12 |  |
 | [The Queen of Hearts \- Princess of Clubs Mix](https://open.spotify.com/track/2xDbv8rllgzq8Be9XjetKE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 5:05 | 2022-05-30 | 2023-03-20 |
 | [The Weekend It Rained Forever \- Oseberg Buddha Mix \(The Ravens Have Left the Tower\)](https://open.spotify.com/track/3tRgsntvKAFbAVj0SzcsNe) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 12:30 | 2022-06-25 | 2025-10-12 |
 | [Tiger](https://open.spotify.com/track/4hanvMjJILXxnWY7XO9VpI) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Prism \(Deluxe\)](https://open.spotify.com/album/3TjPYf016Q9GGpugNeiGjK) | 4:32 | 2023-04-30 | 2023-11-11 |

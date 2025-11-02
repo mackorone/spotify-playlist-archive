@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🥤 cover: Audrey Hobert
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,483 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,482 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 79 | [rodeo](https://open.spotify.com/track/34nIcQQXvkjjfTM7GEshdr) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [rodeo](https://open.spotify.com/album/66AqHmHsVMuo6ZwDYfUM1e) | 2:46 |
 | 80 | [Beloved](https://open.spotify.com/track/1EZSldxZEuWVL2S9L9cNoH) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Beloved](https://open.spotify.com/album/4Huxw98rPzbwH7e6sEQRRC) | 3:59 |
 
-Snapshot ID: `AAAAAIUJzVxK+9KOEfQW6pOAdsw7KrG8`
+Snapshot ID: `AAAAAMEuV1auU3Q1uOxs2iSUUzWaEd2B`

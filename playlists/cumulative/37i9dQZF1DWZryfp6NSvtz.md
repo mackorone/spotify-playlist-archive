@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: The Belair Lip Bombs
 
-9,479 songs - 22 day 11 hr 56 min
+9,480 songs - 22 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7521,6 +7521,7 @@
 | [Spit XXV](https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB) | 2:45 | 2025-08-22 | 2025-09-20 |
 | [spit you out](https://open.spotify.com/track/6X9sK1XaTe5c3tmUEi807x) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [spit you out](https://open.spotify.com/album/1YiFV2XRqrDcgBRjtWqBaN) | 2:54 | 2025-01-24 | 2025-02-01 |
 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-26 | 2024-02-03 |
+| [Splinter](https://open.spotify.com/track/2zKw27t2g93O88snqhTO8G) | [Heavywave](https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV) | [Splinter](https://open.spotify.com/album/7tpE9pRKyh4o6VYymOvmrG) | 3:46 | 2025-10-31 |  |
 | [Splinters](https://open.spotify.com/track/3dsme09UXthRIL72V5AjzD) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Splinters](https://open.spotify.com/album/3NyVvr74wDUD3R0A3Xy5xe) | 3:20 | 2025-10-10 |  |
 | [split](https://open.spotify.com/track/1fOC4P7RelbWK4FcxcATuf) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [i feel everything](https://open.spotify.com/album/2WbgQIggT3i5OUr94vlcUT) | 3:10 | 2025-10-17 |  |
 | [Split](https://open.spotify.com/track/1Z2zZy2r4tZFAVnJTVXDEq) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Split](https://open.spotify.com/album/72PHQZxcAwXCjKoilDqzPa) | 3:14 | 2025-09-26 | 2025-10-18 |

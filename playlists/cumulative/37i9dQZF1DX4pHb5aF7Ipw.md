@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by SAHIL CHEEMA, Riar Saab and more!
 
-783 songs - 1 day 12 hr 20 min
+783 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [Sector 17](https://open.spotify.com/track/5nDhWSfgKH6liYo5Bf1PFG) | [Navyaar](https://open.spotify.com/artist/123otJRZEIBmJ1A2elFQDB), [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Sector 17](https://open.spotify.com/album/048z7iRHr0G4qIiQ9yWigo) | 2:08 | 2025-07-10 | 2025-08-02 |
 | [SEE ME FLY](https://open.spotify.com/track/4pYo1TRKCAiJagNY5a505C) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Trappy](https://open.spotify.com/artist/76LtgenFU7yZKyx6y1Xkx8) | [MONEY OVER MATTERS](https://open.spotify.com/album/6lpZZ6lgUvznUuCjBK36Gp) | 3:19 | 2024-08-30 | 2024-09-21 |
 | [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 | 2025-03-01 |
-| [SELF TALK](https://open.spotify.com/track/03Ii7zen0qg9frZjmiSmar) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y), [Numbgod](https://open.spotify.com/artist/2pRlsbIdL2gTiSwdxzGnuY) | [SELF TALK](https://open.spotify.com/album/1aShR6ifIT60BUgS3NSkYS) | 3:36 | 2025-10-10 |  |
+| [SELF TALK](https://open.spotify.com/track/03Ii7zen0qg9frZjmiSmar) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y), [Numbgod](https://open.spotify.com/artist/2pRlsbIdL2gTiSwdxzGnuY) | [SELF TALK](https://open.spotify.com/album/1aShR6ifIT60BUgS3NSkYS) | 2:56 | 2025-10-10 |  |
 | [Selfish](https://open.spotify.com/track/300TWXl7OjiBKakaQXleo1) | [Mankoo](https://open.spotify.com/artist/1ZOFaNHpt8lGFD4wbUtZ40) | [Selfish](https://open.spotify.com/album/25yk22rF7WxzuC5fXX9zNk) | 2:11 | 2024-09-09 | 2024-10-01 |
 | [Sham Di Laali](https://open.spotify.com/track/5nL6XYcW0bASEV3cZZWjZ8) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Navvi](https://open.spotify.com/artist/6GsjiE8vB4MUtHSGwbqTYE) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 2:48 | 2025-10-17 |  |
 | [Shaq](https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 2:47 | 2024-05-03 | 2024-05-11 |

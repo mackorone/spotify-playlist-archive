@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DMDp286rY0.md) - [plain]
 
 > SAHM is here! Celebrate it with this playlist by Brown Girl Mag featuring music with South Asian notes and frequencies\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 37 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 630 likes - 37 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DMDp286rY0.md) - [plain]
 | 14 | [Vacation](https://open.spotify.com/track/2yegkNmrFpDrC9a4UVuSGW) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Santhosam](https://open.spotify.com/album/2E9hCWA7XVffqJ2nRPxswF) | 2:29 |
 | 15 | [Turri Jandi](https://open.spotify.com/track/1gSqal5vT2GzXgDPMwMelX) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Turri Jandi](https://open.spotify.com/album/0sSqbyObhNcau4CMkqC8JU) | 4:26 |
 | 16 | [Aaina](https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY) | [AFKAP](https://open.spotify.com/artist/0VI5poXvvDVFaIPdL7M4rY) | [Aaina](https://open.spotify.com/album/6HbxSkGlSicnBUp5Uezh06) | 3:00 |
-| 17 | [Ishq Nachaawe \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6) | [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 3:41 |
+| 17 | [Ishq Nachaawe \- From "Kho Gaye Hum Kahan"](https://open.spotify.com/track/4lQzrLcNfjm1fqBpQmbHG6) | [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [Kho Gaye Hum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O) | 3:41 |
 | 18 | [Unai Paathu](https://open.spotify.com/track/4dPOGgS5sUIQ7M0EUdQ9Rb) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Unai Paathu](https://open.spotify.com/album/6E7lpniUiDArWeja7KHMJo) | 2:07 |
 | 19 | [Bhimpalasi](https://open.spotify.com/track/55v7vmCC89zxy55xaFstwz) | [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L), [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Mastané](https://open.spotify.com/artist/70xlGPKu2DQP5QQfZ6PuBe), [NAMAN](https://open.spotify.com/artist/1nCNCREbL55FDwG4ZClkAp) | [Awakening](https://open.spotify.com/album/1JvDIaxD4TlcOc64igLDu7) | 6:16 |
 | 20 | [Bullwhip Kelp \(Raga Bhoopali\)](https://open.spotify.com/track/0WGCSzH12Fxa5lj9TRZ8Yz) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Ragas](https://open.spotify.com/album/1JwwmsyPpNdsSTnHBUeivv) | 4:30 |

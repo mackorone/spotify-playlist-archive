@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 178586,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/3oxviUT5U8KqDcC91Ve5bz"
@@ -1102,6 +1102,28 @@
       "duration_ms": 188857,
       "name": "Ride Or Die",
       "url": "https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g"
+    },
+    {
+      "album": {
+        "name": "Rockin' With",
+        "url": "https://open.spotify.com/album/0hE8oNAQqvLNVrXpGAXkmR"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "KARTY",
+          "url": "https://open.spotify.com/artist/1d4NBnW4o8yblqpLJ0EEci"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189097,
+      "name": "Rockin' With",
+      "url": "https://open.spotify.com/track/0p4fVoWXtS4IINstVnnNr0"
     },
     {
       "album": {

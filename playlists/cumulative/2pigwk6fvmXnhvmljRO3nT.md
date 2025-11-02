@@ -4,7 +4,7 @@
 
 > 
 
-7,854 songs - 20 day 6 hr 27 min
+7,858 songs - 20 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1617,6 +1617,7 @@
 | [Drankin N Smokin](https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:33 | 2025-10-27 |  |
 | [Draw Down](https://open.spotify.com/track/171WbFVpZsjnYBRAev63EK) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 4:21 | 2025-01-15 |  |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2025-01-15 |  |
+| [Dream](https://open.spotify.com/track/3OY2OJ26fzEtNxkB1FEolc) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/37rRvFMj1WWd8T227jdHyb) | 3:42 | 2025-11-01 |  |
 | [Dream \(feat\. Yak Gotti\)](https://open.spotify.com/track/1SkR9g1l9NipSZhZPJsbOT) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:01 | 2025-01-15 |  |
 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 | 2025-04-19 |  |
 | [Dream Come True](https://open.spotify.com/track/6PUrbyoXUewTWqMGEyjGP3) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Brand New Heavies](https://open.spotify.com/album/6yZS28yJzsjLF7p6qvsRjN) | 4:53 | 2025-01-21 |  |
@@ -4062,6 +4063,7 @@
 | [My Kind Of Woman](https://open.spotify.com/track/4tXzPOr4UaBoA7k7pnpJI1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/0Skv3s5A99n7dstiJOs0aA) | 3:10 | 2025-01-04 |  |
 | [My Life](https://open.spotify.com/track/7xfCB2xoAUI5jS4voiJwIt) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Polaris \- The 1st Album](https://open.spotify.com/album/1CFkIOJvK6sZgVYb0Wcwzo) | 3:23 | 2025-01-03 |  |
 | [My Love](https://open.spotify.com/track/10I0XvqeFkhn1whqXuMY73) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [MY LOVE](https://open.spotify.com/album/7GY9pspYl7ZhkB208buN3b) | 3:23 | 2025-01-03 |  |
+| [MY LOVE](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 10](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) | 3:40 | 2025-11-01 |  |
 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 | 2025-01-04 |  |
 | [My Love \- Live](https://open.spotify.com/track/0o9dOUF5Tzt6oe6x5qG7Hf) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Live Concert](https://open.spotify.com/album/2dVNeshpH35Um4voPEnbMD) | 5:29 | 2025-01-03 | 2025-09-21 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2025-01-04 |  |
@@ -4933,6 +4935,7 @@
 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:00 | 2024-12-05 |  |
 | [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 4:02 | 2025-01-03 |  |
 | [Righteous Minds](https://open.spotify.com/track/7dFGkZbmm6cVlI28bfMaWE) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:44 | 2025-01-03 |  |
+| [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2025-11-01 |  |
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-21 |  |
 | [RING THE ALARM](https://open.spotify.com/track/1vpQmfAJWRAFsvBHtAy0d9) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [Meechy Darko](https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 4:20 | 2025-01-03 |  |
 | [Riot](https://open.spotify.com/track/4aOOExMBUyxKnEYb39SrTg) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Riot](https://open.spotify.com/album/0G3uruzIfqEMKmuI8vGZ42) | 1:18 | 2025-01-15 |  |
@@ -7528,6 +7531,7 @@
 | [그대 내게 다시](https://open.spotify.com/track/63Hr7Uvt6S6BLgwvXfivAD) | [변진섭](https://open.spotify.com/artist/5Moz0OfOqFgmg4JpQNdyQm) | [그대 내게 다시](https://open.spotify.com/album/3ob8YgLT4Q71ZAi3viACtd) | 4:05 | 2025-01-15 |  |
 | [그대는 눈물겹다](https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 5:02 | 2025-01-04 |  |
 | [그대는 어디에](https://open.spotify.com/track/50DVz42iHD4qmMmhDfm54M) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:51 | 2025-01-03 | 2025-09-22 |
+| [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 | 2025-11-01 |  |
 | [그대만 있다면](https://open.spotify.com/track/0U3mtPkuvMJhccjg2EjtI3) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [일기예보 5집 \- 다섯번째](https://open.spotify.com/album/6dh8449TcwgvRQrSCVb3rL) | 3:59 | 2025-01-15 |  |
 | [그대안의 블루](https://open.spotify.com/track/45uhaYGq4fOa9xwfLUBkyp) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [그대안의 블루 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r3Z5rLqrPuEDn4Fr92Rz1) | 3:35 | 2025-01-03 |  |
 | [그대에게](https://open.spotify.com/track/6RE5MEqVyzkeMgxGKhxJGf) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [넥스트 5.5집](https://open.spotify.com/album/5JlCKiLaaF0P0ny9QjlnXk) | 5:06 | 2025-01-04 |  |

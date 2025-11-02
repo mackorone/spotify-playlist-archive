@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: grentperez & HONNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,245 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,227 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [the side you won't see](https://open.spotify.com/track/5DEk7GTWVwEr4slyNGXAPk) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [the side you won't see](https://open.spotify.com/album/7mOndmBzCXAyhH0qI9m6Px) | 3:04 |
 | 100 | [nightingale](https://open.spotify.com/track/6ihhpKNXWZunLWGrctUMbq) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [all that heaven allows](https://open.spotify.com/album/3mbHTRafIT6ndcL37omlgI) | 3:35 |
 
-Snapshot ID: `AAAAACdi+dfHw3gLgOrJJNfm5u9q0eFJ`
+Snapshot ID: `AAAAAP58bKNakIVvql5wTRA7udtiJuXr`

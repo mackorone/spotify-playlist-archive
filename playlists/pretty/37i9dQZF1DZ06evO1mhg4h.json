@@ -1,12 +1,12 @@
 {
   "description": "This is kessoku band. The essential tracks, all in one playlist.",
-  "num_followers": 34532,
+  "num_followers": 34544,
   "original_name": "This Is kessoku band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAABV8kLnXR/0P4fr2G1cALv6",
+  "snapshot_id": "aQP8AAAAAAA98INOnSM5Z9IBn7smFNko",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6708\u4e26\u307f\u306b\u8f1d\u3051 / \u4eca\u3001\u50d5\u3001\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u304b\u3089",
-        "url": "https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "\u4eca\u3001\u50d5\u3001\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u304b\u3089",
-      "url": "https://open.spotify.com/track/0xA23rORcjZCUn6HMM0DMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc / Re:Re:",
         "url": "https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 219280,
       "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
       "url": "https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6708\u4e26\u307f\u306b\u8f1d\u3051 / \u4eca\u3001\u50d5\u3001\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u304b\u3089",
+        "url": "https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "\u4eca\u3001\u50d5\u3001\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u304b\u3089",
+      "url": "https://open.spotify.com/track/0xA23rORcjZCUn6HMM0DMw"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 212613,
-      "name": "milky way",
-      "url": "https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv"
+      "duration_ms": 302386,
+      "name": "\u5922\u3092\u675f\u306d\u3066",
+      "url": "https://open.spotify.com/track/2Tc6Yq6HAjFU0OORD3b8w2"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 302386,
-      "name": "\u5922\u3092\u675f\u306d\u3066",
-      "url": "https://open.spotify.com/track/2Tc6Yq6HAjFU0OORD3b8w2"
+      "duration_ms": 212613,
+      "name": "milky way",
+      "url": "https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 237333,
-      "name": "\u3072\u3068\u308a\u307c\u3063\u3061\u6771\u4eac -We will B- Live ver.",
-      "url": "https://open.spotify.com/track/65Nfm9dNhuQDFYExqNCOaP"
+      "duration_ms": 274053,
+      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089 -We will B- Live ver.",
+      "url": "https://open.spotify.com/track/05FLjHg93uElDdRpXX5ckx"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 274053,
-      "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089 -We will B- Live ver.",
-      "url": "https://open.spotify.com/track/05FLjHg93uElDdRpXX5ckx"
+      "duration_ms": 237333,
+      "name": "\u3072\u3068\u308a\u307c\u3063\u3061\u6771\u4eac -We will B- Live ver.",
+      "url": "https://open.spotify.com/track/65Nfm9dNhuQDFYExqNCOaP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-259 songs - 12 hr 32 min
+260 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Meditation Waves](https://open.spotify.com/track/69Piw2qUQQBIWdSIhHWzaO) | [Japanese Garden](https://open.spotify.com/artist/3oIpb7nuzcXKzS9hgh4LAQ) | [Stream Of Life](https://open.spotify.com/album/1RaCPUrWLHhG5D2q8uHCJN) | 2:18 | 2021-11-10 |  |
 | [Melodic Sounds of the Rolling Waves](https://open.spotify.com/track/3rOYb2f2nDC3seenMlYqfX) | [Ocean Makers](https://open.spotify.com/artist/7boWOAsP1MHqkTWt8fyMO1) | [Serene Waves of the Pacific](https://open.spotify.com/album/05q6PAOZTKTHivzgVHSXwp) | 2:08 | 2023-06-19 | 2025-09-18 |
 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 | 2021-11-10 | 2024-03-26 |
-| [Morning Tide](https://open.spotify.com/track/0e75LMLqDz7IhEGjswPMfJ) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 | 2021-11-10 | 2025-10-31 |
+| [Morning Tide](https://open.spotify.com/track/0e75LMLqDz7IhEGjswPMfJ) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 | 2021-11-10 |  |
 | [Morning Waves](https://open.spotify.com/track/5INDVNIG8V2KNJxqVqhEPy) | [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Morning Waves](https://open.spotify.com/album/1dnyX6de5FxDDkQOdvK0Hj) | 1:49 | 2021-11-10 | 2023-06-20 |
 | [Mystic Oceanic Haze](https://open.spotify.com/track/4mcepi8rh6nRNNCGvKLR3i) | [Dreams of Dreams](https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA) | [Mystic Oceanic Haze](https://open.spotify.com/album/4EMxafhgSM7uUpRc1cbhdL) | 2:08 | 2023-06-19 | 2025-10-12 |
 | [Naptime in the Maldives](https://open.spotify.com/track/2u8TNohoW6RHwr6xFRnygI) | [Pro Sounds of Nature](https://open.spotify.com/artist/5S5w21MfQnpQZXxz6LbNQt) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 3:02 | 2021-11-10 | 2023-06-20 |
@@ -193,6 +193,7 @@
 | [Sounds of Nature: Chill Relax](https://open.spotify.com/track/6gqhC2JByzlDNx6OrUEIfj) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Sounds of Nature: The Waves](https://open.spotify.com/album/7HbR6GGV6hAVK5UPzYMg9c) | 1:58 | 2021-11-10 | 2023-06-20 |
 | [Sounds of Nature: The Beach](https://open.spotify.com/track/1ggZVPo1igmW8ZnEMKch9d) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Sounds of Nature: The Waves](https://open.spotify.com/album/7HbR6GGV6hAVK5UPzYMg9c) | 2:42 | 2021-11-10 | 2024-03-26 |
 | [South Beach Waves](https://open.spotify.com/track/1svwMjpggKNGHQ4Rcr8Ia9) | [The Wave Sleep Machine](https://open.spotify.com/artist/49kfCzRL9oEVuOOfuFI4nu) | [The Wave Sleep Machine](https://open.spotify.com/album/7iicR5jDirO7didbpr2O8O) | 4:29 | 2021-11-10 |  |
+| [Splashy Waves](https://open.spotify.com/track/0jA7QEpMJsJRt96Ow9xmT6) | [Waves in Mexico](https://open.spotify.com/artist/2hlOlCpzWFan8lavT7mTvj) | [Splashy Waves](https://open.spotify.com/album/1erkXOzpP24qRfxnhgDKuA) | 3:20 | 2025-09-23 |  |
 | [Still Thoughts And Wave Sounds](https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Waves](https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d) | 2:51 | 2021-11-10 |  |
 | [Stormy Beach](https://open.spotify.com/track/5L3jDDvC3NQ7UIkQkOjBHm) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Nano Wave Sounds](https://open.spotify.com/album/10WTH1C6D3FXY9rsRlipeQ) | 3:59 | 2021-11-10 |  |
 | [Stormy Beach Waves](https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:10 | 2021-11-10 |  |
@@ -229,11 +230,11 @@
 | [Water Sounds for Deep Sleep](https://open.spotify.com/track/26L2FksD8zRLLcycP2QvfJ) | [Sound Sleeping](https://open.spotify.com/artist/4P33yMyMPc6GbC1Jkf1D45) | [Anti\-insomnia Waves](https://open.spotify.com/album/0eidVZYHuT1EwNVKlS8R0k) | 2:26 | 2021-11-10 | 2023-06-20 |
 | [Wave Meditation](https://open.spotify.com/track/4TRvbLTlkIR12Nc0Y9APL6) | [Sollay](https://open.spotify.com/artist/1qXg0buEWygWqO6DM1m4mq) | [Wave Meditation](https://open.spotify.com/album/1PbIsfhhEl1ylIAyDSfZLQ) | 3:24 | 2021-11-10 |  |
 | [Wave Sounds For Relaxing](https://open.spotify.com/track/0MP9WzkvFrUN7eja22ssTm) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 3:26 | 2021-11-10 |  |
-| [Wave Sounds From Your Favorite Beach](https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Deluxe Wave Sounds](https://open.spotify.com/album/4ap2CpNw9Uu7uIBe9xeV8E) | 3:04 | 2021-11-10 |  |
+| [Wave Sounds From Your Favorite Beach](https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Deluxe Wave Sounds](https://open.spotify.com/album/4ap2CpNw9Uu7uIBe9xeV8E) | 3:04 | 2021-11-10 | 2025-11-02 |
 | [Waves After Midnight](https://open.spotify.com/track/1mDBfN62kGsLNa6qZcsFsK) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 2:40 | 2021-11-10 |  |
 | [Waves And Ocean](https://open.spotify.com/track/0704kRxzpTBD6cyw06aVxy) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:09 | 2021-11-10 |  |
 | [Waves and Sand Sizzle](https://open.spotify.com/track/5IYby2NCqCoc8hGUosxTjY) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Gentle Majestic Ocean Waves](https://open.spotify.com/album/5gffSIi6opT8ifjzrmsQZq) | 3:15 | 2025-07-21 |  |
-| [Waves and Seagulls \(at the Beach in Point Pleasant, New Jersey\)](https://open.spotify.com/track/1DaU7Tzyc1v06k0eIoGCV5) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic: Water Sounds](https://open.spotify.com/album/5FvTpUy4QVxNs1dmTNyu6P) | 4:51 | 2025-07-21 |  |
+| [Waves and Seagulls \(at the Beach in Point Pleasant, New Jersey\)](https://open.spotify.com/track/1DaU7Tzyc1v06k0eIoGCV5) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic: Water Sounds](https://open.spotify.com/album/5FvTpUy4QVxNs1dmTNyu6P) | 4:51 | 2025-07-21 | 2025-11-02 |
 | [Waves Before Dawn](https://open.spotify.com/track/6GttsqaEPKPJ0JWk75Ssdy) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:30 | 2021-11-10 |  |
 | [Waves Crashing](https://open.spotify.com/track/0YuKG1kFgb6vLDiQqmBaM3) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:27 | 2021-11-10 |  |
 | [Waves Crashing At The Morning](https://open.spotify.com/track/3VKlyYs7Kn8TxuExd2mRqW) | [Mega Exotic Wave Sounds](https://open.spotify.com/artist/2tyKKR4JcKONjx7FwVvUF2) | [Waves From Around The World](https://open.spotify.com/album/2Z05lMBeRFW6YsoRsXSbbW) | 2:20 | 2022-08-03 |  |

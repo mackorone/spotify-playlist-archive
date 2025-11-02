@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3916472,
+  "num_followers": 3916684,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF2slxuh2h/vGyQPO2DUoOVjU3Dw",
+  "snapshot_id": "AAAAAODVM1SI9F64jI1syx718XZQj0eW",
   "tracks": [
     {
       "added_at": "2025-10-24 04:00:17",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 137790,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 220959,
       "name": "Wanna Be Somewhere With You",
       "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/7qNkTDCyN1yGKcHAJPQmCX"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 137790,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4KNjK6R0aB4j8IT9LU0o6T"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "life gets hard",
+        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        }
+      ],
+      "duration_ms": 125917,
+      "name": "life gets hard",
+      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "life gets hard",
-        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
-      },
-      "artists": [
-        {
-          "name": "iilliaa",
-          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
-        }
-      ],
-      "duration_ms": 125917,
-      "name": "life gets hard",
-      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 331935,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1203,26 +1203,18 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "i don't know what to say",
-        "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Hana Fatur",
-          "url": "https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 209839,
-      "name": "i don't know what to say",
-      "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1243,18 +1235,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+        "name": "i don't know what to say",
+        "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Hana Fatur",
+          "url": "https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX"
         }
       ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+      "duration_ms": 209839,
+      "name": "i don't know what to say",
+      "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Wanna Know",
-        "url": "https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL"
-      },
-      "artists": [
-        {
-          "name": "Jack Willard",
-          "url": "https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7"
-        },
-        {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Wanna Know",
-      "url": "https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "SWEET LOVIN",
         "url": "https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 313064,
       "name": "Sunrise (feat. Madeline Megery)",
       "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL"
+      },
+      "artists": [
+        {
+          "name": "Jack Willard",
+          "url": "https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 217617,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Everlight",
         "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 249553,
       "name": "High & Low",
       "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 217617,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
         }
       ],
-      "duration_ms": 207609,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
       },
       "artists": [
         {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         }
       ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+      "duration_ms": 207609,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Senses of Comfort",
+        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Senses of Comfort",
+      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/3l5cjOXlf0QfcvFvu49P6a"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 224205,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/05EXd5VOcSvEbjMhBn99dn"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Senses of Comfort",
-        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Senses of Comfort",
-      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs"
       },
@@ -1899,26 +1919,6 @@
       "duration_ms": 262500,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 251303,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
     },
     {
       "added_at": "2025-10-24 04:00:17",

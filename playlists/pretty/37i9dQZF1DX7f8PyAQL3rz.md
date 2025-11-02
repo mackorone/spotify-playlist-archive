@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > em guerra de ego sobra quem?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,419,559 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419,548 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 54 | [2 GLOCK](https://open.spotify.com/track/3ze023ckWI3osMHZnhLCCT) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52) | [CRÔNICAS](https://open.spotify.com/album/4MId32a3619pi8cFydwvFZ) | 3:45 |
 | 55 | [Lixo ao Luxo](https://open.spotify.com/track/3hNlU96iN7xW2DpIUw1slg) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [MC Neguinho BDP](https://open.spotify.com/artist/1qjORnMWwHW1ILrXFwkMbX) | [Lixo ao Luxo](https://open.spotify.com/album/4QsJJ0OhhN5xWl9O4nNkSU) | 3:12 |
 | 56 | [Nada Impede](https://open.spotify.com/track/2Jsw7WHWW1VakRk2VI8Rx3) | [BG](https://open.spotify.com/artist/4daF677pBipqZ0ODuNqTCE), [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Nada Impede](https://open.spotify.com/album/0F6wmtlk15XbtaPpPOPE7s) | 3:43 |
-| 57 | [IPHONE 17 PRO MAX](https://open.spotify.com/track/7zNIZxZUn3kErT8SxtawZR) | [Dj Hb Smith](https://open.spotify.com/artist/0ydW6ZjMbir5cafOFLMcR0), [Dj Kiko Da Vila](https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [IPHONE 17 PRO MAX](https://open.spotify.com/album/2oZeOQaXiqke92WNNyhTox) | 2:44 |
-| 58 | [VAI AMAR OU VAI MENTIR?](https://open.spotify.com/track/2MWRZhN9NYyrIMFACp1v9c) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [VAI AMAR OU VAI MENTIR?](https://open.spotify.com/album/6saNaooOROQPlQZuGdfoUp) | 2:57 |
+| 57 | [VAI AMAR OU VAI MENTIR?](https://open.spotify.com/track/2MWRZhN9NYyrIMFACp1v9c) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [VAI AMAR OU VAI MENTIR?](https://open.spotify.com/album/6saNaooOROQPlQZuGdfoUp) | 2:57 |
+| 58 | [IPHONE 17 PRO MAX](https://open.spotify.com/track/7zNIZxZUn3kErT8SxtawZR) | [Dj Hb Smith](https://open.spotify.com/artist/0ydW6ZjMbir5cafOFLMcR0), [Dj Kiko Da Vila](https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [IPHONE 17 PRO MAX](https://open.spotify.com/album/2oZeOQaXiqke92WNNyhTox) | 2:44 |
 | 59 | [Vem Kikando](https://open.spotify.com/track/6ALL8MZRuGe4lUY4lAy2RE) | [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dbn Beatz](https://open.spotify.com/artist/26jAFvzjKW2ZRI4Yc0dSq6), [gbx beatz](https://open.spotify.com/artist/3GwdaadZR3F2h1wJrNJRqf) | [Vem Kikando](https://open.spotify.com/album/0Eo2QAjMgySNEIC4QDFD0g) | 2:17 |
 | 60 | [Sabrina](https://open.spotify.com/track/0AQ3QwZqqz0M5wV4o8svVY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [ALAKASAM](https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6) | 2:42 |
 

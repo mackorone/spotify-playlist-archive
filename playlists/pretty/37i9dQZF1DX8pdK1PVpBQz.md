@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Lottie
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,412 likes - 99 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,416 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 5 | [Nights Go On](https://open.spotify.com/track/7ecGZpqTaaiZvtAkpU2q06) | [Highway Gloom](https://open.spotify.com/artist/0ohZI3gXk1CQiyoTpcSyT1) | [Nights Go On](https://open.spotify.com/album/1P6TE2KPLk3da9auRp9tW1) | 1:59 |
 | 6 | [Come Find Me](https://open.spotify.com/track/6ZRkI1r3aJJA1mNvpPbZ3H) | [For Life](https://open.spotify.com/artist/6Fr8UvJOgnnQNQZNSWzWCV), [Anieszka](https://open.spotify.com/artist/0V8Un1gkMYKYp2Hq3yqmhY) | [Come Find Me](https://open.spotify.com/album/4lNfZqsDQGTwwPSBZk9kmd) | 2:36 |
 | 7 | [Days](https://open.spotify.com/track/6DDVeEMoGibnq9ysxfkcUu) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [Days](https://open.spotify.com/album/6tLGTPPE9hmBleVbhjg0PQ) | 2:45 |
-| 8 | [pixeldust 18+](https://open.spotify.com/track/3g26F5dbTkGlszlSkXqvaC) | [Eli Wan](https://open.spotify.com/artist/0qhHbyKPbVyS51pjxelspT) | [pixeldust 18+](https://open.spotify.com/album/7tZZv29EgyItYDGeac8lNL) | 3:33 |
+| 8 | [pixeldust 18+](https://open.spotify.com/track/3g26F5dbTkGlszlSkXqvaC) | [eli wan](https://open.spotify.com/artist/0qhHbyKPbVyS51pjxelspT) | [pixeldust 18+](https://open.spotify.com/album/7tZZv29EgyItYDGeac8lNL) | 3:33 |
 | 9 | [Stutter](https://open.spotify.com/track/3T7qg8B29yWLRsUaU7DUUi) | [Owelu Dreamhouse](https://open.spotify.com/artist/3RnVGpfltVK29cKnGrIBXs) | [Stutter](https://open.spotify.com/album/7azkL6yF3izgMtlFiyuXjN) | 4:06 |
 | 10 | [watermelon juice](https://open.spotify.com/track/13yacPP35Xx7VNXE6yuSG5) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t) | [watermelon juice](https://open.spotify.com/album/3RamU4y1Wz9FlgsoJpOnA9) | 2:29 |
 | 11 | [TOBACCO](https://open.spotify.com/track/5EUZcqPz4xapOoki4CoY4m) | [Kaila](https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo) | [TOBACCO](https://open.spotify.com/album/3DrWVv11amwwFG7VzSB6RI) | 3:25 |

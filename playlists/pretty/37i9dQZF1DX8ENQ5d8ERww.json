@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 13010,
+  "num_followers": 13014,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
-        "name": "Fl\u00f6chted",
-        "url": "https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek"
-      },
-      "artists": [
-        {
-          "name": "GeilerAsDu",
-          "url": "https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6"
-        },
-        {
-          "name": "Manillio",
-          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Mond",
-      "url": "https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
         "name": "L\u00e4benslauf",
         "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 242293,
       "name": "L\u00e4benslauf",
       "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
+        "name": "Fl\u00f6chted",
+        "url": "https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek"
+      },
+      "artists": [
+        {
+          "name": "GeilerAsDu",
+          "url": "https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6"
+        },
+        {
+          "name": "Manillio",
+          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Mond",
+      "url": "https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD"
     },
     {
       "added_at": "2025-07-24 13:47:10",

@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70427,
+  "num_followers": 70429,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,26 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
+        "name": "Teto: We4Sessions",
+        "url": "https://open.spotify.com/album/4iTosNbBmkOfZjxdwlzBS6"
+      },
+      "artists": [
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 196057,
+      "name": "Gr\u00e9cia",
+      "url": "https://open.spotify.com/track/3Q9OzjTdLoQpz7qjJWMjCM"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
         "name": "Despacha",
         "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 190250,
       "name": "P\u00farpura (P\u00farpura Session)",
       "url": "https://open.spotify.com/track/3eFmZfGLtUO9s4NebDww5E"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
-        "name": "Teto: We4Sessions",
-        "url": "https://open.spotify.com/album/4iTosNbBmkOfZjxdwlzBS6"
-      },
-      "artists": [
-        {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 196057,
-      "name": "Gr\u00e9cia",
-      "url": "https://open.spotify.com/track/3Q9OzjTdLoQpz7qjJWMjCM"
     },
     {
       "added_at": "2025-10-24 18:39:08",
@@ -455,26 +455,6 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
-        "name": "Eu Te Entendo",
-        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 157437,
-      "name": "Eu Te Entendo",
-      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
         "name": "Desalinho",
         "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 205357,
       "name": "Desalinho",
       "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
+        "name": "Eu Te Entendo",
+        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 157437,
+      "name": "Eu Te Entendo",
+      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
     },
     {
       "added_at": "2025-10-24 18:39:08",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
+        "name": "Passageiro do Bem - LADO B",
+        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Voc\u00ea Merece",
+      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 325500,
       "name": "Deixa Estar (Sha la la)",
       "url": "https://open.spotify.com/track/1EHIcTGfRgNegmhJYbdEEX"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
-        "name": "Passageiro do Bem - LADO B",
-        "url": "https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ"
-      },
-      "artists": [
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Voc\u00ea Merece",
-      "url": "https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm"
     },
     {
       "added_at": "2025-10-24 18:39:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Beryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,315 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,309 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 7 | [Only Alive](https://open.spotify.com/track/0b9sisoZxJXRZ8LBQalCxd) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Angel](https://open.spotify.com/album/2bMi9adoEDQ2kr0JUC146L) | 2:11 |
 | 8 | [Mystery Woman](https://open.spotify.com/track/3THln96cTn4UblX2X6oS0v) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Mystery Woman](https://open.spotify.com/album/06Zx22LDG16fi9ZE22k4SK) | 3:04 |
 | 9 | [Good Things](https://open.spotify.com/track/4b2ySri2ec5oJtEVt3Zyx7) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Good Things](https://open.spotify.com/album/1ISR9HaRvDSbJRCcBeMrWG) | 3:33 |
-| 10 | [Love On The Guadalupe](https://open.spotify.com/track/19oSlD2tP12Ks7xlTZZyzg) | [Lefty Parker](https://open.spotify.com/artist/5NvSLQOTzXhKMV5TMdwxuk) | [Ark](https://open.spotify.com/album/3NFu5Rr9eOmj4Qg0HzHzMG) | 3:43 |
+| 10 | [Maria](https://open.spotify.com/track/19oSlD2tP12Ks7xlTZZyzg) | [Lefty Parker](https://open.spotify.com/artist/5NvSLQOTzXhKMV5TMdwxuk) | [Ark](https://open.spotify.com/album/3NFu5Rr9eOmj4Qg0HzHzMG) | 3:43 |
 | 11 | [Better If Worse](https://open.spotify.com/track/37wWsXCrTuLkk12YyZDMUw) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Wither](https://open.spotify.com/album/6nZohz3sIRY813vfwdtmAr) | 4:02 |
 | 12 | [Woven](https://open.spotify.com/track/5faq5yGNX96s9iuegnbx4s) | [Georgia Parker](https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf) | [Woven](https://open.spotify.com/album/2WBhfiA9MP6QerSC7w9Z92) | 2:58 |
 | 13 | [Felt it truly](https://open.spotify.com/track/7iSKMgUVkSDKckMzcgSGSz) | [Little Dog Star](https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH) | [National Disgrace](https://open.spotify.com/album/6JL5D0Wzgx1CsfSiG9JZfw) | 3:04 |

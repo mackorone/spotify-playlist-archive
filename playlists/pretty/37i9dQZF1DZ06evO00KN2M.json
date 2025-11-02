@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1131953,
+  "num_followers": 1132044,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAACXMhN/+mRW6vXeADlk4Dp0",
+  "snapshot_id": "aQP8AAAAAACKJgFGOdPi77ffMIO4Puox",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Monday Morning",
-      "url": "https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 283013,
       "name": "Sisters of the Moon - 2015 Remaster",
       "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Monday Morning",
+      "url": "https://open.spotify.com/track/0qjfjKFoP7LaqLI2KI9M1Q"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Family Man - 2017 Remaster",
-      "url": "https://open.spotify.com/track/56yLJIyy1EfAyujm5HSxJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pious Bird of Good Omen",
         "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 172693,
       "name": "Black Magic Woman - 2018 Master",
       "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Family Man - 2017 Remaster",
+      "url": "https://open.spotify.com/track/56yLJIyy1EfAyujm5HSxJR"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Mystified - 2017 Remaster",
-      "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say You Will",
         "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 245626,
       "name": "Bleed to Love Her",
       "url": "https://open.spotify.com/track/2hl6XZ8nztFfVDv2qHPnwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Mystified - 2017 Remaster",
+      "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
     },
     {
       "added_at": null,

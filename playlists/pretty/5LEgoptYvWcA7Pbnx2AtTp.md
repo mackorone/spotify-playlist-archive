@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 172 songs - 9 hr 58 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 8 likes - 173 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,5 +180,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 170 | [Nine Black Poppies](https://open.spotify.com/track/7tcLPSrqwfYtSYmIVLu8dJ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Nine Black Poppies](https://open.spotify.com/album/6M04qhJl6Fx1Vn3QIHbm1A) | 3:05 |
 | 171 | [Whose Eye Is It Anyway???](https://open.spotify.com/track/480xcT2WmBvhMtKd9jj7ey) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [To Mend the Sun](https://open.spotify.com/album/2ujYOS6J7C4t2j7kz8F0xm) | 2:43 |
 | 172 | [Disco Snails](https://open.spotify.com/track/0yin14PPCxLBorpVqlON8V) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Zachary Barker](https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c) | [Dot](https://open.spotify.com/album/4voc4nmHBjqM4Dm5rjMDUs) | 3:13 |
+| 173 | [Puppet Loosely Strung](https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Puppet Loosely Strung](https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix) | 5:14 |
 
-Snapshot ID: `AAAA61mckcR5wZ809b5BSv4WJPZda4YU`
+Snapshot ID: `AAAA7HKQ/IcNwEJSH5egL+QisEBvpS0T`

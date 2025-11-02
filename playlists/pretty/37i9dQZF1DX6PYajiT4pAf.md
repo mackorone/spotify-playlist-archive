@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Amaia,  ROSALÍA x Björk x Yves Tumor, Dani Martín, María Becerra y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,361 likes - 58 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,387 likes - 58 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

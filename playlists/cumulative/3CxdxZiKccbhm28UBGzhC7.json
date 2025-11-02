@@ -1497,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437293,
+      "name": "Somebody Told Me - Mylo Mix",
+      "url": "https://open.spotify.com/track/1RGJcbR0wOwtB12P0zuWLL"
+    },
+    {
+      "album": {
         "name": "beneath the boardwalk",
         "url": "https://open.spotify.com/album/7gEt8SMstTxp4RK425vjhY"
       },

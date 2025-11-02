@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Leon Thomas on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,203 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,252 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [NOBODY ELSE](https://open.spotify.com/track/3yABhcucUufptBWbGqVrSo) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Sky Is Recording Me: 100 Years Later, Vol\. 3](https://open.spotify.com/album/2ghjL5JT1VKSNcshmqjrbM) | 2:37 |
 | 100 | [GET IT GIRL](https://open.spotify.com/track/3nIY1qfbRd0dJFjxmqbUq2) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [WELCOME HOME](https://open.spotify.com/album/2qIhMc7ZaIOCavfAbPuedc) | 2:47 |
 
-Snapshot ID: `AAAAAD7e9/d5GJ4Xa7jmmak9Ceg9liSr`
+Snapshot ID: `AAAAAN09fuf0XPNZVlW+VLliz0juNjhJ`

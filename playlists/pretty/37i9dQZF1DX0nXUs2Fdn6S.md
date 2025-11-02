@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,973 likes - 67 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,978 likes - 67 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 2 | [LEHEREVERYWHERE](https://open.spotify.com/track/6BLnnwUut8qBCXsJu9bxAR) | [Kimeraa](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [LEHEREVERYWHERE](https://open.spotify.com/album/3yBaC6xcpoENd7YL5C20gX) | 2:33 |
 | 3 | [Shakthi](https://open.spotify.com/track/5xOavYpYa3lROHHVULZwZB) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Shakthi](https://open.spotify.com/album/1T7zssjSgnaDGpTWDCweR1) | 3:08 |
 | 4 | [Laung Gawacha](https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/0NgHu77V7xVb30uxtUud2J) | 3:33 |
-| 5 | [Tala](https://open.spotify.com/track/1QB4MXIekuY5iGLrapDNfj) | [Al Tamar](https://open.spotify.com/artist/5eEZAVA1UxTo2a5vwY0gI1), [Elnaaz Norouzi](https://open.spotify.com/artist/59l92FFLwKblV1LHUHYw43) | [Tala](https://open.spotify.com/album/7dH02hdKfme7yOT2BROR6I) | 3:16 |
+| 5 | [Tala](https://open.spotify.com/track/1QB4MXIekuY5iGLrapDNfj) | [Al Tamar / Elnaaz Norouzi](https://open.spotify.com/artist/3R02Oj1OjV46RVbw0wFYU3) | [Tala](https://open.spotify.com/album/7dH02hdKfme7yOT2BROR6I) | 3:16 |
 | 6 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 |
 | 7 | [Turiya Turiya](https://open.spotify.com/track/7xQRYmgjuC8rAJ8nf8IZV8) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/05LTuIO7jVTdhVCM6NWH8k) | 2:46 |
 | 8 | [Yah Marwa](https://open.spotify.com/track/6mjWvcaZPP4Id3NUFkpCJp) | [ANASTRRIX](https://open.spotify.com/artist/0NY2HVR8BHWUQze2savfsN) | [Yah Marwa](https://open.spotify.com/album/0wMwj676aqrT7HYYijUygW) | 7:24 |

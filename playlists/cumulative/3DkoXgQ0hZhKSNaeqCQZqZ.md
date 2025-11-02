@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-419 songs - 22 hr 5 min
+420 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [poppers](https://open.spotify.com/track/2vDBSXOoJ5mvpwlyZH6YgK) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:13 | 2024-08-15 |  |
 | [Post Con Depression](https://open.spotify.com/track/792HtdR735wSrdaAUTQDRB) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Post Con Depression](https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW) | 3:04 | 2025-05-09 |  |
 | [Pretty Life](https://open.spotify.com/track/5PEOCbho8hqAIJHk3Bxmie) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Pretty Life](https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE) | 3:11 | 2023-06-14 |  |
+| [PREY](https://open.spotify.com/track/5TuDbn9gFxM8HZRHCdMOXT) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PREY](https://open.spotify.com/album/63GY1hMoq8g2EGO5MVJhLA) | 2:32 | 2025-11-01 |  |
 | [Protogen.exe](https://open.spotify.com/track/4v8SeYuq515RbNuhMEBE0r) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [nigxl](https://open.spotify.com/artist/1fTftE98CA2N63gDa8t4EG) | [INTERNET PROTOGEN](https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw) | 1:41 | 2025-10-20 |  |
 | [pulsar](https://open.spotify.com/track/4mvO5VCVcgQmpaj9rm6aNq) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 2:24 | 2024-11-18 |  |
 | [Punching Bag](https://open.spotify.com/track/0nLEEvXYj3G63yq06rLMTd) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [AlphaFXRE](https://open.spotify.com/artist/1gvvMvEXsRKbPMZCYFdE8m) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 2:33 | 2023-10-30 |  |

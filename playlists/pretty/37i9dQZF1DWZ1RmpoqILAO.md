@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie twang fall bby 🍂 Whitney on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,137 likes - 155 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,152 likes - 155 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 154 | [Solar Pilgrim](https://open.spotify.com/track/2diIDjwlKc20RCAZbduELu) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/7dF7onqAzMMauRg11raQZh) | 5:20 |
 | 155 | [Ur Name on a Grain of Rice](https://open.spotify.com/track/6RmefriEmuqmToFqMlvwlF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Always Repeating](https://open.spotify.com/album/3UQh0f5HtW2WmcwMvjhiIJ) | 5:01 |
 
-Snapshot ID: `AAAAAEhUoIcKMurS7KtwF1wCMOLoSGLV`
+Snapshot ID: `AAAAAEPvj7bG+GRM6nUBdVM7pfQoUFhM`

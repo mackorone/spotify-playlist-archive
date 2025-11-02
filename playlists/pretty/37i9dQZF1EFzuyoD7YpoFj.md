@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478 likes - 391 songs - 20 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 391 songs - 20 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,8 +235,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 225 | [Main Title \(Silk Stockings\)](https://open.spotify.com/track/09aEMOsr0lsl5sE2ArDpVj) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:59 |
 | 226 | [Calypso](https://open.spotify.com/track/5ajVAuT7vQmDHhtqPYtpX5) | [Stuff Smith](https://open.spotify.com/artist/0BGNyKGO4LaL69kurXlaSI) | [Have Violin, Will Swing](https://open.spotify.com/album/4T2bV8ZtZCHqJHaKi4HnVm) | 5:26 |
 | 227 | [Without Love \- Remastered](https://open.spotify.com/track/0FohFoWkd9mHqL67zR8iH5) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Rosie Solves the Swinging Riddle](https://open.spotify.com/album/03hz9YvV6vbKkjZVzGkHPV) | 3:02 |
-| 228 | [Slam in Around](https://open.spotify.com/track/3F3zE2N7KfUORJUZZ33Y35) | [Don Byas](https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa) | [Annie Laurie \(Jazz Sax Music to Remember\)](https://open.spotify.com/album/6pMKbhHGLlP5x6XTKRsyM0) | 2:45 |
-| 229 | [Mister and Missus Fitch \(From the Gay Divorce\) \- Live @ the Carlyle](https://open.spotify.com/track/4mcwiBgpkPlfOcNDU10lth) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Live At The Café Carlyle](https://open.spotify.com/album/3BIBreZObb0c7afMRLq3Qx) | 2:02 |
+| 228 | [Mister and Missus Fitch \(From the Gay Divorce\) \- Live @ the Carlyle](https://open.spotify.com/track/4mcwiBgpkPlfOcNDU10lth) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Live At The Café Carlyle](https://open.spotify.com/album/3BIBreZObb0c7afMRLq3Qx) | 2:02 |
+| 229 | [Slam in Around](https://open.spotify.com/track/3F3zE2N7KfUORJUZZ33Y35) | [Don Byas](https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa) | [Annie Laurie \(Jazz Sax Music to Remember\)](https://open.spotify.com/album/6pMKbhHGLlP5x6XTKRsyM0) | 2:45 |
 | 230 | [How's Your Romance](https://open.spotify.com/track/0bdgJQZVwLz9ZchgExCg5u) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:22 |
 | 231 | [Who Said Gay Paree?](https://open.spotify.com/track/6ZlC37ukvbBzVn3KFaFnUm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:31 |
 | 232 | [My Broth of a Boy](https://open.spotify.com/track/6xmyIiCSXRv6urhz8iZRJJ) | [Mimi Bessette](https://open.spotify.com/artist/3o9tzN37xxFOeTyfIP88Pz) | [Lullabies of Broadway](https://open.spotify.com/album/75VMYPwK4rAZxnEULqfdiC) | 4:03 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 390 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 391 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcAXkAAAAAC2+tTVrsAKokCWAbwX3E8s`
+Snapshot ID: `AcAdHAAAAADeFhxL7I/WUGrApwpWhuBi`

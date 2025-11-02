@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : James Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,487 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,492 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Dania](https://open.spotify.com/track/4PjbnxON54kfrRtur51R8L) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [Dania](https://open.spotify.com/album/5zBWA42QHQwCuroHrhwCCB) | 2:15 |
 | 50 | [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 |
 
-Snapshot ID: `AAAAAK07xiHlPpxcKbbKFSmhEcffptA6`
+Snapshot ID: `AAAAAIUAtwAzhgZwj+DOU6i8VDMp2jDh`

@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Fantastic Beasts: The Crimes of Grindelwald",
+      "url": "https://open.spotify.com/track/0KTS79jnwmGpFuaTKBI8Or"
+    },
+    {
+      "album": {
         "name": "The Last Airbender (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2CLXLGYK0WMl2Zq8c3oV1S"
       },
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 554026,
       "name": "Why so Serious?",
       "url": "https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n"

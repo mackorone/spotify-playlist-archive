@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-363 songs - 21 hr 15 min
+364 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 | 2022-04-15 | 2025-06-21 |
 | [Give Me](https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT) | [AWILD](https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5) | [Give Me](https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ) | 5:01 | 2022-04-15 | 2023-05-23 |
 | [Give Me Your Love \(Baby\) \(Zero Remix\)](https://open.spotify.com/track/5Qmto687964VIdsAsfmV5n) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE), [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Give Me Your Love \(Baby\) \(Zero Remix\)](https://open.spotify.com/album/5wKVgLmw73r4bEslj3t7wy) | 2:47 | 2024-08-09 | 2025-07-26 |
-| [GOOD 4 U](https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [GOOD 4 U](https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR) | 2:40 | 2024-11-29 |  |
+| [GOOD 4 U](https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [GOOD 4 U](https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR) | 2:40 | 2024-11-29 | 2025-11-02 |
 | [Got A Groove](https://open.spotify.com/track/1kbGFz4dZDnjtSyjiZvMHC) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy) | [Got A Groove](https://open.spotify.com/album/6IOBv6pqhN8eHLJfKJ1Xcd) | 4:31 | 2022-04-15 | 2022-12-25 |
 | [Great Britain](https://open.spotify.com/track/3LrhCawWwCWOkSo64cylBI) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [Kivi](https://open.spotify.com/artist/6Z8FZrQpcx5zyTfIT9TjvZ), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Great Britain](https://open.spotify.com/album/5YehvXMUCvaaMfiOlaQd9t) | 3:14 | 2025-06-20 | 2025-07-25 |
 | [Gully](https://open.spotify.com/track/2NVMb5oEdeOakcDcpUtEri) | [Solex](https://open.spotify.com/artist/4sEjCapdcBsTMA0lj1Ep4G), [Fugzi](https://open.spotify.com/artist/7bxrsA8nztT5Gf4E3dRLWc) | [Gully](https://open.spotify.com/album/0lPpodKFrrKabX3wWFYxjt) | 3:30 | 2023-01-24 | 2024-04-19 |
@@ -220,6 +220,7 @@
 | [Melody](https://open.spotify.com/track/10k14cylE1yRtHZgwRUC6w) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [Joshua Blu](https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5) | [Melody](https://open.spotify.com/album/7HN0FUMZ9WaHfzesEcSfSt) | 3:58 | 2022-07-14 | 2022-07-28 |
 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 | 2024-01-26 | 2024-11-06 |
 | [Mock Man \(The VIP\)](https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Moda](https://open.spotify.com/artist/2FTs2DgO1R1eDG14O0Fh0v), [KKoi](https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC) | [Mock Man \(The VIP\)](https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g) | 3:49 | 2022-04-15 | 2023-09-22 |
+| [Moment \(feat\. Charlotte Plank\)](https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Moment \(feat\. Charlotte Plank\)](https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV) | 2:03 | 2025-10-31 |  |
 | [Monster](https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ) | [Jamie Duggan](https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8), [Booda](https://open.spotify.com/artist/1qW7b6PBEfdvzVvZ5bAre6), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Monster](https://open.spotify.com/album/3nX64Yz5zsL9GfAS7YJmck) | 3:20 | 2022-04-15 | 2023-08-11 |
 | [Move N' Flex](https://open.spotify.com/track/3KHnNsg1X9t6HbqRVk8OYB) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Move N’ Flex](https://open.spotify.com/album/46EuO928SeQzBAdfgY0UJi) | 2:26 | 2024-10-03 | 2024-11-08 |
 | [Murderation \(4 The Bristol Crew Mix\)](https://open.spotify.com/track/6ml84UdI1d9SWS9e9wwxXW) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Murderation \(4 The Bristol Crew Mix\)](https://open.spotify.com/album/1uZoCkofZrFt0bh1Y7ia0S) | 7:49 | 2023-04-04 | 2023-08-11 |

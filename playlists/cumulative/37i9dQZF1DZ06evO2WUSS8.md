@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-153 songs - 10 hr 6 min
+154 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [JERUSALEMA](https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [JERUSALEMA](https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au) | 5:29 | 2024-12-11 |  |
 | [Jike'lemaweni](https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 4:28 | 2022-03-13 | 2023-06-28 |
 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2024-09-01 |  |
+| [Keep On Moving \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/4WonhRvXvi06b5FYAQq6zO) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 4:17 | 2025-11-02 |  |
 | [Keep Rising \- The Woman King](https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I) | [Jessy Wilson](https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Keep Rising \(The Woman King\)](https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ) | 3:14 | 2022-09-20 |  |
 | [La Vida Es Un Carnaval \- Bomba Estereo Remix](https://open.spotify.com/track/1gp1yn0h8hQWgrJq4Kgiu5) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [La Vida Es Un Carnaval \(Bomba Estereo Remix\)](https://open.spotify.com/album/49yvEMly7OnIUsE0L41qIf) | 3:21 | 2021-12-28 | 2022-06-09 |
 | [La Vida Es Un Carnaval \- Rollo Tomasi Remix](https://open.spotify.com/track/4VOYh2yzGAvclUpTE8Yy6e) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [La Vida Es Un Carnaval \(Rollo Tomasi Remix\)](https://open.spotify.com/album/2QuHH0lBOUJ0jO5d1PlvVY) | 3:20 | 2022-06-08 | 2022-10-13 |
@@ -160,6 +161,6 @@
 | [Yaki Yaki](https://open.spotify.com/track/5TJIFSsCxzigJUqomAfd4B) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Oremi](https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC) | 3:42 | 2021-12-28 | 2022-10-13 |
 | [Yemaya](https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 1:37 | 2022-04-29 | 2025-10-14 |
 | [Zelie](https://open.spotify.com/track/786PWkpZ8OMdwgk5Nx3xnf) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [OYO \(Deluxe Edition\)](https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3) | 2:03 | 2023-07-08 | 2024-04-10 |
-| [Òròkórò](https://open.spotify.com/track/5WwkpRC1O6TVsIzYhJtIec) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 3:09 | 2023-11-10 |  |
+| [Òròkórò](https://open.spotify.com/track/5WwkpRC1O6TVsIzYhJtIec) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 3:09 | 2023-11-10 | 2025-11-02 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

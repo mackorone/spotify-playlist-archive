@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: yowha
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,308 likes - 117 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,309 likes - 117 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 116 | [Untuk Selamanya](https://open.spotify.com/track/6PPtBy1t5xM3B7HprYFq3X) | [Rfrnds](https://open.spotify.com/artist/4yUCOYcBH24p7YrMItNbOy) | [Untuk Selamanya](https://open.spotify.com/album/2IqYxzKhnF9IWIFHGqkvpl) | 3:59 |
 | 117 | [Duh, Macet](https://open.spotify.com/track/2bEkEOcYHkVxECXDubRHtN) | [Benny Ciko](https://open.spotify.com/artist/1HhDSDNcf9DDfZIlE8hH3L) | [Duh, Macet](https://open.spotify.com/album/4tk592GyECF4sDZHpN1HB0) | 3:20 |
 
-Snapshot ID: `AAAAADC3aV2yjDVaaDA+CabmnXimZMpD`
+Snapshot ID: `AAAAAH4oay5J3bF/sgtN/UzM3Au1hZ9m`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Sam Eli\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,083 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,082 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Fantasmas](https://open.spotify.com/track/2HXeNxoIzBfXqDAqvyHu6F) | [Cris D'alva](https://open.spotify.com/artist/2qxgs3nmiOv2nPaPQ3zXEU), [Alex Buendía](https://open.spotify.com/artist/0z7tQfAxiLAK7KPoblZJjS) | [Fantasmas](https://open.spotify.com/album/3k6CwegJTGrdFwTfV1zSxC) | 2:41 |
 | 50 | [Matching Tattoos](https://open.spotify.com/track/7u2NUmeW5z4XDBTGdRBH8o) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Matching Tattoos](https://open.spotify.com/album/0w1mc0HIGFMyREdGaSO07o) | 3:50 |
 
-Snapshot ID: `AAAAAD8iYXyXnSm086h6NP/d8PupgBwk`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

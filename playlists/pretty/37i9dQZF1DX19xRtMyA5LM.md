@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: kans
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,025 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,015 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 3 | [StAYbLESS.](https://open.spotify.com/track/7KU42QXlh12bmtBhuasiqg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [StAYbLESS.](https://open.spotify.com/album/3NxlYl6uMcn8hQPOsOq7Ch) | 3:22 |
 | 4 | [Encrypted](https://open.spotify.com/track/7F49HEqLIVKuK26mOL56CN) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Encrypted](https://open.spotify.com/album/4eHIDkjphxPvdrsRn8uDYo) | 2:01 |
 | 5 | [Uitweg](https://open.spotify.com/track/0nPkBSykonv44kxTCmeyBE) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Uitweg](https://open.spotify.com/album/7gflzTSofjemi0bQrffkpe) | 3:17 |
-| 6 | [Laatste Adem](https://open.spotify.com/track/4XVZbZb05q1IeljFCVgAuB) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Laatste Adem](https://open.spotify.com/album/1A3585zjtrgLWZDrm9uwG3) | 2:17 |
+| 6 | [Laatste Adem](https://open.spotify.com/track/4XVZbZb05q1IeljFCVgAuB) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Laatste Adem & Getinte Ramen](https://open.spotify.com/album/1A3585zjtrgLWZDrm9uwG3) | 2:17 |
 | 7 | [Kindsoldaat](https://open.spotify.com/track/3qKbu7Y7MOahLCHpsJiTeQ) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Kindsoldaat](https://open.spotify.com/album/2Zhd4cLhJatwiUuQKOrmtD) | 3:22 |
 | 8 | [OP SLOT?](https://open.spotify.com/track/05EiCcnXDpsvLusAtRXS09) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [OP SLOT?](https://open.spotify.com/album/6OcHXAlf8tK7kRjZe27Lth) | 2:12 |
 | 9 | [Doolhof](https://open.spotify.com/track/0ynjDe416FmCL2grDmj75r) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Doolhof](https://open.spotify.com/album/3FPIq2ubwc17mIJz5l7YvX) | 3:49 |

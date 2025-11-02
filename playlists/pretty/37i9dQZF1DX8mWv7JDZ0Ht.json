@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Amanda Coronha",
-  "num_followers": 436934,
+  "num_followers": 436915,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -283,58 +283,6 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
-        "name": "Viver de Carinho",
-        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "Viver de Carinho",
-      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
-        "name": "Vai que",
-        "url": "https://open.spotify.com/album/0RSAW1GYdgpW08YGovBkE6"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 187222,
-      "name": "Vai que",
-      "url": "https://open.spotify.com/track/6g3nsZdsjyrsLNf1JdOf9x"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
       },
@@ -351,6 +299,58 @@
       "duration_ms": 175176,
       "name": "Ombro Amigo",
       "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
+        "name": "Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 176862,
+      "name": "Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
+        "name": "Viver de Carinho",
+        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 148396,
+      "name": "Viver de Carinho",
+      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -419,6 +419,26 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
+        "name": "Vai que",
+        "url": "https://open.spotify.com/album/0RSAW1GYdgpW08YGovBkE6"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 187222,
+      "name": "Vai que",
+      "url": "https://open.spotify.com/track/6g3nsZdsjyrsLNf1JdOf9x"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
         "name": "Acordar Com Voc\u00ea",
         "url": "https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU"
       },
@@ -451,22 +471,6 @@
       "duration_ms": 202285,
       "name": "Seu Her\u00f3i",
       "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -507,6 +511,22 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
         "name": "Intimidade",
         "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
       },
@@ -543,26 +563,6 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
         "name": "Vivendo Demais",
         "url": "https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4"
       },
@@ -583,6 +583,26 @@
       "duration_ms": 193685,
       "name": "Vivendo Demais",
       "url": "https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -659,6 +679,26 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
+        "name": "olhos mar",
+        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "Pedro Aranha",
+          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
+        }
+      ],
+      "duration_ms": 83467,
+      "name": "olhos mar",
+      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -699,22 +739,22 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "olhos mar",
-        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
       "artists": [
         {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
         },
         {
-          "name": "Pedro Aranha",
-          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
         }
       ],
-      "duration_ms": 83467,
-      "name": "olhos mar",
-      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -735,26 +775,6 @@
       "duration_ms": 173294,
       "name": "Desperd\u00edcio",
       "url": "https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -807,22 +827,6 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "A Saudade Vem Bater",
-        "url": "https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "A Saudade Vem Bater",
-      "url": "https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
       },
@@ -839,18 +843,18 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "tonteira",
-        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
+        "name": "A Saudade Vem Bater",
+        "url": "https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 147812,
-      "name": "tonteira",
-      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
+      "duration_ms": 129229,
+      "name": "A Saudade Vem Bater",
+      "url": "https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -871,6 +875,22 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
+        "name": "tonteira",
+        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 147812,
+      "name": "tonteira",
+      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
         "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
         "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
@@ -887,22 +907,6 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
       },
@@ -915,6 +919,22 @@
       "duration_ms": 174817,
       "name": "Poder Amar",
       "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -1043,6 +1063,22 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
+        "name": "Ainda \u00e9 Tempo",
+        "url": "https://open.spotify.com/album/4oPIKhHH12Pv9GhmCUVDyJ"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 173785,
+      "name": "Ainda \u00e9 Tempo",
+      "url": "https://open.spotify.com/track/6D877vEl1ylQqbO6Wkkrit"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
         "name": "NEM SE O MUNDO ACABAR",
         "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
       },
@@ -1075,22 +1111,6 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "G\u00e9rbera + Na Proa da Saudade",
-        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 216747,
-      "name": "Na Proa da Saudade",
-      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
         "name": "P E R T O",
         "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
       },
@@ -1107,18 +1127,18 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+        "name": "G\u00e9rbera + Na Proa da Saudade",
+        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
       },
       "artists": [
         {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+      "duration_ms": 216747,
+      "name": "Na Proa da Saudade",
+      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -1135,6 +1155,22 @@
       "duration_ms": 204731,
       "name": "\u00c1udios Antigos",
       "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -1211,22 +1247,6 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "Entre o Nada e o Infinito",
-        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
-      },
-      "artists": [
-        {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "acende essa ponta",
-      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
         "name": "A FESTA ACABOU",
         "url": "https://open.spotify.com/album/2NTv2W55sIlX6TK7MVbYSD"
       },
@@ -1239,6 +1259,22 @@
       "duration_ms": 135320,
       "name": "a festa acabou :(",
       "url": "https://open.spotify.com/track/2qdSJW4mPBHZySOiUyoeKY"
+    },
+    {
+      "added_at": "2025-10-31 03:00:22",
+      "album": {
+        "name": "Entre o Nada e o Infinito",
+        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "acende essa ponta",
+      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
     },
     {
       "added_at": "2025-10-31 03:00:22",
@@ -1391,22 +1427,6 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "N\u00e3o Tem Pre\u00e7o",
-        "url": "https://open.spotify.com/album/6PDxExK80OiAXNkdwF1g47"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "N\u00e3o Tem Pre\u00e7o",
-      "url": "https://open.spotify.com/track/2zbhMAmM6pKn2DKrK6KlIj"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
         "name": "Bem Bem",
         "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
       },
@@ -1423,38 +1443,18 @@
     {
       "added_at": "2025-10-31 03:00:22",
       "album": {
-        "name": "A vida continua",
-        "url": "https://open.spotify.com/album/2EeB9MWRIowLCh2WlwNOct"
+        "name": "N\u00e3o Tem Pre\u00e7o",
+        "url": "https://open.spotify.com/album/6PDxExK80OiAXNkdwF1g47"
       },
       "artists": [
         {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
-        },
-        {
-          "name": "Marua Luz",
-          "url": "https://open.spotify.com/artist/091x4KuVa3VUMyP1w4X5Lo"
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
         }
       ],
-      "duration_ms": 245454,
-      "name": "A vida continua",
-      "url": "https://open.spotify.com/track/0vsMO7P6gzbKiN9mItn8ic"
-    },
-    {
-      "added_at": "2025-10-31 03:00:22",
-      "album": {
-        "name": "Inverno Sem Ver\u00e3o",
-        "url": "https://open.spotify.com/album/0ZAIm8VlJw8IqQ3UmYMEnf"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Inverno Sem Ver\u00e3o",
-      "url": "https://open.spotify.com/track/6M5FpmdT1YWh3Nu16azdL9"
+      "duration_ms": 177777,
+      "name": "N\u00e3o Tem Pre\u00e7o",
+      "url": "https://open.spotify.com/track/2zbhMAmM6pKn2DKrK6KlIj"
     }
   ],
   "unique_name": "Pop Leve",

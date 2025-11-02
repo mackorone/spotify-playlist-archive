@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-324 songs - 14 hr 26 min
+325 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Knights Street Storm](https://open.spotify.com/track/5FXzWl2vDBHYqtzb61k0ij) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Knights Street Storm](https://open.spotify.com/album/0xhPGSFb6FLc71bl2s078x) | 2:03 | 2021-11-10 |  |
 | [La tempête](https://open.spotify.com/track/2wXuw7beVHAyCdOhIqvmgZ) | [Le Tonnerre](https://open.spotify.com/artist/1J7EB3eAz9B38g4wNfV8sp) | [La tempête](https://open.spotify.com/album/1LRo6qt2mdR3pH7o5w2DYb) | 2:36 | 2021-11-10 |  |
 | [Lake Rain With Thunder](https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [The Wet Forest](https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6) | 2:20 | 2023-02-13 |  |
-| [Le Tonnerre Claquant](https://open.spotify.com/track/4GHMe27LwEBBkIgqhi12cJ) | [Olivia Ange](https://open.spotify.com/artist/2TVCzUqzhVvdSIezkeY7Ok) | [Le Tonnerre Claquant](https://open.spotify.com/album/7iW8QcSoivasuL51LbO4Ri) | 2:38 | 2023-02-13 |  |
+| [Le Tonnerre Claquant](https://open.spotify.com/track/4GHMe27LwEBBkIgqhi12cJ) | [Olivia Ange](https://open.spotify.com/artist/2TVCzUqzhVvdSIezkeY7Ok) | [Le Tonnerre Claquant](https://open.spotify.com/album/7iW8QcSoivasuL51LbO4Ri) | 2:38 | 2023-02-13 | 2025-11-02 |
 | [Let the Storm Pass](https://open.spotify.com/track/4pi0xQcZkKVpTiLBuxcJYm) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Let the Storm Pass](https://open.spotify.com/album/7HTbe1o8sEcuDLLIQgFfsy) | 2:06 | 2023-02-13 |  |
 | [Light And Thunder](https://open.spotify.com/track/7cJ41Y7QPLJiChkVBPcmsS) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 |  |
 | [Light Outdoors Rain With Thunder](https://open.spotify.com/track/2UV2qxZcBoinEC0Ko6C93X) | [Nature Calm](https://open.spotify.com/artist/7q3i8BbWfYPSZmTMJtge2P) | [Sleepy Rainfall](https://open.spotify.com/album/7upDl7fnelbLcGBLr3BV6d) | 3:02 | 2021-11-10 |  |
@@ -298,6 +298,7 @@
 | [Thunderstorm by Night](https://open.spotify.com/track/5YWO3rtH2xuF7Ysy1XenjF) | [Weather Garden](https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX) | [Distant Thunder](https://open.spotify.com/album/2sReYyHQzGTthoDBByyKFx) | 3:09 | 2021-11-10 | 2022-03-05 |
 | [Thunderstorm In The City](https://open.spotify.com/track/1DNHRgD48WyrkKXHwHd6kS) | [ABC Tonnerre](https://open.spotify.com/artist/135yPL4ruE1nq7mYgnhV48) | [ABC Tonnerre](https://open.spotify.com/album/3UAAsU1IrpqA6rt6PsfS0e) | 2:41 | 2021-11-10 |  |
 | [Thunderstorm In the Forest](https://open.spotify.com/track/3D97oOZdpxItVqFoAwBfYC) | [Dieter Esther](https://open.spotify.com/artist/6z0YBDZwZIxUzf0rO3WMFB) | [Weather Watcher](https://open.spotify.com/album/2Xm7W3aJDAsQPYQD7eDcgC) | 2:34 | 2021-11-10 |  |
+| [Thunderstorm in Turku](https://open.spotify.com/track/3BWAf0FIy6sEQlJY9GEUTV) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Thunderstorm in Turku](https://open.spotify.com/album/53dX4BfKGG0fpbacPiG77v) | 2:46 | 2025-07-23 |  |
 | [Thunderstorm Lullaby](https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Thunderstorm Lullaby](https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e) | 2:54 | 2023-02-13 |  |
 | [Thunderstorm Rain](https://open.spotify.com/track/0PzOz7ROOn9b7MQbDmUCDq) | [Medi Rela](https://open.spotify.com/artist/18TmZnf7SoO5ypyAqq55Ho) | [Relaxing Thunderstorms](https://open.spotify.com/album/7beAXXADuwXzfsIIPVu96H) | 3:02 | 2021-11-10 | 2023-02-14 |
 | [Thunderstorms In Italy \- Seamless](https://open.spotify.com/track/4usbGXSHEFUs8W9lXvGRw5) | [Pluvious](https://open.spotify.com/artist/5m8Ny76aXScYfB1HkcjzB6) | [Thunderstorms In Italy](https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu) | 2:17 | 2023-02-13 |  |

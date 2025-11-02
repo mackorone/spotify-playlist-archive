@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-441 songs - 23 hr 32 min
+442 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,11 +356,12 @@
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 | 2025-06-27 |
 | [Skyddar mig från dig](https://open.spotify.com/track/6PdHWKjgo6lGmI84OJfJOg) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Skyddar mig från dig](https://open.spotify.com/album/2P30uc37KVrUgKCkLvBeB9) | 3:05 | 2025-06-19 |  |
 | [Slutat bry mig](https://open.spotify.com/track/23EKxveViwvrcoWTfCyuwa) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Slutat bry mig](https://open.spotify.com/album/0kPBXLUWO15ZXKE1yKg370) | 2:47 | 2025-05-08 | 2025-10-24 |
+| [Släcka tankarna](https://open.spotify.com/track/27B5ci8AG3rg9ZKCnAUJ0e) | [Tage](https://open.spotify.com/artist/7wXeuEsgZnjihGQLKkaPSr) | [Släcka tankarna](https://open.spotify.com/album/01unShVTteCUhKNqDCCO4i) | 2:37 | 2025-10-30 |  |
 | [Slå mig en signal](https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kärleksrum](https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo) | 2:19 | 2025-03-20 | 2025-08-11 |
 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 | 2024-10-10 | 2025-05-23 |
 | [snackar för mycket](https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [snackar för mycket](https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq) | 2:41 | 2025-04-24 | 2025-08-01 |
 | [Snow In The Summer](https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Snow In The Summer](https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9) | 2:49 | 2024-06-28 | 2024-08-16 |
-| [So Fine](https://open.spotify.com/track/3FRjmy9LaX2H9gWAf2gKVy) | [YiGZAW](https://open.spotify.com/artist/5p2eWJvC1IIdUXmAuaiWsP) | [Overseas Infinity Pt\. 1](https://open.spotify.com/album/7tNsMF0fcgNL4OgvSVmc9u) | 3:01 | 2025-09-25 |  |
+| [So Fine](https://open.spotify.com/track/3FRjmy9LaX2H9gWAf2gKVy) | [YiGZAW](https://open.spotify.com/artist/5p2eWJvC1IIdUXmAuaiWsP) | [Overseas Infinity Pt\. 1](https://open.spotify.com/album/7tNsMF0fcgNL4OgvSVmc9u) | 3:01 | 2025-09-25 | 2025-11-02 |
 | [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-28 | 2025-02-28 |
 | [Solros](https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Solros](https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT) | 2:41 | 2025-09-11 |  |
 | [Som du](https://open.spotify.com/track/3uFzW1FEIfnEl9yWpW7y2U) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54) | [Som du](https://open.spotify.com/album/2PLgiSA2x5NWmUyu6O3gNc) | 3:21 | 2025-08-07 | 2025-08-15 |

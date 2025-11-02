@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EnWBWmEoM4.md) - [plain]
 
 > Exitos de cuarteto del año\. Foto: Q´ Lokura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,304 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,403 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

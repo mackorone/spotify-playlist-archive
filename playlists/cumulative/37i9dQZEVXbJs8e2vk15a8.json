@@ -25618,7 +25618,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -27070,7 +27070,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 182375,
       "name": "Halloween Theme",
       "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
@@ -27088,7 +27088,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
@@ -27190,6 +27190,24 @@
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "album": {
+        "name": "Halloween Trap Remixes 2025",
+        "url": "https://open.spotify.com/album/5twODzxoqQGWmFnSooVrsk"
+      },
+      "artists": [
+        {
+          "name": "Trap Remix Guys",
+          "url": "https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79523,
+      "name": "Harry Potter - Trap Remix",
+      "url": "https://open.spotify.com/track/08mbeGhGSQaNheBe2DzpRc"
     },
     {
       "album": {
@@ -30460,7 +30478,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 174379,
       "name": "Incorregible",
       "url": "https://open.spotify.com/track/5BopAwInvbrMFbbV4Y4BHF"
@@ -48780,7 +48798,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 165029,
       "name": "Paseo",
       "url": "https://open.spotify.com/track/5BxTKjbC2JrV3hsZ4txYKm"
@@ -56256,7 +56274,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 202857,
       "name": "Sentimiento M\u00e1gico",
       "url": "https://open.spotify.com/track/2jakPYMHBWLubIQEeceVoL"
@@ -58560,7 +58578,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"

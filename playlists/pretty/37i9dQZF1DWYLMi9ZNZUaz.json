@@ -1,12 +1,12 @@
 {
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: \u0110en\n",
-  "num_followers": 114389,
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Low G",
+  "num_followers": 114420,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQYQkPZe+bw1uzEp7Zi9HhaeEiQ",
+  "snapshot_id": "AAAAAJ78iNdsyqljI9U5APCaBQEgnKFO",
   "tracks": [
     {
       "added_at": "2025-10-23 09:36:24",
@@ -47,6 +47,22 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
+        "name": "Love is",
+        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 266758,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
+    },
+    {
+      "added_at": "2025-10-23 09:36:24",
+      "album": {
         "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
         "url": "https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 181558,
       "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
       "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
-    },
-    {
-      "added_at": "2025-10-23 09:36:24",
-      "album": {
-        "name": "Love is",
-        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 266758,
-      "name": "Love is",
-      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
     },
     {
       "added_at": "2025-10-23 09:36:24",
@@ -463,30 +463,6 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
-        "name": "\u0110O\u00c1 HOA",
-        "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
-      },
-      "artists": [
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "BIG WIND",
-          "url": "https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
-        }
-      ],
-      "duration_ms": 158987,
-      "name": "\u0110O\u00c1 HOA",
-      "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
-    },
-    {
-      "added_at": "2025-10-23 09:36:24",
-      "album": {
         "name": "Em iu",
         "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
@@ -511,6 +487,30 @@
       "duration_ms": 160000,
       "name": "Em iu",
       "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
+    },
+    {
+      "added_at": "2025-10-23 09:36:24",
+      "album": {
+        "name": "\u0110O\u00c1 HOA",
+        "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
+      },
+      "artists": [
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "BIG WIND",
+          "url": "https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "duration_ms": 158987,
+      "name": "\u0110O\u00c1 HOA",
+      "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
     },
     {
       "added_at": "2025-10-23 09:36:24",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
-      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
-    },
-    {
-      "added_at": "2025-10-23 09:36:24",
-      "album": {
         "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
         "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
+      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
+    },
+    {
+      "added_at": "2025-10-23 09:36:24",
+      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 203687,
       "name": "M\u1eddi Em",
       "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
+    },
+    {
+      "added_at": "2025-10-23 09:36:24",
+      "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2025-10-23 09:36:24",
@@ -695,38 +711,6 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
-    },
-    {
-      "added_at": "2025-10-23 09:36:24",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        }
-      ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
-    },
-    {
-      "added_at": "2025-10-23 09:36:24",
-      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -767,18 +751,34 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
-        "name": "Cho B\u1ea3o",
-        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
+        "name": "ADAMN",
+        "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
       },
       "artists": [
         {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+          "name": "Donald Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
         }
       ],
-      "duration_ms": 244752,
-      "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
-      "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
+      "duration_ms": 223500,
+      "name": "ADAMN",
+      "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
+    },
+    {
+      "added_at": "2025-10-23 09:36:24",
+      "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        }
+      ],
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
     },
     {
       "added_at": "2025-10-23 09:36:24",
@@ -807,18 +807,46 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
-        "name": "ADAMN",
-        "url": "https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB"
+        "name": "C\u00f4ng Ty 4",
+        "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
       },
       "artists": [
         {
-          "name": "Donald Gold",
-          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "WOKEUP",
+          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
         }
       ],
-      "duration_ms": 223500,
-      "name": "ADAMN",
-      "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
+      "duration_ms": 254491,
+      "name": "C\u00f4ng Ty 4",
+      "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
+    },
+    {
+      "added_at": "2025-10-23 09:36:24",
+      "album": {
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "duration_ms": 244752,
+      "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
+      "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
     },
     {
       "added_at": "2025-10-23 09:36:24",
@@ -863,50 +891,22 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
-        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
       "artists": [
         {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
         },
         {
-          "name": "REX",
-          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
-    },
-    {
-      "added_at": "2025-10-23 09:36:24",
-      "album": {
-        "name": "C\u00f4ng Ty 4",
-        "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "WOKEUP",
-          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
-        }
-      ],
-      "duration_ms": 254491,
-      "name": "C\u00f4ng Ty 4",
-      "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
+      "duration_ms": 173397,
+      "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
+      "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
     },
     {
       "added_at": "2025-10-23 09:36:24",
@@ -939,22 +939,26 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+        "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
+        "url": "https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa"
       },
       "artists": [
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         },
         {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "WOKEUP",
+          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
         }
       ],
-      "duration_ms": 173397,
-      "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
-      "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
+      "duration_ms": 210944,
+      "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
+      "url": "https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz"
     },
     {
       "added_at": "2025-10-23 09:36:24",
@@ -999,18 +1003,22 @@
     {
       "added_at": "2025-10-23 09:36:24",
       "album": {
-        "name": "VANLOVE",
-        "url": "https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA"
+        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
       },
       "artists": [
         {
-          "name": "Lil Van",
-          "url": "https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF"
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        },
+        {
+          "name": "REX",
+          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
         }
       ],
-      "duration_ms": 219036,
-      "name": "Tr\u01b0\u01a1ng \u0110\u00ecnh Ho\u00e0ng",
-      "url": "https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj"
+      "duration_ms": 192631,
+      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

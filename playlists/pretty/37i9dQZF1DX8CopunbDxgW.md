@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Tame Impala gets dancey ☀️ it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,065 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,035 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Invisible Lines](https://open.spotify.com/track/2JGSjbGzOWkakFufeflc1L) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Invisible Lines](https://open.spotify.com/album/0jvVzIlQQz7SpBzqN8IMlz) | 3:06 |
 | 100 | [Sailing Away](https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Sailing Away](https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn) | 4:41 |
 
-Snapshot ID: `AAAAACyBy4qxDPT+UMAsqJHeFloyHdQY`
+Snapshot ID: `AAAAAOTZqKa8AZYJfwUSXqtHJjDt+hHk`

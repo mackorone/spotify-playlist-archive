@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAACkTLhz1fwFOcplVqziQCIu",
+  "snapshot_id": "aQP8AAAAAACZQvPpiALEHN/hcaIXdcXW",
   "tracks": [
     {
       "added_at": null,
@@ -300,7 +300,7 @@
       "added_at": null,
       "album": {
         "name": "Journey",
-        "url": "https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh"
+        "url": "https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC"
       },
       "artists": [
         {
@@ -310,7 +310,7 @@
       ],
       "duration_ms": 236760,
       "name": "Fleeting Time",
-      "url": "https://open.spotify.com/track/26cBvePSf9bo0aZpzwOUnP"
+      "url": "https://open.spotify.com/track/1geDmYNUUF5lYQz8NsJZtC"
     },
     {
       "added_at": null,
@@ -332,7 +332,7 @@
       "added_at": null,
       "album": {
         "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Michikusa",
-      "url": "https://open.spotify.com/track/5hv0MVJIM674BfreHqMuAi"
+      "duration_ms": 184626,
+      "name": "BYERONY",
+      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+        "name": "Blue Velvet - from CrosSing",
+        "url": "https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 184626,
-      "name": "BYERONY",
-      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
+      "duration_ms": 234653,
+      "name": "Blue Velvet - from CrosSing",
+      "url": "https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Michikusa",
+      "url": "https://open.spotify.com/track/5hv0MVJIM674BfreHqMuAi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STYLE",
         "url": "https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL"
       },
@@ -487,54 +503,6 @@
       "duration_ms": 195080,
       "name": "Drawing a Wish",
       "url": "https://open.spotify.com/track/70dkA9hhBrGKVIY8pKBqDB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Velvet - from CrosSing",
-        "url": "https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Blue Velvet - from CrosSing",
-      "url": "https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
-      "url": "https://open.spotify.com/track/5oZ8xQwKZYIpowQvbpspj2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Give Me Five!",
-        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Rock the Floor",
-      "url": "https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g"
     },
     {
       "added_at": null,
@@ -555,6 +523,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Me Five!",
+        "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Rock the Floor",
+      "url": "https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/5oZ8xQwKZYIpowQvbpspj2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
         "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
       },
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+        "name": "Desire Again",
+        "url": "https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 253040,
-      "name": "illminate",
-      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
+      "duration_ms": 198493,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7kwA5rCeqFbExV7AAq7tuM"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire Again",
-        "url": "https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK"
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 198493,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7kwA5rCeqFbExV7AAq7tuM"
+      "duration_ms": 231866,
+      "name": "DEAD or CALL MY NAME",
+      "url": "https://open.spotify.com/track/0r0YGLm7BJdbDvMKb01PSu"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Swinging Heart Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL"
+      "duration_ms": 293733,
+      "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 293733,
-      "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8"
+      "duration_ms": 206253,
+      "name": "Swinging Heart Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL"
     },
     {
       "added_at": null,

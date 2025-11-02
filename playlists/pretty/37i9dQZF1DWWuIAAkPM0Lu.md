@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Cizzo, ROSALÍA, Lamin og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,184 likes - 93 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,188 likes - 93 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 68 | [Firestorm](https://open.spotify.com/track/6hC01OeRVqEYvKxJtAytUP) | [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Firestorm / Polyester City](https://open.spotify.com/album/3LKhfPzRtgSKl1nKvky7rC) | 2:20 |
 | 69 | [The Future Is Cancelled](https://open.spotify.com/track/63RRBZLduS3iKJkzzlHnp0) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [The Future Is Cancelled](https://open.spotify.com/album/5NqBxIPIZ6Fm9x6X7QafoU) | 3:27 |
 | 70 | [LAVET TIL DET](https://open.spotify.com/track/0SnOdUVoCI8bD2T1HzURVs) | [ASHIRA](https://open.spotify.com/artist/3bnuxVJGEpeJXzOhs7NyzC) | [LAVET TIL DET](https://open.spotify.com/album/7l13A6sFV5b8TUOC14Q6GJ) | 2:40 |
-| 71 | [Lies](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [Lies](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
+| 71 | [LIES](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [LIES](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
 | 72 | [Trophy Hunting](https://open.spotify.com/track/2JmzZvwJXOpkk8zv43WREw) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [DDAARRKK](https://open.spotify.com/album/6kG4hK9mWCIzMdxOPciwe0) | 3:00 |
 | 73 | [Í Ævir](https://open.spotify.com/track/3hSIMsrHpW8ll2PGRbe2a6) | [Elinborg](https://open.spotify.com/artist/2j72t3vN5xAeKaSyssN6Co) | [Í Ævir](https://open.spotify.com/album/1f6dk1L5hIkCGStmM72kcS) | 5:13 |
 | 74 | [Watching Over Me](https://open.spotify.com/track/7C3gStt8d7SxtB28gxrM06) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Watching Over Me](https://open.spotify.com/album/2rqFQX6IDwpIXZEqg3Fqwp) | 2:16 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 81 | [Halfway Gone](https://open.spotify.com/track/1rfX0CC3vDK6K5SgVmAZYx) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Halfway Gone](https://open.spotify.com/album/5ciWbAgjpNqsG3COHjBjxo) | 4:06 |
 | 82 | [Armageddon](https://open.spotify.com/track/49RNSNCncvBGRPjcH0hv3i) | [RØMER](https://open.spotify.com/artist/3Jfhv3rqgFdkRAvuV6PvuE) | [Armageddon](https://open.spotify.com/album/7GHMtuypljFKarjEwTvVm3) | 3:04 |
 | 83 | [Af magt](https://open.spotify.com/track/4fkFvYba5aEtNfVysvAeps) | [ORM](https://open.spotify.com/artist/2E8FAAk6jPrKHlFdDxCBQD) | [GULD](https://open.spotify.com/album/4zUURPyxzdbd6ME5TMpcOo) | 8:10 |
-| 84 | [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
+| 84 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 85 | [Harabe](https://open.spotify.com/track/4lAzMzckdYMl8PVpQK0Ld1) | [Hilal Kaya](https://open.spotify.com/artist/0QnV9dkMqZa300IAad29Ab) | [Harabe](https://open.spotify.com/album/7CIofb26ki1n0vOAmXs10X) | 4:23 |
 | 86 | [Waste My Love](https://open.spotify.com/track/0IfVxQdDSnf43WjS38gVSt) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Waste My Love](https://open.spotify.com/album/3g1lvMsUtRwBZmBRcXZM6u) | 3:01 |
 | 87 | [Little Guy](https://open.spotify.com/track/6G90HbnC9xgphIB7TnHJBt) | [STOREBJERG](https://open.spotify.com/artist/2MclkholhTqjq3iONsZQ5k) | [Songs For You](https://open.spotify.com/album/2aXb3i9xIyfpe1iEaAQa1j) | 2:50 |

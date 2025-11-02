@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 132812,
+  "num_followers": 132824,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAAAR8LzLAifuwQvvCpn8mXsQ",
+  "snapshot_id": "aQP8AAAAAAC2cobmaNlECOi5j/VhlPTK",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe 2 (Special Edition)",
-        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Sick Bubblegum",
-      "url": "https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
         "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 190600,
       "name": "Shake Your Ass-Smoke Your Grass",
       "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hellbilly Deluxe 2 (Special Edition)",
+        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Sick Bubblegum",
+      "url": "https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Halloween Hootenanny",
+        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "The Ghastly Ones",
+          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Halloween (She's So Mean)",
+      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
         "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halloween Hootenanny",
-        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "The Ghastly Ones",
-          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Halloween (She's So Mean)",
-      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venomous Rat Regeneration Vendor",
         "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 198986,
       "name": "Ging Gang Gong De Do Gong De Laga Raga",
       "url": "https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hellbilly Deluxe 2 (Special Edition)",
+        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Werewolf, Baby!",
+      "url": "https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca"
     },
     {
       "added_at": null,
@@ -627,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe 2 (Special Edition)",
-        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 239720,
-      "name": "Werewolf, Baby!",
-      "url": "https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca"
+      "duration_ms": 207160,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
       "duration_ms": 273720,
       "name": "Teenage Nosferatu Pussy",
       "url": "https://open.spotify.com/track/1WHVjInrsVm6kt9D3Dtgw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Get Loose",
-      "url": "https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG"
     },
     {
       "added_at": null,
@@ -723,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Matrix Reloaded: The Album",
-        "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Charlie Clouser",
-          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
         }
       ],
-      "duration_ms": 265160,
-      "name": "Reload",
-      "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
+      "duration_ms": 198613,
+      "name": "Lucifer Rising",
+      "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+        "name": "The Matrix Reloaded: The Album",
+        "url": "https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Charlie Clouser",
+          "url": "https://open.spotify.com/artist/1ZVa9Tz7T3lR30I6r7mhhf"
         }
       ],
-      "duration_ms": 198613,
-      "name": "Lucifer Rising",
-      "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
+      "duration_ms": 265160,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/2Ntobm6ecJ9wm3kcNql3qa"
     },
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Hands Of Death (Burn Baby Burn)",
-      "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
+      "duration_ms": 156800,
+      "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
     }
   ],
   "unique_name": "This Is Rob Zombie",

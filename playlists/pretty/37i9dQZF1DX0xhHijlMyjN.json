@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 330750,
+  "num_followers": 330712,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
         "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "MMMBop",
-      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 269373,
       "name": "Por la boca vive el pez",
       "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 281640,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1344,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+      "duration_ms": 281640,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Y Yo Sigo Aqui - Spanglish",
-      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "El Vals Del Obrero",
         "url": "https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 265426,
       "name": "Cannabis",
       "url": "https://open.spotify.com/track/0DjSa6czo5ywsf6iCtZW5A"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Y Yo Sigo Aqui - Spanglish",
+      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Confidencial/New Booklet",
-        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Xapomel\u00f6n",
         "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 145506,
       "name": "Mari Carmen",
       "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Confidencial/New Booklet",
+        "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "A\u00fan Hay M\u00e1s",
+        "url": "https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii"
+      },
+      "artists": [
+        {
+          "name": "F\u00f3rmula Abierta",
+          "url": "https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4"
+        }
+      ],
+      "duration_ms": 255306,
+      "name": "Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Pont Aeri, Vol. 4 EP",
         "url": "https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q"
       },
@@ -2151,22 +2167,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "A\u00fan Hay M\u00e1s",
-        "url": "https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii"
-      },
-      "artists": [
-        {
-          "name": "F\u00f3rmula Abierta",
-          "url": "https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4"
-        }
-      ],
-      "duration_ms": 255306,
-      "name": "Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
@@ -2179,6 +2179,22 @@
       "duration_ms": 275200,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Ni jaulas ni peceras",
+        "url": "https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw"
+      },
+      "artists": [
+        {
+          "name": "La Cabra Mecanica",
+          "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "No me llames iluso",
+      "url": "https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2215,22 +2231,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Ni jaulas ni peceras",
-        "url": "https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw"
-      },
-      "artists": [
-        {
-          "name": "La Cabra Mecanica",
-          "url": "https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "No me llames iluso",
-      "url": "https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Huecco",
         "url": "https://open.spotify.com/album/0ZvyDGG1IMq6FyxJrnv2Ub"
       },
@@ -2243,22 +2243,6 @@
       "duration_ms": 260773,
       "name": "Pa\u00b4 mi guerrera - Reprise",
       "url": "https://open.spotify.com/track/7JO1bBzuVQ14rIR6T5D0UK"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/3O0KlT4zFXkLKtXJyTo9OM"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/4eYgRQtOzycNEUh4pwp1wf"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "La Canci\u00f3n Del Velero",
-      "url": "https://open.spotify.com/track/1wV4Iied30083fVXBMJpJV"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2279,6 +2263,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/3O0KlT4zFXkLKtXJyTo9OM"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/4eYgRQtOzycNEUh4pwp1wf"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "La Canci\u00f3n Del Velero",
+      "url": "https://open.spotify.com/track/1wV4Iied30083fVXBMJpJV"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/6Q8IfiJa5VOCfjVAaZW8RW"
       },
@@ -2291,26 +2291,6 @@
       "duration_ms": 175506,
       "name": "Eva Maria",
       "url": "https://open.spotify.com/track/5fc3XWSpJo6jTlbjnhGOJQ"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2347,6 +2327,26 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Macumba y Otros Tremendos Exitos",
         "url": "https://open.spotify.com/album/5omrf9RhgyGsSSEpgMop1o"
       },
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Los N\u00ba1 De 40 Principales 2010",
-        "url": "https://open.spotify.com/album/5PIoj4o0tZSIQjoS46BeLD"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/2AbysJuxNuYJnSgbJ5F0vT"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Tomalacate",
         "url": "https://open.spotify.com/album/0tp5aBBT7GRafCQt0Nvgi2"
       },
@@ -2427,6 +2407,26 @@
       "duration_ms": 267573,
       "name": "Que La Detengan - Remix",
       "url": "https://open.spotify.com/track/7ue44k70ZcYBw7a6tZKu9K"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Los N\u00ba1 De 40 Principales 2010",
+        "url": "https://open.spotify.com/album/5PIoj4o0tZSIQjoS46BeLD"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/2AbysJuxNuYJnSgbJ5F0vT"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Por Amor al Arte",
+        "url": "https://open.spotify.com/album/6eOfC1f9x0jEbE2kQUJ9LI"
+      },
+      "artists": [
+        {
+          "name": "Los Centellas",
+          "url": "https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG"
+        }
+      ],
+      "duration_ms": 316424,
+      "name": "La Luna y el Toro",
+      "url": "https://open.spotify.com/track/2TSqg5ilfbL4SwIHAfoi2S"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 212893,
       "name": "La Tortura (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Por Amor al Arte",
-        "url": "https://open.spotify.com/album/6eOfC1f9x0jEbE2kQUJ9LI"
-      },
-      "artists": [
-        {
-          "name": "Los Centellas",
-          "url": "https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG"
-        }
-      ],
-      "duration_ms": 316424,
-      "name": "La Luna y el Toro",
-      "url": "https://open.spotify.com/track/2TSqg5ilfbL4SwIHAfoi2S"
     },
     {
       "added_at": "2025-07-02 10:54:22",

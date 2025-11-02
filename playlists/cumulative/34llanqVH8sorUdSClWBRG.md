@@ -4,7 +4,7 @@
 
 > Mental illness
 
-61 songs - 3 hr 23 min
+62 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Pigeon](https://open.spotify.com/track/21uuus0muRkqa2qSU3NtCD) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 2:38 | 2024-12-09 |  |
 | [Playing With Fire](https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:28 | 2024-10-03 |  |
 | [Problems](https://open.spotify.com/track/2GxzBF4jpZRYDzJO6A32d6) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Problems](https://open.spotify.com/album/4lBNSreUSPpeHYRti8gjee) | 3:22 | 2024-02-19 |  |
+| [Puppet Loosely Strung](https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Puppet Loosely Strung](https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix) | 5:14 | 2025-11-01 |  |
 | [Resonant Bell World](https://open.spotify.com/track/2xkusgD5mDOEzzVcrDJqZd) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beautiful Rat Sunset](https://open.spotify.com/album/4Matl0g5l7qXKvsoorZ1Bf) | 2:36 | 2024-11-14 |  |
 | [Self Esteem](https://open.spotify.com/track/3t4OeuZLxYUKjWgCaZMFDP) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Can't Maintain](https://open.spotify.com/album/0nm6MlBgiFUET6shfchd8l) | 1:36 | 2023-12-05 |  |
 | [Skeleton Appreciation Day in Vestal, NY \(Bones\)](https://open.spotify.com/track/0YP2c4aqvZehpngSGScVkn) | [Will Wood and the Tapeworms](https://open.spotify.com/artist/13pwqHspIhcy1IcAooefso) | [Everything Is a Lot](https://open.spotify.com/album/3mXf3xH8ODKxWUOsSe7joK) | 4:04 | 2023-03-31 |  |

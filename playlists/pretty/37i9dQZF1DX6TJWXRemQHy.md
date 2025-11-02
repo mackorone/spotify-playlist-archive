@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,708 likes - 102 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,729 likes - 102 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 | 101 | [quiet night](https://open.spotify.com/track/6RKXxJV1vx5aYFuriiHl13) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [quiet night](https://open.spotify.com/album/3LuQhk8p8bvfzeZcM2qxyT) | 2:15 |
 | 102 | [Directions](https://open.spotify.com/track/0j5pGHcHfaYMgCnKh46B75) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Directions](https://open.spotify.com/album/0XPHpeVd1PncGvhfuTfXIo) | 2:28 |
 
-Snapshot ID: `AAAAAM4EPgVjAm1JgZ4ZD2L1V1YsWhHr`
+Snapshot ID: `AAAAAM7rg/uIJG41hcFFVV+z239fOtsS`

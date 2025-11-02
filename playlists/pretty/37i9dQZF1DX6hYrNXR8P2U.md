@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > porque sí.<br/>📷 tatool y Trueno
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,275 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,280 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Rodeado](https://open.spotify.com/track/10Vc0WOeTQtaJzVQhsvDtQ) | [Panta](https://open.spotify.com/artist/2LisI0c79oHAvJ80FoxT0S), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Rodeado](https://open.spotify.com/album/55N6ecVIZiwyUs4u6zUJb6) | 3:26 |
 | 100 | [Amor Roto](https://open.spotify.com/track/08blsoYLX7Kx9MwwiFDkNe) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [QSTLB](https://open.spotify.com/album/1T8zyPUsGrAIu1bqkfUQ7n) | 2:02 |
 
-Snapshot ID: `AAAAAIWieiB1sHcjewtZd3k02gRjSWAa`
+Snapshot ID: `AAAAAEJXXDK+LJN9P3Mz37hX1WQrArwX`

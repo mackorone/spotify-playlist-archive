@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 214500,
       "name": "Suave",
       "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
@@ -2274,6 +2274,36 @@
       "duration_ms": 204631,
       "name": "\u00bfD\u00f3nde Estar\u00e1s?",
       "url": "https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1"
+    },
+    {
+      "album": {
+        "name": "Lado A",
+        "url": "https://open.spotify.com/album/392Gzn96AUaabCf2uh2SaS"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        },
+        {
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349500,
+      "name": "\u00c9ramos Ni\u00f1os",
+      "url": "https://open.spotify.com/track/09LI8gnkdfzi8TyGzFJv9m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y"

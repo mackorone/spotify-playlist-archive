@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406408,
+  "num_followers": 406411,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-08-29 10:42:43",
       "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 300246,
-      "name": "Way Down Hadestown",
-      "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"
-    },
-    {
-      "added_at": "2025-08-29 10:42:43",
-      "album": {
         "name": "Mean Girls (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 215000,
       "name": "Sexy",
       "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"
+    },
+    {
+      "added_at": "2025-08-29 10:42:43",
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 300246,
+      "name": "Way Down Hadestown",
+      "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"
     },
     {
       "added_at": "2025-08-29 10:42:43",

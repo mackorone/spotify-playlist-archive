@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-02 14:59:51",
       "album": {
-        "name": "Leather 'n Lasers",
-        "url": "https://open.spotify.com/album/1y8pxvGmBNdTzY8Rxha0XS"
-      },
-      "artists": [
-        {
-          "name": "Cormac",
-          "url": "https://open.spotify.com/artist/7sm5Ierhs0FkG4xed2hEqG"
-        }
-      ],
-      "duration_ms": 308775,
-      "name": "Leather 'n Lasers",
-      "url": "https://open.spotify.com/track/3dviK5wvesXJWkimipM2xS"
-    },
-    {
-      "added_at": "2024-12-02 14:59:51",
-      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) [Horse Meat Disco Remix]",
         "url": "https://open.spotify.com/album/22Z01u5NgyoGVvRhpUex8r"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 173000,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy) - Horse Meat Disco Remix",
       "url": "https://open.spotify.com/track/2qqBoetO8bNlzLaSC6cj1I"
+    },
+    {
+      "added_at": "2024-12-02 14:59:51",
+      "album": {
+        "name": "Leather 'n Lasers",
+        "url": "https://open.spotify.com/album/1y8pxvGmBNdTzY8Rxha0XS"
+      },
+      "artists": [
+        {
+          "name": "Cormac",
+          "url": "https://open.spotify.com/artist/7sm5Ierhs0FkG4xed2hEqG"
+        }
+      ],
+      "duration_ms": 308775,
+      "name": "Leather 'n Lasers",
+      "url": "https://open.spotify.com/track/3dviK5wvesXJWkimipM2xS"
     },
     {
       "added_at": "2024-12-02 14:59:51",

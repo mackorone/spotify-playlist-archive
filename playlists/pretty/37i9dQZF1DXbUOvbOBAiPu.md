@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Roméo Elvis & Oscar and the Wolf, ROSALÍA, Metejoor, Andromedik and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,249 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,253 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 37 | [Audacity](https://open.spotify.com/track/0W57R5lWz2VFc2d7BqHFjy) | [Hyunji\-A](https://open.spotify.com/artist/6LL2gqtRfPs9VFk8yWc3W6) | [Neon Lights](https://open.spotify.com/album/0xwkvXbWlGEbgFCKZzT8C7) | 3:41 |
 | 38 | [Modern Times](https://open.spotify.com/track/3GcakfkKpEStBeomWwYPwO) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Modern Times](https://open.spotify.com/album/3EyNltfgFSTxVvvNpKlHJ8) | 4:27 |
 | 39 | [what's good](https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough \(Deluxe\)](https://open.spotify.com/album/2G7CqmCYcpF1GtpXx5ttRO) | 3:23 |
-| 40 | [Lies](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [Lies](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
+| 40 | [LIES](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [LIES](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
 | 41 | [Performante Pain](https://open.spotify.com/track/2CFOMeQAeajRPnYKOBu6Zy) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Performante Pain](https://open.spotify.com/album/5qktduaeZekiMaNegeRA3z) | 3:02 |
 | 42 | [Poko Poko](https://open.spotify.com/track/0sMKO5kThQuiXBnBS9SauK) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Rich Kalashh](https://open.spotify.com/artist/6Lison90Nuv6paiGTrTqRl), [Dongo](https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2) | [Poko Poko](https://open.spotify.com/album/6gyyAJuEBycmqmMSuGdt8A) | 2:31 |
 | 43 | [Done Searching](https://open.spotify.com/track/7zVGrJKv5WEDW23z2qvmLR) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Done Searching](https://open.spotify.com/album/6yiWE718oOyYfQqxPl16Ol) | 2:48 |

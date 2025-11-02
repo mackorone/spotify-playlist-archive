@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,123 likes - 379 songs - 20 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,126 likes - 379 songs - 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 12 | [tu favorito](https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:25 |
 | 13 | [BOTAPAFO](https://open.spotify.com/track/6MNmlP5YeBIRleseep005A) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 1:58 |
 | 14 | [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 |
-| 15 | [AY MI PAPÁ](https://open.spotify.com/track/0yM9VjmAoCToPPdKeoarEz) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 2:39 |
+| 15 | [AY MI PAPÁ](https://open.spotify.com/track/0yM9VjmAoCToPPdKeoarEz) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 2:39 |
 | 16 | [El Verdugo](https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Verdugo](https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m) | 2:52 |
 | 17 | [No Te Detengas](https://open.spotify.com/track/123rhMuhC7fMeTzuf1x3c4) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Como Las Canto Yo](https://open.spotify.com/album/4TmehiOHxWoDMKDVmeToWP) | 3:48 |
 | 18 | [Tiemblas](https://open.spotify.com/track/0YNyce1Yukmqv3viXjgGtf) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Como Las Canto Yo](https://open.spotify.com/album/4TmehiOHxWoDMKDVmeToWP) | 3:30 |
@@ -388,4 +388,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 378 | [CIEGO SORDO MUDO](https://open.spotify.com/track/3qxjEfFr536FDMcB4Iajmh) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:16 |
 | 379 | [RED FLAG](https://open.spotify.com/track/3mhF6nhwtdKO6y35tGx7wu) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [BLACK YAYO, VOL\. 2](https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN) | 3:22 |
 
-Snapshot ID: `AAAAAEXuLlSPTl0CqEv19zQjsoXSE16N`
+Snapshot ID: `AAAAAJO+yYdW0X5QwL+e7SyAqbpOfDD0`

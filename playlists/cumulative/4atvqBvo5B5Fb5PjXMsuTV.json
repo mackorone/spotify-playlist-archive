@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Nov 04:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Nov 04:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -10766,6 +10766,24 @@
       "duration_ms": 168009,
       "name": "BIG STEPPER",
       "url": "https://open.spotify.com/track/3DUVAw6nLbe5WYaD5CaXOf"
+    },
+    {
+      "album": {
+        "name": "Bigger",
+        "url": "https://open.spotify.com/album/00wYIRKQj39UVdGU5GGbMO"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145920,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/2265AOHbWTKisgb1mPcqT6"
     },
     {
       "album": {
@@ -30216,7 +30234,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 199617,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
@@ -39742,6 +39760,24 @@
       "duration_ms": 219023,
       "name": "H V D O L",
       "url": "https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6"
+    },
+    {
+      "album": {
+        "name": "H.A.P.P.Y",
+        "url": "https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "H.A.P.P.Y",
+      "url": "https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj"
     },
     {
       "album": {
@@ -94756,7 +94792,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 189673,
       "name": "The Real Contra Band",
       "url": "https://open.spotify.com/track/4kBtmojfp18pLG6HPtn5xR"

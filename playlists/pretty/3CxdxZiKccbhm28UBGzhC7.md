@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 101 songs - 5 hr 51 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 102 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 99 | [Wild](https://open.spotify.com/track/77Ci6VLovFgsZc5Jvdzk1d) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [BUCK](https://open.spotify.com/album/0eY2pPJwnecRwjopYtQrwk) | 2:38 |
 | 100 | [Work Is Easy, Life Is Hard](https://open.spotify.com/track/1FsbURTd9NmjiWtNX2LItj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 3:16 |
 | 101 | [Ready for the High](https://open.spotify.com/track/6gReaFvSI1Pabi3xE0Oh9V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:05 |
+| 102 | [Somebody Told Me \- Mylo Mix](https://open.spotify.com/track/1RGJcbR0wOwtB12P0zuWLL) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Hot Fuss](https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT) | 7:17 |
 
-Snapshot ID: `AAAA0gHBMRYp6huNWquYY8ojSVxzAQHR`
+Snapshot ID: `AAAA0/3kxhiSWNtufvDnIYEGPnRYmRXu`

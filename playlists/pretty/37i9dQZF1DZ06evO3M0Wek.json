@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 113260,
+  "num_followers": 113271,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAADoMGtu00yMspS/e4z7m5a4",
+  "snapshot_id": "aQP8AAAAAACuPPOdeTeEERGu41PHwyNQ",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 183506,
       "name": "I Miss the Misery",
       "url": "https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/1RVbpAB5qeezJb1Ka1z4Wp"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 395880,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/0gxgmkQJPIUqgHCmzHYRBW"
     },
     {
       "added_at": null,
@@ -63,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Strange Case of...",
         "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
       },
@@ -91,6 +95,22 @@
       "duration_ms": 191333,
       "name": "Love Bites (So Do I)",
       "url": "https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReAniMate: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl"
     },
     {
       "added_at": null,
@@ -591,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 205228,
-      "name": "Psycho Crazy",
-      "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -623,22 +627,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shooting Star",
-        "url": "https://open.spotify.com/album/1RVbpAB5qeezJb1Ka1z4Wp"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        },
         {
           "name": "Halestorm",
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 395880,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/0gxgmkQJPIUqgHCmzHYRBW"
+      "duration_ms": 205228,
+      "name": "Psycho Crazy",
+      "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Don't Know How to Stop",
+      "url": "https://open.spotify.com/track/28BfkJcbmfktoLkTbYhCbY"
     },
     {
       "added_at": null,
@@ -655,6 +671,22 @@
       "duration_ms": 182000,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReAniMate 3.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
     },
     {
       "added_at": null,
@@ -684,25 +716,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 234893,
-      "name": "Don't Know How to Stop",
-      "url": "https://open.spotify.com/track/28BfkJcbmfktoLkTbYhCbY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReAniMate 3.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
+      "duration_ms": 239133,
+      "name": "Private Parts (feat. James Michael of Sixx: A.M.)",
+      "url": "https://open.spotify.com/track/404tBtHfLmr8eOvzZEmLC2"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Private Parts (feat. James Michael of Sixx: A.M.)",
-      "url": "https://open.spotify.com/track/404tBtHfLmr8eOvzZEmLC2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Halestorm (Deluxe)",
         "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
@@ -767,6 +767,30 @@
       "duration_ms": 223213,
       "name": "Bet U Wish U Had Me Back",
       "url": "https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        },
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 254887,
+      "name": "Out In the Rain",
+      "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
     },
     {
       "added_at": null,
@@ -799,30 +823,6 @@
       "duration_ms": 207666,
       "name": "Sick Individual",
       "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
-        },
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 254887,
-      "name": "Out In the Rain",
-      "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
     },
     {
       "added_at": null,

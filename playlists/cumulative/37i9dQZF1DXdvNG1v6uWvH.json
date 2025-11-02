@@ -48330,7 +48330,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 209813,
       "name": "Feresande",
       "url": "https://open.spotify.com/track/1RuhhuWPa8YRPmMzSAIeCE"
@@ -99182,7 +99182,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 289038,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/3wPk9uDlJJGceQSrLF2qez"
@@ -154089,8 +154089,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Witching Hour",
+        "url": "https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ"
       },
       "artists": [
         {
@@ -154100,7 +154100,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 200240,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
@@ -165094,7 +165094,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 264630,
       "name": "Words That Move",
       "url": "https://open.spotify.com/track/7lBN9rNub0AoxmqGc8yiLm"

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-746 songs - 2 day 22 hr 40 min
+747 songs - 2 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Beirut](https://open.spotify.com/track/1QAukxDeTuctdK9O6IzyJv) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Beirut](https://open.spotify.com/album/1zuIiMG3WV5wVKe5iD2dQq) | 5:13 | 2022-07-01 | 2022-07-09 |
 | [Believe](https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Believe](https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu) | 3:50 | 2024-07-26 |  |
 | [Berlin](https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Berlin](https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y) | 2:01 | 2025-10-03 |  |
+| [Beside You](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Beside You](https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS) | 4:41 | 2025-10-24 |  |
 | [Best of Me \- Radio Edit](https://open.spotify.com/track/3nQPkePHredC24hsQBmlbj) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Best of Me \(Radio Edit\)](https://open.spotify.com/album/4r3jo7rdIgbAbMXX6tkyTB) | 3:49 | 2020-09-26 | 2022-10-18 |
 | [Best of Me \- Radio Edit](https://open.spotify.com/track/4bJ7hDIjOucR0hGDEaVBOr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Best of Me \(Radio Edit\)](https://open.spotify.com/album/0JZhnQOj0GJqODT4NolPLv) | 3:49 | 2022-10-07 | 2022-11-26 |
 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 | 2022-07-08 | 2024-06-17 |
@@ -549,7 +550,7 @@
 | [Samson](https://open.spotify.com/track/34fx5Qr2oEkQfqRS8FlbJt) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Samson](https://open.spotify.com/album/2HlExpMOAcyS1Wyc5I7F5H) | 7:00 | 2019-08-06\* | 2020-06-12 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-25 |  |
 | [Schlafen](https://open.spotify.com/track/6W9p8YvgzEMJT8ENSaw32S) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Schlafen](https://open.spotify.com/album/5gdAuC2O2YWcU6JtyKqU3U) | 6:52 | 2019-10-24 | 2020-05-14 |
-| [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
+| [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 | 2025-11-02 |
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 | 2025-04-02 |
 | [Sektor](https://open.spotify.com/track/7ieGiNeMBSoAomdAAuOt6r) | [Marius Drescher](https://open.spotify.com/artist/4oU99ab1DTNIF3a9RHmnhf) | [Sektor](https://open.spotify.com/album/4gdGrl8AllxmdA0fU3p5vG) | 7:15 | 2019-08-29 | 2019-12-22 |
 | [Senses of Comfort](https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Senses of Comfort](https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6) | 3:11 | 2025-07-11 | 2025-08-27 |

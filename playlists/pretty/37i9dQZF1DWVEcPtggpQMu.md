@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Sastii
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,580 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,624 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 99 | [Skuta Baba \- Pitori Remix](https://open.spotify.com/track/5FsDe3oTjRtEuzZcYUGiF2) | [WOODBLOCK DJS](https://open.spotify.com/artist/4U1nhrvg5AujdFVNDYdxnQ), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [G\-TECH 2bit](https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0), [Venom](https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg) | [Skuta Baba \(Remix Pack\)](https://open.spotify.com/album/05xMiDYYKjQ6jt8AYgyCGr) | 4:20 |
 | 100 | [Hosh Pakamisa](https://open.spotify.com/track/5zgeFWjhJYldLf3FMACFEc) | [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Dedrick West Bonolo](https://open.spotify.com/artist/1mSbq1MxKee5gZdom8BH7U), [SiyaCeeBeats](https://open.spotify.com/artist/575AQek8G74rY22ifc3eTt) | [Hosh Pakamisa](https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3) | 2:56 |
 
-Snapshot ID: `AAAAAEiZ+mndvRUmgAHMWkRRmXSKvKp0`
+Snapshot ID: `AAAAABswOJl76L5e5t6DU4rCHULuTlZB`

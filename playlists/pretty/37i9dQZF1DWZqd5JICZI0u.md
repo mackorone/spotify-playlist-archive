@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,623,815 likes - 201 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,624,472 likes - 201 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 200 | [Essential](https://open.spotify.com/track/0DhIsFMOr5IQOSg38IVNrn) | [Fjord Filken](https://open.spotify.com/artist/4s0CCQlGivl4RR7nxuIGXx) | [Essential](https://open.spotify.com/album/4MCkVFGw7i7AEH00GzUoG1) | 3:44 |
 | 201 | [Pluotos](https://open.spotify.com/track/1qiSMzz9eNSMyQzIRpP3z2) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Pluotos](https://open.spotify.com/album/5g3ByKiMfjLvV0GTiewGqF) | 2:52 |
 
-Snapshot ID: `AAAAAJPqRQ9PNpGKlgGHI7eBnaTYtjBf`
+Snapshot ID: `AAAAAOE1nRFqyad6f0UATR7+FeXvxt/Q`

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70611,
+  "num_followers": 70614,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MJgoeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MJl5+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "paleta x faint",
         "url": "https://open.spotify.com/album/2PcefEGOXIoZTdr42QXzuN"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7nHmM0Og1exF34DxO6dZuk"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "YA NI SU NOMBRE ME SE (Private AfroHouse)",
         "url": "https://open.spotify.com/album/1iIgNlGKwEwwVCYNoc97ZL"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6Ab73LM4c50oTmk4EaxSbT"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "MUEVELOU",
         "url": "https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR"
@@ -73,7 +73,39 @@
       "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
@@ -93,23 +125,27 @@
       "url": "https://open.spotify.com/track/4Oc1qHsjM4kM0AARvlwSs3"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "IRIS OUT",
-        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+        "name": "The Original Monster Mash",
+        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
         }
       ],
-      "duration_ms": 151573,
-      "name": "IRIS OUT",
-      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
+      "duration_ms": 192040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "NEBULA",
         "url": "https://open.spotify.com/album/4i1OZHeyahqM6GpIjBdX47"
@@ -129,31 +165,7 @@
       "url": "https://open.spotify.com/track/1M9CdHPNe2DJ4rfn1iTSDS"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "SEH",
-        "url": "https://open.spotify.com/album/2lAmmJJWHbI05riBMKScF1"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "SEH",
-      "url": "https://open.spotify.com/track/0RF0uI6eeHrlYW8rGdN9K0"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "hacerte olvidar",
         "url": "https://open.spotify.com/album/76Q8u8aIrLnRWzeifcKZGc"
@@ -169,7 +181,7 @@
       "url": "https://open.spotify.com/track/1ojy7vuJogvSEDifZOcaDJ"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "Comando Estelar",
         "url": "https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH"
@@ -197,23 +209,31 @@
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "Que Hace Con El",
-        "url": "https://open.spotify.com/album/1G1KbeZXsZnQvKgjmD30qp"
+        "name": "SEH",
+        "url": "https://open.spotify.com/album/2lAmmJJWHbI05riBMKScF1"
       },
       "artists": [
         {
-          "name": "bouncy boys band filtrvp",
-          "url": "https://open.spotify.com/artist/6fCZzavU9bcWs5d6lC6ltV"
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
         }
       ],
-      "duration_ms": 223863,
-      "name": "Que Hace Con El",
-      "url": "https://open.spotify.com/track/1pvfO12SyprY7NR11F1Wk5"
+      "duration_ms": 163846,
+      "name": "SEH",
+      "url": "https://open.spotify.com/track/0RF0uI6eeHrlYW8rGdN9K0"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -229,23 +249,23 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "POPOROPO",
-        "url": "https://open.spotify.com/album/48IlG2a5z76dN6BOYt9ifU"
+        "name": "Que Hace Con El",
+        "url": "https://open.spotify.com/album/1G1KbeZXsZnQvKgjmD30qp"
       },
       "artists": [
         {
-          "name": "Gaby Roket",
-          "url": "https://open.spotify.com/artist/7sSfT3nVBOdI0dCN9Lsrn1"
+          "name": "bouncy boys band filtrvp",
+          "url": "https://open.spotify.com/artist/6fCZzavU9bcWs5d6lC6ltV"
         }
       ],
-      "duration_ms": 155527,
-      "name": "POPOROPO",
-      "url": "https://open.spotify.com/track/3dqhs1O6T6smGZ45BQq1Pj"
+      "duration_ms": 223863,
+      "name": "Que Hace Con El",
+      "url": "https://open.spotify.com/track/1pvfO12SyprY7NR11F1Wk5"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -265,23 +285,23 @@
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "POPOROPO",
+        "url": "https://open.spotify.com/album/48IlG2a5z76dN6BOYt9ifU"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Gaby Roket",
+          "url": "https://open.spotify.com/artist/7sSfT3nVBOdI0dCN9Lsrn1"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 155527,
+      "name": "POPOROPO",
+      "url": "https://open.spotify.com/track/3dqhs1O6T6smGZ45BQq1Pj"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "At\u00e9 Quebrar a Cama 2.0",
         "url": "https://open.spotify.com/album/0M3Eqgtjept5qmPYWNdzWR"
@@ -305,7 +325,55 @@
       "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -325,7 +393,7 @@
       "url": "https://open.spotify.com/track/2YaOGEaBCoISE521kunnyK"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -357,55 +425,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
-      },
-      "artists": [
-        {
-          "name": "The Citizens of Halloween",
-          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "This Is Halloween",
-      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "Paseo",
-        "url": "https://open.spotify.com/album/6fgaDIX9owku4A7L4s9yxs"
-      },
-      "artists": [
-        {
-          "name": "47kodeina",
-          "url": "https://open.spotify.com/artist/1xRe2xEECk8dl8pjZVqjRr"
-        }
-      ],
-      "duration_ms": 165029,
-      "name": "Paseo",
-      "url": "https://open.spotify.com/track/5BxTKjbC2JrV3hsZ4txYKm"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "EPERK, Vol. 1",
         "url": "https://open.spotify.com/album/0aabPprfNKv9mHfGHYKH2m"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/0Bh2oOmFHl4YTUYMhxUSf2"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "Porque Quise DELUXE",
         "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
@@ -445,7 +465,23 @@
       "url": "https://open.spotify.com/track/231Crd29pPGdweClh2CoVO"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "30 Mil Pies",
         "url": "https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "I'M PART",
         "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
@@ -481,7 +517,59 @@
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 238010,
+      "name": "Destello...",
+      "url": "https://open.spotify.com/track/1iTBWVDuQaQ7yMybZri66d"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "MIENTES",
+        "url": "https://open.spotify.com/album/6y0huzykCvJWhseBvZsUtx"
+      },
+      "artists": [
+        {
+          "name": "Milan Didier",
+          "url": "https://open.spotify.com/artist/3SL0MLkrNx4DRWGcRLiIDc"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "duration_ms": 166737,
+      "name": "MIENTES",
+      "url": "https://open.spotify.com/track/7KjbsXaBf9XKcd65CaMckw"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "ELLA LO SABE",
         "url": "https://open.spotify.com/album/1U7WDZV1XIR5q7i5PvUH13"
@@ -505,79 +593,7 @@
       "url": "https://open.spotify.com/track/7LsKthH330q7t6InTagwQh"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 238010,
-      "name": "Destello...",
-      "url": "https://open.spotify.com/track/1iTBWVDuQaQ7yMybZri66d"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "The Original Monster Mash",
-        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Boris\" Pickett",
-          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
-        },
-        {
-          "name": "The Crypt-Kickers",
-          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "Monster Mash",
-      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "DSxBB",
-        "url": "https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6"
-      },
-      "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 113183,
-      "name": "Soy Lo Peor",
-      "url": "https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "MALPORTADA",
         "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
@@ -597,7 +613,31 @@
       "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "Halloween (Original 2018 Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        },
+        {
+          "name": "Cody Carpenter",
+          "url": "https://open.spotify.com/artist/5rJxl4BLLAaFRSNgAz2hSg"
+        },
+        {
+          "name": "Daniel Davies",
+          "url": "https://open.spotify.com/artist/0YaDmIGxP3HVcH7xvkpvSP"
+        }
+      ],
+      "duration_ms": 182375,
+      "name": "Halloween Theme",
+      "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -617,99 +657,7 @@
       "url": "https://open.spotify.com/track/3fgScn3fp098tqIVgVosd5"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "EYES CLOSED (with ZAYN)",
-        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        },
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 181375,
-      "name": "EYES CLOSED (with ZAYN)",
-      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "DESEO",
-        "url": "https://open.spotify.com/album/66P3fL2StX6rRZowEggZiT"
-      },
-      "artists": [
-        {
-          "name": "Lyon la f",
-          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "DESEO",
-      "url": "https://open.spotify.com/track/7kfgRQbmicsoQyKJOl02xY"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "COLOR OUTSIDE THE LINES",
-        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "FaSHioN",
-      "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "Wish (Audiomack Trap Symphony Version)",
-        "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "Wish - Audiomack Trap Symphony Version",
-      "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "MIENTES",
-        "url": "https://open.spotify.com/album/6y0huzykCvJWhseBvZsUtx"
-      },
-      "artists": [
-        {
-          "name": "Milan Didier",
-          "url": "https://open.spotify.com/artist/3SL0MLkrNx4DRWGcRLiIDc"
-        },
-        {
-          "name": "El BAI",
-          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
-        }
-      ],
-      "duration_ms": 166737,
-      "name": "MIENTES",
-      "url": "https://open.spotify.com/track/7KjbsXaBf9XKcd65CaMckw"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
@@ -729,7 +677,47 @@
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "Wish (Audiomack Trap Symphony Version)",
+        "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 180604,
+      "name": "Wish - Audiomack Trap Symphony Version",
+      "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "DSxBB",
+        "url": "https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 113183,
+      "name": "Soy Lo Peor",
+      "url": "https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -765,59 +753,75 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
+        "name": "COLOR OUTSIDE THE LINES",
+        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "FaSHioN",
+      "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "Ta Ta Ta",
+        "url": "https://open.spotify.com/album/4OoOPmGSbMLkq1lT8K6gfn"
+      },
+      "artists": [
+        {
+          "name": "Santiago Avenda\u00f1o",
+          "url": "https://open.spotify.com/artist/1v7B3UBtMLIr9bPCtFONQc"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Dj Tati",
+          "url": "https://open.spotify.com/artist/4DEKMu4HqyX7lJxxRNzKJP"
         }
       ],
-      "duration_ms": 232458,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
+      "duration_ms": 177230,
+      "name": "Ta Ta Ta",
+      "url": "https://open.spotify.com/track/0DrBIUc9IfKGwUgJMi91ts"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+        "name": "DESEO",
+        "url": "https://open.spotify.com/album/66P3fL2StX6rRZowEggZiT"
       },
       "artists": [
         {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
         }
       ],
-      "duration_ms": 125624,
-      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
-      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+      "duration_ms": 180000,
+      "name": "DESEO",
+      "url": "https://open.spotify.com/track/7kfgRQbmicsoQyKJOl02xY"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "SENDA BELLAKONA",
-        "url": "https://open.spotify.com/album/1DdV2p9r8QIXrawUqTTpgD"
+        "name": "Halloween Trap Remixes 2025",
+        "url": "https://open.spotify.com/album/5twODzxoqQGWmFnSooVrsk"
       },
       "artists": [
         {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+          "name": "Trap Remix Guys",
+          "url": "https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c"
         }
       ],
-      "duration_ms": 120494,
-      "name": "SENDA BELLAKONA",
-      "url": "https://open.spotify.com/track/7IyBvpCV5itnX98vKMramA"
+      "duration_ms": 79523,
+      "name": "Harry Potter - Trap Remix",
+      "url": "https://open.spotify.com/track/08mbeGhGSQaNheBe2DzpRc"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "TODO KE VER",
         "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
@@ -841,27 +845,27 @@
       "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "Ta Ta Ta",
-        "url": "https://open.spotify.com/album/4OoOPmGSbMLkq1lT8K6gfn"
+        "name": "EYES CLOSED (with ZAYN)",
+        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
       },
       "artists": [
         {
-          "name": "Santiago Avenda\u00f1o",
-          "url": "https://open.spotify.com/artist/1v7B3UBtMLIr9bPCtFONQc"
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         },
         {
-          "name": "Dj Tati",
-          "url": "https://open.spotify.com/artist/4DEKMu4HqyX7lJxxRNzKJP"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Ta Ta Ta",
-      "url": "https://open.spotify.com/track/0DrBIUc9IfKGwUgJMi91ts"
+      "duration_ms": 181375,
+      "name": "EYES CLOSED (with ZAYN)",
+      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "La Nena del Case",
         "url": "https://open.spotify.com/album/766wgqqO7B1kCcxqMC35Hj"
@@ -889,7 +893,59 @@
       "url": "https://open.spotify.com/track/7cSyAfNpygwbo1TMzAHnee"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 232458,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
+    },
+    {
+      "added_at": "2025-11-01 15:54:06",
       "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
@@ -909,100 +965,20 @@
       "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
     },
     {
-      "added_at": "2025-10-31 14:41:30",
+      "added_at": "2025-11-01 15:54:06",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "SENDA BELLAKONA",
+        "url": "https://open.spotify.com/album/1DdV2p9r8QIXrawUqTTpgD"
       },
       "artists": [
-        {
-          "name": "Saja Boys",
-          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
-        },
-        {
-          "name": "Andrew Choi",
-          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
-        },
-        {
-          "name": "Neckwav",
-          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
-        },
-        {
-          "name": "Danny Chung",
-          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
-        },
-        {
-          "name": "KEVIN WOO",
-          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
-        },
-        {
-          "name": "samUIL Lee",
-          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 150686,
-      "name": "Soda Pop",
-      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "Sentimiento M\u00e1gico",
-        "url": "https://open.spotify.com/album/3KLs4d5dia53jBDIIuk7PR"
-      },
-      "artists": [
-        {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
-        },
         {
           "name": "SINAKA",
           "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
         }
       ],
-      "duration_ms": 202857,
-      "name": "Sentimiento M\u00e1gico",
-      "url": "https://open.spotify.com/track/2jakPYMHBWLubIQEeceVoL"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
-    },
-    {
-      "added_at": "2025-10-31 14:41:30",
-      "album": {
-        "name": "Matando La Liga 2",
-        "url": "https://open.spotify.com/album/2OVAk6ObS03HPnPhSMWKpe"
-      },
-      "artists": [
-        {
-          "name": "Jory Boy",
-          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Incorregible",
-      "url": "https://open.spotify.com/track/5BopAwInvbrMFbbV4Y4BHF"
+      "duration_ms": 120494,
+      "name": "SENDA BELLAKONA",
+      "url": "https://open.spotify.com/track/7IyBvpCV5itnX98vKMramA"
     }
   ],
   "unique_name": "Viral 50 - Chile",

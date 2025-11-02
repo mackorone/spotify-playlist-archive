@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Matoma x Coleman Hell
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,953 likes - 105 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,957 likes - 105 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [World In Your Eyes](https://open.spotify.com/track/64hLvAi0gLO2pXMZrh0zFH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [World In Your Eyes](https://open.spotify.com/album/3AZd7hjB520Ox5ZlKCH3rw) | 2:41 |
 | 2 | [Hold On \(feat\. EVIE\)](https://open.spotify.com/track/2RvQ3rzIbzN3OOwefRothl) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [EVIE](https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo) | [Hold On \(feat\. EVIE\)](https://open.spotify.com/album/4cf08XQ3LKfQcjBq6YSUj4) | 3:22 |
-| 3 | [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
+| 3 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 4 | [Smoke Up In The Air](https://open.spotify.com/track/00BP25ZPPTDsY4HAMJumA8) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd) | [Smoke Up In The Air](https://open.spotify.com/album/2oXjs2CCC8E0aSNO7mxWoQ) | 3:37 |
 | 5 | [Camera \(CYRIL Remix\)](https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Camera \(CYRIL Remix\)](https://open.spotify.com/album/17w0kQfQhwj2ptpp0eFt3n) | 2:43 |
 | 6 | [Modern Times](https://open.spotify.com/track/3GcakfkKpEStBeomWwYPwO) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Modern Times](https://open.spotify.com/album/3EyNltfgFSTxVvvNpKlHJ8) | 4:27 |

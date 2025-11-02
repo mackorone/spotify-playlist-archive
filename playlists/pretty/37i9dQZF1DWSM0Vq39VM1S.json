@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388383,
+  "num_followers": 388398,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 232813,
       "name": "Drink the Ocean (feat. Oracle Sisters)",
       "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Yours Or Mine",
-        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 230977,
-      "name": "Yours Or Mine",
-      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Satin Psicodelic",
         "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 324130,
       "name": "Mornin Dew",
       "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Yours Or Mine",
+        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 230977,
+      "name": "Yours Or Mine",
+      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 188037,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
       },
@@ -827,22 +811,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Learning to Live",
-        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 185344,
-      "name": "My Whole Life",
-      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 201133,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 188037,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Learning to Live",
+        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 185344,
+      "name": "My Whole Life",
+      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
     },
     {
       "added_at": "2025-10-23 22:00:32",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-23 22:00:32",
       "album": {
-        "name": "Hoagy's Place",
-        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Hoagy's Place",
-      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
-    },
-    {
-      "added_at": "2025-10-23 22:00:32",
-      "album": {
         "name": "Make It Work",
         "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 255877,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
+    },
+    {
+      "added_at": "2025-10-23 22:00:32",
+      "album": {
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     },
     {
       "added_at": "2025-10-23 22:00:32",

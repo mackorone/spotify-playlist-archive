@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Seyi Vibez, Mr Eazi, The Cavemen, Kold AF Showdemcamp and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,921 likes - 47 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,064 likes - 47 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 24 | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/track/4uCsJlsvglqasORJnmmLng) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [I DON'T NEED YOU, SO YOU COULD TELL ME IF I'M GUD](https://open.spotify.com/album/2SsTE9YTu4w18gmMG7TH8s) | 3:37 |
 | 25 | [What We Call It \(feat\. Oladapo\)](https://open.spotify.com/track/33CCl0S47O3b4LSAqT6jB7) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [What We Call It \(feat\. Oladapo\)](https://open.spotify.com/album/53VNIRTxDwziSYLAx9ssn9) | 2:48 |
 | 26 | [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6saKboIoQgXKIHfQJVwv5i) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Still Get Chanel \(feat\. Chance The Rapper\)](https://open.spotify.com/album/0eVHBtiX6G7wMWErRoa9cW) | 3:19 |
-| 27 | [Kalakuta Riddim \(Yeba\)](https://open.spotify.com/track/4OwIABd54UA2vBQWo7MSqz) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm) | [Kalakuta Riddim \(Yeba\)](https://open.spotify.com/album/7ulqtXxzfzocIBfWS29lra) | 2:32 |
+| 27 | [Kalakuta Riddim \(Yeba\)](https://open.spotify.com/track/4OwIABd54UA2vBQWo7MSqz) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm) | [Kalakuta Riddim \(Yeba\)](https://open.spotify.com/album/7ulqtXxzfzocIBfWS29lra) | 2:30 |
 | 28 | [Fowaah](https://open.spotify.com/track/1M0MnNWPoBA3BP49jshvsS) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fowaah](https://open.spotify.com/album/0n1Hnr42y8SvpdhdCtHmVM) | 2:47 |
 | 29 | [Believer](https://open.spotify.com/track/5wtj681ak0jF5EeuoWmweC) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:05 |
 | 30 | [Waiting](https://open.spotify.com/track/4pBkdd8TK4zbFrPI2ylDWI) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Waiting](https://open.spotify.com/album/0R1bSpCFYn7A48GT7p9ADn) | 3:51 |

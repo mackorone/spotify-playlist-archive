@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > this house plays Jazz House 🏠  featuring Bolden.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,254 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,299 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
 | 100 | [No Bad Feelings Today](https://open.spotify.com/track/3obEXbTwHovSQtdjeW5b2w) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [No Bad Feelings Today](https://open.spotify.com/album/1vP6QlicXn0gTiqMAjxiI8) | 3:33 |
 
-Snapshot ID: `AAAAAEOnkLsPnrDrbF4shpe3wiq2cESw`
+Snapshot ID: `AAAAAFvvszk7zeQagIHunzSFwtdh9hyR`

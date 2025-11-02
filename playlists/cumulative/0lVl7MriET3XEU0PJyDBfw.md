@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
 
-885 songs - 1 day 22 hr 49 min
+886 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Baby Daddy \(Sperm Donor\)](https://open.spotify.com/track/2VRsFSqinPPbwGlQl62PUX) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Baby Daddy \(Sperm Donor\)](https://open.spotify.com/album/6926mwT6gVyVq2oxv50Qoe) | 3:23 | 2025-08-23 | 2025-10-07 |
 | [Bacardi \- Extended Mix](https://open.spotify.com/track/63rFPRsGpXGwrQPKfG0tJa) | [Tennan](https://open.spotify.com/artist/1xY7Vvgywewx0f9rSAjlgC) | [Got The Fire / Bacardi](https://open.spotify.com/album/3ttRSthSpRHqRj1LR7W8Pi) | 5:25 | 2025-01-20 | 2025-03-29 |
 | [Back Again \- Radio Edit](https://open.spotify.com/track/08H6MiO9Qg4tI089BpaDZZ) | [Martin Curkovic](https://open.spotify.com/artist/4wm9qTyfs9fTpcrYGW0upS) | [Back Again \(Radio Edit\)](https://open.spotify.com/album/5jJp4wbPgDoS59Gi2GTh9n) | 3:04 | 2025-05-23 | 2025-08-17 |
+| [Back Back \- VITO \(UK\) Remix](https://open.spotify.com/track/6Scu619NGnTnKFQIBUNWyI) | [Chicks Luv Us](https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02) | [Back Back EP](https://open.spotify.com/album/2EGp7uVsuITuf3CchMU7kt) | 3:06 | 2025-11-01 |  |
 | [Back on The Scene](https://open.spotify.com/track/5excRsgCxuA4tyRGCGPnzr) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Back on The Scene](https://open.spotify.com/album/3E20ZKze3zZy4HQHJjafo0) | 3:45 | 2025-04-05 | 2025-06-15 |
 | [Backstage Baddies](https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Mike Renza](https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI) | [Backstage Baddies](https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy) | 3:01 | 2024-09-16 | 2024-11-05 |
 | [Bad B](https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad B](https://open.spotify.com/album/0zpf6Mkc9v127iGORp26wA) | 2:33 | 2025-05-10 | 2025-07-28 |

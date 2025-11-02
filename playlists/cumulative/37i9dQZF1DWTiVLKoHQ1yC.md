@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-335 songs - 22 hr 42 min
+336 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Hero](https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [A Hero EP](https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27) | 7:38 | 2022-01-14 | 2022-11-26 |
 | [Afterglow](https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Afterglow](https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb) | 6:35 | 2024-02-02 | 2025-05-09 |
 | [Afters](https://open.spotify.com/track/0Mpwy30nhQyjHIBBWiRBvx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Afters](https://open.spotify.com/album/6TnuvOxefca6KEDgQimpki) | 3:46 | 2024-09-27 | 2025-01-18 |
-| [AIR](https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [AIR](https://open.spotify.com/album/18gB7JgKL82pJ2SVBsNL2T) | 4:20 | 2025-05-29 |  |
+| [AIR](https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [AIR](https://open.spotify.com/album/18gB7JgKL82pJ2SVBsNL2T) | 4:20 | 2025-05-29 | 2025-11-02 |
 | [Ajna](https://open.spotify.com/track/47LoiZrIMuYU7j7WSb0FPM) | [Pablo German](https://open.spotify.com/artist/59iNfxvuT7GvtFltEbs9iS) | [Ajna / Organism](https://open.spotify.com/album/5znS9PDg94ojUXsj80UriT) | 7:37 | 2022-01-14 | 2022-11-26 |
 | [Alkantara](https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai) | [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk) | [Alkantara](https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo) | 3:36 | 2022-01-14 | 2024-06-21 |
 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 | 2024-09-27 |  |
@@ -199,6 +199,7 @@
 | [Midnight](https://open.spotify.com/track/4gqpWEfLRR1cldkjN1mh5q) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Midnight](https://open.spotify.com/album/78SHmchzpBWJ9Gt3bLL5CI) | 3:43 | 2025-05-16 | 2025-10-04 |
 | [Midnight Sun](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Midnight Sun](https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ) | 3:24 | 2024-09-26 |  |
 | [Mind Dimension](https://open.spotify.com/track/59QTrFJ2lD7R0OmgMaX7vJ) | [Jamy Nox](https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3), [Bazaart](https://open.spotify.com/artist/7fSlQw130LhJ2YAw938b3K), [NeverSeen](https://open.spotify.com/artist/4FID5IZwQy0Z1J02f7xL4I) | [Mind Dimension](https://open.spotify.com/album/7iEKkTSfrpuT4Vd3v4e9bG) | 3:01 | 2025-07-03 | 2025-09-03 |
+| [Mirage](https://open.spotify.com/track/63JXEbhoCRypjCULbjX8Qw) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreams At Dusk Part I \- Mirage](https://open.spotify.com/album/1qf6lnED6A9YmsNLXfzfLJ) | 3:37 | 2025-10-23 |  |
 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-07-18 | 2025-06-27 |
 | [Mojo](https://open.spotify.com/track/1TUwu9RxQ8d7jbLBjow84b) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Mojo](https://open.spotify.com/album/2Hm8DVrE5D2jTdS19n9Q2d) | 3:18 | 2025-04-03 | 2025-07-18 |
 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2022-01-14 | 2024-02-23 |

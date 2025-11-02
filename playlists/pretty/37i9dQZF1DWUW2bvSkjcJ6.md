@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von ROSALÍA, Tyler, The Creator, Florence + The Machine,  Ikkimel und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,140 likes - 76 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,108 likes - 76 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 5 | [Das Glück](https://open.spotify.com/track/3uLOR8AtwJR8yy9sRXqD78) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Augen träumen Herzen sehen](https://open.spotify.com/album/1ARwY4w7bNbAcVL2ngxk2l) | 2:57 |
 | 6 | [To The Sky](https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [To The Sky](https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep) | 2:49 |
 | 7 | [Eigentlich wollte ich dir nie sagen](https://open.spotify.com/track/6HuaKPtc8djPMFirBUydm8) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Die Wollen Nur Spielen](https://open.spotify.com/album/5eggIcGiHPUAzuXmhSDXdI) | 2:50 |
-| 8 | [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
+| 8 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 9 | [The Future Is Cancelled](https://open.spotify.com/track/63RRBZLduS3iKJkzzlHnp0) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [The Future Is Cancelled](https://open.spotify.com/album/5NqBxIPIZ6Fm9x6X7QafoU) | 3:27 |
 | 10 | [lolo](https://open.spotify.com/track/4PfhqhDDt8N2wnL5qIiYiz) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [lolo](https://open.spotify.com/album/10fJMxZmYM5sCpBLwETCXk) | 2:15 |
 | 11 | [Herz über Kopf](https://open.spotify.com/track/4Lpps50Ott94n1tN80qfuQ) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Herz über Kopf](https://open.spotify.com/album/7znwSVvZI4KMZwMbbym5Ew) | 2:38 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 21 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
 | 22 | [Das schönste Mädchen der Welt](https://open.spotify.com/track/54h7GhGTN7expLX1qYVe8P) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Das schönste Mädchen der Welt](https://open.spotify.com/album/2fuitv9wX2nfqTOLrPvoQh) | 3:00 |
 | 23 | [SOBER](https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SOBER](https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df) | 2:29 |
-| 24 | [Lies](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [Lies](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
+| 24 | [LIES](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [LIES](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
 | 25 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
 | 26 | [Skip A Few Steps \(feat\. ANY\)](https://open.spotify.com/track/3uhDIHIjJCJRCHZrXRysuG) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [Skip A Few Steps \(feat\. ANY\)](https://open.spotify.com/album/7dDmJgKsr5rkxuS6o6XiE3) | 2:06 |
 | 27 | [BÆD](https://open.spotify.com/track/3XYYTXykHA95m1EmSf9y5H) | [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [BÆD](https://open.spotify.com/album/4DW359zySOc9NwLGAuCsIm) | 2:30 |

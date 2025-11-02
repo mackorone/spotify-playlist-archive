@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مهى فتوني
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,597 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,649 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 3 | [كلكوا فله](https://open.spotify.com/track/6XE6ywXuV0tAa76a59w1VP) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [كلكوا فله](https://open.spotify.com/album/0oh75L2L6qQrs9NshlUXQ4) | 2:18 |
 | 4 | [El Segn Law Kan Genena](https://open.spotify.com/track/0TZNS87SGYRescCC4U8kAT) | [Dallo](https://open.spotify.com/artist/04xF9pcBH9WrpWbpMHmPIG) | [El Segn Law Kan Genena](https://open.spotify.com/album/2MA5gkXaJtBKmuuBKh8V34) | 2:19 |
 | 5 | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/track/4HsAeZ9hbj3YsI10ww3vFn) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Ekhtalafna .\. Fara'na .\. Eftara'na](https://open.spotify.com/album/1kt8RaftlYDHnL76bpTknX) | 4:29 |
-| 6 | [Basha](https://open.spotify.com/track/7xzXV6rUspGbYr9yaHPSh3) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Basha](https://open.spotify.com/album/4wpq7hS78juDYEjgP1kuFZ) | 2:34 |
+| 6 | [باشا \(من فيلم قصر الباشا\)](https://open.spotify.com/track/7xzXV6rUspGbYr9yaHPSh3) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [باشا \(من فيلم قصر الباشا\)](https://open.spotify.com/album/4wpq7hS78juDYEjgP1kuFZ) | 2:34 |
 | 7 | [قفل الكلام](https://open.spotify.com/track/4MwaSykMfnUKZCrEJZwoTx) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [قفل الكلام](https://open.spotify.com/album/5PAXuBpnWEvA3DwuAtr7D1) | 4:00 |
 | 8 | [خلينا هنا](https://open.spotify.com/track/1cxZC5QmmyYS11ZX1cUEPa) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [خلينا هنا](https://open.spotify.com/album/0cQtzlRaaj2UgLSXTiJFgg) | 2:48 |
 | 9 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |

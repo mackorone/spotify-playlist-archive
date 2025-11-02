@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MJgoeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MJl8UAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "Tu Nunca Lo Sabr\u00e1s (Versi\u00f3n Cumbia)",
         "url": "https://open.spotify.com/album/3kZP79R86LZxnLIU1FGcCa"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/7nd0pe3OCrz2HfsuYxHmIw"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "MUEVELOU",
+        "url": "https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR"
+      },
+      "artists": [
+        {
+          "name": "VAD BOYZ",
+          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
+        }
+      ],
+      "duration_ms": 135659,
+      "name": "MUEVELOU",
+      "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/4Oc1qHsjM4kM0AARvlwSs3"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "MUEVELOU",
-        "url": "https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR"
-      },
-      "artists": [
-        {
-          "name": "VAD BOYZ",
-          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
-        }
-      ],
-      "duration_ms": 135659,
-      "name": "MUEVELOU",
-      "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "At\u00e9 Quebrar a Cama 2.0",
         "url": "https://open.spotify.com/album/0M3Eqgtjept5qmPYWNdzWR"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -105,7 +105,59 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "Foxy Shazam",
+        "url": "https://open.spotify.com/album/4dhCjrqhvcGuIAcP2JIVaR"
+      },
+      "artists": [
+        {
+          "name": "Foxy Shazam",
+          "url": "https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Oh Lord",
+      "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "The Original Monster Mash",
+        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "Por Ese Hombre",
         "url": "https://open.spotify.com/album/6NvHIKUxJtUJnLSrcNYDRL"
@@ -129,23 +181,7 @@
       "url": "https://open.spotify.com/track/4LLM1vflM6qCdFVsJPiq1p"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "Foxy Shazam",
-        "url": "https://open.spotify.com/album/4dhCjrqhvcGuIAcP2JIVaR"
-      },
-      "artists": [
-        {
-          "name": "Foxy Shazam",
-          "url": "https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Oh Lord",
-      "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -161,39 +197,7 @@
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "Toqu\u00e9 su manto",
-        "url": "https://open.spotify.com/album/0iuFe1T20evnPNxWJjRcqM"
-      },
-      "artists": [
-        {
-          "name": "Silbo apacible",
-          "url": "https://open.spotify.com/artist/09Ulp28KLAzbPI9Eil9hVG"
-        }
-      ],
-      "duration_ms": 237056,
-      "name": "Saulo",
-      "url": "https://open.spotify.com/track/7BElqwdYdkTHeaabaEMgrG"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "Que Nadie Se Entere",
-        "url": "https://open.spotify.com/album/2FXbZPe7uXbz4ynxjKGM9k"
-      },
-      "artists": [
-        {
-          "name": "Turromantikos",
-          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
-        }
-      ],
-      "duration_ms": 152189,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/4x47d03IMso5gvz1jHuywz"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
@@ -213,7 +217,23 @@
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "Que Nadie Se Entere",
+        "url": "https://open.spotify.com/album/2FXbZPe7uXbz4ynxjKGM9k"
+      },
+      "artists": [
+        {
+          "name": "Turromantikos",
+          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
+        }
+      ],
+      "duration_ms": 152189,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/4x47d03IMso5gvz1jHuywz"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "T\u00fa Nunca Lo Sabras",
         "url": "https://open.spotify.com/album/1wYEKrqkdJ4n0wYPRoANNM"
@@ -229,55 +249,23 @@
       "url": "https://open.spotify.com/track/2N11YipbkcRe2c35ddvmVa"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "Por qu\u00e9 yo no",
-        "url": "https://open.spotify.com/album/1ZxjI9SUdWBnlzEVjZx3oL"
+        "name": "Toqu\u00e9 su manto",
+        "url": "https://open.spotify.com/album/0iuFe1T20evnPNxWJjRcqM"
       },
       "artists": [
         {
-          "name": "TentaBeat",
-          "url": "https://open.spotify.com/artist/2ALz5Ck970XQIFVwxaFRfu"
+          "name": "Silbo apacible",
+          "url": "https://open.spotify.com/artist/09Ulp28KLAzbPI9Eil9hVG"
         }
       ],
-      "duration_ms": 212213,
-      "name": "Por qu\u00e9 yo no",
-      "url": "https://open.spotify.com/track/4yMSGLeyGjcUOxSS7YumxX"
+      "duration_ms": 237056,
+      "name": "Saulo",
+      "url": "https://open.spotify.com/track/7BElqwdYdkTHeaabaEMgrG"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "IRIS OUT",
-        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "IRIS OUT",
-      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "La historia de un amor",
-        "url": "https://open.spotify.com/album/1ZqhPmMXhDFp4aOM5j0yJ9"
-      },
-      "artists": [
-        {
-          "name": "Sara Pedrozo",
-          "url": "https://open.spotify.com/artist/3cdGFy25SzvlwjxDOnXKKm"
-        }
-      ],
-      "duration_ms": 174882,
-      "name": "La historia de un amor",
-      "url": "https://open.spotify.com/track/4HUxmHBqZ5a6xgBLc18Tpw"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -297,23 +285,59 @@
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "EYES CLOSED (with ZAYN)",
+        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 181375,
+      "name": "EYES CLOSED (with ZAYN)",
+      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "Por qu\u00e9 yo no",
+        "url": "https://open.spotify.com/album/1ZxjI9SUdWBnlzEVjZx3oL"
+      },
+      "artists": [
+        {
+          "name": "TentaBeat",
+          "url": "https://open.spotify.com/artist/2ALz5Ck970XQIFVwxaFRfu"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "Por qu\u00e9 yo no",
+      "url": "https://open.spotify.com/track/4yMSGLeyGjcUOxSS7YumxX"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "BAD HAPPENING FUNK",
         "url": "https://open.spotify.com/album/4gsBvXUpscsnEeWU73JKLq"
@@ -336,64 +360,60 @@
           "url": "https://open.spotify.com/artist/5rxkaSGyLjU9IMtHY91Hqk"
         }
       ],
-      "duration_ms": 134770,
+      "duration_ms": 134772,
       "name": "BAD HAPPENING FUNK - Super Slowed",
       "url": "https://open.spotify.com/track/6ZWWgFO1ZAH1w95tAIxD9C"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "bbno$",
-        "url": "https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T"
+        "name": "La historia de un amor",
+        "url": "https://open.spotify.com/album/1ZqhPmMXhDFp4aOM5j0yJ9"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Sara Pedrozo",
+          "url": "https://open.spotify.com/artist/3cdGFy25SzvlwjxDOnXKKm"
         }
       ],
-      "duration_ms": 118466,
-      "name": "gigolo",
-      "url": "https://open.spotify.com/track/0zZXEuRkmE44e78mniF5MU"
+      "duration_ms": 174882,
+      "name": "La historia de un amor",
+      "url": "https://open.spotify.com/track/4HUxmHBqZ5a6xgBLc18Tpw"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "JANE DOE",
-        "url": "https://open.spotify.com/album/381FouVeKunSg1WZTnmryL"
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
       },
       "artists": [
         {
           "name": "Kenshi Yonezu",
           "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        },
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 235946,
-      "name": "JANE DOE",
-      "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "The Citizens of Halloween",
-          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 196560,
-      "name": "This Is Halloween",
-      "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "Hotel Hazbin: Temporada Dos (Pre\u2013Banda Sonora en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/3d4vBXJltY0MY6G2wOYkLl"
@@ -417,23 +437,55 @@
       "url": "https://open.spotify.com/track/7AYgN9KvvfAhSwlSZlAdjW"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "Que Se Pudra el Amor",
-        "url": "https://open.spotify.com/album/75pGgiu3GaLCxZZXlbNrWO"
+        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+        "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
       },
       "artists": [
         {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Que Se Pudra el Amor",
-      "url": "https://open.spotify.com/track/1g3IlVAidIQOX6S1pl4W99"
+      "duration_ms": 158769,
+      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+      "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "bbno$",
+        "url": "https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 118466,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/0zZXEuRkmE44e78mniF5MU"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "Caprichito (En Vivo)",
         "url": "https://open.spotify.com/album/6S95VlCqSP519PNY8R7obi"
@@ -453,23 +505,55 @@
       "url": "https://open.spotify.com/track/2vT5QlaH24MEHSLGcyf84I"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+        "name": "Amor A\u00f1ejo",
+        "url": "https://open.spotify.com/album/2e5Z7QkzHt9LmRowq9x5w4"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Turromantikos",
+          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
         }
       ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+      "duration_ms": 200583,
+      "name": "Amor A\u00f1ejo",
+      "url": "https://open.spotify.com/track/6BlQL6XVZeluRBAPgcML3Z"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/2K1QFELHD1IhRh8FlGYm5t"
+      },
+      "artists": [
+        {
+          "name": "Turromantikos",
+          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
+        }
+      ],
+      "duration_ms": 136101,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/0JSU3WsVkz7OCz4wU9HDxM"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "BOCCHI COQUETA",
+        "url": "https://open.spotify.com/album/60pfs2x2YbuWMWJ3ytaRvh"
+      },
+      "artists": [
+        {
+          "name": "Gottimusic",
+          "url": "https://open.spotify.com/artist/53K7fu5UhpAE1KLH3BJ2Bi"
+        }
+      ],
+      "duration_ms": 233337,
+      "name": "BOCCHI COQUETA",
+      "url": "https://open.spotify.com/track/3HUj7zDrFvIbQPKxLwPaw5"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "Predador de Perereca",
         "url": "https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM"
@@ -489,63 +573,79 @@
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "Wish (Audiomack Trap Symphony Version)",
-        "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
+        "name": "MONTAGEM RUGADA",
+        "url": "https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "cape",
+          "url": "https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "Wish - Audiomack Trap Symphony Version",
-      "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "EYES CLOSED (with ZAYN)",
-        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+          "name": "JXNDRO",
+          "url": "https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q"
         },
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
         }
       ],
-      "duration_ms": 181375,
-      "name": "EYES CLOSED (with ZAYN)",
-      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
+      "duration_ms": 92384,
+      "name": "MONTAGEM RUGADA",
+      "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "Amor A\u00f1ejo",
-        "url": "https://open.spotify.com/album/2e5Z7QkzHt9LmRowq9x5w4"
+        "name": "Que Se Pudra el Amor",
+        "url": "https://open.spotify.com/album/75pGgiu3GaLCxZZXlbNrWO"
       },
       "artists": [
         {
-          "name": "Turromantikos",
-          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
         }
       ],
-      "duration_ms": 200583,
-      "name": "Amor A\u00f1ejo",
-      "url": "https://open.spotify.com/track/6BlQL6XVZeluRBAPgcML3Z"
+      "duration_ms": 202500,
+      "name": "Que Se Pudra el Amor",
+      "url": "https://open.spotify.com/track/1g3IlVAidIQOX6S1pl4W99"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/74HNHfB066STy568ETJsPl"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "duration_ms": 113230,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "BOOEEE",
         "url": "https://open.spotify.com/album/1tI9Dw2LF6n2Dd1PCTkc8p"
@@ -573,63 +673,63 @@
       "url": "https://open.spotify.com/track/7cVYjeUYgWD2NmIlQ4S4hh"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "BOCCHI COQUETA",
-        "url": "https://open.spotify.com/album/60pfs2x2YbuWMWJ3ytaRvh"
+        "name": "Wish (Audiomack Trap Symphony Version)",
+        "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
       },
       "artists": [
         {
-          "name": "Gottimusic",
-          "url": "https://open.spotify.com/artist/53K7fu5UhpAE1KLH3BJ2Bi"
-        }
-      ],
-      "duration_ms": 233337,
-      "name": "BOCCHI COQUETA",
-      "url": "https://open.spotify.com/track/3HUj7zDrFvIbQPKxLwPaw5"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "MONTAGEM RUGADA",
-        "url": "https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n"
-      },
-      "artists": [
-        {
-          "name": "cape",
-          "url": "https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "name": "JXNDRO",
-          "url": "https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q"
-        },
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 92384,
-      "name": "MONTAGEM RUGADA",
-      "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
+      "duration_ms": 180604,
+      "name": "Wish - Audiomack Trap Symphony Version",
+      "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "JANE DOE",
+        "url": "https://open.spotify.com/album/381FouVeKunSg1WZTnmryL"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "JANE DOE",
+      "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -665,75 +765,39 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "The Original Monster Mash",
-        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
       },
       "artists": [
         {
-          "name": "Bobby \"Boris\" Pickett",
-          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
-        },
-        {
-          "name": "The Crypt-Kickers",
-          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         }
       ],
-      "duration_ms": 192040,
-      "name": "Monster Mash",
-      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "La Vida Era M\u00e1s Corta",
-        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
       },
       "artists": [
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
         }
       ],
-      "duration_ms": 167173,
-      "name": "Solifican12",
-      "url": "https://open.spotify.com/track/4fDmgQfKMY7GcAwp2nNoQ0"
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "Babylon Club",
-        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "Noche de copas",
-        "url": "https://open.spotify.com/album/3kKNAVoXqQaPHvOMAvO63s"
-      },
-      "artists": [
-        {
-          "name": "Nueva L\u00ednea",
-          "url": "https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Noche de copas",
-      "url": "https://open.spotify.com/track/62j1s6tjt50UQ5hJmC1RCq"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "Simplemente Amor",
         "url": "https://open.spotify.com/album/0k1uFbOSnSjkxT5xcyXqta"
@@ -749,7 +813,71 @@
       "url": "https://open.spotify.com/track/0Iv4KPEczcBl3LTNFioq7X"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "Solifican12",
+      "url": "https://open.spotify.com/track/4fDmgQfKMY7GcAwp2nNoQ0"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "Your Idol (Spanish Version)",
+        "url": "https://open.spotify.com/album/1z3XWM18Z671Je9JV7NBDd"
+      },
+      "artists": [
+        {
+          "name": "Miki Martz",
+          "url": "https://open.spotify.com/artist/6eSPHaaU2yarHRXsL0p6nE"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Your Idol - Spanish Version",
+      "url": "https://open.spotify.com/track/7qtDrUJ6rZhOw9SVSZoa2w"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
+      "album": {
+        "name": "Porque Quise DELUXE",
+        "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "duration_ms": 424615,
+      "name": "So what we get drunk? - Extended Version",
+      "url": "https://open.spotify.com/track/231Crd29pPGdweClh2CoVO"
+    },
+    {
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -781,59 +909,23 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+        "name": "\u043d\u0435 \u043f\u043e\u043f\u0430\u043b\u0441\u044f",
+        "url": "https://open.spotify.com/album/0t2MpHkKuxmViKJWAjDSzd"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "dabbackwood",
+          "url": "https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy"
         }
       ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+      "duration_ms": 99102,
+      "name": "\u043d\u0435 \u043f\u043e\u043f\u0430\u043b\u0441\u044f",
+      "url": "https://open.spotify.com/track/19exeUo3RlQWbCHZnzvyZQ"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "Your Idol (Spanish Version)",
-        "url": "https://open.spotify.com/album/1z3XWM18Z671Je9JV7NBDd"
-      },
-      "artists": [
-        {
-          "name": "Miki Martz",
-          "url": "https://open.spotify.com/artist/6eSPHaaU2yarHRXsL0p6nE"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Your Idol - Spanish Version",
-      "url": "https://open.spotify.com/track/7qtDrUJ6rZhOw9SVSZoa2w"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "La Vida Era M\u00e1s Corta",
-        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Luci\u00e9rnagas",
-      "url": "https://open.spotify.com/track/2YaOGEaBCoISE521kunnyK"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
         "name": "27 Anos Nacional",
         "url": "https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW"
@@ -853,144 +945,44 @@
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "Veo Veo",
-        "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
       },
       "artists": [
         {
-          "name": "Sayuri & Sopholov",
-          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         },
         {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 171344,
-      "name": "Veo Veo",
-      "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
+      "duration_ms": 186680,
+      "name": "Luci\u00e9rnagas",
+      "url": "https://open.spotify.com/track/2YaOGEaBCoISE521kunnyK"
     },
     {
-      "added_at": "2025-10-31 14:41:36",
+      "added_at": "2025-11-01 15:54:01",
       "album": {
-        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
-        "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
+        "name": "Cuidado Que Eu Te Supero (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4y9y1fQ8mJjQf9gAYzSWlj"
       },
       "artists": [
         {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+          "name": "Breno Major",
+          "url": "https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c"
         },
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+          "name": "CESINHA",
+          "url": "https://open.spotify.com/artist/6bD0c2KboyNp2BiMQ4JhXJ"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
-      "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "BAD HAPPENING FUNK",
-        "url": "https://open.spotify.com/album/4gsBvXUpscsnEeWU73JKLq"
-      },
-      "artists": [
-        {
-          "name": "ZMAJOR",
-          "url": "https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP"
-        },
-        {
-          "name": "dearukia",
-          "url": "https://open.spotify.com/artist/58Go0vIBd2zTUGWaWdrA7m"
-        },
-        {
-          "name": "SEKIMANE",
-          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
-        },
-        {
-          "name": "zxnc",
-          "url": "https://open.spotify.com/artist/5rxkaSGyLjU9IMtHY91Hqk"
-        }
-      ],
-      "duration_ms": 164421,
-      "name": "BAD HAPPENING FUNK - Ultra Slowed",
-      "url": "https://open.spotify.com/track/2NcIxUrja0wIBlHyFL9qc5"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "Porque Quise DELUXE",
-        "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
-      },
-      "artists": [
-        {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        }
-      ],
-      "duration_ms": 424615,
-      "name": "So what we get drunk? - Extended Version",
-      "url": "https://open.spotify.com/track/231Crd29pPGdweClh2CoVO"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "TODO KE VER",
-        "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "TODO KE VER",
-      "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
-    },
-    {
-      "added_at": "2025-10-31 14:41:36",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 232458,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
+      "duration_ms": 185910,
+      "name": "Cuidado Que Eu Te Supero - Ao Vivo",
+      "url": "https://open.spotify.com/track/3xOJHqZ0dCNWacmcLyyONz"
     }
   ],
   "unique_name": "Viral 50 - Bolivia",

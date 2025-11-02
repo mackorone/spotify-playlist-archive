@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0WROHrBJtziRF6ng68lUHx.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 9 songs - 28 min 35 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 10 songs - 33 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,5 +17,6 @@ pretty - [cumulative](/playlists/cumulative/0WROHrBJtziRF6ng68lUHx.md) - [plain]
 | 7 | [Prisencolinensinainciusol](https://open.spotify.com/track/5JetV93PpZhcHhX7utmzOr) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Adrian](https://open.spotify.com/album/6v2w4UvQ2jEWx4x5XDhqec) | 3:51 |
 | 8 | [Got Getting up so Down](https://open.spotify.com/track/06zGtm8OvBntApXIq2IugR) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Phone Power](https://open.spotify.com/album/645yGpkh3TEcrsnKlIiU5k) | 1:41 |
 | 9 | [I Don't Remember](https://open.spotify.com/track/6m3yuXdLzDTgwJ1y1VnNaH) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 3: Melt \(Remastered Version\)](https://open.spotify.com/album/0LF0vWmmKRVPXoikpNkO5W) | 4:42 |
+| 10 | [Puppet Loosely Strung](https://open.spotify.com/track/54zjAmM6zJoW8X0t8brP7u) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Puppet Loosely Strung](https://open.spotify.com/album/7BxQVuQpjIgdJj8pkzq2ix) | 5:14 |
 
-Snapshot ID: `AAAADVE73a8tHpmQ5hM5m/uK9mppWPyV`
+Snapshot ID: `AAAADgwg7V+CwPl+Yri0yZKc/6+WRk65`

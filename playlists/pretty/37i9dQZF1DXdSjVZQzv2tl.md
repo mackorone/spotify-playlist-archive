@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Diego & Arnaldo, Zé Neto & Cristiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,029,202 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,030,229 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
 | 50 | [Não, Mas Quase \- Ao Vivo](https://open.spotify.com/track/0lTCXzpd3WL5FsPsrO2W4W) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Memórias \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1VpjNIveluI9560oRm8oYA) | 2:49 |
 
-Snapshot ID: `AAAAABlALbj8gpd2mwIxsw8onlkG91VO`
+Snapshot ID: `AAAAAKU2e4DTaXsSpo2uSg/miaXeTbxR`

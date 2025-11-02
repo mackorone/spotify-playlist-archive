@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26124,
+  "num_followers": 26125,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABkSuWTEXf/sEM735j6EgVi8HmCEZOP",
+  "snapshot_id": "AABkTW+4jHNWHhWoj/JjC/HklEqjPaVF",
   "tracks": [
     {
       "added_at": "2025-10-31 12:53:47",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/3PzUFEi6vu6fbCGNB7Chds"
     },
     {
+      "added_at": "2025-11-01 16:05:50",
+      "album": {
+        "name": "Fly Guy",
+        "url": "https://open.spotify.com/album/4p016fxZM29aRrmuTLH0gY"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "duration_ms": 161793,
+      "name": "Fly Guy",
+      "url": "https://open.spotify.com/track/6qcUhOUoo4VBHWFwSNZIyf"
+    },
+    {
       "added_at": "2025-10-31 12:53:47",
       "album": {
         "name": "Wonderwall",
@@ -509,6 +525,38 @@
       "url": "https://open.spotify.com/track/2xt1mkPxnx0xVDF0Bz927q"
     },
     {
+      "added_at": "2025-11-01 16:06:52",
+      "album": {
+        "name": "Tokyo Love Motel",
+        "url": "https://open.spotify.com/album/1Mh98PWHC8z5GLhfNDrFJx"
+      },
+      "artists": [
+        {
+          "name": "Chimera",
+          "url": "https://open.spotify.com/artist/7nq8rXtZd1NmoSIL5XMjVC"
+        }
+      ],
+      "duration_ms": 203340,
+      "name": "Tokyo Love Motel",
+      "url": "https://open.spotify.com/track/27GakZgbDpAddkQnZlaqAZ"
+    },
+    {
+      "added_at": "2025-11-01 16:06:50",
+      "album": {
+        "name": "More Free",
+        "url": "https://open.spotify.com/album/3TPtysoPFPYbkp1rOmJYRn"
+      },
+      "artists": [
+        {
+          "name": "sokotora",
+          "url": "https://open.spotify.com/artist/4Gob4Xrf5xOkEjA7WBRt0m"
+        }
+      ],
+      "duration_ms": 211127,
+      "name": "More Free",
+      "url": "https://open.spotify.com/track/2eUvWfTS6jQNfYPaWuut2I"
+    },
+    {
       "added_at": "2025-10-31 12:53:47",
       "album": {
         "name": "Higher",
@@ -587,7 +635,7 @@
     {
       "added_at": "2025-10-31 12:53:47",
       "album": {
-        "name": "Mimosa (Now And Forever)",
+        "name": "Mimosa (Now And Forever) (feat. Nyasia)",
         "url": "https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm"
       },
       "artists": [
@@ -598,10 +646,14 @@
         {
           "name": "DENNIS",
           "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Nyasia",
+          "url": "https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW"
         }
       ],
       "duration_ms": 117400,
-      "name": "Mimosa (Now And Forever)",
+      "name": "Mimosa (Now And Forever) (feat. Nyasia)",
       "url": "https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO"
     },
     {

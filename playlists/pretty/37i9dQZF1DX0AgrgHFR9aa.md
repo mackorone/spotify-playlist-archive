@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Rim'K
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,815 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,828 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 39 | [Quand même pas mal](https://open.spotify.com/track/55Z7dmOShrgAJSnLZVJiry) | [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [Motus](https://open.spotify.com/artist/3zHmPIAHdRLRClqj43YQ3k), [STI](https://open.spotify.com/artist/4XWx64t3h7r28YLQ89xpXI) | [Quand même pas mal](https://open.spotify.com/album/0vukWAaHo7mMQJxdBdVjKy) | 2:26 |
 | 40 | [&\. Avant De Partir](https://open.spotify.com/track/1HuZ15lpeRfFNekhaYaJHz) | [Oumar](https://open.spotify.com/artist/6fCKkZJmKHxmlr8mkIj5vJ), [Madizm](https://open.spotify.com/artist/2GoFhPq0tLBQaFm0dZyHYj) | [&\. Avant De Partir](https://open.spotify.com/album/57bwO9bYsfOtj58bnX8gg2) | 2:06 |
 
-Snapshot ID: `AAAAAMrDkwRdObNZg2qPUxmnWvSQAxdm`
+Snapshot ID: `AAAAAKuGrzsQTdUHB3cEQUA7Wi5F/rZD`

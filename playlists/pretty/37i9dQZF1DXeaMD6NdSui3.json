@@ -1,6 +1,6 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 169440,
+  "num_followers": 169505,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Texas Sugar Strat Magik",
-        "url": "https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "My Way Down",
-      "url": "https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Catch Up With The Blues",
         "url": "https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 394333,
       "name": "Rolling With The Punches",
       "url": "https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Texas Sugar Strat Magik",
+        "url": "https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "My Way Down",
+      "url": "https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J"
     },
     {
       "added_at": "2016-03-18 21:56:19",

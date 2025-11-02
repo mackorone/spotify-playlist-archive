@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Julie Bergan & Ruben, Chris Holsten og Søte & Rare og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,463 likes - 98 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,472 likes - 98 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 37 | [Gråter du](https://open.spotify.com/track/4TyeERRXlO86mZuxDzsRK9) | [Jim Bergsted](https://open.spotify.com/artist/34nByyqhygvHLt7p8RIFFI), [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Gråter du](https://open.spotify.com/album/5VV0HKvJJBogyd979EVQGg) | 2:13 |
 | 38 | [Geahča Hearráid](https://open.spotify.com/track/3ilL8WYwGV95XFJHreswTt) | [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7) | [Varra](https://open.spotify.com/album/0PgV1YUdMDQsApmxXe3txK) | 2:51 |
 | 39 | [Julie](https://open.spotify.com/track/2oJLOT3vHyGQDfjdsIF9HJ) | [Gus Polden](https://open.spotify.com/artist/15QTc3ayMvGd8oCST7SOL6) | [Julie](https://open.spotify.com/album/7guWXol4Z3U9ns92Vwv1ZT) | 2:22 |
-| 40 | [Lies](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [Lies](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
+| 40 | [LIES](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [LIES](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
 | 41 | [Sorg City](https://open.spotify.com/track/6ambzVxiubm1aaGnQ9safD) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Sorg City](https://open.spotify.com/album/2kBeAmYdk5ZpVqdJzw9oHz) | 3:10 |
 | 42 | [Du Vet Jeg Liker \(Ali G’s\)](https://open.spotify.com/track/5P6gZswmKxIoPgIIj0hWCB) | [KANSELLERT](https://open.spotify.com/artist/3R1yZ8cIqiJC8mUAFQFy2z) | [Du Vet Jeg Liker \(Ali G’s\)](https://open.spotify.com/album/7oMa7JVOX2F89aGkylkIFp) | 2:42 |
 | 43 | [Wrong](https://open.spotify.com/track/43sMxCCuNs2swri9wmmQSe) | [rxxmer](https://open.spotify.com/artist/1E5EhZVxQ6IuMO68eh2j91) | [Wrong](https://open.spotify.com/album/6w6Mv3m6A6w4xU1q2VwnQ9) | 3:34 |

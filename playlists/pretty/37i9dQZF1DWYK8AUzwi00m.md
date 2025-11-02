@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,524 likes - 100 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,590 likes - 100 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 99 | [Santa Vibe](https://open.spotify.com/track/6sMQOPi6P05lI8RgnczToj) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 2:17 |
 | 100 | [December](https://open.spotify.com/track/17xn1pufA0IlyxxdDZ6cSu) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [December](https://open.spotify.com/album/5VfRCAnMEbgyvxWc3RuDnI) | 3:00 |
 
-Snapshot ID: `AAAAAGMscdfh1RyVNrAdMYsPTpPQch3S`
+Snapshot ID: `AAAAAPTh5pUVwuJhEpg0atItFBYLHPR+`

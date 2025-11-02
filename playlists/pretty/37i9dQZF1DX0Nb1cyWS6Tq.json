@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 929173,
+  "num_followers": 929432,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -331,8 +331,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
         }
       ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
+      "duration_ms": 488011,
+      "name": "Temple of Love - 1992",
+      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -411,8 +411,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
         }
       ],
-      "duration_ms": 488011,
-      "name": "Temple of Love - 1992",
-      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
-      },
-      "artists": [
-        {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Romeo's Distress - 1",
-      "url": "https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm"
-    },
-    {
       "added_at": "2025-01-09 23:56:12",
       "album": {
         "name": "Lesbian Vampyres From Outer Space",
@@ -663,6 +647,22 @@
       "duration_ms": 212680,
       "name": "Lesbian Vampyres From Outer Space",
       "url": "https://open.spotify.com/track/3lDZlK0YCWCIkI4y9OVboy"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Romeo's Distress - 1",
+      "url": "https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g"
     },
     {
-      "added_at": "2023-01-24 21:00:19",
-      "album": {
-        "name": "Shattered",
-        "url": "https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT"
-      },
-      "artists": [
-        {
-          "name": "Glass Spells",
-          "url": "https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Thrills",
-      "url": "https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "The Gothic Sounds Of Nightbreed Volumes One & Two",
@@ -1031,6 +1015,22 @@
       "duration_ms": 278413,
       "name": "Allegedly, Dancefloor Tragedy",
       "url": "https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B"
+    },
+    {
+      "added_at": "2023-01-24 21:00:19",
+      "album": {
+        "name": "Shattered",
+        "url": "https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT"
+      },
+      "artists": [
+        {
+          "name": "Glass Spells",
+          "url": "https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Thrills",
+      "url": "https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Greatest Hits, Remixes & More",
-        "url": "https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl"
-      },
-      "artists": [
-        {
-          "name": "Gene Loves Jezebel",
-          "url": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 180107,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/3wnntc87QqNIh12CUsuqzq"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Greatest Hits, Remixes & More",
+        "url": "https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl"
+      },
+      "artists": [
+        {
+          "name": "Gene Loves Jezebel",
+          "url": "https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "All About Eve",
-        "url": "https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki"
-      },
-      "artists": [
-        {
-          "name": "All About Eve",
-          "url": "https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Flowers In Our Hair",
-      "url": "https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S"
-    },
-    {
       "added_at": "2022-08-09 01:37:48",
       "album": {
         "name": "Lonely Is An Eyesore",
@@ -1271,6 +1255,22 @@
       "duration_ms": 243066,
       "name": "Muscoviet Mosquito",
       "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "All About Eve",
+        "url": "https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki"
+      },
+      "artists": [
+        {
+          "name": "All About Eve",
+          "url": "https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Flowers In Our Hair",
+      "url": "https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S"
     },
     {
       "added_at": "2021-10-15 04:04:50",

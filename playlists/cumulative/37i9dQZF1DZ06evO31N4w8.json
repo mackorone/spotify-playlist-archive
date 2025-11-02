@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/6or7izl19tyEtlIaiSJdjT"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195794,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/5U3A4CgDBg6r6d0spYwOWU"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 202573,
       "name": "Las Rejas No Matan",
       "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"

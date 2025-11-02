@@ -4,12 +4,13 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-789 songs - 1 day 22 hr 23 min
+791 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Not\) a Penny in My Pocket \- Demo Version](https://open.spotify.com/track/4svDzNF6PuBs2ojcE8sS1f) | [Jimmy Campbell](https://open.spotify.com/artist/1lvD6UZjY7oyb02YqG1eNC) | [Troubadour \(Lost Recordings 1965\-1991\)](https://open.spotify.com/album/1DkMIFEEetXsDc4Ao0X1Fc) | 2:34 | 2024-05-16 | 2024-07-12 |
 | [\(Where Is The\) Sunshine \- Pt\. II](https://open.spotify.com/track/7Bf6KQF7Q0XWUQQ96UYVOK) | [Kalima](https://open.spotify.com/artist/4VQTPWMyCUIvu941rs2Srs) | [\(Where Is The\) Sunshine](https://open.spotify.com/album/6wxxcaRmLRD1rS9E4LE4Ib) | 3:37 | 2025-04-29 | 2025-07-04 |
+| [100 years of Bill & Lil](https://open.spotify.com/track/14S4p6XIlsHNJdiz8Ptws7) | [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Hamstrings & Hurricanes](https://open.spotify.com/album/1tXqXb6NGntGK4OfOc6j5o) | 3:35 | 2025-11-01 |  |
 | [2%](https://open.spotify.com/track/4eeZ6F1bZ0lf0r8Tn7oUBP) | [Bomis Prendin](https://open.spotify.com/artist/4BSnddAYCEOkNJfeFNbEm2) | [TEST](https://open.spotify.com/album/2BekZZiaquGSF66wpM4fWq) | 2:22 | 2025-07-09 | 2025-09-11 |
 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 | 2025-06-16 | 2025-07-04 |
 | [21 insecurities](https://open.spotify.com/track/7dVmclFw8bSqjBfwZANhFp) | [500](https://open.spotify.com/artist/1KN20bvE2G6dx9A0bUQayu) | [21 insecurities](https://open.spotify.com/album/5K7mmZFVJciov84zg1Ovsl) | 3:05 | 2025-10-08 |  |
@@ -792,6 +793,7 @@
 | [Yr Broom](https://open.spotify.com/track/7vtvaC8cBykfsBGoSfUB7N) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 1:37 | 2024-08-05 | 2024-09-08 |
 | [Água](https://open.spotify.com/track/29ZUFEjGpprL595i3JEF50) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:39 | 2024-07-12 | 2024-09-08 |
 | [É Natural](https://open.spotify.com/track/6CoARmWYgVOTZnoTdfOmmo) | [Negritude Junior](https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F) | [Bis \- Negritude Junior](https://open.spotify.com/album/1ul1Zz4eU1q33YI9uev8jM) | 3:28 | 2025-03-01 | 2025-05-09 |
+| [ចាំនៅតែចាំ](https://open.spotify.com/track/5gqEV0HG9wakmVPB3GORGU) | [Ros Serey Sothea](https://open.spotify.com/artist/6aBWAoJJ2F6HD6mTr2aLZ0) | [តើថ្ងៃណាទៅវិលវិញ?\. នឹកអើយសែននឹក](https://open.spotify.com/album/0P3YI4mCXyqATNfAq5Tuhr) | 3:37 | 2025-11-01 |  |
 | [あなたから遠くへ](https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [み空](https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9) | 3:29 | 2024-09-18 | 2024-11-14 |
 | [アン・オープン・ドア](https://open.spotify.com/track/1DrPpgiTvuogt6Ktxsag4h) | [FLat7](https://open.spotify.com/artist/6qWQ49hbX08ZLyRABxaasl) | [スウィート・グロウ・オブ・サイレンス](https://open.spotify.com/album/21AVBPMluy9ZI8SkMWC4Ar) | 4:43 | 2024-10-27 | 2024-11-14 |
 | [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 | 2025-07-27 | 2025-09-11 |

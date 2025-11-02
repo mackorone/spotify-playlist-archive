@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,266 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,269 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 78 | [Close my eyes \(feat\. さらさ\)](https://open.spotify.com/track/1J1OxxnwWDznjVujXx92VR) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 3:39 |
 | 79 | [トワノヒカリ](https://open.spotify.com/track/6GjFISb3zFvOj1lVuJvTHV) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [トワノヒカリ](https://open.spotify.com/album/7lbB1I7WMG6yHADBJ5RiTM) | 4:02 |
 
-Snapshot ID: `AAAAAPer8yITiCMqz6zCZFSO36Jt24S3`
+Snapshot ID: `AAAAAJKiwfKF2taMbs9g5I4ZaMWmcoKW`

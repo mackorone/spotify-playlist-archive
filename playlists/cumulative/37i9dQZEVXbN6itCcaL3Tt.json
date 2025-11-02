@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 222620,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/7ztpISTetVPoca640QDqZn"
@@ -17063,6 +17063,28 @@
     },
     {
       "album": {
+        "name": "Genera\u0142",
+        "url": "https://open.spotify.com/album/1GqNXK7ZG4tKCWem9isOCt"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162171,
+      "name": "Genera\u0142",
+      "url": "https://open.spotify.com/track/6uh2Q3k0s7KbwhhaRDzXjt"
+    },
+    {
+      "album": {
         "name": "Genziara",
         "url": "https://open.spotify.com/album/30VNP3Hclj06YduVMnjPP7"
       },
@@ -17110,7 +17132,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 239133,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -21220,7 +21242,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 149610,
       "name": "Jak Ta LALA",
       "url": "https://open.spotify.com/track/2hxsJgLmm4sfb6Mg4RjH6x"
@@ -22678,7 +22700,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -23152,7 +23174,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 157826,
       "name": "Kawior",
       "url": "https://open.spotify.com/track/7kpnBYCWd5ZODKjfGN4cNR"
@@ -24250,7 +24272,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 152386,
       "name": "KOCHASZ?",
       "url": "https://open.spotify.com/track/2XjSsK9NKNcojJwzmLdIWG"
@@ -25060,7 +25082,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 165483,
       "name": "Kulig",
       "url": "https://open.spotify.com/track/4vhYckF7yzomDdqoHb3dIl"
@@ -27102,7 +27124,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 157575,
       "name": "Luty",
       "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
@@ -28594,7 +28616,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 177746,
       "name": "Memento",
       "url": "https://open.spotify.com/track/66H9t7eN1zb2wHdwd9V124"
@@ -34370,7 +34392,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 142135,
       "name": "O P\u00d3\u0141NOCY",
       "url": "https://open.spotify.com/track/2QRaWwxAQ5C38Zu4udkum0"
@@ -34844,6 +34866,28 @@
       "duration_ms": 183829,
       "name": "Odleg\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/1gLe6xCN3sYsa3DTuFQSI1"
+    },
+    {
+      "album": {
+        "name": "Muzyka Popularna",
+        "url": "https://open.spotify.com/album/4gkNKj0RfEpaiT7D9tAvEU"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Odleg\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/6ESyoWANaiQ6jkq5WyRmC2"
     },
     {
       "album": {
@@ -38375,6 +38419,40 @@
     },
     {
       "album": {
+        "name": "Muzyka Popularna",
+        "url": "https://open.spotify.com/album/4gkNKj0RfEpaiT7D9tAvEU"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "Frenkie G",
+          "url": "https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192134,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/0TfBoSPyJlGOGYtFXeGQnH"
+    },
+    {
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh"
       },
@@ -38402,7 +38480,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 192134,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2S6sxBlNqbxjsGMcSV8wqT"
@@ -39850,6 +39928,32 @@
       "duration_ms": 162909,
       "name": "Presja",
       "url": "https://open.spotify.com/track/0PuVrwiEl5uWqpOQQ5KFAq"
+    },
+    {
+      "album": {
+        "name": "Muzyka Popularna",
+        "url": "https://open.spotify.com/album/4gkNKj0RfEpaiT7D9tAvEU"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Micha\u0142 Lange",
+          "url": "https://open.spotify.com/artist/5sh77l01GDJ6JfCWs1CiiB"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253162,
+      "name": "Presja \u015brodowiska",
+      "url": "https://open.spotify.com/track/23ZcklE7HcPXMwrut4jdG1"
     },
     {
       "album": {
@@ -46044,7 +46148,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -52164,7 +52268,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -54726,7 +54830,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 152853,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2WFSy9WBAdKH8RnwL5deH2"

@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 664406,
+  "num_followers": 664452,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAABV2pkQMA/tCLeqEzpOhZrD",
+  "snapshot_id": "aQP8AAAAAAC1eJ6Vdh9hYs9GBYblRsYZ",
   "tracks": [
     {
       "added_at": null,
@@ -18,11 +18,15 @@
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
         }
       ],
-      "duration_ms": 156478,
-      "name": "Napoleon",
-      "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
+      "duration_ms": 223951,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W"
     },
     {
       "added_at": null,
@@ -75,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "Napoleon",
+      "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing Me a Lullaby, My Sweet Temptation",
         "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
       },
@@ -107,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THY KINGDOM COME",
-        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 137601,
-      "name": "Monochromatic",
-      "url": "https://open.spotify.com/track/6dIIwvSCxyixY2y9vJmyVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$outh $ide $uicide",
         "url": "https://open.spotify.com/album/1p8YahLiju8skFYWBJTEOl"
       },
@@ -143,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Last Time",
-        "url": "https://open.spotify.com/album/4CcyRnFW6Vgf372ca3xFGR"
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
       },
       "artists": [
         {
@@ -152,9 +156,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 156081,
-      "name": "For the Last Time",
-      "url": "https://open.spotify.com/track/240audWazVjwvwh7XwfSZE"
+      "duration_ms": 137601,
+      "name": "Monochromatic",
+      "url": "https://open.spotify.com/track/6dIIwvSCxyixY2y9vJmyVg"
     },
     {
       "added_at": null,
@@ -175,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THY KINGDOM COME",
-        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 159590,
-      "name": "Oh, What a Wretched Man I Am!",
-      "url": "https://open.spotify.com/track/6LCGD2bl7itBHHayQ4ltPc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Staring At the Shadows",
         "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
@@ -207,6 +195,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "For the Last Time",
+        "url": "https://open.spotify.com/album/4CcyRnFW6Vgf372ca3xFGR"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "For the Last Time",
+      "url": "https://open.spotify.com/track/240audWazVjwvwh7XwfSZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 159590,
+      "name": "Oh, What a Wretched Man I Am!",
+      "url": "https://open.spotify.com/track/6LCGD2bl7itBHHayQ4ltPc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I No Longer Fear the Razor Guarding My Heel (II)",
         "url": "https://open.spotify.com/album/4mPlRdH5ZL0BppctJqjVoR"
       },
@@ -219,6 +239,22 @@
       "duration_ms": 152136,
       "name": "CLYDE (I Hope at Least One of My Ex-Girlfriends Hears This)",
       "url": "https://open.spotify.com/track/59aL2q2UPYJkgLTSv0WTlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 238145,
+      "name": "Matte Black",
+      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
     },
     {
       "added_at": null,
@@ -255,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 238145,
-      "name": "Matte Black",
-      "url": "https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now the Moon's Rising",
         "url": "https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK"
       },
@@ -303,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THY KINGDOM COME",
-        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 248300,
-      "name": "COUNT YOUR BLESSINGS",
-      "url": "https://open.spotify.com/track/0YmcHurKqkzDQeHB8zuzk0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I No Longer Fear The Razor Guarding My Heel (V)",
         "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
       },
@@ -331,6 +335,22 @@
       "duration_ms": 180774,
       "name": "Not Even Ghosts Are This Empty",
       "url": "https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 248300,
+      "name": "COUNT YOUR BLESSINGS",
+      "url": "https://open.spotify.com/track/0YmcHurKqkzDQeHB8zuzk0"
     },
     {
       "added_at": null,
@@ -363,26 +383,6 @@
       "duration_ms": 113972,
       "name": "Kill Yourself (Part IV)",
       "url": "https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THY KINGDOM COME",
-        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 254734,
-      "name": "Now and at the Hour of Our Death (feat. BONES)",
-      "url": "https://open.spotify.com/track/2KrpmVncX2Ht0Lw8zqpVaT"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 106971,
+      "name": "Putrid Pride",
+      "url": "https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meet Me Where the River Turns Grey",
         "url": "https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 185725,
       "name": "Sarcophagus II",
       "url": "https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 106971,
-      "name": "Putrid Pride",
-      "url": "https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
+        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 133746,
-      "name": "LTE",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
+      "duration_ms": 133920,
+      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
+      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 133920,
-      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
-      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
+      "duration_ms": 133746,
+      "name": "LTE",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wFpryhQvJZ.md) - [plain]
 
 > Icon and mother Oklou shares her birth playlist\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,038 likes - 26 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,054 likes - 26 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

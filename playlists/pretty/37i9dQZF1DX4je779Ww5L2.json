@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191913,
+  "num_followers": 191904,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2025-10-28 07:48:04",
       "album": {
-        "name": "Blurrr",
-        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
-      },
-      "artists": [
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
-        },
-        {
-          "name": "Oliver Coates",
-          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
-        }
-      ],
-      "duration_ms": 195999,
-      "name": "Gown",
-      "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
-    },
-    {
-      "added_at": "2025-10-28 07:48:04",
-      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
+    },
+    {
+      "added_at": "2025-10-28 07:48:04",
+      "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Gown",
+      "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
     },
     {
       "added_at": "2025-10-28 07:48:04",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-10-28 07:48:04",
       "album": {
-        "name": "Leap Year",
-        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
-    },
-    {
-      "added_at": "2025-10-28 07:48:04",
-      "album": {
         "name": "Trigger",
         "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 203615,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
+    },
+    {
+      "added_at": "2025-10-28 07:48:04",
+      "album": {
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
     },
     {
       "added_at": "2025-10-28 07:48:04",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-10-28 07:48:04",
       "album": {
-        "name": "Truce (Acoustic)",
-        "url": "https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 222983,
-      "name": "Truce - Acoustic",
-      "url": "https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t"
-    },
-    {
-      "added_at": "2025-10-28 07:48:04",
-      "album": {
         "name": "Biotope",
         "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 168000,
       "name": "Biotope",
       "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
+    },
+    {
+      "added_at": "2025-10-28 07:48:04",
+      "album": {
+        "name": "Truce (Acoustic)",
+        "url": "https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 222983,
+      "name": "Truce - Acoustic",
+      "url": "https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t"
     },
     {
       "added_at": "2025-10-28 07:48:04",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-10-28 07:48:04",
       "album": {
+        "name": "Cold Comfort",
+        "url": "https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 164970,
+      "name": "Cold Comfort",
+      "url": "https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6"
+    },
+    {
+      "added_at": "2025-10-28 07:48:04",
+      "album": {
         "name": "Waving",
         "url": "https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 253919,
       "name": "Waving",
       "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
-    },
-    {
-      "added_at": "2025-10-28 07:48:04",
-      "album": {
-        "name": "Cold Comfort",
-        "url": "https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 164970,
-      "name": "Cold Comfort",
-      "url": "https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6"
     },
     {
       "added_at": "2025-10-28 07:48:04",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-10-28 07:48:04",
       "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 153164,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
-    },
-    {
-      "added_at": "2025-10-28 07:48:04",
-      "album": {
         "name": "Wolves EP",
         "url": "https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 146786,
       "name": "Birds Of Paradise",
       "url": "https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj"
+    },
+    {
+      "added_at": "2025-10-28 07:48:04",
+      "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 153164,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
     },
     {
       "added_at": "2025-10-28 07:48:04",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-10-28 07:48:04",
       "album": {
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
+    },
+    {
+      "added_at": "2025-10-28 07:48:04",
+      "album": {
         "name": "no difference (ft. LUWTEN)",
         "url": "https://open.spotify.com/album/7jJs8iE9q1ENo3fCmYdjq1"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 246773,
       "name": "no difference (ft. LUWTEN)",
       "url": "https://open.spotify.com/track/3Pve3DY4yQ2CxXdaESmSZ2"
-    },
-    {
-      "added_at": "2025-10-28 07:48:04",
-      "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
     },
     {
       "added_at": "2025-10-28 07:48:04",

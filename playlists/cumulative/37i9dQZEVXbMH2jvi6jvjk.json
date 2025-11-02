@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Front Seat",
+        "url": "https://open.spotify.com/album/5Rpi5sWNizjWzy54tjsbns"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280293,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/5TKEbAL8riK6lOxwD9JE7O"
+    },
+    {
+      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 317675,
       "name": "Abasemzini",
       "url": "https://open.spotify.com/track/0CJJt0J9SOscYKzETJ0p4d"
@@ -6758,6 +6776,32 @@
       "duration_ms": 407018,
       "name": "Bhampa",
       "url": "https://open.spotify.com/track/1WNbXkIVNxBM8wEeZnHcun"
+    },
+    {
+      "album": {
+        "name": "Baby Boy V",
+        "url": "https://open.spotify.com/album/6gUGLDGVm1BhSQNf00MvPx"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407936,
+      "name": "Bhampa",
+      "url": "https://open.spotify.com/track/7G14szC3tfEvsLGcsEGhkU"
     },
     {
       "album": {
@@ -16464,7 +16508,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -16960,6 +17004,24 @@
       "duration_ms": 189306,
       "name": "From The Garden (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/3Dah4SWoWwekrG4GShaHVP"
+    },
+    {
+      "album": {
+        "name": "Front Seat",
+        "url": "https://open.spotify.com/album/5Rpi5sWNizjWzy54tjsbns"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269871,
+      "name": "Front Seat",
+      "url": "https://open.spotify.com/track/7nQPoDPqtiorn1WuP9Ge6E"
     },
     {
       "album": {
@@ -18304,7 +18366,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -23502,7 +23564,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
@@ -29898,7 +29960,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 442691,
       "name": "Mabebuza - Mdu aka TRP Remix",
       "url": "https://open.spotify.com/track/15goPz747cpNjWQP2sjo2D"
@@ -30568,7 +30630,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 208141,
       "name": "MAMA'S BABY",
       "url": "https://open.spotify.com/track/3gj5n9r1e3n7SackOwzHsx"
@@ -34548,7 +34610,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 324737,
       "name": "Ngakthanda wena",
       "url": "https://open.spotify.com/track/3OgQCU1Vd0B3stq44ys3GE"
@@ -40466,7 +40528,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -43964,7 +44026,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 205400,
       "name": "Sigade Umzila",
       "url": "https://open.spotify.com/track/5tIt860TkOItU0BRafiyzd"
@@ -48748,7 +48810,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -51562,7 +51624,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 294008,
       "name": "Ubambo lwami",
       "url": "https://open.spotify.com/track/7lqlmV3prYYMQvyswraACT"
@@ -52236,7 +52298,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 222119,
       "name": "Umathandana wami",
       "url": "https://open.spotify.com/track/4IaV07VGtEvTzwMe85IzRi"
@@ -52374,6 +52436,24 @@
       "duration_ms": 620721,
       "name": "Umdali (feat. Mthunzi, PHILA DLOZI & SYKES)",
       "url": "https://open.spotify.com/track/3ImZpVeXdf50zBARabc0XK"
+    },
+    {
+      "album": {
+        "name": "Front Seat",
+        "url": "https://open.spotify.com/album/5Rpi5sWNizjWzy54tjsbns"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293773,
+      "name": "Umhobholo",
+      "url": "https://open.spotify.com/track/0Cyxm6WuZ3PBXMQm3yZt8G"
     },
     {
       "album": {
@@ -53302,7 +53382,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 239259,
       "name": "Ushwebile (feat. Mjolisi)",
       "url": "https://open.spotify.com/track/7xhd84IlV2WBbsOnQukuoh"
@@ -55456,7 +55536,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 312293,
       "name": "Wayengenalutho",
       "url": "https://open.spotify.com/track/6VBfzBgHu8tFeeg2ZQO4gH"
@@ -56474,7 +56554,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
@@ -57216,6 +57296,28 @@
       "duration_ms": 150517,
       "name": "Wood",
       "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"
+    },
+    {
+      "album": {
+        "name": "Front Seat",
+        "url": "https://open.spotify.com/album/5Rpi5sWNizjWzy54tjsbns"
+      },
+      "artists": [
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        },
+        {
+          "name": "Mpumpu and Friends",
+          "url": "https://open.spotify.com/artist/6B81AiVusxWP24iUJpHQNN"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267520,
+      "name": "Woolies",
+      "url": "https://open.spotify.com/track/03WhPpGHQOnAxdaMuZFBL0"
     },
     {
       "album": {

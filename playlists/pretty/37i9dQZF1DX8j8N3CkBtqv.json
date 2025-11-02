@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Shashwat Bulusu, Piyush Ambhore and other exciting artists.\n",
-  "num_followers": 98813,
+  "num_followers": 98815,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "DHA",
-        "url": "https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N"
-      },
-      "artists": [
-        {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "DHA",
-      "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 169646,
       "name": "Promises",
       "url": "https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "DHA",
+        "url": "https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "DHA",
+      "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/0QNBk6UmE2uOUNdEsGpe7R"
     },
     {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
-        "name": "Khud Ko Miloon",
-        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 242714,
-      "name": "Tu Hai Kahan",
-      "url": "https://open.spotify.com/track/2sF7bZubVf0kbuhIaHPojW"
-    },
-    {
       "added_at": "2025-10-17 00:54:13",
       "album": {
         "name": "Intezaar",
@@ -475,38 +459,18 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Sweetburn",
-        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
       },
       "artists": [
         {
-          "name": "W.i.S.H.",
-          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
         }
       ],
-      "duration_ms": 167903,
-      "name": "Ishaare",
-      "url": "https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
-        "name": "Dreamland (with Job Kurian)",
-        "url": "https://open.spotify.com/album/4rnfubshdaVkF3HfzJ0bdk"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        },
-        {
-          "name": "Job Kurian",
-          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
-        }
-      ],
-      "duration_ms": 202593,
-      "name": "Dreamland (with Job Kurian)",
-      "url": "https://open.spotify.com/track/2QpHILkZW7abDg8IoV1jjX"
+      "duration_ms": 242714,
+      "name": "Tu Hai Kahan",
+      "url": "https://open.spotify.com/track/2sF7bZubVf0kbuhIaHPojW"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -531,6 +495,42 @@
       "duration_ms": 174275,
       "name": "Achha Lagta Hai",
       "url": "https://open.spotify.com/track/6Fk9iNxw9ktkNncyb7PjwH"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "Dreamland (with Job Kurian)",
+        "url": "https://open.spotify.com/album/4rnfubshdaVkF3HfzJ0bdk"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        },
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
+        }
+      ],
+      "duration_ms": 202593,
+      "name": "Dreamland (with Job Kurian)",
+      "url": "https://open.spotify.com/track/2QpHILkZW7abDg8IoV1jjX"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "Sweetburn",
+        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Khud Ko Miloon",
-        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 213724,
-      "name": "Jee Le",
-      "url": "https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
         "name": "Adhoora",
         "url": "https://open.spotify.com/album/6KIDpkkH6CT3bNNYwbAD0G"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 184875,
       "name": "Adhoora",
       "url": "https://open.spotify.com/track/2WCVskDkODHmUpvYG8xdzl"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 213724,
+      "name": "Jee Le",
+      "url": "https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -687,26 +687,6 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "pocket friendly: volume i",
-        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
-      },
-      "artists": [
-        {
-          "name": "sudan",
-          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
-        },
-        {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "a hiatus",
-      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
         "name": "Yeh Duniya Jala Do (Glittery Cut)",
         "url": "https://open.spotify.com/album/4aiVtIs3A0VBM5mHtYfV1D"
       },
@@ -727,6 +707,22 @@
       "duration_ms": 218000,
       "name": "Yeh Duniya Jala Do (Glittery Cut)",
       "url": "https://open.spotify.com/track/4mOlo4BjwvHXae8ZoVQamA"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "Rukna Nahin Hai",
+        "url": "https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        }
+      ],
+      "duration_ms": 243298,
+      "name": "Rukna Nahin Hai",
+      "url": "https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -755,18 +751,38 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Rukna Nahin Hai",
-        "url": "https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8"
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
       },
       "artists": [
         {
-          "name": "Akash Kaushal",
-          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
         }
       ],
-      "duration_ms": 243298,
-      "name": "Rukna Nahin Hai",
-      "url": "https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a"
+      "duration_ms": 167250,
+      "name": "a hiatus",
+      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
+        "name": "Pyaar Kaafi Nahi",
+        "url": "https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "Pyaar Kaafi Nahi",
+      "url": "https://open.spotify.com/track/0emdpRC3rftireFUN9c00x"
     },
     {
       "added_at": "2025-10-10 07:59:03",
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
-        "name": "Pyaar Kaafi Nahi",
-        "url": "https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok"
-      },
-      "artists": [
-        {
-          "name": "Dream Note",
-          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "Pyaar Kaafi Nahi",
-      "url": "https://open.spotify.com/track/0emdpRC3rftireFUN9c00x"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
         "name": "Safar",
         "url": "https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 207413,
       "name": "Safar",
       "url": "https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x"
-    },
-    {
-      "added_at": "2025-10-17 00:54:13",
-      "album": {
-        "name": "Love or a Lesson",
-        "url": "https://open.spotify.com/album/6SCtFFbWiWMgbq2zJsPelB"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        }
-      ],
-      "duration_ms": 135929,
-      "name": "Love or a Lesson",
-      "url": "https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0"
     },
     {
       "added_at": "2025-10-17 00:54:13",
@@ -879,6 +863,38 @@
     {
       "added_at": "2025-10-10 07:59:03",
       "album": {
+        "name": "Sab Sahi",
+        "url": "https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sab Sahi",
+      "url": "https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T"
+    },
+    {
+      "added_at": "2025-10-17 00:54:13",
+      "album": {
+        "name": "Love or a Lesson",
+        "url": "https://open.spotify.com/album/6SCtFFbWiWMgbq2zJsPelB"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "duration_ms": 135929,
+      "name": "Love or a Lesson",
+      "url": "https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0"
+    },
+    {
+      "added_at": "2025-10-10 07:59:03",
+      "album": {
         "name": "Jaane Do Mujhe",
         "url": "https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 225416,
       "name": "Jaane Do Mujhe",
       "url": "https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4"
-    },
-    {
-      "added_at": "2025-10-10 07:59:03",
-      "album": {
-        "name": "Manmarziyaan",
-        "url": "https://open.spotify.com/album/3w5CUX5d46167fkjxLrJOD"
-      },
-      "artists": [
-        {
-          "name": "Twin Strings",
-          "url": "https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Manmarziyaan",
-      "url": "https://open.spotify.com/track/6p6uc8Y7NiWolmbbxxJDNM"
     },
     {
       "added_at": "2025-10-10 07:59:03",

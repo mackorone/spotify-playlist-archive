@@ -1,29 +1,13 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 435,
+  "num_followers": 436,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQKqgAAAAABK2pW21AJIf3IGQSpk51ei",
+  "snapshot_id": "aQP8AAAAAAD9q2qF3KbwLTGn50gF22sq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/1yDIgEYCqnXgNRfPcd2isc"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 166852,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/32Fi0ERaMduzL4QsiCenk1"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 166873,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Damn Baby",
         "url": "https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 192744,
       "name": "God Damn Baby",
       "url": "https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dive Bar Opera",
+        "url": "https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Dive Bar Opera",
+      "url": "https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb"
     },
     {
       "added_at": null,
@@ -95,22 +111,6 @@
       "duration_ms": 161060,
       "name": "Girls Just Wanna Be Famous(er)",
       "url": "https://open.spotify.com/track/55fJMUj8cAonidO8dI8fVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dive Bar Opera",
-        "url": "https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "Dive Bar Opera",
-      "url": "https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb"
     },
     {
       "added_at": null,

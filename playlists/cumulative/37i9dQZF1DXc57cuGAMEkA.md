@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Rosalía, Tyler The Creator, Ado, Eve, 幾田りら and more!
 
-11,534 songs - 26 day 19 hr 30 min
+11,535 songs - 26 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3523,6 +3523,7 @@
 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 | 2025-03-14 | 2025-03-21 |
 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-04 | 2025-09-13 |
 | [give me hack.](https://open.spotify.com/track/5TNnxcs3K8dFZT6u4xCzFW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [give me hack.](https://open.spotify.com/album/0OmVDeO71Ym4FMHHf4x2Uu) | 2:33 | 2023-10-12 | 2023-10-23 |
+| [Give Me More](https://open.spotify.com/track/3k5z512M1610ILVIzd8zbH) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [](https://open.spotify.com/album/null) | 3:10 | 2025-10-30 |  |
 | [Give Me My Halo](https://open.spotify.com/track/281X9opVt0Cse1rdHuDP5Q) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Give Me My Halo](https://open.spotify.com/album/3ajpQLd9erwma3arU8Wlwg) | 3:36 | 2023-06-29 | 2023-07-07 |
 | [Give Me My Heart Back](https://open.spotify.com/track/6PJGrQ6N75ZZe3LCHZDptr) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Give Me My Heart Back](https://open.spotify.com/album/5U1f0n73kyqYcwBFzxIm1h) | 2:46 | 2024-08-01 | 2024-08-09 |
 | [Give Me Something To Hold](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Give Me Something To Hold](https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU) | 3:21 | 2024-04-19 | 2024-04-26 |

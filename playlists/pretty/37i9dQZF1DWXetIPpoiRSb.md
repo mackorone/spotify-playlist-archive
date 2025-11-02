@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > next level pop 💋 kim petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,591 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,576 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Lock It](https://open.spotify.com/track/2T09uhdl7hZohdD6YXjSHK) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Lock It](https://open.spotify.com/album/0OsDXhcfv7epx8kaREv4xy) | 3:32 |
 | 80 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 |
 
-Snapshot ID: `AAAAAERxeK2HN2I/hCL5u+re31oFx++r`
+Snapshot ID: `AAAAAGpLj8l5zkc6qjt1tlG8ByQ4B5Ze`

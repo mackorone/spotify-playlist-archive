@@ -975,6 +975,22 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 166864,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 230437,
       "name": "V\u00eanus (feat. A\u00edsha)",
       "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 166864,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
     },
     {
       "added_at": "2025-10-31 16:26:13",

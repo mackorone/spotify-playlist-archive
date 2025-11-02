@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jaxomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,352 likes - 101 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,366 likes - 101 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 15 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 |
 | 16 | [World In Your Eyes](https://open.spotify.com/track/64hLvAi0gLO2pXMZrh0zFH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Coleman Hell](https://open.spotify.com/artist/3q9nybxzbSHsesDBHUlP4c) | [World In Your Eyes](https://open.spotify.com/album/3AZd7hjB520Ox5ZlKCH3rw) | 2:41 |
 | 17 | [Hypnotized](https://open.spotify.com/track/0rDQ8iz6ORhJ5cjFpW15EM) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [Hypnotized](https://open.spotify.com/album/7GvMFHeq5WMZrnebC7W3EQ) | 2:28 |
-| 18 | [Mimosa \(Now And Forever\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Mimosa \(Now And Forever\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
+| 18 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 19 | [Love U](https://open.spotify.com/track/3mxnOqXMgbseAWY0RMzQQi) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Love U](https://open.spotify.com/album/7MTyAcGPFSSpbeS9Cht4R8) | 3:52 |
 | 20 | [Never Give Up](https://open.spotify.com/track/6BNOZ3L1LNRKSlO2ohr5KH) | [Trancemaster Krause](https://open.spotify.com/artist/5zKJhJZNLAQoVoycu4Esnw) | [Never Give Up](https://open.spotify.com/album/4SUcMbQviFqV088kHB7QBv) | 2:32 |
-| 21 | [Lies](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [Lies](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
+| 21 | [LIES](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [LIES](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
 | 22 | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/track/2LRNDfHieq4ctBuE02zeW9) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/album/1o9rbjKjVBu7VQq0hzAJK1) | 2:44 |
 | 23 | [irgendwie, irgendwo, irgendwann \(feat\. marita\)](https://open.spotify.com/track/61ABmAQmKHjqiQuFGURlkM) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB), [marita](https://open.spotify.com/artist/2TfPFDuIgaOi1PHUWehG5u) | [irgendwie, irgendwo, irgendwann \(feat\. marita\)](https://open.spotify.com/album/3WcPmJMAGT0SKb8d6fa43J) | 3:15 |
 | 24 | [BADBOY](https://open.spotify.com/track/2sSCiuPyxUSbNhwElPqfNl) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [BADBOY](https://open.spotify.com/album/34Fgdlyoys9vOX4TcDcdqA) | 2:11 |

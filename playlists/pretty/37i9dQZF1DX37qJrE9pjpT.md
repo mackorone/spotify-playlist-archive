@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Rapcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,319 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,324 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 59 | [FLEX](https://open.spotify.com/track/0CVLCHO8V6YAdGJ3vXWXEo) | [Salmin Swaggz](https://open.spotify.com/artist/29Bao5BzmXldCACxALuPcu), [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [FLEX](https://open.spotify.com/album/2u2vEZK7u7AdEZIV9xSLco) | 2:44 |
 | 60 | [Hii Hapa](https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [Hii Hapa](https://open.spotify.com/album/61JiVZe3Ati0R8qVux7XOo) | 4:18 |
 
-Snapshot ID: `AAAAAF6+kf5dQIMPfLnRg69Zxn2ktNbP`
+Snapshot ID: `AAAAANUGgA3y0vmapCJ+QAVzLC+ULers`

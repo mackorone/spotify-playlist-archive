@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Karen Espinosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,115 likes - 80 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,165 likes - 80 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 79 | [Lo único que quieres](https://open.spotify.com/track/6NdBAt6RU9JkHZJYFMw4XB) | [tuyo](https://open.spotify.com/artist/4KtTbMwHxXj1W4gFDSe6CJ) | [Lo único que quieres](https://open.spotify.com/album/0c2qKW4SADYJzjMMxCFTpB) | 4:55 |
 | 80 | [Gracias A La Cruz](https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Gracias A La Cruz](https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk) | 5:08 |
 
-Snapshot ID: `AAAAAP+CKfpnaaQ2/Rpy80o10HHm/toe`
+Snapshot ID: `AAAAAAbHY7eZLjT+FyexKpQhh544OugW`

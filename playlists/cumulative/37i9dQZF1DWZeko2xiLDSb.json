@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Airport & Only The Truth",
+        "url": "https://open.spotify.com/album/2nN5fnuQxEFTCrlpJ5cDAa"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212430,
+      "name": "Airport",
+      "url": "https://open.spotify.com/track/0jHuokxBzpv5m80H0VlvAD"
+    },
+    {
+      "album": {
         "name": "Triage",
         "url": "https://open.spotify.com/album/2QLjYV6YS67wtj3GEKLs42"
       },
@@ -164,6 +182,28 @@
       "duration_ms": 214133,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4qujkKuj2wsp0aT5acqyia"
+    },
+    {
+      "album": {
+        "name": "At My Best",
+        "url": "https://open.spotify.com/album/7yDkhM5joo3A3aDa3OJgI5"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176240,
+      "name": "At My Best",
+      "url": "https://open.spotify.com/track/5XqbyTQDWGo6S2MYupzxTi"
     },
     {
       "album": {
@@ -788,7 +828,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 255919,
       "name": "Especially Me",
       "url": "https://open.spotify.com/track/2Hm71PK61Rh5g6ahFx96kH"
@@ -2410,7 +2450,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 185901,
       "name": "Somewhere in Chicago",
       "url": "https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw"

@@ -2,7 +2,7 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> Une sélection 100 % chill, 100 % Montréal\. Photo: San James
+> Montréal’s music scene, front and centre\. Cover: San James
 
 671 songs - 1 day 14 hr 14 min
 

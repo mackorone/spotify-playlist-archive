@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36tZFVjdWfJ.md) - [plain]
 
 > Listen to the music from and inspired by Priscilla, curated by Sofia Coppola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,907 likes - 28 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,909 likes - 28 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

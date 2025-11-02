@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: VaShawn Mitchell
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,944 likes - 90 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,951 likes - 90 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

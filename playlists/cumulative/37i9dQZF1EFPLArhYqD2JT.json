@@ -1235,6 +1235,36 @@
     },
     {
       "album": {
+        "name": "Annie Get Your Gun (Original Soundtrack) [1950]",
+        "url": "https://open.spotify.com/album/6nXixJIO93dEOtUEunAXC7"
+      },
+      "artists": [
+        {
+          "name": "Adolph Deutsch",
+          "url": "https://open.spotify.com/artist/5XfGFIgAuLp6WecQAJoIHJ"
+        },
+        {
+          "name": "MGM Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1"
+        },
+        {
+          "name": "Keenan Wynn",
+          "url": "https://open.spotify.com/artist/4WsgIi8W5s1juJrZQw4FPU"
+        },
+        {
+          "name": "Benay Venuta",
+          "url": "https://open.spotify.com/artist/575a1d467IfaiSL39qMQAQ"
+        }
+      ],
+      "date_added": "2025-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "Colonel Buffalo Bill",
+      "url": "https://open.spotify.com/track/6eOYokn0YtLrqORgWgg3Af"
+    },
+    {
+      "album": {
         "name": "Annie Get Your Gun (Original Broadway Cast / Bonus Tracks)",
         "url": "https://open.spotify.com/album/1IDWNeKQAJWJL2ysC2k1u2"
       },
@@ -1258,7 +1288,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-02",
       "duration_ms": 141133,
       "name": "Colonel Buffalo Bill",
       "url": "https://open.spotify.com/track/6ncErU9QVb8bRWgUkHagNR"
@@ -5760,7 +5790,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 223400,
       "name": "Outside Of Loving You - I Like You",
       "url": "https://open.spotify.com/track/5CtzvLhO9pe877zjcMENej"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lucas Jussen & Arthur Jussen
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,413 likes - 71 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,435 likes - 71 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 21 | [Hoover](https://open.spotify.com/track/06nFOtNdgdWVbYZvVzJnmw) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Hoover](https://open.spotify.com/album/2ROBgbg8qM9LX0HqwE6RGZ) | 5:40 |
 | 22 | [A Song for Sue](https://open.spotify.com/track/1Hl1H74oI7DNyEU3wD8HOj) | [Edward Gregson](https://open.spotify.com/artist/06GPOv9QteNLh9flCKiBGe), [BBC Philharmonic Orchestra](https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK), [Ben Gernon](https://open.spotify.com/artist/64xXfWrXukK6rsLXz9Ha52) | [Edward Gregson: A Song for Sue](https://open.spotify.com/album/5F1x3RoYODIt31S8hysTT6) | 5:39 |
 | 23 | [Álbum do jovem pianista, LG 134: X\. Canto dos pequenos pedintes p'los Santos](https://open.spotify.com/track/1COS6ua1ruZpkGV1ITSLnj) | [Fernando Lopes\-Graça](https://open.spotify.com/artist/1ZuBLkyLTat4KJOtTZ7xUx), [Luís Duarte](https://open.spotify.com/artist/3IacKMpNFEOyMFUBOjIk1g) | [Lopes\-Graça: Álbum do jovem pianista, LG 134: X\. Canto dos pequenos pedintes p'los Santos](https://open.spotify.com/album/5pzXIvctwtx44TLCSCMe9Y) | 3:08 |
-| 24 | [Veden syli](https://open.spotify.com/track/3J0SvfDLPrfz0lXaHkwkpJ) | [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Veden syli \(Water’s Embrace\)](https://open.spotify.com/album/231E7UarKtu20uvADcqfbu) | 3:24 |
+| 24 | [Veden syli](https://open.spotify.com/track/3J0SvfDLPrfz0lXaHkwkpJ) | [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn) | [Veden syli \(Water’s Embrace\)](https://open.spotify.com/album/231E7UarKtu20uvADcqfbu) | 3:24 |
 | 25 | [Variations for Orchestra, Op\. 31: Variation V\. Bewegt](https://open.spotify.com/track/4muwBe4lsklHWqSJWsZLS5) | [Arnold Schoenberg](https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Kirill Petrenko](https://open.spotify.com/artist/0AC9VCVOxmjtml8mzLtlWz) | [Schoenberg: Variations for Orchestra, Op\. 31](https://open.spotify.com/album/3tVVqf3w7zdzgkjj32N9N4) | 1:59 |
 | 26 | [O Conde de Monte Cristo, I\. Nobreza, Inveja e Traição](https://open.spotify.com/track/6G3gqrfojsZW37l3rXcvaW) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [Budapest Symphony Orchestra](https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX) | [O Conde de Monte Cristo, I\. Nobreza, Inveja e Traição](https://open.spotify.com/album/1lDxhw2fTK2D3Z9A87nHCv) | 10:55 |
 | 27 | [12 Studies for Harp: No\. 10](https://open.spotify.com/track/17UmsY01xbVgwxjDIlfEOo) | [John Thomas](https://open.spotify.com/artist/0rHjlq5JV6Bqmw6BrpUcIY), [Paola Baron](https://open.spotify.com/artist/5uatiUAP5syH6ggQBw8zbN) | [Thomas: 12 Studies for Harp: No\. 10](https://open.spotify.com/album/6fgOwoGyLe9C3jaCRGN3jv) | 3:16 |
