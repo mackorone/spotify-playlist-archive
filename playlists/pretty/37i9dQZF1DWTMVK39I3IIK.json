@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Malte August",
-  "num_followers": 47090,
+  "num_followers": 47091,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
+        "name": "v\u00e5gner",
+        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 150938,
+      "name": "drikker med mig selv",
+      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
         "name": "Tag Mig Som Jeg Er",
         "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
       },
@@ -219,38 +235,6 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
-      },
-      "artists": [
-        {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
-        }
-      ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
-        "name": "v\u00e5gner",
-        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 150938,
-      "name": "drikker med mig selv",
-      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
         "name": "Kan Du M\u00e6rke Suset?",
         "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 240917,
       "name": "Klip Klap Sandaler",
       "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     },
     {
       "added_at": "2025-10-30 23:00:18",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
         "name": "Dagdr\u00f8mmeri",
         "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 188963,
       "name": "Dagdr\u00f8mmeri",
       "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2025-10-30 23:00:18",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
         "name": "Jeg h\u00e5ber (feat. Mekdes)",
         "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
         "name": "Vores Forhandling",
         "url": "https://open.spotify.com/album/5ZGzhdbIorV137lQW3CvTR"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
-        "name": "Goodbyehouse",
-        "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 150416,
-      "name": "Driving me crazy",
-      "url": "https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
         "name": "H\u00e6ng En Mand",
         "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 312000,
       "name": "H\u00e6ng En Mand",
       "url": "https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
+        "name": "Goodbyehouse",
+        "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 150416,
+      "name": "Driving me crazy",
+      "url": "https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG"
     },
     {
       "added_at": "2025-10-30 23:00:18",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
+        "name": "S\u00e6tter Alt P\u00e5 Spil",
+        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
+      },
+      "artists": [
+        {
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+        }
+      ],
+      "duration_ms": 197589,
+      "name": "S\u00e6tter Alt P\u00e5 Spil",
+      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
         "name": "Tunge F\u00f8lelser",
         "url": "https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 234138,
       "name": "Uden At T\u00e6nke P\u00e5 Dig",
       "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
-        "name": "S\u00e6tter Alt P\u00e5 Spil",
-        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 197589,
-      "name": "S\u00e6tter Alt P\u00e5 Spil",
-      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
     },
     {
       "added_at": "2025-10-30 23:00:18",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
-        "name": "Hen til det",
-        "url": "https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp"
-      },
-      "artists": [
-        {
-          "name": "Karla Korsbak",
-          "url": "https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Hen til det",
-      "url": "https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
         "name": "Folk Forsvinder",
         "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/1WL7AjCCMOOBazFXaqD78w"
+        "name": "Hen til det",
+        "url": "https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp"
       },
       "artists": [
         {
-          "name": "ASTA NORR",
-          "url": "https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF"
+          "name": "Karla Korsbak",
+          "url": "https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC"
         }
       ],
-      "duration_ms": 189065,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/14Jcq3SjvqUS80fwJTGop9"
+      "duration_ms": 171093,
+      "name": "Hen til det",
+      "url": "https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD"
     },
     {
       "added_at": "2025-10-30 23:00:18",
@@ -771,6 +755,22 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/1WL7AjCCMOOBazFXaqD78w"
+      },
+      "artists": [
+        {
+          "name": "ASTA NORR",
+          "url": "https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF"
+        }
+      ],
+      "duration_ms": 189065,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/14Jcq3SjvqUS80fwJTGop9"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
         "name": "Et Sted p\u00e5 Vesterbro",
         "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
-        "name": "Herified",
-        "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
-      },
-      "artists": [
-        {
-          "name": "mags",
-          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 193432,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
+        "name": "Herified",
+        "url": "https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl"
+      },
+      "artists": [
+        {
+          "name": "mags",
+          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
     },
     {
       "added_at": "2025-10-30 23:00:18",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
+      },
+      "artists": [
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 168348,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
         "name": "Vilde \u00d8jne",
         "url": "https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 190000,
       "name": "Vilde \u00d8jne",
       "url": "https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
-      },
-      "artists": [
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 168348,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
     },
     {
       "added_at": "2025-10-30 23:00:18",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-10-30 23:00:18",
       "album": {
+        "name": "Det Frslv.",
+        "url": "https://open.spotify.com/album/4qOSab4b42c9RoSWIxRxSr"
+      },
+      "artists": [
+        {
+          "name": "FRSLV",
+          "url": "https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Ik Er Her.",
+      "url": "https://open.spotify.com/track/0TzGNfAXYBWpbo5YqCchM2"
+    },
+    {
+      "added_at": "2025-10-30 23:00:18",
+      "album": {
         "name": "Kys f\u00f8r fald",
         "url": "https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 172235,
       "name": "Fanget I En Dr\u00f8m",
       "url": "https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF"
-    },
-    {
-      "added_at": "2025-10-30 23:00:18",
-      "album": {
-        "name": "Den Lykkelige Ungdom",
-        "url": "https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo"
-      },
-      "artists": [
-        {
-          "name": "Pauline",
-          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
-        }
-      ],
-      "duration_ms": 163948,
-      "name": "Den Lykkelige Ungdom",
-      "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
     }
   ],
   "unique_name": "ung kniv ",

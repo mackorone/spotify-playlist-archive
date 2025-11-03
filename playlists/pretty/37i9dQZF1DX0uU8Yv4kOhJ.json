@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 132656,
+  "num_followers": 132669,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/6oh8cAjnjKEG9VukgrxHAQ"
+      },
+      "artists": [
+        {
+          "name": "LaTorre",
+          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
+        }
+      ],
+      "duration_ms": 280063,
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4XuDgMcyzLFaBAeRFx1MK0"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "La Estrella y la Isla",
         "url": "https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 241083,
       "name": "La Estrella y la Isla",
       "url": "https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Temporal",
-        "url": "https://open.spotify.com/album/6oh8cAjnjKEG9VukgrxHAQ"
-      },
-      "artists": [
-        {
-          "name": "LaTorre",
-          "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
-        }
-      ],
-      "duration_ms": 280063,
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/4XuDgMcyzLFaBAeRFx1MK0"
     },
     {
       "added_at": "2023-09-29 18:58:26",

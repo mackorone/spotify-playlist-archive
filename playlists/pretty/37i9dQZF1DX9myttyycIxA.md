@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: This is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,318 likes - 148 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,292 likes - 148 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 147 | [Signs](https://open.spotify.com/track/0ryNoC6c7pqVm1nAtuAgw5) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Signs](https://open.spotify.com/album/55rpMuLkB9sMzYt60PPaUy) | 4:15 |
 | 148 | [lose her](https://open.spotify.com/track/3LSnjjRclQUlY3H94wuTc1) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [kissing under an \(almost\) full moon](https://open.spotify.com/album/65zcYqi7ANpju4Xui1cWFJ) | 4:10 |
 
-Snapshot ID: `AAAAABJ6TGPIoWxsVlplS9BYl832im9k`
+Snapshot ID: `AAAAAPUuz6KSehgXdlXUjcVys7h0UOjq`

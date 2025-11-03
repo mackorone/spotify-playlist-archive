@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 154590,
+  "num_followers": 154584,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 187403,
+      "name": "Like The Rain",
+      "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 187403,
-      "name": "Like The Rain",
-      "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
     },
     {
       "added_at": "2025-09-02 20:18:55",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
-        "name": "Like I Used To (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
         "name": "Keeping The Light On",
         "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
     },
     {
       "added_at": "2025-09-02 20:18:55",
@@ -763,22 +763,6 @@
       "duration_ms": 191813,
       "name": "\u00c9migr\u00e9",
       "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
-        "name": "My Full Name",
-        "url": "https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "My Full Name",
-      "url": "https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS"
     },
     {
       "added_at": "2025-09-02 20:18:55",
@@ -827,18 +811,18 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
-        "name": "Collarbones",
-        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
+        "name": "My Full Name",
+        "url": "https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH"
       },
       "artists": [
         {
-          "name": "Anna Hamilton",
-          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 180947,
-      "name": "Collarbones",
-      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+      "duration_ms": 199520,
+      "name": "My Full Name",
+      "url": "https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS"
     },
     {
       "added_at": "2025-09-02 20:18:55",
@@ -855,6 +839,22 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
+        "name": "Collarbones",
+        "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
+      },
+      "artists": [
+        {
+          "name": "Anna Hamilton",
+          "url": "https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF"
+        }
+      ],
+      "duration_ms": 180947,
+      "name": "Collarbones",
+      "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
     },
     {
       "added_at": "2025-09-02 20:18:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/2wNSp3CQIbNVsBKuBhr9V8"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/3KUEz7T5o9Ijq4L4jsTuXf"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
         "name": "Such Love Does",
         "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 200333,
       "name": "Such Love Does",
       "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2wNSp3CQIbNVsBKuBhr9V8"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/3KUEz7T5o9Ijq4L4jsTuXf"
     },
     {
       "added_at": "2025-09-02 20:18:55",

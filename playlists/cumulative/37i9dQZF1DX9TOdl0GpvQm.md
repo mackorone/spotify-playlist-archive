@@ -4,7 +4,7 @@
 
 > sonidos de ultratumba
 
-314 songs - 23 hr 26 min
+315 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Geist](https://open.spotify.com/track/0iPK8nXqxdVSIANOrRg4cg) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Geist](https://open.spotify.com/album/3DLlGV1ITNkiR4zEZ9wufv) | 4:13 | 2024-10-23 |  |
 | [Gemini](https://open.spotify.com/track/3FrhNWIcRxrPFFcqFernIp) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:56 | 2021-10-27 | 2023-02-03 |
 | [Gemini](https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:56 | 2021-10-27 | 2024-04-19 |
+| [Ghosst\(s\)](https://open.spotify.com/track/2iemI7C2z0T653GPT9ClLn) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [Ghosst\(s\)](https://open.spotify.com/album/7BpSu8aQ6QtM143oBKYALC) | 4:20 | 2025-10-31 |  |
 | [Ghost](https://open.spotify.com/track/4JG8MhCVmEM458N4Xl7VMT) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1GezMTE4OA4tikMDBQK5u3) | 3:05 | 2025-10-31 |  |
 | [Gizma](https://open.spotify.com/track/38ffmoC4tgZcOentdfev1O) | [Ann Shenton](https://open.spotify.com/artist/0awIZIevE0dBWb1FXi11UB) | [Textures and Tones](https://open.spotify.com/album/4vdsd9aNbLWEr55BkiPmbg) | 2:59 | 2021-11-04 | 2022-07-29 |
 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 | 2025-10-31 |  |
@@ -195,7 +196,7 @@
 | [Omni Vignette](https://open.spotify.com/track/5F0Ne6CGaUYZaegGli9BYN) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 2:18 | 2021-10-27 | 2024-04-19 |
 | [Omni Vignette](https://open.spotify.com/track/6QFj2DMznntolgajylaJeT) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/4mdIrf0fbkfODM1vlJQ47V) | 2:18 | 2021-10-27 | 2023-02-02 |
 | [Onanist](https://open.spotify.com/track/3beHIDAfBhZIV0tjq5h2nU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 6:24 | 2025-10-31 |  |
-| [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 |  |
+| [Ozone Scraper](https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Ozone Scraper](https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI) | 3:31 | 2023-10-27 | 2025-11-03 |
 | [Panico A Las 5am](https://open.spotify.com/track/1M64YME6COGGJ4q1zstbcH) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth \- Venezuelan Experimental Rock In The 1970s](https://open.spotify.com/album/1DqUgcTvRXqjcse7qiZyh9) | 5:34 | 2021-10-27 | 2024-04-19 |
 | [Panico A Las 5am](https://open.spotify.com/track/5030Qst65fN6zh2Q6OWU2V) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth \- Venezuelan Experimental Rock In The 1970s](https://open.spotify.com/album/1cEz5jEFeSgSIVqFYtANE1) | 5:34 | 2021-10-27 | 2023-04-29 |
 | [Peenemunde](https://open.spotify.com/track/2SQBjam8TiCsmrtlAztdpY) | [Hazard](https://open.spotify.com/artist/5VosGPtIjRHIooDw3NBjQa) | [Antitrade](https://open.spotify.com/album/26bmjzhhYcZK4QXKNnGhMw) | 4:26 | 2024-01-10 | 2024-06-24 |

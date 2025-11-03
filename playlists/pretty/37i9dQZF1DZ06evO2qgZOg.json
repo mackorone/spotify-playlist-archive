@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 315166,
+  "num_followers": 315252,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQP8AAAAAAB112QYuHVp6np+cVd+AgXf",
+  "snapshot_id": "aQVNgAAAAABM4BccwSCt0prJGdeB1aiJ",
   "tracks": [
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 238870,
-      "name": "Surviving The Game",
-      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
+      "duration_ms": 226506,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comatose",
-        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 226506,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 229200,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
+      "duration_ms": 197586,
+      "name": "You Get Me High",
+      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 197586,
-      "name": "You Get Me High",
-      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
+      "duration_ms": 229200,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 231492,
-      "name": "Dominion",
-      "url": "https://open.spotify.com/track/08y95NOBjAM41gJfSqTogE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Survivors",
         "url": "https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 140800,
       "name": "No Survivors",
       "url": "https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 231492,
+      "name": "Dominion",
+      "url": "https://open.spotify.com/track/08y95NOBjAM41gJfSqTogE"
     }
   ],
   "unique_name": "This Is Skillet",

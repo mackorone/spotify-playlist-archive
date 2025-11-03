@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > yo no tuve herencias ni carrito regalado ✨🧿 Los Hnos Rodríguez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,310 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,665 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 64 | [Puro Sueño](https://open.spotify.com/track/3oe4eDJrAO1Cect19dFnN0) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq), [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Puro Sueño](https://open.spotify.com/album/4WwnvnzRPyi3wvbkhImH1W) | 2:36 |
 | 65 | [Lo Que Me Pase A Mí](https://open.spotify.com/track/1CYiVzPdMXs1dTi2y0gSOh) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Osvaldo Rodriguez](https://open.spotify.com/artist/2BMaTsuqLtDUuOQHzGIgjP) | [Lo Que Me Pase A Mí](https://open.spotify.com/album/3GmvyNsEeIEI3efVQizugb) | 1:52 |
 
-Snapshot ID: `AAAAALyy5qbQKZUBgIxekPl2vgHuBt4o`
+Snapshot ID: `AAAAAIRYzfnagtpAhQHOkUGy9nKFW4wc`

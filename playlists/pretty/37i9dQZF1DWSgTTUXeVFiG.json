@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 31194,
+  "num_followers": 31203,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "50 Aniversario, Vol.2",
-        "url": "https://open.spotify.com/album/7ftFj2k39BuPU2jpiVAvkt"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 645680,
-      "name": "Yambeque (feat. Jos\u00e9 Alberto \"El Canario\")",
-      "url": "https://open.spotify.com/track/0FcQUg9H6RC3fr7I8ecUpx"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 426240,
       "name": "He Tratado - Live at MSG Version",
       "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "50 Aniversario, Vol.2",
+        "url": "https://open.spotify.com/album/7ftFj2k39BuPU2jpiVAvkt"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 645680,
+      "name": "Yambeque (feat. Jos\u00e9 Alberto \"El Canario\")",
+      "url": "https://open.spotify.com/track/0FcQUg9H6RC3fr7I8ecUpx"
     },
     {
       "added_at": "2024-09-24 20:35:55",

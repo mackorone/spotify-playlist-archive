@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Tabitha Nauser
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,106 likes - 91 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,105 likes - 91 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

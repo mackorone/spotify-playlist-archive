@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-695 songs - 1 day 9 hr 52 min
+696 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Gosta de Mim Só Hoje \- Ao Vivo](https://open.spotify.com/track/4ql4wtxFdv92HFWz336Ju5) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Sétimo Sol: Ao Vivo Na House](https://open.spotify.com/album/6XOw1WAe1XFpam8dPJAOgc) | 2:29 | 2023-12-30 |  |
 | [Gostou do Mel \- Ao Vivo](https://open.spotify.com/track/1mlMUQ5zxqDAuwxC2PSIYw) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm) | [Thales Lessa in casa \(Ao Vivo\)](https://open.spotify.com/album/2ZgMygpxpBIcZ6aqfaZQcq) | 2:29 | 2025-03-29 |  |
 | [Gostou do Mel \- Ao Vivo](https://open.spotify.com/track/2Ouxqg14wwtuSDFrVYuxGB) | [Thales Lessa](https://open.spotify.com/artist/3kz1MToxXOeJU18hzSRbRm) | [Thales Lessa in Casa \(Ao Vivo\)](https://open.spotify.com/album/6Irzo6lzVe5BTE02qzLdiy) | 2:29 | 2023-12-30 | 2025-03-30 |
+| [Grau de Maluca](https://open.spotify.com/track/3aOrCKBQwKKYyduOfWt9Kl) | [Banda Real Som Oficial De MT](https://open.spotify.com/artist/4nhdf1JFBVHE7WkTKzlsrH), [LAMBADÃO 100% TOP DAS TOP](https://open.spotify.com/artist/1fxGzvSW8Ailwj0ZDVRUu3) | [Grau de Maluca](https://open.spotify.com/album/5mwVA36hr5CsF9IlmrQNfO) | 2:47 | 2025-11-02 |  |
 | [Graças a Ela \- Ao Vivo](https://open.spotify.com/track/1HR5cAtRvqJCYM4fzhBW07) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Graças a Ela \(Ao Vivo\)](https://open.spotify.com/album/4ovqwzEIgITEFoBVgV77Do) | 2:36 | 2023-12-30 |  |
 | [Haja Catuaba](https://open.spotify.com/track/01S6aRH8eGrIXc8BSvuubW) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Sobe o Som](https://open.spotify.com/album/0DVUNIC37rxzcK193fnH7T) | 2:59 | 2025-03-19 | 2025-04-12 |
 | [Haja Catuaba \- Ao Vivo](https://open.spotify.com/track/7gupfe4m8A2WieTG25o0JW) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Os Mineiros Tão Chegando \(Ao Vivo\)](https://open.spotify.com/album/0lqfQYbROoPPdSVHhIrqqr) | 2:59 | 2025-01-09 | 2025-03-20 |

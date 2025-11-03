@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Team Paiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,527 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,599 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Choketo](https://open.spotify.com/track/4CrLIuucY8jynYTWhz4U6Z) | [RK MERLY](https://open.spotify.com/artist/5zbxK01VEEqCPDOxoUnVxU), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Choketo](https://open.spotify.com/album/31gqISXbdTnN0pzuaKCwyg) | 2:23 |
 | 40 | [C'est qui qui à koeuré?](https://open.spotify.com/track/3sMa9CW10jJOINelbPeV03) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [C'est qui qui à koeuré?](https://open.spotify.com/album/4AQrYtHFNuagblJEqLA8nM) | 2:45 |
 
-Snapshot ID: `AAAAAB1fTYwEAJS8Ig8D9Xp/CReVZ9vS`
+Snapshot ID: `AAAAAEViUx4Ie3VEefsmz4SegQzwBdmx`

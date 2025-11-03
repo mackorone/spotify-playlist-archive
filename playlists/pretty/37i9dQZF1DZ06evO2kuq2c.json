@@ -1,29 +1,13 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 84997,
+  "num_followers": 85007,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQP8AAAAAAB/WE/jdn+x/DAKE9XT8BfE",
+  "snapshot_id": "aQVNgAAAAACzpHhEKvP9eM3PiTH+mALE",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Everything Ends",
-      "url": "https://open.spotify.com/track/3yC1soClolbb2jFH7XIPqd"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 255586,
       "name": "Hereafter",
       "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Everything Ends",
+      "url": "https://open.spotify.com/track/3yC1soClolbb2jFH7XIPqd"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 247019,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 220575,
-      "name": "Seeing Red",
-      "url": "https://open.spotify.com/track/65qBr6ToDUjTD1RiE1H4Gl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 241586,
       "name": "Royal Beggars",
       "url": "https://open.spotify.com/track/50xyeJL2Hs9FDgtI1ROeB0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 220575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/65qBr6ToDUjTD1RiE1H4Gl"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Curse",
-      "url": "https://open.spotify.com/track/6DLaYITCfzaNEAj0ZyGRad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the classic symptoms of a broken spirit",
         "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 259143,
       "name": "burn down my house",
       "url": "https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/6DLaYITCfzaNEAj0ZyGRad"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky, The Earth & All Between",
-        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 226166,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Hell",
         "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 253973,
       "name": "Holy Hell",
       "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 226166,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "Nihilist",
+      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sky, The Earth & All Between",
         "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 215566,
       "name": "Elegy",
       "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Forever // Lost Together",
-        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 245299,
-      "name": "Gravedigger",
-      "url": "https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 171162,
-      "name": "Nihilist",
-      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the classic symptoms of a broken spirit",
         "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 261568,
       "name": "doomscrolling",
       "url": "https://open.spotify.com/track/12lkUbhW7B4dZ46xHoT9Sj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 245299,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 198097,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the classic symptoms of a broken spirit",
         "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 211848,
       "name": "a new moral low ground",
       "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 198097,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 232614,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollow Crown",
         "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 212466,
       "name": "Early Grave",
       "url": "https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 232614,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Our Gods Have Abandoned Us",
-        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 244614,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollow Crown",
         "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 264706,
       "name": "Hollow Crown",
       "url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 244614,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: VƯƠNG BÌNH
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
 183 songs - 10 hr 34 min
 
@@ -117,7 +117,7 @@
 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 | 2022-09-09 | 2024-04-03 |
 | [my, my, my](https://open.spotify.com/track/1W1SPIukViuTd6wPo7hWB6) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [juhye](https://open.spotify.com/artist/3xjFSJEkVSZvWdhMK4aOPl) | [my, my, my](https://open.spotify.com/album/701FniKi8G2MPnpbryojrj) | 3:36 | 2023-10-05 | 2024-04-03 |
 | [Mê](https://open.spotify.com/track/6Rbz4nzR4ytexB7Zx28AmL) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Mê](https://open.spotify.com/album/48ZqlDgLxU4jjkUGnopIFk) | 3:38 | 2022-09-09 | 2024-09-27 |
-| [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 | 2024-12-04 | 2025-11-02 |
+| [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 | 2024-12-04 |  |
 | [Mưa Ơi Đừng Rơi](https://open.spotify.com/track/6LjnpeWCzBpbkP5DqeuqlU) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Mưa Ơi Đừng Rơi](https://open.spotify.com/album/0oEecgtZQYMnTZpP1fSQMf) | 3:29 | 2023-04-29 | 2023-09-15 |
 | [Mập Mờ](https://open.spotify.com/track/1VPZWsMQaGsYkR3fBakklP) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf), [DREAMeR](https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I) | [Dancing Queen](https://open.spotify.com/album/2Gjv7giZNiHRmD45yS6NId) | 3:45 | 2024-04-02 | 2024-12-05 |
 | [Mập Mờ \(feat\. RIN9\)](https://open.spotify.com/track/3tKNOjg2saBDd76aOtr314) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf) | [Mập Mờ \(feat\. RIN9\)](https://open.spotify.com/album/0hQQ4AUaI7l5OPpdBDYm7T) | 3:51 | 2024-02-01 | 2024-04-19 |
@@ -137,7 +137,7 @@
 | [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 | 2025-05-15 | 2025-10-10 |
 | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/track/0ibp5h8QATkvC6P5cO5TUV) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/album/2miKCUKYhXGekJDx4ZsxiI) | 3:32 | 2022-09-09 | 2024-09-27 |
 | [Rót Tiếp](https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3), [Steji](https://open.spotify.com/artist/5AnW83Ip0xPJ3Pgn0YWDhd) | [Rót Tiếp](https://open.spotify.com/album/4c4l3zyMSwsDjajgrhJ5dq) | 3:10 | 2022-09-09 | 2024-09-27 |
-| [SapoChê](https://open.spotify.com/track/0JLgKwxlXWgXMw40M2Xe6v) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [SapoChê](https://open.spotify.com/album/27s6PKqAn7rCHXtoyzFe0m) | 3:30 | 2024-12-04 |  |
+| [SapoChê](https://open.spotify.com/track/0JLgKwxlXWgXMw40M2Xe6v) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [SapoChê](https://open.spotify.com/album/27s6PKqAn7rCHXtoyzFe0m) | 3:30 | 2024-12-04 | 2025-11-03 |
 | [Sau Cơn Mưa](https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [Sau Cơn Mưa](https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2) | 2:34 | 2025-03-27 |  |
 | [Sau Cơn Mưa \(Live at ZLAB\)](https://open.spotify.com/track/34haywJFfkSihAmCo67j01) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [ZLAB](https://open.spotify.com/artist/5YtxFNj1nNvPhd9SMsn684) | [Sau Cơn Mưa \(Live at ZLAB\)](https://open.spotify.com/album/77der7U4IMvTHglBYJfrXQ) | 2:34 | 2025-03-27 |  |
 | [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 | 2024-04-02 |  |

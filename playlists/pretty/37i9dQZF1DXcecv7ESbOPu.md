@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från ROSALÍA, Hooja, Hannes med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,078 likes - 95 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,060 likes - 95 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 46 | [Kurtisør 2026](https://open.spotify.com/track/5xiYCXTo3PnbkjdRRcuMdq) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Kurtisør 2026](https://open.spotify.com/album/0Dz7qLsSVwDeGB0Xfqptjf) | 2:51 |
 | 47 | [Hypnotized](https://open.spotify.com/track/0rDQ8iz6ORhJ5cjFpW15EM) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [Hypnotized](https://open.spotify.com/album/7GvMFHeq5WMZrnebC7W3EQ) | 2:28 |
 | 48 | [Lost in the city](https://open.spotify.com/track/1Pfs3ACOqx8sCqzFjWtJUV) | [Lokal](https://open.spotify.com/artist/1Gtx7uxcwFWqBHt9OeESgj) | [Lost in the city](https://open.spotify.com/album/4QPtk4wiv8MOzlve8rYKch) | 2:51 |
-| 49 | [Second Choice \(feat\. Ramir\)](https://open.spotify.com/track/5OMc3GY7v98ki3FGQcwcgY) | [Danrell](https://open.spotify.com/artist/1RzXK6ikrwaOZBCdt9kZSw), [Alec King](https://open.spotify.com/artist/1WcUEKDht7lhgklZZJrzNg), [Ramir](https://open.spotify.com/artist/5bbLLuVEQRJXYxlGZwgSw8) | [Second Choice \(feat\. Ramir\)](https://open.spotify.com/album/3InBBDPtoqshCihiIzkbD7) | 3:32 |
+| 49 | [Second Choice \(feat\. Ramir\)](https://open.spotify.com/track/5OMc3GY7v98ki3FGQcwcgY) | [Danrell](https://open.spotify.com/artist/1RzXK6ikrwaOZBCdt9kZSw), [Alec King](https://open.spotify.com/artist/1WcUEKDht7lhgklZZJrzNg), [Ramir](https://open.spotify.com/artist/5XPFMtMU9LCPG5ZQuZgnHt) | [Second Choice \(feat\. Ramir\)](https://open.spotify.com/album/3InBBDPtoqshCihiIzkbD7) | 3:32 |
 | 50 | [Du Vet](https://open.spotify.com/track/005yd096C1wB14jXRyjLky) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54), [Ikhana](https://open.spotify.com/artist/541TCRllUeWDv5v81aNi8G) | [Du Vet](https://open.spotify.com/album/1mcyv6jiMn5aW30svtzkWe) | 2:55 |
 | 51 | [Fel för mig](https://open.spotify.com/track/69IWEWcfPv2rEsPfjPnvWj) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLODMÅNE](https://open.spotify.com/album/5X50ApLp9EDeyXYuUB4O2s) | 2:13 |
 | 52 | [Alien](https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 3:57 |

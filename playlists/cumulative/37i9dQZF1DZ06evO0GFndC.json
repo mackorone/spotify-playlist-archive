@@ -687,6 +687,28 @@
     },
     {
       "album": {
+        "name": "Hennessy",
+        "url": "https://open.spotify.com/album/3WVEjByqvQ5PDr1Fbs8G5i"
+      },
+      "artists": [
+        {
+          "name": "Amilkar Galaviz",
+          "url": "https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189130,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/0Qhip2DzxhgLDh5yAmr988"
+    },
+    {
+      "album": {
         "name": "Pura Manzanita Vol. 4",
         "url": "https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp"
       },
@@ -1112,7 +1134,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 190544,
       "name": "Porte Fino - En Vivo",
       "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"

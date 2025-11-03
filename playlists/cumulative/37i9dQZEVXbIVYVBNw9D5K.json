@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 270693,
       "name": "14 Bahar",
       "url": "https://open.spotify.com/track/3CLq3NF6wWfJLHMk4ZfXg8"
@@ -2530,7 +2530,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 163888,
       "name": "A\u015fiyan",
       "url": "https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG"
@@ -3696,7 +3696,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 161086,
       "name": "Bende Katilime A\u015f\u0131kt\u0131m",
       "url": "https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa"
@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 163548,
       "name": "Benden Sonra",
       "url": "https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS"
@@ -7726,7 +7726,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 203653,
       "name": "D\u00f6nsen Bile",
       "url": "https://open.spotify.com/track/6Ear9bhjbNi2oaqv5qlqlM"
@@ -10448,7 +10448,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 176625,
       "name": "G\u00f6zlerinden G\u00f6zlerine",
       "url": "https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp"
@@ -14236,7 +14236,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 107658,
       "name": "KAYKAY",
       "url": "https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q"
@@ -17604,7 +17604,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 151290,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA"
@@ -18912,7 +18912,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 133472,
       "name": "PEK\u0130 PEK\u0130",
       "url": "https://open.spotify.com/track/5qzoVhaHblEfeVtBwrTIap"
@@ -20630,7 +20630,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 204833,
       "name": "Sana G\u00fcvenmiyorum - Dedub Sessions",
       "url": "https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ"
@@ -21632,7 +21632,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 100965,
       "name": "SHEVCHENKO",
       "url": "https://open.spotify.com/track/4GJEkYQVl6CSxh0qaS5O0Q"
@@ -22862,7 +22862,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 132244,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/076Dr6X4H6hoAML95QVlhn"
@@ -23398,7 +23398,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 145960,
       "name": "Uykusuz Geceler",
       "url": "https://open.spotify.com/track/56RhdFrIBURDOGdGgytviE"
@@ -26150,6 +26150,24 @@
       "duration_ms": 176052,
       "name": "\u00d6l\u00fcmle Ya\u015fam Aras\u0131nda",
       "url": "https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV"
+    },
+    {
+      "album": {
+        "name": "Evet",
+        "url": "https://open.spotify.com/album/4qVhbJmTGKwexO8waGFXVv"
+      },
+      "artists": [
+        {
+          "name": "Ebru G\u00fcnde\u015f",
+          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290324,
+      "name": "\u00d6l\u00fcms\u00fcz A\u015fklar",
+      "url": "https://open.spotify.com/track/07ZQcQlbituG3sDXGKu4p3"
     },
     {
       "album": {

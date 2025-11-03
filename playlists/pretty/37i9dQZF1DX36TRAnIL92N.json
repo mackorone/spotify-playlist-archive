@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 450358,
+  "num_followers": 450508,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,30 @@
     {
       "added_at": "2025-10-10 21:01:35",
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "added_at": "2025-10-10 21:01:35",
+      "album": {
         "name": "Jack",
         "url": "https://open.spotify.com/album/1o9kj4lnncKURQcC5Cbjr2"
       },
@@ -943,26 +967,6 @@
       "duration_ms": 197142,
       "name": "Jack",
       "url": "https://open.spotify.com/track/0JvSCk4PtLNOcAXv0b9Ks1"
-    },
-    {
-      "added_at": "2025-10-10 21:01:35",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/2X63qmnbwC2KTbSy4YMMHD"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 179594,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/7qrj7lRzVLTMPLUt4ge274"
     }
   ],
   "unique_name": "Techno Workout",

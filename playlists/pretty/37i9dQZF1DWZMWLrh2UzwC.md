@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from, Dato' Sri Siti Nurhaliza, Ernie Zakri, The Neighbourhood, Jessie J, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,501 likes - 124 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,498 likes - 124 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

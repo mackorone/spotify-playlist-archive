@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,182 likes - 87 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,266 likes - 87 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 86 | [リンネ \- ORIGINAL](https://open.spotify.com/track/6L7qAI9DS27eoEEseNB1Y2) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:21 |
 | 87 | [Mrs.Pumpkinの滑稽な夢 \- ORIGINAL](https://open.spotify.com/track/6AM4kwGUFoCQZyV1mwfo2A) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 4:18 |
 
-Snapshot ID: `AAAAAH1tPBGlVNExSWIRF+47J34bw3la`
+Snapshot ID: `AAAAAF2qHiydQcqV7etIineNgqHZ/Exx`

@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 144069,
       "name": "AFTERPARTY",
       "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
@@ -25137,6 +25137,24 @@
     },
     {
       "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "album": {
         "name": "Hallucination",
         "url": "https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ"
       },
@@ -42595,6 +42613,24 @@
     },
     {
       "album": {
+        "name": "MUEVELOU",
+        "url": "https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR"
+      },
+      "artists": [
+        {
+          "name": "VAD BOYZ",
+          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135659,
+      "name": "MUEVELOU",
+      "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
+    },
+    {
+      "album": {
         "name": "Muhammad Ali",
         "url": "https://open.spotify.com/album/6i5Q2ODwJKysQGoaDwFvMF"
       },
@@ -45914,7 +45950,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 500300,
       "name": "No One Like The Lord - Live",
       "url": "https://open.spotify.com/track/5cAWEK6WN0TzKJBvWdfItC"
@@ -62426,7 +62462,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 194040,
       "name": "SUPERSCAR",
       "url": "https://open.spotify.com/track/3OXswcKSaO6mNiNyeEbnAS"
@@ -70326,7 +70362,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 188108,
       "name": "V\u00e1\u0161e\u0148",
       "url": "https://open.spotify.com/track/6YYk1QzDea5SD81NVQhG08"

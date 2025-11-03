@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Alex Botea, Luis Gabriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,342 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,347 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [FLY](https://open.spotify.com/track/0hknUmR1ujZ9DTV2BfjIhK) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [FLY](https://open.spotify.com/album/6SKsIwxPmmAjBeyhIjXCgb) | 3:18 |
 | 50 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
 
-Snapshot ID: `AAAAAPjGg/joA9D7itQp01QMeVgLHIUU`
+Snapshot ID: `AAAAAPNELKm6sxjwnjxVukqQ6kWdyDVf`

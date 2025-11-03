@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 177160,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7xdVoNuJ67iuEhMFi6pDzo"
@@ -9480,7 +9480,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 193213,
       "name": "Calaverita de Az\u00facar",
       "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
@@ -11738,7 +11738,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 216837,
       "name": "Cirug\u00eda",
       "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
@@ -19038,7 +19038,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 165227,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/3WLf5aW48LL1FFS4UrdthD"
@@ -19060,7 +19060,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47"
@@ -20158,7 +20158,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 119225,
       "name": "El Twist del Esqueleto",
       "url": "https://open.spotify.com/track/6r3JeSUyr2wfsGFwftdd4t"
@@ -22332,7 +22332,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
@@ -25350,7 +25350,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 64525,
       "name": "Goosebumps Original Theme Song",
       "url": "https://open.spotify.com/track/0gs6G0qcP6yXVBntg8PC3L"
@@ -25648,7 +25648,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 182375,
       "name": "Halloween Theme",
       "url": "https://open.spotify.com/track/6Z36wt7oo6xm2uGN00PnTq"
@@ -31049,6 +31049,24 @@
     },
     {
       "album": {
+        "name": "Chavela Vargas",
+        "url": "https://open.spotify.com/album/2Z3BXtXY75OOYcJljBozCb"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327893,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/68F60nXjq5ahxsVPSmCvq1"
+    },
+    {
+      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/4M7yln2ZtrETNYYp3bUDeK"
       },
@@ -31060,7 +31078,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 322730,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/6jx0vGHHRI7iOBkiXEdgXq"
@@ -31410,7 +31428,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 193255,
       "name": "La Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5NK5vkJQCtC721Ut1OvHYj"
@@ -32282,7 +32300,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -37630,7 +37648,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 172200,
       "name": "Mi Entorno",
       "url": "https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y"
@@ -40076,7 +40094,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 126840,
       "name": "My Girlfriend Is a Witch",
       "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
@@ -44120,7 +44138,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -50564,6 +50582,28 @@
       "duration_ms": 151500,
       "name": "Recu\u00e9rdalo Bien",
       "url": "https://open.spotify.com/track/3VL3qwCur1nSbfL9YExPR2"
+    },
+    {
+      "album": {
+        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+      },
+      "artists": [
+        {
+          "name": "Gael Garcia Bernal",
+          "url": "https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p"
+        },
+        {
+          "name": "Lucy Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0u0DbmGMju8LECEs9s9y3r"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69813,
+      "name": "Recu\u00e9rdame (Arrullo)",
+      "url": "https://open.spotify.com/track/4fU3wz8wbjWZea4YYF04iR"
     },
     {
       "album": {
@@ -62669,6 +62709,28 @@
     },
     {
       "album": {
+        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
+      },
+      "artists": [
+        {
+          "name": "Luis \u00c1ngel G\u00f3mez Jaramillo",
+          "url": "https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5"
+        },
+        {
+          "name": "Gael Garcia Bernal",
+          "url": "https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112205,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/65vseJi4kug0grGTTSmH2u"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -63916,7 +63978,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 195949,
       "name": "Vice City",
       "url": "https://open.spotify.com/track/4BhC4JAAAkI5VV5KEMVP6k"
@@ -65558,7 +65620,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

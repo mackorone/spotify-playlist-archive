@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 
 > Listen to the music from Hazbin Hotel, season 2 coming to Prime Video soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,881 likes - 23 songs - 56 min 14 sec
+[Spotify](https://open.spotify.com/user/spotify) - 459,198 likes - 23 songs - 56 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

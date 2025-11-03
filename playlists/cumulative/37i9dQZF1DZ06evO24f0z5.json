@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 302380,
       "name": "CERCA DEL RIO - En Vivo",
       "url": "https://open.spotify.com/track/3bw9EhtsQYQBiXSW80hhds"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 242053,
       "name": "Despoblamiento global",
       "url": "https://open.spotify.com/track/1ko9qVvRCtvy9XfpmlE8ye"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 183103,
       "name": "Esa luz",
       "url": "https://open.spotify.com/track/0KGb64YLoDy5qonAqmY69r"
@@ -2058,10 +2058,28 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 288261,
       "name": "Ninguna como ella",
       "url": "https://open.spotify.com/track/41uFxFNWIuXIIoCvGImIWo"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer"
+      },
+      "artists": [
+        {
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288274,
+      "name": "Ninguna como ella",
+      "url": "https://open.spotify.com/track/14FyhGYntgynIT46apBQIX"
     },
     {
       "album": {
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 196114,
       "name": "Ten paciencia",
       "url": "https://open.spotify.com/track/6eCBaeECJCWwVY5aceMPeD"

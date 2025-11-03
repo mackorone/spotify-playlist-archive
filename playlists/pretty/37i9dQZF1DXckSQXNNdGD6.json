@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  David Rees.",
-  "num_followers": 21120,
+  "num_followers": 21121,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-10-01 11:15:33",
       "album": {
+        "name": "Dame 10:36 Minutos",
+        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 131376,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
+    },
+    {
+      "added_at": "2025-10-01 11:15:33",
+      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 146189,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F"
-    },
-    {
-      "added_at": "2025-10-01 11:15:33",
-      "album": {
-        "name": "Dame 10:36 Minutos",
-        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 131376,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
     },
     {
       "added_at": "2025-10-01 11:15:33",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-10-01 11:15:33",
       "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
+    },
+    {
+      "added_at": "2025-10-01 11:15:33",
+      "album": {
         "name": "Asereg\u00e9",
         "url": "https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z"
       },
@@ -631,38 +647,6 @@
     {
       "added_at": "2025-10-01 11:15:33",
       "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
-    },
-    {
-      "added_at": "2025-10-01 11:15:33",
-      "album": {
-        "name": "qu\u00e9 bonito fue",
-        "url": "https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 158537,
-      "name": "qu\u00e9 bonito fue",
-      "url": "https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW"
-    },
-    {
-      "added_at": "2025-10-01 11:15:33",
-      "album": {
         "name": "GORGONA",
         "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
+    },
+    {
+      "added_at": "2025-10-01 11:15:33",
+      "album": {
+        "name": "qu\u00e9 bonito fue",
+        "url": "https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 158537,
+      "name": "qu\u00e9 bonito fue",
+      "url": "https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW"
     },
     {
       "added_at": "2025-10-01 11:15:33",

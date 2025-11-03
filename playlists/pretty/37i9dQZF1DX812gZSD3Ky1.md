@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: JISOO, ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,496 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,500 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 99 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
 | 100 | [not yet](https://open.spotify.com/track/7ebZWt2Cgc4dEvxpnQlvbG) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [not yet](https://open.spotify.com/album/7oN9Yuc8Y0s03o3gK1QRbp) | 4:21 |
 
-Snapshot ID: `AAAAALznE3K+04pwVdepSpzIIg5D7oM6`
+Snapshot ID: `AAAAAAN7fs3xGHP5so4kfZvnr9tJgeNK`

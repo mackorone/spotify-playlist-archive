@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQP8AAAAAAAhrrRbvTR/OANlDHV4eCN4",
+  "snapshot_id": "aQVNgAAAAAAd+PpC1l3oHNY3x+CJgobG",
   "tracks": [
     {
       "added_at": null,
@@ -510,15 +510,11 @@
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        },
-        {
-          "name": "Phil King",
-          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
         }
       ],
-      "duration_ms": 166623,
-      "name": "Headed for the Mountain (feat. Phil King)",
-      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
+      "duration_ms": 232869,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/6XdxpgFTSv93A0cyHVV19T"
     },
     {
       "added_at": null,
@@ -546,11 +542,15 @@
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Phil King",
+          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
         }
       ],
-      "duration_ms": 232869,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/6XdxpgFTSv93A0cyHVV19T"
+      "duration_ms": 166623,
+      "name": "Headed for the Mountain (feat. Phil King)",
+      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
     },
     {
       "added_at": null,

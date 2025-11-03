@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-297 songs - 14 hr 18 min
+299 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Calm Spring](https://open.spotify.com/track/45OQ4d2oF6PKUg30jIYhLD) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Calm Spring](https://open.spotify.com/album/7l3YpyW05EHVsy2LuXDIxN) | 2:42 | 2025-05-21 |  |
 | [Calmed by Warm Waters](https://open.spotify.com/track/3mWmH6nNL76C1XZTliqMd7) | [MALTA PROJECT](https://open.spotify.com/artist/5B7ADRhLSbaat7jHheA9YF) | [The Dwelling Place](https://open.spotify.com/album/3hiRwsgc4MzGqKbS45TJpN) | 3:19 | 2023-04-28 | 2025-03-16 |
 | [Casuarina Calm](https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Casuarina Calm](https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9) | 2:55 | 2023-06-02 |  |
+| [Cave of Secrets](https://open.spotify.com/track/6pCSTOEL0CSQAy2a21wHNu) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Cave of Secrets](https://open.spotify.com/album/2Ki1z5SvTVDvSF8YvfVZgZ) | 2:49 | 2025-10-24 |  |
 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 | 2023-04-28 | 2025-05-22 |
 | [Celestial Incandescence \- Spa](https://open.spotify.com/track/7CxSyjymXR6bquZA2Mj7BS) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Celestial Incandescence](https://open.spotify.com/album/4cWd16fQU6DEnYmJ45IhQT) | 3:28 | 2023-04-28 | 2024-06-04 |
 | [chammomile](https://open.spotify.com/track/5nDPKdOwEO5mEql3Nqze3G) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Body Scan](https://open.spotify.com/album/7zDsE6swmHKUn6hNktcOPU) | 3:16 | 2023-08-18 |  |
@@ -82,9 +83,9 @@
 | [Equipoise](https://open.spotify.com/track/612NwtubGzCA41IJRpYZJh) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Equipoise](https://open.spotify.com/album/3ZbKVAGQCVGvLtjKz71txP) | 3:00 | 2023-04-28 | 2025-05-22 |
 | [Era](https://open.spotify.com/track/3ZY6rH74cqvDepyhdCOi0h) | [Granite Stone](https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv) | [Molecular](https://open.spotify.com/album/2jx7dxHeOE350FXStCWTtd) | 2:56 | 2023-04-28 | 2023-11-11 |
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2023-04-28 | 2025-05-22 |
-| [Essence \(Soundbath\)](https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Essence](https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D) | 2:50 | 2023-05-26 |  |
+| [Essence \(Soundbath\)](https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Essence](https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D) | 2:50 | 2023-05-26 | 2025-11-03 |
 | [Essence of the Forest](https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5) | [Adelina Somerset](https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX) | [Essence of the Forest](https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN) | 2:40 | 2024-07-19 | 2025-05-22 |
-| [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 |  |
+| [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 | 2025-11-03 |
 | [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
 | [Exploring Textures](https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Exploring Textures](https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv) | 2:57 | 2025-07-22 |  |
@@ -192,6 +193,7 @@
 | [Noctilucent Clouds \(meditation\)](https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Noctilucent Clouds](https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q) | 2:41 | 2023-11-10 | 2025-10-29 |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2023-04-28 | 2023-07-29 |
 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 | 2023-04-28 | 2025-05-22 |
+| [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
 | [Orange forest](https://open.spotify.com/track/1mzIEmytObAhAdQh4kkqsQ) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Orange forest](https://open.spotify.com/album/3j8yo62JDzTlPjBplERqjF) | 2:38 | 2024-08-23 | 2025-09-11 |
 | [Organesque](https://open.spotify.com/track/4W6xwzBgkkUiTHsFjXNipf) | [Mellow Bars](https://open.spotify.com/artist/6UzItV50i3CM9CxH6fwlwe) | [Organesque](https://open.spotify.com/album/3iBYE3TVsCrIKB69RfIZ7o) | 2:39 | 2023-04-28 | 2024-06-25 |
 | [Outward Flow](https://open.spotify.com/track/6CHszkJRDjseZZjlB2dGF5) | [Aimspherer](https://open.spotify.com/artist/0hSVd3Ut0dF3BO5fRiIMtq) | [Outward Flow](https://open.spotify.com/album/6l4VfxWo7vlBRIVR7xIXNh) | 2:34 | 2025-03-19 |  |

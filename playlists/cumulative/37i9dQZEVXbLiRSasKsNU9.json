@@ -21608,7 +21608,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 227619,
       "name": "Dominga",
       "url": "https://open.spotify.com/track/4Nyyfm1HlgI2QsaKfuu6Ol"
@@ -54132,7 +54132,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -77435,6 +77435,24 @@
     },
     {
       "album": {
+        "name": "The Purple People Eater",
+        "url": "https://open.spotify.com/album/6aNbS6LXGqL1XVwU1bSzDu"
+      },
+      "artists": [
+        {
+          "name": "Sheb Wooley",
+          "url": "https://open.spotify.com/artist/2dOTS74R4yPISc7AVU9QzD"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137960,
+      "name": "The Purple People Eater",
+      "url": "https://open.spotify.com/track/0WkZQPNC0c7yrsMX1arVAd"
+    },
+    {
+      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -77832,6 +77850,28 @@
       "duration_ms": 389280,
       "name": "The Wreck of the Edmund Fitzgerald",
       "url": "https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2"
+    },
+    {
+      "album": {
+        "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BLoEiZ4pH0zsYr4stkMD9"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364651,
+      "name": "Theekkoluthi",
+      "url": "https://open.spotify.com/track/4HAJQk7bvl5wuKnUI9QXXg"
     },
     {
       "album": {

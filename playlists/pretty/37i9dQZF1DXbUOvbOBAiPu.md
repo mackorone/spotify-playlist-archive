@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Roméo Elvis & Oscar and the Wolf, ROSALÍA, Metejoor, Andromedik and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,253 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,247 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 32 | [Nothing's Right](https://open.spotify.com/track/0OMw1vsXODqI7Gt7RU5k8l) | [B O I](https://open.spotify.com/artist/0WiWO8olpTnc1FXkxZHLln) | [Nothing’s Right](https://open.spotify.com/album/1G62jPXkrBfvflK4gKcBMb) | 3:39 |
 | 33 | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/track/5wicBOl9Ueuw1ziOEs4ZNH) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Waarom Moet Ze Nou Een DJ Zijn](https://open.spotify.com/album/6gLC0qISl2lDP5xv6gS5HK) | 2:34 |
 | 34 | [PTSD](https://open.spotify.com/track/1k5VO1U9cBQGiDVACnHWe0) | [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [PTSD](https://open.spotify.com/album/77kuAD2GBUWw0VICgH4e33) | 1:59 |
-| 35 | [ECHOES \- Bonus Track](https://open.spotify.com/track/3hLL1zqTIe9UlI0yxjpnZW) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [TAKE 01 ECHOES](https://open.spotify.com/album/30u9ApiE9saITQqh3Expjp) | 5:32 |
+| 35 | [ECHOES](https://open.spotify.com/track/3hLL1zqTIe9UlI0yxjpnZW) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [TAKE 01 ECHOES](https://open.spotify.com/album/30u9ApiE9saITQqh3Expjp) | 5:32 |
 | 36 | [911](https://open.spotify.com/track/44k8PTim17ovweVLkYd7Vc) | [MARNY](https://open.spotify.com/artist/0BogLm49bqc1jx0pbgnPIH) | [911](https://open.spotify.com/album/0CT66UTTvh0W22IXyZiT5N) | 1:55 |
 | 37 | [Audacity](https://open.spotify.com/track/0W57R5lWz2VFc2d7BqHFjy) | [Hyunji\-A](https://open.spotify.com/artist/6LL2gqtRfPs9VFk8yWc3W6) | [Neon Lights](https://open.spotify.com/album/0xwkvXbWlGEbgFCKZzT8C7) | 3:41 |
 | 38 | [Modern Times](https://open.spotify.com/track/3GcakfkKpEStBeomWwYPwO) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Modern Times](https://open.spotify.com/album/3EyNltfgFSTxVvvNpKlHJ8) | 4:27 |

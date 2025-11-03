@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,001 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,124 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 2 | [Nos Galan \(Deck the Halls\) \[Arr\. Huws for Harp\]](https://open.spotify.com/track/2uBN1UFDjS2DqFl6oyTlS7) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Nos Galan \(Deck the Halls\) \[Arr\. Huws for Harp\]](https://open.spotify.com/album/3lWhGuwvwVyUzyLJW73o5l) | 3:05 |
 | 3 | [O Holy Night](https://open.spotify.com/track/3vHRNs120gcWRfv5Tcvqfi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [O Holy Night](https://open.spotify.com/album/7ysRwKlllMX84dE2tSSXWQ) | 3:09 |
 | 4 | [Away In A Manger](https://open.spotify.com/track/3cEPV9YxmKzDlwDyr9hq0C) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Away In A Manger](https://open.spotify.com/album/0RDcl4gX6NawVNGV9nC6Xg) | 1:53 |
-| 5 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 |
+| 5 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 |
 | 6 | [Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/track/4IGPENN8Ou2Q4MFbXKwt8l) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Carol of the Bells \(arr\. piano\) / Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7) | 6:54 |
 | 7 | [White Christmas \(Arr\. Simon for Piano\)](https://open.spotify.com/track/5f4GJbioPtRZlhDzZXUwS7) | [Carlos Simon](https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G) | [Christmas](https://open.spotify.com/album/2twQ4SgW9167opaH0oVI6F) | 3:50 |
 | 8 | [What Child Is This?](https://open.spotify.com/track/23zCWNIS8w4Bhi9Es2E5uh) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 4:18 |

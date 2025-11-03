@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  Shwi Mantombazane
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,120 likes - 90 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,238 likes - 90 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

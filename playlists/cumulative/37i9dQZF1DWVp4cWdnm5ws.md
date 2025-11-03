@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2025\. Cover: BGYO
+> Discover new artists on the horizon this 2025\. Cover: Justin Vasquez
 
-288 songs - 17 hr 10 min
+289 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [YIEE](https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [YIEE](https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa) | 3:53 | 2025-03-27 |  |
 | [You](https://open.spotify.com/track/4BJa4tHm82NuaRvFPX67CJ) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [You](https://open.spotify.com/album/6RX6AKmLXfFdLi00GdxQUs) | 4:47 | 2021-11-25 | 2022-03-25 |
 | [You'll Be Safe Here](https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [You'll Be Safe Here](https://open.spotify.com/album/32jPh5iI4WfK1bbSrPkBZM) | 5:44 | 2022-03-24 | 2023-04-14 |
+| [Yours](https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Yours](https://open.spotify.com/album/09xwz7U4Ho2qNALirus13F) | 3:33 | 2025-11-03 |  |
 | [Yugto](https://open.spotify.com/track/2S4oKxRl8Dh1rGzqWccCde) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Yugto](https://open.spotify.com/album/4hU4tzVSx4DBxMk0FLlvCS) | 4:12 | 2023-11-17 | 2024-04-03 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

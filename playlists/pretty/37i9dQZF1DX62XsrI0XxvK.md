@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Jinan Laetitia
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,555 likes - 97 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,556 likes - 97 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

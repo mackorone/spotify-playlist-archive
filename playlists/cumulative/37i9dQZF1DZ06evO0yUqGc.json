@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Alright, Still (Deluxe)",
+        "url": "https://open.spotify.com/album/5ySBiY0v4b03yw98oRDKtS"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237746,
+      "name": "Friend of Mine",
+      "url": "https://open.spotify.com/track/3w4CigxQLsjSd2Az4eR4B5"
+    },
+    {
+      "album": {
         "name": "It's Not Me, It's You",
         "url": "https://open.spotify.com/album/2OUL7ZpAvUaWyylZ1lXpe0"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 226306,
       "name": "Na\u00efve - BBC Radio 1's Jo Whiley's Live Lounge",
       "url": "https://open.spotify.com/track/6mM3zAPOuNkNDytJCDGz96"

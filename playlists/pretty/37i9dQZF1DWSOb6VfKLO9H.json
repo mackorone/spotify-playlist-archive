@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 102366,
+  "num_followers": 102379,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "NAKAMURA",
-        "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Djadja",
-      "url": "https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Goed Teken",
         "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 225737,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/2Y63yg1Lgdp96IoiZIvjKz"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "NAKAMURA",
+        "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Djadja",
+      "url": "https://open.spotify.com/track/7sKDftgGirHWTVFMtJoDoh"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -263,18 +263,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "77 Nachten",
-        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
+        "name": "Visionair",
+        "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
       },
       "artists": [
         {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
         }
       ],
-      "duration_ms": 185487,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
+      "duration_ms": 156081,
+      "name": "DomDoen",
+      "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -295,6 +299,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "77 Nachten",
+        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "duration_ms": 185487,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6JbQ9aaIInPGBPblLb3gn4"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 226912,
       "name": "Ik Kom Bij Je",
       "url": "https://open.spotify.com/track/5CeKSGsjyGQ0ck2UeMDbBw"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Visionair",
-        "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
-      },
-      "artists": [
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "DomDoen",
-      "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "We Moeten Door",
+        "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 204787,
+      "name": "Officieel",
+      "url": "https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Hij Is Van Mij (feat. Bizzey)",
         "url": "https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL"
       },
@@ -431,6 +447,26 @@
       "duration_ms": 214387,
       "name": "Hij Is Van Mij (feat. Bizzey)",
       "url": "https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Jonathan",
+        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 205243,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -463,22 +499,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "We Moeten Door",
-        "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 204787,
-      "name": "Officieel",
-      "url": "https://open.spotify.com/track/3e0gMtgOOLGPFLzPWR7xzb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Reset The Levels II: Boulevard",
         "url": "https://open.spotify.com/album/6cHwqPB2BwDQyWy4EBRQrx"
       },
@@ -503,26 +523,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Jonathan",
-        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 205243,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hella Cash",
         "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
       },
@@ -535,6 +535,30 @@
       "duration_ms": 175663,
       "name": "Catch Up",
       "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Hard Work Pays Off",
+        "url": "https://open.spotify.com/album/30r2xjD5wI2snJXHZZhtnU"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        },
+        {
+          "name": "SBMG",
+          "url": "https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr"
+        }
+      ],
+      "duration_ms": 286073,
+      "name": "Alaka",
+      "url": "https://open.spotify.com/track/1VUBnozAZ9KRY9mYzaSWM1"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -607,30 +631,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Hard Work Pays Off",
-        "url": "https://open.spotify.com/album/30r2xjD5wI2snJXHZZhtnU"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "SBMG",
-          "url": "https://open.spotify.com/artist/3HL2hJ9MmM9eazDokIndkr"
-        }
-      ],
-      "duration_ms": 286073,
-      "name": "Alaka",
-      "url": "https://open.spotify.com/track/1VUBnozAZ9KRY9mYzaSWM1"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "18 Plus",
         "url": "https://open.spotify.com/album/2Gc6j66PjKX8VY8Mf3jK0N"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 205000,
       "name": "18 Plus",
       "url": "https://open.spotify.com/track/6M6Tkjn7e4TTVXBpudaGxb"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Reset The Levels III",
+        "url": "https://open.spotify.com/album/6kNCwHpUF5KxvBPr7cmxad"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 216861,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/5e7W7nBD5KG2KHCnazm1Hz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -687,22 +707,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Reset The Levels III",
-        "url": "https://open.spotify.com/album/6kNCwHpUF5KxvBPr7cmxad"
+        "name": "Hard Work Pays Off 2",
+        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
       },
       "artists": [
         {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
         },
         {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 216861,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/5e7W7nBD5KG2KHCnazm1Hz"
+      "duration_ms": 207398,
+      "name": "Ik Was Al Binnen",
+      "url": "https://open.spotify.com/track/7L50xSfZiTi0uxgKLKGL7D"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -739,26 +759,6 @@
       "duration_ms": 155433,
       "name": "Tout Est Bon",
       "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hard Work Pays Off 2",
-        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 207398,
-      "name": "Ik Was Al Binnen",
-      "url": "https://open.spotify.com/track/7L50xSfZiTi0uxgKLKGL7D"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Nachtvlinder",
         "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 147467,
       "name": "Go Go Club",
       "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Give Dem",
-        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 189757,
-      "name": "Give Dem",
-      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Op en Neer",
         "url": "https://open.spotify.com/album/2K2Jya77c2tHXPMRNuT8bl"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 187470,
       "name": "Op en Neer",
       "url": "https://open.spotify.com/track/6ASXDkfwJWkwfIUvXVXP5s"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Give Dem",
+        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "duration_ms": 189757,
+      "name": "Give Dem",
+      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "We Doen Ons Best",
+        "url": "https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Niet Zo",
+      "url": "https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Spiritual",
         "url": "https://open.spotify.com/album/764ROddbOz7lLkKLexbdKR"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 176366,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/4PSltAygj37fHdUccvL1x5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "We Doen Ons Best",
-        "url": "https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Niet Zo",
-      "url": "https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amiri Jeans",
-        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
-      },
-      "artists": [
-        {
-          "name": "Philly Mor\u00e9",
-          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 146822,
-      "name": "Amiri Jeans",
-      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Forever Lit",
         "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Amiri Jeans",
+        "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
+      },
+      "artists": [
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 146822,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
     },
     {
       "added_at": "2024-07-19 06:38:33",

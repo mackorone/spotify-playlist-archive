@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129450,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl"
+    },
+    {
+      "album": {
         "name": "I Wanna Love You (But I Don't) / I hope you die first",
         "url": "https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8"
       },
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 154042,
       "name": "Samma det",
       "url": "https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh"

@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 84438,
+  "num_followers": 84455,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Banger Hart",
+        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
+      },
+      "artists": [
+        {
+          "name": "Thymo",
+          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
+        },
+        {
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
+        }
+      ],
+      "duration_ms": 166487,
+      "name": "Banger Hart",
+      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "City Streets",
         "url": "https://open.spotify.com/album/0sXs88sWqgcucXTKC5bV6R"
       },
@@ -707,26 +727,6 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Banger Hart",
-        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
-      },
-      "artists": [
-        {
-          "name": "Thymo",
-          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
-        },
-        {
-          "name": "ANGUZ",
-          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
-        }
-      ],
-      "duration_ms": 166487,
-      "name": "Banger Hart",
-      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
         "name": "Links, Rechts",
         "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
       },
@@ -743,26 +743,6 @@
       "duration_ms": 192000,
       "name": "Links, Rechts",
       "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Bietje Bas",
-        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
-      },
-      "artists": [
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Schorre Chef & MC Vals",
-          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Bietje Bas",
-      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -791,6 +771,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Bietje Bas",
+        "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Schorre Chef & MC Vals",
+          "url": "https://open.spotify.com/artist/3QhXn4Os5E66iv0uUKXbK0"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "Bietje Bas",
+      "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "In Mijn Bloed (feat. Eelco)",
         "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
       },
@@ -811,6 +811,30 @@
       "duration_ms": 191174,
       "name": "In Mijn Bloed (feat. Eelco)",
       "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
+        "name": "Ons Moeder Zeej Nog (Special Krew Total Loss Remix)",
+        "url": "https://open.spotify.com/album/4VaDQ9MRyqYgIvbpdHX3lB"
+      },
+      "artists": [
+        {
+          "name": "Jan Biggel",
+          "url": "https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs"
+        },
+        {
+          "name": "Special Krew",
+          "url": "https://open.spotify.com/artist/7kjwXYHF7QavObEcFRJLpB"
+        },
+        {
+          "name": "Total Loss",
+          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
+        }
+      ],
+      "duration_ms": 156692,
+      "name": "Ons Moeder Zeej Nog - Special Krew Total Loss Remix",
+      "url": "https://open.spotify.com/track/2rDH1NyPLSfhg6USrQ0IvK"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -839,30 +863,6 @@
       "duration_ms": 174582,
       "name": "Ze Komt Uit Amsterdam - LNY TNZ Remix",
       "url": "https://open.spotify.com/track/2uQ9kiGGO5tr4rSXB7UQtX"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Ons Moeder Zeej Nog (Special Krew Total Loss Remix)",
-        "url": "https://open.spotify.com/album/4VaDQ9MRyqYgIvbpdHX3lB"
-      },
-      "artists": [
-        {
-          "name": "Jan Biggel",
-          "url": "https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs"
-        },
-        {
-          "name": "Special Krew",
-          "url": "https://open.spotify.com/artist/7kjwXYHF7QavObEcFRJLpB"
-        },
-        {
-          "name": "Total Loss",
-          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
-        }
-      ],
-      "duration_ms": 156692,
-      "name": "Ons Moeder Zeej Nog - Special Krew Total Loss Remix",
-      "url": "https://open.spotify.com/track/2rDH1NyPLSfhg6USrQ0IvK"
     },
     {
       "added_at": "2025-10-21 11:57:23",

@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -630,6 +630,24 @@
     {
       "album": {
         "name": "The Songs That Got Away",
+        "url": "https://open.spotify.com/album/5kd8kszLWEQXdizJ2Q3dfe"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Away from You",
+      "url": "https://open.spotify.com/track/3TyUPxBrAFRKL5Wq2v7qWD"
+    },
+    {
+      "album": {
+        "name": "The Songs That Got Away",
         "url": "https://open.spotify.com/album/1vB4Brlk3L3EHzmi2D6XXr"
       },
       "artists": [
@@ -640,7 +658,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 208000,
       "name": "Away From You - From \"Rex\"",
       "url": "https://open.spotify.com/track/1JfwmxNPr5YgHEQJYjDQPW"
@@ -7842,7 +7860,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 164173,
       "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"

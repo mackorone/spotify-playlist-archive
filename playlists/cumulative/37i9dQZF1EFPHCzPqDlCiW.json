@@ -386,6 +386,24 @@
     {
       "album": {
         "name": "Freya Ridings",
+        "url": "https://open.spotify.com/album/4mxedBslDnsCSdZENEitqY"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/2isF7lcbmnz6ycmOezX3hw"
+    },
+    {
+      "album": {
+        "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
       "artists": [
@@ -396,7 +414,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 174278,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/4G9riegFbyX3uBZhCACDQh"
@@ -3008,6 +3026,24 @@
     {
       "album": {
         "name": "Live At St Pancras Old Church",
+        "url": "https://open.spotify.com/album/7tOOOTgD0ugP6KHw66zSUg"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "Signals (Live At St Pancras Old Church)",
+      "url": "https://open.spotify.com/track/0xWy6gBqELoM9a53ItNkyo"
+    },
+    {
+      "album": {
+        "name": "Live At St Pancras Old Church",
         "url": "https://open.spotify.com/album/3QwlRqRlEvJnEcKNWTuuN1"
       },
       "artists": [
@@ -3018,7 +3054,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 237973,
       "name": "Signals - Live At St Pancras Old Church",
       "url": "https://open.spotify.com/track/5WTWrbK15e3zJa61LjYH0i"

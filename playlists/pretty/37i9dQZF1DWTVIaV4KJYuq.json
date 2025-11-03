@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 706970,
+  "num_followers": 707059,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 255675,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/6JTj9IVdUqDd39M7UZLfGX"
-      },
-      "artists": [
-        {
-          "name": "Noah Chenfeld",
-          "url": "https://open.spotify.com/artist/3dVlgSRdeIxsvE0ALIJ7TW"
-        }
-      ],
-      "duration_ms": 184386,
-      "name": "Born To Run",
-      "url": "https://open.spotify.com/track/0JHBf66hHh8N3Cj3uiTPYE"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Lunafied",
         "url": "https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 320693,
       "name": "Season of the Witch",
       "url": "https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/6JTj9IVdUqDd39M7UZLfGX"
+      },
+      "artists": [
+        {
+          "name": "Noah Chenfeld",
+          "url": "https://open.spotify.com/artist/3dVlgSRdeIxsvE0ALIJ7TW"
+        }
+      ],
+      "duration_ms": 184386,
+      "name": "Born To Run",
+      "url": "https://open.spotify.com/track/0JHBf66hHh8N3Cj3uiTPYE"
     },
     {
       "added_at": "2024-10-18 04:00:00",

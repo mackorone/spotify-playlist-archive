@@ -2,7 +2,7 @@
 
 ### [Les Dieux du Stade](https://open.spotify.com/playlist/37i9dQZF1DXbJR1DWfHjWw)
 
-> Les plus grands hymnes de stade du rock\. Photo : Linkin Park
+> Les plus grands hymnes de stade du rock\. Photo : Metallica
 
 72 songs - 4 hr 52 min
 

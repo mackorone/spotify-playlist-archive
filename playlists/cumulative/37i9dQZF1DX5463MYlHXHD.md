@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-353 songs - 19 hr 37 min
+354 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/track/7xPuaedCi3GLu5TmtuUkt9) | [El Apache Ness](https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [L\-Gante \- El Apache Ness \- Perro Primo](https://open.spotify.com/album/0GnWjEYxMShvTyDeBynKBs) | 3:23 | 2023-05-26 | 2023-10-27 |
 | [La Bomba](https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Puro Movimiento](https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi) | 4:53 | 2023-05-26 | 2024-02-15 |
 | [La cajita feliz](https://open.spotify.com/track/7xonDv1Le9tMf7F4ZXTzTT) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD1](https://open.spotify.com/album/3nvl4wG6RklqOwlZdJ06oQ) | 2:43 | 2024-04-19 | 2024-07-04 |
+| [La Canción Del Yuta](https://open.spotify.com/track/3WL1JRWYnfjqpfz8gHqcgL) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 3:59 | 2025-10-24 |  |
 | [La cola less](https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:43 | 2024-04-19 |  |
 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 | 2023-05-26 |  |
 | [LA COLORADA](https://open.spotify.com/track/7MGOmc1KMZvV0o8iuT8CgE) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [LA COLORADA](https://open.spotify.com/album/6AcR4JanfYZfbneCfpNYG9) | 3:13 | 2024-02-02 | 2024-02-10 |
@@ -167,7 +168,7 @@
 | [La Morocha](https://open.spotify.com/track/4JRibFMCuyMseKEGWAJ4C7) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [La Morocha](https://open.spotify.com/album/059QWHlbZgszSAf3rQ50Ag) | 2:17 | 2024-03-08 | 2024-03-16 |
 | [La Motito de Carlitos](https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Lo Peor](https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc) | 3:56 | 2023-05-26 | 2024-03-06 |
 | [La Noche](https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [La Noche](https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL) | 2:44 | 2025-07-25 |  |
-| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 |  |
+| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 | 2025-11-03 |
 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 | 2024-03-05 |  |
 | [La Que Quiero](https://open.spotify.com/track/1H69uZDuS45Am8HF5CFXnx) | [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [La Que Quiero](https://open.spotify.com/album/4asWvx1PseI23skzfVbDkr) | 2:43 | 2023-11-17 | 2023-11-25 |
 | [La Ranchada](https://open.spotify.com/track/5RIP4Uy07AfA9ilF58h3DW) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [La Ranchada](https://open.spotify.com/album/2F0O2YclNhQdwKp865K2bH) | 7:33 | 2023-09-22 | 2023-09-30 |

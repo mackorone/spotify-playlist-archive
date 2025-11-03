@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Gecko&Tokage Parade",
-  "num_followers": 32204,
+  "num_followers": 32209,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-10-07 15:00:17",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 231722,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
-    },
-    {
-      "added_at": "2025-10-07 15:00:17",
-      "album": {
         "name": "CROSSING",
         "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 270806,
       "name": "Crossing",
       "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
+    },
+    {
+      "added_at": "2025-10-07 15:00:17",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 231722,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
     },
     {
       "added_at": "2025-10-07 15:00:17",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-10-07 15:00:17",
       "album": {
-        "name": "color & monochrome 2",
-        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Acceleration",
-      "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
-    },
-    {
-      "added_at": "2025-10-07 15:00:17",
-      "album": {
         "name": "REAL KICKS",
         "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 186906,
       "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
       "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
+    },
+    {
+      "added_at": "2025-10-07 15:00:17",
+      "album": {
+        "name": "color & monochrome 2",
+        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Acceleration",
+      "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
     },
     {
       "added_at": "2025-10-07 15:00:17",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-10-07 15:00:17",
       "album": {
-        "name": "Color & Monochrome 3",
-        "url": "https://open.spotify.com/album/5qZgX7UnSf2lY1cej9u6Ev"
+        "name": "Defying",
+        "url": "https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq"
       },
       "artists": [
         {
-          "name": "Gecko&Tokage Parade",
-          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+          "name": "TRI4TH",
+          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
         }
       ],
-      "duration_ms": 256136,
-      "name": "after heat",
-      "url": "https://open.spotify.com/track/5HIuPHs5AtD3yYEJO5kEfc"
+      "duration_ms": 208026,
+      "name": "Sol Levante",
+      "url": "https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

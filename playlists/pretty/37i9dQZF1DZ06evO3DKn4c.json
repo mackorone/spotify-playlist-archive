@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQP8AAAAAAAAGxncMev0JLpLLhRFt6dP",
+  "snapshot_id": "aQVNgAAAAABSy6dC8RvHQxV3672sWcfi",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bambas & Biritas, Vol. 1",
-        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
+        "name": "Crian\u00e7as Selvagens",
+        "url": "https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1"
       },
       "artists": [
         {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+          "name": "Hot e Oreia",
+          "url": "https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         },
         {
-          "name": "DJ Soul Slinger",
-          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Oreia",
+          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
+        },
+        {
+          "name": "Hot",
+          "url": "https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A"
         }
       ],
-      "duration_ms": 307253,
-      "name": "Na Noite Se Resolve",
-      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+      "duration_ms": 235413,
+      "name": "Papaia",
+      "url": "https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x"
     },
     {
       "added_at": null,
@@ -631,34 +639,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crian\u00e7as Selvagens",
-        "url": "https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1"
+        "name": "Bambas & Biritas, Vol. 1",
+        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
       "artists": [
         {
-          "name": "Hot e Oreia",
-          "url": "https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE"
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Oreia",
-          "url": "https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb"
-        },
-        {
-          "name": "Hot",
-          "url": "https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A"
+          "name": "DJ Soul Slinger",
+          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
         }
       ],
-      "duration_ms": 235413,
-      "name": "Papaia",
-      "url": "https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x"
+      "duration_ms": 307253,
+      "name": "Na Noite Se Resolve",
+      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
     },
     {
       "added_at": null,

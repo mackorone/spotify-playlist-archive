@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > meet joshua slone 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,314 likes - 148 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,328 likes - 148 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

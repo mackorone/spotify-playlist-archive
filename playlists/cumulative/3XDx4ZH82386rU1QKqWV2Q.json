@@ -2613,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "Cloudkissed",
+        "url": "https://open.spotify.com/album/2odeG0jBc8S5OYz89lhkt8"
+      },
+      "artists": [
+        {
+          "name": "recently",
+          "url": "https://open.spotify.com/artist/4HlMPckD6BC9RoHjxOhPsG"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Cloudkissed",
+      "url": "https://open.spotify.com/track/0M47BXhldZDsHKqUX4ShBw"
+    },
+    {
+      "album": {
         "name": "Club Memphis Mane",
         "url": "https://open.spotify.com/album/5JH573ZOS4W4xnmYdegsLz"
       },
@@ -6426,6 +6444,24 @@
       "duration_ms": 170593,
       "name": "hollow",
       "url": "https://open.spotify.com/track/43m2rSnNDyVc3XEg8TDJTw"
+    },
+    {
+      "album": {
+        "name": "Hollow Tipsy",
+        "url": "https://open.spotify.com/album/5YSbD5NFJxV8lOa3DKZUny"
+      },
+      "artists": [
+        {
+          "name": "SH|333|N",
+          "url": "https://open.spotify.com/artist/53nnLwhkXylmBkCBNQeJQS"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235448,
+      "name": "Hollow Tipsy",
+      "url": "https://open.spotify.com/track/68NgxnDua1Tu0fJWMXf4wT"
     },
     {
       "album": {
@@ -13208,7 +13244,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 229195,
       "name": "Squidmeat",
       "url": "https://open.spotify.com/track/7cRnMq8EftSHAoso0cgqPJ"
@@ -14650,6 +14686,28 @@
       "duration_ms": 132667,
       "name": "VAMP1R3 QUEEN",
       "url": "https://open.spotify.com/track/2e7kJNQtEV4qYMrNaRDNOP"
+    },
+    {
+      "album": {
+        "name": "VANQUISH",
+        "url": "https://open.spotify.com/album/7uBTvcZiIETXEctgPAccEH"
+      },
+      "artists": [
+        {
+          "name": "HAIKU",
+          "url": "https://open.spotify.com/artist/25c4vcdOlW45YrXxTCBipR"
+        },
+        {
+          "name": "SAGE",
+          "url": "https://open.spotify.com/artist/5Hrr2Bao1LAeHZ5n5kARe4"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "VANQUISH",
+      "url": "https://open.spotify.com/track/659X42ZD5hP6w2IlAPZpmH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnjjHJCYzB8.md) - [plain]
 
 > Spotify Singles releases in 2024\. Cover: mgk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,961 likes - 63 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,959 likes - 63 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

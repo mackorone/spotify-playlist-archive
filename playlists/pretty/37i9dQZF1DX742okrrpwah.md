@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > ROSALÍA, Josman et Amir au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,435 likes - 67 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,401 likes - 67 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

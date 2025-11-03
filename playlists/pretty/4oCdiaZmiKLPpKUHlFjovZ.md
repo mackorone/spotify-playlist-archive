@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Money Man, Peezy &amp; Blxst.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,896 likes - 97 songs - 4 hr 34 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,887 likes - 97 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 212000,
       "name": "A Couple Minutes",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
@@ -12312,7 +12312,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 160706,
       "name": "C'est l'Halloween",
       "url": "https://open.spotify.com/track/7nCBy5X4ZxSm21aBHh6ICZ"
@@ -24136,7 +24136,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
@@ -27966,7 +27966,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
@@ -29122,7 +29122,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -50584,7 +50584,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 92384,
       "name": "MONTAGEM RUGADA",
       "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
@@ -52136,7 +52136,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 234640,
       "name": "My Ride or Die",
       "url": "https://open.spotify.com/track/6eo9UbUfjybG8VQLYspVO6"
@@ -56668,6 +56668,28 @@
       "duration_ms": 197000,
       "name": "Oogie Boogie's Song",
       "url": "https://open.spotify.com/track/3LrhBpvdIs7cmwNAtKNk3I"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "Ed Ivory",
+          "url": "https://open.spotify.com/artist/2Iv9xUxQZyMxknah773Sdw"
+        },
+        {
+          "name": "Ken Page",
+          "url": "https://open.spotify.com/artist/5AAomuiyEWayklKG3qLv6U"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Oogie Boogie's Song",
+      "url": "https://open.spotify.com/track/3MX6S65yDDJGPxVtBzru5w"
     },
     {
       "album": {

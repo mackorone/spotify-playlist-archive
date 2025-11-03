@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 149220,
       "name": "A la turca",
       "url": "https://open.spotify.com/track/3UD1yaINhRa0gV6kTSU26e"
@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -4700,7 +4700,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -9729,6 +9729,24 @@
     },
     {
       "album": {
+        "name": "Daca Iubesti O Tiganca",
+        "url": "https://open.spotify.com/album/7LuhrPxOYZZ2qrlLqUQYEd"
+      },
+      "artists": [
+        {
+          "name": "Florin Salam",
+          "url": "https://open.spotify.com/artist/6Ujb9g9pljLl91qELsPZYo"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201558,
+      "name": "Daca Iubesti O Tiganca",
+      "url": "https://open.spotify.com/track/2bLKqViiiOcKrI8msQKoJr"
+    },
+    {
+      "album": {
         "name": "Daca nu dormi, suna-ma",
         "url": "https://open.spotify.com/album/1lTFMTslwUUA5ZqNxzGRWJ"
       },
@@ -12656,7 +12674,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 157674,
       "name": "E Wow",
       "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
@@ -17842,7 +17860,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 152459,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/5ucI5OWW5VlzU9jdZmTQ1W"
@@ -21430,7 +21448,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 186923,
       "name": "KIM K",
       "url": "https://open.spotify.com/track/4WRdEbfgaTrVgpJ2M4u21p"
@@ -24944,7 +24962,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 150000,
       "name": "MAZDA",
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
@@ -25082,7 +25100,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 159858,
       "name": "Meneaito",
       "url": "https://open.spotify.com/track/4Cy1wIbi2TGoiCBXE9qBID"
@@ -28784,7 +28802,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 154287,
       "name": "Ola Creola",
       "url": "https://open.spotify.com/track/70e0WCyKKWe1z7dX5CV2e7"
@@ -35506,7 +35524,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -35642,7 +35660,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 157974,
       "name": "SHE WANNA DANCE",
       "url": "https://open.spotify.com/track/017lLMCoXyiJrwhu9DfqiQ"
@@ -43358,7 +43376,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 217099,
       "name": "VIZZZCOL",
       "url": "https://open.spotify.com/track/2ewcWrKxkz5QZgBSX89cly"
@@ -45032,7 +45050,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 139772,
       "name": "Yabadabadu",
       "url": "https://open.spotify.com/track/2TGBsAo4RNtdV1EFH9kbpc"

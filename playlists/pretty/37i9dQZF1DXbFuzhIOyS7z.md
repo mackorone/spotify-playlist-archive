@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,263 likes - 40 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,271 likes - 40 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [君のつづき](https://open.spotify.com/track/2jyuUOXKE5qOc58DyhNPeJ) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Seven Girls’ H\(e\)avens](https://open.spotify.com/album/0C0Sax59f8NIgUwNfo8PiC) | 3:37 |
 | 40 | [思想犯](https://open.spotify.com/track/6SNXEbIkap8lN8cuDdjXox) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [思想犯](https://open.spotify.com/album/5hzo10fNdAXhEJ3o9nFAXS) | 4:12 |
 
-Snapshot ID: `AAAAANnllXWFYRlkulfnPidDPkNYKDXv`
+Snapshot ID: `AAAAAGUqm2YU574SdZxjQ2ZDhrbsMUJE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: BFLQuatro, CC, A3 en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,135 likes - 68 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,133 likes - 68 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

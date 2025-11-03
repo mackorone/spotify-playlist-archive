@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Jung Seung Hwan(\uc815\uc2b9\ud658)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:  SUHO(\uc218\ud638)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 232615,
       "name": "A Day",
       "url": "https://open.spotify.com/track/7KxDaaCFPOm6p8Hg4CIhQ6"
+    },
+    {
+      "album": {
+        "name": "EXchange4, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI"
+      },
+      "artists": [
+        {
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "A Day",
+      "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
     },
     {
       "album": {
@@ -4359,6 +4377,28 @@
     },
     {
       "album": {
+        "name": "Yountoven Project",
+        "url": "https://open.spotify.com/album/0gA0nSQKheVIEhle2uyk1w"
+      },
+      "artists": [
+        {
+          "name": "Yountoven",
+          "url": "https://open.spotify.com/artist/13PsdrWmNx5EcibArzkbcO"
+        },
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Could we love our misfortune?",
+      "url": "https://open.spotify.com/track/66uzcMRAnwPqhcneAqII9G"
+    },
+    {
+      "album": {
         "name": "Could you come out for a second (Prod. YounToven)",
         "url": "https://open.spotify.com/album/1QzfVa9kZIc6PFvpIwtxFS"
       },
@@ -4446,7 +4486,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 258440,
       "name": "Coward",
       "url": "https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT"
@@ -5454,7 +5494,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 301653,
       "name": "Don`t you know(PROD.ROCOBERRY)",
       "url": "https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV"
@@ -5830,6 +5870,28 @@
       "duration_ms": 250653,
       "name": "Empty Spot",
       "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
+    },
+    {
+      "album": {
+        "name": "end again",
+        "url": "https://open.spotify.com/album/1F09qmtRimtcyirfPMBb7K"
+      },
+      "artists": [
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        },
+        {
+          "name": "Baek Grim",
+          "url": "https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "end again",
+      "url": "https://open.spotify.com/track/58G9AzGzC2wRYCBUCrs2xx"
     },
     {
       "album": {
@@ -6978,7 +7040,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 254013,
       "name": "Fixing My Makeup - 2025 Remake",
       "url": "https://open.spotify.com/track/1DyufQskFnV9W8noGwcsYY"
@@ -7490,6 +7552,24 @@
       "duration_ms": 241586,
       "name": "Fox Rain (The Moon during the Day)",
       "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
+    },
+    {
+      "album": {
+        "name": "From Love",
+        "url": "https://open.spotify.com/album/3nRi3fNa4jP1ezEKjANq1M"
+      },
+      "artists": [
+        {
+          "name": "Kim Gyeol",
+          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "From Love",
+      "url": "https://open.spotify.com/track/77jx4JT1UDC00OE6aR8cbG"
     },
     {
       "album": {
@@ -8360,7 +8440,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 295413,
       "name": "Heavenly Ever After",
       "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
@@ -9092,7 +9172,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 270000,
       "name": "How have you been",
       "url": "https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1"
@@ -10255,6 +10335,24 @@
     },
     {
       "album": {
+        "name": "I Regret It",
+        "url": "https://open.spotify.com/album/2YMAPWDtMieAfgh3vab5Wa"
+      },
+      "artists": [
+        {
+          "name": "Park Jang Hyun",
+          "url": "https://open.spotify.com/artist/0aQHn3glDk5hK63KnE3ZpO"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "I Regret It",
+      "url": "https://open.spotify.com/track/41zOdDjsAiTzAdFZupq7JS"
+    },
+    {
+      "album": {
         "name": "Sincerely yours (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/02bhP9otK5sM8f3fPcxE17"
       },
@@ -11198,7 +11296,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 215433,
       "name": "I`m Firefly",
       "url": "https://open.spotify.com/track/27QLNrvWbFcwOYr8RpOpxg"
@@ -12965,6 +13063,24 @@
     },
     {
       "album": {
+        "name": "Last Promise",
+        "url": "https://open.spotify.com/album/1RjWMmrAfaXvYtwOTfbgsY"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239482,
+      "name": "Last Promise",
+      "url": "https://open.spotify.com/track/7LFoFmLJW7WW341o6Lb1TW"
+    },
+    {
+      "album": {
         "name": "Last Scene - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7"
       },
@@ -13322,7 +13438,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 248013,
       "name": "LIE",
       "url": "https://open.spotify.com/track/3Fjb8kEVJ6tOfm2uUFTEt7"
@@ -14808,7 +14924,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 223800,
       "name": "Love will find a way",
       "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
@@ -16778,7 +16894,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 224026,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/3iJxBDym1SeqNqJqnvreHK"
@@ -16814,7 +16930,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 265160,
       "name": "Never Loved This Way Before",
       "url": "https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0"
@@ -19120,7 +19236,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 168013,
       "name": "Rebloom",
       "url": "https://open.spotify.com/track/5GbwES8DxcSHpRzVs9vuBQ"
@@ -25066,7 +25182,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 234013,
       "name": "Unspoken Goodbye",
       "url": "https://open.spotify.com/track/1uAvwjXUmaVKtf53rhLQey"
@@ -26119,6 +26235,24 @@
     },
     {
       "album": {
+        "name": "WHERE GOODBYE STOPS",
+        "url": "https://open.spotify.com/album/7F5sYAwhgQSHEEmDe5RckX"
+      },
+      "artists": [
+        {
+          "name": "Kwon Euibin",
+          "url": "https://open.spotify.com/artist/2jzzW4w2JlDd1GIP0MSlv8"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242998,
+      "name": "WHERE GOODBYE STOPS",
+      "url": "https://open.spotify.com/track/7w5VUPT3Vcci4WkpS6MG3P"
+    },
+    {
+      "album": {
         "name": "Where Love Stays",
         "url": "https://open.spotify.com/album/5SxmexvqG0zsQZmYT1kX0d"
       },
@@ -26404,7 +26538,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 213351,
       "name": "Will You Take My Hand?",
       "url": "https://open.spotify.com/track/6uMWM5uqcPcrSyuisgqATu"
@@ -26516,6 +26650,24 @@
       "duration_ms": 183186,
       "name": "Winner",
       "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
+    },
+    {
+      "album": {
+        "name": "Seasons of Love 0.3 : Winter is coming",
+        "url": "https://open.spotify.com/album/5JSwZTB1M1I15zlmDrMxvR"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Winter is coming",
+      "url": "https://open.spotify.com/track/6aqWaABmxn1lgHb1aAmrqm"
     },
     {
       "album": {
@@ -27114,7 +27266,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 240026,
       "name": "Yellow Spring",
       "url": "https://open.spotify.com/track/0JyVtfJ6Z8T6VHXG1iD1pE"
@@ -27562,6 +27714,24 @@
       "duration_ms": 205312,
       "name": "You, Clouds, Rain",
       "url": "https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv"
+    },
+    {
+      "album": {
+        "name": "you, you (English Ver.)",
+        "url": "https://open.spotify.com/album/2NM6feeKRKvbNbeW6P4HZr"
+      },
+      "artists": [
+        {
+          "name": "The Stray",
+          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "you, you (English Ver.)",
+      "url": "https://open.spotify.com/track/18hFmXOeH3uZF5C8cVLrO5"
     },
     {
       "album": {
@@ -28414,7 +28584,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 3702,
       "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 - \uae40\ub098\uc601",
       "url": "https://open.spotify.com/track/1UWp8Mit5wHqql6YSVakav"

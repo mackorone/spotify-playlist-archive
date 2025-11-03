@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1338319,
+  "num_followers": 1338211,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
@@ -1199,6 +1215,22 @@
       "duration_ms": 276437,
       "name": "Guy Fawkes Tesco Dissociation",
       "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Reach Out And Kiss Me",
+        "url": "https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 210691,
+      "name": "Reach Out And Kiss Me",
+      "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1235,38 +1267,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
-      },
-      "artists": [
-        {
-          "name": "Jol\u00e9",
-          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Reach Out And Kiss Me",
-        "url": "https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 210691,
-      "name": "Reach Out And Kiss Me",
-      "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "damn, look at the view !",
         "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Be Still",
-        "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 241531,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Patterns in Repeat",
         "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 200648,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 241531,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "A Wonder Day",
-        "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 209352,
-      "name": "A Wonder Day",
-      "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "The Seize",
         "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "A Wonder Day",
+        "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 209352,
+      "name": "A Wonder Day",
+      "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "His Loss",
-        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
-      },
-      "artists": [
-        {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
-        }
-      ],
-      "duration_ms": 150839,
-      "name": "His Loss",
-      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "Save My Heart",
@@ -1479,6 +1463,22 @@
       "duration_ms": 181260,
       "name": "Save My Heart",
       "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "His Loss",
+        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 150839,
+      "name": "His Loss",
+      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "Racecar",
-        "url": "https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4"
-      },
-      "artists": [
-        {
-          "name": "Jordan Patterson",
-          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
-        }
-      ],
-      "duration_ms": 337561,
-      "name": "Racecar",
-      "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "Running Out Of Time",
@@ -1543,6 +1527,22 @@
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Racecar",
+        "url": "https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "duration_ms": 337561,
+      "name": "Racecar",
+      "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Yours Always",
-        "url": "https://open.spotify.com/album/5yV45bSyW7plb2JtbFKO3K"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 158213,
-      "name": "Summer in June",
-      "url": "https://open.spotify.com/track/4LJk7omtHh7tZEMxbNEJHw"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Portland",
         "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Yours Always",
+        "url": "https://open.spotify.com/album/5yV45bSyW7plb2JtbFKO3K"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 158213,
+      "name": "Summer in June",
+      "url": "https://open.spotify.com/track/4LJk7omtHh7tZEMxbNEJHw"
     }
   ],
   "unique_name": "Easy",

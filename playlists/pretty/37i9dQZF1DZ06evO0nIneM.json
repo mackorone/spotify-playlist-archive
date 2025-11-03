@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92352,
+  "num_followers": 92365,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQP8AAAAAAC9cD6CFkNRezb7apr0gX/s",
+  "snapshot_id": "aQVNgAAAAACvvVeW7PL47sezn+X/ieu4",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Later Als Ik Groter Ben",
-        "url": "https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 204429,
-      "name": "Later Als Ik Groter Ben",
-      "url": "https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
         "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 238083,
       "name": "Laat Me Los",
       "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Later Als Ik Groter Ben",
+        "url": "https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 204429,
+      "name": "Later Als Ik Groter Ben",
+      "url": "https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I"
     },
     {
       "added_at": null,

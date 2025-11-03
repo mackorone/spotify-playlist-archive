@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 15 | [Outro](https://open.spotify.com/track/3dl4BReGC1noYe4tdKuF9e) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 2:39 |
 | 16 | [All That You Are](https://open.spotify.com/track/1BMOylkmZXBLDChFm7Wqq9) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:37 |
 | 17 | [I Literally Never Think About You](https://open.spotify.com/track/2HMxow43AQQGcsMoi0YEcq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [I Literally Never Think About You](https://open.spotify.com/album/3dSrqg19hoTFp8AeI7MEeX) | 2:55 |
-| 18 | [Don't Think](https://open.spotify.com/track/1N9OZZ3p3qCquH3MkfhRRG) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:26 |
-| 19 | [MONEY DANCE](https://open.spotify.com/track/6ttiYv0BKaW7spulWhKQqj) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [MONEY DANCE](https://open.spotify.com/album/2Hb6Kf0KAyBBmVB5BowSBx) | 2:15 |
+| 18 | [MONEY DANCE](https://open.spotify.com/track/6ttiYv0BKaW7spulWhKQqj) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [MONEY DANCE](https://open.spotify.com/album/2Hb6Kf0KAyBBmVB5BowSBx) | 2:15 |
+| 19 | [Don't Think](https://open.spotify.com/track/1N9OZZ3p3qCquH3MkfhRRG) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:26 |
 | 20 | [Him Too](https://open.spotify.com/track/1jC4rFGFCNK1CqODO7xe3i) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:09 |
 | 21 | [Limbo](https://open.spotify.com/track/6eOrihTpiGhyDNP4w0HEjI) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 |
 | 22 | [In a Way](https://open.spotify.com/track/2716XnQDivAHzu3nAae4zz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 2:36 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 64 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 | 65 | [Loose](https://open.spotify.com/track/5XNK0HZfoTf7hhivBgmeUh) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Loose \[ALT\]](https://open.spotify.com/album/6iE7hjTGriBjRuzCl2kOYS) | 2:58 |
 
-Snapshot ID: `AcAdHAAAAABSY/hzqT860tYs+A+qKtu3`
+Snapshot ID: `AcAisgAAAADE295JZjpCuyco+ZpqIN9r`

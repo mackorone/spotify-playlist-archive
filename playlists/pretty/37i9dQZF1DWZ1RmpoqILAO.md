@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie twang fall bby 🍂 Whitney on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,152 likes - 155 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,165 likes - 155 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

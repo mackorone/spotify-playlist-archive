@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92532,
+  "num_followers": 92531,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQP8AAAAAAAAeoJeEpQe5marSgs9haO1",
+  "snapshot_id": "aQVNgAAAAACEXgP5YS3uoX/gB3lAYYLn",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Seeing Double at the Triple Rock",
-      "url": "https://open.spotify.com/track/5K5oUwfMJeRClJLQUSdKuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The War on Errorism",
         "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 189733,
       "name": "The Separation of Church and Skate",
       "url": "https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Seeing Double at the Triple Rock",
+      "url": "https://open.spotify.com/track/5K5oUwfMJeRClJLQUSdKuD"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coaster",
-        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 127853,
-      "name": "We Called It America",
-      "url": "https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The War on Errorism",
         "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 201493,
       "name": "Idiots Are Taking Over",
       "url": "https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 127853,
+      "name": "We Called It America",
+      "url": "https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH"
     },
     {
       "added_at": null,

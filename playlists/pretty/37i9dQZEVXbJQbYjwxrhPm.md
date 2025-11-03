@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Only Fans](https://open.spotify.com/track/1lYu0w0V6kGnFhH4jq1ZtS) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd) | [Dopamina](https://open.spotify.com/album/4I8aVwV28P5PwjT2z4CiFZ) | 2:37 |
 | 50 | [DIAMANT](https://open.spotify.com/track/4T0l4QajiX7Izn5gzLmRiK) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Emil TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB) | [SAUCE KID 4](https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE) | 2:27 |
 
-Snapshot ID: `MJl5+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJrLeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

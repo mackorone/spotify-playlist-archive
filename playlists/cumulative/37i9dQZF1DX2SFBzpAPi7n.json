@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: JANNABI) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: FTISLAND) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 268000,
       "name": "Bye Bye (Feat. LEE MU JIN)",
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
@@ -2910,6 +2910,24 @@
       "duration_ms": 220177,
       "name": "Classic (feat. MRCH)",
       "url": "https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW"
+    },
+    {
+      "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/6ZhosGhIGeloPI8TTrOcNv"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/4fOdK6DLy3VcpagzcI2KBt"
     },
     {
       "album": {
@@ -5848,7 +5866,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 173759,
       "name": "Go Beyond",
       "url": "https://open.spotify.com/track/0w8ddKG2kK1qCB32MD69Bd"
@@ -8000,7 +8018,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 250573,
       "name": "If I have you only (My love X Nerd Connection)",
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
@@ -10892,7 +10910,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 194261,
       "name": "My star",
       "url": "https://open.spotify.com/track/6j9lOM0mmJsS4fP7s4GTrU"
@@ -12090,7 +12108,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 160000,
       "name": "Overdrop",
       "url": "https://open.spotify.com/track/13o6UaRfD4OO1hkWy4ZcWC"
@@ -16541,6 +16559,24 @@
     },
     {
       "album": {
+        "name": "The Place",
+        "url": "https://open.spotify.com/album/4PUVnefFSS0KIVVZzZZL2J"
+      },
+      "artists": [
+        {
+          "name": "hathaw9y",
+          "url": "https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223825,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/24EZZ3YKMApbZsHxnFgL2C"
+    },
+    {
+      "album": {
         "name": "CLEANING UP (Original Television Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/4WIE1wBrZ2hqzxJdyw7jdG"
       },
@@ -16848,6 +16884,24 @@
       "duration_ms": 197960,
       "name": "TIME MACHINE (2100)",
       "url": "https://open.spotify.com/track/0YdTWKY4AOJjoFRzvCv8w5"
+    },
+    {
+      "album": {
+        "name": "THE WAITS",
+        "url": "https://open.spotify.com/album/3u6aCUFSnnJEWExNS2so0K"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8REN",
+          "url": "https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180609,
+      "name": "TIME OF IT ALL",
+      "url": "https://open.spotify.com/track/534SxSJHKPEUzoQZHSxFOQ"
     },
     {
       "album": {

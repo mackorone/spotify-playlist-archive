@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,830,130 likes - 212 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,830,440 likes - 212 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 211 | [Say No More](https://open.spotify.com/track/6rUs6otgdHJYLA08iliqaE) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Say No More](https://open.spotify.com/album/0c12fGb4SJ00IcQhYAsiJs) | 2:13 |
 | 212 | [Latitude](https://open.spotify.com/track/49wbzcnZpd8ySgOP7Vn9Vu) | [Sam Matthew](https://open.spotify.com/artist/6PkYVSB01oeVQJwmfxTd6M) | [Latitude](https://open.spotify.com/album/4TeX6ZH14NxtlVCZ66mnNg) | 2:19 |
 
-Snapshot ID: `AAAAAGlIVjHRf+lQJ1PSOqv4zsmTUPAi`
+Snapshot ID: `AAAAAAynE3unWq/u+ol1aEetNiBWmGUR`

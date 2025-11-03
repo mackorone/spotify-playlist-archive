@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,882 likes - 199 songs - 9 hr 54 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,883 likes - 199 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

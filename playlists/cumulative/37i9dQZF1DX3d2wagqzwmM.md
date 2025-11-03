@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-639 songs - 1 day 8 hr 28 min
+640 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [Ong Diggi Dong](https://open.spotify.com/track/6NOJdVdJPdN86Tc27LdJrz) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Ong Diggi Dong](https://open.spotify.com/album/6LaOFBp5ty4TkzAhu9FNAz) | 3:03 | 2023-10-30 | 2023-11-21 |
 | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/track/4ygydEkcYBt05oS9sHxZ8h) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Open Sesame \(Abracadabra\) \[feat\. Leila K\]](https://open.spotify.com/album/1tx6xMbBZE2CbstHPHVWo5) | 3:39 | 2024-02-01 | 2025-03-07 |
 | [Open Your Eyes](https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Open Your Eyes](https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK) | 3:05 | 2024-07-19 | 2025-07-04 |
-| [Our Flight](https://open.spotify.com/track/1x1dUnaqOX7YpObPy1O8Lz) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Our Flight](https://open.spotify.com/album/3P3BU0w3PgyGIw3MgFbrNE) | 2:47 | 2025-08-14 |  |
+| [Our Flight](https://open.spotify.com/track/1x1dUnaqOX7YpObPy1O8Lz) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Our Flight](https://open.spotify.com/album/3P3BU0w3PgyGIw3MgFbrNE) | 2:47 | 2025-08-14 | 2025-11-03 |
 | [Our Happiness](https://open.spotify.com/track/1cz2AfXziuBivVSLmThU6g) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Our Happiness](https://open.spotify.com/album/6HJRgQY8cQ9vuffzbWcnZq) | 3:31 | 2023-08-24 | 2023-09-08 |
 | [Our House](https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Our House](https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs) | 3:12 | 2024-08-29 | 2025-08-08 |
 | [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 | 2025-03-06 | 2025-06-21 |
@@ -646,6 +646,7 @@
 | [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 | 2024-12-17 | 2025-05-30 |
 | [ZENLESS](https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x) | [ZENLESS](https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu) | 2:24 | 2024-07-04 | 2025-05-09 |
 | [ZERO GRAVITY](https://open.spotify.com/track/4Xy6yqMF7qe4FUGehWNtap) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [ZERO GRAVITY](https://open.spotify.com/album/0p1PEsKxOIeffRO4vrbUT2) | 4:32 | 2022-07-14 | 2023-01-03 |
+| [Zick Zack](https://open.spotify.com/track/3Y9J7jIrOnVeRUxMhvtEVu) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Zick Zack](https://open.spotify.com/album/6FGldN2NHAepVvpCPEC1h5) | 2:35 | 2025-10-31 |  |
 | [Zombie](https://open.spotify.com/track/3PHik6ku45PRKQjgLFWZcF) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB), [Moji](https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7) | [Zombie](https://open.spotify.com/album/5jqviMXYlVgU0UUyijJREi) | 3:32 | 2025-08-14 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

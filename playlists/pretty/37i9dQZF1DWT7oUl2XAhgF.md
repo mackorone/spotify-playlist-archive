@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Sekou
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,473 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,578 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 100 | [Forever](https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO) | [ROME](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Forever](https://open.spotify.com/album/2dMifVzH1LJCNbnAqftCVA) | 3:16 |
 | 101 | [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 |
 
-Snapshot ID: `AAAAAASNdaKt7L33NZXhkPWza5zthIiE`
+Snapshot ID: `AAAAAJb395mMC9GGOHcWRw0sFIQAurCI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,565 likes - 66 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,577 likes - 66 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 65 | [You Won't Have To Wait Til Xmas](https://open.spotify.com/track/2cinI0VmjNv5XsvUDlEPvO) | [Lee Rogers](https://open.spotify.com/artist/43h66lHTpDsF4e3EFC3QP6) | [Boss Love: The United Kingdom Collection](https://open.spotify.com/album/6Fh8Gx2zPSXOG37F1AUZIB) | 2:30 |
 | 66 | [Santa's Got a Brand New Bag](https://open.spotify.com/track/3gyxI5fCcil5xNy5RL9DPo) | [Gary Walker](https://open.spotify.com/artist/1SiS31gWN3auJDxLU1CGCL), [The Boogie Kings](https://open.spotify.com/artist/02FT4qRWquTbmIJSSSp5c8) | [Louisiana Christmas](https://open.spotify.com/album/75mbpdrEZKAXVxvXPCkCjF) | 3:09 |
 
-Snapshot ID: `AAAAAAMlwGi/QJ8jArXrqSBBRHWMC7gw`
+Snapshot ID: `AAAAABCoufrV8ke9ZQugB4GGhW0+8oCv`

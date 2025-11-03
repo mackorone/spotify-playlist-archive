@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-109 songs - 7 hr 45 min
+110 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Nyah](https://open.spotify.com/track/1QzDwVnFOBDwL7DW3eud1I) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/51l9CESGdQ1Wh9Nn3s9Gbd) | 0:50 | 2025-02-06 |  |
 | [O Que Eu Vejo](https://open.spotify.com/track/50XJtud3nYzfPcXblqtvXo) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:16 | 2022-06-04 | 2025-02-20 |
 | [O Que Eu Vejo](https://open.spotify.com/track/3Oxh0UlzbEl4DxB2XEr0Wf) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/29OeUfLJCcS7Gdd5nB6aTq) | 6:16 | 2025-02-19 |  |
-| [O Que Se Leva \(Dói\)](https://open.spotify.com/track/0HKA4jKMfPOZ3dPWIlEzzv) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Deus É Brasileiro](https://open.spotify.com/album/43lX3jomJ4z9s5lLEG8qcC) | 2:50 | 2023-12-13 |  |
+| [O Que Se Leva \(Dói\)](https://open.spotify.com/track/0HKA4jKMfPOZ3dPWIlEzzv) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Deus É Brasileiro](https://open.spotify.com/album/43lX3jomJ4z9s5lLEG8qcC) | 2:50 | 2023-12-13 | 2025-11-03 |
+| [O Que Se Leva \(Dói\)](https://open.spotify.com/track/336MAGcI93mYzYuKDHYOPN) | [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Deus É Brasileiro](https://open.spotify.com/album/0kLE6hMfgjBcb0twaLuJh4) | 2:50 | 2025-11-02 |  |
 | [Peleja](https://open.spotify.com/track/4Neb2puA95voedjmiOjFax) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 4:10 | 2022-06-04 | 2025-02-20 |
 | [Peleja](https://open.spotify.com/track/0vBMfFzuMPDPrEqKrfpDsU) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Essa É a Nossa Música](https://open.spotify.com/album/0c3nNfCc448zTAxQ1x5Wmo) | 4:10 | 2025-02-19 |  |
 | [Ponto de Equilíbrio](https://open.spotify.com/track/7tUfJp5VuYgrp8dsJvPet1) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 6:39 | 2022-06-04 | 2025-02-07 |

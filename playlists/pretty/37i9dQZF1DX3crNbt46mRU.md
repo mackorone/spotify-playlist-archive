@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including ROSALÍA,  Tyler, The Creator, EAZ, Florence + The Machine, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,662 likes - 96 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,661 likes - 96 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

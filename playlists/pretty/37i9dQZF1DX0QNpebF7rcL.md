@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,704 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,734 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Emmylou](https://open.spotify.com/track/2cljs0ErJpveRVB383KVWE) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Strong](https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy) | 3:26 |
 | 100 | [Death Letter Blues](https://open.spotify.com/track/4puWQaJshTiBkNMVmp9Aqa) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Naked Truth](https://open.spotify.com/album/456DsBFuWSDf02fYcPqp1i) | 4:27 |
 
-Snapshot ID: `AAAAACgPIfibWZvwpBBDSNRFD7FLjawI`
+Snapshot ID: `AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc`

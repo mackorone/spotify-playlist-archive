@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,262 likes - 250 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,460 likes - 250 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 249 | [Daisy Bell](https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Guitar Lullabies](https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk) | 2:21 |
 | 250 | [The Moon and Me](https://open.spotify.com/track/28PZHFYICfuG2LvyfTH3NB) | [Naéli Gosally](https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh) | [The Moon and Me](https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu) | 1:34 |
 
-Snapshot ID: `AAAAAOOg/ol0WFxtf3F+YDGsceS42P7h`
+Snapshot ID: `AAAAAMmBEjcxNir0A0/Rp7YK44Ov1JH0`

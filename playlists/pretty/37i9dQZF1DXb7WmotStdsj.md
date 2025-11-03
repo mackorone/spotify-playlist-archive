@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les hits Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,288 likes - 60 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,400 likes - 60 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [هدا غي عشق وفايت](https://open.spotify.com/track/3joJoAR6B8308tfIlisTx2) | [Abbas Kahla](https://open.spotify.com/artist/2v4kCfsNFrNNBAwAs4GZrV) | [هدا غي عشق وفايت](https://open.spotify.com/album/78Jky16Q6UjmNj4Kh5I5Re) | 4:14 |
 | 60 | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/track/2AfEg8BrxxYWnTSkCO3WoP) | [Cheba Warda Charlomanté](https://open.spotify.com/artist/26vSgNM4fjX4RkmrI26qCZ), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/album/20U5bTrHMj4yJyEY90V7DJ) | 5:38 |
 
-Snapshot ID: `AAAAAFqHZVizVJX5KjSMq9k7R/C68w1K`
+Snapshot ID: `AAAAAB5pSlUq3B3q2GuUYuNEp/7K4ADy`

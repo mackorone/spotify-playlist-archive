@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non servium",
-  "num_followers": 113155,
+  "num_followers": 113158,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
-      },
-      "artists": [
-        {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
-        }
-      ],
-      "duration_ms": 103000,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
         "name": "Porsupuest\u00f3n",
         "url": "https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 195600,
       "name": "Piedra Contra Tijera",
       "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Jarama",
+        "url": "https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh"
+      },
+      "artists": [
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+        }
+      ],
+      "duration_ms": 217595,
+      "name": "Jarama",
+      "url": "https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -179,18 +179,18 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Jarama",
-        "url": "https://open.spotify.com/album/0Xturr8pgzoF9M6gb0UPlh"
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
       },
       "artists": [
         {
-          "name": "Boikot",
-          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
         }
       ],
-      "duration_ms": 217595,
-      "name": "Jarama",
-      "url": "https://open.spotify.com/track/749QVthAEMdMPQdZBLQ98S"
+      "duration_ms": 103000,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -415,18 +415,18 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Siglo XXI",
-        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
       "artists": [
         {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
         }
       ],
-      "duration_ms": 192800,
-      "name": "La \u00daltima Patada",
-      "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
+      "duration_ms": 127480,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 127480,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
         "name": "Impuesto Revolucionario",
         "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 187000,
       "name": "Historia triste",
       "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Siglo XXI",
+        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
+      },
+      "artists": [
+        {
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "La \u00daltima Patada",
+      "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Los Chicos No Est\u00e1n Bien",
-        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 202488,
-      "name": "Los Chicos No Est\u00e1n Bien",
-      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
         "name": "\u00a1Vaya Full!",
         "url": "https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Mucho Asco (Casi) Todo",
-        "url": "https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af"
+        "name": "Los Chicos No Est\u00e1n Bien",
+        "url": "https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8"
       },
       "artists": [
         {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 94960,
-      "name": "Pablo Echenique",
-      "url": "https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP"
+      "duration_ms": 202488,
+      "name": "Los Chicos No Est\u00e1n Bien",
+      "url": "https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -607,18 +591,18 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "C\u00f3mo Convertirse en Nada",
-        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
+        "name": "Mucho Asco (Casi) Todo",
+        "url": "https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af"
       },
       "artists": [
         {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
         }
       ],
-      "duration_ms": 160253,
-      "name": "C\u00f3mo Convertirse en Nada",
-      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
+      "duration_ms": 94960,
+      "name": "Pablo Echenique",
+      "url": "https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -659,6 +643,22 @@
       "duration_ms": 290369,
       "name": "Muros de Cristal",
       "url": "https://open.spotify.com/track/23JPltf9ba5dDctQQhuXHW"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "C\u00f3mo Convertirse en Nada",
+        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
+      },
+      "artists": [
+        {
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "C\u00f3mo Convertirse en Nada",
+      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Cicatriz en la Matrix",
-        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 118986,
-      "name": "Tenemos a la Pasma",
-      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 208000,
       "name": "La Culpa Fue de la Ciudad - Versi\u00f3n 2025",
       "url": "https://open.spotify.com/track/2ETlDdGyeyicTUVJD3ZNtW"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Cicatriz en la Matrix",
+        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 118986,
+      "name": "Tenemos a la Pasma",
+      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -955,30 +955,6 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "No Sabemos Perder",
-        "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        },
-        {
-          "name": "Rotten XIII",
-          "url": "https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF"
-        },
-        {
-          "name": "Dinamita",
-          "url": "https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "No Sabemos Perder",
-      "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
         "name": "A Bocajarro + Sopla Sopla",
         "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
       },
@@ -1011,6 +987,30 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
+        "name": "No Sabemos Perder",
+        "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        },
+        {
+          "name": "Rotten XIII",
+          "url": "https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF"
+        },
+        {
+          "name": "Dinamita",
+          "url": "https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "No Sabemos Perder",
+      "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
         "name": "Nuestro Barrio",
         "url": "https://open.spotify.com/album/0dEZ5OQcA4ifaNrcJA5rCD"
       },
@@ -1023,70 +1023,6 @@
       "duration_ms": 214475,
       "name": "Nuestro Barrio",
       "url": "https://open.spotify.com/track/2XvTRuy9b96cMtO96fvF3w"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
-        "name": "No Olvidamos, 3 de Marzo - Single",
-        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "No Olvidamos, 3 de Marzo",
-      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
-      },
-      "artists": [
-        {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
-        }
-      ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
-        "name": "Punk Latino Vol. 1",
-        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
-      },
-      "artists": [
-        {
-          "name": "La Polla",
-          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Ellos Dicen Mierda (Live)",
-      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -1107,18 +1043,66 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+        "name": "No Olvidamos, 3 de Marzo - Single",
+        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+      "duration_ms": 231593,
+      "name": "No Olvidamos, 3 de Marzo",
+      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Punk Latino Vol. 1",
+        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
+      },
+      "artists": [
+        {
+          "name": "La Polla",
+          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Ellos Dicen Mierda (Live)",
+      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -1139,6 +1123,38 @@
       "duration_ms": 131125,
       "name": "no quiero irme",
       "url": "https://open.spotify.com/track/17OaJWKUg7PtCzsqMFwezi"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Amar Mata (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 184262,
+      "name": "Amar Mata - Remasterizado 2024",
+      "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -1203,22 +1219,6 @@
       "duration_ms": 240840,
       "name": "El Trabajo No Dignifica",
       "url": "https://open.spotify.com/track/7jbvJcawfq6S8dKY4WoMiP"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
-        "name": "Amar Mata (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 184262,
-      "name": "Amar Mata - Remasterizado 2024",
-      "url": "https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Canciones Olvidadas",
-        "url": "https://open.spotify.com/album/1yudE4YRDDXux4L0NOlZtn"
-      },
-      "artists": [
-        {
-          "name": "Espasm\u00f3dicos",
-          "url": "https://open.spotify.com/artist/0DkaMx7gQxsi5Lt6sZwX0l"
-        }
-      ],
-      "duration_ms": 184199,
-      "name": "Camino por las Calles",
-      "url": "https://open.spotify.com/track/0NmsHoexCCAUxeQ2HtS0dO"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
         "name": "Canciones Para No Volver a Ver El Sol",
         "url": "https://open.spotify.com/album/6aE1phcKcOpCSwVQwgKq3C"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 180284,
       "name": "Canciones Para No Volver a Ver El Sol, Pt. 1",
       "url": "https://open.spotify.com/track/2xf2vYKkVDBBRGQS7pcaZR"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Canciones Olvidadas",
+        "url": "https://open.spotify.com/album/1yudE4YRDDXux4L0NOlZtn"
+      },
+      "artists": [
+        {
+          "name": "Espasm\u00f3dicos",
+          "url": "https://open.spotify.com/artist/0DkaMx7gQxsi5Lt6sZwX0l"
+        }
+      ],
+      "duration_ms": 184199,
+      "name": "Camino por las Calles",
+      "url": "https://open.spotify.com/track/0NmsHoexCCAUxeQ2HtS0dO"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Su Falso Mundo - original",
-      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
         "name": "Un, Dos, Tres, Fuego",
         "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Su Falso Mundo - original",
+      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
         "name": "Eskizofrenia",
         "url": "https://open.spotify.com/album/5I1ldD90ymu5m41CjABLUX"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 91600,
       "name": "Mucha Polic\u00eda, Poca Diversi\u00f3n",
       "url": "https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -1647,18 +1631,50 @@
     {
       "added_at": "2025-10-17 06:09:45",
       "album": {
-        "name": "Escapa!",
-        "url": "https://open.spotify.com/album/6MQUQgI1RKD4wHu2Qc16iU"
+        "name": "J\u00f3dete",
+        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
       "artists": [
         {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+          "name": "M.C.D.",
+          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
         }
       ],
-      "duration_ms": 163757,
-      "name": "Por ti",
-      "url": "https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV"
+      "duration_ms": 227992,
+      "name": "Gernika",
+      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI"
+      },
+      "artists": [
+        {
+          "name": "Los De Marras",
+          "url": "https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ"
+    },
+    {
+      "added_at": "2025-10-17 06:09:45",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
     },
     {
       "added_at": "2025-10-17 06:09:45",
@@ -1675,22 +1691,6 @@
       "duration_ms": 124853,
       "name": "Mi Mejor Colega - original",
       "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2025-10-17 06:09:45",
-      "album": {
-        "name": "J\u00f3dete",
-        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
-      },
-      "artists": [
-        {
-          "name": "M.C.D.",
-          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Gernika",
-      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

@@ -4,7 +4,7 @@
 
 > Dive into the sounds of Korea’s bold and brilliant female rappers!
 
-105 songs - 5 hr 27 min
+106 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dark Room](https://open.spotify.com/track/3RPzrY0yN5bo2e6JyMdSHp) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Dark Room](https://open.spotify.com/album/5hohWnXIZ7IUcaDN41p7tt) | 2:32 | 2025-10-13 |  |
 | [Did It Like I Did](https://open.spotify.com/track/4PGVG4n4u06GCZjIKerwbs) | [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Undercover Angel](https://open.spotify.com/album/7GXiOhGiUPRLndWCnR9787) | 3:47 | 2025-10-13 |  |
 | [Dingo X 퀸 와사비 \- Jay Park \(feat\. CHANGMO\) \(prod\. THE NEED\)](https://open.spotify.com/track/4cVLFCEyITCmXIXeO94Vwj) | [Queen WA$ABII](https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Dingo X 퀸 와사비 \- Jay Park](https://open.spotify.com/album/2y377zEyCsEM6VUMhA2LbC) | 2:58 | 2025-10-13 |  |
+| [Do my thang \- Princess Version](https://open.spotify.com/track/1fxdilMe3rLklIOhCFR8XZ) | [HIP POP Princess](https://open.spotify.com/artist/6N43UScpXruUKlEchAvv4M) | [Unpretty Rapstar : HIP POP Princess Track \#1](https://open.spotify.com/album/4nU2wk1QDwjZEwyhzIxkv6) | 4:13 | 2025-11-03 |  |
 | [Drip \(Feat\. Jay Park\)](https://open.spotify.com/track/2zCXNCWa1RMIHfv0435jhT) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:32 | 2025-10-13 |  |
 | [Enchanted Propaganda](https://open.spotify.com/track/47HVb1z5Yf0z4Dig4d51lc) | [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Enchanted Propaganda](https://open.spotify.com/album/4IHCSMFeslFxWyvGJk6vwI) | 2:46 | 2025-10-13 |  |
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-10-13 |  |

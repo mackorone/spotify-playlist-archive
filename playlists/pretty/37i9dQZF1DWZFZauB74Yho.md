@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,560 likes - 133 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,563 likes - 133 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 132 | [Little Birdie](https://open.spotify.com/track/49VHQmQGEeWIZ1dAVaSDGu) | [Ray Cardwell](https://open.spotify.com/artist/6kLYTAITVUIX4V7VZhlo2V), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [Little Birdie](https://open.spotify.com/album/0dyzjmSjAA53fnZ4FOqJma) | 2:44 |
 | 133 | [Collateral Damage](https://open.spotify.com/track/7HlF5pzi9nKEtfz8pTMD0b) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Collateral Damage](https://open.spotify.com/album/0tNFTSfBRONBYGUFOmnVAI) | 3:18 |
 
-Snapshot ID: `AAAAAOF1SxAJnWcRr2uUF5mFcMSZ4FyM`
+Snapshot ID: `AAAAAFMuF5yQhPquzkBfX1KZ6MAi1n1t`

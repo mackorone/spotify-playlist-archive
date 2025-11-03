@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,075 songs - 2 day 13 hr 16 min
+[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,076 songs - 2 day 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1083,5 +1083,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1073 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 1074 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 |
 | 1075 | [What Am I Doing It For?](https://open.spotify.com/track/7xcdB3D0m8VnywQPYiUHUJ) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Middle Child](https://open.spotify.com/album/5KfhyZmRRUfQuiJB1aZVlV) | 1:37 |
+| 1076 | [Alone In The Universe \- Original Broadway Cast Recording](https://open.spotify.com/track/4Coz55agJIaOXbP4QtLZoY) | [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Stephen Flaherty](https://open.spotify.com/artist/0e0KzJhXyejX79USdqgNiy), [Kevin Chamberlin](https://open.spotify.com/artist/0hjafZk3hkNc7iamqlXfJY), [Anthony Blair Hall](https://open.spotify.com/artist/2d3hwc0TXrmnFXnooaTFHC) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 4:49 |
 
-Snapshot ID: `AAAHC3/6BAPnrjcUo+bx4Apo3bTAcgJ3`
+Snapshot ID: `AAAHDJnA63s6Z0+am2q6Ua0DDZtFImLa`

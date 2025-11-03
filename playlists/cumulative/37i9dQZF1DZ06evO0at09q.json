@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Drip",
       "url": "https://open.spotify.com/track/67fa0QW9YqkasFEzzDRf04"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 243809,
       "name": "Fast Beats",
       "url": "https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 251800,
       "name": "Keep It Down",
       "url": "https://open.spotify.com/track/2OM2AaeG0n9GLrAPdSRv8o"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 153725,
       "name": "Play It",
       "url": "https://open.spotify.com/track/6Mb4HGtEwowwZ3aFDK2s9y"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 150476,
       "name": "Ponder",
       "url": "https://open.spotify.com/track/6yDnJlt2M0ZwsIadgT6Asf"
@@ -1531,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "Gold Digger Deluxe Edition, Vol. 5",
+        "url": "https://open.spotify.com/album/0airIGQ0K4X7INjO4wHUfh"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Fish Scale",
+          "url": "https://open.spotify.com/artist/6wtqdTPU9yu2s9i2KpDSMK"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Pounds",
+      "url": "https://open.spotify.com/track/5dQVPuHELxBTKCHeZ22YuA"
+    },
+    {
+      "album": {
         "name": "Modern Mechanics",
         "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
       },
@@ -1542,7 +1564,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 198095,
       "name": "Pretty Deep",
       "url": "https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k"
@@ -1868,7 +1890,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 227441,
       "name": "The One",
       "url": "https://open.spotify.com/track/2csADrGfCpIF81Ce8cD6UO"

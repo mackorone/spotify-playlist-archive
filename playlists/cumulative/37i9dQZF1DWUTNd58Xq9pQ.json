@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Chez Moi (Waiting For You)",
+        "url": "https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84"
+      },
+      "artists": [
+        {
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385607,
+      "name": "Chez Moi (Waiting For You) - Club Mix",
+      "url": "https://open.spotify.com/track/1lZ6m220kXb3EFvnjzFbyo"
+    },
+    {
+      "album": {
         "name": "Count On My Love",
         "url": "https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs"
       },
@@ -638,7 +660,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 354000,
       "name": "Magic (Is In Tempo) - BASHKKA'S Basic Instinct Mix",
       "url": "https://open.spotify.com/track/13lH2TfNhMkXHPJc1rfpCe"

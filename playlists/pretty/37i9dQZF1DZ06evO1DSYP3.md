@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,689 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,688 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 45 | [Too Faded Remix](https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql) | 4:28 |
 | 46 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
 | 47 | [Don't Lose Your Head](https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [Don't Lose Your Head](https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI) | 2:41 |
-| 48 | [Vomit](https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW) | [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc), [Nima Skeemz](https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [My Wonderful, Horrible Life](https://open.spotify.com/album/46U6rPJZ6KgSA0vxfk4LjR) | 2:48 |
-| 49 | [Level](https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Good Life](https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j) | 2:55 |
+| 48 | [Level](https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Good Life](https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j) | 2:55 |
+| 49 | [Vomit](https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW) | [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc), [Nima Skeemz](https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [My Wonderful, Horrible Life](https://open.spotify.com/album/46U6rPJZ6KgSA0vxfk4LjR) | 2:48 |
 | 50 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
 
-Snapshot ID: `aQP8AAAAAADn7/P2Pb/TpzWWpwZyvclg`
+Snapshot ID: `aQVNgAAAAABkpM7SyYWyUHsICxgF1mn6`

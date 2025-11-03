@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Hayley Kiyoko & Cash Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,810 likes - 110 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,936 likes - 110 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

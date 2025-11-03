@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Maria Mar\u00e7al ",
-  "num_followers": 188268,
+  "num_followers": 188326,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 408796,
-      "name": "Que Deus \u00c9 Esse - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 298143,
       "name": "Canta",
       "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 342306,
-      "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
         "name": "Sou Eu (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 281812,
       "name": "Sou Eu (Ao Vivo)",
       "url": "https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
+        "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 342306,
+      "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -779,6 +779,26 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
+        "name": "Prioridade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 255663,
+      "name": "Prioridade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
         "name": "A Presen\u00e7a (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
         "url": "https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 353770,
       "name": "A Presen\u00e7a",
       "url": "https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
-        "name": "Prioridade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 255663,
-      "name": "Prioridade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "O M\u00ednimo de Mim",
-        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "O M\u00ednimo de Mim",
-      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
         "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 282709,
       "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
+        "name": "O M\u00ednimo de Mim",
+        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "O M\u00ednimo de Mim",
+      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
+        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
+      },
+      "artists": [
+        {
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        },
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        }
+      ],
+      "duration_ms": 293506,
+      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
         "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD"
       },
@@ -1123,22 +1143,6 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Estou Entrando em A\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Estou Entrando em A\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -1159,22 +1163,18 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
+        "name": "Estou Entrando em A\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR"
       },
       "artists": [
         {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
-        },
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
         }
       ],
-      "duration_ms": 293506,
-      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
+      "duration_ms": 235000,
+      "name": "Estou Entrando em A\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Vai Passar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 315022,
-      "name": "Vai Passar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
         "name": "Esvaziando a Casa",
         "url": "https://open.spotify.com/album/5PHdajlqc96BJm3wy5Hswd"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 281490,
       "name": "Esvaziando a Casa",
       "url": "https://open.spotify.com/track/48yLKnpr7Vu8tIXDSLCKS8"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
+        "name": "Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 315022,
+      "name": "Vai Passar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo"
     },
     {
       "added_at": "2025-10-17 03:01:36",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-10-17 03:01:36",
       "album": {
-        "name": "Minha Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Minha Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH"
-    },
-    {
-      "added_at": "2025-10-17 03:01:36",
-      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 240000,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
+    },
+    {
+      "added_at": "2025-10-17 03:01:36",
+      "album": {
+        "name": "Minha Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Minha Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH"
     },
     {
       "added_at": "2025-10-17 03:01:36",

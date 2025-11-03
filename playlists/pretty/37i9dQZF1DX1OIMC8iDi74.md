@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Hex Cougar
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,416 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,369 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 61 | [SIGNAL](https://open.spotify.com/track/2lI0NirbWze2kWcIsB7Nqo) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:23 |
 | 62 | [KGM \(irl\)\*](https://open.spotify.com/track/6RR2CymUsUTc0cQfaQ3RH7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [KGM \(irl\)\*](https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX) | 2:38 |
 | 63 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
-| 64 | [Okay](https://open.spotify.com/track/1dCp5pt4c76AOMPasRITAw) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Okay](https://open.spotify.com/album/0U0i261T4YzOxSVc1M9dIV) | 3:00 |
-| 65 | [Like That \- Tape B Remix](https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That \(Tape B Remix\)](https://open.spotify.com/album/6SAzbWShu217QKogZudlhp) | 3:36 |
+| 64 | [Like That \- Tape B Remix](https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That \(Tape B Remix\)](https://open.spotify.com/album/6SAzbWShu217QKogZudlhp) | 3:36 |
+| 65 | [Okay](https://open.spotify.com/track/1dCp5pt4c76AOMPasRITAw) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Okay](https://open.spotify.com/album/0U0i261T4YzOxSVc1M9dIV) | 3:00 |
 | 66 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |
 | 67 | [Lights On](https://open.spotify.com/track/38WJwT5IIZ3dCRadIaKmKM) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [The R♾️ts](https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7) | 2:49 |
 | 68 | [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 |

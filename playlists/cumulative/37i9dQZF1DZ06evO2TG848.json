@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Santaolalla (Remasterizado)",
+        "url": "https://open.spotify.com/album/3iD1XcjP0Wqyz7tRwBhEFR"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205689,
+      "name": "Ando Rodando - Remasterizado",
+      "url": "https://open.spotify.com/track/2y8NuNGsLyq0txHdSuXSMU"
+    },
+    {
+      "album": {
         "name": "Motorcycle Diaries with additional Music",
         "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
       },
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-03",
       "duration_ms": 113400,
       "name": "Partida del Leprosario",
       "url": "https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v"

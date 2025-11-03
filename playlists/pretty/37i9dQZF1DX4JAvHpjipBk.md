@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from ROSALÍA, Florence + The Machine, Brent Faiyaz, Tyler, The Creator and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,466,435 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,466,099 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 353 songs - 20 hr 22 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 355 songs - 20 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -361,5 +361,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 351 | [Keep The Beat](https://open.spotify.com/track/5ti4mhcnlDhC2J1CYUYhWQ) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 4:15 |
 | 352 | [O\-Zone](https://open.spotify.com/track/5xIlqbuKUoVDxpBk4FF8ZP) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life](https://open.spotify.com/album/3dWdSxJ8IMoZIsp8DYASsy) | 4:07 |
 | 353 | [Overtime](https://open.spotify.com/track/2CVWc2gNM8YCTMdFXJI8Wg) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [Life](https://open.spotify.com/album/4SVxz8yqIymDrdiX2YBeQe) | 4:28 |
+| 354 | [Truck Loaded](https://open.spotify.com/track/6dkAVxrPh4abLufu8X5LbP) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Ice Attack 2](https://open.spotify.com/album/2IlXgJSj4iMTVCqsl5uFMs) | 3:11 |
+| 355 | [Blood Reign](https://open.spotify.com/track/3X1zhzac0CoyhSf9SYNkx9) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Louis Logic](https://open.spotify.com/artist/5iwtnFL2DK4xdWeHfeOOhU), [DiamondBack](https://open.spotify.com/artist/1LdifFWwOZZA5DZLyEidIN), [B.A\. Barakus](https://open.spotify.com/artist/2EGZz4LN62i10dsBLGlsbD) | [Violent By Design](https://open.spotify.com/album/68e1Ou1jnKgDwLkCsOPc4M) | 3:37 |
 
-Snapshot ID: `AAAfKhBm/DtATm7XUN6AXSMhw5MfaJKF`
+Snapshot ID: `AAAfLDNUEtAEdEeelq96dlxRWvCrp5Cx`

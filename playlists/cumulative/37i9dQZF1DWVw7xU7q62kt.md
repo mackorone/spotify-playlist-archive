@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-680 songs - 1 day 5 hr 44 min
+681 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Lone Frequency](https://open.spotify.com/track/71Mcx1j39vdcLsY6JImvTA) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Lone Frequency](https://open.spotify.com/album/3YxEIkKswQQcEZIZWCmQq4) | 1:49 | 2025-07-11 | 2025-07-26 |
 | [Long Time](https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Long Time](https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh) | 2:33 | 2023-10-13 | 2024-11-10 |
 | [Love](https://open.spotify.com/track/3KmawJyuKs4oQTOL7GsZex) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z) | [Love](https://open.spotify.com/album/3XBjXhBMft2KXJGw7dkbTt) | 2:05 | 2025-04-25 |  |
+| [Love in Sepia](https://open.spotify.com/track/4HHdnnfOQwL2XG0zA6VdMv) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Soulprint](https://open.spotify.com/album/2z1onLXOr3CeFiGkAflm0N) | 1:39 | 2025-10-24 |  |
 | [Love Language](https://open.spotify.com/track/0usCdBpXrjxOjB778JJzoD) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Lightflower](https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0) | [Love Language](https://open.spotify.com/album/4jJLMFRAaKnjHKl2R5k4mW) | 2:50 | 2025-04-11 |  |
 | [Love of Mine](https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Here Today Gone Tomorrow](https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ) | 6:26 | 2024-09-27 | 2025-01-16 |
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
@@ -374,7 +375,7 @@
 | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8) | 4:04 | 2024-11-08 | 2025-01-25 |
 | [Moon Over The Sea](https://open.spotify.com/track/0CW2CierRaSZ1T4zB2VuvA) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Moon Over The Sea](https://open.spotify.com/album/1OaRUJ0SYlGfOetqTsy3vg) | 2:14 | 2025-05-23 | 2025-06-14 |
 | [Moonbath](https://open.spotify.com/track/4YJgokXX4mOOPgwMzbwpx0) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [Moonbath](https://open.spotify.com/album/2w3wSYzcxUANJ3j25f8kK4) | 2:08 | 2025-04-18 | 2025-04-21 |
-| [mooncircle](https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [mooncircle](https://open.spotify.com/album/0qVFOEsmY7q9dE4EylGspz) | 2:04 | 2025-09-12 |  |
+| [mooncircle](https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [mooncircle](https://open.spotify.com/album/0qVFOEsmY7q9dE4EylGspz) | 2:04 | 2025-09-12 | 2025-11-03 |
 | [Moonglade](https://open.spotify.com/track/4fmzTCgOgTj8dB3Cb3YwjE) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Moonglade](https://open.spotify.com/album/2xQdVIZ7DksIupufbmHnq9) | 2:03 | 2025-03-14 | 2025-03-23 |
 | [Moonlight](https://open.spotify.com/track/6ich2rsYphd2p6Bp8mRpw8) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [Jones McJonsen](https://open.spotify.com/artist/7HOOvYURNE4ioNmIPclYhZ) | [Moonlight](https://open.spotify.com/album/521pzIYi6SV9enr8XXqzjE) | 1:51 | 2025-05-16 | 2025-06-07 |
 | [Moonlite](https://open.spotify.com/track/5uzmg0ccdavfs2rtoHI6e2) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:53 | 2023-08-22 | 2023-08-26 |

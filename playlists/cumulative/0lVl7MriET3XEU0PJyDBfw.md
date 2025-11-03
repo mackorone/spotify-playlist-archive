@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
 
-886 songs - 1 day 22 hr 52 min
+888 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Misfits](https://open.spotify.com/track/1nTk2VImCTpiJv98k87d0Q) | [KTNY](https://open.spotify.com/artist/3hTsSjLngaV8Mf97tqv8pf) | [Misfits](https://open.spotify.com/album/3zpfizpJREzZEjWEOgipi5) | 2:20 | 2024-01-08 | 2024-01-22 |
 | [Missing](https://open.spotify.com/track/6TH6CFgxIpPBkrjjbEXypf) | [Joanna Magik](https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh), [Victoria Rawlins](https://open.spotify.com/artist/45nmKlC41EgH6LyKCohE1u) | [Missing](https://open.spotify.com/album/3djkbJ3v4KBbmVlLCE58t4) | 2:54 | 2024-08-19 | 2024-10-14 |
 | [MONACO](https://open.spotify.com/track/4VGaRRuyAvEgc2IAkcJbt3) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [MONACO](https://open.spotify.com/album/1dqMilsRE6TSLh30MUcgcT) | 2:09 | 2025-03-02 | 2025-05-03 |
+| [Money Loves Speed](https://open.spotify.com/track/4ZOwdsZFi3VH6ES5NFYc5j) | [Philip Kolak](https://open.spotify.com/artist/1yln2uB08R4G6QSRZsvZJ0), [JAMZ](https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ), [Simon Jayson](https://open.spotify.com/artist/08QQV27R1rnvLrUjOeP3MD) | [Money Loves Speed](https://open.spotify.com/album/2H7pNlaEpmekvDmnYOj6ve) | 3:15 | 2025-11-02 |  |
 | [Mood Swings](https://open.spotify.com/track/0v3GGmPiFIaXE0h4nuL5Wr) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Rain in LA EP](https://open.spotify.com/album/62YTfKtALuNWKRH79hGJMO) | 5:56 | 2025-07-18 | 2025-09-28 |
 | [Moody](https://open.spotify.com/track/16lZKuqXcr5JZkyFlciMIt) | [Adrian Izquierdo](https://open.spotify.com/artist/3hLRY5BtiTk8K336KgGmt2) | [7th Anniversary](https://open.spotify.com/album/6eaaCX45bQmnnHiqkA5My2) | 3:00 | 2025-03-09 | 2025-05-11 |
 | [More Space](https://open.spotify.com/track/7srH6afc3AXhsmU4XcZrPx) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [More Space](https://open.spotify.com/album/53h1Wk7lmh8M918riZ8GHg) | 2:37 | 2024-10-28 | 2025-01-20 |
@@ -807,6 +808,7 @@
 | [Tremble \(ft\. Kim English\) \- MPH Remix](https://open.spotify.com/track/2dpnKA2CVuFwJrgY4AHAZC) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Tremble \(ft\. Kim English\)](https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF) | 2:55 | 2025-03-02 | 2025-05-03 |
 | [Trinity Bellwoods \- Mixed](https://open.spotify.com/track/5pUQbqBvulrsk8K2yf6KcD) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Channel 303](https://open.spotify.com/album/38ZOZXI34Y65U6NfHMwFXS) | 3:11 | 2025-10-05 |  |
 | [Truth or Dare](https://open.spotify.com/track/1YRIRFUfqzMT9HRIFKr5Ni) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Truth or Dare](https://open.spotify.com/album/51hscmpbE9jIB3vPeeEtLB) | 2:47 | 2025-05-18 | 2025-08-03 |
+| [Try Change Me](https://open.spotify.com/track/6LlVOhC6eXM3EXD5HGjMBp) | [GIGSTA](https://open.spotify.com/artist/36l9HLDiaCw6E5qmLusL9a) | [Try Change Me EP](https://open.spotify.com/album/43rKbPVj9ackaBbBiOi4Yv) | 4:00 | 2025-11-02 |  |
 | [Turn It Off \(feat\. Z3LLA\)](https://open.spotify.com/track/1dshcx1FgshcyQiC5gKkQO) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Turn It Off \(feat\. Z3LLA\)](https://open.spotify.com/album/1HOnxjFRY3Vo8hcYrmugr5) | 2:18 | 2024-12-15 | 2025-03-03 |
 | [Turn Me Deeper](https://open.spotify.com/track/2yxSoXjsfPfmKZ2VWGmf4J) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq) | [Turn Me Deeper](https://open.spotify.com/album/114ruiIHc5HGyGG21g6epJ) | 3:20 | 2025-02-03 | 2025-04-06 |
 | [Turn Up](https://open.spotify.com/track/6FtzDS0fUVG0TJQY59jHy0) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Give Me EP](https://open.spotify.com/album/7d27tyYSvvLK7WXkAT6r5D) | 3:58 | 2024-09-02 | 2024-10-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=p\_5tzzeWQsq\_bl6MMLTctQ">Nikita Kering'</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,646 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,645 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [HAUSAPIANO](https://open.spotify.com/track/7BQnaquuCho6dWfkkhuxxl) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [HAUSAPIANO](https://open.spotify.com/album/5388hvdjmbFfloBwdKDFGH) | 1:43 |
 | 50 | [Piki Piki](https://open.spotify.com/track/4d6MlNXvSMliZpgqdXBlNv) | [Mustbedubz](https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730), [Gentle Slope](https://open.spotify.com/artist/2fvNXz9jmIjAQvZrcGdbQ3), [Sgijalo musiq](https://open.spotify.com/artist/59xzA7gDPLp3THtiZDFgMM) | [Piki Piki](https://open.spotify.com/album/02h0OPWKVn1Rm0777wYapn) | 5:45 |
 
-Snapshot ID: `AAAAAAl+QR84ZxA7gx9e4ukXOQdxO/WJ`
+Snapshot ID: `AAAAAC4NGIaaRQcnvo1daLLWj1Uf/BZS`

@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Mandisi Dyantyis",
-  "num_followers": 12332,
+  "num_followers": 12351,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "Reawakening",
-        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
-      },
-      "artists": [
-        {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
-        },
-        {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
-        }
-      ],
-      "duration_ms": 449112,
-      "name": "A Fallist's Prayer",
-      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
         "name": "Water from an Ancient Well",
         "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
+        "name": "Reawakening",
+        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
+      },
+      "artists": [
+        {
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "duration_ms": 449112,
+      "name": "A Fallist's Prayer",
+      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
         "name": "People of the South",
         "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 345520,
       "name": "People of the South",
       "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
     },
     {
       "added_at": "2025-10-24 06:56:19",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-10-24 06:56:19",
       "album": {
-        "name": "Apho Kungenje",
-        "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
-      },
-      "artists": [
-        {
-          "name": "Ncesh Nonxishi",
-          "url": "https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP"
-        },
-        {
-          "name": "Mthunzikazi Mbungwana",
-          "url": "https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo"
-        }
-      ],
-      "duration_ms": 413906,
-      "name": "Ebhedini",
-      "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
-    },
-    {
-      "added_at": "2025-10-24 06:56:19",
-      "album": {
         "name": "Njia",
         "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
+    },
+    {
+      "added_at": "2025-10-24 06:56:19",
+      "album": {
+        "name": "Apho Kungenje",
+        "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
+      },
+      "artists": [
+        {
+          "name": "Ncesh Nonxishi",
+          "url": "https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP"
+        },
+        {
+          "name": "Mthunzikazi Mbungwana",
+          "url": "https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo"
+        }
+      ],
+      "duration_ms": 413906,
+      "name": "Ebhedini",
+      "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
     },
     {
       "added_at": "2025-10-24 06:56:19",

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,041 songs - 4 day 9 hr 47 min
+2,042 songs - 4 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Bättre i neon](https://open.spotify.com/track/2Tq07wfcTsx5jr5E3Oo2uc) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Bättre i neon](https://open.spotify.com/album/0WEOl4abVPI5HKdcrZXmGG) | 2:52 | 2024-04-26 | 2024-05-24 |
 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 | 2024-08-22 | 2024-09-23 |
 | [C R A Z Y](https://open.spotify.com/track/0ZhC7a7IEcPhJtP6Ns8ZDF) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [C R A Z Y](https://open.spotify.com/album/7Mc3Raq0decyTuPvkzHiF4) | 3:09 | 2024-02-15 | 2024-03-21 |
+| [C\-dur](https://open.spotify.com/track/0cZ2ad4mATKwobLdVYWgAS) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [C\-dur / Julbudskap](https://open.spotify.com/album/2SuXOmDbZpkbg2mPjl63jO) | 3:00 | 2025-10-30 |  |
 | [CALIFORNIA](https://open.spotify.com/track/0a17so3YQZCWz3PQb9JvDD) | [Adam Taal](https://open.spotify.com/artist/1dYTeeSzWkPMdQw8N7aYbR) | [KATARINA](https://open.spotify.com/album/7xlDFbtOofSD7dSgsYZYhn) | 3:20 | 2024-05-02 | 2024-06-01 |
 | [Call Me By Your Name](https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Call Me By Your Name](https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO) | 2:50 | 2023-01-05 | 2023-10-06 |
 | [Call Your Girlfriend \- Spotify Singles](https://open.spotify.com/track/3gyKc7WqqzH0ZYjnzlphXP) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Call Your Girlfriend \- Spotify Singles](https://open.spotify.com/album/1bWTawivUyBxTr6Sydx6WM) | 3:47 | 2024-05-02 | 2024-06-01 |
@@ -1899,7 +1900,7 @@
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 | 2025-07-04 |
 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 | 2025-09-18 |  |
 | [Vem vill va själv](https://open.spotify.com/track/5r5OhizcTQcTcZTLukl8Tu) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Vem vill va själv](https://open.spotify.com/album/6FYC9Wfc8kKYt5xaw5qw7x) | 2:27 | 2025-09-01 | 2025-10-11 |
-| [Vem är som du?](https://open.spotify.com/track/1m12BzPJh3Hx6V9MbUVnt7) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vem är som du?](https://open.spotify.com/album/5S0yNusAIpDXWx9nzqmI5V) | 3:18 | 2025-09-01 |  |
+| [Vem är som du?](https://open.spotify.com/track/1m12BzPJh3Hx6V9MbUVnt7) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vem är som du?](https://open.spotify.com/album/5S0yNusAIpDXWx9nzqmI5V) | 3:18 | 2025-09-01 | 2025-11-03 |
 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 | 2024-02-08 | 2024-04-05 |
 | [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 | 2025-04-10 | 2025-07-31 |
 | [Verkligheten har jag här för mig själv](https://open.spotify.com/track/0z7sJEhd7I9EONtW6DnRqI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [APONIA](https://open.spotify.com/album/1jco0VGKqWijdEj3rD0SIs) | 4:16 | 2025-03-07 | 2025-05-09 |

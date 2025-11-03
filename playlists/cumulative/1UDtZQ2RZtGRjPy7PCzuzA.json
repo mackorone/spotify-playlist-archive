@@ -1181,6 +1181,36 @@
     },
     {
       "album": {
+        "name": "Seussical",
+        "url": "https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze"
+      },
+      "artists": [
+        {
+          "name": "Lynn Ahrens",
+          "url": "https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK"
+        },
+        {
+          "name": "Stephen Flaherty",
+          "url": "https://open.spotify.com/artist/0e0KzJhXyejX79USdqgNiy"
+        },
+        {
+          "name": "Kevin Chamberlin",
+          "url": "https://open.spotify.com/artist/0hjafZk3hkNc7iamqlXfJY"
+        },
+        {
+          "name": "Anthony Blair Hall",
+          "url": "https://open.spotify.com/artist/2d3hwc0TXrmnFXnooaTFHC"
+        }
+      ],
+      "date_added": "2025-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Alone In The Universe - Original Broadway Cast Recording",
+      "url": "https://open.spotify.com/track/4Coz55agJIaOXbP4QtLZoY"
+    },
+    {
+      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,377 likes - 97 songs - 4 hr 57 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 49,387 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7 Grams](https://open.spotify.com/track/4J62jL4mGRBAZL9DzOu4a2) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [7 Grams](https://open.spotify.com/album/6szO64L57FqFb74bTl5zwQ) | 2:52 |
 | 2 | [Fake Names](https://open.spotify.com/track/1U2EqWtiw8zoE6LVGCUgle) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Fake Names](https://open.spotify.com/album/43aOTIiXmmTpgC7yhxJU0x) | 2:24 |
 | 3 | [crush on you](https://open.spotify.com/track/5GVQVwmCcRODQZeCKOKmQx) | [Jess Josie Lee](https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz) | [crush on you](https://open.spotify.com/album/4ngOF7s46wshNjpkz7Y29z) | 2:08 |
-| 4 | [Second Choice \(feat\. Ramir\)](https://open.spotify.com/track/5OMc3GY7v98ki3FGQcwcgY) | [Danrell](https://open.spotify.com/artist/1RzXK6ikrwaOZBCdt9kZSw), [Alec King](https://open.spotify.com/artist/1WcUEKDht7lhgklZZJrzNg), [Ramir](https://open.spotify.com/artist/5bbLLuVEQRJXYxlGZwgSw8) | [Second Choice \(feat\. Ramir\)](https://open.spotify.com/album/3InBBDPtoqshCihiIzkbD7) | 3:32 |
+| 4 | [Second Choice \(feat\. Ramir\)](https://open.spotify.com/track/5OMc3GY7v98ki3FGQcwcgY) | [Danrell](https://open.spotify.com/artist/1RzXK6ikrwaOZBCdt9kZSw), [Alec King](https://open.spotify.com/artist/1WcUEKDht7lhgklZZJrzNg), [Ramir](https://open.spotify.com/artist/5XPFMtMU9LCPG5ZQuZgnHt) | [Second Choice \(feat\. Ramir\)](https://open.spotify.com/album/3InBBDPtoqshCihiIzkbD7) | 3:32 |
 | 5 | [April Showers](https://open.spotify.com/track/6QcNMU1nz6qExqAdKegtuw) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [April Showers](https://open.spotify.com/album/3BEXTBoHyYYf4bk18b5aeJ) | 3:23 |
 | 6 | [Can't Be Us](https://open.spotify.com/track/3dfKpE2zvkw5HWeq4Ogo9Q) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Can't Be Us](https://open.spotify.com/album/7peAkFOATYjmq1TwByx96c) | 2:51 |
 | 7 | [Killer On The Loose](https://open.spotify.com/track/5HleTyX4oc3wUxmsKthO8B) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [Killer On The Loose](https://open.spotify.com/album/7dEIbZYvXI23g4yDZ3KrzK) | 1:19 |

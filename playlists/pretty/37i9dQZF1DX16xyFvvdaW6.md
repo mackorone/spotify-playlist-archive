@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,445 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,449 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 69 | [Memoria \(Identidad\)](https://open.spotify.com/track/5GMBmIpJdpt3RqbuVxxePR) | [Mesver](https://open.spotify.com/artist/7dbLyuLmmTrijbn5TJSuMH) | [Despertares](https://open.spotify.com/album/2gomThBXGueNJ82vMAjBAt) | 3:16 |
 | 70 | [SANTURRÓN](https://open.spotify.com/track/6OakFAd7vRSIEyevPSGyAG) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P) | [SANTURRÓN](https://open.spotify.com/album/2PBbSelEvAz6N8yLSkukhX) | 3:45 |
 
-Snapshot ID: `AAAAANylLcdgVpoMw2emacoN8CpkrciD`
+Snapshot ID: `AAAAAMwz0UGG5OrFxrQNP0gIn6lldfG7`

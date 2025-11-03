@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Mahalini, Stevan Pasaribu, Mario G Klau, The Neighbourhood dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,491 likes - 110 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,525 likes - 110 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

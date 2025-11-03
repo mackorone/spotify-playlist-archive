@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-194 songs - 10 hr 49 min
+195 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Rock\-a\-bye Baby](https://open.spotify.com/track/73inw7r3boEdnE4qPGNHHT) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:38 | 2024-02-06 | 2024-04-01 |
 | [Rockabye Baby](https://open.spotify.com/track/6HsK5pZqorfBAdupEG6M2b) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:40 | 2023-12-14 | 2024-01-11 |
 | [Rollin' Stone](https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:59 | 2022-08-05 |  |
-| [Rolling Stone](https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 4:38 | 2022-08-05 |  |
+| [Rolling Stone](https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 4:38 | 2022-08-05 | 2025-11-03 |
+| [Rolling Stone](https://open.spotify.com/track/4syiVgtW4adOkGLfmPZe2B) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama!](https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR) | 4:42 | 2025-11-03 |  |
 | [Sassy Mama](https://open.spotify.com/track/33RcmXrV5n8FtyY6mOfCTQ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 4:54 | 2022-08-05 | 2023-04-13 |
 | [Session Blues](https://open.spotify.com/track/2Ypv6LdGGqnT76gB4mFMFb) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 4:46 | 2024-01-18 | 2024-01-28 |
 | [Sheriff O.E\. & Me](https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 3:25 | 2023-12-14 |  |

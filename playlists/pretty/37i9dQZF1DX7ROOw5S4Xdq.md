@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isaias Saad
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,621 likes - 47 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,662 likes - 47 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

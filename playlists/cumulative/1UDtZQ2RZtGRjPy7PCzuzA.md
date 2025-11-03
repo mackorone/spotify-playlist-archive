@@ -4,7 +4,7 @@
 
 > 
 
-1,084 songs - 2 day 13 hr 46 min
+1,085 songs - 2 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Alley Rose](https://open.spotify.com/track/4h2KgbKNdOSVC3IJnFOFoV) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 3:28 | 2025-04-06 |  |
 | [Almost Love](https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:32 | 2025-01-19 |  |
 | [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 | 2024-04-05 |  |
+| [Alone In The Universe \- Original Broadway Cast Recording](https://open.spotify.com/track/4Coz55agJIaOXbP4QtLZoY) | [Lynn Ahrens](https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK), [Stephen Flaherty](https://open.spotify.com/artist/0e0KzJhXyejX79USdqgNiy), [Kevin Chamberlin](https://open.spotify.com/artist/0hjafZk3hkNc7iamqlXfJY), [Anthony Blair Hall](https://open.spotify.com/artist/2d3hwc0TXrmnFXnooaTFHC) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 4:49 | 2025-11-02 |  |
 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 | 2024-01-17 |  |
 | [Alright](https://open.spotify.com/track/1wXqbn4OVaYBOhgj7Z4did) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:24 | 2025-06-12 |  |
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2025-08-14 |  |

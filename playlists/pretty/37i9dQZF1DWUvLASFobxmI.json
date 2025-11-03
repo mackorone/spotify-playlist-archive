@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Cornelio Vega y Su Dinast\u00eda en portada.",
-  "num_followers": 519357,
+  "num_followers": 519451,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,38 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 173088,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Cada Noche",
+        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 221325,
+      "name": "Cada Noche",
+      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
         "name": "\u00bfQu\u00e9 Te Parece?",
         "url": "https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8"
       },
@@ -163,22 +195,6 @@
       "duration_ms": 182323,
       "name": "\u00bfQu\u00e9 Te Parece?",
       "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 173088,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -247,22 +263,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Cada Noche",
-        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 221325,
-      "name": "Cada Noche",
-      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Mutuo",
         "url": "https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Terco Soy",
-        "url": "https://open.spotify.com/album/0gbPj0cLCgu76Ewl6izxe2"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 197062,
-      "name": "Terco Soy",
-      "url": "https://open.spotify.com/track/4mbWLsNAgFcB8Rvue936rN"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "CUANDO NADIE LA VE",
         "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 146417,
       "name": "CUANDO NADIE LA VE",
       "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Terco Soy",
+        "url": "https://open.spotify.com/album/0gbPj0cLCgu76Ewl6izxe2"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 197062,
+      "name": "Terco Soy",
+      "url": "https://open.spotify.com/track/4mbWLsNAgFcB8Rvue936rN"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -347,26 +347,6 @@
       "duration_ms": 227380,
       "name": "Mi Amor Por Ti",
       "url": "https://open.spotify.com/track/46oEwUHvlrd038HuB5EW8z"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 159551,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -455,6 +435,26 @@
       "duration_ms": 238464,
       "name": "Los Brothers 2",
       "url": "https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -571,22 +571,18 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "TENGO MI VICIO",
-        "url": "https://open.spotify.com/album/68E1jikzWOcDFNbkeYQYxe"
+        "name": "Un Mill\u00f3n De Primaveras",
+        "url": "https://open.spotify.com/album/2HSpiTwy6jsiHkZPNr2Otw"
       },
       "artists": [
         {
-          "name": "Hector Vargas",
-          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
-        },
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
         }
       ],
-      "duration_ms": 213667,
-      "name": "TENGO MI VICIO",
-      "url": "https://open.spotify.com/track/2w7icrqLX1OhriYtS7n9Q1"
+      "duration_ms": 183114,
+      "name": "Un Mill\u00f3n De Primaveras",
+      "url": "https://open.spotify.com/track/5ovxPSFmeI3ZadzyySBz1B"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -611,18 +607,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Un Mill\u00f3n De Primaveras",
-        "url": "https://open.spotify.com/album/2HSpiTwy6jsiHkZPNr2Otw"
+        "name": "TENGO MI VICIO",
+        "url": "https://open.spotify.com/album/68E1jikzWOcDFNbkeYQYxe"
       },
       "artists": [
         {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+        },
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
         }
       ],
-      "duration_ms": 183114,
-      "name": "Un Mill\u00f3n De Primaveras",
-      "url": "https://open.spotify.com/track/5ovxPSFmeI3ZadzyySBz1B"
+      "duration_ms": 213667,
+      "name": "TENGO MI VICIO",
+      "url": "https://open.spotify.com/track/2w7icrqLX1OhriYtS7n9Q1"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Un Idiota Como Yo",
-        "url": "https://open.spotify.com/album/427CTYN7SvioSO5QwCyi3n"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Un Idiota Como Yo",
-      "url": "https://open.spotify.com/track/1WlldKXGHxu1wPckH767Uv"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "El Gabacho",
         "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
+        "name": "Un Idiota Como Yo",
+        "url": "https://open.spotify.com/album/427CTYN7SvioSO5QwCyi3n"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Un Idiota Como Yo",
+      "url": "https://open.spotify.com/track/1WlldKXGHxu1wPckH767Uv"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 199274,
-      "name": "Y Tu",
-      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Vamos Avanzando",
         "url": "https://open.spotify.com/album/4AiiZj0QTok0mf3MufZhoH"
       },
@@ -787,22 +771,18 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "El Mariguapo",
-        "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 170624,
-      "name": "El Mariguapo",
-      "url": "https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG"
+      "duration_ms": 207342,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -819,22 +799,6 @@
       "duration_ms": 156578,
       "name": "Inconcluso",
       "url": "https://open.spotify.com/track/2ZkpJVo7z6UdGjaXz5qiCN"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 207342,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -871,18 +835,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "El Troquero",
-        "url": "https://open.spotify.com/album/0nItB24GBHy9KPJiDRA9Mc"
+        "name": "El Mariguapo",
+        "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
         }
       ],
-      "duration_ms": 186124,
-      "name": "El Troquero",
-      "url": "https://open.spotify.com/track/2xTVWD3VQ2EYmvDx8iEFb7"
+      "duration_ms": 170624,
+      "name": "El Mariguapo",
+      "url": "https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -899,6 +867,38 @@
       "duration_ms": 179840,
       "name": "Prision De Amor",
       "url": "https://open.spotify.com/track/1dn9QUFZYRdBJG4wVQs1rG"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "El Troquero",
+        "url": "https://open.spotify.com/album/0nItB24GBHy9KPJiDRA9Mc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 186124,
+      "name": "El Troquero",
+      "url": "https://open.spotify.com/track/2xTVWD3VQ2EYmvDx8iEFb7"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Voy Llegando a tu Ciudad",
+        "url": "https://open.spotify.com/album/5kLebPXFE7NTFwUkl3dK9r"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 171395,
+      "name": "Voy Llegando a tu Ciudad",
+      "url": "https://open.spotify.com/track/4D6hmOCokMBChx7PfwqjV7"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Voy Llegando a tu Ciudad",
-        "url": "https://open.spotify.com/album/5kLebPXFE7NTFwUkl3dK9r"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 171395,
-      "name": "Voy Llegando a tu Ciudad",
-      "url": "https://open.spotify.com/track/4D6hmOCokMBChx7PfwqjV7"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "NO QUE NO",
         "url": "https://open.spotify.com/album/26GjwBUtY7YmULJpMuiWoN"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Y Tu",
+      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
         "name": "Honky Tonk Tunes, Vol. 2",
         "url": "https://open.spotify.com/album/6oONNMEpnk13JfLTixU7jO"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 203500,
       "name": "Un Enga\u0144o Mas",
       "url": "https://open.spotify.com/track/0OJ0yj8VZG4SAXNWHtp9uJ"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Gracias Por Estar Aqu\u00ed Vol. 4",
+        "url": "https://open.spotify.com/album/1SMWGZmsySxBLIDRb1eQ4u"
+      },
+      "artists": [
+        {
+          "name": "La Novedad Norte\u00f1a de Israel Leyva",
+          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
+        }
+      ],
+      "duration_ms": 188744,
+      "name": "Los Besos No Se Piden",
+      "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1011,38 +1027,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Hay Unos Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "Gracias Por Estar Aqu\u00ed Vol. 4",
-        "url": "https://open.spotify.com/album/1SMWGZmsySxBLIDRb1eQ4u"
-      },
-      "artists": [
-        {
-          "name": "La Novedad Norte\u00f1a de Israel Leyva",
-          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
-        }
-      ],
-      "duration_ms": 188744,
-      "name": "Los Besos No Se Piden",
-      "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 165820,
       "name": "\u2060Claro y Recio",
       "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 168552,
+      "name": "Hay Unos Ojos (En Vivo)",
+      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 229568,
-      "name": "Te Ves Fatal",
-      "url": "https://open.spotify.com/track/06i9ONJKurz5snGZ5JJRbn"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Ajustad\u00f3n",
         "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 159685,
       "name": "Ajustad\u00f3n",
       "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 229568,
+      "name": "Te Ves Fatal",
+      "url": "https://open.spotify.com/track/06i9ONJKurz5snGZ5JJRbn"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "De Aqui Soy",
-        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 168317,
-      "name": "De Aqui Soy",
-      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/4PTwwifZ4XrCCEth8m9Mm0"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 160992,
       "name": "Lo Que Yo Necesitaba",
       "url": "https://open.spotify.com/track/4xjQbT9VtNKI56Inw54ce1"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "De Aqui Soy",
+        "url": "https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 168317,
+      "name": "De Aqui Soy",
+      "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "El Viejo Fino",
-        "url": "https://open.spotify.com/album/6JV5WJH9zOwDK9NaWYtb0n"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 167353,
-      "name": "Cantan Las Ranas",
-      "url": "https://open.spotify.com/track/7r25PfAh14VrUEksFN4DUi"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Cokita De Vidrio",
         "url": "https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
+        "name": "El Viejo Fino",
+        "url": "https://open.spotify.com/album/6JV5WJH9zOwDK9NaWYtb0n"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 167353,
+      "name": "Cantan Las Ranas",
+      "url": "https://open.spotify.com/track/7r25PfAh14VrUEksFN4DUi"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
         "name": "Impulso",
         "url": "https://open.spotify.com/album/13cqSrjDPulIf7dUyuDwAS"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 140374,
       "name": "Impulso",
       "url": "https://open.spotify.com/track/4xqcKxTHMWUI2maPYUmGzZ"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Pero Esta Vez Llore",
+        "url": "https://open.spotify.com/album/7zlyZ8FwOgjw0nyKCZdH9u"
+      },
+      "artists": [
+        {
+          "name": "Torrente",
+          "url": "https://open.spotify.com/artist/5ZVx6Kk09abRMkgfzh650x"
+        }
+      ],
+      "duration_ms": 198790,
+      "name": "Pero Esta Vez Llore",
+      "url": "https://open.spotify.com/track/1HLVA86qyMw9DMUFc8IW1k"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1395,22 +1411,6 @@
       "duration_ms": 209554,
       "name": "Quiero Darte (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "Pero Esta Vez Llore",
-        "url": "https://open.spotify.com/album/7zlyZ8FwOgjw0nyKCZdH9u"
-      },
-      "artists": [
-        {
-          "name": "Torrente",
-          "url": "https://open.spotify.com/artist/5ZVx6Kk09abRMkgfzh650x"
-        }
-      ],
-      "duration_ms": 198790,
-      "name": "Pero Esta Vez Llore",
-      "url": "https://open.spotify.com/track/1HLVA86qyMw9DMUFc8IW1k"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Cajeta",
-        "url": "https://open.spotify.com/album/7rzb1PyAxWGS9v37yblB34"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Cajeta",
-      "url": "https://open.spotify.com/track/4DaMRmbrgg8Y54Hvfcw97H"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Pong\u00e1monos de Acuerdo",
         "url": "https://open.spotify.com/album/3aUyCfkToMeF5JTFpHhogK"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 159527,
       "name": "Contigo Si",
       "url": "https://open.spotify.com/track/55gJhKCCmVByx5EyCFABgh"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Cajeta",
+        "url": "https://open.spotify.com/album/7rzb1PyAxWGS9v37yblB34"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Cajeta",
+      "url": "https://open.spotify.com/track/4DaMRmbrgg8Y54Hvfcw97H"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "En Vivo Desde El Norte De Amarillo Tx (En vivo)",
-        "url": "https://open.spotify.com/album/6nlQm6z056f83MA3datYEG"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos Del Arroyo",
-          "url": "https://open.spotify.com/artist/7xVCS0JoEEZchIxluLJL0L"
-        }
-      ],
-      "duration_ms": 168468,
-      "name": "Ebrio De Amor - En vivo",
-      "url": "https://open.spotify.com/track/4dEdIGLQTLzL7w19S9pQEq"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Al Diablo Tu Ausencia",
         "url": "https://open.spotify.com/album/3dLTkDINGMdEBJOv2nG2Dz"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 204413,
       "name": "Al Diablo Tu Ausencia",
       "url": "https://open.spotify.com/track/7vNoUdhkr9q4BnlKAT6BsN"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "En Vivo Desde El Norte De Amarillo Tx (En vivo)",
+        "url": "https://open.spotify.com/album/6nlQm6z056f83MA3datYEG"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos Del Arroyo",
+          "url": "https://open.spotify.com/artist/7xVCS0JoEEZchIxluLJL0L"
+        }
+      ],
+      "duration_ms": 168468,
+      "name": "Ebrio De Amor - En vivo",
+      "url": "https://open.spotify.com/track/4dEdIGLQTLzL7w19S9pQEq"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Tus L\u00e1grimas",
-        "url": "https://open.spotify.com/album/7j5pVPHj0R86GO7MH3I00a"
-      },
-      "artists": [
-        {
-          "name": "La F\u00f3rmula",
-          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
-        }
-      ],
-      "duration_ms": 208295,
-      "name": "Tus L\u00e1grimas",
-      "url": "https://open.spotify.com/track/6gq1Octkv0VQAqFWR5zoBx"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Lamentablemente",
         "url": "https://open.spotify.com/album/206VbJ0YKTqViK6EqlJ8vc"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 142336,
       "name": "Lamentablemente",
       "url": "https://open.spotify.com/track/7c4HQ7hXnoNdB9v29jFqYf"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Tus L\u00e1grimas",
+        "url": "https://open.spotify.com/album/7j5pVPHj0R86GO7MH3I00a"
+      },
+      "artists": [
+        {
+          "name": "La F\u00f3rmula",
+          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
+        }
+      ],
+      "duration_ms": 208295,
+      "name": "Tus L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6gq1Octkv0VQAqFWR5zoBx"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
+        "name": "Te Vas Amor",
+        "url": "https://open.spotify.com/album/6WqKySqW0eRspVpBr7X9CO"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "duration_ms": 153687,
+      "name": "Te Vas Amor",
+      "url": "https://open.spotify.com/track/1xnklGqpgcYWRQ2Jy9hkVU"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
         "name": "Oscar Calin y Julio Chaidez (En Vivo)",
         "url": "https://open.spotify.com/album/4Zp382TgICEwF1ioydzZsL"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 199338,
       "name": "Amor En Carro - En Vivo",
       "url": "https://open.spotify.com/track/08w8fALwASZkfVK2Tt9CKs"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "Te Vas Amor",
-        "url": "https://open.spotify.com/album/6WqKySqW0eRspVpBr7X9CO"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        }
-      ],
-      "duration_ms": 153687,
-      "name": "Te Vas Amor",
-      "url": "https://open.spotify.com/track/1xnklGqpgcYWRQ2Jy9hkVU"
     },
     {
       "added_at": "2025-10-17 06:00:27",

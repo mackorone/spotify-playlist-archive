@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Bluegrass fit for the holiday season
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,061 likes - 111 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,078 likes - 111 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 | 110 | [Song for a Winter's Night](https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6), [Aline Deanna](https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV), [Anna Katarina](https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup) | [Song for a Winter's Night](https://open.spotify.com/album/57cxci74OPUile2bjgfso2) | 3:35 |
 | 111 | [Auld Lang Syne](https://open.spotify.com/track/1Np9WAlV2L1vMYL6TRpihk) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [High Country Holiday](https://open.spotify.com/album/261enzJqW3CSJslLyxTCLW) | 3:07 |
 
-Snapshot ID: `AAAAACR9MOvssEtdfMGQ+Q8nxAvAAOj/`
+Snapshot ID: `AAAAANpzSvlMF6I6/H7O2IgmQN65gSYd`

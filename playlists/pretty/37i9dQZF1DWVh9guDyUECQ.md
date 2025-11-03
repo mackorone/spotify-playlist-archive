@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Shepherd y Niko Eme
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,546 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,568 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 79 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 |
 | 80 | [Confieso](https://open.spotify.com/track/6xnc3Jj9JC4VTfrubr6A7b) | [Chriss Romel](https://open.spotify.com/artist/0NTbnIoTbuIUZuI295yYYq), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Confieso](https://open.spotify.com/album/2MGAkl3o8HycOthPj15z2y) | 3:42 |
 
-Snapshot ID: `AAAAAMr3MJH80ihQkAomRgh7vTnn4ci6`
+Snapshot ID: `AAAAAEpwIND4aRtMap6+EHzMeWfkt4xD`

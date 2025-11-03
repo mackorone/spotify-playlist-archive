@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Bratty
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,994 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,899 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [El Mundo Delante De Ti](https://open.spotify.com/track/6BXu2OtgRrVN4UHf2PKAUp) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [El Mundo Delante De Ti](https://open.spotify.com/album/5wyycKkfemxHq3D90pDh2t) | 5:07 |
 | 50 | [Coronel](https://open.spotify.com/track/4O1PkdMNUAT53EMuv4PEmr) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Coronel](https://open.spotify.com/album/4yP6tr6iSQbIsyouDcWRWO) | 3:13 |
 
-Snapshot ID: `AAAAADfBtio0EzisOOnMKVdXoVkUi/LI`
+Snapshot ID: `AAAAAJmwQvhkaZq3lOGyTLblX9zXkX8H`

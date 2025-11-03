@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Anna Von Hausswolff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,026 likes - 175 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,057 likes - 175 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

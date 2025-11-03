@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 
 > De está sierra a la otra sierra se divisa <br/>San José\. En portada: Los Alameños de la Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,681 likes - 87 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,756 likes - 87 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 | 86 | [El Foco](https://open.spotify.com/track/00X6oQgwO29o26J8ATUTf8) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Estoy aqui](https://open.spotify.com/album/2jml7yRfOtF5Mv1zfrxIaO) | 3:28 |
 | 87 | [Estoy Aqui](https://open.spotify.com/track/33tPQDN6hpQ2knusgbe0Jl) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Estoy aqui](https://open.spotify.com/album/2jml7yRfOtF5Mv1zfrxIaO) | 3:24 |
 
-Snapshot ID: `AAAAAErrhiEuc4ju2+uUlhAUZoRMiwlH`
+Snapshot ID: `AAAAAO9ribt0oJVu0LUCYistdPixTn4S`

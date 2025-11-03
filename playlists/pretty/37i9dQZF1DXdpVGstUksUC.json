@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546195,
+  "num_followers": 546178,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -299,8 +299,8 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+        "name": "Godzilla's / Eatin' Dust",
+        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
         }
       ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
+      "duration_ms": 190800,
+      "name": "Eatin' Dust",
+      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -379,8 +379,8 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Godzilla's / Eatin' Dust",
-        "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Eatin' Dust",
-      "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 247013,
       "name": "Greenthumb",
       "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Groovy",
-        "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
-      },
-      "artists": [
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Drowning on Empty",
-      "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "To the Center",
         "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 391160,
       "name": "To the Center",
       "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Groovy",
+        "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
+      },
+      "artists": [
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Drowning on Empty",
+      "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "A Drug Problem That Never Existed",
-        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
+        "name": "Rainbows Are Free",
+        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
       },
       "artists": [
         {
-          "name": "Mondo Generator",
-          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
+          "name": "Rainbows Are Free",
+          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
         }
       ],
-      "duration_ms": 155066,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
+      "duration_ms": 251253,
+      "name": "Are You Dead",
+      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -907,34 +907,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Rainbows Are Free",
-        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
+        "name": "A Drug Problem That Never Existed",
+        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
       },
       "artists": [
         {
-          "name": "Rainbows Are Free",
-          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
+          "name": "Mondo Generator",
+          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
         }
       ],
-      "duration_ms": 251253,
-      "name": "Are You Dead",
-      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
-        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 221033,
-      "name": "Slaughter Beach",
-      "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
+      "duration_ms": 155066,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -951,6 +935,22 @@
       "duration_ms": 300666,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 221033,
+      "name": "Slaughter Beach",
+      "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Superskull",
-        "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
-      },
-      "artists": [
-        {
-          "name": "Black Rainbows",
-          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Cosmic Ride Of The Crystal Skull",
-      "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 233599,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Superskull",
+        "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
+      },
+      "artists": [
+        {
+          "name": "Black Rainbows",
+          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Cosmic Ride Of The Crystal Skull",
+      "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
-      },
-      "artists": [
-        {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
-        }
-      ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Lightning Born",
         "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 275066,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+      },
+      "artists": [
+        {
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+        }
+      ],
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Please Don't",
+        "url": "https://open.spotify.com/album/0YpWK0W5pxI0CBLbyqeHZG"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Please Don't",
+      "url": "https://open.spotify.com/track/61KgmwEi0rH5MD1SP20Ura"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/4tIt1aEVqxQ71AuOpoEsHs"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 214600,
       "name": "Mississippi King",
       "url": "https://open.spotify.com/track/0N6c8BDycvkW7clYOIMCuP"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ"
     }
   ],
   "unique_name": "Stoner Rock",

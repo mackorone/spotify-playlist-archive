@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5474,
+  "num_followers": 5479,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Disco Tango [Remastered]",
-        "url": "https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY"
-      },
-      "artists": [
-        {
-          "name": "Tommy Seebach",
-          "url": "https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Disco Tango",
-      "url": "https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Lo Mejor de Massiel",
         "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 152600,
       "name": "La, La, La",
       "url": "https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Disco Tango [Remastered]",
+        "url": "https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY"
+      },
+      "artists": [
+        {
+          "name": "Tommy Seebach",
+          "url": "https://open.spotify.com/artist/4j8KP6LIyjhpM282XUhjoz"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Disco Tango",
+      "url": "https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "40 Golden Greats",
+        "url": "https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Power to All Our Friends",
+      "url": "https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "16 Hits",
         "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 177293,
       "name": "Dansevise",
       "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "40 Golden Greats",
-        "url": "https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Power to All Our Friends",
-      "url": "https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Shadows - The Collection",
-        "url": "https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa"
-      },
-      "artists": [
-        {
-          "name": "The Shadows",
-          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Let Me Be the One",
-      "url": "https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Alle Macht den Gef\u00fchlen",
         "url": "https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 166026,
       "name": "Merci Ch\u00e9rie",
       "url": "https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Shadows - The Collection",
+        "url": "https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa"
+      },
+      "artists": [
+        {
+          "name": "The Shadows",
+          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Let Me Be the One",
+      "url": "https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Udo J\u00fcrgens - Die Erfolgsgeschichte",
+        "url": "https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "Warum nur, warum",
+      "url": "https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Duetos - Diz-me Com Quem Cantas",
         "url": "https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 237152,
       "name": "Tourada",
       "url": "https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Udo J\u00fcrgens - Die Erfolgsgeschichte",
-        "url": "https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "Warum nur, warum",
-      "url": "https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA"
     },
     {
       "added_at": "2025-03-14 16:55:23",

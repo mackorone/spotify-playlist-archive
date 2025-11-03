@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70429,
+  "num_followers": 70437,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-10-24 18:39:08",
       "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI"
+      },
+      "artists": [
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33"
+    },
+    {
+      "added_at": "2025-10-24 18:39:08",
+      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 160000,
       "name": "PORTAIS",
       "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
-    },
-    {
-      "added_at": "2025-10-24 18:39:08",
-      "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI"
-      },
-      "artists": [
-        {
-          "name": "Nathi",
-          "url": "https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33"
     },
     {
       "added_at": "2025-10-24 18:39:08",

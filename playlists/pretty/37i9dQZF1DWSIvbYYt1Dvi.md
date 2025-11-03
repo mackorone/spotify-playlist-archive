@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > há quem dê AULAS em aparecer dunaada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,761 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,664 likes - 52 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 51 | [MOTEL BATES](https://open.spotify.com/track/7bPTMDWD7XMJY6VYQKwDd8) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:05 |
 | 52 | [BOSSa](https://open.spotify.com/track/094GGI5rNCfXO8TmWBVE58) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [CARO Vapor II \- qual a forma de pagamento ?](https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ) | 5:18 |
 
-Snapshot ID: `AAAAANpnZxwMCCYzZY1xx27Ch3EKLssJ`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

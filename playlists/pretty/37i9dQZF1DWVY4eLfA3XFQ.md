@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🐇 Tech house operators, featuring Shinichi Osawa & RHYME
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,277 likes - 120 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,341 likes - 120 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 48 | [Pump It Up](https://open.spotify.com/track/5ul7KH94gNbcsZZABPCuAz) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Pump It Up](https://open.spotify.com/album/0HZDxChSYifZ3qBpuohwFm) | 2:51 |
 | 49 | [Focus \(feat\. CLOVES\) \- EdiP Remix](https://open.spotify.com/track/3ietKhJNHpuBltljTN6HrO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [EdiP](https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE) | [Playa Package](https://open.spotify.com/album/5aBan9hdzRhaHGAQC1AD1k) | 3:56 |
 | 50 | [Shoop](https://open.spotify.com/track/2S2N71w3l1P66hJESioabj) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5), [NSJ](https://open.spotify.com/artist/20yjvf2jPCLk4A4cLxYiNo) | [Shoop](https://open.spotify.com/album/74sJFWGAJEGHxd5gNw6nS3) | 3:17 |
-| 51 | [Missy](https://open.spotify.com/track/6qVHLY0qaIFHJ2Juyk7XRK) | [Gabriel Rojas](https://open.spotify.com/artist/7le8SkhRwGd8PvSaXBHQVT), [Daniel Alejandro](https://open.spotify.com/artist/1pOgpL3uAZtdXQoKg5eLm4) | [Missy](https://open.spotify.com/album/6IqDiYrEgBU7Sb7nGyYqUn) | 3:23 |
+| 51 | [Missy](https://open.spotify.com/track/6qVHLY0qaIFHJ2Juyk7XRK) | [Gabriel Rojas](https://open.spotify.com/artist/7le8SkhRwGd8PvSaXBHQVT), [Daniel Alejandro](https://open.spotify.com/artist/2tsEHv1kYvFSIC0txwNbLg) | [Missy](https://open.spotify.com/album/6IqDiYrEgBU7Sb7nGyYqUn) | 3:23 |
 | 52 | [Baiana \- With L\-Gante](https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana \(With L\-Gante\)](https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE) | 2:26 |
 | 53 | [Bouncin' Off Walls](https://open.spotify.com/track/34CyJbwIElVaWX4NR5IycR) | [Balanka](https://open.spotify.com/artist/4F47V8rO8pOERTLQNXCo3v), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Bouncin' Off Walls EP](https://open.spotify.com/album/25ZzZPKG0kYnYABOtvdBen) | 3:03 |
 | 54 | [Bachata](https://open.spotify.com/track/5g7qZi147gRPAESbYKpgQs) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Bachata](https://open.spotify.com/album/27GGNlHPIDEM2hWCnP278T) | 3:36 |
