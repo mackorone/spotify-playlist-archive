@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,398 likes - 46 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,399 likes - 46 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 20 | [Problemas de Confiança](https://open.spotify.com/track/2R3Wf9OHRwuFGVo3Cnez8e) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:31 |
 | 21 | [MERCÚRIO EM CÂNCER](https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [MERCÚRIO EM CÂNCER](https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp) | 2:58 |
 | 22 | [ÓPIO](https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 3:29 |
-| 23 | [Eu Gosto](https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Dr\. Ace](https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:20 |
+| 23 | [Vai, Slip](https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:17 |
 | 24 | [Membros Humanos](https://open.spotify.com/track/6QXKsmOElNnJIxM5xrBCRa) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Uirá Bueno](https://open.spotify.com/artist/3WR2JyTHBxXYftjNpZmrvA), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:39 |
 | 25 | [Slipmami On The Radar Freestyle](https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [OG Bahia](https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1) | [Slipmami On The Radar Freestyle](https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz) | 1:16 |
 | 26 | [Slipmami On The Radar Freestyle Pt\. 2](https://open.spotify.com/track/5BZhhKdfLRCeZMD2rrGgb5) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Slipmami On The Radar Freestyle Pt\. 2](https://open.spotify.com/album/6xZSYwLGujgmf7kHIUzNhM) | 2:40 |
-| 27 | [Vai, Slip](https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:17 |
+| 27 | [Eu Gosto](https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Dr\. Ace](https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:20 |
 | 28 | [Novinho](https://open.spotify.com/track/4Sb6JzypvlH5V8DBQ6alMq) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:15 |
 | 29 | [FOFINHO SUBMISSO](https://open.spotify.com/track/3L18ZuWtiptTLd2wbqE9P3) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AK SPORTS](https://open.spotify.com/artist/7qiOBa5jCbTeyLY2Chw9ju), [NORA](https://open.spotify.com/artist/27ITClgUCIc7jbTZfp8Q4r) | [FOFINHO SUBMISSO](https://open.spotify.com/album/6OZtQ1z5yC4tDnQQ6dPu69) | 3:26 |
 | 30 | [Pertenço Às Ruas](https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:15 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 45 | [Pra Você Ficar a Vontade](https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn) | [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Pra Você Ficar a Vontade](https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c) | 3:27 |
 | 46 | [Sucessagem](https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Sucessagem](https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt) | 2:33 |
 
-Snapshot ID: `aQVNgAAAAABO7XBMCRToYMqDQT9aWZAL`
+Snapshot ID: `aQafAAAAAACdL4yUrmevOlAAOn99ueFV`

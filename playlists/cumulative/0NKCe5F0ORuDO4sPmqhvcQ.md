@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-706 songs - 1 day 15 hr 33 min
+707 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [love ya](https://open.spotify.com/track/1hTENYTuKFe5x0MRNqF2ET) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [love ya](https://open.spotify.com/album/26jcbTMMY51TUr1UVWyUVv) | 3:07 | 2022-08-12 | 2023-01-20 |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-18 | 2022-09-17 |
 | [Lover](https://open.spotify.com/track/3jRVHf7IH9fSixsHKW4UOh) | [Naderi](https://open.spotify.com/artist/6AuUD6XK7azpz23KJCbExL), [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Lover](https://open.spotify.com/album/7eLWn88xkk9EG4wMso3RId) | 2:04 | 2021-12-07 | 2022-01-08 |
+| [lucky 777](https://open.spotify.com/track/2PItx8ylP9oGrcoQMhPA3r) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [lucky 777](https://open.spotify.com/album/4yQO2awKYEX7cMd4AbGcXY) | 2:16 | 2025-11-03 |  |
 | [Lucky Ones](https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Lucky Ones](https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD) | 3:25 | 2022-12-02 | 2024-03-23 |
 | [Lucky Ones \- Wilde Things Remix](https://open.spotify.com/track/2xlR5f4A5RGabqodlkaGVI) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Olivia Ray](https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle), [WILDE THINGS](https://open.spotify.com/artist/2Tdyg0TzUTuZrJJ4Gs7eeQ) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:08 | 2022-02-11 | 2022-03-31 |
 | [LUKEY TY TY](https://open.spotify.com/track/3dJ2rRiGeXRmK3df5EoQfq) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [LUKEY TY TY](https://open.spotify.com/album/7i7IMaZAe5IamfpScpotin) | 1:53 | 2023-08-23 | 2024-08-07 |

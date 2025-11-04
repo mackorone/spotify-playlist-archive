@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 85253,
+  "num_followers": 85279,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAAB6pWl6anIGxQIf4UrbPZ8k",
+  "snapshot_id": "aQafAAAAAADBnyAhHay+aS852j+az/HV",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 371773,
-      "name": "Triste Y Vac\u00eda",
-      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
+      "duration_ms": 456960,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 456960,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
+      "duration_ms": 371773,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/4eJXH4tss0nwgHlaPqMwSc"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metiendo Mano",
-        "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "Plantaci\u00f3n Adentro",
-      "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metiendo Mano",
+        "url": "https://open.spotify.com/album/3oOEQ4KB3ZegkjEvfHjiYn"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Plantaci\u00f3n Adentro",
+      "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Good, The Bad, And The Ugly",
         "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n Guerrero",
-        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
     },
     {
       "added_at": null,

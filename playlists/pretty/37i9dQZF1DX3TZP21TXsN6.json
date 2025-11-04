@@ -1,12 +1,12 @@
 {
   "description": "Nieuw: BFLQuatro, CC, A3 en meer",
-  "num_followers": 160133,
+  "num_followers": 160125,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGKDkLYYIFAlnLOfB9wZPfhaktBL",
+  "snapshot_id": "AAAAADn0S7jcaxVfwW0WBpWF0ec5DMvD",
   "tracks": [
     {
       "added_at": "2025-10-31 08:00:02",
@@ -27,22 +27,6 @@
       "duration_ms": 149793,
       "name": "Slide",
       "url": "https://open.spotify.com/track/6jAc3YHbqtYNZh8s7VjTMX"
-    },
-    {
-      "added_at": "2025-10-31 08:00:02",
-      "album": {
-        "name": "Verstandig",
-        "url": "https://open.spotify.com/album/2lC8phRG5tRWHZFWoPamou"
-      },
-      "artists": [
-        {
-          "name": "A3",
-          "url": "https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Verstandig",
-      "url": "https://open.spotify.com/track/0RiU2lKqcj1EO0tRjF5hKf"
     },
     {
       "added_at": "2025-10-31 08:00:02",
@@ -71,6 +55,74 @@
     {
       "added_at": "2025-10-31 08:00:02",
       "album": {
+        "name": "Verstandig",
+        "url": "https://open.spotify.com/album/2lC8phRG5tRWHZFWoPamou"
+      },
+      "artists": [
+        {
+          "name": "A3",
+          "url": "https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Verstandig",
+      "url": "https://open.spotify.com/track/0RiU2lKqcj1EO0tRjF5hKf"
+    },
+    {
+      "added_at": "2025-10-31 08:00:02",
+      "album": {
+        "name": "Niet Gewoon",
+        "url": "https://open.spotify.com/album/2ahYB0y9zVwNVXP6HMiF78"
+      },
+      "artists": [
+        {
+          "name": "Boufi",
+          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
+        }
+      ],
+      "duration_ms": 167323,
+      "name": "Niet Gewoon",
+      "url": "https://open.spotify.com/track/3d0oO5PkEgwgOveqKcWMo8"
+    },
+    {
+      "added_at": "2025-10-31 08:00:02",
+      "album": {
+        "name": "Snotneus",
+        "url": "https://open.spotify.com/album/4ocszAEfSeW9fUx37bI2ux"
+      },
+      "artists": [
+        {
+          "name": "Flo",
+          "url": "https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Snotneus",
+      "url": "https://open.spotify.com/track/6PkauAK5MnF4dRpbV8YdLl"
+    },
+    {
+      "added_at": "2025-10-31 08:00:02",
+      "album": {
+        "name": "NACHT",
+        "url": "https://open.spotify.com/album/2RGCE3LkgtxR53RojrOe7s"
+      },
+      "artists": [
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "duration_ms": 143895,
+      "name": "NACHT",
+      "url": "https://open.spotify.com/track/4btnwHkreHQsLHJHT9KSHa"
+    },
+    {
+      "added_at": "2025-10-31 08:00:02",
+      "album": {
         "name": "Hetzelfde Feestje",
         "url": "https://open.spotify.com/album/46RtKKTGTJk3PWRcu0yRN2"
       },
@@ -95,26 +147,6 @@
       "duration_ms": 175891,
       "name": "Hetzelfde Feestje",
       "url": "https://open.spotify.com/track/4JnEBcbIQ2nrXu0gQPwqnO"
-    },
-    {
-      "added_at": "2025-10-31 08:00:02",
-      "album": {
-        "name": "Halverwege",
-        "url": "https://open.spotify.com/album/6QnV0OMemf0a9y2ifU4VoI"
-      },
-      "artists": [
-        {
-          "name": "Kieks",
-          "url": "https://open.spotify.com/artist/726JnbIAqlICv9oInzGQ1Q"
-        },
-        {
-          "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
-        }
-      ],
-      "duration_ms": 117803,
-      "name": "Halverwege",
-      "url": "https://open.spotify.com/track/7KxHjOF8gA8GalwSCXVvlG"
     },
     {
       "added_at": "2025-10-31 08:00:02",
@@ -191,58 +223,6 @@
     {
       "added_at": "2025-10-31 08:00:02",
       "album": {
-        "name": "Snotneus",
-        "url": "https://open.spotify.com/album/4ocszAEfSeW9fUx37bI2ux"
-      },
-      "artists": [
-        {
-          "name": "Flo",
-          "url": "https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Snotneus",
-      "url": "https://open.spotify.com/track/6PkauAK5MnF4dRpbV8YdLl"
-    },
-    {
-      "added_at": "2025-10-31 08:00:02",
-      "album": {
-        "name": "NACHT",
-        "url": "https://open.spotify.com/album/2RGCE3LkgtxR53RojrOe7s"
-      },
-      "artists": [
-        {
-          "name": "JR",
-          "url": "https://open.spotify.com/artist/1uBVAOArtDJV3NOliZbEyN"
-        },
-        {
-          "name": "Solid Circle",
-          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
-        }
-      ],
-      "duration_ms": 143895,
-      "name": "NACHT",
-      "url": "https://open.spotify.com/track/4btnwHkreHQsLHJHT9KSHa"
-    },
-    {
-      "added_at": "2025-10-31 08:00:02",
-      "album": {
-        "name": "Niet Gewoon",
-        "url": "https://open.spotify.com/album/2ahYB0y9zVwNVXP6HMiF78"
-      },
-      "artists": [
-        {
-          "name": "Boufi",
-          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
-        }
-      ],
-      "duration_ms": 167323,
-      "name": "Niet Gewoon",
-      "url": "https://open.spotify.com/track/3d0oO5PkEgwgOveqKcWMo8"
-    },
-    {
-      "added_at": "2025-10-31 08:00:02",
-      "album": {
         "name": "BACKSEAT",
         "url": "https://open.spotify.com/album/4D7vPYvM28l2ZGHIl0n9WS"
       },
@@ -271,6 +251,22 @@
       "duration_ms": 179501,
       "name": "Nooit Genoeg",
       "url": "https://open.spotify.com/track/1jOcblB8UzE0leSU9CDsOr"
+    },
+    {
+      "added_at": "2025-10-31 08:00:02",
+      "album": {
+        "name": "Baddie Zoals Jij",
+        "url": "https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX"
+      },
+      "artists": [
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Baddie Zoals Jij",
+      "url": "https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm"
     },
     {
       "added_at": "2025-10-31 08:00:02",
@@ -343,22 +339,6 @@
       "duration_ms": 124470,
       "name": "Gas",
       "url": "https://open.spotify.com/track/6ERP5RufAQJ7KypF4spsox"
-    },
-    {
-      "added_at": "2025-10-31 08:00:02",
-      "album": {
-        "name": "Baddie Zoals Jij",
-        "url": "https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX"
-      },
-      "artists": [
-        {
-          "name": "Sluwe Ollie",
-          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Baddie Zoals Jij",
-      "url": "https://open.spotify.com/track/0x5MSTlha3rWGgZ0NVXEnm"
     },
     {
       "added_at": "2025-10-31 08:00:02",

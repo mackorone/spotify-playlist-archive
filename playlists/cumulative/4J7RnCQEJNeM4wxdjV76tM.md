@@ -4,7 +4,7 @@
 
 > ⋆.
 
-642 songs - 1 day 11 hr 12 min
+643 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Alright](https://open.spotify.com/track/3dqFdKbZacv3Z3XzFtIFjE) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:57 | 2022-04-12 |  |
 | [american wedding](https://open.spotify.com/track/3y6yAO8rrmqXcH9sUHOeaF) | [ocean sixteen](https://open.spotify.com/artist/0Pwqw5EGBF7yk6Dvs1W5c2) | [american wedding](https://open.spotify.com/album/11AlLH4vZb992JrQXaBrOe) | 4:33 | 2023-09-22 |  |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2023-09-27 |  |
+| [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 | 2025-11-03 |  |
 | [Anniversary of an Uninteresting Event](https://open.spotify.com/track/27gb40S6AIpP5lrhLxlfXj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:57 | 2024-10-08 |  |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2024-08-14 |  |
 | [Appetizer](https://open.spotify.com/track/2ej9PL0sk4g1Vn5yozgURa) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [GEEZYWORLD \(Deluxe\)](https://open.spotify.com/album/50TGZboEjJzQn07QijX4lS) | 2:35 | 2022-07-19 |  |

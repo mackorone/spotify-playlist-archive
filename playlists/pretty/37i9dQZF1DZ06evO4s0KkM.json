@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 124526,
+  "num_followers": 124542,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAADO+w0OzCGmckLicP+8vnp5",
+  "snapshot_id": "aQafAAAAAAAfS14BsC45TGP77PEvKfxk",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 161026,
-      "name": "The Auld Triangle",
-      "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
+      "duration_ms": 202000,
+      "name": "Sunshine Highway",
+      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Sunshine Highway",
-      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
+      "duration_ms": 161026,
+      "name": "The Auld Triangle",
+      "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest of Times Limited Edition",
-        "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "(F)lannigan's Ball",
-      "url": "https://open.spotify.com/track/67PwQNkJRsrqWXz45wK6Qj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 158600,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Meanest of Times Limited Edition",
+        "url": "https://open.spotify.com/album/5rdr2pUNh0oiXYUiZF0MUx"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "(F)lannigan's Ball",
+      "url": "https://open.spotify.com/track/67PwQNkJRsrqWXz45wK6Qj"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 222749,
-      "name": "Turn Up That Dial",
-      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 131315,
       "name": "Ten Times More",
       "url": "https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 222749,
+      "name": "Turn Up That Dial",
+      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 261862,
-      "name": "I Wish You Were Here",
-      "url": "https://open.spotify.com/track/078MAirupKl43OeGplw8aW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dead Anthems",
         "url": "https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 156618,
       "name": "Cold Like This",
       "url": "https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 261862,
+      "name": "I Wish You Were Here",
+      "url": "https://open.spotify.com/track/078MAirupKl43OeGplw8aW"
     },
     {
       "added_at": null,

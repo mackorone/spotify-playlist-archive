@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,706 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,753 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 69 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 |
 | 70 | [Sweet Peach Tree](https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT) | [Tim Hagans](https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr) | [Alone Together](https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd) | 6:58 |
 | 71 | [Jacob's Ladder](https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Magnetic](https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98) | 7:59 |
-| 72 | [Rahsan's Run](https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Lotus Flower](https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH) | 8:04 |
+| 72 | [I'll Remember April](https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Intimacy Calling \- Standard Time Vol\. 2](https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe) | 8:34 |
 | 73 | [El Sino](https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd's Eye View](https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF) | 10:03 |
-| 74 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 |
-| 75 | [I'll Remember April](https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Intimacy Calling \- Standard Time Vol\. 2](https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe) | 8:34 |
-| 76 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
+| 74 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
+| 75 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 |
+| 76 | [Rahsan's Run](https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4) | [Woody Shaw](https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs) | [Lotus Flower](https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH) | 8:04 |
 | 77 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 | 78 | [Drumette](https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9) | [Pete Candoli](https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7) | [From The Top \(Digitally Remastered\)](https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ) | 3:44 |
 | 79 | [Embraceable You](https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Ruby Braff](https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Complete Recordings](https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O) | 4:58 |

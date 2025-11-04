@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-381 songs - 21 hr 19 min
+382 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [The First Surface](https://open.spotify.com/track/0GUxlhUfZhTKXtuYPSm7Ha) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/5HqxbKNC2NdtKagRP7MXxU) | 5:36 | 2020-12-08\* | 2022-07-29 |
 | [The First Surface](https://open.spotify.com/track/0ZvqgR8luDK3T5fZxkImGF) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/4mZmSV8geRn4gpbdxrTfwV) | 5:36 | 2022-07-22 | 2022-10-14 |
 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 | 2020-12-08\* | 2021-03-18 |
-| [The Flow in Us](https://open.spotify.com/track/1BYFtfMHwRzYG5mxyPVZUH) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [The Flow in Us](https://open.spotify.com/album/7BH8ExlisgrjJRSYYKdwlj) | 2:54 | 2025-07-15 |  |
+| [The Flow in Us](https://open.spotify.com/track/1BYFtfMHwRzYG5mxyPVZUH) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [The Flow in Us](https://open.spotify.com/album/7BH8ExlisgrjJRSYYKdwlj) | 2:54 | 2025-07-15 | 2025-11-04 |
 | [the long way home](https://open.spotify.com/track/1gRgYigye8TN8lvTZqsy6T) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [the long way home](https://open.spotify.com/album/3mK1UAfpzst5GhoHCF5Z6e) | 2:00 | 2025-07-15 |  |
 | [The Mist](https://open.spotify.com/track/7A087XKnj9LRqRgR5qzKQw) | [Milo Mariam](https://open.spotify.com/artist/68lsEBWe04lPdYWwx3zjFe) | [Singularity](https://open.spotify.com/album/0GGeGvVF9DedbmSBec0n7n) | 2:53 | 2021-09-30 | 2025-10-26 |
 | [The Queen of All Everything](https://open.spotify.com/track/6HJH2v5BIqpKW34nsLV1O7) | [Ott](https://open.spotify.com/artist/1F102kNzMqsmOpF7AfFmm5) | [Skylon](https://open.spotify.com/album/60PDbOYjrrWtanyMSWQamA) | 7:52 | 2021-01-15 | 2021-02-20 |
@@ -360,6 +360,7 @@
 | [Twilight Waves](https://open.spotify.com/track/1PIKB9qoJudUMw04xsYxlF) | [Atephis](https://open.spotify.com/artist/7wLT6L68giSFZDvgaotGIU) | [Twilight Waves](https://open.spotify.com/album/1bfKWTGV516IP7mR5KKbxk) | 2:46 | 2025-05-14 | 2025-06-20 |
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* | 2025-09-18 |
 | [Underlying Cause](https://open.spotify.com/track/42eEBz1XT0b0uvZDZPisyL) | [Experia](https://open.spotify.com/artist/5NTXP9El0Kk8oAEIaKZZfZ) | [Underlying Cause](https://open.spotify.com/album/38Lsf8bDz8BsQ0zzNUzEwn) | 3:10 | 2025-02-26 |  |
+| [Unfolding Horizon](https://open.spotify.com/track/3cEDGwJVY7YcVLNOSP3UEu) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Unfolding Horizon](https://open.spotify.com/album/4vpmSuEaNFG49zbG8Iv4cA) | 3:02 | 2025-10-01 |  |
 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-06-16 |  |
 | [Unsaid](https://open.spotify.com/track/2AGNymbWbkZUYTZIAdGb4H) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Unsaid](https://open.spotify.com/album/7I2441VTSINBUfbWemfCyG) | 2:28 | 2023-07-28 |  |
 | [unwinding mind](https://open.spotify.com/track/3cKtbvlmZLIGQlvlXVGWcO) | [vindi meta](https://open.spotify.com/artist/1KpJe8aYmtCJpH7LP8mX9s) | [unwinding mind](https://open.spotify.com/album/5mYhxCiyQnJY8oBdgL6i1M) | 3:00 | 2024-05-10 |  |

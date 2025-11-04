@@ -2,9 +2,9 @@
 
 ### [All The Way Up](https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ)
 
-> Turn this playlist all the way up! Featuring, Money Man, Peezy &amp; Blxst.
+> Turn this playlist all the way up! Featuring, HoodRich Pablo Juan, Money Man, Peezy &amp; Blxst.
 
-194 songs - 8 hr 40 min
+195 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Empire](https://open.spotify.com/track/2Jdv6Suz2qXYLLmHosi8Dw) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Empire](https://open.spotify.com/album/2HiNrUvXg11AJgLHZgppJ9) | 2:42 | 2024-01-12 | 2025-02-01 |
 | [Fa Sure](https://open.spotify.com/track/3iltTfznFyCJr0laSm8uY3) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [30 Days](https://open.spotify.com/album/6hlq8hF5Li4rmAxBPtoRJW) | 2:02 | 2025-10-20 |  |
 | [Fashion Week](https://open.spotify.com/track/2LGQSF47PZN7m5tb7gEky6) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Fashion Week](https://open.spotify.com/album/676WObynRCMxzPXtKvJbSs) | 3:52 | 2023-09-08 | 2025-03-05 |
+| [First Day Out](https://open.spotify.com/track/2Ww2RUCfyAr6dwYgpcs6kd) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [First Day Out](https://open.spotify.com/album/1bomiimFzpDJ2RwbvZg3I2) | 2:48 | 2025-11-03 |  |
 | [Florida Water \(feat\. Luh Tyler\)](https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Florida Water \(feat\. Luh Tyler\)](https://open.spotify.com/album/4TWBAJq0lSGNDG9tKu2Bas) | 3:43 | 2023-04-10 |  |
 | [For The Streets](https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [For The Streets](https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2) | 2:25 | 2023-11-18 |  |
 | [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 | 2025-04-08 | 2025-09-30 |

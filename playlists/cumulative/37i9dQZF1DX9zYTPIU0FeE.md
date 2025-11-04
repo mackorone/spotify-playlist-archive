@@ -4,7 +4,7 @@
 
 > Journey through the sounds of South African Jazz\. Cover: Mandisi Dyantyis
 
-316 songs - 1 day 7 hr 46 min
+317 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Endless Possibillities](https://open.spotify.com/track/0uoL6cU9Cf7ieZBa92SNiC) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 3:36 | 2023-11-01 | 2023-11-17 |
 | [Ester And James](https://open.spotify.com/track/1kLla7JH07BHnnrSK4Ch3O) | [BandaBanda & The Crocodiles](https://open.spotify.com/artist/4fGYO2jfAKQYa4gyjMrRhH), [Keke Lingo](https://open.spotify.com/artist/4lNqNcn2uyYAQDP8Enan65) | [Africado](https://open.spotify.com/album/1wvYqD2mU6U0dRsjvfVpvf) | 5:46 | 2022-04-28 | 2023-03-18 |
 | [Ewe Ndlovu \(Live\)](https://open.spotify.com/track/4vJlywZ948TobWVPbjLB3P) | [Feya Faku](https://open.spotify.com/artist/1dfNDAODPlsiimrbpTuvXb) | [Inkumbulo \(Live\)](https://open.spotify.com/album/4xQaZ1KkAHni6b2HF07vH1) | 9:13 | 2025-06-24 | 2025-08-30 |
-| [Ezilalini](https://open.spotify.com/track/09hp2WoNDK4HmVL7kTzrHy) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby for Khayoyo](https://open.spotify.com/album/1DHnHcZeohhtUCN67IOxiB) | 8:11 | 2025-08-29 |  |
+| [Ezilalini](https://open.spotify.com/track/09hp2WoNDK4HmVL7kTzrHy) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby for Khayoyo](https://open.spotify.com/album/1DHnHcZeohhtUCN67IOxiB) | 8:11 | 2025-08-29 | 2025-11-04 |
 | [Ezilalini](https://open.spotify.com/track/4b5ka6UvhGACUHFE4QEzM5) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby For Khayoyo](https://open.spotify.com/album/7kjT2dbEf7fXgoNuc5coI6) | 8:11 | 2024-04-05 | 2025-06-25 |
 | [Falling Apart](https://open.spotify.com/track/3tgyFGshU5wxP4pEvlPCDv) | [Luh'ra](https://open.spotify.com/artist/0iXElExInTSMZ3DRWE7lpD) | [Falling Apart](https://open.spotify.com/album/0Bcxklu4BFgRY812BZfNEX) | 4:16 | 2022-06-23 | 2023-02-10 |
 | [Feelings](https://open.spotify.com/track/0n6f2BdW0SEjF1uOJ3ntWR) | [Sonder the Africanime](https://open.spotify.com/artist/7pCksbcJxPSIOqH10DXUOn) | [Feelings](https://open.spotify.com/album/0ndJ1Q9VjqIpcKi0PPFD9z) | 2:01 | 2025-06-13 | 2025-06-20 |
@@ -138,6 +138,7 @@
 | [Isponono](https://open.spotify.com/track/3MhNRnh7ipFyhSqv6RKnxm) | [PARAS "SIBALUKHULU" DLAMINI](https://open.spotify.com/artist/35LbDw5rYHgaFDEfN0O4n6) | [Ingoma Busuku](https://open.spotify.com/album/3rVbfPQmwijCqfrswFsHwO) | 3:30 | 2025-06-13 | 2025-06-20 |
 | [J.G\. at Nikki's](https://open.spotify.com/track/7dOVLEg8njJySnPiHXweTu) | [Feya Faku](https://open.spotify.com/artist/1dfNDAODPlsiimrbpTuvXb) | [Impilo](https://open.spotify.com/album/6XD1Euv3XUt8ACFsgd2kA3) | 4:06 | 2025-06-24 | 2025-08-30 |
 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 | 2022-05-12 | 2024-05-17 |
+| [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 | 2025-10-24 |  |
 | [Joyous](https://open.spotify.com/track/4eZg8lxVThElRnwl6ZHqBX) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [The Ancestors](https://open.spotify.com/artist/7ePHKxo2J01bxBoXF3ikyy) | [Brownswood 10](https://open.spotify.com/album/0VyTXdyXEsKzrvI6h566GY) | 6:38 | 2022-04-28 | 2022-11-13 |
 | [Joyous](https://open.spotify.com/track/1dznd0YJ26B9NIUJcQZOKh) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/6Kf1JMtmpxC4ffNnv1keSl) | 6:38 | 2023-11-01 | 2023-11-17 |
 | [Joyous](https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/7bOWCR37vGgWis6Nwi7aMC) | 6:43 | 2022-04-28 | 2023-03-18 |

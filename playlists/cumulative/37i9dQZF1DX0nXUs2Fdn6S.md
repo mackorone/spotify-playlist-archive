@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-92 songs - 5 hr 3 min
+93 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All Night](https://open.spotify.com/track/096pe7et5ylo1upVC9D6CQ) | [Shahee](https://open.spotify.com/artist/0ghVk0BN5DJo2zcxV5IkQS) | [All Night](https://open.spotify.com/album/4YAKNotRPQJ1OLRXwBSE5X) | 2:50 | 2023-10-20 |  |
 | [Baawra Mann](https://open.spotify.com/track/79RInrNbVRumprs4MDYgwz) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Shambhavi Thakur](https://open.spotify.com/artist/2b1YWOv5v6yzuEDComf7fO) | [Baawra Mann](https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR) | 3:07 | 2023-10-20 |  |
 | [Bangalore](https://open.spotify.com/track/5bP5wIJaIMzxBCU2oLnmkU) | [Kamil Ghaouti](https://open.spotify.com/artist/59D1PT94ywzBggaLufM7ki), [SAGA](https://open.spotify.com/artist/7j2DecJrsHe2QRQQSpqx70), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Bangalore](https://open.spotify.com/album/3LJUSBlkxUpUEgSAIvF5yz) | 3:26 | 2023-10-20 |  |
+| [Bazaar](https://open.spotify.com/track/4hkCTxmPXuFKveumJVcnEW) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Anyasa](https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd) | [Bazaar](https://open.spotify.com/album/11xFfqLQzdhuQtFGkopdEb) | 6:03 | 2025-11-03 |  |
 | [Beatific \- Original Mix](https://open.spotify.com/track/6tuz521mMSxRvj1vGDq3GS) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Vizdumb](https://open.spotify.com/album/0vOQdORQ04T2GAVPfYoj61) | 4:00 | 2023-10-20 |  |
 | [Bhayanak Atma](https://open.spotify.com/track/3niyBBBg3177KzOKDwxVzH) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Bhayanak Atma](https://open.spotify.com/album/16pdgGrQ5x2CfLxzckL0GS) | 3:30 | 2023-10-20 | 2024-04-19 |
 | [Bhayanak Atma](https://open.spotify.com/track/3IgxCj017H9u8VFHa1U0vk) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Gagan Mudgal](https://open.spotify.com/artist/4faYoMlqyHUk7oGpbK2nNo) | [Raja Baja](https://open.spotify.com/album/73FHD2aQaTd9ksekm6tD4S) | 3:30 | 2024-02-05 |  |

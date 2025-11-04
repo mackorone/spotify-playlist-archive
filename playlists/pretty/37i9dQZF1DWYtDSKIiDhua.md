@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,992 likes - 92 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,997 likes - 92 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

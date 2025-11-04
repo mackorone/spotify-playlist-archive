@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368,137 likes - 230 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,368,088 likes - 230 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

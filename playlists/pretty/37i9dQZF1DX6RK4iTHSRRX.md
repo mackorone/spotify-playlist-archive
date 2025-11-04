@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,670 likes - 78 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,705 likes - 78 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 |
-| 2 | [Silent Night](https://open.spotify.com/track/3v3hEXCevO5ad0ted7txoG) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Silent Night](https://open.spotify.com/album/5JVn6yOVLqFqlAFD0ds7i0) | 1:49 |
-| 3 | [O Holy Night](https://open.spotify.com/track/2rvx9qwjwMWuMWvESqawdd) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [O Holy Night](https://open.spotify.com/album/6f7mVDqYRK8nAUF7qhaPDT) | 2:15 |
-| 4 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6wd1lVSwuy1vV5WvrONGGR) | 1:28 |
-| 5 | [Let It Snow](https://open.spotify.com/track/3CYQ5CLgRMAIZcriPtkOfF) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Let It Snow](https://open.spotify.com/album/4FI4gSfytb5pqvImHDHtYC) | 2:29 |
-| 6 | [O Come All Ye Faithful](https://open.spotify.com/track/2YahtbkRZgJca59Zwynzhb) | [Lewis Knight](https://open.spotify.com/artist/7gLoi2AS98NhhbhJBxd3bn) | [O Come All Ye Faithful](https://open.spotify.com/album/1aSRGQmhjPwBUAijeLCaXV) | 2:52 |
-| 7 | [White Christmas](https://open.spotify.com/track/2RTvegdv7A79tqC8FLmgOn) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [White Christmas](https://open.spotify.com/album/2ji6NjJQjc56GhF9s8TlOG) | 2:24 |
-| 8 | [Feliz Navidad](https://open.spotify.com/track/5IHQrWbmD7w75yUaWB3A8k) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Feliz Navidad](https://open.spotify.com/album/5gByMQ7J4bjCXjZ3HuCwZJ) | 2:24 |
-| 9 | [Fairytale of New York](https://open.spotify.com/track/0fJUaPpv1uciNMANFHvTND) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Fairytale of New York](https://open.spotify.com/album/6pvMnOZo7wxTyY5C9npWng) | 2:39 |
+| 1 | [O Holy Night](https://open.spotify.com/track/2rvx9qwjwMWuMWvESqawdd) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [O Holy Night](https://open.spotify.com/album/6f7mVDqYRK8nAUF7qhaPDT) | 2:15 |
+| 2 | [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 |
+| 3 | [Fairytale of New York](https://open.spotify.com/track/0fJUaPpv1uciNMANFHvTND) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Fairytale of New York](https://open.spotify.com/album/6pvMnOZo7wxTyY5C9npWng) | 2:39 |
+| 4 | [Silent Night](https://open.spotify.com/track/3v3hEXCevO5ad0ted7txoG) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Silent Night](https://open.spotify.com/album/5JVn6yOVLqFqlAFD0ds7i0) | 1:49 |
+| 5 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6wd1lVSwuy1vV5WvrONGGR) | 1:28 |
+| 6 | [Let It Snow](https://open.spotify.com/track/3CYQ5CLgRMAIZcriPtkOfF) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Let It Snow](https://open.spotify.com/album/4FI4gSfytb5pqvImHDHtYC) | 2:29 |
+| 7 | [O Come All Ye Faithful](https://open.spotify.com/track/2YahtbkRZgJca59Zwynzhb) | [Lewis Knight](https://open.spotify.com/artist/7gLoi2AS98NhhbhJBxd3bn) | [O Come All Ye Faithful](https://open.spotify.com/album/1aSRGQmhjPwBUAijeLCaXV) | 2:52 |
+| 8 | [White Christmas](https://open.spotify.com/track/2RTvegdv7A79tqC8FLmgOn) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [White Christmas](https://open.spotify.com/album/2ji6NjJQjc56GhF9s8TlOG) | 2:24 |
+| 9 | [Feliz Navidad](https://open.spotify.com/track/5IHQrWbmD7w75yUaWB3A8k) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Feliz Navidad](https://open.spotify.com/album/5gByMQ7J4bjCXjZ3HuCwZJ) | 2:24 |
 | 10 | [Joy To The World](https://open.spotify.com/track/2NjzUWcGx23mzft2N2kkZI) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Joy To The World](https://open.spotify.com/album/5zIDMV2FDJ7uOJq6N0B4Nc) | 1:28 |
 | 11 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/1z58bfw6hdvZTcNUqORPS1) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [I Saw Mommy Kissing Santa Claus & Jingle Bells](https://open.spotify.com/album/00cPDyKSf7j1lZKThekCfq) | 2:54 |
 | 12 | [Ding Dong Merrily on High](https://open.spotify.com/track/6zMioPSHDwfVYw3jHwzZTz) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Ding Dong Merrily on High](https://open.spotify.com/album/7CHkaSKtPnXZUYuI7ArHWV) | 3:10 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 77 | [The Chipmunk Song \(Christmas Don't Be Late\) \[Instrumental Version\]](https://open.spotify.com/track/5EVvYH2ockerMq5ric8BT5) | [Acoustic Guitar Songs,Classical Guitar Masters & Classical Christmas Music](https://open.spotify.com/artist/5XdbiV13oxsZNUdwgXZnhn), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [It's the Most Wonderful Time of the Year \- Christmas Guitar](https://open.spotify.com/album/4rHmFEhmly9U7FAV7GLsmp) | 2:21 |
 | 78 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
 
-Snapshot ID: `AAAAAOPoKrUu80OoP1tmDZPG7gA07M8u`
+Snapshot ID: `AAAAAEcMo9sUczpee4K6lXG4kDBy/FZG`

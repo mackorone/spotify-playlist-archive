@@ -975,6 +975,44 @@
     },
     {
       "album": {
+        "name": "4 Palos (Remix)",
+        "url": "https://open.spotify.com/album/7CddmCwKyEzFTDDACCKSnw"
+      },
+      "artists": [
+        {
+          "name": "Michael Flores",
+          "url": "https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315463,
+      "name": "4 Palos - Remix",
+      "url": "https://open.spotify.com/track/1zkpwp5KZMuZ5GLiqJglK2"
+    },
+    {
+      "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
       },
@@ -27460,7 +27498,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 118466,
       "name": "gigolo",
       "url": "https://open.spotify.com/track/0zZXEuRkmE44e78mniF5MU"
@@ -47466,6 +47504,28 @@
       "duration_ms": 163220,
       "name": "Ni\u00f1o Del Hood",
       "url": "https://open.spotify.com/track/5nCYmWQs1xSK8WrtArAylx"
+    },
+    {
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107933,
+      "name": "NO BATID\u00c3O - Slowed",
+      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
     },
     {
       "album": {
@@ -67770,7 +67830,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 84560,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41"

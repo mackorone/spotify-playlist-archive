@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Dinda Ghania
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,426 likes - 105 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,428 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

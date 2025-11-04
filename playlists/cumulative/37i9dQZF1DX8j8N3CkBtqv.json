@@ -9292,7 +9292,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 225416,
       "name": "Jaane Do Mujhe",
       "url": "https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4"
@@ -13762,7 +13762,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 135929,
       "name": "Love or a Lesson",
       "url": "https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0"
@@ -17627,6 +17627,28 @@
     },
     {
       "album": {
+        "name": "Pyaar Ik Tarfa",
+        "url": "https://open.spotify.com/album/25V08HO2QXYLljBi1E0X6U"
+      },
+      "artists": [
+        {
+          "name": "Anuj B",
+          "url": "https://open.spotify.com/artist/7f5V2XifD0Mz6sGYuXrtCp"
+        },
+        {
+          "name": "Ranjha Yaar",
+          "url": "https://open.spotify.com/artist/1LZuTGtjndRFfGncarpV6Z"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Pyaar Ik Tarfa",
+      "url": "https://open.spotify.com/track/3opSFMPqeGWWx6UGDIbbhU"
+    },
+    {
+      "album": {
         "name": "Pyaar Kaafi Nahi",
         "url": "https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok"
       },
@@ -18270,7 +18292,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 148218,
       "name": "Ratiyaan",
       "url": "https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz"

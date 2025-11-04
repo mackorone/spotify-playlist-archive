@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5754,
+  "num_followers": 5755,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAAC9dvn7CC97U7X+8JXmKBWp",
+  "snapshot_id": "aQafAAAAAAB3/gp8GyENa5dADz5/ZZIN",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 195124,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 195124,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 234586,
-      "name": "Absolutely Nothing",
-      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
+      "duration_ms": 287316,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
     },
     {
       "added_at": null,
@@ -460,9 +460,25 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 287316,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+      "duration_ms": 234586,
+      "name": "Absolutely Nothing",
+      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urhobo/Isoko Worship Medley",
+        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 363781,
+      "name": "Urhobo/Isoko Worship Medley",
+      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
       "duration_ms": 193207,
       "name": "Onyeoma",
       "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urhobo/Isoko Worship Medley",
-        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 363781,
-      "name": "Urhobo/Isoko Worship Medley",
-      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
     },
     {
       "added_at": null,

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 41 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 41 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All About Us](https://open.spotify.com/track/3EwT7uWmy6f5T8LRcQwiRn) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [All About Us](https://open.spotify.com/album/5lbwUSHWsrUmeGwFztkVNp) | 2:38 |
 | 2 | ["You hate Jazz?"](https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | ["You hate Jazz?"](https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF) | 2:40 |
-| 3 | [Southwood](https://open.spotify.com/track/1vlR2uBjK3TUM8rcU7F43Z) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Southwood](https://open.spotify.com/album/0cdAJ8EByPMuMcg8f7xlSb) | 1:38 |
-| 4 | [Feels Like Yesterday](https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Feels Like Yesterday](https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk) | 2:09 |
+| 3 | [Feels Like Yesterday](https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Feels Like Yesterday](https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk) | 2:09 |
+| 4 | [Southwood](https://open.spotify.com/track/1vlR2uBjK3TUM8rcU7F43Z) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Southwood](https://open.spotify.com/album/0cdAJ8EByPMuMcg8f7xlSb) | 1:38 |
 | 5 | [Like When We Were Kids](https://open.spotify.com/track/7z20eGxDtGRcsbjABomnsp) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 2:00 |
 | 6 | [Selfish High Heels](https://open.spotify.com/track/4jkQZNP7o8T7xuTs9EQu7Y) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Selfish High Heels](https://open.spotify.com/album/181GktSNgR8gA0ql8LLlEa) | 3:46 |
 | 7 | [Come Alive](https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Come Alive](https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB) | 2:51 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 33 | [Once Upon A Time](https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Once Upon A Time](https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX) | 3:39 |
 | 34 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
 | 35 | [Lotus](https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:03 |
-| 36 | [Play No Games \(Harrison Remix\)](https://open.spotify.com/track/32fG2SvpIGVJxYQsSzGMzE) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Parallel World \(Deluxe Edition\)](https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50) | 2:25 |
-| 37 | [Ashe Maree](https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 2:03 |
+| 36 | [Ashe Maree](https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 2:03 |
+| 37 | [Play No Games \(Harrison Remix\)](https://open.spotify.com/track/32fG2SvpIGVJxYQsSzGMzE) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Parallel World \(Deluxe Edition\)](https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50) | 2:25 |
 | 38 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
 | 39 | [Collage](https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 3:42 |
 | 40 | [Intro](https://open.spotify.com/track/57mkeOKwQQuNle97NWo2a8) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 1:01 |
 | 41 | [She's Strong \(feat\. Maddee\)](https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:42 |
 
-Snapshot ID: `aQVNgAAAAAB1xFzMy2J5h/2OsGcRjgyS`
+Snapshot ID: `aQafAAAAAACr2eD8V23VEZ+ZAawQVZPh`

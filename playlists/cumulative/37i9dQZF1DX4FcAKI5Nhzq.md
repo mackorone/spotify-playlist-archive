@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: &TEAM\)
 
-1,484 songs - 3 day 7 hr 52 min
+1,486 songs - 3 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [ATE THAT](https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [ATE THAT EP](https://open.spotify.com/album/0SUJCQGGE2SMg1ziHwGFHK) | 3:00 | 2024-08-30 | 2025-03-14 |
 | [Atlantis](https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Atlantis \- The 7th Album Repackage](https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds) | 2:58 | 2021-04-13 | 2021-06-25 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-12 | 2022-12-31 |
-| [Awake](https://open.spotify.com/track/0jkTfpiISLOLYnIozYBX0x) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Awake](https://open.spotify.com/album/1mhkm2sS4ZCj2u7yHsVmBH) | 2:58 | 2025-09-24 |  |
+| [Awake](https://open.spotify.com/track/0jkTfpiISLOLYnIozYBX0x) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Awake](https://open.spotify.com/album/1mhkm2sS4ZCj2u7yHsVmBH) | 2:58 | 2025-09-24 | 2025-11-04 |
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2020-11-03 | 2021-03-01 |
 | [B.A.D](https://open.spotify.com/track/3VJtASWPj2bu8aGL8cvtss) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [BAD BLOOD \- The 4th Mini Album](https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta) | 3:20 | 2020-10-13\* | 2020-11-05 |
 | [B.O.M.B \- KABOOM ver.](https://open.spotify.com/track/435tPAXJyzIEBzxYsHeUhd) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [B.O.M.B \(KABOOM ver.\)](https://open.spotify.com/album/4MPeGD5fJa85Q8k3AwFGJS) | 3:37 | 2023-10-20 | 2023-10-28 |
@@ -587,7 +587,7 @@
 | [HEYDAY \(Prod\. Czaer\)](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 2:24 | 2022-09-22 | 2023-03-07 |
 | [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-03-02 | 2023-06-23 |
 | [HIGH FIVE](https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [HIGH FIVE](https://open.spotify.com/album/3qXcP38yQQay5WeyoK2bd7) | 3:02 | 2024-11-19 | 2025-03-13 |
-| [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 | 2025-09-24 |  |
+| [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 | 2025-09-24 | 2025-11-04 |
 | [Higher](https://open.spotify.com/track/26n7qRPECV3eRym4ZNmv6g) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [Higher](https://open.spotify.com/album/3XCbt9ptOV4VMvHedWOj5V) | 3:26 | 2023-08-03 | 2023-09-02 |
 | [HIGHLIGHT \(GARBAGE TIME\)](https://open.spotify.com/track/2cwkACF8riWTldVJcYwH3T) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [HIGHLIGHT \(GARBAGE TIME\)](https://open.spotify.com/album/4ZESPZrvxWx7ilmWDQ70hD) | 2:59 | 2025-04-11 | 2025-05-29 |
 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 | 2023-04-14 |
@@ -840,6 +840,7 @@
 | [Maybe](https://open.spotify.com/track/6xP3oKbamE0eyGqzA0sL7x) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Maybe](https://open.spotify.com/album/1DpIvLgqOYqLcVrewneImP) | 2:46 | 2021-10-16 | 2021-11-19 |
 | [MAZE](https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [MAZE : AD ASTRA](https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U) | 4:09 | 2025-10-08 |  |
 | [McNasty](https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [McNasty](https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV) | 3:12 | 2024-07-05 | 2024-09-06 |
+| [ME](https://open.spotify.com/track/7gfo1QCdgYS3dJGfjrN39Z) | [KANG SEUNG YOON](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE 2](https://open.spotify.com/album/1zQRrxf71E8Fi5CnfYEWrp) | 3:42 | 2025-11-03 |  |
 | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/track/08Oq0ODihIEHHU9Y0JRi0W) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW), [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP), [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/album/4PrWleaxfuvZ3plIJJxm8J) | 3:24 | 2020-10-13\* | 2020-11-05 |
 | [Me, Myself & I](https://open.spotify.com/track/1xvZEUFAyzQcphDpMrjDs9) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Me, Myself & I](https://open.spotify.com/album/1OsWJNxJABp62RsCo4Mcmb) | 3:04 | 2025-09-30 | 2025-10-15 |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-18 | 2023-02-07 |
@@ -1113,6 +1114,7 @@
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-18 | 2022-07-09 |
 | [Savior](https://open.spotify.com/track/4AfQOvbsAltnzGVziGmRqn) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Savior](https://open.spotify.com/album/4ZFRAcSLdsAGSgyrHB31KH) | 3:10 | 2022-01-03 | 2022-02-18 |
 | [SAY MY NAME](https://open.spotify.com/track/2bqJlYb6t4lXKGB4Xd4TjK) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SAY MY NAME](https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt) | 3:25 | 2020-10-13\* | 2021-01-18 |
+| [Say My Name](https://open.spotify.com/track/675IZk8daYLNCcBZHgGcss) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY, Lover](https://open.spotify.com/album/6kJ5z2JLigSboCsfqjyz5h) | 2:39 | 2025-11-03 |  |
 | [Scared](https://open.spotify.com/track/4qQ3e0YD83kblcnb8R0sIw) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : BREAK OUT](https://open.spotify.com/album/2QBdsbcBsTHVLlbAXBxaey) | 3:08 | 2021-04-22 | 2021-06-25 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-13 | 2022-01-20 |
 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 | 2022-07-15 | 2022-09-09 |

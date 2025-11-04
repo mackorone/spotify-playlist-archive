@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,309 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,301 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 65 | [Marra de Feroz](https://open.spotify.com/track/5rlt8sbM3GUGYegd66j96E) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione](https://open.spotify.com/album/6QCBlpGOO4UD9SgmCciYMK) | 3:21 |
 | 66 | [Bolinha Azul](https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA) | [Antonio Caramelo](https://open.spotify.com/artist/2iCmceKgCskEfeiw0lWhfF), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Malibu Kids](https://open.spotify.com/artist/2VQHINk1AordxUvaQplYM7) | [Aventuras de Caramelo](https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q) | 2:34 |
 | 67 | [LEGO](https://open.spotify.com/track/7q2LnH7uqOYJQk4m4LBSAV) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct) | [FUGACIDADE](https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3) | 2:42 |
-| 68 | [Transeunte](https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt) | [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [JAZZWOMAN](https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG) | 4:12 |
-| 69 | [Matagal](https://open.spotify.com/track/4dw8ZkzEQa5PY7gLL3D0C9) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Colinho](https://open.spotify.com/album/2DphG5HgqpHRRsx1Ec1Wgy) | 4:08 |
+| 68 | [Matagal](https://open.spotify.com/track/4dw8ZkzEQa5PY7gLL3D0C9) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Colinho](https://open.spotify.com/album/2DphG5HgqpHRRsx1Ec1Wgy) | 4:08 |
+| 69 | [Transeunte](https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt) | [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [JAZZWOMAN](https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG) | 4:12 |
 | 70 | [Profecia](https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV) | [Ida e Volta](https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7) | 3:13 |
 | 71 | [Queixa das almas jovens censuradas \- Ao Vivo](https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo) | [Camané](https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK) | [Camané Ao Vivo No CCB \- Homenagem a José Mário Branco](https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074) | 5:14 |
 | 72 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |

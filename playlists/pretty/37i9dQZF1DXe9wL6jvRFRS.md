@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Maruja on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,288 likes - 63 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,323 likes - 63 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

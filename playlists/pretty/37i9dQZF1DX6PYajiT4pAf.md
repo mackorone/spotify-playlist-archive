@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Amaia,  ROSALÍA x Björk x Yves Tumor, Dani Martín, María Becerra y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,396 likes - 58 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,365 likes - 58 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 10 | [Gracias](https://open.spotify.com/track/6UJLUjYqvOG2t4JFjLOCNQ) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Gracias](https://open.spotify.com/album/5XwtJRDZs8QM4INrkJ4IbX) | 2:28 |
 | 11 | [YSL](https://open.spotify.com/track/2f9KKPKgASUYZqo1JBJuFO) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [yyy891](https://open.spotify.com/artist/5eBluOvPk819K9BZB1XV9v), [JOHNNYFUU](https://open.spotify.com/artist/4qvOXukEJTWZG6jjlUQFEu) | [YSL](https://open.spotify.com/album/23qlqZnWlSa7LF1wp1naCx) | 3:40 |
 | 12 | [supersexi](https://open.spotify.com/track/5MPHZfPu9hsXDPEqGjUgec) | [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [supersexi](https://open.spotify.com/album/7Cgt2NuDUMwCWcSuKONwHI) | 3:06 |
-| 13 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:56 |
+| 13 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:57 |
 | 14 | [¿Quién Mejor Que Tú?](https://open.spotify.com/track/3PqewgIHXDp4h3o1OXY0a9) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [¿Quién Mejor Que Tú?](https://open.spotify.com/album/5JtQFdhzWqoUzEsw9DvIad) | 2:49 |
 | 15 | [Prohibido Irse Sin Hacer Ruido](https://open.spotify.com/track/1pneb1BIyKz2cpzZQToEcB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Prohibido Irse Sin Hacer Ruido](https://open.spotify.com/album/3sI9CmmiAnN1TyHjyC7RPn) | 3:27 |
 | 16 | [Perdónenme](https://open.spotify.com/track/1C93XmW0PPgdNWqhVY1ufS) | [Albert Pla](https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK), [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Perdónenme](https://open.spotify.com/album/0bvY0FaDvIbyh8TqssMdyp) | 3:49 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 23 | [2.0 \#1](https://open.spotify.com/track/2ioZaT8EIa3dNE8tgiEdgg) | [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [2.0 \#1](https://open.spotify.com/album/43ArDm8xW1WBWRQNlODshD) | 2:43 |
 | 24 | [Háblales](https://open.spotify.com/track/4qK3E82gdvpwXqK58dX80A) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Háblales](https://open.spotify.com/album/7hYIeg3UySBwxdfZbzh8go) | 3:39 |
 | 25 | [AK](https://open.spotify.com/track/5e9rDWLUDpEdBFvDP174Cv) | [El Daddy](https://open.spotify.com/artist/0ZiG3Fe4yVcYjUCZHmAzVQ), [Makiki](https://open.spotify.com/artist/6uF1ABl9hCBgL0d2e0cR14) | [AK](https://open.spotify.com/album/3679BBZ252uvGsbdms2VSW) | 2:30 |
-| 26 | [Paraules D'Amor](https://open.spotify.com/track/2uW0L7iEX9DZReb6iucOnD) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34), [Maria Pascual](https://open.spotify.com/artist/3AIvKx542oZzRrAWimbm3H) | [Paraules D'Amor](https://open.spotify.com/album/4G1MiF9hMkizqjvtvBvzvR) | 3:21 |
+| 26 | [Paraules D'Amor](https://open.spotify.com/track/2uW0L7iEX9DZReb6iucOnD) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34), [Maria Pascual](https://open.spotify.com/artist/3AIvKx542oZzRrAWimbm3H) | [Paraules D'Amor](https://open.spotify.com/album/4G1MiF9hMkizqjvtvBvzvR) | 3:23 |
 | 27 | [Acurrucarme contigo \(feat\. St Woods\)](https://open.spotify.com/track/2BCpIJQIoaSTnlU3Uuturv) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl), [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Acurrucarme contigo \(feat\. St Woods\)](https://open.spotify.com/album/3RIoAb8RXWMJdI6KgrrYJq) | 2:59 |
 | 28 | [X](https://open.spotify.com/track/6nGkmEKtGLp02f1ks9ofYS) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [X](https://open.spotify.com/album/3OZ6H6EHs8SZMxrD0P43Cw) | 3:31 |
 | 29 | [Noviembre](https://open.spotify.com/track/4nwRJ9TtOS0M5OrwJNcNGY) | [Carmen Ferre](https://open.spotify.com/artist/0YQ5lCNqrjymrsqmSn62YV) | [Noviembre](https://open.spotify.com/album/0zXdAdp8iGPN25v0Cxsawq) | 2:53 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 57 | [Como en Septiembre](https://open.spotify.com/track/1eZqzGRFJptysBIIDSoqEE) | [Atk Epop](https://open.spotify.com/artist/5EnaIjHfUCUkpOcFbzQwx6), [Valeria C](https://open.spotify.com/artist/79vkOWAbJeqcnV0F31pWOs), [Álvaro Sanz](https://open.spotify.com/artist/1jz4ziCxrEvVDkEmMIHeeP) | [Como en Septiembre](https://open.spotify.com/album/0qgteK3hGgQR4OaaBYkfBG) | 3:28 |
 | 58 | [La torre](https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9) | [La torre](https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm) | 1:42 |
 
-Snapshot ID: `AAAAAFS59Vc0P4U7k58Z3xJIgxmeEBYN`
+Snapshot ID: `AAAAAJXVoBKdYjnzw9zNL2B/AAcJWosJ`

@@ -300,7 +300,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 159789,
       "name": "\u0410 \u0445\u0442\u043e \u0445\u0435\u0439\u0442\u0438\u0442\u044c - OST \u00ab10 \u0411\u043b\u043e\u0433\u0435\u0440\u044f\u0442\u00bb",
       "url": "https://open.spotify.com/track/4WJWo3nKXdTrk3FXhKsh4k"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 73750,
       "name": "\u041d\u0430 \u0432\u0456\u0434\u0442\u044f\u0436\u0446\u0456",
       "url": "https://open.spotify.com/track/4M8tehkzebTY5l4dZ3CZv8"
@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "\u041b\u044e\u0431\u043b\u044e \u0442\u0435\u0431\u0435 \u043a\u043e\u043b\u0438",
+        "url": "https://open.spotify.com/album/2YBfDbR87Nw2h7EWorBQzK"
+      },
+      "artists": [
+        {
+          "name": "BURLA",
+          "url": "https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187252,
+      "name": "\u0422\u0430\u0440\u043e",
+      "url": "https://open.spotify.com/track/6K2MyjNAePQdt6bLG65tIr"
+    },
+    {
+      "album": {
         "name": "\u0422\u0430\u0442\u043e",
         "url": "https://open.spotify.com/album/6dLaBMi2ODeyBCdPGUjRvr"
       },
@@ -2444,6 +2462,24 @@
       "duration_ms": 197999,
       "name": "\u0427\u0435\u0441\u0442\u0435\u0440",
       "url": "https://open.spotify.com/track/4sUa5WnOxAeNItdV3vhoX3"
+    },
+    {
+      "album": {
+        "name": "\u0427\u043e\u0440\u043d\u0438\u0439 \u043b\u0435\u0431\u0456\u0434\u044c",
+        "url": "https://open.spotify.com/album/22TFpPzv3iBvZcUdG5Ck8X"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u043e\u043d\u044f",
+          "url": "https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126922,
+      "name": "\u0427\u043e\u0440\u043d\u0438\u0439 \u043b\u0435\u0431\u0456\u0434\u044c",
+      "url": "https://open.spotify.com/track/39WvUiZRy6wSXPUJHVgnDF"
     },
     {
       "album": {

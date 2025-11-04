@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-437 songs - 22 hr 33 min
+438 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Up N Down](https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Up N Down](https://open.spotify.com/album/66lG6q9LY1TV9pjbmlcllX) | 2:47 | 2025-10-27 |  |
 | [Up n Down \- Radio Edit](https://open.spotify.com/track/5kDn4keGCyxkEzXvJLPuLQ) | [KAHU](https://open.spotify.com/artist/5dfHN9Lwbee8Zq4ePINedN) | [Up n Down](https://open.spotify.com/album/7vIFLDdxaAkSkQOWDBT0P4) | 4:09 | 2023-04-26 | 2024-03-14 |
 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2024-11-25 | 2025-10-15 |
+| [Ur Mine](https://open.spotify.com/track/4Hbf5VN2uxsZOO9BUuCPlk) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Ur Mine](https://open.spotify.com/album/7dAvA6dUPuTvmyxlpFVeGz) | 2:16 | 2025-11-03 |  |
 | [ur so cute \(feat\. SEBii\)](https://open.spotify.com/track/00lqKT7IuN6RrDrlyO8imU) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Arkade](https://open.spotify.com/artist/1nxV2NMKSn8X42vJ9OyTn8), [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [ur so cute \(feat\. SEBii\)](https://open.spotify.com/album/3eqmleRJF2beinWCLD7x5U) | 2:26 | 2024-04-26 | 2024-05-01 |
 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 | 2025-10-27 |  |
 | [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 | 2023-07-21 | 2025-10-15 |

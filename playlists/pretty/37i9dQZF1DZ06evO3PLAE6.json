@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11692,
+  "num_followers": 11694,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAAA5ZymGOxbECGPj32kMYfsj",
+  "snapshot_id": "aQafAAAAAACGQYLcI2toY8F112G7gPAz",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "Monkey On A Wire",
+      "url": "https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb"
       },
@@ -223,6 +243,26 @@
       "duration_ms": 224386,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
     },
     {
       "added_at": null,
@@ -248,37 +288,17 @@
       },
       "artists": [
         {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
           "name": "Shane Nicholson",
           "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "Monkey On A Wire",
-      "url": "https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         },
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Matilda No More",
-      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+      "duration_ms": 157880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd"
     },
     {
       "added_at": null,
@@ -311,26 +331,6 @@
       "duration_ms": 171893,
       "name": "On A Bad Day",
       "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd"
     },
     {
       "added_at": null,

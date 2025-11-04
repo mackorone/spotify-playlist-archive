@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Ninajirachi.
 
-697 songs - 1 day 19 hr 41 min
+699 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Come To My House](https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Come To My House](https://open.spotify.com/album/683Ze2XpLW2ohwPWpSKzq4) | 3:20 | 2024-07-24 | 2025-01-18 |
 | [Coming Back](https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coming Back](https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ) | 2:38 | 2024-05-03 | 2024-07-13 |
 | [Connection](https://open.spotify.com/track/3ND04Few0cZd4LmGzxNXGt) | [Lizzy Jane](https://open.spotify.com/artist/1LpxuJ9gD3eHAPjGGvr9Zy) | [Ignite](https://open.spotify.com/album/2VjgJx2JjkdRlJBTtem6in) | 4:05 | 2024-05-03 | 2024-08-03 |
-| [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 | 2025-04-25 |  |
+| [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 | 2025-04-25 | 2025-11-04 |
 | [Control](https://open.spotify.com/track/4p3CqOVsYZVupN00Q9Dv1q) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Control](https://open.spotify.com/album/3jnpd2ZYm4g1uSiOsJPSVZ) | 6:57 | 2025-03-21 | 2025-05-10 |
 | [Control](https://open.spotify.com/track/53aYQUlqd18aIZRKiI673A) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [Control](https://open.spotify.com/album/1uFRgQcbquXq6HuKET5PvT) | 3:10 | 2024-03-29 | 2024-05-18 |
 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 | 2025-08-01 |  |
@@ -400,6 +400,7 @@
 | [LSD](https://open.spotify.com/track/3SAhh2tNNY30Pooge2BHNT) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [LSD](https://open.spotify.com/album/6HdKlMf1ruC1csb7dwS70o) | 2:48 | 2025-03-28 | 2025-07-19 |
 | [Luigi](https://open.spotify.com/track/69YvkNAeruX4u8ZjgjA6B4) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Luigi](https://open.spotify.com/album/2xChiS8O1UfNzBQbutOhlX) | 3:39 | 2025-05-02 | 2025-05-24 |
 | [Luna](https://open.spotify.com/track/2IA6VXnHBPEGFwSLQ3nDHo) | [Cristina Lazic](https://open.spotify.com/artist/6ArqtJTtHih9GEgA7XvDyg) | [Luna EP](https://open.spotify.com/album/0DET8MfvJCKUs6l1ICACFG) | 4:19 | 2024-03-01 | 2024-05-03 |
+| [M Melody](https://open.spotify.com/track/1F4C29vUCHb8LXoGmPaPCI) | [CLAIR](https://open.spotify.com/artist/67qQEiZFywUpdyB38Ukmt9) | [M Melody](https://open.spotify.com/album/7gRhn1g4HZdYLo439PbkRg) | 4:28 | 2025-11-03 |  |
 | [Magic \(Is In Tempo\)](https://open.spotify.com/track/497vuCGyrDAOhgfbkclw9i) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Magic \(Is In The Tempo\)](https://open.spotify.com/album/63B6pz458I1M1hVUyC3QVY) | 6:09 | 2024-03-01 | 2024-04-19 |
 | [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 | 2024-03-01 | 2024-04-19 |
 | [Make Time](https://open.spotify.com/track/55WKq24vogr2aeB0f41K1S) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Make Time](https://open.spotify.com/album/1S0RtAabyNrG88zre9tDWa) | 8:35 | 2021-03-01 | 2023-03-08 |
@@ -464,7 +465,7 @@
 | [Ocean](https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Darkroom](https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME) | 3:34 | 2024-05-17 | 2024-08-03 |
 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 | 2024-08-09 | 2024-11-16 |
 | [On and On \(You Lie\)](https://open.spotify.com/track/0IW5kFYSyUhsKy0Y7Q8Ygn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [On and On \(You Lie\)](https://open.spotify.com/album/1WH8dMwBKHgamutE49x73O) | 6:00 | 2025-05-16 | 2025-08-30 |
-| [On It Goes](https://open.spotify.com/track/4EJAOpNaoJGXLLnJFiCKaq) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ) | [On It Goes](https://open.spotify.com/album/5tPNu0O4UU3ad3AOpNm0AM) | 5:41 | 2025-05-02 |  |
+| [On It Goes](https://open.spotify.com/track/4EJAOpNaoJGXLLnJFiCKaq) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Storm Queen](https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ) | [On It Goes](https://open.spotify.com/album/5tPNu0O4UU3ad3AOpNm0AM) | 5:41 | 2025-05-02 | 2025-11-04 |
 | [On The List](https://open.spotify.com/track/6S4JRqrrBl0yMGHjN3DFc6) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [On The List](https://open.spotify.com/album/6yvwMxx3HNzEua962yBxpU) | 3:00 | 2024-03-01 | 2024-05-03 |
 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 | 2025-02-07 | 2025-06-14 |
 | [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-04 | 2025-03-22 |
@@ -637,6 +638,7 @@
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-04 |  |
 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/2pu66iltKEpEmVx1aK8wRh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:04 | 2022-03-08 | 2024-03-02 |
 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/5uSqU4wuVUEKPeb0pntudC) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/0XdX6LbFAZU9UaactwqWfA) | 5:04 | 2021-03-01 | 2022-07-29 |
+| [Treehouse](https://open.spotify.com/track/7EmmwWVjnTAeMWLE4MceRP) | [Slaycey](https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq) | [Treehouse](https://open.spotify.com/album/4PVL0HPWwzH99OSXyJmf5L) | 4:04 | 2025-11-03 |  |
 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 | 2024-10-25 | 2025-02-08 |
 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 | 2025-01-24 | 2025-04-26 |
 | [TTW](https://open.spotify.com/track/45JP9Wb2eDGOleQ1DXQdqO) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TTW](https://open.spotify.com/album/1f3SUYOBYwGMM5OKtbYpNd) | 3:55 | 2025-07-11 |  |

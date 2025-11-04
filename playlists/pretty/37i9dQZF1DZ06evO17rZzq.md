@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,842 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,845 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 22 | [SHAKE \- feat\. Kaliii and Stunna Girl](https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [SHAKE \(feat\. Kaliii and Stunna Girl\)](https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv) | 3:11 |
 | 23 | [Ms\. Lick Back](https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:08 |
 | 24 | [do it 4 th€ gram \- r€mix](https://open.spotify.com/track/7MVmS6K6kxRrhJQJ35nfjV) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [blu€s \(d€lux€\)](https://open.spotify.com/album/4cdd2jx9GScUzDETwJ6GEk) | 2:28 |
-| 25 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 |
-| 26 | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:18 |
+| 25 | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:18 |
+| 26 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 |
 | 27 | [Kickin In \(feat\. Kaliii\)](https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:56 |
 | 28 | [Standards](https://open.spotify.com/track/3aYpUar301x64WbolSxdwS) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:55 |
 | 29 | [Netreba](https://open.spotify.com/track/0xIobPrJrJ9GyoCGZqs0uC) | [Bitman](https://open.spotify.com/artist/0ljiBZ6hoKujOLCzMxm8ih), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Dominika Mirgova](https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt) | [Had](https://open.spotify.com/album/6Jgitf1VZ72NiolDFPlvX7) | 3:23 |
-| 30 | [Ain't FWM \(feat\. Ken the Man\)](https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Ken The Man](https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 3:33 |
-| 31 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 |
-| 32 | [Hot Girl Maybach](https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Hot Girl Maybach](https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC) | 2:20 |
+| 30 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 |
+| 31 | [Hot Girl Maybach](https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Hot Girl Maybach](https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC) | 2:20 |
+| 32 | [Ain't FWM \(feat\. Ken the Man\)](https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Ken The Man](https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 3:33 |
 | 33 | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kaliii\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 |
 | 34 | [Toxic Chocolate](https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:28 |
 | 35 | [This](https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [I'm Just A Girl](https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 49 | [Chainzzz \(feat\. Muni Long\)](https://open.spotify.com/track/5SYwk9PsKrlhvKoQc63izx) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Toxic Chocolate](https://open.spotify.com/album/0pMuKNqI4VOoLESF5wExWY) | 2:33 |
 | 50 | [Not Yours \(Remix\)](https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn) | [Vae Vanilla](https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Not Yours \(Remix\)](https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0) | 2:10 |
 
-Snapshot ID: `aQVNgAAAAADUMiHWeRNQ60JnZcoRfN5W`
+Snapshot ID: `aQafAAAAAACk/BGTHQ/PCMBqlL+CEyLp`

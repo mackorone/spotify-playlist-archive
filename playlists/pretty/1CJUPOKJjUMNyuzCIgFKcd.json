@@ -1,13 +1,93 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22723,
+  "num_followers": 22718,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAnDtyEoQnRavLv68mmlfDNQzYXmPfv",
+  "snapshot_id": "AAAnFnz7FGyJtFgjHgH6Wl/U7/ggBDtd",
   "tracks": [
+    {
+      "added_at": "2025-11-03 19:25:54",
+      "album": {
+        "name": "Batmobile",
+        "url": "https://open.spotify.com/album/1tfyWRHlyZvxKusqDw3PlY"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "duration_ms": 111308,
+      "name": "Batmobile",
+      "url": "https://open.spotify.com/track/1Q8HYgEgqYoj0cnIzVlHAT"
+    },
+    {
+      "added_at": "2025-11-03 19:24:25",
+      "album": {
+        "name": "Fenty",
+        "url": "https://open.spotify.com/album/3V6CMRaUuIglqh0OzGqkwf"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        }
+      ],
+      "duration_ms": 123107,
+      "name": "Fenty",
+      "url": "https://open.spotify.com/track/4OHBKKxfdfTAGT9SlwFghh"
+    },
+    {
+      "added_at": "2025-11-03 19:24:38",
+      "album": {
+        "name": "Pop Out",
+        "url": "https://open.spotify.com/album/6fInPNMXK5DCJxhieDwSB1"
+      },
+      "artists": [
+        {
+          "name": "Gavin Magnus",
+          "url": "https://open.spotify.com/artist/2R111dG82I23SltNvwEdeQ"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Pop Out",
+      "url": "https://open.spotify.com/track/7lbNXHSnWkzesNP33DCaCT"
+    },
+    {
+      "added_at": "2025-11-03 19:25:42",
+      "album": {
+        "name": "Slide Thru",
+        "url": "https://open.spotify.com/album/6XqvfYaNZ1XTEQQgkOXnxj"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 190263,
+      "name": "Slide Thru",
+      "url": "https://open.spotify.com/track/7Izif41Is16gTL8hpWdf4V"
+    },
+    {
+      "added_at": "2025-11-03 19:26:10",
+      "album": {
+        "name": "Terrify",
+        "url": "https://open.spotify.com/album/4MAbDjvCFvLu7xLTgL9Op2"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Terrify",
+      "url": "https://open.spotify.com/track/5Nn9Vjg5ZgEUCvnbKw7bEf"
+    },
     {
       "added_at": "2025-10-27 21:39:28",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The Belair Lip Bombs, ROSALÍA, Tyler, The Creator,  Florence + The Machine, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,322 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,293 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 58 | [Unlucky In Love](https://open.spotify.com/track/112ENQResiqkaMTLspSGeB) | [Ripley Alexander](https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K) | [Unlucky In Love](https://open.spotify.com/album/3hPRptVr7kaCLpBbTxS6tY) | 2:45 |
 | 59 | [Eyes Closed](https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Eyes Closed](https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ) | 2:57 |
 | 60 | [Wallah Wallah](https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Wallah Wallah](https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p) | 2:22 |
-| 61 | [Rockabilly](https://open.spotify.com/track/0V44ROZ8WX10WyX8YOL6Cr) | [Georgia Knight](https://open.spotify.com/artist/1l9cB5ft1JeezqPyDJ8JKY) | [Beanpole](https://open.spotify.com/album/4vQI75QLSuTS94jgtyKOYK) | 2:49 |
+| 61 | [Rockerbilly](https://open.spotify.com/track/0V44ROZ8WX10WyX8YOL6Cr) | [Georgia Knight](https://open.spotify.com/artist/1l9cB5ft1JeezqPyDJ8JKY) | [Beanpole](https://open.spotify.com/album/4vQI75QLSuTS94jgtyKOYK) | 2:49 |
 | 62 | [ghosted](https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted](https://open.spotify.com/album/6NNQuKvbvvTzPYsZRwn1Ma) | 2:27 |
 | 63 | [Spaghetti Kisses](https://open.spotify.com/track/1aRsRVW8mcircpIKW4zP2a) | [Bec Sandridge](https://open.spotify.com/artist/693lRFCUH8BNpURQO9RMpt) | [Happy Futures](https://open.spotify.com/album/1SuCAtZdTg0M4tm4yK5JrB) | 2:58 |
 | 64 | [Small Town Rockstar](https://open.spotify.com/track/3s9Lpdkd3LTWhJaOCSZuC4) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Small Town Rockstar](https://open.spotify.com/album/30P9jA994KCtu5iaWqq6dA) | 3:17 |

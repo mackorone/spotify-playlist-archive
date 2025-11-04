@@ -4,7 +4,7 @@
 
 > 
 
-2,657 songs - 5 day 18 hr 29 min
+2,659 songs - 5 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Cruel Place \- Mixed Cut](https://open.spotify.com/track/2D9qppYBsVoCLKZLZiFDot) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Emotional Hardcore 1](https://open.spotify.com/album/0iFQ5KdFY9mE561KsaEfx4) | 3:10 | 2024-10-27 |  |
 | [Crunch \- Instrumental Version](https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Crunch \(Instrumental Version\)](https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg) | 1:38 | 2024-05-29 |  |
 | [Crush](https://open.spotify.com/track/4BuT5v6lb1LYYtzHntnhfx) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Crush](https://open.spotify.com/album/4i0OpEAjeFGlaySj85Lh6g) | 2:13 | 2025-04-26 |  |
+| [Cry](https://open.spotify.com/track/1rIeVyssOYPJUzj8aTk4DX) | [ELPOLLO](https://open.spotify.com/artist/7EkkoSfEQVwStyW30cuVmi), [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [Cry](https://open.spotify.com/album/2lG2wgfrt0igaTt8nliJdI) | 2:34 | 2025-11-03 |  |
 | [Cry Me A River](https://open.spotify.com/track/5qFM4UxTzNtzl402nUOQh4) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Luca Houben](https://open.spotify.com/artist/0GhhvAyZxUo9RL5BxRPeve) | [Cry Me A River](https://open.spotify.com/album/5l5jAbyGdH1cnlFU1nEC3u) | 3:27 | 2024-11-19 |  |
 | [Crying](https://open.spotify.com/track/5yGWXj4E3V0Fik6zEkLkvs) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Crying](https://open.spotify.com/album/29mF3Lfm9DWqif80BYbWGF) | 4:37 | 2022-08-22 |  |
 | [Cthugha](https://open.spotify.com/track/5MNLgtuEF9mMaYvyzgW943) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Cthugha](https://open.spotify.com/album/0LIYml6yhXCgbkIVt6e7xk) | 2:35 | 2022-08-11 |  |
@@ -1130,6 +1131,7 @@
 | [HORZ \- EQUAL2 Remix](https://open.spotify.com/track/6XxzAr41jdGNGSM6u0Gqj7) | [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [HORZ \(EQUAL2 Remix\)](https://open.spotify.com/album/0DMUP1OFg4y5Znu36rp307) | 3:07 | 2023-08-14 |  |
 | [Hot](https://open.spotify.com/track/4Rw6U9OuXIjcCUya3ybPBy) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [Hot](https://open.spotify.com/album/02Nqu8iIMZ8QZsrM764L72) | 2:27 | 2024-06-04 |  |
 | [Hot In This](https://open.spotify.com/track/03MlbQtvE4QD9gdjFAhZqg) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hot In This](https://open.spotify.com/album/4824pzDFUulf6WpYaRw3la) | 2:40 | 2025-08-26 |  |
+| [Hot Stuff](https://open.spotify.com/track/0UXr3X7QC3DS9JMx134Vbd) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Insolent](https://open.spotify.com/album/73Vd8fLRAWwhO9z3URYGY9) | 3:07 | 2025-11-03 |  |
 | [Hot Wax On The Floor](https://open.spotify.com/track/6LHCCtVz01lrggmR3FuZ8X) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Hot Wax On The Floor](https://open.spotify.com/album/0WBZ95dM6ce5Ik7orirt85) | 2:57 | 2025-05-26 |  |
 | [Hotstepper](https://open.spotify.com/track/6viod75wQ0vHMs27F1jkhJ) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Fire](https://open.spotify.com/album/74dOGOFKu7sptwTqe7xJQy) | 2:24 | 2022-12-21 |  |
 | [House Music](https://open.spotify.com/track/4xTDVBCAmyGaZ30FnrRjjv) | [The Wither](https://open.spotify.com/artist/1asmhMpAyPyIZRmRuuOujU), [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [House Music](https://open.spotify.com/album/7zmFt18QWcNaHohIO7PTco) | 3:47 | 2023-06-30 |  |

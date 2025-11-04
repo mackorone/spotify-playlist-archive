@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140286,
+  "num_followers": 140282,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Samen (Niet Alleen)",
-        "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
-      },
-      "artists": [
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        },
-        {
-          "name": "DJ DYLVN",
-          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
-        }
-      ],
-      "duration_ms": 145296,
-      "name": "Samen (Niet Alleen)",
-      "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 176134,
       "name": "Cough (Odo)",
       "url": "https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Samen (Niet Alleen)",
+        "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        }
+      ],
+      "duration_ms": 145296,
+      "name": "Samen (Niet Alleen)",
+      "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Ba Ba Bad",
-        "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 144489,
-      "name": "Ba Ba Bad",
-      "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Tyar\u2019 En Waka",
         "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
       },
@@ -1223,26 +1199,6 @@
       "duration_ms": 161252,
       "name": "Tyar\u2019 En Waka",
       "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
-        "name": "Strandje Aan De Maas",
-        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
-        }
-      ],
-      "duration_ms": 206527,
-      "name": "Stunten",
-      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1275,6 +1231,50 @@
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Strandje Aan De Maas",
+        "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        }
+      ],
+      "duration_ms": 206527,
+      "name": "Stunten",
+      "url": "https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Ba Ba Bad",
+        "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 144489,
+      "name": "Ba Ba Bad",
+      "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "180",
-        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        },
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "180",
-      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
-    },
-    {
-      "added_at": "2025-10-15 22:00:08",
-      "album": {
         "name": "Klop Klop",
         "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
       },
@@ -1551,18 +1531,22 @@
     {
       "added_at": "2025-10-15 22:00:08",
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+        "name": "180",
+        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
       },
       "artists": [
         {
-          "name": "Yssine",
-          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         }
       ],
-      "duration_ms": 161901,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+      "duration_ms": 211304,
+      "name": "180",
+      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
     },
     {
       "added_at": "2025-10-15 22:00:08",
@@ -1587,6 +1571,22 @@
       "duration_ms": 151874,
       "name": "Bon Mij",
       "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
+    },
+    {
+      "added_at": "2025-10-15 22:00:08",
+      "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+      },
+      "artists": [
+        {
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
       "added_at": "2025-10-15 22:00:08",

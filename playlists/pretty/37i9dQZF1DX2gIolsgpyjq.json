@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: Scout",
-  "num_followers": 28270,
+  "num_followers": 28285,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOeDzeGhy/L0TaONhIqxghLQkZvo",
+  "snapshot_id": "AAAAAF3HfhXG+xM3sbwin4V+86sHexlL",
   "tracks": [
     {
       "added_at": "2025-10-30 22:59:13",
@@ -171,6 +171,26 @@
       "duration_ms": 222584,
       "name": "memories.",
       "url": "https://open.spotify.com/track/6FRKnDyHuZFXNtXODvqLpE"
+    },
+    {
+      "added_at": "2025-11-03 12:01:03",
+      "album": {
+        "name": "Gazette",
+        "url": "https://open.spotify.com/album/2xFrT3KiZm9iW14EY3Gs7n"
+      },
+      "artists": [
+        {
+          "name": "Agnes Skure",
+          "url": "https://open.spotify.com/artist/3mSaNio38zjJkLyozP2hc0"
+        },
+        {
+          "name": "demekech",
+          "url": "https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "Elin",
+      "url": "https://open.spotify.com/track/0zhXmPOonnfX7P1gNosPiM"
     },
     {
       "added_at": "2025-10-30 22:59:13",

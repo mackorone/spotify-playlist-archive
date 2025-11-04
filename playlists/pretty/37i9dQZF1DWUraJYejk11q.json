@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 467179,
+  "num_followers": 467166,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -97,22 +97,6 @@
       "url": "https://open.spotify.com/track/7aK2Wf6NLIvAzFyvDPYCpF"
     },
     {
-      "added_at": "2024-05-30 23:30:24",
-      "album": {
-        "name": "3FOR82",
-        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "H0N3Y",
-      "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
-    },
-    {
       "added_at": "2024-01-04 19:26:35",
       "album": {
         "name": "DATA (Instrumental)",
@@ -127,6 +111,22 @@
       "duration_ms": 180103,
       "name": "VOLVER (instrumental)",
       "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
+    },
+    {
+      "added_at": "2024-05-30 23:30:24",
+      "album": {
+        "name": "3FOR82",
+        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 185060,
+      "name": "H0N3Y",
+      "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
     },
     {
       "added_at": "2022-04-22 18:53:10",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
-      "added_at": "2024-07-05 04:07:56",
-      "album": {
-        "name": "Data Passenger EP",
-        "url": "https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 307278,
-      "name": "Data Passenger",
-      "url": "https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv"
-    },
-    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -451,6 +435,22 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2024-07-05 04:07:56",
+      "album": {
+        "name": "Data Passenger EP",
+        "url": "https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 307278,
+      "name": "Data Passenger",
+      "url": "https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv"
     },
     {
       "added_at": "2023-11-15 16:34:12",
@@ -533,20 +533,20 @@
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
-      "added_at": "2022-12-07 01:09:17",
+      "added_at": "2022-04-29 18:24:26",
       "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
       "artists": [
         {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
         }
       ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2024-08-14 17:52:43",
@@ -581,20 +581,20 @@
       "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
-      "added_at": "2022-04-29 18:24:26",
+      "added_at": "2022-12-07 01:09:17",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
       },
       "artists": [
         {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
         }
       ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
-      "added_at": "2023-04-12 01:28:07",
-      "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
-      },
-      "artists": [
-        {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "realcopy",
-      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
-    },
-    {
       "added_at": "2024-01-05 03:32:15",
       "album": {
         "name": "Promises",
@@ -711,6 +695,22 @@
       "duration_ms": 226118,
       "name": "Promises",
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
+    },
+    {
+      "added_at": "2023-04-12 01:28:07",
+      "album": {
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+      },
+      "artists": [
+        {
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "realcopy",
+      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     },
     {
       "added_at": "2022-03-11 06:33:02",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
+      "added_at": "2023-11-08 01:35:05",
+      "album": {
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub"
+      },
+      "artists": [
+        {
+          "name": "Max Graef",
+          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Zan",
+      "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
+    },
+    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -815,22 +831,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2023-11-08 01:35:05",
-      "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub"
-      },
-      "artists": [
-        {
-          "name": "Max Graef",
-          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Zan",
-      "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
     },
     {
       "added_at": "2023-07-18 19:12:42",
@@ -865,20 +865,20 @@
       "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
     },
     {
-      "added_at": "2023-05-24 02:20:35",
+      "added_at": "2022-03-30 04:42:42",
       "album": {
-        "name": "More Truth",
-        "url": "https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4"
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
         }
       ],
-      "duration_ms": 200044,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx"
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     }
   ],
   "unique_name": "Genre Glitch",

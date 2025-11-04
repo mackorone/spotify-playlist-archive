@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 84455,
+  "num_followers": 84478,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Banger Hart",
+        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
+      },
+      "artists": [
+        {
+          "name": "Thymo",
+          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
+        },
+        {
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
+        }
+      ],
+      "duration_ms": 166487,
+      "name": "Banger Hart",
+      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Outsiders Remix EP",
         "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 226245,
       "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
       "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Banger Hart",
-        "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
-      },
-      "artists": [
-        {
-          "name": "Thymo",
-          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
-        },
-        {
-          "name": "ANGUZ",
-          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
-        }
-      ],
-      "duration_ms": 166487,
-      "name": "Banger Hart",
-      "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
     },
     {
       "added_at": "2025-10-21 11:57:23",

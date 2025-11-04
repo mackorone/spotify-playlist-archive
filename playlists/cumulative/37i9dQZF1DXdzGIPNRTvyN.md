@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-366 songs - 17 hr 19 min
+367 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Forest Bathing](https://open.spotify.com/track/7BoUZW0mqbznnmdkuekAIS) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Forest Bathing](https://open.spotify.com/album/3FXUXH9AxDpvYxfqvbc67q) | 3:03 | 2025-07-01 |  |
 | [Forest Breath](https://open.spotify.com/track/4JHSk6ehy7ztovsUjZAxV9) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [Forest Breath](https://open.spotify.com/album/4SCtfrNF8SSagNIYk3b5B7) | 2:41 | 2025-03-14 | 2025-04-02 |
 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-04-01 |  |
-| [Forest Channel](https://open.spotify.com/track/21kHvsjYwW7vE8yRJGCHGr) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Forest Channel](https://open.spotify.com/album/43XL6Q7IOeJkvX2gC1fwQx) | 2:37 | 2025-07-01 |  |
+| [Forest Channel](https://open.spotify.com/track/21kHvsjYwW7vE8yRJGCHGr) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Forest Channel](https://open.spotify.com/album/43XL6Q7IOeJkvX2gC1fwQx) | 2:37 | 2025-07-01 | 2025-11-04 |
 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-07-28 |  |
 | [Forest Harp Dreams 528 Hz](https://open.spotify.com/track/7bRCmNh2cPzxhPskiniGSA) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Forest Harp Dreams 528 Hz](https://open.spotify.com/album/0QTRE8RUaMUKnKDL9v3d79) | 2:40 | 2023-12-18 | 2024-12-05 |
 | [Forest of Calm](https://open.spotify.com/track/2YydBkXJxHR9M7H66VaIcX) | [Elvin Malm](https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1) | [Forest of Calm](https://open.spotify.com/album/5zDnbDbgHwirFy6Ax5Cw3h) | 3:45 | 2025-02-10 |  |
@@ -258,6 +258,7 @@
 | [Peaceful Rains](https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI) | [Piano Radiance](https://open.spotify.com/artist/69P4GKHbbgUhcNWn7Qaj1u) | [Music for Spa and Massage:Restful Rain and Piano](https://open.spotify.com/album/7Bd8L9jNUCE2kr7hqYguXd) | 3:36 | 2023-01-24 | 2024-07-17 |
 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 | 2024-07-16 |  |
 | [Peaceful Weal \(by a Babbling Brook\)](https://open.spotify.com/track/6XcXTrmANCkpLiZ1hj215q) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 3:42 | 2024-01-30 | 2025-04-02 |
+| [Peacefully Floating](https://open.spotify.com/track/6EmfQGQ8osa2Qsomej3zv0) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Peacefully Floating](https://open.spotify.com/album/4LcZdO9XmLlsKkFA1ScT4w) | 3:00 | 2025-10-24 |  |
 | [Pearls of Water](https://open.spotify.com/track/0puchkLNhOLQCxdQhFHEdY) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Pearls of Water](https://open.spotify.com/album/2Xd0IofZQritVHPthMik8i) | 2:46 | 2025-05-21 |  |
 | [pebble brook \- ambient room mix](https://open.spotify.com/track/4aE13rELUFUQCXEMDw6aF3) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:38 | 2023-01-24 | 2025-02-11 |
 | [Perfect Harmony](https://open.spotify.com/track/4j8n4QJNpbAVG2zRRBktn7) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Perfect Harmony](https://open.spotify.com/album/2b1hOdOnn3lhU1nLjh5gS0) | 3:20 | 2024-07-16 | 2025-10-02 |

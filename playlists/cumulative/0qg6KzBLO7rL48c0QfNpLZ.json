@@ -174,7 +174,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 129343,
       "name": "A Sky Full Of Stars",
       "url": "https://open.spotify.com/track/3Z2ueAJtrYO5yHMXLz4TP2"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 145713,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/667TakUrGfXAZCjnlvzVs4"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 163434,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7aTVdaOk1WISfbuTVJw8EG"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 169000,
       "name": "Blame The Messiah",
       "url": "https://open.spotify.com/track/1sAGfDjxTrYz5BD131flfV"
@@ -3352,7 +3352,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 140004,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/4Uvn8vp2hKWyQwTK1w8GaI"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 135693,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/7lIzKPkQt0HpYTXxlcDvjE"
@@ -4250,7 +4250,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 154125,
       "name": "Cherry Gold Sunset",
       "url": "https://open.spotify.com/track/54R0urLnxf4XZhPlAkWV7r"
@@ -5148,7 +5148,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 240024,
       "name": "Dancing - Samm Remix",
       "url": "https://open.spotify.com/track/2Q1IMnYbKvzFklfxRuJjH5"
@@ -5906,7 +5906,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 136320,
       "name": "Don't Be Afraid",
       "url": "https://open.spotify.com/track/1UTVHEwU4YgxF6qN9aOqKo"
@@ -7224,7 +7224,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 135000,
       "name": "Every Breath You Take (feat. Luciana Silva)",
       "url": "https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E"
@@ -7773,6 +7773,32 @@
     },
     {
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1Z9VWlY6vmVB9TOaaPn9nv"
+      },
+      "artists": [
+        {
+          "name": "TWINNS",
+          "url": "https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg"
+        },
+        {
+          "name": "Keely Keyz",
+          "url": "https://open.spotify.com/artist/4GyZgtnuaI35gkhi22yZTE"
+        },
+        {
+          "name": "MARE",
+          "url": "https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133991,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/5c3StocQenfZPnVKsKwdE9"
+    },
+    {
+      "album": {
         "name": "Far Away From Me",
         "url": "https://open.spotify.com/album/1i8sKobPyKmHaB56Olqm2g"
       },
@@ -7980,7 +8006,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 149882,
       "name": "Feel for You",
       "url": "https://open.spotify.com/track/2Xk4XJZ68ArK6QQIgWJMY4"
@@ -9773,6 +9799,24 @@
     },
     {
       "album": {
+        "name": "Halela",
+        "url": "https://open.spotify.com/album/6DlCMsJfiWLQLWBHA9j7Hr"
+      },
+      "artists": [
+        {
+          "name": "Marin Hoxha",
+          "url": "https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Halela",
+      "url": "https://open.spotify.com/track/15GnmD9tsIhpgNEkR3ESzD"
+    },
+    {
+      "album": {
         "name": "Happy It Happened",
         "url": "https://open.spotify.com/album/129tdWT1IrkXMl6PoFsw7d"
       },
@@ -10140,7 +10184,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 137142,
       "name": "Here By My Side",
       "url": "https://open.spotify.com/track/3NkL9FHH8gpYyZ65xZlYuX"
@@ -11914,7 +11958,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 152380,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/1V13MmE2RHWM0fzFxc7cFX"
@@ -12524,7 +12568,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 184632,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/5bYGGBojtXEicgmqFSIa99"
@@ -13044,7 +13088,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 173000,
       "name": "Jewels (Stuck On You)",
       "url": "https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW"
@@ -14032,7 +14076,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 179246,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/6XONlc4fkRSNfbpUKgkj8H"
@@ -14704,7 +14748,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 111645,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0BAa3Q0mchnIpjNLOROwwJ"
@@ -15120,7 +15164,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 168000,
       "name": "Love After Love",
       "url": "https://open.spotify.com/track/4tOYaHjIW3sb6mPt7fIA4H"
@@ -15816,7 +15860,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 151475,
       "name": "Make Me Feel (feat. maybealice)",
       "url": "https://open.spotify.com/track/6qHhWQJq1N3cLmcpxfBxhQ"
@@ -17324,7 +17368,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 176065,
       "name": "Ngizula \u2013 Spiritual Journey",
       "url": "https://open.spotify.com/track/3NXjIM9Jaf4Qp6oUPZEGxO"
@@ -20640,7 +20684,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
@@ -24084,7 +24128,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 166000,
       "name": "The One",
       "url": "https://open.spotify.com/track/0dyChP0JnFXTjSIqdpRPbE"
@@ -24160,7 +24204,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 138072,
       "name": "The Right Time",
       "url": "https://open.spotify.com/track/6l52VSiGFRHFnuHn27jp8T"
@@ -27536,7 +27580,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 141818,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/1VUv4veJCKbhkj60SsH2MX"

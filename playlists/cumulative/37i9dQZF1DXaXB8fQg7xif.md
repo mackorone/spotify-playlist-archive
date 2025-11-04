@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,270 songs - 2 day 19 hr 51 min
+1,271 songs - 2 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-05-03 | 2025-09-07 |
 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 | 2021-10-10 | 2022-04-20 |
 | [Badman](https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Badman](https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot) | 2:39 | 2022-04-01 | 2022-04-21 |
-| [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 | 2025-05-16 |  |
+| [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 | 2025-05-16 | 2025-11-04 |
 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2024-09-06 |  |
 | [Baianá](https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN) | 3:00 | 2020-05-22\* | 2022-04-21 |
 | [Baianá \- Jack Back Remix](https://open.spotify.com/track/69yJsOLPFJXRoBkJxrsDRJ) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Baianá \(Jack Back Remix\)](https://open.spotify.com/album/1dKPOW4dPo3mc7cKHSSoSx) | 2:40 | 2020-05-22\* | 2020-10-21 |
@@ -534,6 +534,7 @@
 | [I Just Wanna Dance](https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD) | 2:34 | 2021-03-27 | 2022-07-02 |
 | [I Just Wanna Dance](https://open.spotify.com/track/1E6eBDvEvVMz3PIUIkWs1y) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [I Just Wanna Dance](https://open.spotify.com/album/5qj8lJSGn2tNQUsDVEVMnK) | 2:57 | 2020-05-30 | 2022-01-03 |
 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 | 2025-04-04 |  |
+| [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 | 2025-10-24 |  |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-05 | 2023-08-14 |
 | [I Love You \- CID Remix](https://open.spotify.com/track/5GrUWIm6FMdtqaLYTqW5yh) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [I Love You \(CID Remix\)](https://open.spotify.com/album/23cJBxx1WN89hFUkCu2xUl) | 2:36 | 2020-05-22\* | 2021-12-21 |
 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 | 2020-05-22\* | 2020-09-06 |

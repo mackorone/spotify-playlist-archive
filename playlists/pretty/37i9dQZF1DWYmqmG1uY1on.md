@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmqmG1uY1on.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,085 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

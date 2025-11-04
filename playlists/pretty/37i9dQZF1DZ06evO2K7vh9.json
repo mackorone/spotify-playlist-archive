@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 99719,
+  "num_followers": 99728,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAADEco2gD0EKQ+zhlg7LjZK1",
+  "snapshot_id": "aQafAAAAAAAZQenBu+vs7zZtXSGU9kZ+",
   "tracks": [
     {
       "added_at": null,
@@ -27,8 +27,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 136991,
       "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N"
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rover (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
       },
       "artists": [
-        {
-          "name": "S1mba",
-          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
-        },
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Rover (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
+      "duration_ms": 144916,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/3OlHOWZAY88QndJOnUIXZS"
     },
     {
       "added_at": null,
@@ -491,22 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh"
+        "name": "Rover (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
       },
       "artists": [
         {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
         },
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 112613,
-      "name": "Come Through (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ"
+      "duration_ms": 166805,
+      "name": "Rover (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
     },
     {
       "added_at": null,
@@ -523,6 +519,26 @@
       "duration_ms": 134520,
       "name": "DUI",
       "url": "https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh"
+      },
+      "artists": [
+        {
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 112613,
+      "name": "Come Through (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/7I7y5vl3dEZFIdWSB2O1ZZ"
     },
     {
       "added_at": null,

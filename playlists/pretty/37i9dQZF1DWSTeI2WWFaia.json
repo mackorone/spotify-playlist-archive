@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1578653,
+  "num_followers": 1578549,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-10-31 04:00:36",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 236759,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
+    },
+    {
+      "added_at": "2025-10-31 04:00:36",
+      "album": {
         "name": "Landgrab",
         "url": "https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 88330,
       "name": "Landgrab",
       "url": "https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR"
-    },
-    {
-      "added_at": "2025-10-31 04:00:36",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 236759,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
     },
     {
       "added_at": "2025-10-31 04:00:36",

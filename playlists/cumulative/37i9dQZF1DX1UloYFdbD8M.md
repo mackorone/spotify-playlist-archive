@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-426 songs - 1 day 2 hr 37 min
+427 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Garudan](https://open.spotify.com/track/318OnS3kkEgC8PIY9oWbFz) | [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Garudan](https://open.spotify.com/album/66GY7yGX2gE7qEYCywJfpF) | 2:17 | 2025-03-17 | 2025-05-10 |
 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 | 2023-08-30 | 2025-01-14 |
 | [Gold](https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa) | [Gold](https://open.spotify.com/album/0PK5jkjXKLiMS7U2fmWft0) | 3:02 | 2025-08-06 |  |
+| [Goli Soda](https://open.spotify.com/track/2tjdeqB1fzTqBi7wr3MU0W) | [Distosapien](https://open.spotify.com/artist/5TZ2tQ6CELFvCUOUe4r8At) | [Goli Soda](https://open.spotify.com/album/74sWQL65tl7NuZhGDUDRUQ) | 1:00 | 2025-11-03 |  |
 | [Gopa Trance](https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Gopa Trance](https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe) | 2:42 | 2023-09-29 | 2024-02-19 |
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 | 2024-02-19 |
 | [Gulab Jamun](https://open.spotify.com/track/2zlllmweB5NqNGv06OEguE) | [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0) | [Gulab Jamun](https://open.spotify.com/album/0y82u4WJxCP9qrZbcCK4wB) | 2:06 | 2025-07-07 | 2025-08-20 |
@@ -332,7 +333,7 @@
 | [Porul](https://open.spotify.com/track/0kJJmko72rMUeFdi3WI4dM) | [Saju Sreenivas](https://open.spotify.com/artist/6CmEs3zFMHjLjYsanVCK0T) | [Porul](https://open.spotify.com/album/6fQGWw9fs9ms6JVpMQDzeM) | 4:20 | 2024-07-23 | 2025-02-11 |
 | [Poyidum Kaalame](https://open.spotify.com/track/2kj948pj6cnDVwrCPdeZ07) | [Derby Tomhills](https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8), [Kavya S Chandra](https://open.spotify.com/artist/39ZeUmal47Ovg1oksPfyCj), [Javad Ali](https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM) | [Poyidum Kaalame](https://open.spotify.com/album/3lxQGNalGRGOWRmHNcgxFl) | 3:08 | 2025-07-11 |  |
 | [Pranayam](https://open.spotify.com/track/4GgOKuJ1cXDPZa1vxPPqSY) | [Crishna](https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi) | [Pranayam](https://open.spotify.com/album/2HKtcIQXADZBD3k3MZue0F) | 2:42 | 2024-10-14 | 2025-05-24 |
-| [Prapanjam](https://open.spotify.com/track/4IguOEcObo3QhGgmjYj45Z) | [Salman Koroth](https://open.spotify.com/artist/3NmWvHbLeja1KL716ZByRS), [Envu](https://open.spotify.com/artist/1NZ5Zm3aCfS8QcyxZa3R5K) | [Prapanjam](https://open.spotify.com/album/2AnDARKMlBWy3csPRnLa2x) | 4:15 | 2025-10-13 |  |
+| [Prapanjam](https://open.spotify.com/track/4IguOEcObo3QhGgmjYj45Z) | [Salman Koroth](https://open.spotify.com/artist/3NmWvHbLeja1KL716ZByRS), [Envu](https://open.spotify.com/artist/1NZ5Zm3aCfS8QcyxZa3R5K) | [Prapanjam](https://open.spotify.com/album/2AnDARKMlBWy3csPRnLa2x) | 4:15 | 2025-10-13 | 2025-11-04 |
 | [Pravasi](https://open.spotify.com/track/2T5FVgSvxUyEn1rH4Stfu2) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:03 | 2022-12-22 | 2024-06-29 |
 | [Premaalamil](https://open.spotify.com/track/1VeJX1Mx3wXV46KYhWiXmt) | [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ), [Jawed Aslam](https://open.spotify.com/artist/7dxeL109zn2qpD5W2HX1sC) | [Premaalamil](https://open.spotify.com/album/07WgthIei5wM26SmISQvhu) | 3:50 | 2025-07-04 |  |
 | [Puthumazha](https://open.spotify.com/track/5CfnIDYUEXRTe6eiYR4YQZ) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [Godwin Fernandez](https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43), [Suchith Surendran](https://open.spotify.com/artist/3Dmkg6TaEsyJ9n8grHJl5T) | [Puthumazha](https://open.spotify.com/album/7ys3lpm8qwYbepZ8bPr08v) | 1:10 | 2025-07-22 | 2025-09-04 |

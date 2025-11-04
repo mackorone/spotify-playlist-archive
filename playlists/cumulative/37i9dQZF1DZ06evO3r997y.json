@@ -114,6 +114,24 @@
     {
       "album": {
         "name": "any if",
+        "url": "https://open.spotify.com/album/3CnlihctAkF7u9ExozQyV5"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274093,
+      "name": "any if",
+      "url": "https://open.spotify.com/track/45qMrc2dLU0KaQKQVOanA2"
+    },
+    {
+      "album": {
+        "name": "any if",
         "url": "https://open.spotify.com/album/0doWXzxJFB95BZXT2Qh65Y"
       },
       "artists": [
@@ -124,7 +142,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 274093,
       "name": "any if",
       "url": "https://open.spotify.com/track/5WBJlbCA4pVJsiqgv4m4eV"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 256106,
       "name": "Eternally",
       "url": "https://open.spotify.com/track/3jsCKT0l7XSXjRjJel9QzC"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 256133,
       "name": "Eternally",
       "url": "https://open.spotify.com/track/3Qa4XkazoM3bHBo9635NWT"

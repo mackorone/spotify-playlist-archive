@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1949,
+  "num_followers": 1951,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/1VBHyqM7MW6FDproj8Ff5F"
     },
     {
-      "added_at": "2022-07-11 22:00:28",
-      "album": {
-        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Dos Oruguitas",
-      "url": "https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9"
-    },
-    {
       "added_at": "2020-04-27 15:43:16",
       "album": {
         "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
@@ -191,6 +175,22 @@
       "duration_ms": 50565,
       "name": "El Mundo es mi Familia",
       "url": "https://open.spotify.com/track/5tsiVaup3IdqXrqItieZLY"
+    },
+    {
+      "added_at": "2022-07-11 22:00:28",
+      "album": {
+        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9"
     },
     {
       "added_at": "2020-04-27 15:43:16",

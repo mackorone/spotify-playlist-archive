@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-132 songs - 7 hr 36 min
+133 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,12 +20,13 @@
 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-06-27 | 2025-10-26 |
 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 | 2025-08-06 |  |
 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 | 2025-06-27 |  |
+| [Bend](https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Bend](https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT) | 3:56 | 2025-10-31 |  |
 | [Bring Me My Horse](https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 4:22 | 2025-06-27 |  |
 | [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 | 2025-09-03 |  |
 | [By the Way](https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [By the Way](https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u) | 2:40 | 2025-09-03 |  |
 | [Call Me When You Get In](https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Emily Rink](https://open.spotify.com/artist/65A05MaAQkUbLQm8jVtZHF) | [Call Me When You Get In](https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM) | 3:48 | 2025-06-27 |  |
 | [Calling Out](https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Calling Out](https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn) | 2:30 | 2025-06-27 |  |
-| [Cape Forestier](https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c) | 3:52 | 2025-10-02 |  |
+| [Cape Forestier](https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c) | 3:52 | 2025-10-02 | 2025-11-04 |
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2025-06-27 | 2025-10-03 |
 | [Colourblind](https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:29 | 2025-06-27 |  |
 | [Company Store](https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen Of My Castle](https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM) | 2:59 | 2025-06-27 |  |

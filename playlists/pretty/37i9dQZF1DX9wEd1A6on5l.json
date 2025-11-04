@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 104717,
+  "num_followers": 104782,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-10-24 09:58:02",
       "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 218947,
+      "name": "Despacito (feat. FOLA)",
+      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+    },
+    {
+      "added_at": "2025-10-24 09:58:02",
+      "album": {
         "name": "Mortal Kombat",
         "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 210000,
       "name": "WHY LOVE",
       "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
-    },
-    {
-      "added_at": "2025-10-24 09:58:02",
-      "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 218947,
-      "name": "Despacito (feat. FOLA)",
-      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
     },
     {
       "added_at": "2025-10-24 09:58:02",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-10-24 09:58:02",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140527,
-      "name": "SHAOLIN",
-      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2025-10-24 09:58:02",
-      "album": {
         "name": "Coco Money",
         "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 136707,
       "name": "Coco Money",
       "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
+    },
+    {
+      "added_at": "2025-10-24 09:58:02",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140527,
+      "name": "SHAOLIN",
+      "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
     },
     {
       "added_at": "2025-10-24 09:58:02",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-10-24 09:58:02",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+    },
+    {
+      "added_at": "2025-10-24 09:58:02",
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 195997,
       "name": "Fuji Fusion",
       "url": "https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ"
-    },
-    {
-      "added_at": "2025-10-24 09:58:02",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": "2025-10-24 09:58:02",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-10-24 09:58:02",
       "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2025-10-24 09:58:02",
-      "album": {
         "name": "Hot Hot",
         "url": "https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8"
       },
@@ -1227,22 +1211,6 @@
       "duration_ms": 143232,
       "name": "Hot Hot",
       "url": "https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6"
-    },
-    {
-      "added_at": "2025-10-24 09:58:02",
-      "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 192158,
-      "name": "Dem Dey",
-      "url": "https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z"
     },
     {
       "added_at": "2025-10-24 09:58:02",
@@ -1263,18 +1231,34 @@
     {
       "added_at": "2025-10-24 09:58:02",
       "album": {
-        "name": "My Amigo",
-        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
       },
       "artists": [
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 160043,
-      "name": "My Amigo",
-      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2025-10-24 09:58:02",
+      "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 192158,
+      "name": "Dem Dey",
+      "url": "https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z"
     },
     {
       "added_at": "2025-10-24 09:58:02",
@@ -1311,6 +1295,22 @@
       "duration_ms": 174053,
       "name": "Kese (Dance)",
       "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
+    },
+    {
+      "added_at": "2025-10-24 09:58:02",
+      "album": {
+        "name": "My Amigo",
+        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 160043,
+      "name": "My Amigo",
+      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
     },
     {
       "added_at": "2025-10-24 09:58:02",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-10-24 09:58:02",
       "album": {
-        "name": "Cartoon",
-        "url": "https://open.spotify.com/album/5KPfaqMCwyBBe783158gWe"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 163520,
-      "name": "Cartoon",
-      "url": "https://open.spotify.com/track/2oFL8pXqAbtfncsBauFmAI"
-    },
-    {
-      "added_at": "2025-10-24 09:58:02",
-      "album": {
         "name": "Babcock",
         "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 143476,
       "name": "Babcock",
       "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
+    },
+    {
+      "added_at": "2025-10-24 09:58:02",
+      "album": {
+        "name": "Cartoon",
+        "url": "https://open.spotify.com/album/5KPfaqMCwyBBe783158gWe"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 163520,
+      "name": "Cartoon",
+      "url": "https://open.spotify.com/track/2oFL8pXqAbtfncsBauFmAI"
     },
     {
       "added_at": "2025-10-24 09:58:02",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-10-24 09:58:02",
       "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN"
-    },
-    {
-      "added_at": "2025-10-24 09:58:02",
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 133172,
       "name": "Feel D Mood",
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
+    },
+    {
+      "added_at": "2025-10-24 09:58:02",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN"
     },
     {
       "added_at": "2025-10-24 09:58:02",

@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 44 | [Whispering Wind](https://open.spotify.com/track/5nJj5KEDez2j3Hchn7cUsG) | [Luca Verdant](https://open.spotify.com/artist/1fL5eZC34fv79A9eUbCkp7) | [Whispering Wind](https://open.spotify.com/album/4SEnEcttTxiRJojIoQ1Rvz) | 1:58 |
 | 45 | [Still Waters \(with rain\)](https://open.spotify.com/track/4Hw273dIBVi0B2AyGNYY9v) | [noira](https://open.spotify.com/artist/16KcLoDLQ4FEEGr00l2GoK) | [Still Waters \(with rain\)](https://open.spotify.com/album/7rLedGur9K5iZhdztQTbZ9) | 1:34 |
 | 46 | [Ease](https://open.spotify.com/track/0yWyuMnRiCjZINAczC1yad) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [As It Goes](https://open.spotify.com/album/5Go73tCDhE3gZgmyaUck2r) | 2:18 |
-| 47 | [life](https://open.spotify.com/track/6Khsx8SyUg83LbBBCFYy0q) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [heartfelt](https://open.spotify.com/album/3bdtyIPJoZ8Ykl3NhwWDcv) | 3:56 |
+| 47 | [life](https://open.spotify.com/track/7I6gFxShYcBJEfVpsyj9YC) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [life](https://open.spotify.com/album/77R1nHq79AGc4m1IfEkT7m) | 3:56 |
 | 48 | [Chapter Five](https://open.spotify.com/track/3QgWO8E2AkmcULgmxIeoei) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Chapter Five](https://open.spotify.com/album/5xlKaQxeUB5nVPwkkQzc3T) | 2:10 |
 | 49 | [Moments](https://open.spotify.com/track/0vdKV8eXUPtQQ4Q8bspxNR) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [As It Goes](https://open.spotify.com/album/5Go73tCDhE3gZgmyaUck2r) | 2:18 |
 | 50 | [Blossom in Japan](https://open.spotify.com/track/0AQfJyyEmajXak025DoHfX) | [Jakub Szybiak](https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg) | [Blossom in Japan](https://open.spotify.com/album/2saoJMBBSau2D892ss1Ihs) | 2:24 |
@@ -343,4 +343,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 333 | [For My Love](https://open.spotify.com/track/02bplJwSJ3EXQuIGypAmyM) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [For My Love](https://open.spotify.com/album/0VbOp7fj3Xix4kZbDmrERb) | 1:49 |
 | 334 | [Idea 7](https://open.spotify.com/track/3ko0xsWaiY5JrngiPUo2Wo) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7 \(Remixes\)](https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU) | 2:30 |
 
-Snapshot ID: `AAAHMMja74aclu+Icn2N62l/ULKwOrBX`
+Snapshot ID: `AAAHN2piXnGYut299cTYzBlJ8bF2mHwv`

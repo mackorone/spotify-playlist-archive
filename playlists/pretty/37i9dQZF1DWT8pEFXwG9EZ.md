@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,394 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,428 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 71 | [Damascus Thump](https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Babylon \(Music from the Motion Picture\)](https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe) | 2:10 |
 | 72 | [Thinking Of Baby \- From "Johnny Staccato" Score / Remastered](https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG) | [Elmer Bernstein](https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c) | [Staccato \(Original Johnny Staccato Score\)](https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd) | 2:59 |
 | 73 | [Your Shining Eyes](https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea) | [Biel Ballester Trio](https://open.spotify.com/artist/6YjO2mAfC8sQlsrYnnn2L2), [Leo Hipaucha](https://open.spotify.com/artist/3cm8ovGEuzgAQRiLaE9mEO), [Graci Pedro](https://open.spotify.com/artist/7dCoSS3bmQ9koae0rDzeLh) | [Vicky Cristina Barcelona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY) | 4:29 |
-| 74 | [Amore mio aiutami \- Version 6](https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Amore mio aiutami \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF) | 3:01 |
-| 75 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
+| 74 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
+| 75 | [Amore mio aiutami \- Version 6](https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Amore mio aiutami \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF) | 3:01 |
 | 76 | [Blue Skies](https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR), [Bruce Fowler](https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp) | [The Good Shepherd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C) | 2:32 |
 | 77 | [The Windmills of Your Mind \(Theme from the Thomas Crown Affair \) \- with Vocals by Noel Harrison](https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Thomas Crown Affair](https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv) | 2:21 |
 | 78 | [It Had To Be You](https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [Boardwalk Empire Volume 2: Music From The HBO Original Series](https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP) | 3:17 |

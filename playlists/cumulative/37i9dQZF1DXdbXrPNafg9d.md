@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Florence + The Machine
 
-9,608 songs - 23 day 9 hr 21 min
+9,609 songs - 23 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6631,6 +6631,7 @@
 | [Psychedelic Orgasm](https://open.spotify.com/track/5z8H0o98dlKANCnDlKsjkY) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [Psychedelic Orgasm](https://open.spotify.com/album/1152eHgDWVHE88C8ATUmqc) | 3:40 | 2024-03-08 | 2024-04-19 |
 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-03-31 | 2023-05-13 |
 | [PTLSD \(feat\. Ssion\)](https://open.spotify.com/track/1waG1Gwddx1kaFbXcHmFHO) | [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS), [Ssion](https://open.spotify.com/artist/4XbiPPlbv4ush1isus6Daj) | [PTLSD \(feat\. Ssion\)](https://open.spotify.com/album/780lcnx0ui27erRReQ23NY) | 3:02 | 2024-08-16 | 2024-09-14 |
+| [Public Opinion](https://open.spotify.com/track/3ORsrd6XBeO8BhE0zYRtgE) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67), [Papo2oo4](https://open.spotify.com/artist/4S7E6TrfOatG9H3YuYV4V2) | [SNOEY](https://open.spotify.com/album/4ODxsdra6AfxaVFf51UkMs) | 2:57 | 2025-11-03 |  |
 | [Puddles](https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Puddles](https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM) | 1:49 | 2020-09-04 | 2020-10-16 |
 | [Puddles](https://open.spotify.com/track/0cqrg8N4D0260NkHGUoS0z) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 5:24 | 2025-10-10 |  |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 | 2022-07-23 |

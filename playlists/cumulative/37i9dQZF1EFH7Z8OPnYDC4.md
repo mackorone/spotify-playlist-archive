@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-371 songs - 21 hr 58 min
+372 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Oh Diogenes!](https://open.spotify.com/track/37YqcZnUkoknLISdoiYIwb) | [Original Broadway Cast "Boys From Syracuse"](https://open.spotify.com/artist/04lk9uOaB66os7drkb8GeJ) | [Boys From Syracuse](https://open.spotify.com/album/7IaTetawcdqMFZPvNEHdaI) | 2:23 | 2024-07-26 |  |
 | [Oh, What a Beautiful Mornin' \- Oklahoma!, 1955](https://open.spotify.com/track/37ZAXJkdunm9ABV99fnWuN) | [Fred zinnemann](https://open.spotify.com/artist/2Arv9WHiEGyxyMblCt9FD9), [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof) | [Best FRED ZINNEMANN Movie Themes](https://open.spotify.com/album/2ouUKPPIQUyDysNQrQZCVE) | 2:32 | 2025-08-22 |  |
 | [Oh, What A Beautiful Morning](https://open.spotify.com/track/6VPgRpaWOXuDRMJmTfWork) | [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof) | [High on a Windy Hill \- The Great Hit Sounds of Gordon MacRae](https://open.spotify.com/album/7lzZymH9tZtwicEGXZVnoA) | 2:35 | 2024-07-26 | 2025-08-23 |
+| [Oklahoma \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/4VdZPkoW0cNrhZHK7Xhh3m) | [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof), [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 3:16 | 2025-11-03 |  |
 | [On a Desert Island with Thee](https://open.spotify.com/track/3Fqnt0l35nwtPBWnnbqb1R) | [Chester Stratton](https://open.spotify.com/artist/2wxcvoEFUZyHorfExNwrv6) | [A Connecticut Yankee \- Original Broadway Cast](https://open.spotify.com/album/6FRRaZ8WvRGXXVcGyKNoAh) | 3:12 | 2024-07-26 |  |
 | [On Your Toes, Act II: Slaughter On Tenth Avenue](https://open.spotify.com/track/3U7frlEZ12HCBEgFKjLemY) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Slaughter On 10th Avenue](https://open.spotify.com/album/0mgrJI2jQ3SvWH5xwbduQo) | 8:46 | 2024-07-26 |  |
 | [Opening](https://open.spotify.com/track/2OffszmvWPLyKTYST1FySs) | [Androcles and the Lion Orchestra](https://open.spotify.com/artist/40n3uVTGFfGRl9wYqym5f9), [Jay Blackton](https://open.spotify.com/artist/4fY8KapL2wSI0Zu33g3hqp) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 4:47 | 2024-07-26 |  |

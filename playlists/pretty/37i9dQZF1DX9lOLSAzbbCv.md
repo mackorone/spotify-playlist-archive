@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: KRBK
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,607 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,615 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 2 | [lambada](https://open.spotify.com/track/2lsSwYf4KcOEhWE10xfWnK) | [askwhen](https://open.spotify.com/artist/0GsArlDO65z8mj3McTCliI), [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R) | [lambada](https://open.spotify.com/album/2rF1ds7PTw6EcFJwLO1cIr) | 2:08 |
 | 3 | [Essay](https://open.spotify.com/track/3da9bwSOZwgb2dl1Zmt24V) | [Libenson](https://open.spotify.com/artist/5WKDr18VQpdy1dBHkBi8O1), [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [Essay](https://open.spotify.com/album/5qASmtDscY2s34aaAbyZbK) | 2:22 |
 | 4 | [ВАВИЛОН](https://open.spotify.com/track/3wDcA4yVxjU1jVu0havb6D) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [ВАВИЛОН](https://open.spotify.com/album/4nazo4fCYSZdf1oNSKGvI1) | 5:06 |
-| 5 | [А хто хейтить \- OST «10 Блогерят»](https://open.spotify.com/track/4WJWo3nKXdTrk3FXhKsh4k) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [А хто хейтить \(OST «10 Блогерят»\)](https://open.spotify.com/album/4K4Sh0hessVSUqG5karoJw) | 2:39 |
+| 5 | [Чорний лебідь](https://open.spotify.com/track/39WvUiZRy6wSXPUJHVgnDF) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh) | [Чорний лебідь](https://open.spotify.com/album/22TFpPzv3iBvZcUdG5Ck8X) | 2:06 |
 | 6 | [Сумуватиму](https://open.spotify.com/track/0k86Z86aqV07NUQCSot9uz) | [Фир](https://open.spotify.com/artist/38XfwCl7tynQxVzNoqYzIY), [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y) | [Сумуватиму](https://open.spotify.com/album/2zcyNgeb5AP3OYgk8oFFOL) | 3:01 |
 | 7 | [іноді](https://open.spotify.com/track/0SYwnCV5XXHmiz9QXIRTjL) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94) | [іноді](https://open.spotify.com/album/7cYRO0Zi5OXDrSMDckVuPY) | 3:32 |
 | 8 | [Парами](https://open.spotify.com/track/0JUfqu1dhWpt3yuNp48iwi) | [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R) | [Парами](https://open.spotify.com/album/6OZ0wn7cA8ecXmdyJI7IPl) | 2:33 |
-| 9 | [На відтяжці](https://open.spotify.com/track/4M8tehkzebTY5l4dZ3CZv8) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh) | [На відтяжці](https://open.spotify.com/album/0jD83emvbuC7XdJOnORs3g) | 1:13 |
-| 10 | [Minimum](https://open.spotify.com/track/2z5LKY5a2QESEgPk2Gpwqx) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Minimum](https://open.spotify.com/album/5RCR4cWhqWQjfUTaYf42OH) | 2:23 |
-| 11 | [Граю знов](https://open.spotify.com/track/1VU90uFANQq2p12zWP2YBX) | [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Граю знов](https://open.spotify.com/album/678ltpBQz0uPOOXyYu80qZ) | 2:44 |
-| 12 | [Струм](https://open.spotify.com/track/3ENaL7A5wF3hJvyABsSAYe) | [lesfleures](https://open.spotify.com/artist/5rvTaikujPdqylzMhjYsVn) | [Струм](https://open.spotify.com/album/5oiTuKDA5jOndRGQjLvi4E) | 2:14 |
-| 13 | [Бруд](https://open.spotify.com/track/2XwsVyjl4InEUmKl2xsX84) | [Фир](https://open.spotify.com/artist/38XfwCl7tynQxVzNoqYzIY) | [Бруд](https://open.spotify.com/album/6pZpeprMGQ08rPolbUTcix) | 2:06 |
-| 14 | [Уно](https://open.spotify.com/track/6jBVuOMBK1bg8Bejgz6iAR) | [satelibra](https://open.spotify.com/artist/2HTPbqukNdV7wiPBqdY2MS) | [Уно](https://open.spotify.com/album/5sdicEJSDoXDlITQzJ05WC) | 3:33 |
-| 15 | [Я там](https://open.spotify.com/track/5Un2rzhvCEyUER9jD0Slxw) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0), [SKOF](https://open.spotify.com/artist/2U0JKcbn2yTdSDouzF25LU) | [Я там](https://open.spotify.com/album/1pbEkIkwr8ivOp51OnbO53) | 3:36 |
+| 9 | [Minimum](https://open.spotify.com/track/2z5LKY5a2QESEgPk2Gpwqx) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Minimum](https://open.spotify.com/album/5RCR4cWhqWQjfUTaYf42OH) | 2:23 |
+| 10 | [Граю знов](https://open.spotify.com/track/1VU90uFANQq2p12zWP2YBX) | [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Граю знов](https://open.spotify.com/album/678ltpBQz0uPOOXyYu80qZ) | 2:44 |
+| 11 | [Струм](https://open.spotify.com/track/3ENaL7A5wF3hJvyABsSAYe) | [lesfleures](https://open.spotify.com/artist/5rvTaikujPdqylzMhjYsVn) | [Струм](https://open.spotify.com/album/5oiTuKDA5jOndRGQjLvi4E) | 2:14 |
+| 12 | [Бруд](https://open.spotify.com/track/2XwsVyjl4InEUmKl2xsX84) | [Фир](https://open.spotify.com/artist/38XfwCl7tynQxVzNoqYzIY) | [Бруд](https://open.spotify.com/album/6pZpeprMGQ08rPolbUTcix) | 2:06 |
+| 13 | [Уно](https://open.spotify.com/track/6jBVuOMBK1bg8Bejgz6iAR) | [satelibra](https://open.spotify.com/artist/2HTPbqukNdV7wiPBqdY2MS) | [Уно](https://open.spotify.com/album/5sdicEJSDoXDlITQzJ05WC) | 3:33 |
+| 14 | [Я там](https://open.spotify.com/track/5Un2rzhvCEyUER9jD0Slxw) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0), [SKOF](https://open.spotify.com/artist/2U0JKcbn2yTdSDouzF25LU) | [Я там](https://open.spotify.com/album/1pbEkIkwr8ivOp51OnbO53) | 3:36 |
+| 15 | [Таро](https://open.spotify.com/track/6K2MyjNAePQdt6bLG65tIr) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Люблю тебе коли](https://open.spotify.com/album/2YBfDbR87Nw2h7EWorBQzK) | 3:07 |
 | 16 | [Санрайз](https://open.spotify.com/track/6AhbqKi4IYsc3KCTf5cbr0) | [Фрай](https://open.spotify.com/artist/0u1L8pq6k21TsAtP0OPq2J) | [Cloud Nights 17](https://open.spotify.com/album/2HXyOULkHD3mn79CXllWx8) | 2:25 |
 | 17 | [Небо](https://open.spotify.com/track/0rdYKW87aoKvR6tRe4g6rw) | [ROPAN](https://open.spotify.com/artist/2HCZErrApQ6IlnXgxeyCwe) | [Небо](https://open.spotify.com/album/32G5GX4N2YMAwYEdHdp0Ai) | 2:06 |
 | 18 | [Хто така ти](https://open.spotify.com/track/7EamnnCiy5U2GL8b3XpFmj) | [lesfleures](https://open.spotify.com/artist/5rvTaikujPdqylzMhjYsVn) | [Полюбляю квіти](https://open.spotify.com/album/544igGAMXKeXlHvHwQVD6Q) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 49 | [Воїнам](https://open.spotify.com/track/6J9KF7lAzSsQd5kFbYgVfc) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Воїнам](https://open.spotify.com/album/2jqlb16qjNhRAws4MHQ03m) | 2:40 |
 | 50 | [Погані сусіди](https://open.spotify.com/track/16buytNF31fLKzDP9q7ZEg) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Погані сусіди](https://open.spotify.com/album/4cag70AzB98J6JePUV9pqv) | 2:53 |
 
-Snapshot ID: `AAAAAOWXJtwVGnrBeSTzhXstVkS/kdcC`
+Snapshot ID: `AAAAAFXfVghvczfsfKUprmjOdukgnMW0`

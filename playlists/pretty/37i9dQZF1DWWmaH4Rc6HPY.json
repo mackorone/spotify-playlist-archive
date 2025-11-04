@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Joaquina en portada.",
-  "num_followers": 37000,
+  "num_followers": 37006,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "Me has invitado a bailar",
+        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Me has invitado a bailar",
+      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "Me has invitado a bailar",
-        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Me has invitado a bailar",
-      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -395,26 +395,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Nada por Hecho (feat. Leiva)",
-        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 208802,
-      "name": "Nada por Hecho (feat. Leiva)",
-      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "Mago",
         "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 214853,
       "name": "Mago",
       "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "Nada por Hecho (feat. Leiva)",
+        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 208802,
+      "name": "Nada por Hecho (feat. Leiva)",
+      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Vidrio por Doquier",
-        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Vidrio por Doquier",
-      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "Todo cambia",
         "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 210127,
       "name": "Todo cambia",
       "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "Vidrio por Doquier",
+        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Vidrio por Doquier",
+      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -535,6 +535,22 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "110",
+        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "duration_ms": 176383,
+      "name": "110",
+      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -587,22 +603,6 @@
       "duration_ms": 153815,
       "name": "NO ME IMPORTA",
       "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "110",
-        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
-      },
-      "artists": [
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 176383,
-      "name": "110",
-      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "odio a primera vista",
+        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "duration_ms": 186996,
+      "name": "odio a primera vista",
+      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "odio a primera vista",
-        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
-      },
-      "artists": [
-        {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "odio a primera vista",
-      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Campeones del Mundo / Rayo de Luz",
-        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 341600,
-      "name": "Rayo de Luz",
-      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "La \u00daltima Noche (con Estopa)",
         "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
       },
@@ -939,22 +923,18 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Lo bien que suenas",
-        "url": "https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy"
+        "name": "Campeones del Mundo / Rayo de Luz",
+        "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
       },
       "artists": [
         {
-          "name": "ELYELLA",
-          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 210107,
-      "name": "Lo bien que suenas",
-      "url": "https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2"
+      "duration_ms": 341600,
+      "name": "Rayo de Luz",
+      "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -975,6 +955,26 @@
       "duration_ms": 162210,
       "name": "Prayer in C",
       "url": "https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "Lo bien que suenas",
+        "url": "https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy"
+      },
+      "artists": [
+        {
+          "name": "ELYELLA",
+          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 210107,
+      "name": "Lo bien que suenas",
+      "url": "https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "7 Secretos",
         "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
       },
@@ -1183,38 +1199,18 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+        "name": "Por no bailar contigo",
+        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
         }
       ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "claroqno",
-        "url": "https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 154488,
-      "name": "claroqno",
-      "url": "https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT"
+      "duration_ms": 188515,
+      "name": "Por no bailar contigo",
+      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Por no bailar contigo",
-        "url": "https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U"
+        "name": "claroqno",
+        "url": "https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7"
       },
       "artists": [
         {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 188515,
-      "name": "Por no bailar contigo",
-      "url": "https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp"
+      "duration_ms": 154488,
+      "name": "claroqno",
+      "url": "https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Te Recuerdo",
-        "url": "https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Te Recuerdo",
-      "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "AL100",
         "url": "https://open.spotify.com/album/65AMvNY4LjeisjaxbSRBRS"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 189626,
       "name": "AL100",
       "url": "https://open.spotify.com/track/2Bd9AwYVFGvk6jT0QCFQIc"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "Te Recuerdo",
+        "url": "https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Te Recuerdo",
+      "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
     },
     {
       "added_at": "2025-10-17 06:00:28",

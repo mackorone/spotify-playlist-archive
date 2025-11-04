@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Anna Von Hausswolff.
 
-980 songs - 2 day 8 hr 42 min
+981 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-06-27 | 2024-08-02 |
 | [Ecstasy in Space](https://open.spotify.com/track/30i5H3zurdOp2LwtFjAs3O) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Ecstasy In Space](https://open.spotify.com/album/0bS66aXB3rM0HVRbJ5SJpR) | 2:35 | 2025-03-20 | 2025-06-20 |
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-06 | 2025-03-28 |
+| [Elin](https://open.spotify.com/track/0zhXmPOonnfX7P1gNosPiM) | [Agnes Skure](https://open.spotify.com/artist/3mSaNio38zjJkLyozP2hc0), [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Gazette](https://open.spotify.com/album/2xFrT3KiZm9iW14EY3Gs7n) | 3:52 | 2025-11-03 |  |
 | [ellipsis](https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [ellipsis](https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ) | 4:03 | 2024-11-07 | 2025-01-24 |
 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 | 2025-07-17 |  |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-27 | 2024-07-27 |

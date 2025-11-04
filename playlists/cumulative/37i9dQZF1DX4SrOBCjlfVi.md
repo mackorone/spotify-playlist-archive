@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Kodak Black, Tyler The Creator, Monaleo and more!
 
-8,741 songs - 16 day 18 hr 28 min
+8,744 songs - 16 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2688,6 +2688,7 @@
 | [For The Money](https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [For The Money](https://open.spotify.com/album/05VBhCeUpyBpGLDUFR4iZT) | 3:35 | 2025-06-27 | 2025-07-05 |
 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 | 2022-02-18 | 2022-02-26 |
 | [For the win](https://open.spotify.com/track/13pK7n8qNPmyTHUYi6Rve6) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj) | [I AM SUMMER](https://open.spotify.com/album/1SxxyrLBJGDo5BZiIbr6Cg) | 2:34 | 2025-08-01 | 2025-08-10 |
+| [For What \(feat\. Cash Cobain\)](https://open.spotify.com/track/6GfC36LoOZv0zCa45Et1Fg) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [For What \(feat\. Cash Cobain\)](https://open.spotify.com/album/3suGtJheyDNSi0q00nEM9h) | 2:31 | 2025-11-03 |  |
 | [For You](https://open.spotify.com/track/0dqLS8eWxMv11Ro9WStXVc) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [For You](https://open.spotify.com/album/2gbnNeyrZHh9rQSNssjf9p) | 3:45 | 2025-05-09 | 2025-05-17 |
 | [For You \(feat\. TaTa\)](https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [For You \(feat\. TaTa\)](https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6) | 1:59 | 2023-09-01 | 2023-09-09 |
 | [Forbes List](https://open.spotify.com/track/2uFGXKcPCmtUUuVytPHyxQ) | [Hustleman Quise](https://open.spotify.com/artist/6gB8BpeoCpDP1BVmX0uqHd), [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw) | [How I Came In](https://open.spotify.com/album/2AgW2wWUiwlhzsVVWnEzR5) | 2:51 | 2025-09-12 | 2025-09-20 |
@@ -2761,6 +2762,7 @@
 | [Free My Mind](https://open.spotify.com/track/4kYOrgTRLZzKi8DcuwXfqM) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Free My Mind](https://open.spotify.com/album/1j9mROY31VbmxKmls37QJX) | 3:25 | 2023-10-13 | 2023-10-21 |
 | [Free My N\*\*\*a](https://open.spotify.com/track/2z7LbO6rugeuWIBOWpncVi) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Free My N\*\*\*a](https://open.spotify.com/album/7Mk6Qao19lj3TcpQcDvE3t) | 2:09 | 2023-11-24 | 2023-12-02 |
 | [FREE PEEWEE](https://open.spotify.com/track/7uEpXoSk7Z3yXA1pdFv8rg) | [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [FREE PEEWEE](https://open.spotify.com/album/4nxvLL7jjhtbnjYPfVryij) | 1:59 | 2025-10-17 | 2025-10-25 |
+| [FREE ROLEYS](https://open.spotify.com/track/1yifMRKxOWScAcWn4VZgP7) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [HEELS HAVE EYES 3](https://open.spotify.com/album/3BWM8S25HOnReh0dy18P0e) | 3:41 | 2025-11-03 |  |
 | [Free Slime](https://open.spotify.com/track/4Wgu0FPMdz24m4TBc7kyk2) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [W13](https://open.spotify.com/album/2UQ8TnK4dXTwd66W9bQZz9) | 3:14 | 2022-08-26 | 2022-09-03 |
 | [FREE SMURK OFNG](https://open.spotify.com/track/2x2W9oXb3aEKh0Ey0TaVOz) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [FREE SMURK OFNG](https://open.spotify.com/album/45x6Ld9RHaICXBk34MbTtY) | 3:19 | 2025-01-24 | 2025-02-01 |
 | [FREE SMURK, BIG EDDIE & CAM](https://open.spotify.com/track/3Gr7dbIvWFsiqrnyJWaFcC) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [FREE SMURK, BIG EDDIE & CAM](https://open.spotify.com/album/61MjAXWVlxg8NsASSwcKSy) | 3:12 | 2024-11-15 | 2024-11-23 |
@@ -3659,6 +3661,7 @@
 | [I Hate My Bitch](https://open.spotify.com/track/0LhwXo7I38YZlmId6oxnyG) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work 3](https://open.spotify.com/album/78CT8v621JLojFqkXVv17G) | 2:12 | 2024-07-05 | 2024-07-13 |
 | [I Hate You](https://open.spotify.com/track/0Nqxn4IEpJJL9pPhuvc0uA) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [I Hate You](https://open.spotify.com/album/3lCnMhgxDmZFvMMJ1WBoKW) | 3:00 | 2025-03-21 | 2025-03-29 |
 | [I Heard](https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:03 | 2023-05-12 | 2023-06-03 |
+| [I HEARD \(FT\. YOUNGBOY NEVER BROKE AGAIN\)](https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:38 | 2025-11-03 |  |
 | [I Just Might](https://open.spotify.com/track/3d9GqUC0nRSColbokU32S6) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [I Just Might](https://open.spotify.com/album/1snWTFJwRCsxaNibtOpySC) | 2:02 | 2023-05-05 | 2023-05-13 |
 | [I Just Wanna Rocc](https://open.spotify.com/track/0HZttWkNa4iryoJA6x8qeU) | [CRASH RARRI](https://open.spotify.com/artist/2c2ekMthLByoJhFMLLl2Ch), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [I Just Wanna Rocc](https://open.spotify.com/album/40e9lN29BRoM7n8Ermqydy) | 2:46 | 2024-01-12 | 2024-01-20 |
 | [I Know](https://open.spotify.com/track/4iPk2FPM9hZYHqtQsfEz6m) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [I Know](https://open.spotify.com/album/0sPpOYWKeLPeppdKyZy9W4) | 3:17 | 2022-10-14 | 2022-10-22 |

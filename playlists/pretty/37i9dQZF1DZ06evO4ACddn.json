@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAAAufhmlKTk3iXAqBiR52UU7",
+  "snapshot_id": "aQafAAAAAAD36H4Kf0Ye8XBwdxrv9vmm",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter (Redux)",
-        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Radar - Redux",
-      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Things Will Matter",
         "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 208480,
       "name": "Rattlesnakes",
       "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things Will Matter (Redux)",
+        "url": "https://open.spotify.com/album/5j7moHdW1BoUtjHYjM8FTm"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Radar - Redux",
+      "url": "https://open.spotify.com/track/2hq4lskxMTho1REmBrGLmG"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 257933,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/5mmlzxAJaVTlE0qwMzlRd0"
+      "duration_ms": 93783,
+      "name": "The Ramp",
+      "url": "https://open.spotify.com/track/3hsSx5Z8sMl58BPznytEzg"
     }
   ],
   "unique_name": "This Is Lonely The Brave",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Oklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,350 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,355 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 53 | [Cara Fechada](https://open.spotify.com/track/2sgajBu5Xx9VBPEERCY8JE) | [Badazz](https://open.spotify.com/artist/6Z7gyYX48yvQJeoD6YvwqH), [Thisc](https://open.spotify.com/artist/4HLKeS9sCaroBapSqTbVFf), [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq), [Prod.Chipzz](https://open.spotify.com/artist/034hICE3RKwd6hmV7N383u) | [Cara Fechada](https://open.spotify.com/album/30OhLLuz5LQaq8Dq6layQ9) | 4:30 |
 | 54 | [Tabuleiro](https://open.spotify.com/track/3OGEooizIH0VKUQKyAp8KO) | [Caim](https://open.spotify.com/artist/7dEZhXrhfITA4VXXZPuAyy), [Cronus](https://open.spotify.com/artist/1zK877kicLoZ5q8CiTN8li), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Tabuleiro](https://open.spotify.com/album/2djZtB2GdgBbyLSKM0deww) | 2:55 |
 | 55 | [DPS EU Ñ SEI PQ EU SOFRO](https://open.spotify.com/track/08PlTUidp2Z14wT2aghU7g) | [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Moreira Beatz](https://open.spotify.com/artist/3z6NIMJbwT5BmgRA9rmPFT) | [DPS EU Ñ SEI PQ EU SOFRO](https://open.spotify.com/album/6nUuWAgseOnQg3qyKVA2ZH) | 2:45 |
-| 56 | [Rubi Rose](https://open.spotify.com/track/6iebUy3MWdOa8weM0WwDIY) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX) | [Rubi Rose](https://open.spotify.com/album/3o2y2Bt7WEzELd0PSxIDrm) | 2:44 |
+| 56 | [Rubi Rose](https://open.spotify.com/track/6iebUy3MWdOa8weM0WwDIY) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Rubi Rose](https://open.spotify.com/album/3o2y2Bt7WEzELd0PSxIDrm) | 2:44 |
 | 57 | [tchelo rodrigues On The Radar Freestyle](https://open.spotify.com/track/45XaKLZAemjhKkhXoUocfj) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [tchelo rodrigues On The Radar Freestyle](https://open.spotify.com/album/4K8LyGSExRfK3CiqZZtIMp) | 2:17 |
 | 58 | [Olhos Vermelhos \- Remix](https://open.spotify.com/track/6dOvYutd8jXTt5npxWiT3A) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Olhos Vermelhos \(Remix\)](https://open.spotify.com/album/6r7ApT3guLNew5oz1i5LlP) | 2:14 |
 | 59 | [Cana da Choque](https://open.spotify.com/track/6qY0pwZyb781h6h2OYcOQw) | [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [Bebeto](https://open.spotify.com/artist/2KHYG7vNRKtN0e3xdueQdz), [PAVUNA](https://open.spotify.com/artist/5k9CYypxcHvZKIztYvtmCx), [Cordeiro](https://open.spotify.com/artist/2yMTlcrLja7mjJnYVTY1Sb) | [Cana da Choque](https://open.spotify.com/album/7sarQIbzFvWNAOsVxxahff) | 2:20 |

@@ -1,13 +1,213 @@
 {
   "description": "\u91d1\u97f3\u734e\u9032\u5165\u7b2c 16 \u5e74\u4e86\uff01Spotify \u7576\u7136\u5168\u529b\u652f\u6301\uff01\u706b\u901f\u5448\u737b\u9019\u4e9b\u6700\u4ee4\u4eba\u9a5a\u559c\u8207\u56de\u5473\u7684\u597d\u4f5c\u54c1 \uff01",
-  "num_followers": 55049,
+  "num_followers": 55051,
   "original_name": "2025 \u91d1\u97f3\u734e\u7cbe\u9078",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxKQpVAbvPSLuwnmzwe3A8cIl8d",
+  "snapshot_id": "AAAAAGRkcgp8L8vjGw6PnXtoCCquwahV",
   "tracks": [
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "\u842c\u4e8b\u7f8e\u5999",
+        "url": "https://open.spotify.com/album/7ocRdAq1K2hwU8PUS9YuQ3"
+      },
+      "artists": [
+        {
+          "name": "\u767e\u5408\u82b1",
+          "url": "https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "\u842c\u4e8b\u7f8e\u5999",
+      "url": "https://open.spotify.com/track/6AgeupImOGlJ1oczkGQVvz"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "IS IT ALIVE? (Live at Yuchen Cinema Studio)",
+        "url": "https://open.spotify.com/album/5SjeYFSGtcymNlM7eEy626"
+      },
+      "artists": [
+        {
+          "name": "Robot Swing",
+          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
+        }
+      ],
+      "duration_ms": 237352,
+      "name": "I'm - Live",
+      "url": "https://open.spotify.com/track/3tMbERyzXOZvvMSo0IKATv"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "\u7d20\u984f\u7684\u6a23\u5b50",
+        "url": "https://open.spotify.com/album/1qNoXKUFJaFhTdpVrDydl4"
+      },
+      "artists": [
+        {
+          "name": "YILE LIN \u6797\u4ee5\u6a02",
+          "url": "https://open.spotify.com/artist/5Cl6jhwcV4OjIj3TgiegKQ"
+        }
+      ],
+      "duration_ms": 461305,
+      "name": "\u5341\u6708",
+      "url": "https://open.spotify.com/track/03RU9afw0KwpxshebaINAY"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "\u4f60\u5728\u6ce8\u8996\u90a3\u9059\u9060\u7684\u5730\u65b9",
+        "url": "https://open.spotify.com/album/2LWGzvOfY8L1QVDbHpWJhU"
+      },
+      "artists": [
+        {
+          "name": "\u7576\u4ee3\u96fb\u5f71\u5927\u5e2b",
+          "url": "https://open.spotify.com/artist/1Zho9gJQQCYaLYKkmWp337"
+        }
+      ],
+      "duration_ms": 149594,
+      "name": "\u6211\u5e0c\u671b\u4f60\u7684\u773c\u775b",
+      "url": "https://open.spotify.com/track/63WN3blJDkCjr6Q6kyCa9d"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "LULLABY FOR THR RIVER IN MY BODY",
+        "url": "https://open.spotify.com/album/2U8wE0iBCL3dGXJLLCIJun"
+      },
+      "artists": [
+        {
+          "name": "Elle Shimada",
+          "url": "https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk"
+        }
+      ],
+      "duration_ms": 233467,
+      "name": "ANSWERED PRAYERS",
+      "url": "https://open.spotify.com/track/1tpxe8MzRDQtyvaG2kO64o"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/5vuSKJEhs5QoCReyJiZSAM"
+      },
+      "artists": [
+        {
+          "name": "\u8c93\u81bd\u6c41",
+          "url": "https://open.spotify.com/artist/3jB1rrv3m8Uass8V0WBjX4"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "\u5931\u671b",
+      "url": "https://open.spotify.com/track/0d4ZiKb6fJK1iiNtqKjQyB"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "\u4eba\u751f\u641e\u5c1e\u5834",
+        "url": "https://open.spotify.com/album/4yZSNXVkNDKFHrIhQJsJEI"
+      },
+      "artists": [
+        {
+          "name": "\u6c5f\u5b5f\u85b0",
+          "url": "https://open.spotify.com/artist/3APxhHtUm221nsYWpgjGbm"
+        }
+      ],
+      "duration_ms": 309709,
+      "name": "\u5b8c\u798f",
+      "url": "https://open.spotify.com/track/6eouganAuUNrIGEFsiEVkQ"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "\u5982\u679c\u6bcf\u5929\u90fd\u53ef\u4ee5 happy happy \u8ab0\u60f3\u8981sad:\uff0a- \u5408\u4f5c\u7684\u79d8\u5bc6",
+        "url": "https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5afa\u975c",
+          "url": "https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB"
+        }
+      ],
+      "duration_ms": 152751,
+      "name": "\u5438\u5875\u5668 \u7dad\u4ed6\u547d (beat by Flowstrong)",
+      "url": "https://open.spotify.com/track/6tstuyTHbctierl7WDl4Lc"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "\u4e94\u6bd2",
+        "url": "https://open.spotify.com/album/5KF16ru73xkdfIXirt9pxE"
+      },
+      "artists": [
+        {
+          "name": "FTK",
+          "url": "https://open.spotify.com/artist/12RXaZpOaCVZJ6CdyqbqXz"
+        }
+      ],
+      "duration_ms": 253793,
+      "name": "\u4e94\u6bd2",
+      "url": "https://open.spotify.com/track/5dUVYSA5fMz0z0VJ5OYbuF"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "Ctrl+Z",
+        "url": "https://open.spotify.com/album/63qLX0ZafYEXOHIEFDmDt6"
+      },
+      "artists": [
+        {
+          "name": "Plutato",
+          "url": "https://open.spotify.com/artist/3A3zuAop7uM5dY6Vs41dsR"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Palette - \u99ac\u9234\u85af\u5927\u5175",
+      "url": "https://open.spotify.com/track/1fyRhFgIqEwjueBNWoaAgE"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "Qrasun \u683c\u62c9\u5b6b",
+        "url": "https://open.spotify.com/album/7n5Q7GHaN66fcnfl6cFp2N"
+      },
+      "artists": [
+        {
+          "name": "Kumu Basaw \u59d1\u6155\u00b7\u5df4\u7d39",
+          "url": "https://open.spotify.com/artist/1AJCereA3JUP2yOzSvrlk9"
+        },
+        {
+          "name": "Ray Lin",
+          "url": "https://open.spotify.com/artist/36ddcDgOAF7WCbqoaUbhBr"
+        }
+      ],
+      "duration_ms": 292840,
+      "name": "Qrasun \u8b9a\u7f8e",
+      "url": "https://open.spotify.com/track/7fsW7MXSbrx6xTW2Gf7xYV"
+    },
+    {
+      "added_at": "2025-09-19 09:35:47",
+      "album": {
+        "name": "Dance on the Shoreline",
+        "url": "https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcCY",
+          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
+        },
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 241453,
+      "name": "Nothing ever stops me",
+      "url": "https://open.spotify.com/track/5q51RJauUWosTdl6XMrQR2"
+    },
     {
       "added_at": "2025-09-19 09:35:47",
       "album": {
@@ -55,54 +255,6 @@
       "duration_ms": 263226,
       "name": "Dead Talents Society - \u96fb\u5f71\u300a\u9b3c\u624d\u4e4b\u9053\u300b\u82f1\u6587\u7248\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/69z26h3BwWQ6JPAJSDOxBy"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/5vuSKJEhs5QoCReyJiZSAM"
-      },
-      "artists": [
-        {
-          "name": "\u8c93\u81bd\u6c41",
-          "url": "https://open.spotify.com/artist/3jB1rrv3m8Uass8V0WBjX4"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "\u5931\u671b",
-      "url": "https://open.spotify.com/track/0d4ZiKb6fJK1iiNtqKjQyB"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
-        "name": "\u842c\u4e8b\u7f8e\u5999",
-        "url": "https://open.spotify.com/album/7ocRdAq1K2hwU8PUS9YuQ3"
-      },
-      "artists": [
-        {
-          "name": "\u767e\u5408\u82b1",
-          "url": "https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "\u842c\u4e8b\u7f8e\u5999",
-      "url": "https://open.spotify.com/track/6AgeupImOGlJ1oczkGQVvz"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
-        "name": "\u4f60\u5728\u6ce8\u8996\u90a3\u9059\u9060\u7684\u5730\u65b9",
-        "url": "https://open.spotify.com/album/2LWGzvOfY8L1QVDbHpWJhU"
-      },
-      "artists": [
-        {
-          "name": "\u7576\u4ee3\u96fb\u5f71\u5927\u5e2b",
-          "url": "https://open.spotify.com/artist/1Zho9gJQQCYaLYKkmWp337"
-        }
-      ],
-      "duration_ms": 149594,
-      "name": "\u6211\u5e0c\u671b\u4f60\u7684\u773c\u775b",
-      "url": "https://open.spotify.com/track/63WN3blJDkCjr6Q6kyCa9d"
     },
     {
       "added_at": "2025-09-19 09:35:47",
@@ -175,22 +327,6 @@
     {
       "added_at": "2025-09-19 09:35:47",
       "album": {
-        "name": "\u4eba\u751f\u641e\u5c1e\u5834",
-        "url": "https://open.spotify.com/album/4yZSNXVkNDKFHrIhQJsJEI"
-      },
-      "artists": [
-        {
-          "name": "\u6c5f\u5b5f\u85b0",
-          "url": "https://open.spotify.com/artist/3APxhHtUm221nsYWpgjGbm"
-        }
-      ],
-      "duration_ms": 309709,
-      "name": "\u5b8c\u798f",
-      "url": "https://open.spotify.com/track/6eouganAuUNrIGEFsiEVkQ"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
         "name": "Rule\u7537Freestyle",
         "url": "https://open.spotify.com/album/0DcCcIEDaVBKsUJhT14SYE"
       },
@@ -231,22 +367,6 @@
       "duration_ms": 264545,
       "name": "Knock'em off",
       "url": "https://open.spotify.com/track/1awaGzezQlC8N4hO5aAohW"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
-        "name": "\u5982\u679c\u6bcf\u5929\u90fd\u53ef\u4ee5 happy happy \u8ab0\u60f3\u8981sad:\uff0a- \u5408\u4f5c\u7684\u79d8\u5bc6",
-        "url": "https://open.spotify.com/album/54y9HZviKYV9sohtlYmBEb"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5afa\u975c",
-          "url": "https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB"
-        }
-      ],
-      "duration_ms": 152751,
-      "name": "\u5438\u5875\u5668 \u7dad\u4ed6\u547d (beat by Flowstrong)",
-      "url": "https://open.spotify.com/track/6tstuyTHbctierl7WDl4Lc"
     },
     {
       "added_at": "2025-09-19 09:35:47",
@@ -299,22 +419,6 @@
       "duration_ms": 190443,
       "name": "RLGL",
       "url": "https://open.spotify.com/track/2eUjYVaMHBemUsLCgMbq7b"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
-        "name": "\u4e94\u6bd2",
-        "url": "https://open.spotify.com/album/5KF16ru73xkdfIXirt9pxE"
-      },
-      "artists": [
-        {
-          "name": "FTK",
-          "url": "https://open.spotify.com/artist/12RXaZpOaCVZJ6CdyqbqXz"
-        }
-      ],
-      "duration_ms": 253793,
-      "name": "\u4e94\u6bd2",
-      "url": "https://open.spotify.com/track/5dUVYSA5fMz0z0VJ5OYbuF"
     },
     {
       "added_at": "2025-09-19 09:35:47",
@@ -435,22 +539,6 @@
     {
       "added_at": "2025-09-19 09:35:47",
       "album": {
-        "name": "Ctrl+Z",
-        "url": "https://open.spotify.com/album/63qLX0ZafYEXOHIEFDmDt6"
-      },
-      "artists": [
-        {
-          "name": "Plutato",
-          "url": "https://open.spotify.com/artist/3A3zuAop7uM5dY6Vs41dsR"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Palette - \u99ac\u9234\u85af\u5927\u5175",
-      "url": "https://open.spotify.com/track/1fyRhFgIqEwjueBNWoaAgE"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
         "name": "The Sea, The Sky, The You and I",
         "url": "https://open.spotify.com/album/5Ca7Wbl1yE5Tsa3nwqmsRe"
       },
@@ -503,26 +591,6 @@
     {
       "added_at": "2025-09-19 09:35:47",
       "album": {
-        "name": "Qrasun \u683c\u62c9\u5b6b",
-        "url": "https://open.spotify.com/album/7n5Q7GHaN66fcnfl6cFp2N"
-      },
-      "artists": [
-        {
-          "name": "Kumu Basaw \u59d1\u6155\u00b7\u5df4\u7d39",
-          "url": "https://open.spotify.com/artist/1AJCereA3JUP2yOzSvrlk9"
-        },
-        {
-          "name": "Ray Lin",
-          "url": "https://open.spotify.com/artist/36ddcDgOAF7WCbqoaUbhBr"
-        }
-      ],
-      "duration_ms": 292840,
-      "name": "Qrasun \u8b9a\u7f8e",
-      "url": "https://open.spotify.com/track/7fsW7MXSbrx6xTW2Gf7xYV"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/4oGXPRLj2m6NookhLc5mvB"
       },
@@ -551,26 +619,6 @@
       "duration_ms": 194010,
       "name": "New notes",
       "url": "https://open.spotify.com/track/4PwO55sEmOZr89pNhCUFuY"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
-        "name": "Dance on the Shoreline",
-        "url": "https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI"
-      },
-      "artists": [
-        {
-          "name": "L\u00dcCY",
-          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
-        },
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 241453,
-      "name": "Nothing ever stops me",
-      "url": "https://open.spotify.com/track/5q51RJauUWosTdl6XMrQR2"
     },
     {
       "added_at": "2025-09-19 09:35:47",
@@ -807,22 +855,6 @@
     {
       "added_at": "2025-09-19 09:35:47",
       "album": {
-        "name": "IS IT ALIVE? (Live at Yuchen Cinema Studio)",
-        "url": "https://open.spotify.com/album/5SjeYFSGtcymNlM7eEy626"
-      },
-      "artists": [
-        {
-          "name": "Robot Swing",
-          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
-        }
-      ],
-      "duration_ms": 237352,
-      "name": "I'm - Live",
-      "url": "https://open.spotify.com/track/3tMbERyzXOZvvMSo0IKATv"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
         "name": "Dance on the Shoreline",
         "url": "https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI"
       },
@@ -887,22 +919,6 @@
       "duration_ms": 206871,
       "name": "\u82ad\u6a02",
       "url": "https://open.spotify.com/track/62nUNsj7Gwv7rG3Ec2TDdS"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
-        "name": "\u7d20\u984f\u7684\u6a23\u5b50",
-        "url": "https://open.spotify.com/album/1qNoXKUFJaFhTdpVrDydl4"
-      },
-      "artists": [
-        {
-          "name": "YILE LIN \u6797\u4ee5\u6a02",
-          "url": "https://open.spotify.com/artist/5Cl6jhwcV4OjIj3TgiegKQ"
-        }
-      ],
-      "duration_ms": 461305,
-      "name": "\u5341\u6708",
-      "url": "https://open.spotify.com/track/03RU9afw0KwpxshebaINAY"
     },
     {
       "added_at": "2025-09-19 09:35:47",
@@ -1055,22 +1071,6 @@
       "duration_ms": 277944,
       "name": "Nina",
       "url": "https://open.spotify.com/track/0daEJMXc3b4ZMTnvtHpuTt"
-    },
-    {
-      "added_at": "2025-09-19 09:35:47",
-      "album": {
-        "name": "LULLABY FOR THR RIVER IN MY BODY",
-        "url": "https://open.spotify.com/album/2U8wE0iBCL3dGXJLLCIJun"
-      },
-      "artists": [
-        {
-          "name": "Elle Shimada",
-          "url": "https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk"
-        }
-      ],
-      "duration_ms": 233467,
-      "name": "ANSWERED PRAYERS",
-      "url": "https://open.spotify.com/track/1tpxe8MzRDQtyvaG2kO64o"
     },
     {
       "added_at": "2025-09-19 09:35:47",

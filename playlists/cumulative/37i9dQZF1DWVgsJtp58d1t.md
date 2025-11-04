@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:6Ip8FS7vWT1uKkJSweANQK">Dave</a> and  <a href="spotify:artist:687cZJR45JO7jhk1LHIbgq">Tems</a>
 
-5,429 songs - 11 day 11 hr 32 min
+5,430 songs - 11 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1800,6 +1800,7 @@
 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2024-01-26 | 2024-03-02 |
 | [Gas Station Love](https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Gas Station Love](https://open.spotify.com/album/6B1jPIaWfQ2UuHXy814c3W) | 4:05 | 2025-09-30 |  |
 | [GAS!](https://open.spotify.com/track/3QsIonKmbe7lollXunUVRZ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [GAS!](https://open.spotify.com/album/5ymTB3P1DqX0fbIHvWeb8F) | 2:28 | 2022-06-17 | 2022-07-10 |
+| [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/track/7hl163jL1Lk22WleccRcQX) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 2:50 | 2025-11-03 |  |
 | [Gator Season](https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Gator Season](https://open.spotify.com/album/5ypYJLK29dHLVKXSB32AIK) | 1:41 | 2022-10-21 | 2022-11-05 |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 | 2025-02-04 |
 | [Geechi](https://open.spotify.com/track/59DWGzmpY4GzoPc9p13YBn) | [Aint Afraid](https://open.spotify.com/artist/1E6I6xhlNmVIgnDGkikmj5) | [Geechi](https://open.spotify.com/album/2cjHCIQlWaHUUgxVMs2nha) | 2:41 | 2023-02-24 | 2023-03-04 |
@@ -4173,7 +4174,7 @@
 | [Shook Up](https://open.spotify.com/track/1lF2SRGtxswe1MZvRRvgTA) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Shook Up](https://open.spotify.com/album/3vfUmX8ynO8GEdo45M5KHN) | 2:36 | 2024-02-23 | 2024-03-23 |
 | [Shoot Up Da Club](https://open.spotify.com/track/7gurLsDeJPCAaiELn0figQ) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Shoot Up Da Club](https://open.spotify.com/album/0UGptZOzAaqsRg7yr3FtTB) | 2:32 | 2024-06-28 | 2024-07-13 |
 | [Shoot Your Shot](https://open.spotify.com/track/4Tq3jQJq8ib51eqMc2nLyP) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Shoot Your Shot](https://open.spotify.com/album/68qd36m2ebLJ3bbCsRMwdQ) | 1:50 | 2025-09-19 | 2025-10-04 |
-| [Shooter](https://open.spotify.com/track/6D3VzAVWIXX1tyeTOM49AX) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz) | [Shooter](https://open.spotify.com/album/625HLZzxa5bepdxvbu4jW4) | 2:22 | 2025-08-29 |  |
+| [Shooter](https://open.spotify.com/track/6D3VzAVWIXX1tyeTOM49AX) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz) | [Shooter](https://open.spotify.com/album/625HLZzxa5bepdxvbu4jW4) | 2:22 | 2025-08-29 | 2025-11-04 |
 | [Shooting Star \(feat\. Oxlade\)](https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [It'll All Make Sense Later](https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje) | 3:14 | 2024-11-22 | 2024-12-05 |
 | [Shordie \(with Gunna\)](https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:56 | 2022-10-07 | 2022-10-29 |
 | [Short Skirt](https://open.spotify.com/track/2USaqXUoDiGYjnzwJWKr2D) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Short Skirt \(Original and Sped Up\)](https://open.spotify.com/album/1DcgosAH0rzrP1ZfT9FN9T) | 2:26 | 2023-03-17 | 2023-04-09 |

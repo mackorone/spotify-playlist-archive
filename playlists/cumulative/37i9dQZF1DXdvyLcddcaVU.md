@@ -4,7 +4,7 @@
 
 > \#fyp
 
-922 songs - 1 day 23 hr 57 min
+923 songs - 1 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Mok ya mok](https://open.spotify.com/track/5JobkufjKtdGgCASCaOGCP) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/0glB4KAxl5lStonhyTUi1g) | 2:38 | 2025-04-04 | 2025-05-23 |
 | [Mon amour](https://open.spotify.com/track/42XnVHCsJT8xHVu0fC8adI) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Mon amour](https://open.spotify.com/album/5SyFoS8I8D4pBa2O7ehCuD) | 2:40 | 2025-10-17 |  |
 | [Mon amour ma musique](https://open.spotify.com/track/5oJ5rv309wJwMACGVD7MuN) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [HAYATI \(Episode 1 : Du sable et du sang\)](https://open.spotify.com/album/5DSAu517doRjS2AxNPfDSd) | 2:57 | 2025-07-18 |  |
+| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-11-04 |  |
 | [Mon Everest \(feat\. Marina Kaye\)](https://open.spotify.com/track/2MYrLPQkD8XcOiDKlscgHR) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [L'Everest \(Deluxe Edition\)](https://open.spotify.com/album/7sNP8kJJr8Ji1wc4eA9HHr) | 4:28 | 2024-04-12 | 2024-05-18 |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-04-14 | 2023-11-11 |
 | [Mon nom](https://open.spotify.com/track/4QXSEtCKAE2hRihENl3Q3N) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/0VrwXgh4GqaIV7XAuMdXDh) | 4:11 | 2025-03-14 | 2025-04-26 |
@@ -624,7 +625,7 @@
 | [Nous 2](https://open.spotify.com/track/5dDM8DvzyErdeKIsVcKI7d) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Glish](https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln) | 3:00 | 2023-06-09 | 2023-12-14 |
 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-09-26 |  |
 | [Nti nti mon amour](https://open.spotify.com/track/3DPTEGIrjiTTEDSB6Rju2I) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Nti nti mon amour](https://open.spotify.com/album/7z5d1Q43sf3kcwnvc3VViq) | 4:51 | 2024-07-19 | 2024-08-17 |
-| [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 4:03 | 2025-05-29 |  |
+| [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 4:03 | 2025-05-29 | 2025-11-04 |
 | [N°1](https://open.spotify.com/track/4MO9FQjvq19aQYHzwPS0EK) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [N°1](https://open.spotify.com/album/3vo1DGBT0rnIMoEmlzy1jq) | 1:01 | 2025-03-14 | 2025-04-11 |
 | [obligé](https://open.spotify.com/track/72CwufbasYHuLPmK4Sc8Fb) | [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [obligé](https://open.spotify.com/album/3OfclnCE5699252hpAuVWt) | 3:04 | 2023-09-22 | 2023-11-11 |
 | [OCCUPÉ](https://open.spotify.com/track/3hTmafgikfeMjyK8wT0ouq) | [JIMB0](https://open.spotify.com/artist/3upnuqxkk8p1HUcCmzsy0f), [TimalZed](https://open.spotify.com/artist/2ovfY6qLSO2GPeIC534vNK) | [OCCUPÉ](https://open.spotify.com/album/2iJUkmf3dzaj78SJdmkB2m) | 3:06 | 2025-09-11 |  |

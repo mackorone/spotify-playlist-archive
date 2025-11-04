@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "Unzensiert",
+        "url": "https://open.spotify.com/album/2e8rOyMcK9LsUwZp6Wt5W0"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        },
+        {
+          "name": "Bazzazian",
+          "url": "https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222767,
+      "name": "069",
+      "url": "https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b"
+    },
+    {
+      "album": {
         "name": "1 AM",
         "url": "https://open.spotify.com/album/0ebGXft8hjxmul9DxLK4bJ"
       },
@@ -436,6 +458,24 @@
       "duration_ms": 145906,
       "name": "1999 Pt. 6 (Gabriel vs. Luzifer)",
       "url": "https://open.spotify.com/track/7eksUI2XbDxcT1CHSXDyPb"
+    },
+    {
+      "album": {
+        "name": "Russisch Roulette (Deluxe)",
+        "url": "https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc"
+      },
+      "artists": [
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154746,
+      "name": "1999 Pt. III",
+      "url": "https://open.spotify.com/track/0VOoFMLU692oDIDlMxSOH9"
     },
     {
       "album": {
@@ -13715,7 +13755,7 @@
       "artists": [
         {
           "name": "Nikbinler",
-          "url": "https://open.spotify.com/artist/1jd75hi1uo8CqDnDtVJcnz"
+          "url": "https://open.spotify.com/artist/1m7sjyFkalMYQt4frXljEl"
         }
       ],
       "date_added": "2025-10-21",
@@ -39362,7 +39402,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 127626,
       "name": "Spooky, Scary Skeletons",
       "url": "https://open.spotify.com/track/23V08GxMeaZNSf8Gy6KF6t"
@@ -41862,7 +41902,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 84560,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41"
@@ -42688,7 +42728,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -42706,7 +42746,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -44234,6 +44274,24 @@
       "duration_ms": 184633,
       "name": "Us Vs. Them",
       "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
+    },
+    {
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124608,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi"
     },
     {
       "album": {
@@ -47520,7 +47578,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 169974,
       "name": "Writing's On The Wall",
       "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"

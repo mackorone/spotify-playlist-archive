@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Firestone",
+        "url": "https://open.spotify.com/album/4TaWdHYdwbHPb7kaHK8zjL"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183903,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/698sDDemmuKfYlRTzE1isu"
+    },
+    {
+      "album": {
         "name": "Fly Like Me",
         "url": "https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb"
       },

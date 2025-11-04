@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(26/10/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(02/11/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-206 songs - 10 hr 16 min
+207 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-29 | 2024-06-10 |
 | [Grup de Pop](https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Grup de Pop](https://open.spotify.com/album/7cozVZjZdH5MZFwlOWcLVn) | 2:22 | 2024-03-10 | 2024-07-22 |
 | [Guapíssima](https://open.spotify.com/track/6yXfa5OsSJc1Tp0drOmEKE) | [Banda Neon](https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU) | [Guapíssima](https://open.spotify.com/album/3u0gveddvcgOqAucrloaGz) | 2:07 | 2025-10-07 |  |
+| [Ha valgut la pena \- amb Nil Moliner](https://open.spotify.com/track/093gvGScy3E1GpnwDdsX4y) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Ha valgut la pena \(amb Nil Moliner\)](https://open.spotify.com/album/7mkTGGVrazHhpBaDg2Ijiv) | 2:21 | 2025-11-03 |  |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-29 | 2024-03-25 |
 | [HEM VINGUT A JUGAR](https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR) | [HEM VINGUT A JUGAR](https://open.spotify.com/album/53qkR8B31cDvVdKbKWldOa) | 2:31 | 2025-01-12 | 2025-06-03 |
 | [HERE TO STAY](https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf) | [Sofia Coll](https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd) | [HERE TO STAY](https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG) | 2:38 | 2024-02-05 | 2024-07-15 |
@@ -124,7 +125,7 @@
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-07-14 |  |
 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 | 2025-02-02 | 2025-03-25 |
 | [Menys mal que ja és Nadal](https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Menys mal que ja és Nadal](https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf) | 2:39 | 2024-12-15 | 2025-01-13 |
-| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-19 |  |
+| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-19 | 2025-11-04 |
 | [Millor amb ell](https://open.spotify.com/track/6xHpkXcQ4hvWdtl2qs4Unk) | [La Ludwig Band](https://open.spotify.com/artist/1hOwyBjBzD71G76KApDEy5) | [Millor amb ell](https://open.spotify.com/album/3Fy0E5mS1F4FFfRcJyRCCI) | 3:31 | 2025-07-14 | 2025-10-28 |
 | [MOJA1TA](https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MOJA1TA](https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D) | 2:24 | 2025-07-14 |  |
 | [MOLTA TRALLA](https://open.spotify.com/track/3WqsYnIplEVhnsPp9oUnIf) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 2:52 | 2025-08-18 |  |

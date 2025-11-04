@@ -7727,6 +7727,24 @@
     },
     {
       "album": {
+        "name": "lucky 777",
+        "url": "https://open.spotify.com/album/4yQO2awKYEX7cMd4AbGcXY"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136150,
+      "name": "lucky 777",
+      "url": "https://open.spotify.com/track/2PItx8ylP9oGrcoQMhPA3r"
+    },
+    {
+      "album": {
         "name": "Lucky Ones",
         "url": "https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD"
       },

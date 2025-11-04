@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,410 songs - 12 day 14 hr 16 min
+5,411 songs - 12 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1536,6 +1536,7 @@
 | [Fast Food \(Take U 2 Go\)](https://open.spotify.com/track/1ke59FZ7SOSN15rcp7lqQ9) | [KaySuave](https://open.spotify.com/artist/2lrN59KG4FPyQr9mlL32N5), [SH!VA](https://open.spotify.com/artist/7ft0P4RdV6Gsapc5bHqsve) | [Fast Food \(Take U 2 Go\)](https://open.spotify.com/album/0lcNtgzrMTKdHehw4GzyxA) | 2:22 | 2023-02-24 | 2023-03-20 |
 | [Fast Lane](https://open.spotify.com/track/662RJGU3YRa5rSEpf1Iuix) | [Janet Noh](https://open.spotify.com/artist/3bwwa79m35YZPaA7TLMSSI) | [Fast Lane](https://open.spotify.com/album/5HKduQykhXNXXoMZQr8fta) | 3:34 | 2023-06-30 | 2023-07-21 |
 | [Fast Talk](https://open.spotify.com/track/5z0gNlg8OmYnUyt6RtR0jG) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [Fast Talk](https://open.spotify.com/album/3yi8CdAKJ2VHIG9NhxvsyX) | 2:29 | 2024-07-10 | 2024-07-23 |
+| [Fast Talk \- Country Version](https://open.spotify.com/track/5KQoQvGVBFTdN7uHAeuo8Z) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [Fast Talk \(Country Version\)](https://open.spotify.com/album/6yz1potKS8NWwppKpNfiHl) | 2:59 | 2025-11-04 |  |
 | [Fastest Alone](https://open.spotify.com/track/6X5pvJz2oSwMk6JbXBiMBy) | [FORAGER](https://open.spotify.com/artist/0DT51FXXTBgRb2YykneEyb) | [Fastest Alone](https://open.spotify.com/album/59VlLSLopsyTZOGwiodbug) | 3:45 | 2022-06-24 | 2022-07-16 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 | 2023-06-03 | 2023-06-23 |
 | [Father's Voice](https://open.spotify.com/track/5XIJOkQqZo7uv3jGQmRwar) | [Gabby Poli](https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq) | [Father's Voice](https://open.spotify.com/album/5uK2ArHCvJMdU5jEoEHTDG) | 3:48 | 2025-06-27 | 2025-07-20 |
@@ -3727,7 +3728,7 @@
 | [Purple Vibe](https://open.spotify.com/track/3t3i0UrUWY9peqGNv1FC0l) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Purple Vibe](https://open.spotify.com/album/0iix9XgCNDMrYeQ8YLUHoq) | 3:18 | 2023-07-15 | 2023-08-04 |
 | [Push Me Away](https://open.spotify.com/track/4w5hSY2DseUHQDoCVGV5J2) | [EXVCT](https://open.spotify.com/artist/0RTnIEzAVkgAvxAm5XFU9h) | [From The Future To The Garage](https://open.spotify.com/album/7qzw882Ol8ld2jZ3IDC2yd) | 2:41 | 2023-12-15 | 2024-01-02 |
 | [Push Me, Pull Me](https://open.spotify.com/track/707GzgHACQlctRdcmYAZ1T) | [Ric Maye](https://open.spotify.com/artist/0LNTJdJse9NOYEciPtUZTc), [Honey B](https://open.spotify.com/artist/2zezkLZW7zP586llv3aKOV), [Ariana Celaeno](https://open.spotify.com/artist/3Igpr26HgdrjS1nf4ePyPX) | [All Sides Of Me](https://open.spotify.com/album/0fxvj3DAXf6RlL1cOAVmRH) | 2:37 | 2025-05-14 | 2025-05-26 |
-| [Put Your Love On Me](https://open.spotify.com/track/3xtu3O28oPaWWfZ5v2axqD) | [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL), [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb) | [Put Your Love On Me](https://open.spotify.com/album/29wbK2u5YpHM7VampPq5wT) | 3:46 | 2025-11-01 |  |
+| [Put Your Love On Me](https://open.spotify.com/track/3xtu3O28oPaWWfZ5v2axqD) | [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL), [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb) | [Put Your Love On Me](https://open.spotify.com/album/29wbK2u5YpHM7VampPq5wT) | 3:10 | 2025-11-01 |  |
 | [Putrefacto](https://open.spotify.com/track/2Qq8YoPdBt0nWCTqsacgsZ) | [Sandra Tinoco](https://open.spotify.com/artist/1hjO0sl0e7KmFeDPsUAVor) | [Volver a Creer](https://open.spotify.com/album/2Yp0N0nMMCkzKS7zClCZ6L) | 3:43 | 2023-08-25 | 2023-09-26 |
 | [PYH](https://open.spotify.com/track/08Mxl9nMlGv0BF6VIe2doI) | [Ki&T](https://open.spotify.com/artist/5uRDg7PMhFEFaySEqaKt9i) | [PYH](https://open.spotify.com/album/3lsAiKMEo9DRyQM65vCuFC) | 2:15 | 2024-07-10 | 2024-07-23 |
 | [Q Train](https://open.spotify.com/track/0twyfidvPnMY7bWYOPseMF) | [Noa Yassky](https://open.spotify.com/artist/07VvJp5aqHJG9a3PwTHO4x) | [Q Train](https://open.spotify.com/album/2yZyC9mlTaZIDMED7uZyV3) | 3:24 | 2024-03-20 | 2024-05-15 |

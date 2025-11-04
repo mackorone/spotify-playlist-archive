@@ -1,6 +1,6 @@
 {
   "description": "La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! \ud83d\udcaa",
-  "num_followers": 149102,
+  "num_followers": 149099,
   "original_name": "Smart Working",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-10-08 16:22:20",
       "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 207029,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa"
+    },
+    {
+      "added_at": "2024-10-08 16:22:20",
+      "album": {
         "name": "Be Like That (feat. Swae Lee & Khalid)",
         "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 191406,
       "name": "Be Like That - feat. Swae Lee & Khalid",
       "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
-    },
-    {
-      "added_at": "2024-10-08 16:22:20",
-      "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 207029,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa"
     },
     {
       "added_at": "2024-10-08 16:22:20",

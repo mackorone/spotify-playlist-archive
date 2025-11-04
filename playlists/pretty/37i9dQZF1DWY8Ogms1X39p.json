@@ -1,12 +1,12 @@
 {
   "description": "Feel good songs yang bikin kamu happy",
-  "num_followers": 206098,
+  "num_followers": 206094,
   "original_name": "Yang Penting Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABcAz/CssnyyqXadCwf22rh3rPGs",
+  "snapshot_id": "AAAAAEKfghpxUVAFAx1BsszWI14w/YoC",
   "tracks": [
     {
       "added_at": "2025-10-07 03:56:51",
@@ -139,6 +139,26 @@
       "duration_ms": 240952,
       "name": "Adu Bola Mata",
       "url": "https://open.spotify.com/track/7wsle0lIudoJaGDAXfwHjm"
+    },
+    {
+      "added_at": "2025-11-03 03:25:32",
+      "album": {
+        "name": "Blink (feat. TZUYU)",
+        "url": "https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        },
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "duration_ms": 162092,
+      "name": "Blink (feat. TZUYU)",
+      "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
     },
     {
       "added_at": "2025-10-13 05:26:43",

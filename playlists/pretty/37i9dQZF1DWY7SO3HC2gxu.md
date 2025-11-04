@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music across Africa\. Cover: Tina Ardor
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,825 likes - 99 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,832 likes - 99 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 16 | [Tuliza](https://open.spotify.com/track/4wlSzuD1Tp7MGnhv96VMHF) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Jerome Sydor](https://open.spotify.com/artist/2pkf9r1fZ6BBgmoYhbVuFX), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [KAM](https://open.spotify.com/artist/0xpoykRisDEXtoUlqIKwt2) | [Tuliza](https://open.spotify.com/album/1LXdEkvW3d3eVdowMatSLM) | 2:51 |
 | 17 | [Arale Gidam \- Radio Edit](https://open.spotify.com/track/3JRUsfzNmUJ781cA2OCTFh) | [Mack Lean](https://open.spotify.com/artist/33KM8BnPAs7uCf51ugj2sZ), [Shammalee](https://open.spotify.com/artist/0YW1YZUJNiGAZLtJ5ytDG2), [Braines](https://open.spotify.com/artist/0hHuep1ggkKFFBIB2AP5AO) | [Arale Gidam](https://open.spotify.com/album/1qHbh2r8S8eHq9bESJcqNZ) | 3:48 |
 | 18 | [Mbali \- Radio Edit](https://open.spotify.com/track/6H7Idb6FZCqTTAUIPJcRwE) | [Tomi H](https://open.spotify.com/artist/1xzTJmuMg2QSiLjieCtYH8), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Mbali](https://open.spotify.com/album/3XXFxvRyB0YJI4sAKwLrhM) | 4:00 |
-| 19 | [Higher Love \- The Ironix Remix](https://open.spotify.com/track/5ctQeEYwRRbQt6Cx7CmWhe) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Higher Love \(Remixes\)](https://open.spotify.com/album/4KaE3pKABWEVZokWD0PVen) | 3:13 |
+| 19 | [Higher Love \- The Ironix Remix](https://open.spotify.com/track/5ctQeEYwRRbQt6Cx7CmWhe) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Higher Love \(Remixes\)](https://open.spotify.com/album/4KaE3pKABWEVZokWD0PVen) | 2:10 |
 | 20 | [Maithori](https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Maithori](https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9) | 3:02 |
 | 21 | [All Around Me](https://open.spotify.com/track/7xNFU5TAW1RYwAooRGP7Nu) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE), [OKCHUKU](https://open.spotify.com/artist/0XKkD1K7J5NvwgrEJPppVk) | [All Around Me](https://open.spotify.com/album/3ucbZvoWqIlBGFOJluv7Ti) | 7:55 |
 | 22 | [Canto](https://open.spotify.com/track/46a4Q7RoRXwfUm7ee4Rh6F) | [Dual Beat](https://open.spotify.com/artist/0MPPw4tjpM25hY0X5aGktZ), [Kieloh](https://open.spotify.com/artist/33dffHQPA91Q0T0lkyG781), [Tito Monako](https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE) | [Canto](https://open.spotify.com/album/4Pt9pz83V9giJ5K0qn0EkY) | 3:40 |

@@ -1,6 +1,6 @@
 {
   "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-  "num_followers": 79216,
+  "num_followers": 79261,
   "original_name": "Sora Ambient",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-10-24 05:34:19",
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2025-10-24 05:34:19",
+      "album": {
         "name": "Radio Yugawara",
         "url": "https://open.spotify.com/album/0aw2GEaPdhYF3J5GUAwZXU"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 213000,
       "name": "Strange Clouds",
       "url": "https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5"
-    },
-    {
-      "added_at": "2025-10-24 05:34:19",
-      "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "added_at": "2025-10-24 05:34:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-10-24 05:34:19",
       "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 523556,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS"
-    },
-    {
-      "added_at": "2025-10-24 05:34:19",
-      "album": {
         "name": "Delay Music",
         "url": "https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 112059,
       "name": "Melting Ice",
       "url": "https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5"
+    },
+    {
+      "added_at": "2025-10-24 05:34:19",
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 523556,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS"
     },
     {
       "added_at": "2025-10-24 05:34:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-24 05:34:19",
       "album": {
-        "name": "Once Was Ours Forever",
-        "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Bright Belief",
-      "url": "https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru"
-    },
-    {
-      "added_at": "2025-10-24 05:34:19",
-      "album": {
         "name": "[lust]",
         "url": "https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 67600,
       "name": "long time",
       "url": "https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q"
+    },
+    {
+      "added_at": "2025-10-24 05:34:19",
+      "album": {
+        "name": "Once Was Ours Forever",
+        "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Bright Belief",
+      "url": "https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru"
     },
     {
       "added_at": "2025-10-24 05:34:19",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-10-24 05:34:19",
       "album": {
-        "name": "Once Was Ours Forever",
-        "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Blue Dragonfly",
-      "url": "https://open.spotify.com/track/2HoDCdsBee9WffbDrfhNyG"
-    },
-    {
-      "added_at": "2025-10-24 05:34:19",
-      "album": {
         "name": "Sin",
         "url": "https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 121146,
       "name": "Nord",
       "url": "https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F"
+    },
+    {
+      "added_at": "2025-10-24 05:34:19",
+      "album": {
+        "name": "Once Was Ours Forever",
+        "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Blue Dragonfly",
+      "url": "https://open.spotify.com/track/2HoDCdsBee9WffbDrfhNyG"
     },
     {
       "added_at": "2025-10-24 05:34:19",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-10-24 05:34:19",
       "album": {
+        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
+      },
+      "artists": [
+        {
+          "name": "Yasunori Mitsuda",
+          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "\u6642\u306e\u56de\u5eca",
+      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
+    },
+    {
+      "added_at": "2025-10-24 05:34:19",
+      "album": {
         "name": "NONAGE",
         "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2025-10-24 05:34:19",
       "album": {
-        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
+        "name": "#3 / Rhubarb Orc. 19.53 Rev",
+        "url": "https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc"
       },
       "artists": [
         {
-          "name": "Yasunori Mitsuda",
-          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 183266,
-      "name": "\u6642\u306e\u56de\u5eca",
-      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
+      "duration_ms": 401911,
+      "name": "Rhubarb Orc. 19.53 Rev",
+      "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
     },
     {
       "added_at": "2025-10-24 05:34:19",
@@ -1707,22 +1723,6 @@
       "duration_ms": 239967,
       "name": "All These Worlds, Pt. II",
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
-    },
-    {
-      "added_at": "2025-10-24 05:34:19",
-      "album": {
-        "name": "#3 / Rhubarb Orc. 19.53 Rev",
-        "url": "https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 401911,
-      "name": "Rhubarb Orc. 19.53 Rev",
-      "url": "https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13"
     }
   ],
   "unique_name": "Sora Ambient",

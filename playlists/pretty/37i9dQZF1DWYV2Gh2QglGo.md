@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,403 likes - 103 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,404 likes - 103 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 212082,
+  "num_followers": 212086,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,30 @@
     {
       "added_at": "2025-10-24 05:38:14",
       "album": {
+        "name": "Gen",
+        "url": "https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Eden (feat. Cordae, DJ Jazzy Jeff)",
+      "url": "https://open.spotify.com/track/2ICVrUIyL20gOkhbx6umcB"
+    },
+    {
+      "added_at": "2025-10-24 05:38:14",
+      "album": {
         "name": "Die For This",
         "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
       },
@@ -1039,30 +1063,6 @@
     {
       "added_at": "2025-10-24 05:38:14",
       "album": {
-        "name": "Gen",
-        "url": "https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "DJ Jazzy Jeff",
-          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Eden (feat. Cordae, DJ Jazzy Jeff)",
-      "url": "https://open.spotify.com/track/2ICVrUIyL20gOkhbx6umcB"
-    },
-    {
-      "added_at": "2025-10-24 05:38:14",
-      "album": {
         "name": "Enchant\u00e9",
         "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 162600,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
-    },
-    {
-      "added_at": "2025-10-24 05:38:14",
-      "album": {
-        "name": "born to love you",
-        "url": "https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "SAYAK DAS",
-          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
-        }
-      ],
-      "duration_ms": 218357,
-      "name": "born to love you",
-      "url": "https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p"
     },
     {
       "added_at": "2025-10-24 05:38:14",
@@ -1115,6 +1095,26 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
+    {
+      "added_at": "2025-10-24 05:38:14",
+      "album": {
+        "name": "born to love you",
+        "url": "https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
+        }
+      ],
+      "duration_ms": 218357,
+      "name": "born to love you",
+      "url": "https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p"
     }
   ],
   "unique_name": "aloe",

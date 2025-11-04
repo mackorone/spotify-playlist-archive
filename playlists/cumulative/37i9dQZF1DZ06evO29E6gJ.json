@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "30 \u00c9xitos los Alegres de Teran, CD 2",
+        "url": "https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143640,
+      "name": "Ingratos Ojos",
+      "url": "https://open.spotify.com/track/383ldr2Zsze2jVNGdXwIyS"
+    },
+    {
+      "album": {
         "name": "24 Kilates Norte\u00f1os",
         "url": "https://open.spotify.com/album/0vHDc1Dn4QCowqtjpipaGK"
       },
@@ -762,7 +780,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 140640,
       "name": "Ingratos Ojos Mios",
       "url": "https://open.spotify.com/track/0Kn2S21O1cMfiDx2T6VZba"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain]
 
 > Pub &amp; karaoke drinking classics from 70s, 80s, 90s, 00s, 10s &amp; beyond \- right through to closing time in the local.
 
-[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 49,034 likes - 116 songs - 8 hr 5 min
+[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 49,037 likes - 116 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain]
 | 39 | [Drops of Jupiter](https://open.spotify.com/track/4NG6ezO2ApTR3dfQucNDqD) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/4zO0JaK3OvHTdFm2pPEdqF) | 4:19 |
 | 40 | [Crazy World](https://open.spotify.com/track/3wHxmJpIBCzC2Ot6Twmjxp) | [Aslan](https://open.spotify.com/artist/3SJs91yrpmtjw2b19iIQMA) | [Irish Pub Jukebox](https://open.spotify.com/album/0fNtnnqieFGC3sAP00pq8v) | 4:32 |
 | 41 | [Dancing in the Moonlight](https://open.spotify.com/track/2oDIQJdfIbTbPZev1OKtRT) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Alternative Love](https://open.spotify.com/album/1nLpcCjTwCfByXQI2LeWJK) | 3:47 |
-| 42 | [Your Love](https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:36 |
+| 42 | [Your Love](https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:43 |
 | 43 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 |
 | 44 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 |
 | 45 | [Runaway Train \(2022 Remaster\)](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union \(2022 Remaster\)](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:26 |

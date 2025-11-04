@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: The Motans
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,566 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,573 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cămașa](https://open.spotify.com/track/0vabm7nnXssXJehhwT4rzW) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Cămașa](https://open.spotify.com/album/6CfrIhvwy7mTL18pXJSHqF) | 2:34 |
+| 1 | [Cămașa](https://open.spotify.com/track/0vabm7nnXssXJehhwT4rzW) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Cămașa](https://open.spotify.com/album/6CfrIhvwy7mTL18pXJSHqF) | 2:33 |
 | 2 | [7 zile](https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [7 zile](https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE) | 2:38 |
 | 3 | [Ti\-amintesc de Cineva](https://open.spotify.com/track/0lHWFezHugWATHEX0B5VRQ) | [Klaudia](https://open.spotify.com/artist/5wcAymSIbNcOaEBgxDZnxq), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Ti\-amintesc de Cineva](https://open.spotify.com/album/68ZFu2NbB7aO1dQTdBSGmy) | 3:10 |
 | 4 | [Pe pământ](https://open.spotify.com/track/3AkZgnB0MbEU2AR2clX4Na) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Pe pământ](https://open.spotify.com/album/1tFybnLIxi3vByK36lpLX9) | 3:13 |

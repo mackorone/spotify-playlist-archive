@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-622 songs - 1 day 13 hr 46 min
+623 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,7 +604,7 @@
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU) | 3:42 | 2025-01-17 | 2025-03-24 |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-05-03 | 2024-12-14 |
 | [Willow Rose](https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Willow Rose](https://open.spotify.com/album/02Y72ZbMHc1vWpksK0BUQH) | 3:52 | 2024-05-31 | 2024-07-23 |
-| [Winchester Mansion of Sound](https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Winchester Mansion of Sound](https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu) | 4:48 | 2025-08-14 |  |
+| [Winchester Mansion of Sound](https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Winchester Mansion of Sound](https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu) | 4:48 | 2025-08-14 | 2025-11-04 |
 | [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 | 2023-07-08 |
 | [Windy City](https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Westward \(Deluxe\)](https://open.spotify.com/album/3DOexZdh22jhg9XeLHLG4l) | 2:30 | 2025-10-24 |  |
 | [Wishbone](https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Wishbone](https://open.spotify.com/album/5IOSRV5r2C8y46A5gnKJPn) | 3:04 | 2025-09-05 |  |
@@ -629,6 +629,7 @@
 | [Young \- Spotify Singles](https://open.spotify.com/track/764lmcFd4PTTZtxcksPLDR) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:49 | 2023-09-29 | 2024-07-15 |
 | [Young at Heart](https://open.spotify.com/track/2SL5zG9aPwXVLN97YQl3pH) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Young at Heart](https://open.spotify.com/album/2owx5fxhJfK0ObNtz6sCpa) | 3:46 | 2023-07-21 | 2023-08-09 |
 | [Young Still](https://open.spotify.com/track/4osWD1UC4dDl204Dsl9O2c) | [Marshall Veroni](https://open.spotify.com/artist/3RsHm43VTxgLUVoo5QNSSI) | [Young Still](https://open.spotify.com/album/4CN0TYA9ODKPRTD9OyBEwi) | 5:56 | 2023-11-24 | 2024-04-06 |
+| [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 | 2025-11-03 |  |
 | [You’re Betting on a Losing Horse](https://open.spotify.com/track/72KkKffDyvx4AS6JCd3iWA) | [Old Kid](https://open.spotify.com/artist/64LbKzR0j5NrYkWNMSrAdO) | [You’re Betting on a Losing Horse](https://open.spotify.com/album/3ZasaDi3yQE1Y0xll9465N) | 2:38 | 2022-05-13 | 2022-05-28 |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

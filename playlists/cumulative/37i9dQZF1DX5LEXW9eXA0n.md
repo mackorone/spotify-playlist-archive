@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:  SUHO\(수호\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,594 songs - 4 day 7 hr 29 min
+1,595 songs - 4 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1184,6 +1184,7 @@
 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-23 | 2022-07-05 |
 | [Stay](https://open.spotify.com/track/2OZe3pjwHDXQmH2NKPnEa1) | [MIGYO](https://open.spotify.com/artist/6MMlmK7TkMzkyMfWXoIkFS) | [STAY](https://open.spotify.com/album/4Trq0y85JqraCEqDxAcvYs) | 4:00 | 2023-01-20 | 2023-03-28 |
 | [Stay](https://open.spotify.com/track/3MyKAA6J1bkyeFig45sPmk) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Jirisan \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/22bajKywj9pBWoiYFayx64) | 3:40 | 2022-01-17 | 2022-07-07 |
+| [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-03 |  |
 | [Stay Still](https://open.spotify.com/track/6LRCAvUYnKJlUqvohbyufh) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [Stay Still](https://open.spotify.com/album/0ZZVwLn0DKyz0UOPF3nVJ6) | 3:46 | 2023-03-08 | 2023-06-23 |
 | [Stay there](https://open.spotify.com/track/5IndKDof7V94eb33af1WlF) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Stay there](https://open.spotify.com/album/6wS7aYn81YsL0bdpscugBo) | 3:23 | 2023-01-20 | 2023-02-15 |
 | [Stay with Me](https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ) | 3:55 | 2025-09-01 |  |

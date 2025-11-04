@@ -9129,6 +9129,36 @@
     },
     {
       "album": {
+        "name": "I Believe My Heart",
+        "url": "https://open.spotify.com/album/5nJbWXyE24PJG7fW5jIUnU"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "David Zippel",
+          "url": "https://open.spotify.com/artist/5yLnFIratHuJQd9rp0SGYm"
+        },
+        {
+          "name": "Duncan James",
+          "url": "https://open.spotify.com/artist/2m0JoCqbe2cnauFT4hEUfR"
+        },
+        {
+          "name": "Keedie",
+          "url": "https://open.spotify.com/artist/00wHLvsqygwGUgNg3EMtDO"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "I Believe My Heart",
+      "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"
+    },
+    {
+      "album": {
         "name": "The Woman In White",
         "url": "https://open.spotify.com/album/6eAfNFr3V29NoAVoH4cNT9"
       },
@@ -14162,7 +14192,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 274266,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo"

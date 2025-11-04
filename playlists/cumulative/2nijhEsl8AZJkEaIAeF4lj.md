@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-347 songs - 22 hr 19 min
+348 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Close To You](https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:43 | 2021-03-24 |  |
 | [Coldest Winter](https://open.spotify.com/track/2RRFTLIglxHgAYQzsSLI4Y) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 2:44 | 2024-11-29 |  |
 | [Coming Down](https://open.spotify.com/track/3PsS445MHcmtroGTstfTbm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:55 | 2020-12-17 |  |
+| [Dagenham Dream](https://open.spotify.com/track/7wA6K5a70ApY3Ypgqg4Gbz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 2:45 | 2025-11-03 |  |
 | [Dancing In The Flames \- Acoustic](https://open.spotify.com/track/34nSJrquH2c8LNbfnRffMF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/0MwPArEeQJx5GMc5Sz7kRV) | 3:28 | 2024-09-16 |  |
 | [Dandelion](https://open.spotify.com/track/1knfySfobuggo1Ekpc4KSf) | [JonKaGor](https://open.spotify.com/artist/1OydE4qgOTPGtwFyTI5u9E) | [Paper Alibis](https://open.spotify.com/album/1MeQPHCNkQoCrPCRnM4hzJ) | 5:20 | 2020-09-02 |  |
 | [Dandelion](https://open.spotify.com/track/03uJ32wSbxzd1SLvZDHJZ2) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Paper Alibis](https://open.spotify.com/album/5q9JKSnjSiY2kVLdC7LuHS) | 5:20 | 2020-11-24 |  |

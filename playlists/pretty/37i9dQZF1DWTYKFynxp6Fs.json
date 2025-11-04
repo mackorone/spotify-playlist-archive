@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Lokah",
-  "num_followers": 559947,
+  "num_followers": 560429,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT",
+  "snapshot_id": "AAAAAKXgw7tMs3PcuIvWjGBWMJ72AGlx",
   "tracks": [
     {
       "added_at": "2025-10-06 04:58:08",
@@ -111,6 +111,30 @@
       "duration_ms": 177376,
       "name": "Kaadhal Ponmaan (From \"Nellikkampoyil Night Riders\")",
       "url": "https://open.spotify.com/track/21s7NBfZO6vg7YpBipRvfT"
+    },
+    {
+      "added_at": "2025-11-03 07:16:06",
+      "album": {
+        "name": "Welcome To Mollywood (From \"Maine Pyar Kiya\")",
+        "url": "https://open.spotify.com/album/7atchxnQNRiJNxryRhKmPp"
+      },
+      "artists": [
+        {
+          "name": "Rish NK",
+          "url": "https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5"
+        },
+        {
+          "name": "electronic kili",
+          "url": "https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 208128,
+      "name": "Welcome To Mollywood (From \"Maine Pyar Kiya\")",
+      "url": "https://open.spotify.com/track/4fEommZNa1Xxv4R4VTyTGP"
     },
     {
       "added_at": "2025-08-25 07:32:15",
@@ -487,22 +511,6 @@
       "duration_ms": 147750,
       "name": "MAUNA LOA",
       "url": "https://open.spotify.com/track/7gqmoEWBvt6srOCDgTMEHM"
-    },
-    {
-      "added_at": "2025-09-02 05:50:49",
-      "album": {
-        "name": "illaathath",
-        "url": "https://open.spotify.com/album/3TXnjQbQO1aoFgCJaUsdZy"
-      },
-      "artists": [
-        {
-          "name": "Haniya Nafisa",
-          "url": "https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "illaathath",
-      "url": "https://open.spotify.com/track/6JwLV8XjJg2tXawz8owSwn"
     },
     {
       "added_at": "2025-07-14 08:44:00",

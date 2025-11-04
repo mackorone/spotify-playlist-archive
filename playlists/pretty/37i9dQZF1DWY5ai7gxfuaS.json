@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 320016,
+  "num_followers": 320022,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "70% Dead",
-        "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 222145,
-      "name": "70% Dead (with Corey Taylor)",
-      "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "70% Dead",
+        "url": "https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 222145,
+      "name": "70% Dead (with Corey Taylor)",
+      "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "new way out",
         "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "crying",
+        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "crying",
+      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Learn To Forget",
         "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
       },
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "crying",
-        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
       "artists": [
         {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
         }
       ],
-      "duration_ms": 187234,
-      "name": "crying",
-      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
+      "duration_ms": 215680,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Product Of My Love",
-        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
       },
       "artists": [
         {
-          "name": "Druidess",
-          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
-      "duration_ms": 228000,
-      "name": "The Sniffing Accountant",
-      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -647,6 +631,22 @@
       "duration_ms": 172067,
       "name": "FLATLINE",
       "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "The Product Of My Love",
+        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
+      },
+      "artists": [
+        {
+          "name": "Druidess",
+          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Sniffing Accountant",
+      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Kings Today",
         "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 235954,
       "name": "Kings Today",
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "DODGE A BULLET",
-        "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
-      },
-      "artists": [
-        {
-          "name": "Philip Solo",
-          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
-        },
-        {
-          "name": "ONI INC.",
-          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
-        }
-      ],
-      "duration_ms": 166504,
-      "name": "DODGE A BULLET",
-      "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 297381,
       "name": "Bleed Like You - Merzbow Version",
       "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "DODGE A BULLET",
+        "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
+      },
+      "artists": [
+        {
+          "name": "Philip Solo",
+          "url": "https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI"
+        },
+        {
+          "name": "ONI INC.",
+          "url": "https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4"
+        }
+      ],
+      "duration_ms": 166504,
+      "name": "DODGE A BULLET",
+      "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
     },
     {
       "added_at": "2024-07-19 10:51:43",

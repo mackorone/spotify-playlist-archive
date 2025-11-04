@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 114295,
+  "num_followers": 114318,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAAAw9NKRVZxWL12vHcsBBBX0",
+  "snapshot_id": "aQafAAAAAADe8Kv7rGMmt9BswZWvgpyD",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Exitos Con El Shaka",
-        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando El Sol Salga Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 181706,
       "name": "Zapatos Nuevos",
       "url": "https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Anos",
-        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 143229,
-      "name": "Un Mar De Penas",
-      "url": "https://open.spotify.com/track/6k4dy9siLo45PEbLHvOAVN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plaza Nueva",
         "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 218120,
       "name": "Arcoiris",
       "url": "https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Anos",
+        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 143229,
+      "name": "Un Mar De Penas",
+      "url": "https://open.spotify.com/track/6k4dy9siLo45PEbLHvOAVN"
     },
     {
       "added_at": null,

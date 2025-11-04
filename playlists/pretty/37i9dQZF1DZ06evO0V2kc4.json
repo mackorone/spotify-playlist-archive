@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 73082,
+  "num_followers": 73085,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAAB8fhQjN9xiaBQRXGjCiRIz",
+  "snapshot_id": "aQafAAAAAADypHvwW7+OsM9hw8hOzSzd",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina (Remastered 2025)",
-        "url": "https://open.spotify.com/album/5iwq6gZ9HslfxC28djd6uH"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 207730,
-      "name": "Satisfied Mind - Remastered 2025",
-      "url": "https://open.spotify.com/track/2JRNGCFgXJCb0ny9JanCGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come From The Shadows",
         "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 263893,
       "name": "Prison Trilogy (Billy Rose)",
       "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farewell, Angelina (Remastered 2025)",
+        "url": "https://open.spotify.com/album/5iwq6gZ9HslfxC28djd6uH"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 207730,
+      "name": "Satisfied Mind - Remastered 2025",
+      "url": "https://open.spotify.com/track/2JRNGCFgXJCb0ny9JanCGu"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 265954,
+  "num_followers": 265957,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAADbPzgDbGNKbhABwXn9Nwf9",
+  "snapshot_id": "aQafAAAAAACxG2qGun24XhSCkW42C3Dw",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cool Again",
+        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 164668,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cool Again",
-        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 164668,
-      "name": "Cool Again",
-      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
     },
     {
       "added_at": null,

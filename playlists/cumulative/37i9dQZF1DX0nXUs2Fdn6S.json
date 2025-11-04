@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Bazaar",
+        "url": "https://open.spotify.com/album/11xFfqLQzdhuQtFGkopdEb"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Anyasa",
+          "url": "https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363847,
+      "name": "Bazaar",
+      "url": "https://open.spotify.com/track/4hkCTxmPXuFKveumJVcnEW"
+    },
+    {
+      "album": {
         "name": "Vizdumb",
         "url": "https://open.spotify.com/album/0vOQdORQ04T2GAVPfYoj61"
       },

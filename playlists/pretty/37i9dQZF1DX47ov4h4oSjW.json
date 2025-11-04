@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 100194,
+  "num_followers": 100188,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Plum Coulee",
-        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
-      },
-      "artists": [
-        {
-          "name": "Michael Janzen",
-          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Plum Coulee",
-      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Plum Coulee",
+        "url": "https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT"
+      },
+      "artists": [
+        {
+          "name": "Michael Janzen",
+          "url": "https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Plum Coulee",
+      "url": "https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Box of Memories",
+        "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Box of Memories",
+      "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "For\u00eat Profonde",
         "url": "https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA"
       },
@@ -479,38 +495,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Box of Memories",
-        "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Box of Memories",
-      "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "In a Bar in Buenos Aires",
-        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 166900,
-      "name": "In a Bar in Buenos Aires",
-      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Mozart: 6 Sonatas for Piano Duet & Sonata for 2 Pianos, K. 488",
         "url": "https://open.spotify.com/album/7EMQ9izwD1Fnf48NdAxerw"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 606773,
       "name": "Mozart: Sonata for Two Pianos in D Major, K. 448: II. Andante",
       "url": "https://open.spotify.com/track/1sZPu1TAhwrGSSxThC0ZQF"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "In a Bar in Buenos Aires",
+        "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 166900,
+      "name": "In a Bar in Buenos Aires",
+      "url": "https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Beyond The Sun",
-        "url": "https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 224705,
-      "name": "For A Lifetime",
-      "url": "https://open.spotify.com/track/2kLoezsd7CkFEpQ3rMmczk"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Maiestas",
         "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 171452,
       "name": "Maiestas",
       "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Beyond The Sun",
+        "url": "https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 224705,
+      "name": "For A Lifetime",
+      "url": "https://open.spotify.com/track/2kLoezsd7CkFEpQ3rMmczk"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
-      },
-      "artists": [
-        {
-          "name": "Rand Aldo",
-          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Dream in Eb",
-      "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "For the Love of Love",
         "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 143251,
       "name": "For the Love of Love",
       "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
+      },
+      "artists": [
+        {
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Dream in Eb",
+      "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Slowdance",
+        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
+      },
+      "artists": [
+        {
+          "name": "Luca Mazzillo",
+          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
+        },
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+        }
+      ],
+      "duration_ms": 122883,
+      "name": "Slowdance",
+      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Under Cold Water",
         "url": "https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 126229,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Slowdance",
-        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
-      },
-      "artists": [
-        {
-          "name": "Luca Mazzillo",
-          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
-        },
-        {
-          "name": "Jacopo Croci",
-          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
-        }
-      ],
-      "duration_ms": 122883,
-      "name": "Slowdance",
-      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Fallboard",
-        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
-      },
-      "artists": [
-        {
-          "name": "Esther Dutch",
-          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
-        }
-      ],
-      "duration_ms": 160009,
-      "name": "Fallboard",
-      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Cassiopeia",
         "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 216023,
       "name": "Amorzinho - Piano Version",
       "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Fallboard",
+        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
+      },
+      "artists": [
+        {
+          "name": "Esther Dutch",
+          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
+        }
+      ],
+      "duration_ms": 160009,
+      "name": "Fallboard",
+      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Truly Yours",
-        "url": "https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7"
-      },
-      "artists": [
-        {
-          "name": "Eamonn Watt",
-          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
-        }
-      ],
-      "duration_ms": 185775,
-      "name": "Truly Yours",
-      "url": "https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Seasons Changing",
-        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 119080,
-      "name": "The Great Plains Hymn",
-      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Piano 1 (Extended)",
         "url": "https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP"
       },
@@ -1147,6 +1115,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Truly Yours",
+        "url": "https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7"
+      },
+      "artists": [
+        {
+          "name": "Eamonn Watt",
+          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
+        }
+      ],
+      "duration_ms": 185775,
+      "name": "Truly Yours",
+      "url": "https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 135253,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Seasons Changing",
+        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 119080,
+      "name": "The Great Plains Hymn",
+      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1247,6 +1247,38 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Motovilov",
+          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
+        }
+      ],
+      "duration_ms": 165902,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amuse Bouche",
+        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
+      },
+      "artists": [
+        {
+          "name": "Yao Chen",
+          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
+        }
+      ],
+      "duration_ms": 197750,
+      "name": "Is it Over",
+      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Pour Vous",
         "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
       },
@@ -1275,38 +1307,6 @@
       "duration_ms": 159500,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Amuse Bouche",
-        "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
-      },
-      "artists": [
-        {
-          "name": "Yao Chen",
-          "url": "https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Is it Over",
-      "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
-      },
-      "artists": [
-        {
-          "name": "Alexander Motovilov",
-          "url": "https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw"
-        }
-      ],
-      "duration_ms": 165902,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Seascape",
-        "url": "https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY"
-      },
-      "artists": [
-        {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Seascape",
-      "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Way Back Home",
         "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 170000,
       "name": "Winter Birds",
       "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Seascape",
+        "url": "https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Seascape",
+      "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Time Curve: Music for Piano by Philip Glass and William Duckworth",
-        "url": "https://open.spotify.com/album/1kGhTPdqFxysr6qHRv32MR"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Bruce Brubaker",
-          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
-        }
-      ],
-      "duration_ms": 288306,
-      "name": "Six Etudes for Piano - q = 96",
-      "url": "https://open.spotify.com/track/7bYwm4LQaOsardfDdbVZg6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Fin de l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42"
       },
@@ -1511,22 +1491,6 @@
       "duration_ms": 113000,
       "name": "Fin de l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
-      },
-      "artists": [
-        {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
-        }
-      ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1547,18 +1511,38 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Piano Inside",
-        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
       },
       "artists": [
         {
-          "name": "Milo Edale",
-          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
         }
       ],
-      "duration_ms": 191370,
-      "name": "The Piano Inside",
-      "url": "https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB"
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Time Curve: Music for Piano by Philip Glass and William Duckworth",
+        "url": "https://open.spotify.com/album/1kGhTPdqFxysr6qHRv32MR"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Bruce Brubaker",
+          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
+        }
+      ],
+      "duration_ms": 288306,
+      "name": "Six Etudes for Piano - q = 96",
+      "url": "https://open.spotify.com/track/7bYwm4LQaOsardfDdbVZg6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "The Piano Inside",
+        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
+      },
+      "artists": [
+        {
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+        }
+      ],
+      "duration_ms": 191370,
+      "name": "The Piano Inside",
+      "url": "https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Ready Set Love",
         "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 89918,
       "name": "Ready Set Love",
       "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Dolce",
-        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 143011,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Automne",
+        "url": "https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 192230,
+      "name": "Morph\u00e9e",
+      "url": "https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Secrets of the Earth",
         "url": "https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK"
       },
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Automne",
-        "url": "https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7"
+        "name": "Dolce",
+        "url": "https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv"
       },
       "artists": [
         {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
         }
       ],
-      "duration_ms": 192230,
-      "name": "Morph\u00e9e",
-      "url": "https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA"
+      "duration_ms": 143011,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf"
     }
   ],
   "unique_name": "Piano Study",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,505 likes - 70 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,580 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 41 | [Se Eu Tenho o Hoje](https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Se Eu Tenho o Hoje](https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi) | 5:27 |
 | 42 | [Deixa Deus Sonhar em Ti](https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Gba Stage, Vol\. 13](https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l) | 4:54 |
 | 43 | [Mãe de Deus e Minha](https://open.spotify.com/track/0RNhs4AaIUpehk2Rl49Qmr) | [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd), [Guilherme Meirelles](https://open.spotify.com/artist/78wIcCfZh0wbufFAJS5b4k) | [Studio Canção Nova \| Acústico](https://open.spotify.com/album/5ewDVc6Q2lhai5L8c7Fnlv) | 4:43 |
-| 44 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
+| 44 | [Neste Lugar Há Poder \- Ao Vivo](https://open.spotify.com/track/2m99EkDjjEJzLd2bU4QZaV) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Neste Lugar Há Poder](https://open.spotify.com/album/2TMrjUKjwf5CrZ8bGSpg9R) | 6:05 |
 | 45 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
-| 46 | [Neste Lugar Há Poder \- Ao Vivo](https://open.spotify.com/track/2m99EkDjjEJzLd2bU4QZaV) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Neste Lugar Há Poder](https://open.spotify.com/album/2TMrjUKjwf5CrZ8bGSpg9R) | 6:05 |
+| 46 | [Deus Vê](https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx) | [Evandro José](https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46) | [Deus Vê](https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q) | 4:09 |
 | 47 | [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Danúbia M.J](https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Gba Stage \(Ao Vivo\)](https://open.spotify.com/album/61PiZkJXZCwqEkbRERmpbQ) | 5:03 |
 | 48 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 49 | [Santo Antônio](https://open.spotify.com/track/0848hBIFahA1DrAcBnWRXx) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU), [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu) | [Santo Antônio](https://open.spotify.com/album/4asRiSXMZNppfhlXQ1VsTO) | 3:27 |

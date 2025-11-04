@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,947 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,978 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 75 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 | 76 | [Rivais](https://open.spotify.com/track/1e7JH5Fuv4rkMX8Odo0Kpz) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF) | [Rivais](https://open.spotify.com/album/1JQ07ymMHWRIZiM3OUVQdi) | 2:32 |
 
-Snapshot ID: `AAAAAPsqulJ7r5Q8WCQ3HNBc4e8w8v/I`
+Snapshot ID: `AAAAAPpitgzKS0Zmr8kw5NW98y3gURz9`

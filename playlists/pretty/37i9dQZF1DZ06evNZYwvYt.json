@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19377,
+  "num_followers": 19379,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAADK+8iwqouz6Tys7XxtWjJF",
+  "snapshot_id": "aQafAAAAAADoXrra8u4e5/XaouSqnGma",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "No Me Atrevo a Preguntar",
-      "url": "https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 238586,
       "name": "Fui feliz",
       "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "No Me Atrevo a Preguntar",
+      "url": "https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to the greatest Pakistani hits 🎶 Cover: Asim Azhar
+> Home to the greatest Pakistani hits 🎶 Cover: Hasan Raheem
 
-254 songs - 17 hr 15 min
+255 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Kamli](https://open.spotify.com/track/1bRD5thowBEHe6I4LAf61Z) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Kamli](https://open.spotify.com/album/0irYPh3IIAEZV9PcB34FAr) | 3:19 | 2024-01-12 | 2024-02-03 |
 | [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 | 2023-05-04 | 2023-12-22 |
 | [Kanwal](https://open.spotify.com/track/1ZriJmDC61hn2z2eajgooI) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Kanwal](https://open.spotify.com/album/6HJGTGOa9H0t8WUv2PpxpG) | 3:14 | 2025-09-09 |  |
+| [KAR KAR MINTAAN](https://open.spotify.com/track/47TuRnXkR7u2yd6usorrAg) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE) | [KAR KAR MINTAAN](https://open.spotify.com/album/37kJbwrmyzqEUKYkhRNGjM) | 2:46 | 2025-11-03 |  |
 | [Karde Karam Tu \(From "Parwarish"\)](https://open.spotify.com/track/6VOwPPenagLmIJ679Nx2ZS) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Karde Karam Tu \(From "Parwarish"\)](https://open.spotify.com/album/0HNO3WO0pzK2gsaDsVnCjg) | 3:15 | 2025-08-01 |  |
 | [Karma](https://open.spotify.com/track/5mowfsyfcMHPljgxVMjtQL) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 4:00 | 2024-04-29 | 2024-06-15 |
 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 | 2024-06-24 | 2025-06-30 |
@@ -217,7 +218,7 @@
 | [Secrets](https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:38 | 2023-05-04 | 2025-09-18 |
 | [Shatir](https://open.spotify.com/track/5yuTexOifpmPst6HKSZP3x) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Zahid Jaggi](https://open.spotify.com/artist/56cO7nXqr5US1gvzghPUiZ) | [Shatir](https://open.spotify.com/album/35q2tgzbNljiOc5mpoepke) | 2:40 | 2024-01-12 | 2024-01-26 |
 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 | 2024-01-25 | 2025-10-16 |
-| [SHIKWA](https://open.spotify.com/track/3G6HBmFkfeuK6dNrnyFfO9) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [SHIKWA \(Side B\)](https://open.spotify.com/album/18grR25zEvxF4ToDL2zLde) | 3:22 | 2024-12-04 |  |
+| [SHIKWA](https://open.spotify.com/track/3G6HBmFkfeuK6dNrnyFfO9) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [SHIKWA \(Side B\)](https://open.spotify.com/album/18grR25zEvxF4ToDL2zLde) | 3:22 | 2024-12-04 | 2025-11-04 |
 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 | 2023-05-04 | 2025-10-16 |
 | [Sometimes](https://open.spotify.com/track/6FqF5CMHIMreHf11oZJSZo) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Sometimes](https://open.spotify.com/album/1cOZA8wUxpo3L79cAMzkic) | 3:16 | 2023-12-21 | 2024-12-29 |
 | [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 | 2025-03-28 | 2025-04-12 |

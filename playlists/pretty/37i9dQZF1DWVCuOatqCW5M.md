@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Darshan Raval & Yashraj & Badshah and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,988 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,054 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 13 | [Heaven \(feat\. Jonita\) \- Remix](https://open.spotify.com/track/7Dx38QOew4alphqY8GRmZp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Play \(The Remixes\)](https://open.spotify.com/album/3SVt9F02xRJpTHkiPR72rm) | 4:02 |
 | 14 | [Talab](https://open.spotify.com/track/1XF3FfkRHuLJDRdhtTvk27) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Talab](https://open.spotify.com/album/5me0pFKmuY1y3wBhs2Mh9v) | 2:36 |
 | 15 | [Senorita](https://open.spotify.com/track/399TZyrsuVXRx70hAPyC4u) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:58 |
-| 16 | [Rasm\-E\-Mohabbat](https://open.spotify.com/track/3kaDB3IEndPypXi9Jiy8AC) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Dr\. Ankita Chaturvedi](https://open.spotify.com/artist/5nHaMNmLx4e40zzOGQAfjF) | [Rasm\-E\-Mohabbat](https://open.spotify.com/album/5Vs2wNqZTcmJkvB0Egowp9) | 3:13 |
+| 16 | [Rasm\-E\-Mohabbat](https://open.spotify.com/track/3kaDB3IEndPypXi9Jiy8AC) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Dr\. Ankita Chaturvedi](https://open.spotify.com/artist/5nHaMNmLx4e40zzOGQAfjF), [Dev Sharma](https://open.spotify.com/artist/6MBw1eLcZi4P7MyT5C4PlA), [Saira Mukhtar](https://open.spotify.com/artist/2yQ7VxLAkCDrxgW0P1Hg1l) | [Rasm\-E\-Mohabbat](https://open.spotify.com/album/5Vs2wNqZTcmJkvB0Egowp9) | 3:13 |
 | 17 | [MOON](https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [MOON](https://open.spotify.com/album/7murKCe4fkPrgq4bkrnUTQ) | 3:03 |
 | 18 | [Hain Kaha Ka Iraada](https://open.spotify.com/track/2cIHxbQR5xGmsIJYdjjSQL) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Hain Kaha Ka Iraada](https://open.spotify.com/album/18HDVTeZUIvSeaxUl1IL3e) | 4:46 |
 | 19 | [Teri Yaad](https://open.spotify.com/track/1IbvCWzAbzUle559VXyvLy) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt), [Zia](https://open.spotify.com/artist/0DsXhM2h3rIODiAxuLOb6q) | [Teri Yaad](https://open.spotify.com/album/38ea1ME7inmtnwok4cQSO0) | 4:53 |

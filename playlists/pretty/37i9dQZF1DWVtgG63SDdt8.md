@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,546 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,571 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 4 | [All Alive](https://open.spotify.com/track/2sl7u3ienTSoXRAivsMl4H) | [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [All Alive](https://open.spotify.com/album/4Hw2VMY42It2xuZxaHR2nW) | 2:34 |
 | 5 | [Move Like Moses](https://open.spotify.com/track/3yUbStLLbmhKzkXIxMAass) | [Giovani](https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG), [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [Move Like Moses](https://open.spotify.com/album/1QNQH0pqXbPvbAZwStvDTR) | 3:14 |
 | 6 | [Militant](https://open.spotify.com/track/0sd8eA5h5eLESpfw2NIi81) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Young C](https://open.spotify.com/artist/3jTD8sMuIA35Rw9PRrOE5L), [GodFearin](https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR) | [Militant](https://open.spotify.com/album/2t04qVJmyoLHbvvNOgIdN2) | 3:07 |
-| 7 | [Old Me](https://open.spotify.com/track/5GT1Jk3UMdfo9AgN5SULll) | [Sis N Lil Bro](https://open.spotify.com/artist/1Ep8bP4kvEagicoKdAVU9P), [Xay Hill](https://open.spotify.com/artist/2DF1nFRNbsOsuKNn9Pa0iU) | [Old Me](https://open.spotify.com/album/5MGhMlc7bPM1DnuP9qvLnX) | 3:12 |
+| 7 | [Old Me](https://open.spotify.com/track/5GT1Jk3UMdfo9AgN5SULll) | [Sis N Lil Bro](https://open.spotify.com/artist/1Ep8bP4kvEagicoKdAVU9P), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Old Me](https://open.spotify.com/album/5MGhMlc7bPM1DnuP9qvLnX) | 3:12 |
 | 8 | [Extra Nos Music](https://open.spotify.com/track/6ucNSaB4maWxcdly1Eul45) | [FLAME](https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp), [Tarcea Renee](https://open.spotify.com/artist/5jv3xaqB33eLwFCgEfgJi1), [Reuben Jones](https://open.spotify.com/artist/2svuppeXmsYw7TYZlQRFlZ), [Adam Prince](https://open.spotify.com/artist/2Bq6FTerqrZCdVpIBJbQuT) | [Extra Nos Music](https://open.spotify.com/album/0MjizOi9IUDWKN8PVssrAl) | 4:48 |
 | 9 | [STAND ON BUSINESS](https://open.spotify.com/track/3E8w0AURTw4fzKmzdxwpMM) | [Petrina DeLacey](https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY) | [STAND ON BUSINESS](https://open.spotify.com/album/6tWLpTbHt3XlL5y10SW1pc) | 2:27 |
 | 10 | [Who Am I](https://open.spotify.com/track/5edoZF7ljhPV7BE9HNJwXm) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [Who Am I](https://open.spotify.com/album/4l2LkYv2QarzGQouHoRkqe) | 1:39 |

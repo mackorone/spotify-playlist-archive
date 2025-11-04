@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Festive Nocturnes",
+        "url": "https://open.spotify.com/album/6jMG6NUa2utWJ0xNKjCbMy"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106343,
+      "name": "Auld Lang Syne (Arr. Feuill\u00e2tre for Guitar)",
+      "url": "https://open.spotify.com/track/00CLNcXuVhmDVVGSEqXScp"
+    },
+    {
+      "album": {
         "name": "Auld Lang Syne (Arr. Riley)",
         "url": "https://open.spotify.com/album/0yDhTV5nPwlTUPd2wlkTEk"
       },
@@ -521,6 +543,24 @@
     },
     {
       "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/5Xoh4Qjg4gOBdsRgAzlzJx"
+      },
+      "artists": [
+        {
+          "name": "Cameron Segal",
+          "url": "https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170898,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/7MTEfa5aqS3EwPWOoePJNK"
+    },
+    {
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
       },
@@ -637,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Go tell it on the mountain",
+        "url": "https://open.spotify.com/album/44M9Az670ZjiMZGcSlOgrn"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135765,
+      "name": "Go tell it on the mountain",
+      "url": "https://open.spotify.com/track/4bJY69IGvkMGXkzEKYULtW"
+    },
+    {
+      "album": {
         "name": "God Rest Ye Merry Gentlemen",
         "url": "https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB"
       },
@@ -714,10 +772,46 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 113598,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/1qXc4y3UMJeAaSjBnXdPos"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angels Sing (Arr. Gjeilo for Piano)",
+        "url": "https://open.spotify.com/album/53CF1tWuLjgxYyUDUot2Al"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Hark! The Herald Angels Sing (Arr. Gjeilo for Piano)",
+      "url": "https://open.spotify.com/track/1CaIfgBwRh5nHK29YG9FEU"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/4CddC2sZ5zGXEMmJNreb98"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175960,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5MSpxG4CKByqlYDX0Nu9Xj"
     },
     {
       "album": {
@@ -1421,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Once In Royal David's City",
+        "url": "https://open.spotify.com/album/3dybyo3bdsFTx2SHgu5uIu"
+      },
+      "artists": [
+        {
+          "name": "Jerome Louis",
+          "url": "https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125522,
+      "name": "Once In Royal David's City",
+      "url": "https://open.spotify.com/track/2kNTxjheVOeM89wpTPdUKk"
+    },
+    {
+      "album": {
         "name": "Silent Nights",
         "url": "https://open.spotify.com/album/6vjr6L0QWJ75MJXsctvx0C"
       },
@@ -1440,7 +1552,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 217466,
       "name": "Once In Royal David\u2019s City",
       "url": "https://open.spotify.com/track/1vr31htsP3k9idjJzbbT4n"
@@ -1640,10 +1752,36 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 174000,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/6nJB7Y2kKg9l8TrWf7a2mZ"
+    },
+    {
+      "album": {
+        "name": "Silent Night (Arr. E\u0161envalds for Violin, Cello & Orchestra)",
+        "url": "https://open.spotify.com/album/1LArXGSCAlY9loy45E8rwS"
+      },
+      "artists": [
+        {
+          "name": "Krist\u012bne Balanas",
+          "url": "https://open.spotify.com/artist/0lDBHW4HNd46bGdVEl6Sjt"
+        },
+        {
+          "name": "Margarita Balanas",
+          "url": "https://open.spotify.com/artist/5ZEgy7PqXSEYz9yz7YZDQ7"
+        },
+        {
+          "name": "ANONIMI Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/6DDKBEDm3cnVpmEuMF5OEG"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314586,
+      "name": "Silent Night (Arr. E\u0161envalds for Violin, Cello & Orchestra)",
+      "url": "https://open.spotify.com/track/58b7jqnPN1dviBAoJ1UMq8"
     },
     {
       "album": {
@@ -1662,7 +1800,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 226226,
       "name": "Silent Night (Arr. Gjeilo for Piano)",
       "url": "https://open.spotify.com/track/52IYxMsVmlYNuluq0H4tS6"
@@ -1684,7 +1822,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 144640,
       "name": "Silent Night (Arr. Piano)",
       "url": "https://open.spotify.com/track/0s7M8v8r9dSSqEo9KiGypA"
@@ -1789,6 +1927,32 @@
     },
     {
       "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/38P7No9z9CqCKoCbyzulAS"
+      },
+      "artists": [
+        {
+          "name": "Robert Wells",
+          "url": "https://open.spotify.com/artist/2b5IBuGQwskEO9VwynCNtO"
+        },
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "Ashley Jackson",
+          "url": "https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164637,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/1jm2JmNC6X3Kph37wz77jk"
+    },
+    {
+      "album": {
         "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
         "url": "https://open.spotify.com/album/5Alx7HeL1vtAV2crddvB3h"
       },
@@ -1804,7 +1968,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 195483,
       "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
       "url": "https://open.spotify.com/track/1oGv4rDnVsy1gjRe8xkzEz"

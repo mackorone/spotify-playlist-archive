@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 360419,
+  "num_followers": 360501,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
+        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 242963,
+      "name": "T\u00e1 Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
-        "name": "T\u00e1 Tudo Bem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 242963,
-      "name": "T\u00e1 Tudo Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
     },
     {
       "added_at": "2025-09-12 17:44:01",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2025-09-12 17:44:01",
       "album": {
-        "name": "Me Enche de Amor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "Me Enche de Amor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2025-09-12 17:44:01",
-      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 270933,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
+    },
+    {
+      "added_at": "2025-09-12 17:44:01",
+      "album": {
+        "name": "Me Enche de Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        }
+      ],
+      "duration_ms": 309333,
+      "name": "Me Enche de Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
     },
     {
       "added_at": "2025-09-12 17:44:01",

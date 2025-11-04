@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 110584,
+  "num_followers": 110682,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Oscillations",
-        "url": "https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts"
-      },
-      "artists": [
-        {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
-        }
-      ],
-      "duration_ms": 306040,
-      "name": "Fairytale",
-      "url": "https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Midnight Train",
         "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 237868,
       "name": "Feel My Love",
       "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Oscillations",
+        "url": "https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 306040,
+      "name": "Fairytale",
+      "url": "https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Hiyo Lento",
+        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
+      },
+      "artists": [
+        {
+          "name": "Jabu Khanyile",
+          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
+        },
+        {
+          "name": "Bayete",
+          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Sponky Ponky",
+      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
       },
@@ -827,22 +847,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Hiyo Lento",
-        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
+        "name": "Imali",
+        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
       },
       "artists": [
         {
-          "name": "Jabu Khanyile",
-          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
-        },
-        {
-          "name": "Bayete",
-          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
         }
       ],
-      "duration_ms": 335840,
-      "name": "Sponky Ponky",
-      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
+      "duration_ms": 198905,
+      "name": "Ubuhle Bakho",
+      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -859,22 +875,6 @@
       "duration_ms": 254453,
       "name": "Ndikuthandile",
       "url": "https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Imali",
-        "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
-      },
-      "artists": [
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 198905,
-      "name": "Ubuhle Bakho",
-      "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Nadekezwa",
-        "url": "https://open.spotify.com/album/0JqFpB5rG1whb47fAL2yX6"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 228128,
-      "name": "Nadekezwa",
-      "url": "https://open.spotify.com/track/3hNmfiQKKwKYi7wKvcN3Lj"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "uThando",
         "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 484285,
       "name": "uThando",
       "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Nadekezwa",
+        "url": "https://open.spotify.com/album/0JqFpB5rG1whb47fAL2yX6"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 228128,
+      "name": "Nadekezwa",
+      "url": "https://open.spotify.com/track/3hNmfiQKKwKYi7wKvcN3Lj"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
+      },
+      "artists": [
+        {
+          "name": "Internet Athi",
+          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
+        }
+      ],
+      "duration_ms": 270652,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Wena",
-        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
-      },
-      "artists": [
-        {
-          "name": "Internet Athi",
-          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
-        }
-      ],
-      "duration_ms": 270652,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Barua ya Dunia",
-        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
-      },
-      "artists": [
-        {
-          "name": "Elani",
-          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "Kookoo",
-      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Me Ne Woa",
         "url": "https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 220890,
       "name": "Me Ne Woa",
       "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Barua ya Dunia",
+        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
+      },
+      "artists": [
+        {
+          "name": "Elani",
+          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "Kookoo",
+      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Somandla",
+        "url": "https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE"
+      },
+      "artists": [
+        {
+          "name": "Mandisi Dyantyis",
+          "url": "https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0"
+        }
+      ],
+      "duration_ms": 406189,
+      "name": "Ndimthanda",
+      "url": "https://open.spotify.com/track/2sf6KNaKxhj8oCESEspmg4"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Sasa Hivi [Stripped Down]",
         "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 262184,
       "name": "Sasa Hivi [Stripped Down]",
       "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Somandla",
-        "url": "https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE"
-      },
-      "artists": [
-        {
-          "name": "Mandisi Dyantyis",
-          "url": "https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0"
-        }
-      ],
-      "duration_ms": 406189,
-      "name": "Ndimthanda",
-      "url": "https://open.spotify.com/track/2sf6KNaKxhj8oCESEspmg4"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Songs in The Key of Love",
-        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
-      },
-      "artists": [
-        {
-          "name": "Berita",
-          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Ndicel'ikiss",
-      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "More Of You",
         "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 180000,
       "name": "More Of You",
       "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Songs in The Key of Love",
+        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
+      },
+      "artists": [
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Ndicel'ikiss",
+      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1811,22 +1811,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Give You Love",
-        "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
+        "name": "TRUE STORY",
+        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
         }
       ],
-      "duration_ms": 234605,
-      "name": "Give You Love",
-      "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
+      "duration_ms": 237516,
+      "name": "Baby Ngimanzi Wuthando",
+      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
     }
   ],
   "unique_name": "100 Best African Love Songs ",

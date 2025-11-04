@@ -397,6 +397,36 @@
     },
     {
       "album": {
+        "name": "Aavo Ni Saiyoon",
+        "url": "https://open.spotify.com/album/2AWL2X2fOwUTDwG3GCh9QC"
+      },
+      "artists": [
+        {
+          "name": "Maninder Buttar",
+          "url": "https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243267,
+      "name": "Aavo Ni Saiyoon",
+      "url": "https://open.spotify.com/track/4ioRbC9ZWNQ3McOEvSveUJ"
+    },
+    {
+      "album": {
         "name": "About Me",
         "url": "https://open.spotify.com/album/3qEg72xB1YQw4yeTIUpiVo"
       },
@@ -7407,6 +7437,28 @@
     },
     {
       "album": {
+        "name": "Happily Married",
+        "url": "https://open.spotify.com/album/3iRlSmOmVnsmlytPzDFUkG"
+      },
+      "artists": [
+        {
+          "name": "Satbir Aujla",
+          "url": "https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy"
+        },
+        {
+          "name": "Little Boi",
+          "url": "https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149638,
+      "name": "Happily Married",
+      "url": "https://open.spotify.com/track/3gzZNfmcj3jT3EH52UJcVa"
+    },
+    {
+      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/35iOol9c8kn3WQ1syrga2u"
       },
@@ -10557,7 +10609,7 @@
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 162018,
+      "duration_ms": 162031,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
     },
@@ -13236,7 +13288,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 270277,
       "name": "Maula Toh Puch",
       "url": "https://open.spotify.com/track/6lnJrKSdVbGYdN1qK2ESSP"
@@ -21580,7 +21632,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 214583,
       "name": "Tere Ishq Ne",
       "url": "https://open.spotify.com/track/4yTEVIAQ31AIHeFW6P2oe1"

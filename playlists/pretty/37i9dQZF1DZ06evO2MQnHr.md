@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 
 > This is Madeline Merlo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446 likes - 36 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 36 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 4 | [Slide](https://open.spotify.com/track/5bkI1sHZKGz4iFQzPX7GJI) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:34 |
 | 5 | [Same Car](https://open.spotify.com/track/0EMsXbJHyW0217asHoeMhY) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Same Car](https://open.spotify.com/album/759nkzilX3qEZTil0BPm4H) | 3:39 |
 | 6 | [It Didn't](https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd) | 2:58 |
-| 7 | [Tim + Faith](https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv) | 3:50 |
+| 7 | [If You Never Broke My Heart](https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [If You Never Broke My Heart](https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN) | 2:55 |
 | 8 | [Girl Where He Grew Up](https://open.spotify.com/track/53Osviolix5BVUSWf6qMbd) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Slide](https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ) | 3:10 |
-| 9 | [If You Never Broke My Heart](https://open.spotify.com/track/2olvBlWjNUYMx2oEMsjfmD) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [If You Never Broke My Heart](https://open.spotify.com/album/4BNo3nDm8xxzAnq0n1iBPN) | 2:55 |
+| 9 | [Tim + Faith](https://open.spotify.com/track/0gPsHNuKK5lsWpCqWwvxRX) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Tim + Faith](https://open.spotify.com/album/2ImzdPjUj4Ejjr1Qj5VZhv) | 3:50 |
 | 10 | [War Paint](https://open.spotify.com/track/0ozzHTaaXNLaVxuO1VQ8KT) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:24 |
 | 11 | [Kiss Kiss](https://open.spotify.com/track/6qbJuNW2LYU1kYnzyyVBBn) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Kiss Kiss](https://open.spotify.com/album/0DVXGrjbjc0YSGbkh4g26Z) | 3:12 |
 | 12 | [Dear Me](https://open.spotify.com/track/5wj7pNgQbLABItpzF3yH8U) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Dear Me](https://open.spotify.com/album/6ZWF9IIPH4Ex6ygB9kizky) | 2:40 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 26 | [Good Grief](https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:22 |
 | 27 | [Alive](https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:19 |
 | 28 | [Over and Over](https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:19 |
-| 29 | [How To Get The Girl](https://open.spotify.com/track/3JJ2CkNEBTYSLaefgOopB2) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [How To Get The Girl](https://open.spotify.com/album/4ihf3F6dsVhpOgGAm4QLlJ) | 3:22 |
+| 29 | [Ready to Say Goodnight](https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [5:01+](https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj) | 3:56 |
 | 30 | [Bar Fight](https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:12 |
 | 31 | [Here I Am Gone](https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:49 |
 | 32 | [Sinking Like a Stone](https://open.spotify.com/track/5gcfq2p2cEQEwrzuq9ojQD) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Free Soul](https://open.spotify.com/album/5Zzp55K41GaC8UOshoFf44) | 3:57 |
-| 33 | [Ready to Say Goodnight](https://open.spotify.com/track/0ZUvBRRa9wWAJpCLqeaarZ) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [5:01+](https://open.spotify.com/album/1yihl82DEmXyxWnXz1mjaj) | 3:56 |
+| 33 | [How To Get The Girl](https://open.spotify.com/track/3JJ2CkNEBTYSLaefgOopB2) | [Blackjack Billy](https://open.spotify.com/artist/0kGFplMt0ZXkae40T5EVZ7), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [How To Get The Girl](https://open.spotify.com/album/4ihf3F6dsVhpOgGAm4QLlJ) | 3:22 |
 | 34 | [One and Only You \(Reprise\)](https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d), [Jana Kramer](https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:32 |
 | 35 | [What If I Am](https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:36 |
 | 36 | [Have You Ever Had so Much Fun](https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD) | [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:43 |
 
-Snapshot ID: `aQVNgAAAAABlZfbKdTVjQmaHvXomHuHn`
+Snapshot ID: `aQafAAAAAAByeF1q2S4YUNrsgzDAoQd3`

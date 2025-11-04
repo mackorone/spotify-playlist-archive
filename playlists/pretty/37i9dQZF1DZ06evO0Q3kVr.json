@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
-  "num_followers": 6387,
+  "num_followers": 6389,
   "original_name": "This Is Banda Bostik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAACcbtpk1nmxL60w8i3V05Us",
+  "snapshot_id": "aQafAAAAAADK5WgCLH16Aw66ZQn0uhKO",
   "tracks": [
     {
       "added_at": null,
@@ -251,70 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Camino",
-        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Trata de Cambiar",
-      "url": "https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 311890,
-      "name": "Abran Esa Puerta",
-      "url": "https://open.spotify.com/track/1pRirlWDnqahmM4ankMzLn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "Al Diablo Con Mi Suerte",
-      "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Pie de Guerra",
-        "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 223468,
-      "name": "Malas Noticias",
-      "url": "https://open.spotify.com/track/69RxGJRqsvpR92VnkETnNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio",
         "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
@@ -340,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 346859,
-      "name": "Exceso de Droga",
-      "url": "https://open.spotify.com/track/4jBagOx3OaqLv72nKacJex"
+      "duration_ms": 311890,
+      "name": "Abran Esa Puerta",
+      "url": "https://open.spotify.com/track/1pRirlWDnqahmM4ankMzLn"
     },
     {
       "added_at": null,
@@ -356,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 237840,
-      "name": "S.O.S. de Amor",
-      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
+      "duration_ms": 146893,
+      "name": "Trata de Cambiar",
+      "url": "https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud"
     },
     {
       "added_at": null,
@@ -372,9 +308,41 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 199738,
-      "name": "El Sexo Opuesto y Su Realidad",
-      "url": "https://open.spotify.com/track/33DP7d6lF7OZ1e9PFJm0mb"
+      "duration_ms": 223468,
+      "name": "Malas Noticias",
+      "url": "https://open.spotify.com/track/69RxGJRqsvpR92VnkETnNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "Al Diablo Con Mi Suerte",
+      "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 346859,
+      "name": "Exceso de Droga",
+      "url": "https://open.spotify.com/track/4jBagOx3OaqLv72nKacJex"
     },
     {
       "added_at": null,
@@ -395,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trascendencia",
-        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
+        "name": "En Pie de Guerra",
+        "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
       },
       "artists": [
         {
@@ -404,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Trascendencia",
-      "url": "https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK"
+      "duration_ms": 199738,
+      "name": "El Sexo Opuesto y Su Realidad",
+      "url": "https://open.spotify.com/track/33DP7d6lF7OZ1e9PFJm0mb"
     },
     {
       "added_at": null,
@@ -420,15 +388,15 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 241826,
-      "name": "El Vigilante",
-      "url": "https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe"
+      "duration_ms": 237840,
+      "name": "S.O.S. de Amor",
+      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
     },
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
       },
       "artists": [
         {
@@ -436,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 274226,
-      "name": "Donde Estas Hermano",
-      "url": "https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ"
+      "duration_ms": 239600,
+      "name": "Trascendencia",
+      "url": "https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK"
     },
     {
       "added_at": null,
@@ -475,6 +443,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 241826,
+      "name": "El Vigilante",
+      "url": "https://open.spotify.com/track/4H4w7HSrmZO3cqBivf3TCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 274226,
+      "name": "Donde Estas Hermano",
+      "url": "https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Genoma Humano",
         "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Redada",
-      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hipotecados",
         "url": "https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 393626,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Redada",
+      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 236193,
-      "name": "Pandillero, Pt. 1",
-      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hipotecados",
         "url": "https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 385560,
       "name": "Hipotecados",
       "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 236193,
+      "name": "Pandillero, Pt. 1",
+      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
     },
     {
       "added_at": null,

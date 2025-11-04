@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 114880,
+  "num_followers": 114866,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
     },
     {
-      "added_at": "2025-10-03 13:34:33",
-      "album": {
-        "name": "ENDLESS DEATHLESS",
-        "url": "https://open.spotify.com/album/6tY1OSYObW3x7KAjOXYSeW"
-      },
-      "artists": [
-        {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "ENDLESS DEATHLESS",
-      "url": "https://open.spotify.com/track/6TmdbHXUuwNbO7gOeuRmVG"
-    },
-    {
       "added_at": "2025-09-01 14:27:56",
       "album": {
         "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
@@ -907,6 +891,22 @@
       "duration_ms": 167866,
       "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
       "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
+    },
+    {
+      "added_at": "2025-10-03 13:34:33",
+      "album": {
+        "name": "ENDLESS DEATHLESS",
+        "url": "https://open.spotify.com/album/6tY1OSYObW3x7KAjOXYSeW"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "ENDLESS DEATHLESS",
+      "url": "https://open.spotify.com/track/6TmdbHXUuwNbO7gOeuRmVG"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Drunk Surfer",
         "url": "https://open.spotify.com/album/5MbQ33JkvmHNKeYbuYB1f8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 234680,
       "name": "Drunk Surfer",
       "url": "https://open.spotify.com/track/2OLM7e95IViS4hd26Rc0au"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Shut You Out",
-        "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
-      },
-      "artists": [
-        {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
-        }
-      ],
-      "duration_ms": 234715,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 276437,
       "name": "Guy Fawkes Tesco Dissociation",
       "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Shut You Out",
+        "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "duration_ms": 234715,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq"
     },
     {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "This Is Real",
+        "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 187351,
+      "name": "This Is Real",
+      "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
+    },
+    {
       "added_at": "2025-09-12 12:57:00",
       "album": {
         "name": "What You Need",
@@ -1263,22 +1279,6 @@
       "duration_ms": 230513,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "This Is Real",
-        "url": "https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 187351,
-      "name": "This Is Real",
-      "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Crying Over Nothing",
-        "url": "https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 195394,
-      "name": "Crying Over Nothing",
-      "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 228122,
       "name": "I\u2019m Not Crying, You\u2019re Crying",
       "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Crying Over Nothing",
+        "url": "https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 195394,
+      "name": "Crying Over Nothing",
+      "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Cowbella",
-        "url": "https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH"
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
       },
       "artists": [
         {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
         }
       ],
-      "duration_ms": 263537,
-      "name": "Cowbella",
-      "url": "https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu"
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+        "name": "Heartthrob",
+        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
       },
       "artists": [
         {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
         }
       ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+      "duration_ms": 193141,
+      "name": "Heartthrob",
+      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/542MxtFBDt3pRtcMV1LIiP"
+        "name": "Cowbella",
+        "url": "https://open.spotify.com/album/34RBWMX9yxMRJ95r1mSEdH"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
         }
       ],
-      "duration_ms": 193141,
-      "name": "Heartthrob",
-      "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
+      "duration_ms": 263537,
+      "name": "Cowbella",
+      "url": "https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1551,6 +1551,22 @@
       "duration_ms": 203370,
       "name": "Entertainer",
       "url": "https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Together We Are One, You and I",
+        "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Born In Early May",
+      "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
     },
     {
       "added_at": "2025-10-03 13:34:33",
@@ -1587,34 +1603,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Everybody Needs a Hero",
-        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 175680,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Together We Are One, You and I",
-        "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 312413,
-      "name": "Born In Early May",
-      "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
     }
   ],
   "unique_name": "pulp",

@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-710 songs - 2 day 22 hr 28 min
+711 songs - 2 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 | 2022-06-30 | 2023-12-15 |
 | [My God Is Good](https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [My God Is Good](https://open.spotify.com/album/0osF0CnAck1ZFYh9taWJtW) | 9:58 | 2025-08-08 | 2025-08-22 |
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2022-06-30 | 2024-08-29 |
+| [My Helper Lives](https://open.spotify.com/track/4letjvenLtMvXJtm1GlPVp) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp) | [Living Waters](https://open.spotify.com/album/63gbFwamxhdqShYTMZ97KI) | 4:53 | 2025-10-31 |  |
 | [My Jesus](https://open.spotify.com/track/0R2bqTjc4TVrfHYoNCyvhy) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [My Jesus](https://open.spotify.com/album/16DoeZYOE3g1CSUyFcM0jp) | 4:41 | 2025-06-27 | 2025-07-04 |
 | [My Lover & Father \- Live](https://open.spotify.com/track/1RySgUH9LuWJ4hTFh0o4gI) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [The Expression](https://open.spotify.com/album/5LNEzS1eSEiVAAWIkd4Rk1) | 12:53 | 2025-03-21 | 2025-03-28 |
 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 | 2025-04-11 | 2025-05-14 |
@@ -425,7 +426,7 @@
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2022-06-30 | 2025-10-31 |
 | [Na Your Hand](https://open.spotify.com/track/4of2lvm7dopjHj5NoELI5O) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Na Your Hand](https://open.spotify.com/album/0m1pNqZhVWVwJOWAoWP9mC) | 12:37 | 2023-05-05 | 2023-05-19 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2023-12-05 | 2023-12-10 |
-| [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2025-08-18 |  |
+| [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2025-08-18 | 2025-11-04 |
 | [Near](https://open.spotify.com/track/7pJZnf5y8xthqZU4fYnP8K) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [LENG](https://open.spotify.com/album/2N2CQCJBsYGYu9fN60Oj9Q) | 6:40 | 2025-04-25 | 2025-05-30 |
 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 | 2023-12-05 | 2023-12-10 |
 | [Never Again \- Live](https://open.spotify.com/track/0avSfabWivCociv7l1vKRM) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Never Again \(Live\)](https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam) | 11:04 | 2025-06-06 | 2025-06-20 |

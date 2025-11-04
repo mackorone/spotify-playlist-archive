@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 208980,
+  "num_followers": 209039,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAAAgV5BaHu7FjTfeQQSoE6d2",
+  "snapshot_id": "aQafAAAAAAAu3HQtGnVZ9KCZhYo4Hhup",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Ratito",
+        "url": "https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sientelo",
         "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 188264,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Ratito",
-        "url": "https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq"
     },
     {
       "added_at": null,

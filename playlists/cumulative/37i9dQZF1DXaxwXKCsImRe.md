@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> We introduce new and exciting artists\. New RADAR BNLX\-artist: <a href="spotify:artist:7bfwKXhmR1JF1PiBzaxY2b">néomí</a>
+> We introduce new and exciting artists\. New RADAR BNLX\-artist: <a href="spotify:artist:7a5xPqxWpIHk4tcdv7bDc6">MICHA</a>
 
-222 songs - 11 hr 55 min
+225 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Ding Dong](https://open.spotify.com/track/2Wb0VFETsGsf5HUpt3lNsZ) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:16 | 2024-11-07 |  |
 | [Dingen Die Ik Doe](https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:27 | 2023-09-14 | 2024-01-19 |
 | [Divide \(feat\. Promis3\)](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide \(feat\. Promis3\)](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 | 2022-01-24 | 2022-08-26 |
+| [Do Me like You Do](https://open.spotify.com/track/1PLByZErRRCVmHWZm0DTsv) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Dead End Of A Dream](https://open.spotify.com/album/2D5G56419QjsWtt2pf8b7w) | 3:02 | 2025-11-03 |  |
 | [Do You Want To Be Honest?](https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Do You Want To Be Honest?](https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ) | 3:32 | 2025-03-27 | 2025-08-15 |
 | [Droom Het Donker Weg](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 | 2023-09-14 |  |
 | [Droom Sinds Klein](https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg](https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK) | 3:39 | 2024-05-09 |  |
@@ -163,6 +164,7 @@
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2021-12-10 | 2022-10-13 |
 | [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 | 2022-10-05 | 2022-10-18 |
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2021-12-10 | 2022-03-19 |
+| [Pray](https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Pray](https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS) | 3:04 | 2025-11-03 |  |
 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-05-29 |  |
 | [RELAPSE](https://open.spotify.com/track/3SuTqS0CuFnVxC52vBArPy) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:37 | 2021-12-10 | 2022-10-18 |
 | [Ribéry](https://open.spotify.com/track/4LSO1o2dTqJedirEoyBNP0) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Ribéry](https://open.spotify.com/album/0qTO7678yKV6K6fdeFIb1Q) | 2:54 | 2023-06-23 | 2024-04-11 |
@@ -200,6 +202,7 @@
 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 | 2022-07-12 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2023-05-09 | 2023-09-15 |
 | [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2025-03-05 | 2025-05-09 |
+| [Taste of Heaven](https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Taste of Heaven](https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ) | 2:37 | 2025-11-03 |  |
 | [Tegen De Klippen Op](https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Tegen De Klippen Op](https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE) | 2:50 | 2022-05-31 | 2022-08-26 |
 | [Ten Onder](https://open.spotify.com/track/5BND52vo95M97WRJ4o7Jat) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ten Onder](https://open.spotify.com/album/3SlyGq2hf3mGf6kV1oU5CC) | 3:43 | 2022-05-14 | 2022-07-08 |
 | [The Dog](https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [The Dog](https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad) | 5:01 | 2025-08-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: N.I.N.A.",
-  "num_followers": 148474,
+  "num_followers": 148457,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,30 @@
     {
       "added_at": "2025-10-24 03:01:27",
       "album": {
+        "name": "DIAS ANTES DO CAOS",
+        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "duration_ms": 124651,
+      "name": "GLOCK DE COR",
+      "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
+    },
+    {
+      "added_at": "2025-10-24 03:01:27",
+      "album": {
         "name": "Alexa",
         "url": "https://open.spotify.com/album/2DWaIbUBJ8rzNcgvUudbfy"
       },
@@ -303,30 +327,6 @@
       "duration_ms": 154576,
       "name": "Alexa",
       "url": "https://open.spotify.com/track/5Nv8Xh8UTH8cY8YF1SIX0N"
-    },
-    {
-      "added_at": "2025-10-24 03:01:27",
-      "album": {
-        "name": "DIAS ANTES DO CAOS",
-        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        }
-      ],
-      "duration_ms": 124651,
-      "name": "GLOCK DE COR",
-      "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
     },
     {
       "added_at": "2025-10-24 03:01:27",
@@ -747,34 +747,6 @@
     {
       "added_at": "2025-10-24 03:01:27",
       "album": {
-        "name": "IAMBINHU",
-        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Correia",
-          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Academia de Jugg",
-      "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
-    },
-    {
-      "added_at": "2025-10-24 03:01:27",
-      "album": {
         "name": "CHTC?",
         "url": "https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4"
       },
@@ -799,6 +771,34 @@
       "duration_ms": 160000,
       "name": "OURO BRANCO",
       "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
+    },
+    {
+      "added_at": "2025-10-24 03:01:27",
+      "album": {
+        "name": "IAMBINHU",
+        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Correia",
+          "url": "https://open.spotify.com/artist/40PO0UxAov5MmpZFHqyPFv"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Academia de Jugg",
+      "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
     },
     {
       "added_at": "2025-10-24 03:01:27",
@@ -879,30 +879,6 @@
     {
       "added_at": "2025-10-24 03:01:27",
       "album": {
-        "name": "\u00c9 Que os Menino \u00c9 Bom",
-        "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
-      },
-      "artists": [
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Soud",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "\u00c9 Que os Menino \u00c9 Bom",
-      "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
-    },
-    {
-      "added_at": "2025-10-24 03:01:27",
-      "album": {
         "name": "PROIBIDO BRANCO",
         "url": "https://open.spotify.com/album/2UoajtpLuoxVS5HufZRVZP"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 188120,
       "name": "PROIBIDO BRANCO",
       "url": "https://open.spotify.com/track/1y5ZIXW3YfauhIEWNSY5WB"
+    },
+    {
+      "added_at": "2025-10-24 03:01:27",
+      "album": {
+        "name": "\u00c9 Que os Menino \u00c9 Bom",
+        "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Soud",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "\u00c9 Que os Menino \u00c9 Bom",
+      "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
     },
     {
       "added_at": "2025-10-24 03:01:27",

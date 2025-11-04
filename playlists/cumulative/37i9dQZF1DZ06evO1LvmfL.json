@@ -1349,6 +1349,28 @@
     },
     {
       "album": {
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207794,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86"
+    },
+    {
+      "album": {
         "name": "About A Woman (From A Small Town)",
         "url": "https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci"
       },
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 207794,
       "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"

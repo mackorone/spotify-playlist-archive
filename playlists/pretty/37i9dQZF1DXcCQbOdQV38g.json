@@ -363,6 +363,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Viva Cerveza",
+        "url": "https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Viva Cerveza",
+      "url": "https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Viva Cerveza",
-        "url": "https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD"
-      },
-      "artists": [
-        {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Viva Cerveza",
-      "url": "https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Slapeloosheid",
+        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Slapeloosheid",
+      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Lichaamstaal",
         "url": "https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 148102,
       "name": "Lichaamstaal",
       "url": "https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Slapeloosheid",
-        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Slapeloosheid",
-      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -907,30 +907,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Laat Mij Nu Alleen",
-        "url": "https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
-        },
-        {
-          "name": "Don Perignon",
-          "url": "https://open.spotify.com/artist/4DYBWqRV6KEzNKKEyW9I0t"
-        },
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        }
-      ],
-      "duration_ms": 135882,
-      "name": "Laat Mij Nu Alleen",
-      "url": "https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Ruggengraat",
         "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
       },
@@ -963,6 +939,30 @@
       "duration_ms": 224844,
       "name": "Levenslang",
       "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Laat Mij Nu Alleen",
+        "url": "https://open.spotify.com/album/1o1IoR0EyRn13MwJil3kzR"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        },
+        {
+          "name": "Don Perignon",
+          "url": "https://open.spotify.com/artist/4DYBWqRV6KEzNKKEyW9I0t"
+        },
+        {
+          "name": "Sjaak",
+          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+        }
+      ],
+      "duration_ms": 135882,
+      "name": "Laat Mij Nu Alleen",
+      "url": "https://open.spotify.com/track/1Zrp43yN8u5awpag0A3DQo"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Seizoenen",
+        "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "Seizoenen",
+      "url": "https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Kadootje",
         "url": "https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 143362,
       "name": "Kadootje",
       "url": "https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Seizoenen",
-        "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
-      },
-      "artists": [
-        {
-          "name": "Shary-An",
-          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
-        }
-      ],
-      "duration_ms": 187941,
-      "name": "Seizoenen",
-      "url": "https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
+        "name": "Se\u00f1orita, Meisje van de nacht",
+        "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
       },
       "artists": [
         {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
         }
       ],
-      "duration_ms": 185261,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
+      "duration_ms": 176012,
+      "name": "Se\u00f1orita, Meisje van de nacht",
+      "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Se\u00f1orita, Meisje van de nacht",
-        "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
       },
       "artists": [
         {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
         }
       ],
-      "duration_ms": 176012,
-      "name": "Se\u00f1orita, Meisje van de nacht",
-      "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
+      "duration_ms": 185261,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
     },
     {
       "added_at": "2025-10-16 22:00:34",

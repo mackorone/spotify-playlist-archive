@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: 1111
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,879 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,908 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 56 | [if thats okay with u <3](https://open.spotify.com/track/5SjBZxVxM8qv00A2MBQ3QS) | [Arundel](https://open.spotify.com/artist/6iaTOGtvJed2OVFYAl9YEA) | [if thats okay with u <3](https://open.spotify.com/album/12YLAsNkEyWzbYvj4x1OYg) | 3:28 |
 | 57 | [Alone](https://open.spotify.com/track/1RHsONwpXcquKICISbiJxB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Alone](https://open.spotify.com/album/6OguGlQ0qqeNAOaggF4zDT) | 3:26 |
 | 58 | [Dappa Dan](https://open.spotify.com/track/6atT69esWSadQ7Ujx27Z3l) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Dappa Dan](https://open.spotify.com/album/5qRkINBz6wBrQxEAHe9DDC) | 4:08 |
-| 59 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
-| 60 | [Like This Like That](https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [EVERY TIME](https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg) | 4:13 |
-| 61 | [Feel Da Same](https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Feel Da Same](https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx) | 2:37 |
-| 62 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
+| 59 | [Like This Like That](https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [EVERY TIME](https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg) | 4:13 |
+| 60 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
+| 61 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
+| 62 | [Feel Da Same](https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Feel Da Same](https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx) | 2:37 |
 | 63 | [MasterBlaster 2025](https://open.spotify.com/track/7ADmyaXnqmU6POxnmLjdh2) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [SWN](https://open.spotify.com/artist/72kUoZtNxzO942bjFr66IM) | [MasterBlaster 2025](https://open.spotify.com/album/67qyXWMARqxZaGTcwAXu4z) | 2:54 |
-| 64 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
-| 65 | [Time Of Our Lives](https://open.spotify.com/track/1FTyUvELRNIOpiZXjcVW4D) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Time Of Our Lives](https://open.spotify.com/album/0hrtCwQoVienxal6lQVPLJ) | 3:31 |
+| 64 | [Time Of Our Lives](https://open.spotify.com/track/1FTyUvELRNIOpiZXjcVW4D) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Time Of Our Lives](https://open.spotify.com/album/0hrtCwQoVienxal6lQVPLJ) | 3:31 |
+| 65 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
 | 66 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
 | 67 | [Good Life](https://open.spotify.com/track/5Ed9pT75zW25Ig7kM3UB90) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/0FlFl8UOEfbmBdfpQWAVHI) | 2:47 |
 | 68 | [2 Spirits](https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [2 Spirits](https://open.spotify.com/album/4Cz8KBru4BGKeTlPJtmIVi) | 2:27 |
-| 69 | [Passport](https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Passport](https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T) | 2:42 |
-| 70 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
+| 69 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
+| 70 | [Passport](https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Passport](https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T) | 2:42 |
 
 Snapshot ID: `AAAAAFQkLl2bj+mJ6Fyvt8AsInpIf+eq`

@@ -744,10 +744,32 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 235760,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/3cnoa5cVaPNnxOAldyrERe"
+    },
+    {
+      "album": {
+        "name": "Festive Nocturnes",
+        "url": "https://open.spotify.com/album/6jMG6NUa2utWJ0xNKjCbMy"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106343,
+      "name": "Auld Lang Syne (Arr. Feuill\u00e2tre for Guitar)",
+      "url": "https://open.spotify.com/track/00CLNcXuVhmDVVGSEqXScp"
     },
     {
       "album": {
@@ -770,7 +792,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 201727,
       "name": "Auld Lang Syne (Arr. Knigge for Sopranino Recorder)",
       "url": "https://open.spotify.com/track/3sazlKF40siE9IiOHEywoT"
@@ -2142,10 +2164,28 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 182266,
       "name": "Gabriel's Message",
       "url": "https://open.spotify.com/track/3Yjsc5ePNRJ9y331MrIcYa"
+    },
+    {
+      "album": {
+        "name": "Gabriel's Message (Arr. Gjeilo for Piano)",
+        "url": "https://open.spotify.com/album/6RX3pxDOWHQM7JD1wCRUMV"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Gabriel's Message (Arr. Gjeilo for Piano)",
+      "url": "https://open.spotify.com/track/5xXnvnh1CoACAuPZAFi7tF"
     },
     {
       "album": {
@@ -3251,6 +3291,32 @@
     },
     {
       "album": {
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/1SLyAaUL7YI7tZKy4Bfk80"
+      },
+      "artists": [
+        {
+          "name": "Lowell Mason",
+          "url": "https://open.spotify.com/artist/1OTzty5JmoNS56iOYgsTwf"
+        },
+        {
+          "name": "Chanticleer",
+          "url": "https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0"
+        },
+        {
+          "name": "Tim Keeler",
+          "url": "https://open.spotify.com/artist/027v3Yqn168mUkTYWKptif"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "Joy to the World (Arr. for Vocal Ensemble by Adam Brett Ward)",
+      "url": "https://open.spotify.com/track/1Ta3IpaG4D9N3ilWfCQP49"
+    },
+    {
+      "album": {
         "name": "The Mystery of Christmas",
         "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
       },
@@ -3362,6 +3428,32 @@
       "duration_ms": 180480,
       "name": "Last Christmas - Lambert Rework",
       "url": "https://open.spotify.com/track/1yYCzS8OE7BfeWjlHnoDt0"
+    },
+    {
+      "album": {
+        "name": "Le No\u00ebl des oiseaux (Arr. for Cello & Piano by Julian Riem)",
+        "url": "https://open.spotify.com/album/7rpcd9hL0jlz7FTI4gxkb1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile Chaminade",
+          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195245,
+      "name": "Le No\u00ebl des oiseaux (Arr. for Cello & Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/2yAIk3lDsar4RUm3lcB6Cr"
     },
     {
       "album": {

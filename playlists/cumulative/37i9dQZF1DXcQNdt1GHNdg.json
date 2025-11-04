@@ -614,7 +614,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 187500,
       "name": "Ambar Dream",
       "url": "https://open.spotify.com/track/4AlIzNCUZCI0gyTEZLCDLR"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 181463,
       "name": "Bmx",
       "url": "https://open.spotify.com/track/1Tfgsmpa8fTLcqxlSVNyFk"
@@ -2203,6 +2203,32 @@
     },
     {
       "album": {
+        "name": "Corsa",
+        "url": "https://open.spotify.com/album/37YYfGSIOa2jBWaZ4XjEZ4"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Laddi Chahal",
+          "url": "https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133469,
+      "name": "Flex and Follow Up",
+      "url": "https://open.spotify.com/track/4ZbEKND0tW165VaN88ZpZp"
+    },
+    {
+      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/5XTBYcoHkyzS4ygbcbEMoG"
       },
@@ -2822,7 +2848,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 153198,
       "name": "Gunda",
       "url": "https://open.spotify.com/track/39Nhc2gTnfBXjdR2O7EY6J"
@@ -3470,6 +3496,28 @@
       "duration_ms": 183821,
       "name": "Kaim",
       "url": "https://open.spotify.com/track/0NTkmAMoSNWQ8cFVZEFrKB"
+    },
+    {
+      "album": {
+        "name": "KALA JADOO",
+        "url": "https://open.spotify.com/album/3wnuRJKW9gBIeG2hrP3Tf4"
+      },
+      "artists": [
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        },
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166009,
+      "name": "KALA JADOO",
+      "url": "https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98"
     },
     {
       "album": {
@@ -4592,6 +4640,32 @@
       "duration_ms": 162181,
       "name": "On Point",
       "url": "https://open.spotify.com/track/0vVByFRK4THSNqff1SS7rV"
+    },
+    {
+      "album": {
+        "name": "Corsa",
+        "url": "https://open.spotify.com/album/37YYfGSIOa2jBWaZ4XjEZ4"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Laddi Chahal",
+          "url": "https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "Own Spotlight",
+      "url": "https://open.spotify.com/track/1Lx4BBTcNp3623BVFVk5CM"
     },
     {
       "album": {

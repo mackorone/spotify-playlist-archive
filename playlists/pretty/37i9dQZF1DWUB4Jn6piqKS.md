@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,811 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,815 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 19 | [There's A Ghost In My House](https://open.spotify.com/track/4T20N2FPwrROVhJBb9n7rD) | [R\. Dean Taylor](https://open.spotify.com/artist/4Yg38CnYMoN09sMLf6KDdW) | [The Essential Collection](https://open.spotify.com/album/0tYlV4snWLH4rWQkX1p8nq) | 2:13 |
 | 20 | [Let's Wade In The Water](https://open.spotify.com/track/0l2CjLs5IuME1bZeRfNSrm) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 3:34 |
 | 21 | [Seven Days Too Long \- Mono](https://open.spotify.com/track/1WfHZKUkTwKQ57ukwd21PA) | [Chuck Wood](https://open.spotify.com/artist/7ot74oYptdmYydjyDmcLzg) | [The Roulette Story](https://open.spotify.com/album/6KRBqK0UvfDCATk8ORdC73) | 2:21 |
-| 22 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
-| 23 | [I'm on My Way](https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb) | [Dean Parrish](https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
+| 22 | [I'm on My Way](https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb) | [Dean Parrish](https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
+| 23 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
 | 24 | [Here I Go Again](https://open.spotify.com/track/0tRUmgZigd9uWdAF37oWNG) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [After Hours The Collection: Northern Soul Masters](https://open.spotify.com/album/5iJaTFZeejbvdeDSpA65E5) | 2:05 |
 | 25 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 |
 | 26 | [This Love Starved Heart Of Mine \(It's Killing Me\) \- 1994 Love Starved Heart Version \(Mono\)](https://open.spotify.com/track/2dQrPamTqMPkYAGRQO76dX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Lost & Found: Love Starved Heart \- Expanded Edition](https://open.spotify.com/album/1aGm5Z9HtjM0v0ldtDJVVB) | 2:40 |
 | 27 | [Just A Little Misunderstanding](https://open.spotify.com/track/03qdgEafx6iQkZHWQ6Ytjx) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [Essential](https://open.spotify.com/album/6SCZSe06bdBdFE3T3ouLT8) | 2:42 |
-| 28 | [Open the Door to Your Heart](https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Darrell Banks Is Here!](https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI) | 2:37 |
-| 29 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
+| 28 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
+| 29 | [Open the Door to Your Heart](https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Darrell Banks Is Here!](https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI) | 2:37 |
 | 30 | [Ain't Nothin But A Houseparty](https://open.spotify.com/track/64JXjk4JU0WG7BJwQTSga4) | [The Showstoppers](https://open.spotify.com/artist/20KXZcTJLZTfi2ER7yFnqr) | [Ain't Nothin But A House Party](https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw) | 2:38 |
 | 31 | [Landslide](https://open.spotify.com/track/3WoIKZ5ItkSOqGt3h1NLaV) | [Tony Clarke](https://open.spotify.com/artist/1XbD7zgDdqQXEqm4Pvkhw1) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 2:13 |
 | 32 | [Come On Train \- Original Mix](https://open.spotify.com/track/7sa9QlfY9MUYT2ysod85Rz) | [Don Thomas](https://open.spotify.com/artist/2P9UdbP8tHeUrz9gKuGu2y) | [Come On Train](https://open.spotify.com/album/1nEliK62SZTygH2Nm3bryF) | 3:16 |

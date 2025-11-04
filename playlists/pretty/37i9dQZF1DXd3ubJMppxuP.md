@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 
 > Hardstyle in het Nederlands\. Feest!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,455 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,478 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 | 28 | [Amalia \- Remix](https://open.spotify.com/track/767nFqBNpxIrQaceT0SzK4) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Opgeblazen](https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng) | [Amalia \(Remix\)](https://open.spotify.com/album/7zXl3exwnZRtt12HfOExgp) | 2:32 |
 | 29 | [Vette Boeren \- Radio Edit \- Daani Remix](https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb), [Daani](https://open.spotify.com/artist/1oKitXDww7YYe1D78bGnzT) | [Vette Boeren \(Radio Edit \- Daani Remix\)](https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p) | 2:28 |
 | 30 | [Naar de Klote](https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH) | [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Hak op de Tak](https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e) | [Naar de Klote](https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy) | 3:29 |
-| 31 | [Bon Gepakt \(feat\. Rene Froger\) \- Outsiders Remix](https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Outsiders Remix EP](https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ) | 3:46 |
-| 32 | [Banger Hart](https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn), [ANGUZ](https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav) | [Banger Hart](https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G) | 2:46 |
+| 31 | [Banger Hart](https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn), [ANGUZ](https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav) | [Banger Hart](https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G) | 2:46 |
+| 32 | [Bon Gepakt \(feat\. Rene Froger\) \- Outsiders Remix](https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Outsiders Remix EP](https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ) | 3:46 |
 | 33 | [City Streets](https://open.spotify.com/track/57tzA2bwjsgKZa3NBJvryR) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [City Streets](https://open.spotify.com/album/0sXs88sWqgcucXTKC5bV6R) | 3:33 |
 | 34 | [Links, Rechts](https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN) | [Arimann](https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ), [C\-strike](https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq) | [Links, Rechts](https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1) | 3:12 |
 | 35 | [Vier Zomers Lang \- Barry Fest Remix](https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf) | [Dirk Meeldijk](https://open.spotify.com/artist/1DBYfYovnZps4t5zDdBdru), [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY) | [Vier Zomers Lang \(Barry Fest Remix\)](https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr) | 3:27 |

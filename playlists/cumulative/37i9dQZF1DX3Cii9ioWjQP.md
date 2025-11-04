@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: SM JAZZ TRIO\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-270 songs - 18 hr 52 min
+271 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [One Last Try](https://open.spotify.com/track/7frTGx6QXM3hIqYeDle3JH) | [Jae Hong Park](https://open.spotify.com/artist/0zfE74CTrrvYONTaDAocIY) | [One Last Try](https://open.spotify.com/album/7eX5eD0bp4qMCsBopmgwXU) | 4:27 | 2023-03-31 | 2024-11-07 |
 | [One Way](https://open.spotify.com/track/5bBR2EJlhWg8yS4egKu7mW) | [한석규](https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR) | [One Way](https://open.spotify.com/album/2Yf93imyiTFQajsE5BYvux) | 2:59 | 2024-08-29 | 2025-02-19 |
 | [Only One](https://open.spotify.com/track/0Un3kqZvQ77N6YzGc5TzkG) | [Kiik](https://open.spotify.com/artist/5jUF0vJTYlZ6zGKnS9WK7v), [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Only One](https://open.spotify.com/album/6Da3vfFcCPL9w0g68L7Gxp) | 1:43 | 2023-07-07 | 2024-11-07 |
+| [Only One \- Jazz Version](https://open.spotify.com/track/3w4m8rUUedwM81wAAgg5Hk) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Only One \(Jazz Version\)](https://open.spotify.com/album/057BrYACkijfylrhjwJAsM) | 4:28 | 2025-11-03 |  |
 | [Orange Sky Highway](https://open.spotify.com/track/5ObPWJEwM5W1wVqHwtgy9f) | [Rofesta Gipsyband](https://open.spotify.com/artist/4ZLcFGWaJ1BqEixadAD6Kp) | [Orange Sky Highway](https://open.spotify.com/album/5Zw6e3qXRwdNfsQ6Nb3a97) | 5:51 | 2022-05-03 | 2022-05-19 |
 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-22 | 2024-10-10 |
 | [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2022-05-03 | 2022-06-21 |

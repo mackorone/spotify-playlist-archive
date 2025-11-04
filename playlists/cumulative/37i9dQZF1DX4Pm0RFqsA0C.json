@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Seotaiji And Boys I",
+        "url": "https://open.spotify.com/album/71EmXli7NGuMKvVl7GkFRU"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "I Know (`92 TV Edit)",
+      "url": "https://open.spotify.com/track/4rmBG4TbonmOpERfKHsLTy"
+    },
+    {
+      "album": {
         "name": "Seotaiji and Boys",
         "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 237963,
       "name": "Unreasonable Reason",
       "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"

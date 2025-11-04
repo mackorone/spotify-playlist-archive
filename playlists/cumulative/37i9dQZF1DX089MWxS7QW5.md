@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Ellui\(엘루이\)\)
 
-584 songs - 1 day 7 hr 27 min
+585 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [chasing you](https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [chasing you](https://open.spotify.com/album/38K7xBBVe4XrZm7Y07lNhZ) | 3:06 | 2022-08-02 | 2023-01-21 |
 | [Cherry](https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:30 | 2024-08-21 | 2024-12-06 |
 | [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 | 2024-03-05 | 2024-08-02 |
+| [Chocolate Baby](https://open.spotify.com/track/7jfdsPSaIFH9B9NDrMfwhP) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [Chocolate Baby](https://open.spotify.com/album/4YEr2bJ6XjBgMboPfX76Dn) | 3:14 | 2025-11-03 |  |
 | [chocolate love](https://open.spotify.com/track/4EHDIT0VwONdYdPZQJPgtn) | [Lee Seojin](https://open.spotify.com/artist/4P6UehecN74wOGkJKM77eW) | [chocolate love](https://open.spotify.com/album/52u7FyTB3CSBb8l6zyDebj) | 3:05 | 2024-09-27 | 2025-02-15 |
 | [Choose Me \(feat\. Vince\)](https://open.spotify.com/track/4GTosMKxwHJsbrSfaRPc9K) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [Choose Me \(feat\. Vince\)](https://open.spotify.com/album/2vLVhxjpQVOPDxNQo7UeCb) | 3:22 | 2023-04-04 | 2023-09-19 |
 | [Circle \(Feat\. Demian Love\)](https://open.spotify.com/track/4p3CNPNKYOqzCBd8uQKqA9) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Demian Love](https://open.spotify.com/artist/39ilK8sp48AGEp3Zd3mBf6) | [Circle](https://open.spotify.com/album/2nlTltFuBMgB5dDsuf6dEF) | 2:40 | 2024-01-08 | 2024-05-01 |
@@ -474,7 +475,7 @@
 | [Step](https://open.spotify.com/track/0nQGxsU4YRp30FEVCaugdq) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Step](https://open.spotify.com/album/2J0icYKdk19idztc0KgvHO) | 3:17 | 2024-04-26 | 2024-08-04 |
 | [Still LOVE](https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Time Machine](https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf) | 2:54 | 2024-08-09 | 2024-10-28 |
 | [Still My Baby \(feat\. BUMKEY\)](https://open.spotify.com/track/4XzSMVLuTSLsIhAwD8eWuc) | [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Still My Baby](https://open.spotify.com/album/74pcbfqQXzki48G0Y4b3eT) | 3:53 | 2025-02-20 | 2025-06-03 |
-| [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/3dL5qo0TDlRJXV8K3FNZID) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 | 2025-10-22 |  |
+| [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/4uoKLZ5dHkP1NLHRudbQFw) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 | 2025-10-22 |  |
 | [Strike](https://open.spotify.com/track/0Djk0AVUiqZX4Y8txXwcNF) | [HANYE](https://open.spotify.com/artist/76Qu3bKsPh71Tzt5Sj2DQL) | [Strike](https://open.spotify.com/album/1z1oGlLPH3tg6F2plDuF6t) | 4:24 | 2022-12-13 | 2023-04-28 |
 | [Stuck in](https://open.spotify.com/track/4sgjUKUuEAIPbKAvRny0fN) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Stuck in](https://open.spotify.com/album/6QG23BFWlIJxcweb1nU0Rv) | 3:34 | 2023-01-18 | 2023-08-18 |
 | [Stupid \(feat\. Ashley Alisha & J.O.Y\)](https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Autumn Night](https://open.spotify.com/album/6OS1NCPPhr5GgQKBXipGCs) | 2:56 | 2023-10-27 | 2024-03-16 |

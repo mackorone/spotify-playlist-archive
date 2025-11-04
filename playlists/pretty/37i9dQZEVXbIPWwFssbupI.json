@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 860603,
+  "num_followers": 860657,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MJrLeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MJwc+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "melodrama",
         "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "MON B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "The Last Race",
         "url": "https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3XHcbhTEqJ21TTkQFUe6bG"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
@@ -113,7 +113,47 @@
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "The Last Race",
+        "url": "https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Toute la nuit",
+      "url": "https://open.spotify.com/track/3ReDT1HLea9eTWEPtwE7fP"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "MEGA BBL",
+        "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 162041,
+      "name": "ZOU BISOU",
+      "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -145,7 +185,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "Et si j'\u00e9choue ??",
         "url": "https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR"
@@ -161,7 +201,23 @@
       "url": "https://open.spotify.com/track/4R0HXKZBeDJerIq9oCnDIp"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "Serrure #5",
+        "url": "https://open.spotify.com/album/3TCF7Viht2vSfN3lBPHWd9"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "Serrure #5",
+      "url": "https://open.spotify.com/track/1bofHa2E6mPWgILo9SmDTG"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "AVTLR",
         "url": "https://open.spotify.com/album/4k10wWcbZwk1SfBwawz64s"
@@ -181,63 +237,7 @@
       "url": "https://open.spotify.com/track/2oVMbiuuqoRoEzdQKcaQgO"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "The Last Race",
-        "url": "https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8"
-      },
-      "artists": [
-        {
-          "name": "GP Explorer",
-          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
-        },
-        {
-          "name": "Anyme023",
-          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Toute la nuit",
-      "url": "https://open.spotify.com/track/3ReDT1HLea9eTWEPtwE7fP"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
-        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "APPELLE TA COPINE",
-      "url": "https://open.spotify.com/track/1JyRpP8m5n45JGpMelt5Yk"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "MEGA BBL",
-        "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 162041,
-      "name": "ZOU BISOU",
-      "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "Africa Jungle Part.1",
         "url": "https://open.spotify.com/album/3CEQfO8lftbOCvj5khGddm"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5dnM53F6iHQZbyu8k5HUSg"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ"
@@ -273,23 +273,23 @@
       "url": "https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+        "name": "Adriano",
+        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
       },
       "artists": [
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 137840,
-      "name": "KYKY2BONDY",
-      "url": "https://open.spotify.com/track/3e2dR2180mZlz7dIrXZVi6"
+      "duration_ms": 142122,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "TOPBOY : Tome 1",
         "url": "https://open.spotify.com/album/5dZImBvYOJxHYOXtRrwJWy"
@@ -309,23 +309,7 @@
       "url": "https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "Adriano",
-        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 142122,
-      "name": "Adriano",
-      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -341,23 +325,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "Serrure #5",
-        "url": "https://open.spotify.com/album/3TCF7Viht2vSfN3lBPHWd9"
-      },
-      "artists": [
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "Serrure #5",
-      "url": "https://open.spotify.com/track/1bofHa2E6mPWgILo9SmDTG"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "7/7 : 24/24",
         "url": "https://open.spotify.com/album/0u2KFP9XvLHwQshJy1wDTM"
@@ -373,7 +341,103 @@
       "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 137840,
+      "name": "KYKY2BONDY",
+      "url": "https://open.spotify.com/track/3e2dR2180mZlz7dIrXZVi6"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "APPELLE TA COPINE",
+      "url": "https://open.spotify.com/track/1JyRpP8m5n45JGpMelt5Yk"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "LOVE YOU",
+        "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "LOVE YOU",
+      "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "A LA VIE A LA MORT",
+        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "CARTIER SANTOS",
+      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "Franchement !",
         "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
@@ -401,7 +465,7 @@
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
@@ -421,79 +485,23 @@
       "url": "https://open.spotify.com/track/7n1H7Rh5aLAmQIAyotb4fm"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
-        "name": "A LA VIE A LA MORT",
-        "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
+        "name": "JAMAIS TOI",
+        "url": "https://open.spotify.com/album/6dQWtrLDBGl3pQEXEV5hXm"
       },
       "artists": [
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
         }
       ],
-      "duration_ms": 183813,
-      "name": "CARTIER SANTOS",
-      "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
+      "duration_ms": 167312,
+      "name": "JAMAIS TOI",
+      "url": "https://open.spotify.com/track/5cvDRCSNLdK0WR52177H8B"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "Focus Mentalit\u00e9",
-        "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 156676,
-      "name": "Melrose Place",
-      "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
-        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "AIR FORCE BLANCHE",
-      "url": "https://open.spotify.com/track/4mDpnv3WoBynj16hsjGihU"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "SKYMUSIC",
         "url": "https://open.spotify.com/album/37JrDIYxafjmFg9IHcDWU4"
@@ -517,43 +525,7 @@
       "url": "https://open.spotify.com/track/3kKAbmfo52VNiNKF4oDAeY"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "LOVE YOU",
-        "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "LOVE YOU",
-      "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "Aura X G-wave",
         "url": "https://open.spotify.com/album/19oWIQY8EuiAaxbS7Atbga"
@@ -573,63 +545,83 @@
       "url": "https://open.spotify.com/track/7EyB1sN9IUO1YXIoHTyZRk"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
-        "name": "JAMAIS TOI",
-        "url": "https://open.spotify.com/album/6dQWtrLDBGl3pQEXEV5hXm"
+        "name": "Focus Mentalit\u00e9",
+        "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
       },
       "artists": [
         {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "JAMAIS TOI",
-      "url": "https://open.spotify.com/track/5cvDRCSNLdK0WR52177H8B"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "Skywalker Haze - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3Xudj0lVJpPiBkiMLy5aim"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Skywalker Haze - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq"
+      "duration_ms": 156676,
+      "name": "Melrose Place",
+      "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
-        "name": "Hybride",
-        "url": "https://open.spotify.com/album/7MhbwWT1TkRX0qOQknpSsk"
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
       },
       "artists": [
         {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         },
         {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 144010,
-      "name": "Mode avion",
-      "url": "https://open.spotify.com/track/0AK8IWlP9r2cJ0LUzwtNho"
+      "duration_ms": 186000,
+      "name": "AIR FORCE BLANCHE",
+      "url": "https://open.spotify.com/track/4mDpnv3WoBynj16hsjGihU"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 184988,
+      "name": "FASHION DESIGNA",
+      "url": "https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "4h44",
         "url": "https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ"
@@ -649,91 +641,7 @@
       "url": "https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 165978,
-      "name": "SOIS PAS TIMIDE",
-      "url": "https://open.spotify.com/track/1sccu8ze6ETRiNbNH9pj5N"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "BAD BOY LOVESTORY",
-        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 184988,
-      "name": "FASHION DESIGNA",
-      "url": "https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "CAPITALE DU CRIME RADIO, vol. 2",
-        "url": "https://open.spotify.com/album/62LiH2GLoJvKJEKgqQxsoF"
-      },
-      "artists": [
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Flying Blue",
-      "url": "https://open.spotify.com/track/6EDZsWmhRHux8ZoqISJ2Ka"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
-        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 167813,
-      "name": "NINAO",
-      "url": "https://open.spotify.com/track/2zZxAdLZf3hhJHboKBMm29"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "The Last Race",
         "url": "https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8"
@@ -757,7 +665,163 @@
       "url": "https://open.spotify.com/track/4frYOVaMfQ7iyvKLehnARi"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "P.I.B",
+        "url": "https://open.spotify.com/album/5nxUUmZPyFp2QOiXuZb4fX"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "P.I.B",
+      "url": "https://open.spotify.com/track/3TAZc74uzlJW77FAGbvddN"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "Hybride",
+        "url": "https://open.spotify.com/album/7MhbwWT1TkRX0qOQknpSsk"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 144010,
+      "name": "Mode avion",
+      "url": "https://open.spotify.com/track/0AK8IWlP9r2cJ0LUzwtNho"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "CAPITALE DU CRIME RADIO, vol. 2",
+        "url": "https://open.spotify.com/album/62LiH2GLoJvKJEKgqQxsoF"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Flying Blue",
+      "url": "https://open.spotify.com/track/6EDZsWmhRHux8ZoqISJ2Ka"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "Skywalker Haze - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3Xudj0lVJpPiBkiMLy5aim"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Skywalker Haze - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 165978,
+      "name": "SOIS PAS TIMIDE",
+      "url": "https://open.spotify.com/track/1sccu8ze6ETRiNbNH9pj5N"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "N\u00e9s Pour Briller : Book I",
+        "url": "https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "P\u00e9lican",
+      "url": "https://open.spotify.com/track/4liOLSxxEllQ61qaR4pFJL"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 135523,
+      "name": "DO U WANNA ?",
+      "url": "https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "Shatta Confessions",
         "url": "https://open.spotify.com/album/4mPjrlSA27gzo3nomTW6GP"
@@ -777,43 +841,23 @@
       "url": "https://open.spotify.com/track/7zywuMtaJQL7Nz2aTCOBCU"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
+        "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
+        "url": "https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5"
       },
       "artists": [
         {
           "name": "GIMS",
           "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 188818,
-      "name": "SPIDER",
-      "url": "https://open.spotify.com/track/4oVMLxxYpQLYx8gx4JjuuY"
+      "duration_ms": 167813,
+      "name": "NINAO",
+      "url": "https://open.spotify.com/track/2zZxAdLZf3hhJHboKBMm29"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 163472,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -833,39 +877,59 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
-        "name": "BAD BOY LOVESTORY",
-        "url": "https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm"
+        "name": "BTRD",
+        "url": "https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB"
       },
       "artists": [
         {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
         }
       ],
-      "duration_ms": 135523,
-      "name": "DO U WANNA ?",
-      "url": "https://open.spotify.com/track/5kaYIpCzyVfPLyrjKDtgtF"
+      "duration_ms": 140487,
+      "name": "BTRD",
+      "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
+        "name": "Pyramide",
+        "url": "https://open.spotify.com/album/1g5NH7uMyGKDHL9DxMDLdS"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         }
       ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
+      "duration_ms": 210247,
+      "name": "P\u00e9tunias",
+      "url": "https://open.spotify.com/track/3Byu179ofnuChb4zF1fMhu"
     },
     {
-      "added_at": "2025-11-02 14:06:32",
+      "added_at": "2025-11-03 15:41:52",
+      "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/4oVMLxxYpQLYx8gx4JjuuY"
+    },
+    {
+      "added_at": "2025-11-03 15:41:52",
       "album": {
         "name": "AD VITAM \u00c6TERNAM",
         "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
@@ -883,70 +947,6 @@
       "duration_ms": 178401,
       "name": "Dolce Camara",
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "AVTLR",
-        "url": "https://open.spotify.com/album/4k10wWcbZwk1SfBwawz64s"
-      },
-      "artists": [
-        {
-          "name": "TKS 2G",
-          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Whine",
-      "url": "https://open.spotify.com/track/270e7DrH30CwgNJt7YtExp"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "P.I.B",
-        "url": "https://open.spotify.com/album/5nxUUmZPyFp2QOiXuZb4fX"
-      },
-      "artists": [
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "P.I.B",
-      "url": "https://open.spotify.com/track/3TAZc74uzlJW77FAGbvddN"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "LE NORD SE SOUVIENT",
-        "url": "https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "CIEL",
-      "url": "https://open.spotify.com/track/1RiCNSkK4AfT1j8ZM4JnVs"
-    },
-    {
-      "added_at": "2025-11-02 14:06:32",
-      "album": {
-        "name": "N\u00e9s Pour Briller : Book I",
-        "url": "https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "P\u00e9lican",
-      "url": "https://open.spotify.com/track/4liOLSxxEllQ61qaR4pFJL"
     }
   ],
   "unique_name": "Top 50 - France",

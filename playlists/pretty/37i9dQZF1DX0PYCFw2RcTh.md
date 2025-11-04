@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 
 > Poddar att ha på din RADAR\. Omslag: Inte pojkvänner
 
-[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 10 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 10 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

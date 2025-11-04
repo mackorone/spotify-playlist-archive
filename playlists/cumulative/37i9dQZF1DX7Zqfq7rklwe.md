@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇 Kannessa Ice Nine Kills.
 
-327 songs - 21 hr 16 min
+328 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bless The Child](https://open.spotify.com/track/6Z2MwbeouGY1vsLiJfviti) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 6:12 | 2024-11-07 | 2025-10-10 |
 | [BLOODMOON](https://open.spotify.com/track/2DTmOnUO59rxYsKOuODQZk) | [rock band from hell](https://open.spotify.com/artist/271PF7IlfHIJJ6XoOYg7cP) | [BLOODMOON](https://open.spotify.com/album/53M96kkpf7dLDnAetZ8iss) | 2:34 | 2024-09-11 | 2024-11-29 |
 | [Bones](https://open.spotify.com/track/52cYmi3J52sQGcHEekBAEj) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Bones](https://open.spotify.com/album/3ijEkERXHYz6Kfu68lfvCq) | 4:55 | 2025-07-10 | 2025-07-18 |
+| [Born Again](https://open.spotify.com/track/1SrAT7vAJGh13Zy0kGdOjH) | [DIRT](https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa) | [Born Again](https://open.spotify.com/album/2PS94dz5nFYM3pwoW055Go) | 3:49 | 2025-11-03 |  |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 | 2024-09-11 | 2025-06-20 |
 | [Brain Dead](https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Brain Dead](https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU) | 2:48 | 2025-02-27 | 2025-03-21 |
 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 | 2025-06-26 | 2025-08-15 |

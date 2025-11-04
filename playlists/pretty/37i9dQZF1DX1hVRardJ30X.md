@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Maria Becerra, Codiciado & Xavi, Tiago PZK and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,718 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,702 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 19 | [La Luna Me Dijo](https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Luna Me Dijo](https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r) | 2:37 |
 | 20 | [Mi Perra Es](https://open.spotify.com/track/7uyMSEjNulquqW61YOod7z) | [LEANDRO](https://open.spotify.com/artist/2BFWa30G0rc3ll9oY2BA3F), [KEICY](https://open.spotify.com/artist/2Ep5jp8iscI74sMi7XNrvy), [Leandro Santos](https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4), [WestCOL](https://open.spotify.com/artist/7aHjCnaU9hjEKutc27SJxE), [Manix](https://open.spotify.com/artist/1eJ5J8WxQ0FVGfvh5s9fkk), [Kavy Kali](https://open.spotify.com/artist/77bweg7RoY35EmCC7kFXOc) | [Mi Perra Es](https://open.spotify.com/album/4LDPfPrYt6vM1l9Ae5htIu) | 4:05 |
 | 21 | [AMANECIDO Y REGAÑADO](https://open.spotify.com/track/67BjeJkPgqHpkzlQveRoFh) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [AMANECIDO Y REGAÑADO](https://open.spotify.com/album/0H5gvCntscRctlcdmwMUJF) | 3:25 |
-| 22 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:56 |
+| 22 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:57 |
 | 23 | [Un Vacío](https://open.spotify.com/track/1abmOtNtVEks3q3dSs998L) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Un Vacío](https://open.spotify.com/album/0JUkABW8nkaDu0ibaTDEaU) | 2:31 |
 | 24 | [Fenty](https://open.spotify.com/track/4OHBKKxfdfTAGT9SlwFghh) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu) | [Fenty](https://open.spotify.com/album/3V6CMRaUuIglqh0OzGqkwf) | 2:03 |
 | 25 | [MAGIC BOO](https://open.spotify.com/track/0dCqeXD5R797YhSYaBSfxX) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [MAGIC BOO](https://open.spotify.com/album/3plNaWM2u6coXoYNO5LRXd) | 2:55 |

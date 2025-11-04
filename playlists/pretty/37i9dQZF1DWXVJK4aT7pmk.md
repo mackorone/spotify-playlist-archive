@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,415,357 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,415,611 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Main Hi Kyon](https://open.spotify.com/track/2Cpjt0KPjtyfp8z96Iz3NS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7) | [Main Hi Kyon](https://open.spotify.com/album/1MBWAEMYBtEPgLtSZIKDjP) | 2:33 |
 | 50 | [MF Gabhru!](https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [MF Gabhru!](https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i) | 3:20 |
 
-Snapshot ID: `AAAAAGNnONeTrVN5urJXyZQs35klnlUH`
+Snapshot ID: `AAAAACXbjIctd4FQ7N2U2Dxco3Rgu0Oo`

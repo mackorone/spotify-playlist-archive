@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22586,
+  "num_followers": 22593,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAADTsPizPuVwXxEgzVryfNdp",
+  "snapshot_id": "aQafAAAAAADNay6TZl1jYHmlymab6wEf",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gisele Nascimento 20 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 325720,
+      "name": "Vencer ou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 310257,
       "name": "Deus Prover\u00e1",
       "url": "https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enquanto a Igreja Ora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Cavalcanty",
-          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Enquanto a Igreja Ora (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
     },
     {
       "added_at": null,
@@ -667,28 +667,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gisele Nascimento 20 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4"
+        "name": "Enquanto a Igreja Ora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
       },
       "artists": [
         {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+          "name": "Fam\u00edlia Cavalcanty",
+          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 325720,
-      "name": "Vencer ou Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
+      "duration_ms": 196200,
+      "name": "Enquanto a Igreja Ora (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,

@@ -6061,6 +6061,28 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d4 \u05e9\u05d9\u05d1\u05d5\u05d0",
+        "url": "https://open.spotify.com/album/4sgmgLvtU66PoH1o0ATJGf"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d9 \u05d4\u05de\u05d1\u05e8",
+          "url": "https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8"
+        },
+        {
+          "name": "Ran Danker",
+          "url": "https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo"
+        }
+      ],
+      "date_added": "2025-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "\u05de\u05d4 \u05e9\u05d9\u05d1\u05d5\u05d0",
+      "url": "https://open.spotify.com/track/2EwDKsoemDnIgfJ23k52cv"
+    },
+    {
+      "album": {
         "name": "\u05d8\u05d5\u05d4\u05e8",
         "url": "https://open.spotify.com/album/4daZgs5ldX57soeQHk6Jg7"
       },

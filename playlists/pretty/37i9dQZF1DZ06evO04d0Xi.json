@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73735,
+  "num_followers": 73736,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAADFRHkcixnKIcYtK/om+7cA",
+  "snapshot_id": "aQafAAAAAADikAve5vARXkBe2+h8LBIL",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 228948,
-      "name": "Algu\u00e9m",
-      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+      "duration_ms": 273670,
+      "name": "Como Se Cura a Ferida",
+      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 273670,
-      "name": "Como Se Cura a Ferida",
-      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
+      "duration_ms": 228948,
+      "name": "Algu\u00e9m",
+      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Ele Escolheu os Cravos",
-      "url": "https://open.spotify.com/track/56cCCbRpp3X4X6YrD0Edim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 279614,
       "name": "Enquanto Eu Chorava",
       "url": "https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Ele Escolheu os Cravos",
+      "url": "https://open.spotify.com/track/56cCCbRpp3X4X6YrD0Edim"
     },
     {
       "added_at": null,

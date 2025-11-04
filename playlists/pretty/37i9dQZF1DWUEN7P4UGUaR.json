@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 15633,
+  "num_followers": 15645,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -831,26 +831,6 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "Unconditional Love (feat. Niiella)",
-        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Niiella",
-          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
-        }
-      ],
-      "duration_ms": 226017,
-      "name": "Unconditional Love (feat. Niiella)",
-      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5AhyxOO5MvwHZDx0E1S5KP"
       },
@@ -875,26 +855,38 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
-        "name": "JEHOVAH OVERDO",
-        "url": "https://open.spotify.com/album/77FfDFvBdqw5JrtCcUHu9G"
+        "name": "Unconditional Love (feat. Niiella)",
+        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
       },
       "artists": [
         {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
-        },
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        },
-        {
           "name": "Joe Mettle",
           "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Niiella",
+          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
         }
       ],
-      "duration_ms": 143861,
-      "name": "JEHOVAH OVERDO",
-      "url": "https://open.spotify.com/track/4CpkksfFzZWfdfa1jgJHnK"
+      "duration_ms": 226017,
+      "name": "Unconditional Love (feat. Niiella)",
+      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
+        "name": "Golden Oil",
+        "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 274599,
+      "name": "Se Mekume Ho",
+      "url": "https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH"
     }
   ],
   "unique_name": "Aseda",

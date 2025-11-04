@@ -6,8 +6,32 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUxLWhVY2253gn+1sj8OKXTlZQ3FJf",
+  "snapshot_id": "AAAUxS4ylBK6hlBl1McY0WE8XDPZHNwn",
   "tracks": [
+    {
+      "added_at": "2025-11-03 16:56:39",
+      "album": {
+        "name": "Don't Let Me Down (Remixes)",
+        "url": "https://open.spotify.com/album/6KDoxtsp3kGaBUoBylyvwY"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Julienne By",
+          "url": "https://open.spotify.com/artist/4aUyfJwzLfhVjBUIYmGsg5"
+        },
+        {
+          "name": "Synergy",
+          "url": "https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK"
+        }
+      ],
+      "duration_ms": 160010,
+      "name": "Don't Let Me Down - Synergy Remix",
+      "url": "https://open.spotify.com/track/3G3jt43udnltHDL3Tksc3P"
+    },
     {
       "added_at": "2025-10-31 16:38:47",
       "album": {

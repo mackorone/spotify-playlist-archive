@@ -1441,6 +1441,36 @@
     },
     {
       "album": {
+        "name": "B\u00c6D",
+        "url": "https://open.spotify.com/album/4DW359zySOc9NwLGAuCsIm"
+      },
+      "artists": [
+        {
+          "name": "Juh-Dee",
+          "url": "https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB"
+        },
+        {
+          "name": "Young Mesh",
+          "url": "https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150709,
+      "name": "B\u00c6D",
+      "url": "https://open.spotify.com/track/3XYYTXykHA95m1EmSf9y5H"
+    },
+    {
+      "album": {
         "name": "B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/0N4e4zr7MKRMlo9EHlFv7o"
       },
@@ -1840,7 +1870,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 151399,
       "name": "CUT",
       "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
@@ -3414,7 +3444,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 180062,
       "name": "Juana auf Snapchat",
       "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
@@ -4028,7 +4058,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 170476,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/7rgueODA0VdgShneWKwPGp"
@@ -6085,6 +6115,24 @@
     },
     {
       "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149973,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B"
+    },
+    {
+      "album": {
         "name": "solo",
         "url": "https://open.spotify.com/album/5XTRhv28G5Fao7M6MQudBU"
       },
@@ -6616,6 +6664,28 @@
       "duration_ms": 146465,
       "name": "TMAX",
       "url": "https://open.spotify.com/track/5TcDi7siTwegIfZYR4VekF"
+    },
+    {
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169004,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA"
     },
     {
       "album": {

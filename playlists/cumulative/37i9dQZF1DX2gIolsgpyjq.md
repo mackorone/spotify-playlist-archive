@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Scout
 
-1,404 songs - 3 day 1 hr 59 min
+1,405 songs - 3 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [EGO DEATH](https://open.spotify.com/track/1Tl0wKnSoMgEgpa1jtYbfb) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [EGO DEATH](https://open.spotify.com/album/6GWzfMuwHu8qOlm6aqgbXe) | 5:45 | 2024-07-25 | 2024-09-14 |
 | [electric dream](https://open.spotify.com/track/3owm6kuLMIw8qOYuUB3HAT) | [Silent Boy](https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [electric dream](https://open.spotify.com/album/61qNaShSguYm9aWHrqQmPs) | 2:43 | 2025-05-01 | 2025-06-20 |
 | [Elegantly](https://open.spotify.com/track/19AYjIGUoCQZAXQj9PJWo9) | [Joselin](https://open.spotify.com/artist/6QGSO53ZvBWWNInDC2anMt) | [Elegantly](https://open.spotify.com/album/328mBKq090GLmA8dkHZMwT) | 2:56 | 2024-04-04 | 2024-06-07 |
+| [Elin](https://open.spotify.com/track/0zhXmPOonnfX7P1gNosPiM) | [Agnes Skure](https://open.spotify.com/artist/3mSaNio38zjJkLyozP2hc0), [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Gazette](https://open.spotify.com/album/2xFrT3KiZm9iW14EY3Gs7n) | 3:52 | 2025-11-03 |  |
 | [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Elixir](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 | 2024-10-10 | 2024-11-22 |
 | [Emasculate](https://open.spotify.com/track/0PIsET3ekLyiw82zlaDU8B) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Emasculate](https://open.spotify.com/album/18AvIFD1U4sg7hSSYHnhh3) | 2:26 | 2025-03-06 | 2025-05-09 |
 | [Emo Shred](https://open.spotify.com/track/2KgnwXV8FAHADnlDel8gBw) | [Mall Girl](https://open.spotify.com/artist/77W4p4twkLnwNkMp7t3KBf) | [Emo Shred](https://open.spotify.com/album/5BGD13g9YpiZkF6xXuhTWQ) | 1:58 | 2024-02-08 | 2024-03-01 |

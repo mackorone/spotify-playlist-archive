@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116504,
+  "num_followers": 116506,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
+        "name": "Hoppe inn med hjertet f\u00f8rst",
+        "url": "https://open.spotify.com/album/5aLeG3uJQeB5GBFxEfukZS"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 174951,
+      "name": "Hoppe inn med hjertet f\u00f8rst",
+      "url": "https://open.spotify.com/track/7qgk9wQwrXZnL8cZgA8vKR"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
         "name": "Flesk og duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
-        "name": "Hoppe inn med hjertet f\u00f8rst",
-        "url": "https://open.spotify.com/album/5aLeG3uJQeB5GBFxEfukZS"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 174951,
-      "name": "Hoppe inn med hjertet f\u00f8rst",
-      "url": "https://open.spotify.com/track/7qgk9wQwrXZnL8cZgA8vKR"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
+        "name": "Kunna vorre v\u00e6r",
+        "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 138388,
+      "name": "Kunna vorre v\u00e6r",
+      "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
         "name": "Nachspiel",
         "url": "https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 157714,
       "name": "Nachspiel",
       "url": "https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
-        "name": "Kunna vorre v\u00e6r",
-        "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 138388,
-      "name": "Kunna vorre v\u00e6r",
-      "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -639,26 +639,18 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Viddas Himmelbl\u00e5",
-        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
+        "name": "Morra di",
+        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        },
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        },
-        {
-          "name": "Nils Mikael H\u00e6tta",
-          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 192282,
-      "name": "Viddas Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+      "duration_ms": 162093,
+      "name": "Morra di",
+      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -683,18 +675,26 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Morra di",
-        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Morra di",
-      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -787,22 +787,22 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "GUT OG KAR",
-        "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
+        "name": "Hopp inn i kjerra",
+        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
       },
       "artists": [
         {
-          "name": "Skei & PT",
-          "url": "https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         },
         {
-          "name": "BEIST",
-          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         }
       ],
-      "duration_ms": 187206,
-      "name": "GUT OG KAR",
-      "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
+      "duration_ms": 140940,
+      "name": "Hopp inn i kjerra",
+      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -823,22 +823,22 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Hopp inn i kjerra",
-        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
+        "name": "GUT OG KAR",
+        "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Skei & PT",
+          "url": "https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV"
         },
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+          "name": "BEIST",
+          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
         }
       ],
-      "duration_ms": 140940,
-      "name": "Hopp inn i kjerra",
-      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
+      "duration_ms": 187206,
+      "name": "GUT OG KAR",
+      "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
-      },
-      "artists": [
-        {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
         "name": "De g\u00e6rne har det godt",
         "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 128653,
       "name": "De g\u00e6rne har det godt",
       "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
+        "name": "Sv\u00e6re Pupper",
+        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
+      },
+      "artists": [
+        {
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Sv\u00e6re Pupper",
+      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
     },
     {
       "added_at": "2025-10-23 22:00:47",

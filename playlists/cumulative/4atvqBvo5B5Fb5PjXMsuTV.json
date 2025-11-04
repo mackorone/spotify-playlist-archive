@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Nov 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Nov 23:05 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -620,6 +620,24 @@
       "duration_ms": 215401,
       "name": "1208",
       "url": "https://open.spotify.com/track/77H0nQuzBbjedQAHySuTUb"
+    },
+    {
+      "album": {
+        "name": "132 TECHNO",
+        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334584,
+      "name": "132 TECHNO",
+      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
     },
     {
       "album": {
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 161696,
       "name": "61 Song",
       "url": "https://open.spotify.com/track/6lHsChIyTlOR7iXABkR4qe"
@@ -6990,7 +7008,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 269433,
       "name": "Asking For A Friend",
       "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
@@ -23361,6 +23379,24 @@
     },
     {
       "album": {
+        "name": "Dead Bodies",
+        "url": "https://open.spotify.com/album/0OktvSnBka1CLuhtxx5b3R"
+      },
+      "artists": [
+        {
+          "name": "Insane Clown Posse",
+          "url": "https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Dead Bodies",
+      "url": "https://open.spotify.com/track/3kxlRhgKftSWfswDoNYUFr"
+    },
+    {
+      "album": {
         "name": "Dead Flowers",
         "url": "https://open.spotify.com/album/3euuf98cLbpqehEQpUckdO"
       },
@@ -31198,6 +31234,24 @@
       "duration_ms": 182434,
       "name": "Failstate",
       "url": "https://open.spotify.com/track/3azEr1hhru3U90cc8Y2aH8"
+    },
+    {
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144807,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
     },
     {
       "album": {
@@ -54660,6 +54714,24 @@
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+    },
+    {
+      "album": {
+        "name": "LET'S JUST CRASH",
+        "url": "https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195035,
+      "name": "LET'S JUST CRASH",
+      "url": "https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li"
     },
     {
       "album": {
@@ -100436,7 +100508,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 175446,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
@@ -106694,7 +106766,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 164336,
       "name": "WOWOWO!",
       "url": "https://open.spotify.com/track/6Krs72SZQkeZVgxjEDiobM"

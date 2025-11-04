@@ -4,7 +4,7 @@
 
 > Simply rain
 
-361 songs - 16 hr 37 min
+362 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Ferry In Rain Stockholm](https://open.spotify.com/track/3IxXxslxS3jXhPyPrEEDhn) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Rain Over Stockholm Inlet](https://open.spotify.com/album/3o8218c81CYu3LfKnviJnE) | 3:57 | 2023-06-16 | 2024-03-23 |
 | [Flooding Rain](https://open.spotify.com/track/42lrVq6KambSMyAFo1zmeo) | [Bali Rain](https://open.spotify.com/artist/54tn0DvLnrBUmX1tthjwJS) | [Part 1](https://open.spotify.com/album/3R5FIHnUQ8QJQtLdKrq4iV) | 3:47 | 2021-11-08 |  |
 | [Focus To Rain Sound](https://open.spotify.com/track/1Zlgk780ReXjity59pzdWB) | [Storm Machine](https://open.spotify.com/artist/2pXi0IcglHeXlVJqcDStpk) | [Unlimited Rain](https://open.spotify.com/album/5AAGGHlY1D0SqdfOKcXJh2) | 2:28 | 2021-11-08 |  |
-| [Foggy Morning Rain](https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain From The Cabin](https://open.spotify.com/album/6N6hb0UO7bKqVA7uqZ09gs) | 3:14 | 2021-11-08 |  |
+| [Foggy Morning Rain](https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain From The Cabin](https://open.spotify.com/album/6N6hb0UO7bKqVA7uqZ09gs) | 3:14 | 2021-11-08 | 2025-11-04 |
 | [Forest Rain Bath](https://open.spotify.com/track/1CPZo0gX4O1U7CPp8GZ68v) | [Désiré Renaud](https://open.spotify.com/artist/25vUptgRQxLAmNDHgXk2be) | [Forest Rain Bath](https://open.spotify.com/album/4bV38Ax7XtDSfe9wvkjVog) | 3:00 | 2024-03-22 |  |
 | [Forest Spirits \(Rain\)](https://open.spotify.com/track/3VeEplQsKzt4ls3tTJrtvO) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:40 | 2021-11-08 |  |
 | [Forgotten Skies](https://open.spotify.com/track/5hY7DPBIJJc0tIBVMBIcIZ) | [cloudcity](https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8) | [Forgotten Skies](https://open.spotify.com/album/0YXwzkrl8DQFvjXbcTdeSe) | 3:28 | 2021-11-08 | 2024-03-23 |
@@ -206,6 +206,7 @@
 | [Rain Again](https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY) | [Meryl Stream](https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa) | [Leaking Clouds](https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh) | 2:33 | 2021-11-08 |  |
 | [Rain All Around Us](https://open.spotify.com/track/0OCLkr4GJ0GqRBicgCwLoz) | [When Nature Calls](https://open.spotify.com/artist/7Euiup1JV21sbXrHKASylJ) | [Natural Rainfall](https://open.spotify.com/album/7dxHDE5BM5YjM3zRPCz88G) | 2:54 | 2022-11-16 | 2025-02-28 |
 | [Rain All Year Round](https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2021-11-08 |  |
+| [Rain And Thunder In Krakow](https://open.spotify.com/track/3NcfqNwXgsIW8HVJCb6l79) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain And Thunder In Krakow](https://open.spotify.com/album/49edBagpaVwAhwUGjhnLIQ) | 2:14 | 2025-09-23 |  |
 | [Rain Before Dawn](https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b) | [cloudcity](https://open.spotify.com/artist/0qF5CbAVNAKVP6maHHNf8G) | [Rain Before Dawn](https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq) | 3:28 | 2022-01-21 |  |
 | [Rain Calm](https://open.spotify.com/track/0Hg0yv07sax49cPaxZyz2M) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Rain Calm](https://open.spotify.com/album/1xbUv6JJb3Wrq43W42Xtbn) | 2:43 | 2025-09-23 |  |
 | [Rain Chatter](https://open.spotify.com/track/5ICtYJwGeJrmBX4AX8nXpq) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain Chatter](https://open.spotify.com/album/3Rjzg5Rllf3BrHOjEnxdzQ) | 2:56 | 2024-03-22 | 2025-06-24 |

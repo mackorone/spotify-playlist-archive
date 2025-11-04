@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342225,
+  "num_followers": 342218,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 126580,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Whistle (feat. Bertie Scott)",
         "url": "https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 126580,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Outta Love",
-        "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "TEN TONNE SKELETON",
-          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
-        }
-      ],
-      "duration_ms": 164704,
-      "name": "Outta Love",
-      "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Speed of Light",
         "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 176347,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Outta Love",
+        "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "TEN TONNE SKELETON",
+          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
+        }
+      ],
+      "duration_ms": 164704,
+      "name": "Outta Love",
+      "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "She Wolf (Falling to Pieces)",
+        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
+      },
+      "artists": [
+        {
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+        }
+      ],
+      "duration_ms": 171028,
+      "name": "She Wolf (Falling to Pieces)",
+      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Baby Steps",
         "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 143906,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "She Wolf (Falling to Pieces)",
-        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
-      },
-      "artists": [
-        {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
-        }
-      ],
-      "duration_ms": 171028,
-      "name": "She Wolf (Falling to Pieces)",
-      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1184,7 +1184,7 @@
           "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
         }
       ],
-      "duration_ms": 166887,
+      "duration_ms": 166816,
       "name": "Raindrops (feat. Jessica Chertock)",
       "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
     },

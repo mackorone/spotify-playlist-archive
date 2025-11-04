@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 19978,
+  "num_followers": 19979,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAAAltrk9Vx5/8J66HXmUBL8N",
+  "snapshot_id": "aQafAAAAAADHoYe4Zhut8E7ktZtkxG1F",
   "tracks": [
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jealous (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Jealous (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "+/-",
         "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
       },
@@ -811,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jealous (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Jealous (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
       },
@@ -823,30 +823,6 @@
       "duration_ms": 197647,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "my way (w/ Rico Nasty & Kanii)",
-        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
-      },
-      "artists": [
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 177782,
-      "name": "my way (w/ Rico Nasty & Kanii)",
-      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
     },
     {
       "added_at": null,
@@ -867,22 +843,6 @@
       "duration_ms": 140346,
       "name": "Hatin",
       "url": "https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Let It Out",
-      "url": "https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC"
     },
     {
       "added_at": null,
@@ -911,6 +871,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "my way (w/ Rico Nasty & Kanii)",
+        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 177782,
+      "name": "my way (w/ Rico Nasty & Kanii)",
+      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Floor Seats",
         "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
       },
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONEPOINTFIVE",
-        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 119920,
-      "name": "SUGARPARENTS (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HARDC0RE DR3AMZ",
         "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 155685,
       "name": "H.O.T.",
       "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONEPOINTFIVE",
+        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 119920,
+      "name": "SUGARPARENTS (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf"
     },
     {
       "added_at": null,

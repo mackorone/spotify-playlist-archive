@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر مع عصام صاصا
 
-325 songs - 20 hr 13 min
+326 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [انا في حاجه هتجنني](https://open.spotify.com/track/326wv1lze9tMWa8u4XUdaW) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt), [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp) | [انا في حاجه هتجنني](https://open.spotify.com/album/4Qi3pkAcgvhIu8zoRT5IwS) | 4:44 | 2021-12-16 | 2022-02-02 |
 | [انا لبسي الشيك غرك فيا \( قولتيلي انا ليك \)](https://open.spotify.com/track/7xI1Do3Pgnsa3LuivntEao) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [انا لبسي الشيك غرك فيا \( قولتيلي انا ليك \)](https://open.spotify.com/album/7jxQQ6gvAiBFdzwBryBmLo) | 3:07 | 2025-08-13 |  |
 | [انا لبسي اوفر سايز](https://open.spotify.com/track/05z8Dj4bvVvFPgFzO09zb0) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Figo El Dakhlawy](https://open.spotify.com/artist/3cMLokGPkA77QbLJglCk6y) | [انا لبسي اوفر سايز](https://open.spotify.com/album/4tKxe8RW9HYLlLSMSBMRt5) | 4:04 | 2025-05-07 |  |
-| [انا لسه علي وضعي](https://open.spotify.com/track/13Jz0eiEwpHJMCIVaqkFpf) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [انا لسه علي وضعي](https://open.spotify.com/album/7y2UKoHE8SZEvPokC0HeRT) | 4:26 | 2025-07-24 |  |
+| [انا لسه علي وضعي](https://open.spotify.com/track/13Jz0eiEwpHJMCIVaqkFpf) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [انا لسه علي وضعي](https://open.spotify.com/album/7y2UKoHE8SZEvPokC0HeRT) | 4:26 | 2025-07-24 | 2025-11-04 |
 | [انا مخنوق من كل الدنيا](https://open.spotify.com/track/4YfaRBv6VRH1eKzoHLAdyX) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [انا مخنوق من كل الدنيا](https://open.spotify.com/album/3EHZFRBgT99ZwRnCw3nctO) | 3:19 | 2025-06-03 | 2025-07-25 |
 | [انا مش بخير](https://open.spotify.com/track/1skV79eQyXq6pzoxKnRhlM) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [انا مش بخير](https://open.spotify.com/album/7IcuhUkMCviAGIVDnB1H6v) | 4:00 | 2022-07-19 | 2023-05-31 |
 | [انا مش بخير](https://open.spotify.com/track/3Wz60cK5MUiMOnuAWSFlKn) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [انا مش بخير](https://open.spotify.com/album/5nfgVXfzdSaayA7Zxt5RZ1) | 4:00 | 2022-02-24 | 2022-07-29 |
@@ -221,6 +221,7 @@
 | [غيبنا وغاب الابداع والشغلانه لمت](https://open.spotify.com/track/35VEY9yoVhbR5hvFaMJaeU) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [غيبنا وغاب الابداع والشغلانه لمت](https://open.spotify.com/album/3qnXl1ef8DKUcCveAWeNCC) | 3:21 | 2025-05-07 | 2025-05-21 |
 | [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [مسلم](https://open.spotify.com/artist/0PDEUIs5l5AHG6dRe0SREt) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 | 2024-03-08 | 2025-07-25 |
 | [فارس جوه الحياة عايشها انا براحتي](https://open.spotify.com/track/5kgRWfqgVrklkiDOSCjLOo) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [فارس جوه الحياة عايشها انا براحتي](https://open.spotify.com/album/2waWqAoZxKBanvZnCV4sSK) | 4:38 | 2022-11-23 | 2023-01-13 |
+| [فارس عدي حدود الموت](https://open.spotify.com/track/4dFl3wR4D52ce1MsqQ7XHo) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [ميسو ميسره](https://open.spotify.com/artist/0QpJBmVA3GcAX8NgPlrrMW) | [فارس عدي حدود الموت](https://open.spotify.com/album/7gc3SVUvnxtD3OTZ99e2Ci) | 5:24 | 2025-11-03 |  |
 | [فتره و هتعدي](https://open.spotify.com/track/0eAQPO9lxQqc7F4BOy85As) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فتره و هتعدي](https://open.spotify.com/album/12sDRnt0r4O3pua8zStqni) | 3:51 | 2022-11-17 | 2023-08-21 |
 | [فتش فتش](https://open.spotify.com/track/6TuMXB9iHua2rzUmRtuwiY) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/3CMjbLQe3GRt0SMh8r0Ycm) | 3:58 | 2022-07-19 | 2022-10-25 |
 | [فتش فتش](https://open.spotify.com/track/6xT8RMc5S88Rfs82YZwmXm) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/78b0ANL8qcCLnUr39MK2bt) | 3:58 | 2021-12-16 | 2022-10-28 |

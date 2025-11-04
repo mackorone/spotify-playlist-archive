@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > ⋆.
 
-[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 641 songs - 1 day 11 hr 5 min
+[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 642 songs - 1 day 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -649,5 +649,6 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 639 | [Games Of War](https://open.spotify.com/track/0Bu4Ftm8pa65s690nhgGTV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 4:23 |
 | 640 | [Down Chick \(feat\. 3Three\)](https://open.spotify.com/track/4c1x1SYPM26MHCkJSYwknD) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [3Three](https://open.spotify.com/artist/0Q4C0BC6ZjxW0ps1ItEpx8) | [38 Baby](https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl) | 3:46 |
 | 641 | [The Spell](https://open.spotify.com/track/3DRQ9GriRUPNHiCB0hyRbW) | [Cellar Darling](https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR) | [The Spell](https://open.spotify.com/album/0mqQaRXfEzysluMX4J3jqy) | 4:41 |
+| 642 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 |
 
-Snapshot ID: `AAAEOtlVsdMEHn7NSrz7SnfR3iGOa1qS`
+Snapshot ID: `AAAEOza6BSP1eiei00n1pTs8vloSBvsP`

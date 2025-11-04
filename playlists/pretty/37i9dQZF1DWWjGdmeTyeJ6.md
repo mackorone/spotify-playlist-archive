@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Saint Ludo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,650 likes - 254 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,563 likes - 254 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

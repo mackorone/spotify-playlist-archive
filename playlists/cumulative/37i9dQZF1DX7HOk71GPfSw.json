@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "27a Pitfield St",
+      "url": "https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov"
+    },
+    {
+      "album": {
         "name": "2992",
         "url": "https://open.spotify.com/album/496eWGO9wSIqp51vVkmdpl"
       },
@@ -14170,7 +14188,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 188348,
       "name": "F*Me",
       "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
@@ -15718,6 +15736,24 @@
       "duration_ms": 229674,
       "name": "Forever (jamesjamesjames Remix)",
       "url": "https://open.spotify.com/track/6z24CmJ1eeJV8Wzkv24FKI"
+    },
+    {
+      "album": {
+        "name": "Basspunk 2",
+        "url": "https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145625,
+      "name": "Forever salty",
+      "url": "https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG"
     },
     {
       "album": {
@@ -41788,7 +41824,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 207428,
       "name": "STRESS",
       "url": "https://open.spotify.com/track/7I0FfSYkHtYq3M20c0XnwU"

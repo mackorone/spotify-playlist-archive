@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,936 likes - 189 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,994 likes - 189 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Demons](https://open.spotify.com/track/7FXmyDfIcY7BCxZQO5k5JQ) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 4:18 |
-| 2 | [Tumbleweed](https://open.spotify.com/track/6QbEg7Bj5HCG6VQzMiTISZ) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Tumbleweed](https://open.spotify.com/album/7kAnPBIdAql4hOzR6c8nVz) | 4:04 |
-| 3 | [Losing Sleep](https://open.spotify.com/track/4xumDfmt5GgWAskJdfc0T3) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Losing Sleep](https://open.spotify.com/album/0Kz5Gl8KgN8Kbc5Ls20WMf) | 3:28 |
-| 4 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 |
-| 5 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
-| 6 | [Better Year](https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Better Year / Jersey Giant](https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199) | 3:20 |
-| 7 | [Merigold](https://open.spotify.com/track/2LtF7oIVC1x6SbQ27iywSb) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Merigold](https://open.spotify.com/album/5HURvzbiMiuYDPxsKmfGsP) | 4:12 |
-| 8 | [Seein' Straight](https://open.spotify.com/track/49mwxHq39VLr6fIoHN0e0t) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [We're Young, Alright](https://open.spotify.com/album/553gGSVuHart0wIB6lEC0n) | 3:53 |
-| 9 | [Never Really Know](https://open.spotify.com/track/0dOxMm35ORIZt7rZIzQbQ1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 4:22 |
-| 10 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 |
-| 11 | [ELDORA](https://open.spotify.com/track/3BreE2N8As5lcUkE9O5oe1) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [ELDORA](https://open.spotify.com/album/01Yys35yorCs199XVnBOH7) | 3:29 |
-| 12 | [Deep Satin](https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:31 |
-| 13 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving](https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY) | 3:14 |
+| 1 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving](https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY) | 3:14 |
+| 2 | [Demons](https://open.spotify.com/track/7FXmyDfIcY7BCxZQO5k5JQ) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 4:18 |
+| 3 | [Tumbleweed](https://open.spotify.com/track/6QbEg7Bj5HCG6VQzMiTISZ) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Tumbleweed](https://open.spotify.com/album/7kAnPBIdAql4hOzR6c8nVz) | 4:04 |
+| 4 | [Losing Sleep](https://open.spotify.com/track/4xumDfmt5GgWAskJdfc0T3) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Losing Sleep](https://open.spotify.com/album/0Kz5Gl8KgN8Kbc5Ls20WMf) | 3:28 |
+| 5 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 |
+| 6 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
+| 7 | [Better Year](https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Better Year / Jersey Giant](https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199) | 3:20 |
+| 8 | [Merigold](https://open.spotify.com/track/2LtF7oIVC1x6SbQ27iywSb) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Merigold](https://open.spotify.com/album/5HURvzbiMiuYDPxsKmfGsP) | 4:12 |
+| 9 | [Seein' Straight](https://open.spotify.com/track/49mwxHq39VLr6fIoHN0e0t) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [We're Young, Alright](https://open.spotify.com/album/553gGSVuHart0wIB6lEC0n) | 3:53 |
+| 10 | [Never Really Know](https://open.spotify.com/track/0dOxMm35ORIZt7rZIzQbQ1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 4:22 |
+| 11 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 |
+| 12 | [ELDORA](https://open.spotify.com/track/3BreE2N8As5lcUkE9O5oe1) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [ELDORA](https://open.spotify.com/album/01Yys35yorCs199XVnBOH7) | 3:29 |
+| 13 | [Deep Satin](https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:31 |
 | 14 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
 | 15 | [Hell is a Dance Floor](https://open.spotify.com/track/5ULNiLtUzRZIpbdHz47DkL) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Hell is a Dance Floor](https://open.spotify.com/album/0HNfc7NP8LOZ5dfnyesMoY) | 3:29 |
 | 16 | [Jailbreak](https://open.spotify.com/track/0fRi9tPnhwwQsJg5iFFnIa) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Jailbreak](https://open.spotify.com/album/5cLpXSs4aAd0v19UvO8yBM) | 3:13 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 188 | [Blue](https://open.spotify.com/track/6BAlpVMHkCSpHlf7bJbFM5) | [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Blue](https://open.spotify.com/album/6RB33mYpEqHVVPE0QnZmiT) | 3:16 |
 | 189 | [Widows of Normandy](https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Widows of Normandy](https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1) | 3:10 |
 
-Snapshot ID: `AAAAAJ8GdX2gqi/R6zg/yeBmyFc8T8tn`
+Snapshot ID: `AAAAAE42VtP+2x7H3nzxSjkDJS3BCQ+5`

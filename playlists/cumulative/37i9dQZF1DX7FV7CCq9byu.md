@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,253 songs - 2 day 15 hr 53 min
+1,257 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [2CB](https://open.spotify.com/track/4v4544m9rPttWudGucbzAc) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [2CB](https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB) | 3:07 | 2025-06-05 | 2025-08-01 |
 | [4L](https://open.spotify.com/track/13EHxr8bqdfqwXtyp411bf) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [4L](https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd) | 2:31 | 2025-06-26 | 2025-08-15 |
 | [500 kr](https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa) | [I$AK](https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [500 kr](https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE) | 3:45 | 2025-08-07 | 2025-09-26 |
+| [550 000 tårar](https://open.spotify.com/track/4nEOV2d1STQR6TM5mhUOHj) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [550 000 tårar](https://open.spotify.com/album/27MrJ1v6UpzjbKRLpzR8xm) | 3:29 | 2025-11-03 |  |
 | [900 dagar](https://open.spotify.com/track/614ZqLnY49ZB4uuEnWOKVI) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [900 dagar](https://open.spotify.com/album/5uRIdQK5DafXJ05F6YFba8) | 3:45 | 2024-11-21 | 2025-01-24 |
 | [A COLD PLAY](https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A COLD PLAY](https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS) | 2:59 | 2025-09-04 | 2025-10-10 |
 | [A Little Bit Wild](https://open.spotify.com/track/7rZmBZLfhgh000Zcureczx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [A Little Bit Wild](https://open.spotify.com/album/2f0s9vLtRtfpLvvvbRPMze) | 3:16 | 2025-06-19 | 2025-08-01 |
@@ -110,6 +111,7 @@
 | [Before The Night Is Over](https://open.spotify.com/track/4v1QgGbmgdFiraLFU6kAnP) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Before The Night Is Over](https://open.spotify.com/album/13CpTC7IobGIluREQTPkqM) | 2:44 | 2024-08-22 | 2024-10-04 |
 | [Believe me](https://open.spotify.com/track/6CshHyQHSzQhwaadpBQhH1) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Believe me](https://open.spotify.com/album/1X0XJXpMfjUXThe9Gm5lot) | 2:59 | 2025-02-18 | 2025-04-11 |
 | [Bella Notte](https://open.spotify.com/track/7otGQbrdl9RGn9MEyfxE3M) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bella Notte](https://open.spotify.com/album/2cr5JLkfWtOGPbbf7sUkyR) | 2:20 | 2025-05-16 | 2025-06-27 |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-11-03 |  |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 | 2024-08-23 |
 | [Big Girl](https://open.spotify.com/track/2YsXM60MZXGKudblp4UL2Z) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Big Girl](https://open.spotify.com/album/22KMS4Y8oPVAMdD4XUywkx) | 1:45 | 2025-06-26 | 2025-09-05 |
 | [BIRDS FLY HIGH](https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Birds fly high](https://open.spotify.com/album/0JtNg52YdsdeT8WbZs3ZdZ) | 2:43 | 2025-03-13 | 2025-04-11 |
@@ -294,6 +296,7 @@
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 | 2025-05-23 |
 | [Endless Summer](https://open.spotify.com/track/0yGh0gZX5nGRn4G3TWT9E8) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Endless Summer](https://open.spotify.com/album/1KZLgwiwvM1t4zCEA9ZOYb) | 2:45 | 2025-05-08 | 2025-06-13 |
 | [Enemy](https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Enemy](https://open.spotify.com/album/3lw8rxXPOtJVG1HVHC4ahM) | 4:13 | 2024-10-01 | 2024-10-25 |
+| [Ensamt](https://open.spotify.com/track/3GVLkLhq0HnOE4lt00S7SH) | [Binky Blaise](https://open.spotify.com/artist/6wVXRQ64TTR22g2J34DfO7) | [Ensamt](https://open.spotify.com/album/1cJKvhI149K8fvJmAt7Lwo) | 1:34 | 2025-11-03 |  |
 | [Erase My Mind](https://open.spotify.com/track/5720SNCvTw7Ql4sa8a8AE6) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Hang the DJ](https://open.spotify.com/album/4lqM98HqVQpNaoCubZnQuf) | 2:54 | 2025-04-04 | 2025-05-09 |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 | 2025-09-19 |
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 | 2025-05-17 |
@@ -652,6 +655,7 @@
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-19 | 2024-10-25 |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-29 | 2025-07-11 |
 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 | 2024-07-25 | 2024-09-13 |
+| [Lucky \- from Now You See Me: Now You Don’t](https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Lucky \(from Now You See Me: Now You Don’t\)](https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE) | 2:28 | 2025-11-03 |  |
 | [luften i maj](https://open.spotify.com/track/0lCZhCH8XT87T1zQDCeHsZ) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [bland molnen/under isen](https://open.spotify.com/album/1ruLTxzG4vZvQqvPslsrzo) | 2:48 | 2025-05-01 | 2025-06-06 |
 | [Luminous](https://open.spotify.com/track/7bzgDWn2aXlaG73is3C77u) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Luminous / Trapped](https://open.spotify.com/album/59Sb9iMUVVKeH0o11j12xo) | 3:45 | 2025-10-02 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-07-27 |

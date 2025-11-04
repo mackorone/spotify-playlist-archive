@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nDEAN)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nMIYEON(\ubbf8\uc5f0))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -9218,7 +9218,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 192000,
       "name": "Love on the canvas",
       "url": "https://open.spotify.com/track/0ZEVwqNc0GsPY1s4MfNWUh"
@@ -10012,7 +10012,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 188000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di"
@@ -13183,6 +13183,24 @@
     },
     {
       "album": {
+        "name": "MY, Lover",
+        "url": "https://open.spotify.com/album/7pMMFYohEty3MLZfq6HlZN"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2t4d73fPrmvbPvqPe4OYxR"
+    },
+    {
+      "album": {
         "name": "Pink, then grey",
         "url": "https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh"
       },
@@ -14236,6 +14254,24 @@
       "duration_ms": 144631,
       "name": "space (feat. Vxlious, Marv)",
       "url": "https://open.spotify.com/track/2iBVSFk0oneYEI1LmTHVaC"
+    },
+    {
+      "album": {
+        "name": "MY, Lover",
+        "url": "https://open.spotify.com/album/7pMMFYohEty3MLZfq6HlZN"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Space Invader",
+      "url": "https://open.spotify.com/track/3yg3Grgpxjut7gs9inW0p3"
     },
     {
       "album": {

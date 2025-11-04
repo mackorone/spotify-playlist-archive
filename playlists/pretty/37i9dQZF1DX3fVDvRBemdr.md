@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en Volkspop\. Cover: Danny Froger
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,694 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,705 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vreemde uit de kroeg](https://open.spotify.com/track/4WjLLhdrqjaCGgZ380aWlY) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy) | [Vreemde uit de kroeg](https://open.spotify.com/album/1IaTfBznir2X6ZWUOtycic) | 2:28 |
 | 2 | [Samen](https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Samen](https://open.spotify.com/album/7u6sZ1c9u4mDfTfhpgYNSu) | 2:46 |
-| 3 | [Liefde In De Nacht](https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Liefde In De Nacht](https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6) | 2:35 |
-| 4 | [Later is morgen](https://open.spotify.com/track/378mjBshMbo50ekhtSKRPH) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Later is morgen](https://open.spotify.com/album/1vLp7a244zr0vtKgYmwDsp) | 3:29 |
+| 3 | [Later is morgen](https://open.spotify.com/track/378mjBshMbo50ekhtSKRPH) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Later is morgen](https://open.spotify.com/album/1vLp7a244zr0vtKgYmwDsp) | 3:29 |
+| 4 | [Liefde In De Nacht](https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Liefde In De Nacht](https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6) | 2:35 |
 | 5 | [Gevangenis](https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Gevangenis](https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM) | 2:44 |
 | 6 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
 | 7 | [Faka](https://open.spotify.com/track/3kTzNmEK4M6tCkA4fubGsB) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Faka](https://open.spotify.com/album/64ydkS99TJ8y9409oNwnWS) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Muchos Licores](https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Muchos Licores](https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ) | 2:19 |
 | 80 | [Gianna](https://open.spotify.com/track/04j7fMxsyGzfeCwS0M2Iyq) | [Dean Saunders](https://open.spotify.com/artist/6TBzLFNJfgT63BNFn0ZK2t) | [Gianna](https://open.spotify.com/album/0MKOgCuZhl3ihwCe1ZJqzE) | 3:26 |
 
-Snapshot ID: `AAAAAMq2T9KZHroPnX4Bf01eLM2TReOa`
+Snapshot ID: `AAAAAPdPT6QP6sBggPBAbcWqn4qwW/Ci`

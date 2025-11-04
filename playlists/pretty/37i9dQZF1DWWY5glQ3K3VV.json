@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 111193,
+  "num_followers": 111231,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2025-10-13 07:48:47",
-      "album": {
         "name": "ESCI DAL TUNNEL",
         "url": "https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 148148,
       "name": "VRP",
       "url": "https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh"
+    },
+    {
+      "added_at": "2025-10-13 07:48:47",
+      "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -1095,46 +1095,6 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
-        "name": "THE BIGGEST SBLAO",
-        "url": "https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp"
-      },
-      "artists": [
-        {
-          "name": "Low-Red",
-          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
-        },
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        }
-      ],
-      "duration_ms": 157795,
-      "name": "BISEX (feat. Yung Snapp)",
-      "url": "https://open.spotify.com/track/1N7cE9RdKR5FRkB9cxsjH4"
-    },
-    {
-      "added_at": "2025-10-13 07:48:47",
-      "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Codeine (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
-    },
-    {
-      "added_at": "2025-10-13 07:48:47",
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1159,6 +1119,46 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": "2025-10-13 07:48:47",
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Codeine (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
+    },
+    {
+      "added_at": "2025-10-13 07:48:47",
+      "album": {
+        "name": "THE BIGGEST SBLAO",
+        "url": "https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp"
+      },
+      "artists": [
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "duration_ms": 157795,
+      "name": "BISEX (feat. Yung Snapp)",
+      "url": "https://open.spotify.com/track/1N7cE9RdKR5FRkB9cxsjH4"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
-        "name": "Anno Zero",
-        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
       },
       "artists": [
         {
           "name": "Icy Subzero",
           "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 157000,
-      "name": "DONNA VERA (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8"
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -1315,30 +1311,6 @@
       "duration_ms": 217538,
       "name": "Gol",
       "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
-    },
-    {
-      "added_at": "2025-10-13 07:48:47",
-      "album": {
-        "name": "C'EST LA VIE",
-        "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
-      },
-      "artists": [
-        {
-          "name": "TY1",
-          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
-        },
-        {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 188490,
-      "name": "C'EST LA VIE",
-      "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -1367,6 +1339,30 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
+        "name": "C'EST LA VIE",
+        "url": "https://open.spotify.com/album/3jginAnZiyYJMbOkSxXzWb"
+      },
+      "artists": [
+        {
+          "name": "TY1",
+          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
+        },
+        {
+          "name": "Dosseh",
+          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 188490,
+      "name": "C'EST LA VIE",
+      "url": "https://open.spotify.com/track/5l93giGtSBNAJUVj8hPygt"
+    },
+    {
+      "added_at": "2025-10-13 07:48:47",
+      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
       },
@@ -1387,18 +1383,22 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+        "name": "Anno Zero",
+        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
       },
       "artists": [
         {
           "name": "Icy Subzero",
           "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+      "duration_ms": 157000,
+      "name": "DONNA VERA (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 155133,
-      "name": "Mollami Pt.2",
-      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
-    },
-    {
-      "added_at": "2025-10-13 07:48:47",
-      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 144930,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+    },
+    {
+      "added_at": "2025-10-13 07:48:47",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "Mollami Pt.2",
+      "url": "https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq"
     },
     {
       "added_at": "2025-10-13 07:48:47",

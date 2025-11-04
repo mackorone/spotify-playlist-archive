@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Root Echoes",
+        "url": "https://open.spotify.com/album/5U001yoG2A1jjFQVjRkZyR"
+      },
+      "artists": [
+        {
+          "name": "Dj Babatr",
+          "url": "https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "1234 Ladys on the Floor",
+      "url": "https://open.spotify.com/track/5RyPMwmk9Wb5ZhxRCcagva"
+    },
+    {
+      "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/4IwkQchepT5fJnUaincqeF"
       },
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 353587,
       "name": "backhand",
       "url": "https://open.spotify.com/track/4PWe6adMH45BpBSdZEnoCl"
@@ -1770,6 +1788,24 @@
       "duration_ms": 131391,
       "name": "Bitch We from Baltimore",
       "url": "https://open.spotify.com/track/1ofE8ysdx2yRlfk21hqipf"
+    },
+    {
+      "album": {
+        "name": "Bite the Hand That Feeds You",
+        "url": "https://open.spotify.com/album/0Umvh4aoUn4sQn7KXOMOMc"
+      },
+      "artists": [
+        {
+          "name": "Jasm\u00edn",
+          "url": "https://open.spotify.com/artist/21J2McJ3a4UlZvJe8KvSo3"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308266,
+      "name": "Bite the Hand",
+      "url": "https://open.spotify.com/track/1XhuLzTH3GGF7wAyQDorZf"
     },
     {
       "album": {
@@ -3238,7 +3274,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 369777,
       "name": "Colourful Choices",
       "url": "https://open.spotify.com/track/7HFExA8rQG6bIhZ5lFO5Tq"
@@ -4084,7 +4120,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 270422,
       "name": "Disco Hypno",
       "url": "https://open.spotify.com/track/7wSc2nEHaTlCD9JawWlZtJ"
@@ -5726,6 +5762,28 @@
       "duration_ms": 133090,
       "name": "Friki",
       "url": "https://open.spotify.com/track/15L59M5q0xAuNDMMXpNrBx"
+    },
+    {
+      "album": {
+        "name": "LATINCORE LEGEND",
+        "url": "https://open.spotify.com/album/4RoIe3AyTLBblBGvTK7mXi"
+      },
+      "artists": [
+        {
+          "name": "CRRDR",
+          "url": "https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I"
+        },
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Friki",
+      "url": "https://open.spotify.com/track/4CTZsrXtCFqt8mZUSMysNG"
     },
     {
       "album": {
@@ -7870,7 +7928,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 260174,
       "name": "In Control",
       "url": "https://open.spotify.com/track/6kgpOdVMkB6z7zf0a9oPyB"
@@ -9360,7 +9418,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 276820,
       "name": "Mantequilla - Pariah Remix",
       "url": "https://open.spotify.com/track/2J8cKWzvrXN1ZcrBoS1IvA"
@@ -9622,10 +9680,32 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 280000,
       "name": "Midnite",
       "url": "https://open.spotify.com/track/6gKVatLwVfMu8mnXVHau9C"
+    },
+    {
+      "album": {
+        "name": "Might Be The One",
+        "url": "https://open.spotify.com/album/3yxETtqN9zFbrJNBjWveHr"
+      },
+      "artists": [
+        {
+          "name": "James Massiah",
+          "url": "https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9"
+        },
+        {
+          "name": "Lord Tusk",
+          "url": "https://open.spotify.com/artist/6JNDkNTtBiePTpAX6oEIUw"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252162,
+      "name": "Might be the One",
+      "url": "https://open.spotify.com/track/0OUde6mhlKs6F30g5lq1Rv"
     },
     {
       "album": {
@@ -12710,7 +12790,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 263000,
       "name": "Sealegs",
       "url": "https://open.spotify.com/track/6SoGNA049NWKibywRsYEfz"
@@ -14496,6 +14576,24 @@
       "duration_ms": 203835,
       "name": "Ten",
       "url": "https://open.spotify.com/track/3NLX0WPaHV7Zi8EMUvmwOV"
+    },
+    {
+      "album": {
+        "name": "Testa Dura",
+        "url": "https://open.spotify.com/album/3hTas0V5TyQidSU5dTJ2i5"
+      },
+      "artists": [
+        {
+          "name": "De Grandi",
+          "url": "https://open.spotify.com/artist/2qho5GsfGFbqUbcyNfxHOp"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302876,
+      "name": "Testa Dura",
+      "url": "https://open.spotify.com/track/68i5RHU3ZVh6fNAugMJfSx"
     },
     {
       "album": {

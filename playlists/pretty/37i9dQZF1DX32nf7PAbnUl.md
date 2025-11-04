@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,559 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,575 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 29 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 |
 | 30 | [Pilote \(feat\. Hamza\)](https://open.spotify.com/track/12GV2Wr4p1hBWQCrQcVsew) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Enna](https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi) | 3:07 |
 | 31 | [Bande organisée](https://open.spotify.com/track/205HNJ73cgpC0LAOnuQiWT) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Solda](https://open.spotify.com/artist/7FXX45sHqoQoCwqtG0ZV8H), [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [13 Organisé](https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp) | [Bande organisée](https://open.spotify.com/album/3FrSGEYwEQS2Qx9nPt5WUs) | 5:56 |
-| 32 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 |
+| 32 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:12 |
 | 33 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 |
 | 34 | [Copines](https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko) | 2:51 |
 | 35 | [Tu le sais](https://open.spotify.com/track/2s1lS0DxcxTB8Y6oFgVKqW) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Tu le sais](https://open.spotify.com/album/6cPtIMxznYVT2LUH49rd5z) | 3:42 |

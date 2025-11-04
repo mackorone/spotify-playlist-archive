@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Una ofrenda pa' estas rolas porque vienen de otro mundo sionooooo 🎃💀🧛🏻‍♂️👻 Chuyin, Jorsshh y Calle 24
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,960 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,015 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 22 | [No Matter](https://open.spotify.com/track/1XnlpYMGAzr69JA4SetBMy) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Matter](https://open.spotify.com/album/62MYpmYWPVlPzVNBLvYeHm) | 2:09 |
 | 23 | [Duraznos](https://open.spotify.com/track/54kURx3BaXM8nGLfymSTEK) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Segundo Acto](https://open.spotify.com/album/1LI1waANu4Ot03QFZx0tdQ) | 3:02 |
 | 24 | [Para Qué Volver](https://open.spotify.com/track/0tbIrDRqrA2XEG7WFJ2nQA) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Luno](https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz) | [Para Qué Volver](https://open.spotify.com/album/5WxAOKauGo3R2dCDaZHHci) | 3:06 |
-| 25 | [Éramos Niños](https://open.spotify.com/track/09LI8gnkdfzi8TyGzFJv9m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [Lado A](https://open.spotify.com/album/392Gzn96AUaabCf2uh2SaS) | 5:49 |
+| 25 | [Éramos Niños](https://open.spotify.com/track/09LI8gnkdfzi8TyGzFJv9m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Saske](https://open.spotify.com/artist/3i9eOUfw6q0d4MTxIXASZW) | [Lado A](https://open.spotify.com/album/392Gzn96AUaabCf2uh2SaS) | 5:49 |
 | 26 | [El Rosario \- Bonus Track](https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Rosario \(Bonus Track\)](https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg) | 3:54 |
 | 27 | [El Problema Del Amor](https://open.spotify.com/track/7yWTrC2PBucZfyt8EJ3v17) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [El Problema Del Amor](https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv) | 3:40 |
 | 28 | [Agonía](https://open.spotify.com/track/11NyyQdpkpfOTZ6yvzND9L) | [Dimitri y las brujas](https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Agonía](https://open.spotify.com/album/4oO0ntL75mXmG2WGJYo3Vq) | 3:58 |

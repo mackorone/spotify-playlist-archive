@@ -8423,6 +8423,24 @@
     },
     {
       "album": {
+        "name": "Living Waters",
+        "url": "https://open.spotify.com/album/63gbFwamxhdqShYTMZ97KI"
+      },
+      "artists": [
+        {
+          "name": "Toprock Gospel",
+          "url": "https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293120,
+      "name": "My Helper Lives",
+      "url": "https://open.spotify.com/track/4letjvenLtMvXJtm1GlPVp"
+    },
+    {
+      "album": {
         "name": "My Jesus",
         "url": "https://open.spotify.com/album/16DoeZYOE3g1CSUyFcM0jp"
       },
@@ -8674,7 +8692,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 388866,
       "name": "Ndenzel' Uncedo Hymn 377 - Live",
       "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"

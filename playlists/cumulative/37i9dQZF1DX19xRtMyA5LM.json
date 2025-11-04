@@ -1513,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "Halverwege",
+        "url": "https://open.spotify.com/album/6QnV0OMemf0a9y2ifU4VoI"
+      },
+      "artists": [
+        {
+          "name": "Kieks",
+          "url": "https://open.spotify.com/artist/726JnbIAqlICv9oInzGQ1Q"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117803,
+      "name": "Halverwege",
+      "url": "https://open.spotify.com/track/7KxHjOF8gA8GalwSCXVvlG"
+    },
+    {
+      "album": {
         "name": "HAMBURG",
         "url": "https://open.spotify.com/album/2IUQNfJNA98xqs4hOhqxr3"
       },
@@ -1707,6 +1729,28 @@
     },
     {
       "album": {
+        "name": "Vrijspel",
+        "url": "https://open.spotify.com/album/2VGSxA5QMA7Kz7T7ugTYzi"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        },
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209416,
+      "name": "Introvert",
+      "url": "https://open.spotify.com/track/1e6FeZgKeUOhZ7jXQ0J7yn"
+    },
+    {
+      "album": {
         "name": "Je Bent Leuk",
         "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
       },
@@ -1824,7 +1868,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 117463,
       "name": "Kappersstoel",
       "url": "https://open.spotify.com/track/4Ppb5ov28bWh7P0uAZu9Bj"
@@ -1868,7 +1912,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 171032,
       "name": "Keuzes",
       "url": "https://open.spotify.com/track/2hzwrmcj0tpH8dDsPiqF93"
@@ -3341,6 +3385,28 @@
     },
     {
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/0Zjcplje0NavtcVorcmKJc"
+      },
+      "artists": [
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        },
+        {
+          "name": "CC",
+          "url": "https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149793,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/6jAc3YHbqtYNZh8s7VjTMX"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/0Y9LjUTsriu5AwD64aJEE9"
       },
@@ -3496,7 +3562,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 195021,
       "name": "Tafel Voor 2",
       "url": "https://open.spotify.com/track/68xWjy9I9MvZydX02I5OAH"

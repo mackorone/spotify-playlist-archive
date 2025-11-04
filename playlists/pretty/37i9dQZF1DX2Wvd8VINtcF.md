@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Cobrah  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,290 likes - 261 songs - 14 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,294 likes - 261 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Torn](https://open.spotify.com/track/2O6Mv8sXIf75IDFPjZf9n7) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Torn](https://open.spotify.com/album/4sCdSD8XURIiTDZx3yJzAq) | 3:02 |
-| 2 | [Yup](https://open.spotify.com/track/70pfTEWs5Z7K6bBkR8JyNi) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Yup](https://open.spotify.com/album/1LlP9glKx0kPVKdncrMIs6) | 4:07 |
-| 3 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
-| 4 | [Heals Me](https://open.spotify.com/track/4RvuFElo4Y32QQXeckeEGx) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Heals Me](https://open.spotify.com/album/3he4BH6RJnEfJZAbw5NgI6) | 4:30 |
-| 5 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
-| 6 | [Mother](https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA +](https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1) | 4:40 |
-| 7 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
-| 8 | [touch me right](https://open.spotify.com/track/4Yl0KI8Vglg2lqCFZrAkVE) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [touch me right](https://open.spotify.com/album/0jXEspP2Amv1FJUJRyLswv) | 3:00 |
+| 2 | [Heals Me](https://open.spotify.com/track/4RvuFElo4Y32QQXeckeEGx) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Heals Me](https://open.spotify.com/album/3he4BH6RJnEfJZAbw5NgI6) | 4:30 |
+| 3 | [Yup](https://open.spotify.com/track/70pfTEWs5Z7K6bBkR8JyNi) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Yup](https://open.spotify.com/album/1LlP9glKx0kPVKdncrMIs6) | 4:07 |
+| 4 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
+| 5 | [touch me right](https://open.spotify.com/track/4Yl0KI8Vglg2lqCFZrAkVE) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [touch me right](https://open.spotify.com/album/0jXEspP2Amv1FJUJRyLswv) | 3:00 |
+| 6 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
+| 7 | [Mother](https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA +](https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1) | 4:40 |
+| 8 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 9 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 10 | [Facilita](https://open.spotify.com/track/2VZ0ncmWdOyrsVKfc8fwa4) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Menor Teteu](https://open.spotify.com/artist/3uxTvUjeRTQDfrB59A1zWb) | [Facilita](https://open.spotify.com/album/3WmLwaeaQ07qodXo5Cmel0) | 4:17 |
 | 11 | [MC69](https://open.spotify.com/track/4kVkhcd1lfV6HwN54kyxdg) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Worldstar](https://open.spotify.com/album/3j2ug4jEwFlbkt3MPvqaxI) | 2:25 |
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 260 | [History \(feat\. Waxahatchee\)](https://open.spotify.com/track/2v3H792zzsZb4OrWrNhkCv) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:03 |
 | 261 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
 
-Snapshot ID: `AAAAABSLSfFBDwb7szbfKs2+2AnmLsek`
+Snapshot ID: `AAAAAAxAtyU5P9JINP6P9dz1d7OL3BmQ`

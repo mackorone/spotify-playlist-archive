@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,902 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,930 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 2 | [Aham \- The Atma](https://open.spotify.com/track/0WHOOt77K29SJG4wdgj3sK) | [Rahul Ramachandran](https://open.spotify.com/artist/5ZVqVNfX4878mRzELmU6WB), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG), [SHXKE](https://open.spotify.com/artist/6JzqlotlXTJVrYrcdqOCA0) | [Aham](https://open.spotify.com/album/0AIYu4ehm4dw6rfsufDfgT) | 3:49 |
 | 3 | [Jaalame](https://open.spotify.com/track/1SEe6PB3qJipGcbtJQS5db) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Jaalame](https://open.spotify.com/album/4PtCiq8SiO8Ve8bWUT9OiT) | 3:20 |
 | 4 | [Eerezhu Lokam](https://open.spotify.com/track/4pcDQb8DG551RbYB6jrw9i) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Eerezhu Lokam](https://open.spotify.com/album/1Nk19vcDcaQtdAfVSU1hl0) | 4:25 |
-| 5 | [Chenthamara](https://open.spotify.com/track/3W4P7DX7sdN3jB8YZTiLPz) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Chenthamara](https://open.spotify.com/album/7iyQY7szblMfCZYgZyhGLY) | 2:23 |
-| 6 | [Oud Trip](https://open.spotify.com/track/2VnolpkBTx6R61J4BWbLBa) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ) | [Oud Trip](https://open.spotify.com/album/4xMVu7G2doh5Bssx0SNzzN) | 3:14 |
-| 7 | [Prapanjam](https://open.spotify.com/track/4IguOEcObo3QhGgmjYj45Z) | [Salman Koroth](https://open.spotify.com/artist/3NmWvHbLeja1KL716ZByRS), [Envu](https://open.spotify.com/artist/1NZ5Zm3aCfS8QcyxZa3R5K) | [Prapanjam](https://open.spotify.com/album/2AnDARKMlBWy3csPRnLa2x) | 4:15 |
+| 5 | [Goli Soda](https://open.spotify.com/track/2tjdeqB1fzTqBi7wr3MU0W) | [Distosapien](https://open.spotify.com/artist/5TZ2tQ6CELFvCUOUe4r8At) | [Goli Soda](https://open.spotify.com/album/74sWQL65tl7NuZhGDUDRUQ) | 1:00 |
+| 6 | [Chenthamara](https://open.spotify.com/track/3W4P7DX7sdN3jB8YZTiLPz) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Chenthamara](https://open.spotify.com/album/7iyQY7szblMfCZYgZyhGLY) | 2:23 |
+| 7 | [Oud Trip](https://open.spotify.com/track/2VnolpkBTx6R61J4BWbLBa) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ) | [Oud Trip](https://open.spotify.com/album/4xMVu7G2doh5Bssx0SNzzN) | 3:14 |
 | 8 | [Kamaal](https://open.spotify.com/track/1LEuBLe6NyJE90XCchRgYk) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Kamaal](https://open.spotify.com/album/5kLctn1uVWRRmPJt8B9L9j) | 3:26 |
 | 9 | [Ull Pollnd](https://open.spotify.com/track/6sLOzhYUR0LNBASXhGH822) | [Aadila](https://open.spotify.com/artist/2IM1h5DsgRRAyTYAl567g5), [Shuaib Munna](https://open.spotify.com/artist/7F3Y0xHEk3NdXgCqKoQBqY), [Aliyar Vellamunda](https://open.spotify.com/artist/2Cxhp5nFX9TPgcNHh8yMQy) | [Aattal](https://open.spotify.com/album/6og0arHSKSih66N2Tuhmlv) | 3:58 |
 | 10 | [Dhwani](https://open.spotify.com/track/05qCw3TgWoH6jg4GlzxLp0) | [Midhun Suresh](https://open.spotify.com/artist/24nhDe8XrRTh7NuSjLDJLL), [Megha Salila](https://open.spotify.com/artist/7nTES2cUKX4jdUOXxSs1YZ), [Aadhi](https://open.spotify.com/artist/62LkuWN34h9wWrFQaAvO74) | [Dhwani](https://open.spotify.com/album/6WdSRbZrPptJCQfHmGyX2j) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 79 | [Mulchedi](https://open.spotify.com/track/1sHRRpWdvPmT1XQR3WEtMq) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Mulchedi](https://open.spotify.com/album/1yqxit57iKEBkN13lZb7Oe) | 3:56 |
 | 80 | [BHAAVAM](https://open.spotify.com/track/0tbRl9AXpgaT8EQLmAEWdh) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [BHAAVAM](https://open.spotify.com/album/5Le5NUhFAZ65gKlxOSWe55) | 5:23 |
 
-Snapshot ID: `AAAAAEDMfB50ucJ3mRnHAya2jDSNFhG1`
+Snapshot ID: `AAAAAKhuTTuiQU9TN3RlFoqkbKU98LZW`

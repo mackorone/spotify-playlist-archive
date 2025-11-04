@@ -547,6 +547,40 @@
     },
     {
       "album": {
+        "name": "A Christmas Offering (Christmas works by Kristina Arakelyan)",
+        "url": "https://open.spotify.com/album/1wWf9iYLiXsa1LnmyTLe2u"
+      },
+      "artists": [
+        {
+          "name": "Kristina Arakelyan",
+          "url": "https://open.spotify.com/artist/6UXUq4Med1aSPNuLd6RG3W"
+        },
+        {
+          "name": "The Choir of King's College London",
+          "url": "https://open.spotify.com/artist/1B95N9f9HtEL9D21OCaTkt"
+        },
+        {
+          "name": "Joseph Fort",
+          "url": "https://open.spotify.com/artist/1PPIsFElgteIbaR98gRQWE"
+        },
+        {
+          "name": "Lucca Kelf",
+          "url": "https://open.spotify.com/artist/0MzBWuZq4qvKHcM6wmqBDu"
+        },
+        {
+          "name": "Esther Beyer",
+          "url": "https://open.spotify.com/artist/7AUgRfFhJbYGZR5x9aNKUX"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Christmas Offering: III. There is no Rose",
+      "url": "https://open.spotify.com/track/2WunbfM6dDGBNaCX5gUd3g"
+    },
+    {
+      "album": {
         "name": "The Carols Album",
         "url": "https://open.spotify.com/album/3hO4MXCVnMuu85jGOnx6IH"
       },
@@ -1638,6 +1672,32 @@
       "duration_ms": 266666,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/4NJpcjY8ICNNIiuzzfz4Me"
+    },
+    {
+      "album": {
+        "name": "A Babe is Born: Music for Christmas",
+        "url": "https://open.spotify.com/album/1iwD2WvNs5XsU3kDDLGcAs"
+      },
+      "artists": [
+        {
+          "name": "Becky McGlade",
+          "url": "https://open.spotify.com/artist/1h79Y8L3Pd23OJiYcBAosP"
+        },
+        {
+          "name": "St Martin's Voices",
+          "url": "https://open.spotify.com/artist/3UNjKmiJb8wCDR12BJhiCq"
+        },
+        {
+          "name": "Andrew Earis",
+          "url": "https://open.spotify.com/artist/5BQUfL6IhMkckiUKchqS5v"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251666,
+      "name": "O Come, O Come, Emmanuel",
+      "url": "https://open.spotify.com/track/7oT4WvDG5yfylftNWu7TiP"
     },
     {
       "album": {

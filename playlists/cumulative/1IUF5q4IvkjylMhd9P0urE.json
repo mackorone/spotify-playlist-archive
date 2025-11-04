@@ -16257,6 +16257,28 @@
     },
     {
       "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG"
+      },
+      "artists": [
+        {
+          "name": "Anysia Kym",
+          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
+        },
+        {
+          "name": "Tony Seltzer",
+          "url": "https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87938,
+      "name": "To Death",
+      "url": "https://open.spotify.com/track/545CvkYbkafHedepFL72V9"
+    },
+    {
+      "album": {
         "name": "Rise of the Raptor",
         "url": "https://open.spotify.com/album/414IHjHdQBRGJQqazfx1JH"
       },

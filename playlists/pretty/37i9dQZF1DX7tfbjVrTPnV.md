@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,561 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,580 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 55 | [Hard to Be an Outlaw \(feat\. Willie Nelson\)](https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Long in the Tooth](https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J) | 3:06 |
 | 56 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
 | 57 | [Tell Heaven](https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread \(Deluxe\)](https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) | 2:40 |
-| 58 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5) | [Paul Thorn](https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ) | [Too Blessed to Be Stressed](https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p) | 4:44 |
-| 59 | [Me and You](https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Man Standing](https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU) | 2:49 |
+| 58 | [Me and You](https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Man Standing](https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU) | 2:49 |
+| 59 | [Everything's Gonna Be Alright](https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5) | [Paul Thorn](https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ) | [Too Blessed to Be Stressed](https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p) | 4:44 |
 | 60 | [One's On The Way \(feat\. Margo Price\)](https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Still Woman Enough](https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv) | 2:41 |
 | 61 | [Time After Time \- Live from Spotify NYC](https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Spotify Sessions](https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf) | 5:29 |
 | 62 | [I Contain Multitudes](https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Contain Multitudes](https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV) | 4:36 |
-| 63 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
-| 64 | [Django and Jimmie](https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Django and Jimmie](https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG) | 2:53 |
+| 63 | [Django and Jimmie](https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Django and Jimmie](https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG) | 2:53 |
+| 64 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 |
 | 65 | [Oh Soul](https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Trouble and Love](https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR) | 5:26 |
 | 66 | [Detour \(feat\. Emmylou Harris\)](https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Detour](https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ) | 2:55 |
 | 67 | [Whole Lotta Highway \(With A Million Miles to Go\)](https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Way Out West](https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB) | 3:18 |

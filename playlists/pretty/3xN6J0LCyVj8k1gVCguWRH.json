@@ -1,12 +1,12 @@
 {
   "description": "What&#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&#x27;s taste in music. ",
-  "num_followers": 131873,
+  "num_followers": 131864,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA1VRIrQHjGrW1QDKWUo1dYCa2f3PYg",
+  "snapshot_id": "AAA1V8cLFGmKFWczZjCo0NU/UaJUSbt+",
   "tracks": [
     {
       "added_at": "2025-07-04 19:24:06",
@@ -168,7 +168,7 @@
           "url": "https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb"
         }
       ],
-      "duration_ms": 226299,
+      "duration_ms": 190635,
       "name": "Put Your Love On Me",
       "url": "https://open.spotify.com/track/3xtu3O28oPaWWfZ5v2axqD"
     },
@@ -223,22 +223,6 @@
       "duration_ms": 223250,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/3NUrknb715cZReOJPY3sXN"
-    },
-    {
-      "added_at": "2025-11-02 23:29:34",
-      "album": {
-        "name": "Dating Down",
-        "url": "https://open.spotify.com/album/6ZD7ttC2jS9fp0CYvi446i"
-      },
-      "artists": [
-        {
-          "name": "GT Wallabah",
-          "url": "https://open.spotify.com/artist/173MhzLw5FHWndLHtDk6dA"
-        }
-      ],
-      "duration_ms": 152279,
-      "name": "Dating Down",
-      "url": "https://open.spotify.com/track/6R9NdJtXLMQOUAk9GafS0A"
     },
     {
       "added_at": "2025-10-31 12:53:27",
@@ -585,6 +569,22 @@
       "url": "https://open.spotify.com/track/3JeKMTJ3ibFajHazqlZXiI"
     },
     {
+      "added_at": "2025-11-04 01:44:51",
+      "album": {
+        "name": "Fast Talk (Country Version)",
+        "url": "https://open.spotify.com/album/6yz1potKS8NWwppKpNfiHl"
+      },
+      "artists": [
+        {
+          "name": "Tom Morgan",
+          "url": "https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Fast Talk - Country Version",
+      "url": "https://open.spotify.com/track/5KQoQvGVBFTdN7uHAeuo8Z"
+    },
+    {
       "added_at": "2025-10-27 13:08:33",
       "album": {
         "name": "Again 'n' Again",
@@ -703,22 +703,6 @@
       "duration_ms": 181636,
       "name": "Wywd",
       "url": "https://open.spotify.com/track/2gJJ3TqHeTCJTVBFreDCgi"
-    },
-    {
-      "added_at": "2025-11-02 23:29:44",
-      "album": {
-        "name": "PLAYLIST",
-        "url": "https://open.spotify.com/album/356NchPwAFDGQOHHaxfvLL"
-      },
-      "artists": [
-        {
-          "name": "Vyrol",
-          "url": "https://open.spotify.com/artist/5xIRGqB42AsSPbHuewjH9N"
-        }
-      ],
-      "duration_ms": 181439,
-      "name": "PLAYLIST",
-      "url": "https://open.spotify.com/track/5VqqvOs5ZvoFshIGWhOZGK"
     },
     {
       "added_at": "2025-10-13 13:26:44",
@@ -2352,7 +2336,7 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 265493,
+      "duration_ms": 265284,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
@@ -2971,6 +2955,38 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2025-11-02 23:29:34",
+      "album": {
+        "name": "Dating Down",
+        "url": "https://open.spotify.com/album/6ZD7ttC2jS9fp0CYvi446i"
+      },
+      "artists": [
+        {
+          "name": "GT Wallabah",
+          "url": "https://open.spotify.com/artist/173MhzLw5FHWndLHtDk6dA"
+        }
+      ],
+      "duration_ms": 152279,
+      "name": "Dating Down",
+      "url": "https://open.spotify.com/track/6R9NdJtXLMQOUAk9GafS0A"
+    },
+    {
+      "added_at": "2025-11-02 23:29:44",
+      "album": {
+        "name": "PLAYLIST",
+        "url": "https://open.spotify.com/album/356NchPwAFDGQOHHaxfvLL"
+      },
+      "artists": [
+        {
+          "name": "Vyrol",
+          "url": "https://open.spotify.com/artist/5xIRGqB42AsSPbHuewjH9N"
+        }
+      ],
+      "duration_ms": 181439,
+      "name": "PLAYLIST",
+      "url": "https://open.spotify.com/track/5VqqvOs5ZvoFshIGWhOZGK"
     },
     {
       "added_at": "2025-10-31 23:00:35",

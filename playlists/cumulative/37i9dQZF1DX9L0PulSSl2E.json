@@ -251,6 +251,32 @@
     },
     {
       "album": {
+        "name": "36",
+        "url": "https://open.spotify.com/album/11NyVFBpwIuBZz5Ia1ZcsA"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Chacha",
+      "url": "https://open.spotify.com/track/2tKAXlASKQjzo0SJJvO9Yj"
+    },
+    {
+      "album": {
         "name": "Delhi To Cali",
         "url": "https://open.spotify.com/album/6cP5tglcelAmqIOImkV3tT"
       },
@@ -576,10 +602,32 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 198000,
       "name": "Jinniyan",
       "url": "https://open.spotify.com/track/46TlSsFIAtUmaNKpPUQaIE"
+    },
+    {
+      "album": {
+        "name": "KALA JADOO",
+        "url": "https://open.spotify.com/album/3wnuRJKW9gBIeG2hrP3Tf4"
+      },
+      "artists": [
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        },
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166009,
+      "name": "KALA JADOO",
+      "url": "https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98"
     },
     {
       "album": {
@@ -1088,7 +1136,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 167784,
       "name": "Winning",
       "url": "https://open.spotify.com/track/18ixfNtdcpUWWUQJfPf0jg"

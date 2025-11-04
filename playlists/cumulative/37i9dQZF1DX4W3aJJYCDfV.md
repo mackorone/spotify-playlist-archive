@@ -4,7 +4,7 @@
 
 > Brand new music from Florence & The Machine, ROSALÍA, Knucks and more!
 
-19,109 songs - 43 day 1 hr 30 min
+19,110 songs - 43 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15902,7 +15902,8 @@
 | [Sympathy](https://open.spotify.com/track/57BkAcQRIxrQyWwgJUc49W) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/4aNXr4et2TpAE6bL2thPGY) | 3:05 | 2023-07-06 | 2023-07-08 |
 | [Sympathy](https://open.spotify.com/track/1uHkGAhtPu9YyYdEcQh4Q2) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb), [LARA](https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ) | [Sympathy](https://open.spotify.com/album/1FeDM0EAsBRrRKzmS2McVn) | 4:28 | 2022-11-11 | 2022-11-18 |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-10 | 2024-10-18 |
-| [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-10-31 |  |
+| [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-10-31 | 2025-11-04 |
+| [Sympathy Magic](https://open.spotify.com/track/6ExwNwWLXvvKr5hk6lkHUY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:28 | 2025-11-03 |  |
 | [Sympathy Symphony](https://open.spotify.com/track/3Nzkk8D4IliwOwW7w7C6X1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Corporation P.O.P](https://open.spotify.com/album/435pXp0hwIVwJFoJy6xePr) | 4:11 | 2025-06-26 | 2025-07-04 |
 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 | 2024-03-15 | 2024-03-22 |
 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 | 2024-02-16 | 2024-02-23 |

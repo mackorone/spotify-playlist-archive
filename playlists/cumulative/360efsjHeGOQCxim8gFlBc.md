@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-809 songs - 1 day 9 hr 47 min
+810 songs - 1 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,8 @@
 | [Letter to the Sky](https://open.spotify.com/track/21FAB8qW6KfjaRK6546RbG) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Felix Weber](https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Letter to the Sky](https://open.spotify.com/album/3UqYYdaLEycqJjCHn61Hmn) | 1:41 | 2023-10-29 | 2023-11-16 |
 | [Life](https://open.spotify.com/track/38i6LcfcjhxQFlWLnDJdtt) | [Olha Shustova](https://open.spotify.com/artist/43CI8IOHXnklTvPQaou8lN) | [Back To Life](https://open.spotify.com/album/6d2tEb80HYcEsycz19Fm1f) | 3:53 | 2025-09-08 |  |
 | [life](https://open.spotify.com/track/1Twz2ZWrPY3nmdc2gtn0xy) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [heartfelt](https://open.spotify.com/album/6pcTwj3V18l44Rfj3STsoL) | 3:56 | 2025-07-07 | 2025-07-22 |
-| [life](https://open.spotify.com/track/6Khsx8SyUg83LbBBCFYy0q) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [heartfelt](https://open.spotify.com/album/3bdtyIPJoZ8Ykl3NhwWDcv) | 3:56 | 2025-06-02 |  |
+| [life](https://open.spotify.com/track/6Khsx8SyUg83LbBBCFYy0q) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [heartfelt](https://open.spotify.com/album/3bdtyIPJoZ8Ykl3NhwWDcv) | 3:56 | 2025-06-02 | 2025-11-04 |
+| [life](https://open.spotify.com/track/7I6gFxShYcBJEfVpsyj9YC) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [life](https://open.spotify.com/album/77R1nHq79AGc4m1IfEkT7m) | 3:56 | 2025-11-03 |  |
 | [Lilypads & Light](https://open.spotify.com/track/59LcUvNPW9XJuz6vkCI7LP) | [noira](https://open.spotify.com/artist/16KcLoDLQ4FEEGr00l2GoK) | [Lilypads & Light](https://open.spotify.com/album/1TB3X2ZD105KnarZiW4xzG) | 1:31 | 2025-09-08 |  |
 | [Limerence](https://open.spotify.com/track/6XLkTTZxfYYJvxRIcAoDCF) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Limerence](https://open.spotify.com/album/73ZupNwLV1M8X6McZ3FKYL) | 1:53 | 2025-09-29 |  |
 | [Limitless](https://open.spotify.com/track/5AxV1Idfa08FK2j6LztK9B) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Emilia Fuchs](https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Limitless](https://open.spotify.com/album/79GtiQBYScxAa4uUIbataS) | 1:41 | 2023-10-29 | 2023-12-18 |

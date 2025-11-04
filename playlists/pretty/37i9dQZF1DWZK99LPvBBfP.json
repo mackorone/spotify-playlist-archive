@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 347475,
+  "num_followers": 347553,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Canoa",
-        "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
+        "name": "The Age Of Love",
+        "url": "https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5"
       },
       "artists": [
         {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
         }
       ],
-      "duration_ms": 546791,
-      "name": "Canoa",
-      "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
+      "duration_ms": 408773,
+      "name": "The Age Of Love - Jam & Spoon Watch Out For Stella Mix",
+      "url": "https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1363,6 +1359,26 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Canoa",
+        "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        }
+      ],
+      "duration_ms": 546791,
+      "name": "Canoa",
+      "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Big Love (Eat Me Edit)",
         "url": "https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 241053,
       "name": "Big Love - Eat Me Edit",
       "url": "https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "The Age Of Love",
-        "url": "https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5"
-      },
-      "artists": [
-        {
-          "name": "Age Of Love",
-          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
-        }
-      ],
-      "duration_ms": 408773,
-      "name": "The Age Of Love - Jam & Spoon Watch Out For Stella Mix",
-      "url": "https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b"
     }
   ],
   "unique_name": "Ibiza Classics",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAADBKvLmPw6JjISib4c2BMdh",
+  "snapshot_id": "aQafAAAAAAC3MwRhO/uM9baStU4eikiM",
   "tracks": [
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Lost Inside of You",
+      "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
       },
@@ -1011,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Lost Inside of You",
-      "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -1059,38 +1059,6 @@
       "duration_ms": 257760,
       "name": "The Silver Tongued Devil and I",
       "url": "https://open.spotify.com/track/2VwhoKTOxrfhkpCfIk1FhW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highwayman 2",
-        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Two Stories Wide",
-      "url": "https://open.spotify.com/track/673LeigxlaoCkxPaIyv5Sc"
     },
     {
       "added_at": null,
@@ -1127,6 +1095,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Two Stories Wide",
+      "url": "https://open.spotify.com/track/673LeigxlaoCkxPaIyv5Sc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surreal Thing",
         "url": "https://open.spotify.com/album/5zzpsikgJ2uwAAEduiHG88"
       },
@@ -1159,26 +1159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "I'd Rather Be Sorry",
-      "url": "https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 152680,
       "name": "Are You Sure Hank Done It This Way - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/7ATWHFSb8bWHTFyQ30t1Qf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "I'd Rather Be Sorry",
+      "url": "https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2"
     },
     {
       "added_at": null,

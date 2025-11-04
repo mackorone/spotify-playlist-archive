@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Goli Soda",
+        "url": "https://open.spotify.com/album/74sWQL65tl7NuZhGDUDRUQ"
+      },
+      "artists": [
+        {
+          "name": "Distosapien",
+          "url": "https://open.spotify.com/artist/5TZ2tQ6CELFvCUOUe4r8At"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60067,
+      "name": "Goli Soda",
+      "url": "https://open.spotify.com/track/2tjdeqB1fzTqBi7wr3MU0W"
+    },
+    {
+      "album": {
         "name": "Gopa Trance",
         "url": "https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe"
       },
@@ -7004,7 +7022,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 255867,
       "name": "Prapanjam",
       "url": "https://open.spotify.com/track/4IguOEcObo3QhGgmjYj45Z"

@@ -1,6 +1,6 @@
 {
   "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
-  "num_followers": 46581,
+  "num_followers": 46607,
   "original_name": "Los Animalitos",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "100 A\u00f1os...100 Exitos",
-        "url": "https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 150373,
-      "name": "Escuela de Perritos",
-      "url": "https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Phineas And Ferb",
         "url": "https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 94106,
       "name": "S.I.M.P. (Squirrels in My Pants)",
       "url": "https://open.spotify.com/track/7ymrbUUrrqvUKBMmdRvieZ"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "100 A\u00f1os...100 Exitos",
+        "url": "https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 150373,
+      "name": "Escuela de Perritos",
+      "url": "https://open.spotify.com/track/51WoyBaeyNkoRK8yJkY4ac"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 184304,
-      "name": "El baile del sapito - Remasterizado 2016",
-      "url": "https://open.spotify.com/track/6N8lbqrViGQ5v4Xe1MZe1C"
+      "duration_ms": 337923,
+      "name": "Popurr\u00ed de animales (El se\u00f1or don Gato - La cucaracha - Pollito chicken) - Remasterizado 2016",
+      "url": "https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 337923,
-      "name": "Popurr\u00ed de animales (El se\u00f1or don Gato - La cucaracha - Pollito chicken) - Remasterizado 2016",
-      "url": "https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy"
+      "duration_ms": 184304,
+      "name": "El baile del sapito - Remasterizado 2016",
+      "url": "https://open.spotify.com/track/6N8lbqrViGQ5v4Xe1MZe1C"
     },
     {
       "added_at": "2020-04-23 19:03:50",

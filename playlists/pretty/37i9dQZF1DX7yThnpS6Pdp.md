@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yThnpS6Pdp.md) - [plain]
 
 > The ultimate playlist of party anthems to get everyone on the dancefloor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,760 likes - 90 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,773 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

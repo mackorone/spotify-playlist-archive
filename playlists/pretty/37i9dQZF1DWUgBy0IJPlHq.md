@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Dylan Gossett
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,946 likes - 96 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,950 likes - 96 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

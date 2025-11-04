@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-113 songs - 5 hr 28 min
+114 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Déjà Vu](https://open.spotify.com/track/1OkFX11LjOELGogZyTHVVa) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Déjà Vu](https://open.spotify.com/album/5HTYaaS1l5AN84J3MN42Oc) | 2:45 | 2025-07-04 |  |
 | [Echte Mannen \- Uit Liefde Voor Muziek](https://open.spotify.com/track/1oFEgfY7VTg5YLplTcPIUB) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Echte Mannen \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/7DcDXfWDIk16mSTQGu5mbI) | 2:20 | 2025-07-04 | 2025-08-22 |
 | [Eenzame Nacht](https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Eenzame Nacht](https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV) | 3:19 | 2025-07-04 | 2025-08-22 |
+| [Firestone](https://open.spotify.com/track/698sDDemmuKfYlRTzE1isu) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Firestone](https://open.spotify.com/album/4TaWdHYdwbHPb7kaHK8zjL) | 3:03 | 2025-11-03 |  |
 | [Fly Like Me](https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Fly Like Me](https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb) | 3:02 | 2025-07-04 |  |
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-07-04 | 2025-08-22 |
 | [Gin & Tonic](https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Gin & Tonic](https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i) | 2:38 | 2025-07-04 |  |

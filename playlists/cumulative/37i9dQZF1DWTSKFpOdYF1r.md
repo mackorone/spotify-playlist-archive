@@ -4,7 +4,7 @@
 
 > The songs that defined the other side of the 80s.
 
-279 songs - 18 hr 23 min
+279 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 | 2022-05-30 | 2024-04-19 |
 | [You'll Always Find Me In The Kitchen At Parties](https://open.spotify.com/track/0P1uVFhdZsNkMPbEgtNj5q) | [Jona Lewie](https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB) | [On The Other Hand There's A Fist](https://open.spotify.com/album/7b3iXqhQSHi8RSzsebHGs2) | 3:06 | 2021-11-17 | 2022-07-28 |
 | [You'll Always Find Me In The Kitchen At Parties](https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG) | [Jona Lewie](https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB) | [On The Other Hand There's A Fist](https://open.spotify.com/album/3Yg4ePP2KlxZgCXhOgQIDU) | 3:06 | 2022-09-29 | 2022-11-13 |
-| [Your Love](https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:36 | 2022-11-17 |  |
 | [Your Love](https://open.spotify.com/track/4oDZ5L8izBals6jKBJDBcX) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8) | 3:36 | 2022-05-30 | 2023-02-11 |
+| [Your Love](https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:43 | 2022-11-17 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

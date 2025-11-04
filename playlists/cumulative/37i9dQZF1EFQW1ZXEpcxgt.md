@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-164 songs - 9 hr 8 min
+166 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Don't Kill My High](https://open.spotify.com/track/09yhMTRqQ1I1dniu3PoIQi) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Paper Crowns \(Deluxe\)](https://open.spotify.com/album/6Z0dLHgtpQBXnnQJ0Ykott) | 3:00 | 2022-06-04 |  |
 | [Don't Say Much](https://open.spotify.com/track/6p9LXvQRz1KYAX45qA8oxT) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:28 | 2022-06-04 |  |
 | [Done With Love](https://open.spotify.com/track/0qlAureWHln3vDCsqnkyRE) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:56 | 2022-06-04 |  |
+| [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 | 2025-11-03 |  |
 | [Everywhere](https://open.spotify.com/track/2NRpuYVJPYhxC8xyutxkoL) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:48 | 2022-06-04 |  |
 | [Fire](https://open.spotify.com/track/11fPH8NoSw15IG5hWk5zLL) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:22 | 2022-06-04 |  |
 | [Fly](https://open.spotify.com/track/0PvbgBKA1ZMsTNrd8QVlCi) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Fly](https://open.spotify.com/album/3Shvkj36f9cbFZOQe9Dc0K) | 2:43 | 2022-06-04 |  |
@@ -101,6 +102,7 @@
 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 | 2025-05-26 |  |
 | [Love You Different \(feat\. BEAM\)](https://open.spotify.com/track/27UcQ6dAvQrgH9C880rCM3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:06 | 2022-06-04 |  |
 | [Maybach Curtains \(feat\. Nas, John Legend & Rick Ross\)](https://open.spotify.com/track/4KozGhbYbcVPTJN2XhAAng) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:52 | 2025-08-21 |  |
+| [Meaningless](https://open.spotify.com/track/41VUrlXNQ7Mbwv8jdsVCRs) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG) | [706](https://open.spotify.com/album/79zG8H3ljW0GGiS6tmDPqP) | 2:57 | 2025-11-03 |  |
 | [Million Dollar Girl](https://open.spotify.com/track/160sHFIH4Sc1wxYGtJ42tq) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Amazin'](https://open.spotify.com/album/4TwCl2ityARmDWMac42zhU) | 4:01 | 2022-06-04 | 2022-07-28 |
 | [Million Dollar Girl](https://open.spotify.com/track/2ML1Txlc33jMos9w8q9wVD) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Amazin'](https://open.spotify.com/album/4WXN9CA98cXtyFBxqLcFnH) | 4:01 | 2025-01-09 | 2025-04-12 |
 | [Miracle](https://open.spotify.com/track/7BFj9LKuwSTiBn5k73Sur3) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:21 | 2025-05-26 |  |

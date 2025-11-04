@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>DEAN\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>MIYEON\(미연\)\)
 
-869 songs - 1 day 21 hr 59 min
+871 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,7 @@
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 | 2023-07-14 | 2023-07-25 |
 | [Love of My Life](https://open.spotify.com/track/4CyPvA5XZJBFxD4x71iFgh) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [Heart Full of Empty Love](https://open.spotify.com/album/5aPm1mE6zlVO8cPRFoczCo) | 3:01 | 2022-07-24 | 2022-07-26 |
-| [Love on the canvas](https://open.spotify.com/track/0ZEVwqNc0GsPY1s4MfNWUh) | [SOHEE](https://open.spotify.com/artist/62iRJlNqfISnjjLiQ5iMyI) | [EXchange4, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/4VKpmgKeSRkAWJTLNiQd5Y) | 3:12 | 2025-10-18 |  |
+| [Love on the canvas](https://open.spotify.com/track/0ZEVwqNc0GsPY1s4MfNWUh) | [SOHEE](https://open.spotify.com/artist/62iRJlNqfISnjjLiQ5iMyI) | [EXchange4, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/4VKpmgKeSRkAWJTLNiQd5Y) | 3:12 | 2025-10-18 | 2025-11-04 |
 | [Love Paradox \(feat\. Ash\-B\)](https://open.spotify.com/track/1kIVH72XZlgZsE2j2tYYyX) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4) | [Foxiboy](https://open.spotify.com/album/6GdYQZVWk6RMZBslqjSFn0) | 3:07 | 2022-04-19 | 2022-04-21 |
 | [Love Power Warrior \(Prod\. hyeminsong\)](https://open.spotify.com/track/7wFLMYAba4y9quHtt1KRVR) | [Yoon Da Hye](https://open.spotify.com/artist/1MMvp9AK4S9WKByz3xt83F), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi) | [AP Melodies](https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi) | 3:33 | 2025-08-04 | 2025-08-20 |
 | [LOVE RECIPE](https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [WONDO Project : LOVE RECIPE, Vol.1](https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7) | 3:51 | 2024-07-04 | 2024-09-20 |
@@ -496,7 +496,7 @@
 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 | 2022-12-09 | 2023-01-11 |
 | [Microphone](https://open.spotify.com/track/4qaVcA4yzqG1dlGNdvyTh4) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:16 | 2022-07-07 | 2022-07-23 |
 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 | 2024-09-06 | 2024-09-20 |
-| [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-10-03 |  |
+| [MIRROR](https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Flash and Core](https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N) | 3:08 | 2025-10-03 | 2025-11-04 |
 | [Mm Mm](https://open.spotify.com/track/1eXBDCUxn41AwVgVIRbeWz) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/0NS9viwwEi04L7H8ObWJMD) | 2:46 | 2022-04-19 | 2022-07-28 |
 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 | 2022-08-01 |  |
 | [Mood](https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Mood](https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW) | 3:53 | 2025-05-12 | 2025-06-05 |
@@ -655,6 +655,7 @@
 | [Salang Salang](https://open.spotify.com/track/1DEJaWgi8ZKdStRO0iUX6e) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-04-22 | 2022-07-21 |
 | [Sandfunk \(feat\. ELO\)](https://open.spotify.com/track/0vM0bCUmKNGAGTmie7yv13) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [COLOUR](https://open.spotify.com/album/5NuA284oIw8Badg4oHaIOe) | 3:13 | 2022-11-23 | 2022-12-10 |
 | [Sandwiches \(Feat\. Zion.T\)](https://open.spotify.com/track/1KLXFanzOEeIYhfKr2jpwe) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [TENT](https://open.spotify.com/album/75zKG2sCdsnY9PhAZKIGnJ) | 3:03 | 2025-09-29 | 2025-10-18 |
+| [Say My Name](https://open.spotify.com/track/2t4d73fPrmvbPvqPe4OYxR) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY, Lover](https://open.spotify.com/album/7pMMFYohEty3MLZfq6HlZN) | 2:39 | 2025-11-03 |  |
 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 | 2025-08-22 | 2025-09-09 |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2022-04-19 | 2025-09-16 |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-02-15 |
@@ -707,6 +708,7 @@
 | [Sorry \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0vONqdc0gHme3GxX6ySs80) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Sorry \(Feat\. Skinny Brown\)](https://open.spotify.com/album/7wOVIDIXPWP5CbpB8nCxCI) | 2:59 | 2024-12-05 | 2024-12-19 |
 | [SOS \(feat\. NSW yoon\)](https://open.spotify.com/track/30kcwhaWoMnRKSv8REX9qP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [SOS](https://open.spotify.com/album/0l800jbq1GM428RPoURUnf) | 2:22 | 2024-04-12 | 2024-05-01 |
 | [space \(feat\. Vxlious, Marv\)](https://open.spotify.com/track/2iBVSFk0oneYEI1LmTHVaC) | [YUNGHOON](https://open.spotify.com/artist/0ezmeE8HQDrJOMr3IyH9nY), [Vxlious](https://open.spotify.com/artist/2PyFQMGLkz6aBODpAGSl4B), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [U](https://open.spotify.com/album/1BHjJKqDdgdUsOtjAZKJ2k) | 2:24 | 2024-09-13 | 2024-09-20 |
+| [Space Invader](https://open.spotify.com/track/3yg3Grgpxjut7gs9inW0p3) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY, Lover](https://open.spotify.com/album/7pMMFYohEty3MLZfq6HlZN) | 2:20 | 2025-11-03 |  |
 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 | 2022-12-15 | 2022-12-20 |
 | [Square \(2017\)](https://open.spotify.com/track/0WZhf0isd4av5qlFfKknC3) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:21 | 2022-04-19 | 2022-07-29 |
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-02 | 2023-07-04 |

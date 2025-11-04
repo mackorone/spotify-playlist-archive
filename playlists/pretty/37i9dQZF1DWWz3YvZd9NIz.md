@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,623 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,722 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 60 | [Cry For You](https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Cry For You](https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ) | 2:48 |
 | 61 | [Hangover](https://open.spotify.com/track/6HgeLV4tJi30yZV1pBg5sT) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Hangover](https://open.spotify.com/album/5eNjBM5cT4BHQfsoXnkwo8) | 2:50 |
 | 62 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 |
-| 63 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
-| 64 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
+| 63 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
+| 64 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
 | 65 | [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 |
 | 66 | [Sweet But Psycho](https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Sweet But Psycho](https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9) | 2:51 |
 | 67 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 |

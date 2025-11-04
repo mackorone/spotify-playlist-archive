@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 199200,
       "name": "Contorted",
       "url": "https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84"
@@ -7433,6 +7433,24 @@
     },
     {
       "album": {
+        "name": "M Melody",
+        "url": "https://open.spotify.com/album/7gRhn1g4HZdYLo439PbkRg"
+      },
+      "artists": [
+        {
+          "name": "CLAIR",
+          "url": "https://open.spotify.com/artist/67qQEiZFywUpdyB38Ukmt9"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268186,
+      "name": "M Melody",
+      "url": "https://open.spotify.com/track/1F4C29vUCHb8LXoGmPaPCI"
+    },
+    {
+      "album": {
         "name": "Magic (Is In The Tempo)",
         "url": "https://open.spotify.com/album/63B6pz458I1M1hVUyC3QVY"
       },
@@ -8680,7 +8698,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 341250,
       "name": "On It Goes",
       "url": "https://open.spotify.com/track/4EJAOpNaoJGXLLnJFiCKaq"
@@ -11940,6 +11958,24 @@
       "duration_ms": 304509,
       "name": "Trans Love Vibration (Eris Goes to Church)",
       "url": "https://open.spotify.com/track/5uSqU4wuVUEKPeb0pntudC"
+    },
+    {
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/4PVL0HPWwzH99OSXyJmf5L"
+      },
+      "artists": [
+        {
+          "name": "Slaycey",
+          "url": "https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244218,
+      "name": "Treehouse",
+      "url": "https://open.spotify.com/track/7EmmwWVjnTAeMWLE4MceRP"
     },
     {
       "album": {

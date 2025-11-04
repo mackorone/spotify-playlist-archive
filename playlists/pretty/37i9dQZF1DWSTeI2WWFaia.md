@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578,653 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,578,549 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 30 | [Friendly Hallucinations](https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:45 |
 | 31 | [Business Merger](https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Business Merger](https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ) | 3:37 |
 | 32 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
-| 33 | [Landgrab](https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Landgrab](https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq) | 1:28 |
-| 34 | [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 |
+| 33 | [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 |
+| 34 | [Landgrab](https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Landgrab](https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq) | 1:28 |
 | 35 | [Lalala](https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 3:18 |
 | 36 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 |
 | 37 | [Super Nintendo](https://open.spotify.com/track/4Gjn7HN8TCr8p3g6YAemiO) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Super Nintendo](https://open.spotify.com/album/2c6MHhmMRcERljTRj1rUuG) | 2:41 |

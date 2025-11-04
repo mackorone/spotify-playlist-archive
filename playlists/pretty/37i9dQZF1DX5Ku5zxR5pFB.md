@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ku5zxR5pFB.md) - [plain]
 
 > Let's have a LAYOVER in the V's world 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,095 likes - 27 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,343 likes - 27 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

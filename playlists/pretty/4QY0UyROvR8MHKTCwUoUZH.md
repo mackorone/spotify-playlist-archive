@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2025 \| Koffie Chill \| Café Music
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,476 likes - 85 songs - 4 hr 35 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,472 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 | 43 | [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 |
 | 44 | [Pretending](https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pretending](https://open.spotify.com/album/5GNrY0z2yqaOOcvbmq1t5m) | 2:35 |
 | 45 | [Everlastingly \- Wedding Version](https://open.spotify.com/track/2PUV7cOFpV1wrGBKed91N8) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Everlastingly \(Wedding Version\)](https://open.spotify.com/album/6un0lF2zOowIKOS3fI7YeH) | 3:12 |
-| 46 | [American Life \(live version\)](https://open.spotify.com/track/5d2g5QrbtgQDc51bRxpeEJ) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [American Life \(live version\)](https://open.spotify.com/album/42LLrq09ZgbWxwAuSfxydx) | 3:46 |
+| 46 | [American Life \- live version](https://open.spotify.com/track/5d2g5QrbtgQDc51bRxpeEJ) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [American Life \(live version\)](https://open.spotify.com/album/42LLrq09ZgbWxwAuSfxydx) | 3:46 |
 | 47 | [The Ocean](https://open.spotify.com/track/2L3yAc4GOgoDJb50YKVqxw) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [The Ocean](https://open.spotify.com/album/6ab2amp1PfPLEklhyIKqf3) | 1:03 |
 | 48 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
 | 49 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |

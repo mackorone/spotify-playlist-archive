@@ -123719,6 +123719,32 @@
     },
     {
       "album": {
+        "name": "SNOEY",
+        "url": "https://open.spotify.com/album/4ODxsdra6AfxaVFf51UkMs"
+      },
+      "artists": [
+        {
+          "name": "Zack Villere",
+          "url": "https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh"
+        },
+        {
+          "name": "Roy Blair",
+          "url": "https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67"
+        },
+        {
+          "name": "Papo2oo4",
+          "url": "https://open.spotify.com/artist/4S7E6TrfOatG9H3YuYV4V2"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177050,
+      "name": "Public Opinion",
+      "url": "https://open.spotify.com/track/3ORsrd6XBeO8BhE0zYRtgE"
+    },
+    {
+      "album": {
         "name": "Puddles",
         "url": "https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM"
       },

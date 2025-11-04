@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Scarf season is upon us\. Crunchy leaves, pumpkin spice, and all the cozy Fall feels.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 114,611 likes - 149 songs - 9 hr 13 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 114,597 likes - 149 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

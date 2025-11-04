@@ -7117,6 +7117,24 @@
     },
     {
       "album": {
+        "name": "Sender Receiver",
+        "url": "https://open.spotify.com/album/7lwrTz3nTqn9EFp7cy8zjR"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189386,
+      "name": "Sender Receiver",
+      "url": "https://open.spotify.com/track/5SoAnyXNFRdq3qlrkpPlY1"
+    },
+    {
+      "album": {
         "name": "Shadow Dance",
         "url": "https://open.spotify.com/album/6WOWUHCLX8C2tQYJwpc0p4"
       },

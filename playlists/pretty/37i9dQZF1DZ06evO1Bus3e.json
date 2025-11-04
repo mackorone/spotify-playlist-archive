@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAACk8YQYGF0SRSkVXPg1pNcj",
+  "snapshot_id": "aQafAAAAAAAagsHJby6SWT1e2hX/kglE",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacando El Polvo",
-        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
+        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 241727,
-      "name": "Sacando El Polvo",
-      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
+      "duration_ms": 130470,
+      "name": "Cartel De Reyes",
+      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
     },
     {
       "added_at": null,
@@ -375,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
-        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
+        "name": "Sacando El Polvo",
+        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 130470,
-      "name": "Cartel De Reyes",
-      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
+      "duration_ms": 241727,
+      "name": "Sacando El Polvo",
+      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
     },
     {
       "added_at": null,

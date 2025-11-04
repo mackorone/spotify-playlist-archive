@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,265 songs - 3 day 2 hr 21 min
+1,267 songs - 3 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-01-05 |  |
 | [As the Earth Turns](https://open.spotify.com/track/03GcLxStYDuBNhfY87Fgrt) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [As the Earth Turns](https://open.spotify.com/album/2pgcXh5cmiCpnZGRL15JK6) | 3:00 | 2025-03-24 |  |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2021-12-07 | 2022-12-02 |
+| [Ask for More](https://open.spotify.com/track/0Hx2fvSuf3OxAadpYV92NH) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Ask for More](https://open.spotify.com/album/4RuLAwmPJcZUCGkuRd5r5a) | 3:23 | 2025-11-03 |  |
 | [Asking You Out](https://open.spotify.com/track/0QCyenIbvoll6CIjDstGSj) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [Asking You Out](https://open.spotify.com/album/034e3pSqJygDVB8tMsXck0) | 3:04 | 2024-03-22 |  |
 | [At Dawn](https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Paris in Spring](https://open.spotify.com/album/6j3hvmLvXl1eIHonHyj8cV) | 3:53 | 2023-10-13 | 2025-06-06 |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-09 | 2024-10-22 |
@@ -439,7 +440,7 @@
 | [Holding a moment](https://open.spotify.com/track/0s03POMpbhDKboD5UQqKBf) | [Autumn Steps](https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp) | [Holding a moment](https://open.spotify.com/album/2ei3iALNMyyMjiZmFZ7Yed) | 4:04 | 2025-08-27 |  |
 | [Holograms](https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Holograms](https://open.spotify.com/album/32TK2PRS6wBvm4JIM9DdNk) | 3:52 | 2023-02-23 | 2025-08-21 |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
-| [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
+| [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 | 2025-11-04 |
 | [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2022-10-27 | 2024-11-06 |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-05-31 | 2025-05-20 |
 | [Hope](https://open.spotify.com/track/4bKVx5gwMwv0pEN79Jo8V6) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Hope](https://open.spotify.com/album/6KISGlQsr69gUTLtsLABa2) | 3:57 | 2022-11-17 | 2023-06-16 |
@@ -549,6 +550,7 @@
 | [Into The Unknown](https://open.spotify.com/track/5cSLtmuZmymDqxGxhJ0YSF) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Into The Unknown](https://open.spotify.com/album/0Ifmedg8QIdPrxzJm7eekM) | 2:37 | 2023-09-22 | 2024-05-24 |
 | [Isfahan](https://open.spotify.com/track/1xUj0IyCqDQuMFIBbEel3s) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Isfahan](https://open.spotify.com/album/7KMTe6qasqhNYZknr4FMZ3) | 3:53 | 2024-04-23 |  |
 | [Isfahan](https://open.spotify.com/track/2k5aiRwCt4Eat9U54Lz8up) | [Nelly Vernon](https://open.spotify.com/artist/2QTDEcFCA6jvoJwQsm3TpS) | [Isfahan](https://open.spotify.com/album/6VC7itIVScZfwaNoNArgBw) | 3:00 | 2021-12-07 | 2023-06-16 |
+| [Isla’s Lament](https://open.spotify.com/track/7zUhvOYfWM52VkeBP0zDZW) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Isla’s Lament](https://open.spotify.com/album/5Frr1hMo5gIqn9qD8Vsfpt) | 3:26 | 2025-11-03 |  |
 | [Isle of Skye](https://open.spotify.com/track/73LQCAFiw2kiWQnqwlQPGg) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Isle of Skye](https://open.spotify.com/album/3dhOnlhtjBOIZYO3Dxmn04) | 3:36 | 2024-05-10 | 2025-03-25 |
 | [Isn't It Romantic](https://open.spotify.com/track/2loBTwDUEtNRAegOGqppeu) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Isn't It Romantic](https://open.spotify.com/album/0sj3CpTeCWPE72SO0Yp26c) | 4:11 | 2021-12-07 | 2022-11-25 |
 | [It Could Happen To You](https://open.spotify.com/track/6H7Gxcz5HDeuPjrmiJG9KR) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [It Could Happen To You](https://open.spotify.com/album/53e911it8lcwlOLCAPuNVa) | 3:30 | 2022-08-30 | 2022-12-09 |
@@ -1035,7 +1037,7 @@
 | [Tennesse](https://open.spotify.com/track/2RkJ5dsaRwrnrhYUX2F7Qr) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Tennesse](https://open.spotify.com/album/4UEk2CYKoNnqyMWdCbTRmR) | 3:31 | 2021-12-07 | 2022-06-08 |
 | [Thanks for Coming](https://open.spotify.com/track/01gKWL5LmFKMjsrBVvV0hH) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Thanks for Coming](https://open.spotify.com/album/3cHDD98DUzgNMj05KqY4yz) | 2:37 | 2024-08-06 |  |
 | [That's All](https://open.spotify.com/track/59mVrBgcjofN5aU96PPOqj) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [That's All](https://open.spotify.com/album/1NG2MHtqLO0f4BAZGSOFN7) | 3:02 | 2024-04-10 |  |
-| [That's Us Later](https://open.spotify.com/track/1Nf6ZFoTvXx0ULypwRRpQA) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [That's Us Later](https://open.spotify.com/album/3ALmTJqbdT7UQC6ZefnNgR) | 4:41 | 2025-09-10 |  |
+| [That's Us Later](https://open.spotify.com/track/1Nf6ZFoTvXx0ULypwRRpQA) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [That's Us Later](https://open.spotify.com/album/3ALmTJqbdT7UQC6ZefnNgR) | 4:41 | 2025-09-10 | 2025-11-04 |
 | [That's When We'll Part](https://open.spotify.com/track/4GlTpFacX7Vgz0J1vMnKki) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [That's When We'll Part](https://open.spotify.com/album/6fF8wIlGMfdYta5wd2EiU0) | 2:39 | 2022-12-01 | 2024-06-01 |
 | [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2022-08-30 | 2024-05-11 |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-23 | 2024-09-10 |

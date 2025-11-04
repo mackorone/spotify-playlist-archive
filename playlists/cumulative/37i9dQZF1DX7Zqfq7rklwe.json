@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/2PS94dz5nFYM3pwoW055Go"
+      },
+      "artists": [
+        {
+          "name": "DIRT",
+          "url": "https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229749,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/1SrAT7vAJGh13Zy0kGdOjH"
+    },
+    {
+      "album": {
         "name": "Boulevard of Broken Dreams",
         "url": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA"
       },

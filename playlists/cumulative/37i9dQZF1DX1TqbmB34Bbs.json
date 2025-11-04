@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: BLASE) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: MIRANI(\ubbf8\ub780\uc774)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 163280,
       "name": "another level (Feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6zS74GDJYKIRE9coRGFwpu"
@@ -5220,7 +5220,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 158000,
       "name": "CANVAS (Feat. Fleeky Bang)",
       "url": "https://open.spotify.com/track/3aF7O1Pnh2bjbRgwXwp30B"
@@ -5847,6 +5847,24 @@
     },
     {
       "album": {
+        "name": "CLUTCH",
+        "url": "https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128999,
+      "name": "CLUTCH",
+      "url": "https://open.spotify.com/track/4PwpCXLyyBNvyTRSUEE0t8"
+    },
+    {
+      "album": {
         "name": "Coaster (Feat. Khakii, Munchman, Chillin Homie)",
         "url": "https://open.spotify.com/album/325RiX8La2adz3aS2vIxXo"
       },
@@ -6244,7 +6262,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 163186,
       "name": "COUGH",
       "url": "https://open.spotify.com/track/26cPWPcsi3XR1oDf7ivUk0"
@@ -17174,7 +17192,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 227346,
       "name": "Name Tag (Feat. Sik-K, Coogie) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4Q1mkQI9zKjEPsbI19hpsN"
@@ -26118,7 +26136,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 111000,
       "name": "Thirst Trap",
       "url": "https://open.spotify.com/track/7Kcpe44IwoD4O621oUNLZW"

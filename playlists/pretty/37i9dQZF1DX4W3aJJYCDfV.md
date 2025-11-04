@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Florence & The Machine, ROSALÍA, Knucks and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,928 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,865 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
+| 1 | [Sympathy Magic](https://open.spotify.com/track/6ExwNwWLXvvKr5hk6lkHUY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:28 |
 | 2 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 3 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [A Fine African Man](https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d) | 2:43 |
 | 4 | [How To Be Human](https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 2:40 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 111 | [Bag](https://open.spotify.com/track/0PUmb6aoni90TrX38XtfFA) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [VIM](https://open.spotify.com/album/3yUd75rQVm3xpCw2jQ6bPG) | 2:05 |
 | 112 | [The Numbers Man \(Part 1\)](https://open.spotify.com/track/0UrGnINs3mBfQhnjFtniGa) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Jolliffe](https://open.spotify.com/artist/0LnYKY8xLUWxNkxwmrJS4H), [GENTRY](https://open.spotify.com/artist/7no09x8IoPfolbsWyBVDlC), [Stanley Colman](https://open.spotify.com/artist/17BA3WqZULoh0mTZqfoYxV) | [The Numbers Man \(Part 1\)](https://open.spotify.com/album/62UEPKuFFil4Irq9kJrqoA) | 7:15 |
 
-Snapshot ID: `AAAAAFQo6YhbnZu0kFiCKteK3CFlcW6/`
+Snapshot ID: `AAAAANWpA4xsu3s+uNunxi9d9v+HmDFL`

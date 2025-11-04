@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: BIG Naughty, 10CM) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: Kang Seung Yoon(\uac15\uc2b9\uc724)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -5787,6 +5787,24 @@
     },
     {
       "album": {
+        "name": "A lost voice",
+        "url": "https://open.spotify.com/album/1prmsYgbHYQgE3xqinGoW0"
+      },
+      "artists": [
+        {
+          "name": "Zamgolbers",
+          "url": "https://open.spotify.com/artist/5ZOPfXGBx6abXxg8ASoqSg"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "A lost voice",
+      "url": "https://open.spotify.com/track/1MarHhMFbZpbEkSc2RBSlA"
+    },
+    {
+      "album": {
         "name": "A lot of stars",
         "url": "https://open.spotify.com/album/1jgilgG0i2t0RemKegciMz"
       },
@@ -9823,6 +9841,24 @@
     },
     {
       "album": {
+        "name": "air balloon",
+        "url": "https://open.spotify.com/album/04vRYZbzxj2nb15fkjASVW"
+      },
+      "artists": [
+        {
+          "name": "miri",
+          "url": "https://open.spotify.com/artist/17HdunlHg6m6Na2nLj8XPz"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182555,
+      "name": "air balloon",
+      "url": "https://open.spotify.com/track/3M7UqXqmXhwm2HVvfEfAbD"
+    },
+    {
+      "album": {
         "name": "Watcha Original <Inside Lyrics> `Airbag`",
         "url": "https://open.spotify.com/album/1BGa0SY2AqensYrVvbRrtR"
       },
@@ -11154,6 +11190,24 @@
       "duration_ms": 46546,
       "name": "All In AUS (AG SQUAD Crew)",
       "url": "https://open.spotify.com/track/1OnzygpognvtYjQz9VwAu9"
+    },
+    {
+      "album": {
+        "name": "Nice to Not Meet You (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/76N1c7Aj4p0pJRl2baYDRD"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "All In, Do or Die",
+      "url": "https://open.spotify.com/track/4yQmiUKbs8GooduZH0GbZg"
     },
     {
       "album": {
@@ -15136,6 +15190,24 @@
       "duration_ms": 186720,
       "name": "Are You Alive",
       "url": "https://open.spotify.com/track/0KEgaOvobKmv9VVQg2WI0P"
+    },
+    {
+      "album": {
+        "name": "Are You Ready To Go Now?",
+        "url": "https://open.spotify.com/album/2a6RfCuTRxahnlhdQfqqkk"
+      },
+      "artists": [
+        {
+          "name": "GUMX",
+          "url": "https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161688,
+      "name": "Are You Ready To Go Now?",
+      "url": "https://open.spotify.com/track/5RfNu9kbyEEUCrEefKdcsl"
     },
     {
       "album": {
@@ -20926,6 +20998,24 @@
       "duration_ms": 194291,
       "name": "Be My Birthday",
       "url": "https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC"
+    },
+    {
+      "album": {
+        "name": "Be My Light",
+        "url": "https://open.spotify.com/album/26ZNAv0TTN9vEX49KnmhSF"
+      },
+      "artists": [
+        {
+          "name": "ISEGYE IDOL",
+          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Be My Light",
+      "url": "https://open.spotify.com/track/7925JMeZ6VVvOKbkcnbyov"
     },
     {
       "album": {
@@ -41644,6 +41734,24 @@
       "duration_ms": 209013,
       "name": "Clumsy",
       "url": "https://open.spotify.com/track/12TW50uDqnqwCrMa51IqyX"
+    },
+    {
+      "album": {
+        "name": "CLUTCH",
+        "url": "https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128999,
+      "name": "CLUTCH",
+      "url": "https://open.spotify.com/track/4PwpCXLyyBNvyTRSUEE0t8"
     },
     {
       "album": {
@@ -125565,6 +125673,24 @@
     },
     {
       "album": {
+        "name": "Light Up My Way",
+        "url": "https://open.spotify.com/album/6FdoAdPSNAjzA7UiB0nV57"
+      },
+      "artists": [
+        {
+          "name": "CHANGJO",
+          "url": "https://open.spotify.com/artist/6PMDhC2Rb4NWhWsRNfJHlr"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Light Up My Way",
+      "url": "https://open.spotify.com/track/5lrViPEhfdQ0jRaWEyoPjE"
+    },
+    {
+      "album": {
         "name": "Where's my hero? Special OST Part.3",
         "url": "https://open.spotify.com/album/4v0OZO8z80mVjGQxWVv5aK"
       },
@@ -140850,6 +140976,24 @@
       "duration_ms": 190720,
       "name": "MDA",
       "url": "https://open.spotify.com/track/2NCHVq41KmnWn1PkN7eZnL"
+    },
+    {
+      "album": {
+        "name": "PAGE 2",
+        "url": "https://open.spotify.com/album/1zQRrxf71E8Fi5CnfYEWrp"
+      },
+      "artists": [
+        {
+          "name": "KANG SEUNG YOON",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222052,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7gfo1QCdgYS3dJGfjrN39Z"
     },
     {
       "album": {
@@ -163594,6 +163738,24 @@
       "duration_ms": 179454,
       "name": "Only One (GIRIBOY Ver.)",
       "url": "https://open.spotify.com/track/0C542Nrs11H97CV181K1xe"
+    },
+    {
+      "album": {
+        "name": "Only One (Jazz Version)",
+        "url": "https://open.spotify.com/album/057BrYACkijfylrhjwJAsM"
+      },
+      "artists": [
+        {
+          "name": "SM Jazz Trio",
+          "url": "https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268611,
+      "name": "Only One - Jazz Version",
+      "url": "https://open.spotify.com/track/3w4m8rUUedwM81wAAgg5Hk"
     },
     {
       "album": {
@@ -186931,6 +187093,24 @@
     },
     {
       "album": {
+        "name": "MY, Lover",
+        "url": "https://open.spotify.com/album/6kJ5z2JLigSboCsfqjyz5h"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/675IZk8daYLNCcBZHgGcss"
+    },
+    {
+      "album": {
         "name": "When The Phone Rings, Pt. 6 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3KdCEKqKZAfxiph6xdwy1H"
       },
@@ -194326,6 +194506,24 @@
       "duration_ms": 197480,
       "name": "Sketch",
       "url": "https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ"
+    },
+    {
+      "album": {
+        "name": "CTRL+ALT+SKIID",
+        "url": "https://open.spotify.com/album/0SDZlJp4YTGAH1rApG7lyM"
+      },
+      "artists": [
+        {
+          "name": "ARrC",
+          "url": "https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171744,
+      "name": "SKIID",
+      "url": "https://open.spotify.com/track/69Lfa6t4sskn5BwiHJ1nch"
     },
     {
       "album": {
@@ -203450,6 +203648,24 @@
       "duration_ms": 134546,
       "name": "Stay",
       "url": "https://open.spotify.com/track/34qfVa3JpOQT5hZqd7Rjum"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE"
     },
     {
       "album": {
@@ -268868,6 +269084,24 @@
       "duration_ms": 188142,
       "name": "\ucc3b\uc794",
       "url": "https://open.spotify.com/track/7HG5M0D2t4p2tZtl67d5lY"
+    },
+    {
+      "album": {
+        "name": "\ucc3d\ubc16",
+        "url": "https://open.spotify.com/album/111CTXj5OIW4YQst0vKYHq"
+      },
+      "artists": [
+        {
+          "name": "Park Soo Jin",
+          "url": "https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179293,
+      "name": "\ucc3d\ubc16",
+      "url": "https://open.spotify.com/track/2n4STy50HPhndC9mwMFdwK"
     },
     {
       "album": {

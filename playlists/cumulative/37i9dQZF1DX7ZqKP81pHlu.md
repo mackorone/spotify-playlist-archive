@@ -4,7 +4,7 @@
 
 > The hottest 50 tracks in Algeria\. Cover: Numidia Lezoul
 
-265 songs - 15 hr 54 min
+266 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Saint\-Valentin](https://open.spotify.com/track/6TLyzFX0FY6X52ZvZuQQpN) | [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Saint\-Valentin](https://open.spotify.com/album/55cRTgRGc5IKierDA2LIaL) | 3:01 | 2021-12-09 | 2022-06-01 |
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-08-14 | 2024-08-25 |
 | [Saroukh Style Manini](https://open.spotify.com/track/1f2AKogp0N5Yy5iA41xNIm) | [Smaug](https://open.spotify.com/artist/1fIraGNUIufBhLMYTiXs6n), [Dj Mourad](https://open.spotify.com/artist/5pYsi7UuQoyP3HdXYjpAPz) | [Saroukh Style Manini](https://open.spotify.com/album/4njF2Gxylwy7QZsb9Mo57s) | 3:03 | 2024-07-18 |  |
+| [SAYGA](https://open.spotify.com/track/0sph6B02DsRCAkKpMhOT3P) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [SAYGA](https://open.spotify.com/album/67OggBaHeH1P5kflZop6w6) | 3:05 | 2025-11-03 |  |
 | [SEYA](https://open.spotify.com/track/0Fyqe4e5VjCaFjNSNYWa25) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Les dernières volontés de Mozart \(Symphony\)](https://open.spotify.com/album/4ljqGoLmGs8AxkyS2S1fvQ) | 3:08 | 2024-07-18 |  |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-20 | 2024-06-05 |
 | [Smaht ou Mchit](https://open.spotify.com/track/4szzelql5n4wwot52p0rsm) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Smaht ou Mchit](https://open.spotify.com/album/0crzSITMp0X19AwZwAz6q6) | 3:39 | 2025-07-17 |  |
@@ -246,7 +247,7 @@
 | [WB III \- A COLORS SHOW](https://open.spotify.com/track/2ul7vbBNYl37HP0UE625kq) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [WB III \- A COLORS SHOW](https://open.spotify.com/album/7zLND8Dzq27uwXtjFtgGSN) | 2:48 | 2025-04-12 |  |
 | [Welaw lia](https://open.spotify.com/track/4geztzHt7SglseWxHcLNoB) | [bara3im thugs](https://open.spotify.com/artist/4BkTLXaicMNkp3R9PBVdwC) | [Welaw lia](https://open.spotify.com/album/0HQlwX53jM3hWrWDAWmbhH) | 2:47 | 2023-08-10 | 2024-04-16 |
 | [Welili](https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Welili](https://open.spotify.com/album/7xUBj6AnlQlJOznWSrZ9wp) | 4:16 | 2021-12-09 | 2022-05-05 |
-| [WESH BB](https://open.spotify.com/track/25oNBSF8dQlwfi9teKIJAs) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [WESH BB](https://open.spotify.com/album/1z8xpR4QQlRMbM8S24I7kB) | 3:04 | 2024-10-07 |  |
+| [WESH BB](https://open.spotify.com/track/25oNBSF8dQlwfi9teKIJAs) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [WESH BB](https://open.spotify.com/album/1z8xpR4QQlRMbM8S24I7kB) | 3:04 | 2024-10-07 | 2025-11-04 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-29 | 2024-07-27 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-05-26 | 2023-10-12 |
 | [Ya Men 3ach](https://open.spotify.com/track/7HkC5x6gmkpZMsIbFeDTue) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Ya Men 3ach](https://open.spotify.com/album/3yJFWGqu2gS8JUEeJmLGyK) | 3:27 | 2023-08-14 | 2024-08-17 |

@@ -204,7 +204,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 196000,
       "name": "B&M",
       "url": "https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 248785,
       "name": "Labass",
       "url": "https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Medical",
       "url": "https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN"
@@ -2784,6 +2784,24 @@
       "duration_ms": 176589,
       "name": "Unplugged - Spotify Singles",
       "url": "https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN"
+    },
+    {
+      "album": {
+        "name": "Valluminati",
+        "url": "https://open.spotify.com/album/6elabSMRw648ju19QYg55P"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140031,
+      "name": "Valluminati",
+      "url": "https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn"
     },
     {
       "album": {

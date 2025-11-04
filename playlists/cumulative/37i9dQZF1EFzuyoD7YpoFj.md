@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-630 songs - 1 day 10 hr 3 min
+631 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,8 @@
 | [One Summer Night](https://open.spotify.com/track/5KRqJROO01v6gJYBiI8eZF) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [Dance With Me](https://open.spotify.com/album/3Ru54yj2eYlR23YqGtZYPJ) | 2:32 | 2024-12-14 | 2025-06-28 |
 | [One Summer Night](https://open.spotify.com/track/5Lsu3JbK9nqymd0jAM0bS8) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Myth of The Diamonds](https://open.spotify.com/album/4YlrbJHizQisgviuWuuUPd) | 2:32 | 2024-11-17 | 2024-12-13 |
 | [One Summer Night](https://open.spotify.com/track/1jYcO0S7Ix5t4UInpifPZP) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [Little Darlin'](https://open.spotify.com/album/37j0wCqyezW0pVmqRuVevm) | 2:33 | 2024-07-24 | 2024-12-15 |
-| [Only Another Boy And Girl](https://open.spotify.com/track/1hYfftcJJPoGJTorbul01x) | [Benny Goodman Quintet](https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq), [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Small Groups: 1941\-1945](https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4) | 2:59 | 2024-07-24 |  |
+| [Only Another Boy And Girl](https://open.spotify.com/track/2h9JNdBkcpqA4FOO1Wb8cG) | [Benny Goodman](https://open.spotify.com/artist/6jrpiwzsuxDlBQwrwdjQPI) | [Grandes del Jazz](https://open.spotify.com/album/6BOf6MCKDP2ZmjU7SuVndm) | 2:59 | 2025-11-03 |  |
+| [Only Another Boy And Girl](https://open.spotify.com/track/1hYfftcJJPoGJTorbul01x) | [Benny Goodman Quintet](https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq), [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Small Groups: 1941\-1945](https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4) | 2:59 | 2024-07-24 | 2025-11-04 |
 | [Opportunity Knocks But Once \(At Thuh Door\)](https://open.spotify.com/track/7LYmZeaBnJlmKHK6Cmm8U6) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 3:16 | 2024-07-24 |  |
 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 | 2024-07-24 |  |
 | [Out Of This World](https://open.spotify.com/track/4CprHTUD6qUHM8SCfL0dal) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Harold Arlen Song Book](https://open.spotify.com/album/2yprBiSeLBqwoPdDNl5kbI) | 2:43 | 2025-06-27 |  |

@@ -4,7 +4,7 @@
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-153 songs - 7 hr 22 min
+154 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amando por 2 e Bebendo por 10 \- Ao Vivo](https://open.spotify.com/track/18P0nUq9ZcFC9DIN4syWug) | [Cavaleiros do Forró](https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Amando por 2 e Bebendo por 10 \(Ao Vivo\)](https://open.spotify.com/album/3FN0HVUNWwN1sdjieH1Ffo) | 2:55 | 2024-03-28 | 2025-01-05 |
 | [Amarok](https://open.spotify.com/track/6ph8L3oj9HSS3YxjMfaLyF) | [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Amarok](https://open.spotify.com/album/7IycRU77xqTWqJUA4I8SFi) | 2:15 | 2024-07-08 | 2025-01-18 |
 | [Amarok](https://open.spotify.com/track/7bmzcwns5ucY3M5plcnqOn) | [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Amarok](https://open.spotify.com/album/1bYtrMSU6wEv1lvEOcCXXu) | 2:15 | 2023-10-23 | 2024-04-19 |
-| [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 | 2023-10-23 |  |
+| [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 | 2023-10-23 | 2025-11-04 |
 | [Amor Falso](https://open.spotify.com/track/0KlDHJm8yPsGdiNhYgEYWZ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Amor Falso](https://open.spotify.com/album/28EQ82s2vUSPiIH04ZOvVn) | 2:57 | 2023-10-23 | 2024-04-19 |
 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 | 2025-07-11 | 2025-08-10 |
 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 | 2023-10-23 |  |
@@ -78,6 +78,7 @@
 | [Isca](https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Isca](https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv) | 2:42 | 2023-10-23 | 2025-08-21 |
 | [Jenifer](https://open.spotify.com/track/7wMAgaPiKzTNxpDWu2BPfk) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [À Vontade](https://open.spotify.com/album/6afrnMQFnO6nY5GuGYZcgP) | 2:40 | 2023-10-23 |  |
 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 | 2023-10-23 |  |
+| [Já Que Me Ensinou a Beber](https://open.spotify.com/track/2Cm5PX1a4uhcEy7D0E2gTV) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Saia na Serra](https://open.spotify.com/album/4R4c9JW112f9Jp60frvZCN) | 2:16 | 2025-07-11 |  |
 | [Letícia](https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Original](https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ) | 2:47 | 2023-10-23 |  |
 | [Linda Bela](https://open.spotify.com/track/1S0HjmWVsWVdLcjtoZjqmI) | [Elias Monkbel](https://open.spotify.com/artist/5mFMTcmSFaMIkmHvXZUrVZ) | [O Carpinteiro \(Ao Vivo\)](https://open.spotify.com/album/1Q18WOT7ZQlxjd5ApZ9dZZ) | 3:27 | 2023-10-23 | 2024-04-19 |
 | [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 | 2025-03-28 |  |

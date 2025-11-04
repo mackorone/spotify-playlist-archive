@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-162 songs - 9 hr 7 min
+163 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 | 2025-01-12 |  |
 | [Ana W Rassi](https://open.spotify.com/track/0vyV3joyy1lWJoZ7QWJVew) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Bachir Zairi](https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u) | [Ana W Rassi](https://open.spotify.com/album/2W4as3s5ueGHrBjkqfjT4A) | 3:49 | 2024-02-29 | 2024-08-02 |
 | [Ayala](https://open.spotify.com/track/4ja9Tx6iAMlMHCv7VXIGjC) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Ayala](https://open.spotify.com/album/71mpnHnlye8O62xMgL4vpn) | 3:03 | 2024-05-09 | 2024-06-07 |
-| [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 | 2024-07-22 |  |
+| [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 | 2024-07-22 | 2025-11-04 |
 | [Baghi Ntoub](https://open.spotify.com/track/4ZqfS1PEQlNmfKNUqPXmYr) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1), [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Baghi Ntoub](https://open.spotify.com/album/4Qy0HAqDOh20b7ss1YWbJI) | 2:42 | 2024-02-29 | 2024-07-23 |
 | [BEAU\-COUP](https://open.spotify.com/track/7AuzxGwnsQAIOv8Fn8lisS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [BEAU\-COUP](https://open.spotify.com/album/4O5Tx7iZBj3PIzI7Vmm9Js) | 2:40 | 2024-02-29 | 2024-07-23 |
 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 | 2024-02-29 |  |
@@ -74,7 +74,7 @@
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2024-07-22 | 2025-03-06 |
 | [KNZ](https://open.spotify.com/track/3YqEI4fpQFI8cYZiZzOyFj) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [KNZ](https://open.spotify.com/album/31YwWDm009EZqc9penbagV) | 4:07 | 2024-02-29 | 2024-07-23 |
 | [L](https://open.spotify.com/track/3t5rxFCtPFSUULtNAaARXz) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [L](https://open.spotify.com/album/3L6hcHjXIAQimZpiOMr9Hg) | 3:04 | 2025-03-05 |  |
-| [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 | 2025-03-05 |  |
+| [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 | 2025-03-05 | 2025-11-04 |
 | [Lalala](https://open.spotify.com/track/1diDQ6oxUeaMWzGxeITGmF) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lalala](https://open.spotify.com/album/51uhzA9DubuaIA8HipKUVP) | 2:32 | 2024-02-29 | 2024-07-23 |
 | [late night](https://open.spotify.com/track/7lIZxEq61A2OMnjD4V7Ok7) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [late night](https://open.spotify.com/album/5sKgQKiGwRIUV4rTOir0VE) | 2:46 | 2024-10-22 | 2024-11-09 |
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-02-29 | 2024-07-23 |
@@ -93,7 +93,7 @@
 | [Maghandemch](https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O), [Xcep](https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 3:33 | 2024-07-22 |  |
 | [MAGHRIBI](https://open.spotify.com/track/1Z420TiuEXtSn9SEUIC3ks) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 4:14 | 2025-08-07 |  |
 | [Marceline](https://open.spotify.com/track/5eqhJGx7N5bXvLmO7jc9CR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Marceline](https://open.spotify.com/album/7xfJ3XGJxiXPB5qqTZkxxS) | 2:55 | 2025-08-07 |  |
-| [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-05-28 | 2025-06-11 |
+| [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-05-28 |  |
 | [Memo](https://open.spotify.com/track/6czrSxEQpR1oiw5U6vQVUF) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Memo](https://open.spotify.com/album/2SRe9hjJjJ1kRwQE1PBzSZ) | 3:32 | 2024-08-02 | 2024-10-23 |
 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2024-02-29 | 2024-07-23 |
 | [MIEL](https://open.spotify.com/track/3I1EOnxa1H2RDi8dkAwZX1) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [QUARTIER LATIN VOL.1](https://open.spotify.com/album/4OpjYM9WIhIH4u0Pd3aYij) | 3:18 | 2024-02-29 | 2024-04-19 |
@@ -155,6 +155,7 @@
 | [TRAP ROUMI V5](https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V5](https://open.spotify.com/album/0pMUVXedchr9B1aGmXruEj) | 4:04 | 2024-08-02 | 2024-08-29 |
 | [Ungrateful](https://open.spotify.com/track/5a7nQfwZ5106lAi0bxGvRc) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:34 | 2024-02-29 | 2025-08-08 |
 | [Unplugged \- Spotify Singles](https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Unplugged \(Spotify Singles\)](https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg) | 2:56 | 2024-02-29 | 2024-07-23 |
+| [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 | 2025-11-03 |  |
 | [Versus](https://open.spotify.com/track/3nn8JqoGuZhk7pqDV1NjWQ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Versus](https://open.spotify.com/album/7Enc3p8PWn4TgvG0lJmLZn) | 4:01 | 2025-03-05 | 2025-08-08 |
 | [Violet](https://open.spotify.com/track/6r5YuKAP7zXnzkg6GAzUuu) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Violet](https://open.spotify.com/album/1rAgDk1QcVCNbqeAL9Z20o) | 2:16 | 2025-08-07 |  |
 | [Walo](https://open.spotify.com/track/3E4ZICEXRcM8LRO1jjWQMI) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [Lost ingredient before POTION](https://open.spotify.com/album/1Dc47UiresIBznuoM5O3Sl) | 3:20 | 2024-02-29 | 2024-07-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,212 likes - 45 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,222 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 40 | [Looku Looku](https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:07 |
 | 41 | [Everyday](https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk) | [TMP Offisial](https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Everyday](https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG) | 3:10 |
 | 42 | [Overload \(Kala\)](https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:29 |
-| 43 | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp) | [G.O.E](https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9), [Temadey](https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M) | 2:50 |
+| 43 | [Jogo \(Smoke Up\)](https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ) | [maskiking](https://open.spotify.com/artist/4935TUbJvVDvF0ciKIgWf0), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Boss6man](https://open.spotify.com/artist/2MpxgoxOjts3AjYXUBcT8V) | [Jogo \(Smoke Up\)](https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr) | 2:49 |
 | 44 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
-| 45 | [Jogo \(Smoke Up\)](https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ) | [maskiking](https://open.spotify.com/artist/4935TUbJvVDvF0ciKIgWf0), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Boss6man](https://open.spotify.com/artist/2MpxgoxOjts3AjYXUBcT8V) | [Jogo \(Smoke Up\)](https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr) | 2:49 |
+| 45 | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp) | [G.O.E](https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9), [Temadey](https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [S.O.T.P \( Sauce of the Party \)](https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M) | 2:50 |
 
-Snapshot ID: `aQVNgAAAAAC0E1uGlRmtf1CzUuUre8Zw`
+Snapshot ID: `aQafAAAAAACPT9nKTB64cxemBFuLtOqa`

@@ -2,7 +2,7 @@
 
 ### [360 Dance](https://open.spotify.com/playlist/37i9dQZF1DWTwCImwcYjDL)
 
-> De beste dance hits\. Cover: Charlotte de Witte
+> De beste dance hits\. Cover: Armin van Buuren & KI/KI
 
 106 songs - 5 hr 15 min
 

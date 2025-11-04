@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-758 songs - 1 day 13 hr 26 min
+759 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Cafe With Gods](https://open.spotify.com/track/392saTzCLJ1EljFjZrOUxy) | [Victor Tellagio](https://open.spotify.com/artist/0Tn4aSU1htOi0pMKKSuVkW) | [Cafe With Gods](https://open.spotify.com/album/2FKP8BYcYE4i9hC8qlyDUg) | 3:54 | 2024-08-01 | 2024-08-09 |
 | [Caigo \(Stumblin' In\)](https://open.spotify.com/track/0BFVoZViKatuNpRthpxIUP) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Essa Gante](https://open.spotify.com/artist/3dYgPy7idZRW4mnP9P05aK) | [Caigo \(Stumblin' In\)](https://open.spotify.com/album/6DZLdaSUl1uuhGTd4WAhe3) | 3:28 | 2024-09-27 | 2024-10-18 |
 | [Calinda \(2024\)](https://open.spotify.com/track/4Mm2qNujMVgcfOEceVnPTN) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn), [Ahoona](https://open.spotify.com/artist/3hqLkaDbLm9obBq5DOwKFF) | [Calinda \(2024\)](https://open.spotify.com/album/6YdgsoXAVcLDH0a52kAAp4) | 2:44 | 2024-08-08 | 2024-08-31 |
+| [can you hear me now](https://open.spotify.com/track/77NrdUmUJxfb2SXEQqE8uo) | [Matteo Cole](https://open.spotify.com/artist/5cocK3MThgfCVs0tOogF1I), [mvxim](https://open.spotify.com/artist/5Wi3TpBFJO2ICEe7AECWL0) | [Can You Hear Me Now](https://open.spotify.com/album/2jc9s7w5iaEiS6xLyfpzZe) | 2:26 | 2025-11-03 |  |
 | [Can't Forget You](https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Can't Forget You](https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC) | 2:36 | 2024-06-20 | 2024-06-29 |
 | [Can't Forget You \(Club Mix\)](https://open.spotify.com/track/5t0poAfhVoI1xR7dbJ1mfW) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Can't Forget You \(Club Mix\)](https://open.spotify.com/album/6XVpMSsyujfOkqXVgsLl61) | 2:27 | 2024-07-19 | 2024-07-27 |
 | [Can't Get You Out Of My Head](https://open.spotify.com/track/7sf4grF0sYW2M2JgV6gqkv) | [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [YRIQUE](https://open.spotify.com/artist/1N4V9ArAgeSK9elm9GLlZM) | [Can't Get You Out Of My Head](https://open.spotify.com/album/0fGeUhl8zRhqt3bIA6gehV) | 2:16 | 2025-09-12 |  |

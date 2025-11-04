@@ -8905,6 +8905,28 @@
     },
     {
       "album": {
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170775,
+      "name": "Gatekeepers (feat. Pa Salieu)",
+      "url": "https://open.spotify.com/track/7hl163jL1Lk22WleccRcQX"
+    },
+    {
+      "album": {
         "name": "GD Woman",
         "url": "https://open.spotify.com/album/03NWc0BPkbCS498UStrDdf"
       },
@@ -13204,7 +13226,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 114191,
       "name": "LMAO",
       "url": "https://open.spotify.com/track/4tL7cu2Ta3r4FZKtSumlMS"

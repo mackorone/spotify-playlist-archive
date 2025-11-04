@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:4Uwx6qzRn0kA9sz6cCDpBO">Tkandz</a>
 
-1,315 songs - 2 day 12 hr 39 min
+1,316 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Garden](https://open.spotify.com/track/0BV2Qn5ZFA70g9bSWmSxvq) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [LONERWRLD, vol 1](https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah) | 2:52 | 2023-09-22 | 2024-02-03 |
 | [Gas Station Love](https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Gas Station Love](https://open.spotify.com/album/6B1jPIaWfQ2UuHXy814c3W) | 4:05 | 2025-09-30 |  |
 | [Gasway Livin \(feat\. ShotOff\)](https://open.spotify.com/track/7jrQ5s1FCXj7Pj2YAoo3Zo) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [ShotOff](https://open.spotify.com/artist/6aaS6LqoDNT6uvZNUwMUPs) | [Gasway Livin \(feat\. ShotOff\)](https://open.spotify.com/album/0g5zC8lYp8e1gpqOoNIxsq) | 2:35 | 2023-12-15 | 2024-01-13 |
+| [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/track/7hl163jL1Lk22WleccRcQX) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Cavy In The City](https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa) | 2:50 | 2025-11-03 |  |
 | [GD Woman](https://open.spotify.com/track/3vVRD5GnlAU5hm4WH9TSpl) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [GD Woman](https://open.spotify.com/album/03NWc0BPkbCS498UStrDdf) | 2:58 | 2023-07-21 | 2023-10-21 |
 | [Geek \(feat\. BloodHound Q50\)](https://open.spotify.com/track/4FAZbGMqZCPkqmUMG3pGn8) | [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Geek \(feat\. BloodHound Q50\)](https://open.spotify.com/album/2AoFldiXyIwpn04BkHvRs3) | 1:52 | 2025-10-17 |  |
 | [Get Back](https://open.spotify.com/track/3lJ0OmRN1dQE4JXucRHDpA) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Who Is Fatt](https://open.spotify.com/album/5ycaQESXqBPAqIvk57xYA7) | 2:35 | 2023-12-15 | 2024-09-21 |
@@ -674,7 +675,7 @@
 | [Lil Bastard \(feat\. Rob49\)](https://open.spotify.com/track/6mn8RvMkKooyaKqJ9V4Ndw) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 3:00 | 2024-08-09 | 2024-08-24 |
 | [Lil Mama Its Okay](https://open.spotify.com/track/0d6yVliwCtOdMhKEXvQuJC) | [Zay Ade](https://open.spotify.com/artist/4WKu9yfMbGP5Pgo78dd8yL), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [Lil Mama Its Okay](https://open.spotify.com/album/5eRyz7Qo3RWjaJlIcr32QN) | 2:42 | 2021-10-15 | 2022-06-08 |
 | [Line Em Up](https://open.spotify.com/track/70tu2PCTHDhLdpU8g2wfkZ) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [Line Em Up](https://open.spotify.com/album/4HaAi5UR4axokuWcWzXk76) | 1:15 | 2024-03-29 | 2024-04-19 |
-| [LMAO](https://open.spotify.com/track/4tL7cu2Ta3r4FZKtSumlMS) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [LMAO](https://open.spotify.com/album/7JsNiyPwf5SpOxKrTYVHI6) | 1:54 | 2025-10-17 |  |
+| [LMAO](https://open.spotify.com/track/4tL7cu2Ta3r4FZKtSumlMS) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [LMAO](https://open.spotify.com/album/7JsNiyPwf5SpOxKrTYVHI6) | 1:54 | 2025-10-17 | 2025-11-04 |
 | [lo$t kid.](https://open.spotify.com/track/6vQK5arrwdS2rrpNJWJ3EI) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [$hook](https://open.spotify.com/album/40a2ZAxxlBBxwP6wCNrAfM) | 2:28 | 2022-06-07 | 2022-10-01 |
 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-05-30 | 2025-07-05 |
 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 | 2023-08-18 | 2023-09-09 |

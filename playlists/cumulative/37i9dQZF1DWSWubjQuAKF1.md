@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Gaba Kościug
 
-627 songs - 1 day 6 hr 40 min
+628 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Baw Się Dobrze](https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Baw Się Dobrze](https://open.spotify.com/album/4wZfYMcwpIWEBAYUC3EDsc) | 2:23 | 2025-07-17 |  |
 | [Bejbe!](https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Bejbe!](https://open.spotify.com/album/0adt1bbqThqFji1PwChQME) | 1:55 | 2025-01-09 | 2025-01-24 |
 | [Beksa](https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Beksa](https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd) | 2:50 | 2025-02-27 | 2025-03-14 |
-| [Berek](https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Berek](https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX) | 3:36 | 2025-08-26 |  |
+| [Berek](https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Berek](https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX) | 3:36 | 2025-08-26 | 2025-11-04 |
 | [Berlin](https://open.spotify.com/track/5mLaWguaVU2VrtVsqd2hQi) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [spędzam dni sam](https://open.spotify.com/album/25JZmZuK6jEsRG5df0Zgsd) | 2:28 | 2024-06-28 | 2024-07-19 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2024-10-12 |
 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 | 2025-01-23 | 2025-05-16 |
@@ -501,6 +501,7 @@
 | [Stranger](https://open.spotify.com/track/6qcNQVplYV2f3Ra6PniM5t) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Stranger](https://open.spotify.com/album/71GP0asXIktlgEL8t3qcyk) | 2:14 | 2025-07-10 | 2025-09-24 |
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
+| [szał uniesień](https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [szał uniesień](https://open.spotify.com/album/1qJ9UbacO954tQdktoddmd) | 3:12 | 2025-10-21 |  |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |
 | [szczerze, mega mocne](https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [szczerze, mega mocne](https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu) | 2:33 | 2025-10-21 |  |
 | [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 | 2025-06-23 |

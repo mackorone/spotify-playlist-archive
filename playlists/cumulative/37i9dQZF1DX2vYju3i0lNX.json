@@ -2055,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Ask for More",
+        "url": "https://open.spotify.com/album/4RuLAwmPJcZUCGkuRd5r5a"
+      },
+      "artists": [
+        {
+          "name": "Tommie Blayne",
+          "url": "https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203756,
+      "name": "Ask for More",
+      "url": "https://open.spotify.com/track/0Hx2fvSuf3OxAadpYV92NH"
+    },
+    {
+      "album": {
         "name": "Asking You Out",
         "url": "https://open.spotify.com/album/034e3pSqJygDVB8tMsXck0"
       },
@@ -7810,7 +7828,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 178250,
       "name": "Home town",
       "url": "https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr"
@@ -9776,6 +9794,24 @@
       "duration_ms": 180640,
       "name": "Isfahan",
       "url": "https://open.spotify.com/track/2k5aiRwCt4Eat9U54Lz8up"
+    },
+    {
+      "album": {
+        "name": "Isla\u2019s Lament",
+        "url": "https://open.spotify.com/album/5Frr1hMo5gIqn9qD8Vsfpt"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206837,
+      "name": "Isla\u2019s Lament",
+      "url": "https://open.spotify.com/track/7zUhvOYfWM52VkeBP0zDZW"
     },
     {
       "album": {
@@ -18542,7 +18578,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 281173,
       "name": "That's Us Later",
       "url": "https://open.spotify.com/track/1Nf6ZFoTvXx0ULypwRRpQA"

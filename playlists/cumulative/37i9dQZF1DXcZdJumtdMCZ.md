@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Shiv Paul
 
-244 songs - 13 hr 22 min
+245 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Nenjinile Rebirth](https://open.spotify.com/track/0pM7PCxuclmb1qsjTqt6WX) | [Chris G.](https://open.spotify.com/artist/0UuXsNfPKHnsxqO6ReEUS3), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Nenjinile Rebirth](https://open.spotify.com/album/5ofUC9Rbhk7rknQbDp4GIG) | 3:35 | 2022-02-08 | 2025-01-10 |
 | [Never Give Up](https://open.spotify.com/track/6b5UY3VnSSk6J0YJwXX9QP) | [Emcee D](https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8) | [Never Give Up](https://open.spotify.com/album/6dLC0hWQXl6wxKn9pe2ocu) | 2:57 | 2024-12-29 | 2025-03-01 |
 | [New New](https://open.spotify.com/track/66CpgrXpLtDP1wbjeORSiR) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA) | [New \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lSHxgW0lRa31h5tQINBik) | 4:32 | 2022-02-08 | 2025-02-18 |
+| [NK](https://open.spotify.com/track/2pYul2HnwAZLgjRD0rmtJS) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Rx](https://open.spotify.com/artist/7GW6TXNoQdvoFcN9FzfpfS) | [NK](https://open.spotify.com/album/4scyHm1YEzMKZZuMMaswdG) | 2:20 | 2025-11-03 |  |
 | [NUMBER ONE](https://open.spotify.com/track/6iWQenGWiDF0QVoNRkZ6rK) | [MC Sanna](https://open.spotify.com/artist/79U8u5jWzt6NFUlwgMMGT0) | [NUMBER ONE](https://open.spotify.com/album/42ddGW74E6sm0QVjUyxOs0) | 3:35 | 2025-05-09 | 2025-07-29 |
 | [NYC](https://open.spotify.com/track/4mkseRCd0iBbFMT4e11ket) | [STONE'S RECORDS](https://open.spotify.com/artist/7CUHO1vHvh8U6RS5viTmMw), [Mc Stone](https://open.spotify.com/artist/5XBy2AsWKYhZB0eLEqpkKF), [S.Sukumaran](https://open.spotify.com/artist/6JY7CKybGEuGIUjH8IIiIK) | [NYC](https://open.spotify.com/album/105lG85eCaaAFnNwCdq6e4) | 3:27 | 2025-10-10 |  |
 | [O Maara](https://open.spotify.com/track/2YazEOAU8Gfle6C89QF1wL) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Thug Life \(Tamil\)](https://open.spotify.com/album/1q6GzjsUS9kyQmEDH7D1Ak) | 3:00 | 2025-06-26 |  |

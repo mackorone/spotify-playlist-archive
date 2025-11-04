@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83c\udf79",
-  "num_followers": 253543,
+  "num_followers": 253519,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
+      },
+      "artists": [
+        {
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+        }
+      ],
+      "duration_ms": 150374,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 192000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
-      },
-      "artists": [
-        {
-          "name": "Lazare",
-          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
-        }
-      ],
-      "duration_ms": 150374,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Ask Me / Mesmerize",
         "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 193795,
       "name": "Ask Me",
       "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Move On Up (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 149047,
-      "name": "Move On Up (Mark Knight Remix)",
-      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1775,22 +1775,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Soundboy",
-        "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
       },
       "artists": [
         {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         }
       ],
-      "duration_ms": 186173,
-      "name": "WestBorn",
-      "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1815,18 +1811,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+        "name": "Soundboy",
+        "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+      "duration_ms": 186173,
+      "name": "WestBorn",
+      "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
     },
     {
       "added_at": "2025-10-16 22:01:23",

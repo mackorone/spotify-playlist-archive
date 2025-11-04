@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 92480,
+  "num_followers": 92496,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Deep in the Trouble",
-        "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 325254,
-      "name": "Pile of Bones",
-      "url": "https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Dig A Hole",
         "url": "https://open.spotify.com/album/6Qj4bkL3XK29fR6qcT7Kyb"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 252840,
       "name": "Dig A Hole",
       "url": "https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Deep in the Trouble",
+        "url": "https://open.spotify.com/album/5Uki8ZPYpS7wDAKdUks7Me"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 325254,
+      "name": "Pile of Bones",
+      "url": "https://open.spotify.com/track/0P7DARpTXXH01LhUArEYQK"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
-      },
-      "artists": [
-        {
-          "name": "Danny Worsnop",
-          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Highway Will",
         "url": "https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 193671,
       "name": "Highway Will",
       "url": "https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
+      },
+      "artists": [
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "duration_ms": 186764,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Stare At The Sun",
-        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
-      },
-      "artists": [
-        {
-          "name": "Duane Betts",
-          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        }
-      ],
-      "duration_ms": 272493,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
         "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 220480,
       "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
       "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Stare At The Sun",
+        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
+      },
+      "artists": [
+        {
+          "name": "Duane Betts",
+          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "duration_ms": 272493,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
     },
     {
       "added_at": "2025-04-21 21:56:35",

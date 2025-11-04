@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 446918,
+  "num_followers": 446949,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
+        "name": "I Was Made",
+        "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Le Pedre",
+          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
+        }
+      ],
+      "duration_ms": 155399,
+      "name": "I Was Made",
+      "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
         "name": "Euphoria (with Alok)",
         "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 151818,
       "name": "Euphoria (with Alok)",
       "url": "https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
-        "name": "I Was Made",
-        "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Le Pedre",
-          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
-        }
-      ],
-      "duration_ms": 155399,
-      "name": "I Was Made",
-      "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
+        "name": "Mr. Saxobeat",
+        "url": "https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 151181,
+      "name": "Mr. Saxobeat",
+      "url": "https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
         "name": "Thank You [Not So Bad]",
         "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 197963,
       "name": "Thank You [Not So Bad]",
       "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
-        "name": "Mr. Saxobeat",
-        "url": "https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 151181,
-      "name": "Mr. Saxobeat",
-      "url": "https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK"
     }
   ],
   "unique_name": "EDM Samplings",

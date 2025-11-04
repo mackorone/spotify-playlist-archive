@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/7uLIghq9RLxslNEKNNlpOh"
+      },
+      "artists": [
+        {
+          "name": "Max Allais",
+          "url": "https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199651,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/4DCyrNG1ES4OgSTVKqV1ry"
+    },
+    {
+      "album": {
         "name": "Fire On Fire (From \"Watership Down\")",
         "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Kaushik Mahalengam",
-  "num_followers": 16286,
+  "num_followers": 16295,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE4lL4WHEZpgHIqBAYAy+r2qcIDE",
+  "snapshot_id": "AAAAALUP7VYEVxFuLVgMcUoSn5WbM2kL",
   "tracks": [
     {
       "added_at": "2025-09-01 08:11:59",
@@ -23,6 +23,34 @@
       "duration_ms": 221855,
       "name": "Paravaye",
       "url": "https://open.spotify.com/track/5ZL592j6IRUW6di57xQEb5"
+    },
+    {
+      "added_at": "2025-11-03 14:41:20",
+      "album": {
+        "name": "Idhayame",
+        "url": "https://open.spotify.com/album/5YMnIgS9qvhO3bg2Nc1sbr"
+      },
+      "artists": [
+        {
+          "name": "Sibu Sukumaran",
+          "url": "https://open.spotify.com/artist/3keNxNmATzwZrIbAl2eyei"
+        },
+        {
+          "name": "Rashmi Panikar",
+          "url": "https://open.spotify.com/artist/7tppwV5vf6KHwF26qIqF0D"
+        },
+        {
+          "name": "Nikhil Anil Kumar",
+          "url": "https://open.spotify.com/artist/1cLx5oaXhvIcSNfJCkGtwv"
+        },
+        {
+          "name": "Abi Abbaz",
+          "url": "https://open.spotify.com/artist/1hIe3kTpc6Bu3ov9n9H7Nq"
+        }
+      ],
+      "duration_ms": 251938,
+      "name": "Idhayame - From \"SS Stories.LE\"",
+      "url": "https://open.spotify.com/track/4BNozZyxWkqZFwp90j6oJe"
     },
     {
       "added_at": "2025-10-23 09:20:12",
@@ -165,30 +193,6 @@
       "url": "https://open.spotify.com/track/2nPxyiK6th607iCsAUyWJc"
     },
     {
-      "added_at": "2025-08-06 12:51:42",
-      "album": {
-        "name": "Oru Murai Nokkinal",
-        "url": "https://open.spotify.com/album/3N8GHJTEk7RVZI0fRoDrs6"
-      },
-      "artists": [
-        {
-          "name": "Vinesh dharan",
-          "url": "https://open.spotify.com/artist/3HhORWLWExRuQ9ucBVIO11"
-        },
-        {
-          "name": "Christy George",
-          "url": "https://open.spotify.com/artist/1YBMgy2O1RtGlVZN1Bx81W"
-        },
-        {
-          "name": "K Anandharaj",
-          "url": "https://open.spotify.com/artist/3gHA9kFFrYKUrmoRhu6spK"
-        }
-      ],
-      "duration_ms": 272766,
-      "name": "Oru Murai Nokkinal",
-      "url": "https://open.spotify.com/track/5ehjc7hFuqi73E9GmQEz1U"
-    },
-    {
       "added_at": "2025-10-23 09:30:38",
       "album": {
         "name": "En Uyire",
@@ -225,6 +229,22 @@
       "url": "https://open.spotify.com/track/7oMIjQELawYa32GK3NE4tS"
     },
     {
+      "added_at": "2025-11-03 08:15:31",
+      "album": {
+        "name": "Shinin",
+        "url": "https://open.spotify.com/album/52Ia4eVMgfWbwPjEmzL7sC"
+      },
+      "artists": [
+        {
+          "name": "Kshia",
+          "url": "https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Shinin",
+      "url": "https://open.spotify.com/track/2n7mpOcCEaiDqrO2oI37iY"
+    },
+    {
       "added_at": "2025-10-10 04:55:51",
       "album": {
         "name": "Vaa Ra Vaa Ra",
@@ -243,6 +263,42 @@
       "duration_ms": 82519,
       "name": "Vaa Ra Vaa Ra",
       "url": "https://open.spotify.com/track/2NnUzXoTvXRxcOxjTG8uoj"
+    },
+    {
+      "added_at": "2025-11-03 08:28:09",
+      "album": {
+        "name": "Undhan Mugam Kaana",
+        "url": "https://open.spotify.com/album/73wEq0nKzBdM8EIQxYw5IK"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        },
+        {
+          "name": "Kumudhavalli",
+          "url": "https://open.spotify.com/artist/1cLCzBWRM5xAK7BGrrZIF4"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Undhan Mugam Kaana",
+      "url": "https://open.spotify.com/track/1quyCIz5SauoZn6PV16YxN"
+    },
+    {
+      "added_at": "2025-11-03 06:27:41",
+      "album": {
+        "name": "ATMA",
+        "url": "https://open.spotify.com/album/5fgQTko22Vt1yXZ84yW6Sf"
+      },
+      "artists": [
+        {
+          "name": "PAX DHARMA",
+          "url": "https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ"
+        }
+      ],
+      "duration_ms": 185711,
+      "name": "ATMA",
+      "url": "https://open.spotify.com/track/3TLUrerWmrfDo6CnxKwS4u"
     },
     {
       "added_at": "2025-10-23 09:30:38",
@@ -375,26 +431,6 @@
       "duration_ms": 219025,
       "name": "Dinner Kuthu",
       "url": "https://open.spotify.com/track/49S1Y0cmxDUQsIxYauAqfT"
-    },
-    {
-      "added_at": "2025-10-23 03:29:45",
-      "album": {
-        "name": "Goal Pode",
-        "url": "https://open.spotify.com/album/5pZBYa5he8LoMWulYfHBWK"
-      },
-      "artists": [
-        {
-          "name": "Siva Sree",
-          "url": "https://open.spotify.com/artist/02kLdqBO8lHj9ByrekeCNh"
-        },
-        {
-          "name": "Shane Xtreme",
-          "url": "https://open.spotify.com/artist/1cgPSWNgiksVzIJhOpjCTB"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Goal Pode",
-      "url": "https://open.spotify.com/track/4kjnqRNmF9v0jQOYMApQDL"
     },
     {
       "added_at": "2025-10-10 04:26:10",
@@ -1509,26 +1545,6 @@
       "url": "https://open.spotify.com/track/2SAehaZgtMkygse1UGrZWs"
     },
     {
-      "added_at": "2025-05-28 07:17:30",
-      "album": {
-        "name": "Ponaaley Ponaaley",
-        "url": "https://open.spotify.com/album/2ouY1AR0mLPX3CVorOxlK6"
-      },
-      "artists": [
-        {
-          "name": "Keerthan",
-          "url": "https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        }
-      ],
-      "duration_ms": 172909,
-      "name": "Ponaaley Ponaaley",
-      "url": "https://open.spotify.com/track/771AZiVpboCrvenD5FasjV"
-    },
-    {
       "added_at": "2025-06-25 09:04:32",
       "album": {
         "name": "Yaarivalo",
@@ -1599,22 +1615,6 @@
       "duration_ms": 224444,
       "name": "Nizhal Koondhal",
       "url": "https://open.spotify.com/track/6p0P1iuqSXIP9zkSHNcOjS"
-    },
-    {
-      "added_at": "2025-06-21 06:22:00",
-      "album": {
-        "name": "Vsr Melodies",
-        "url": "https://open.spotify.com/album/5r3RJ3fSnwYqWTHl221qVs"
-      },
-      "artists": [
-        {
-          "name": "Sriram Varatharajan",
-          "url": "https://open.spotify.com/artist/4p19JsuYWzBv7ZBDrzrhoX"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Alaipesiyil Vanthavala",
-      "url": "https://open.spotify.com/track/0tqwmfaaSjn4EyGpIC68F0"
     },
     {
       "added_at": "2025-06-18 09:09:29",

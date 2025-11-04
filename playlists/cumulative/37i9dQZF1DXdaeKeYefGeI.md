@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-231 songs - 14 hr 4 min
+232 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Lente Me](https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1993](https://open.spotify.com/album/0WK6NTWtpvHLBovgYFbdsS) | 4:54 | 2023-02-10 | 2025-04-12 |
 | [Lichaam Zoekt Geest \- Akoestische Versie](https://open.spotify.com/track/7cCG3NolytD74kEmwjs4yX) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Lichaam Zoekt Geest \(Akoestische Versie\)](https://open.spotify.com/album/7dsC15kwaV7sRdi4zqxVYR) | 3:00 | 2025-04-11 | 2025-09-05 |
 | [Lied Van De Zevende Dag](https://open.spotify.com/track/6e50pXxK6eUgcH5wc3Z06W) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Lied Van De Zevende Dag](https://open.spotify.com/album/0qZ53110VSvZHsHSYtk0vn) | 2:59 | 2023-04-20 | 2024-02-09 |
-| [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 | 2024-03-22 |  |
+| [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 | 2024-03-22 | 2025-11-04 |
 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 | 2024-03-14 |  |
 | [Lijn](https://open.spotify.com/track/0HOrDesxpndcI38kujDxei) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lijn](https://open.spotify.com/album/23nU1k5lNa9KG0Ifgzvnzf) | 2:38 | 2025-02-20 |  |
 | [Lindeboom](https://open.spotify.com/track/3XEMH6bcN5yI3ALWRwyfcq) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ramen Als Ogen](https://open.spotify.com/album/3aMPLrQQ4vk5VaQie7Pjmj) | 4:09 | 2024-05-31 |  |
@@ -168,6 +168,7 @@
 | [Oceaan](https://open.spotify.com/track/14rrJ4fhTTcFPgmCCtBoku) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Oceaan](https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac) | 2:42 | 2023-12-05 | 2024-03-30 |
 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 | 2023-02-10 |  |
 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 | 2023-02-10 | 2025-02-21 |
+| [Onderaan De Dijk](https://open.spotify.com/track/0fpPlJwTctbUBo94f1mJ8F) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Herman van Veen Plus](https://open.spotify.com/album/1wqI5QPzyIUJkE9Yzmi9Fs) | 2:49 | 2025-11-03 |  |
 | [Onderwater](https://open.spotify.com/track/208q1Mqq8Y9Sbn5o88qaBC) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Onderwater](https://open.spotify.com/album/5tTBQdqzBW0s3uA4pWzf55) | 3:01 | 2023-11-09 | 2025-05-23 |
 | [Ongeveer](https://open.spotify.com/track/197PHOBtgwBTSky9oye0u9) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Het Is](https://open.spotify.com/album/1Yc0HbRlIZwaOY9jGpxMY5) | 4:41 | 2023-02-10 | 2023-11-11 |
 | [Ons huis](https://open.spotify.com/track/60gmU9gSmU41iszHNh4GZO) | [Tess Merlot](https://open.spotify.com/artist/4o289mGagoNKNbEJhQuoGP) | [Ons huis](https://open.spotify.com/album/3HRExOCSuLAwYNs7g7gfnT) | 4:17 | 2023-02-10 | 2024-10-11 |

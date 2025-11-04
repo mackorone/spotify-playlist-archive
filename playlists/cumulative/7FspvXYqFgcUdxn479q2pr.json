@@ -2241,6 +2241,28 @@
     },
     {
       "album": {
+        "name": "Can You Hear Me Now",
+        "url": "https://open.spotify.com/album/2jc9s7w5iaEiS6xLyfpzZe"
+      },
+      "artists": [
+        {
+          "name": "Matteo Cole",
+          "url": "https://open.spotify.com/artist/5cocK3MThgfCVs0tOogF1I"
+        },
+        {
+          "name": "mvxim",
+          "url": "https://open.spotify.com/artist/5Wi3TpBFJO2ICEe7AECWL0"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146722,
+      "name": "can you hear me now",
+      "url": "https://open.spotify.com/track/77NrdUmUJxfb2SXEQqE8uo"
+    },
+    {
+      "album": {
         "name": "Can't Forget You",
         "url": "https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC"
       },

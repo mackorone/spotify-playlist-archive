@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,156 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,180 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 24 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
 | 25 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
 | 26 | [Lijn](https://open.spotify.com/track/0HOrDesxpndcI38kujDxei) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lijn](https://open.spotify.com/album/23nU1k5lNa9KG0Ifgzvnzf) | 2:38 |
-| 27 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 |
-| 28 | [Waaier Van Kleur](https://open.spotify.com/track/0QIVqyFwSXMwBXUm0Cl09R) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Waaier Van Kleur](https://open.spotify.com/album/4U6cvJODgTKW316XHSdMpW) | 3:31 |
-| 29 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
-| 30 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
+| 27 | [Onderaan De Dijk](https://open.spotify.com/track/0fpPlJwTctbUBo94f1mJ8F) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Herman van Veen Plus](https://open.spotify.com/album/1wqI5QPzyIUJkE9Yzmi9Fs) | 2:49 |
+| 28 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 |
+| 29 | [Waaier Van Kleur](https://open.spotify.com/track/0QIVqyFwSXMwBXUm0Cl09R) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Waaier Van Kleur](https://open.spotify.com/album/4U6cvJODgTKW316XHSdMpW) | 3:31 |
+| 30 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 |
 | 31 | [Kom Hier](https://open.spotify.com/track/6NFDCjTgNVlhVCeNGTAuYh) | [Manuëla Kemp](https://open.spotify.com/artist/0zpaARjlrBqGeMtzn2Y6XI) | [Slapeloze nachten](https://open.spotify.com/album/2OaBag8Hc7E3UnerZNY7xD) | 4:07 |
 | 32 | [Het Geluid Van Stilte](https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:59 |
 | 33 | [Vleugels](https://open.spotify.com/track/76PrxZSe0reQXibUtdyotI) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Dag en Nacht](https://open.spotify.com/album/7ubp1a9BSWo40XNZv2GJyz) | 3:13 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 64 | [Laat Me / Vivre \- Lange versie](https://open.spotify.com/track/1IpdAKuSYrQKTXs0KpypFb) | [Gerard Alderliefste](https://open.spotify.com/artist/718CHttAO54nPQXP00EzmD), [Alderliefste](https://open.spotify.com/artist/5J8ns43YpsiTRsG45N1cDi) | [Laat Me / Vivre](https://open.spotify.com/album/0d4Dr3RCYyHXFgWz0PFD1M) | 6:25 |
 | 65 | [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 |
 
-Snapshot ID: `AAAAAGRF1N9ibBoISLRW/tp7VBkBuxSl`
+Snapshot ID: `AAAAAF/ZAzWLleNyKDeu6ar2YRJG0juZ`

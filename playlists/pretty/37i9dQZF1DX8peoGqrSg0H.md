@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: ALALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,358 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,380 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
 | 3 | [หยุดที่ U](https://open.spotify.com/track/3Iu7WBpjjFrAocTQfF1pnk) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [หยุดที่ U](https://open.spotify.com/album/0LB1tm3rSFcXarzXlSfgKp) | 3:24 |
 | 4 | [Heartquake](https://open.spotify.com/track/3AHKsP3e8iMqm92VP2NzHw) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Heartquake](https://open.spotify.com/album/2hFZ2m73QwTpdVrirkt1Vx) | 3:00 |
-| 5 | [ไม่อยากรัก \(Shiftless\)](https://open.spotify.com/track/7oV3IrZt97BbdGqC24o5qv) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ไม่อยากรัก \(Shiftless\)](https://open.spotify.com/album/3EF2N3cmKYmmqUNtmFCdRW) | 3:49 |
+| 5 | [ไม่อยากรัก \(Shiftless\)](https://open.spotify.com/track/7oV3IrZt97BbdGqC24o5qv) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ไม่อยากรัก \(Shiftless\)](https://open.spotify.com/album/3EF2N3cmKYmmqUNtmFCdRW) | 3:52 |
 | 6 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 | 7 | [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 |
 | 8 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |

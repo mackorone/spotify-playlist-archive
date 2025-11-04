@@ -324,7 +324,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 209224,
       "name": "ahista",
       "url": "https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 150000,
       "name": "Bairagi",
       "url": "https://open.spotify.com/track/0V5oH9auubxDafdSA4zRXd"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 236304,
       "name": "Bas Tera",
       "url": "https://open.spotify.com/track/4Z7A6HSaZQIuZzJTtmuLpg"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 343899,
       "name": "Brahmakalasha (From \"Kantara A Legend Chapter 1 - Hindi\")",
       "url": "https://open.spotify.com/track/4ZWt2TEXKAYJB5XtsWi7As"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 233870,
       "name": "Chanda Re",
       "url": "https://open.spotify.com/track/00pfMUrlqOH1Pm2jF3qkZT"
@@ -1584,6 +1584,32 @@
       "duration_ms": 206037,
       "name": "Complete",
       "url": "https://open.spotify.com/track/4ycAwkxQAjFABXmvMHg0l4"
+    },
+    {
+      "album": {
+        "name": "Dada Kishan Ki Jai (From \"120 Bahadur\")",
+        "url": "https://open.spotify.com/album/2EkQmhccIoQKtT5AlcJLff"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241086,
+      "name": "Dada Kishan Ki Jai - From \"120 Bahadur\"",
+      "url": "https://open.spotify.com/track/1D7LfRvX3fsMzpngunZCuE"
     },
     {
       "album": {
@@ -2115,6 +2141,28 @@
     },
     {
       "album": {
+        "name": "Dil Tod Gaya Tu (From \"Haq\")",
+        "url": "https://open.spotify.com/album/511d3Wmv6O3kQY9VMPCJqw"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Kaushal Kishore",
+          "url": "https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241928,
+      "name": "Dil Tod Gaya Tu (From \"Haq\")",
+      "url": "https://open.spotify.com/track/4uStfhhxVPW5V33MYalxpX"
+    },
+    {
+      "album": {
         "name": "Dilbar Ki Aankhon Ka (From \"Thamma\") [Feat. Nora Fatehi]",
         "url": "https://open.spotify.com/album/6iJ7sOLA4jqh2uPYAvKzuq"
       },
@@ -2412,7 +2460,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 200606,
       "name": "Fakira Da",
       "url": "https://open.spotify.com/track/2hmP26u9S5jdyDGQPxNpeW"
@@ -2884,10 +2932,32 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 243884,
       "name": "Haule Haule",
       "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
+    },
+    {
+      "album": {
+        "name": "Hawa Hawa",
+        "url": "https://open.spotify.com/album/4PC6zTXbQ5Yhapkwvfpnyv"
+      },
+      "artists": [
+        {
+          "name": "Shujaat Khan",
+          "url": "https://open.spotify.com/artist/4SY41gazmsCCMk9OYB9ep0"
+        },
+        {
+          "name": "Asad Khan",
+          "url": "https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341935,
+      "name": "Hawa Hawa",
+      "url": "https://open.spotify.com/track/7dfHnU6hqc40BQcNF6uOtr"
     },
     {
       "album": {
@@ -3815,6 +3885,28 @@
     },
     {
       "album": {
+        "name": "Jhoom Sharaabi (From \"De De Pyaar De 2\")",
+        "url": "https://open.spotify.com/album/746v4e1nhmFJP7GqSjsjHY"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Athar Hayat",
+          "url": "https://open.spotify.com/artist/5FOKSGBwQ4fb94HhIWLJUB"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254214,
+      "name": "Jhoom Sharaabi (From \"De De Pyaar De 2\")",
+      "url": "https://open.spotify.com/track/0jP7XLpEweluxyRWpEqAY6"
+    },
+    {
+      "album": {
         "name": "Jiya",
         "url": "https://open.spotify.com/album/5jbylBl96YBPRaW22QJf1F"
       },
@@ -4186,7 +4278,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 176969,
       "name": "Karigar",
       "url": "https://open.spotify.com/track/5AUYlghrRZHKxJ9ni5VIUx"
@@ -4212,6 +4304,24 @@
       "duration_ms": 175221,
       "name": "Khafah Toh Nahi",
       "url": "https://open.spotify.com/track/6mNnCe2FbZcAP8QfiudV5i"
+    },
+    {
+      "album": {
+        "name": "I-Popstar: Vol. 1 | Episodes 4&5",
+        "url": "https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO"
+      },
+      "artists": [
+        {
+          "name": "Inderjeet Singh",
+          "url": "https://open.spotify.com/artist/1oGaz4k3dCQmX9lAqiBUaM"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246964,
+      "name": "Khayaal Na Aaya - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/14K3tTCjpT6DAsxwvgDdC5"
     },
     {
       "album": {
@@ -4429,6 +4539,28 @@
     },
     {
       "album": {
+        "name": "Kyun Mujhse Door Tha",
+        "url": "https://open.spotify.com/album/43danYlLX7SAOpn9ZfIaZ4"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Kyun Mujhse Door Tha",
+      "url": "https://open.spotify.com/track/0g5ajF67afRJPw502dUEUM"
+    },
+    {
+      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/2Q3FYaYV9ECw8MXUiM3YG7"
       },
@@ -4613,6 +4745,32 @@
     },
     {
       "album": {
+        "name": "maikhana",
+        "url": "https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E"
+      },
+      "artists": [
+        {
+          "name": "Vasu Raina",
+          "url": "https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL"
+        },
+        {
+          "name": "Nanku",
+          "url": "https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p"
+        },
+        {
+          "name": "Lambo Drive",
+          "url": "https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "maikhana",
+      "url": "https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt"
+    },
+    {
+      "album": {
         "name": "Majboori",
         "url": "https://open.spotify.com/album/1HdEOKu6vNhtagRuEOHwUX"
       },
@@ -4688,7 +4846,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 173201,
       "name": "Makhna",
       "url": "https://open.spotify.com/track/2coEZ83TYfg33gBJivtaRS"
@@ -4954,6 +5112,28 @@
       "duration_ms": 226909,
       "name": "Meharma",
       "url": "https://open.spotify.com/track/4uqK2Upl4bSv5LKRMqfvAb"
+    },
+    {
+      "album": {
+        "name": "Meherbaan",
+        "url": "https://open.spotify.com/album/1plsXgtt2wY13GD69AytEr"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196302,
+      "name": "Meherbaan",
+      "url": "https://open.spotify.com/track/3DYviAWP9OutVnSq6rjyR0"
     },
     {
       "album": {
@@ -5612,7 +5792,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 240960,
       "name": "Panwadi (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/6aMoxZbGxqRkyNKAlkzIpP"
@@ -6256,7 +6436,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 238857,
       "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Hindi\")",
       "url": "https://open.spotify.com/track/0gC8FmyakSWHe8gKCZ3uPZ"
@@ -6531,6 +6711,24 @@
     },
     {
       "album": {
+        "name": "I-Popstar: Vol. 1 | Episodes 4&5",
+        "url": "https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO"
+      },
+      "artists": [
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Sadiyan - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/2CoWmo3eVb0QCyikAvWmc0"
+    },
+    {
+      "album": {
         "name": "Saiyaara (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk"
       },
@@ -6749,6 +6947,36 @@
     },
     {
       "album": {
+        "name": "Shehar Tere (From \"Gustaakh Ishq\")",
+        "url": "https://open.spotify.com/album/04rFPAUQCPWhUo3f3eNUvw"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        },
+        {
+          "name": "Himani Kapoor",
+          "url": "https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333617,
+      "name": "Shehar Tere - From \"Gustaakh Ishq\"",
+      "url": "https://open.spotify.com/track/6JPnowhh8lzIOWQtQxkIJp"
+    },
+    {
+      "album": {
         "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
         "url": "https://open.spotify.com/album/2Ppu21ldsYeyoED3fBtnOa"
       },
@@ -6860,7 +7088,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 182400,
       "name": "Sitaara",
       "url": "https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj"
@@ -7228,7 +7456,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 173258,
       "name": "Tenu Ki Pata (From \"The Ba***ds Of Bollywood\")",
       "url": "https://open.spotify.com/track/4CmC0E2G1arkpmK47O5Ew7"
@@ -8097,6 +8325,36 @@
     },
     {
       "album": {
+        "name": "Usey Kehna (From \"Tere Ishk Mein\")",
+        "url": "https://open.spotify.com/album/5hlCtpb7FS82N1ssG1Ad2h"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Nitesh Aher",
+          "url": "https://open.spotify.com/artist/2lf5Ta8hBg1ZbaqW1aJKM2"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298474,
+      "name": "Usey Kehna (From \"Tere Ishk Mein\")",
+      "url": "https://open.spotify.com/track/7KvmhfB69XIb4ojiUhRjir"
+    },
+    {
+      "album": {
         "name": "Ve Mahiya (From \"Sarzameen\")",
         "url": "https://open.spotify.com/album/0QRhpVS3sSFCXlYLC3KjAM"
       },
@@ -8146,6 +8404,28 @@
       "duration_ms": 208945,
       "name": "Waade",
       "url": "https://open.spotify.com/track/67OAbfn2fUMsVWQX8sWbUC"
+    },
+    {
+      "album": {
+        "name": "Wallah Wallah",
+        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142830,
+      "name": "Wallah Wallah",
+      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
     },
     {
       "album": {

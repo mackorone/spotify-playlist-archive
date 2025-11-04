@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 401405,
+  "num_followers": 401373,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
         "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 202160,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Moondance - 2013 Remaster",
-      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 223760,
       "name": "I've Got You Under My Skin - Remastered 1998",
       "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Moondance - 2013 Remaster",
+      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Currency Of Man",
-        "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 305265,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Currency Of Man",
+        "url": "https://open.spotify.com/album/2iKiVmx8ohPDn1hJmxC9tD"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 305265,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/7aoJg1wQEqMx1t875H5fww"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Solomon Burke's Greatest Hits",
-        "url": "https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Entre Dos Aguas",
         "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 362093,
       "name": "Entre Dos Aguas",
       "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Solomon Burke's Greatest Hits",
+        "url": "https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1387,6 +1387,34 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
+        "name": "Hang on Little Tomato",
+        "url": "https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        },
+        {
+          "name": "China Forbes",
+          "url": "https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A"
+        },
+        {
+          "name": "Thomas M. Lauderdale",
+          "url": "https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O"
+        },
+        {
+          "name": "Patrick Abbey",
+          "url": "https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Hang on Little Tomato",
+      "url": "https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
         "name": "Sunset In The Blue",
         "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
       },
@@ -1419,34 +1447,6 @@
       "duration_ms": 188605,
       "name": "Get Lucky - Acoustic",
       "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
-        "name": "Hang on Little Tomato",
-        "url": "https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        },
-        {
-          "name": "China Forbes",
-          "url": "https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A"
-        },
-        {
-          "name": "Thomas M. Lauderdale",
-          "url": "https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O"
-        },
-        {
-          "name": "Patrick Abbey",
-          "url": "https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Hang on Little Tomato",
-      "url": "https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd"
     },
     {
       "added_at": "2025-07-02 08:57:18",

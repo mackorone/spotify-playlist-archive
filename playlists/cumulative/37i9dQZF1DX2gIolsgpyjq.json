@@ -6231,6 +6231,28 @@
     },
     {
       "album": {
+        "name": "Gazette",
+        "url": "https://open.spotify.com/album/2xFrT3KiZm9iW14EY3Gs7n"
+      },
+      "artists": [
+        {
+          "name": "Agnes Skure",
+          "url": "https://open.spotify.com/artist/3mSaNio38zjJkLyozP2hc0"
+        },
+        {
+          "name": "demekech",
+          "url": "https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232880,
+      "name": "Elin",
+      "url": "https://open.spotify.com/track/0zhXmPOonnfX7P1gNosPiM"
+    },
+    {
+      "album": {
         "name": "Elixir",
         "url": "https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X"
       },

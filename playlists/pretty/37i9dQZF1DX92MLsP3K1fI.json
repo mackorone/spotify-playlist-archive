@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! M\u00e9ne en portada.",
-  "num_followers": 93607,
+  "num_followers": 93608,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "vienes o vas?",
-        "url": "https://open.spotify.com/album/43485os867PpeGvfNwp5bB"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "vienes o vas?",
-      "url": "https://open.spotify.com/track/2zDJ3vv52l9dKjAM7BUnLN"
-    },
-    {
-      "added_at": "2025-10-24 07:24:35",
-      "album": {
         "name": "Te Juro No Te Miento",
         "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "added_at": "2025-10-24 07:24:35",
+      "album": {
+        "name": "vienes o vas?",
+        "url": "https://open.spotify.com/album/43485os867PpeGvfNwp5bB"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "vienes o vas?",
+      "url": "https://open.spotify.com/track/2zDJ3vv52l9dKjAM7BUnLN"
     },
     {
       "added_at": "2025-10-24 07:24:35",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-10-24 07:24:35",
       "album": {
-        "name": "calma",
-        "url": "https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "calma",
-      "url": "https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3"
-    },
-    {
-      "added_at": "2025-10-24 07:24:35",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 172013,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
+    },
+    {
+      "added_at": "2025-10-24 07:24:35",
+      "album": {
+        "name": "calma",
+        "url": "https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "calma",
+      "url": "https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3"
     }
   ],
   "unique_name": "Oye Pop",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 273408,
+  "num_followers": 273474,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Las Nachas",
+      "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "A LA ORDEN",
         "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Las Nachas",
-      "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Agachadita",
-        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 195024,
-      "name": "Agachadita",
-      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 178186,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 155908,
+      "name": "Que la Dejen Ir al Baile Sola",
+      "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -767,22 +767,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "Agachadita",
+        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 155908,
-      "name": "Que la Dejen Ir al Baile Sola",
-      "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
+      "duration_ms": 195024,
+      "name": "Agachadita",
+      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "LOS DOS",
-        "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 214735,
-      "name": "LOS DOS",
-      "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 191320,
       "name": "El Sandwich",
       "url": "https://open.spotify.com/track/1vlOczxjsSVdW0OkUHaqTr"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "LOS DOS",
+        "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 214735,
+      "name": "LOS DOS",
+      "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "La Petaca",
+        "url": "https://open.spotify.com/album/51OIIdPwbekFE44cSBbLiE"
+      },
+      "artists": [
+        {
+          "name": "Los Sheles",
+          "url": "https://open.spotify.com/artist/2qefFccxNTBZIodDYj6eBO"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "La Petaca",
+      "url": "https://open.spotify.com/track/3tfoOxbKPOgnU7JCm6Trne"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "El Baile Pegao",
         "url": "https://open.spotify.com/album/2INomV2WHXbqK89I6GMVHC"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "La Petaca",
-        "url": "https://open.spotify.com/album/51OIIdPwbekFE44cSBbLiE"
-      },
-      "artists": [
-        {
-          "name": "Los Sheles",
-          "url": "https://open.spotify.com/artist/2qefFccxNTBZIodDYj6eBO"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "La Petaca",
-      "url": "https://open.spotify.com/track/3tfoOxbKPOgnU7JCm6Trne"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Zapateado Antrax",
-        "url": "https://open.spotify.com/album/6jYT19oQKE9GBLvypymMts"
-      },
-      "artists": [
-        {
-          "name": "los ultimos del topo chico",
-          "url": "https://open.spotify.com/artist/3unCdhSTIZtu0T9KqC0kqp"
-        }
-      ],
-      "duration_ms": 233328,
-      "name": "Zapateado Antrax",
-      "url": "https://open.spotify.com/track/77zYPBbOkRHktf7Ahnmjsx"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "En Mi Defensa",
         "url": "https://open.spotify.com/album/2oS87aZVLDkJOResbJgX9W"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 186500,
       "name": "En Mi Defensa",
       "url": "https://open.spotify.com/track/73Ssnz5NOJwYpKw2OWXv7p"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Zapateado Antrax",
+        "url": "https://open.spotify.com/album/6jYT19oQKE9GBLvypymMts"
+      },
+      "artists": [
+        {
+          "name": "los ultimos del topo chico",
+          "url": "https://open.spotify.com/artist/3unCdhSTIZtu0T9KqC0kqp"
+        }
+      ],
+      "duration_ms": 233328,
+      "name": "Zapateado Antrax",
+      "url": "https://open.spotify.com/track/77zYPBbOkRHktf7Ahnmjsx"
     },
     {
       "added_at": "2024-11-28 22:59:11",

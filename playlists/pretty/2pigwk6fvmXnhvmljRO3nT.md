@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,752 songs - 20 day 0 hr 31 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,760 songs - 20 day 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4222,7 +4222,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 4212 | [Mirage](https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 0:57 |
 | 4213 | [Space Jam \- An Odyssey](https://open.spotify.com/track/59DqOEiZvbyRNHew4U6guS) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 3:41 |
 | 4214 | [Try a Little Tenderness](https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Complete & Unbelievable: The Otis Redding Dictionary of Soul](https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y) | 3:21 |
-| 4215 | [Your Love](https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:36 |
+| 4215 | [Your Love](https://open.spotify.com/track/0WoFs3EdGOx58yX5BtXvOa) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/0EriQlp6zHpb1ThLZcandW) | 3:43 |
 | 4216 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 4217 | [Remembering You](https://open.spotify.com/track/2Glz9Yidu0tZ8ty4YdFill) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Remembering You](https://open.spotify.com/album/1qtn8Ikd6dPrEdnceSw87o) | 3:10 |
 | 4218 | [In Every Way](https://open.spotify.com/track/3V0xjqjhlrrOdT97yLSc6A) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [In Every Way](https://open.spotify.com/album/6D39gRfzo5FkMHvROmpAze) | 3:02 |
@@ -7760,5 +7760,13 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7750 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
 | 7751 | [Dream](https://open.spotify.com/track/3OY2OJ26fzEtNxkB1FEolc) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/37rRvFMj1WWd8T227jdHyb) | 3:42 |
 | 7752 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 |
+| 7753 | [You've Changed](https://open.spotify.com/track/1j7SVy4sTWK2cMX6GuKoea) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:16 |
+| 7754 | [White](https://open.spotify.com/track/1VMdwVq0yaTc4DeqSCi7DO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 1:16 |
+| 7755 | [골목길](https://open.spotify.com/track/5MUStyZypucBWxiNnnZXPl) | [Kim Hyunshik](https://open.spotify.com/artist/5tYHIUOTcoDw6xMUkLEtzv) | [김현식 Best 10](https://open.spotify.com/album/4fR66BGWGpIIfAC1v66NUn) | 4:48 |
+| 7756 | [瞬きもせずに](https://open.spotify.com/track/37hkdncKMYiwt8lbvbcPbw) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [瞬きもせずに+](https://open.spotify.com/album/3hC5R5c8svH8T9qkHJDoqv) | 3:46 |
+| 7757 | [夏のまぼろし feat.ま に こ](https://open.spotify.com/track/4IG9I3S9xtWgXCdAXu1a7l) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb), [ま に こ](https://open.spotify.com/artist/07D23hOscfSpiiZOLnpYtc) | [瞬きもせずに+](https://open.spotify.com/album/3hC5R5c8svH8T9qkHJDoqv) | 3:55 |
+| 7758 | [ALONE](https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 5:01 |
+| 7759 | [ひまわりの約束](https://open.spotify.com/track/4SWzCUmuOQiPb6MJhrqZlJ) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [All Time Best ハタモトヒロ](https://open.spotify.com/album/0JacmVkCsfYIAUSwVXfc7q) | 5:08 |
+| 7760 | [Yes, my commander](https://open.spotify.com/track/66JkBd3LIlgRb2GlKQ5urt) | [LEVEL NINE](https://open.spotify.com/artist/4Q4MsHUCFTMr4Nnca9qChC), [NieN](https://open.spotify.com/artist/4uw62iAfVuJauC3oRnCzMf), [CielA](https://open.spotify.com/artist/7fdMoMWgEW7Y8b5UZv5KOj) | [Yes, my commander \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/album/0MxhpDK7yP8ZbNxLmKhGYz) | 3:16 |
 
-Snapshot ID: `AAAJVVrlB2Zbe3QYFksr4xTNQgBsQe8U`
+Snapshot ID: `AAAJXVq5OtuOfTuZF69nEsK4CicM3VUF`

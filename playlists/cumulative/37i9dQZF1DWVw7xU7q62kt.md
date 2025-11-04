@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-681 songs - 1 day 5 hr 45 min
+682 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,7 +626,7 @@
 | [Toucanet](https://open.spotify.com/track/5B8HcOF0JaoHhddYEUCABv) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Toucanet / Motmot](https://open.spotify.com/album/1VaEcs3hAVbmfBbwFCLxfK) | 1:55 | 2025-06-06 |  |
 | [Treetwine](https://open.spotify.com/track/0HvgzeL7sVkKpxbKgCAVlY) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Treetwine](https://open.spotify.com/album/2WyvgjCkFqNic1mq68FzAa) | 2:03 | 2025-03-22 | 2025-07-21 |
 | [tres palmas](https://open.spotify.com/track/3Das5N4gqRSDDyoyxrTZpq) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [tres palmas](https://open.spotify.com/album/2doAeZEmDlWabXhhaiAql5) | 3:04 | 2025-03-07 | 2025-03-29 |
-| [Trip To Munich](https://open.spotify.com/track/326BdVJs3PH6TE56UKa7Wu) | [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Trip To Munich](https://open.spotify.com/album/1LkIvl7laklOpBRgLCjdDv) | 1:36 | 2025-10-10 |  |
+| [Trip To Munich](https://open.spotify.com/track/326BdVJs3PH6TE56UKa7Wu) | [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Trip To Munich](https://open.spotify.com/album/1LkIvl7laklOpBRgLCjdDv) | 1:36 | 2025-10-10 | 2025-11-04 |
 | [Tropical Punch](https://open.spotify.com/track/5DnfFJQpfm15uitIhcyVQx) | [floomyy](https://open.spotify.com/artist/2E40ubnQwwZUAfdCbDwajO), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Tropical Punch](https://open.spotify.com/album/3TW0xHrtqozU7yG7rj76xt) | 2:10 | 2025-10-24 |  |
 | [Twice](https://open.spotify.com/track/4iX9tgy7wJAVb8Bmkp5qih) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Twice](https://open.spotify.com/album/0K1koM4cgGbDTFfMAR6I0p) | 2:21 | 2025-02-21 | 2025-03-12 |
 | [Twice](https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Twice](https://open.spotify.com/album/5MtcP1j0ZGLfCQkCHmlPtI) | 2:02 | 2024-08-30 |  |
@@ -644,6 +644,7 @@
 | [Vacance](https://open.spotify.com/track/2u1l8kifo56UZPrvHj2VAo) | [Max Merseny](https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Vacance](https://open.spotify.com/album/4RhpbollpgVvWeDZS3sh0m) | 2:13 | 2025-03-28 |  |
 | [Valencia](https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ) | 2:28 | 2023-08-22 | 2024-04-19 |
 | [Valencia](https://open.spotify.com/track/73BMJYyFBU2Awsz8HL27cz) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/4HMi4x83Z9sJHOUi5MhVsE) | 2:28 | 2024-03-20 | 2024-08-24 |
+| [Valencia](https://open.spotify.com/track/0P2xLcfVuluBvhxp6TPE0d) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Valencia](https://open.spotify.com/album/3okD9AoUHt223lwpPOZchp) | 2:00 | 2025-10-24 |  |
 | [Valued Forces](https://open.spotify.com/track/4uvgcOFDXvJpX6wIInjPJ4) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Valued Forces](https://open.spotify.com/album/6GhOVp3OF0XqudwFUNgAyL) | 2:36 | 2025-05-16 | 2025-05-26 |
 | [Velvet Keys](https://open.spotify.com/track/2lLWYl54En7wmYWO5FVhOf) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Velvet Keys](https://open.spotify.com/album/7wHdZd8aY5ivOMG7phgPTD) | 2:22 | 2024-09-06 |  |
 | [Velvet Mirage](https://open.spotify.com/track/1GiAPEbgGs8Md8p6iqIuc0) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Velvet Mirage](https://open.spotify.com/album/0lsIevcJhwXkyP78zRvgOP) | 1:58 | 2025-04-11 | 2025-04-27 |

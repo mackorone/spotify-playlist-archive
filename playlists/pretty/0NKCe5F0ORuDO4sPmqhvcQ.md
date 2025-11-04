@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,474 likes - 77 songs - 4 hr 28 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,473 likes - 78 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 75 | [Heartbeat](https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Heartbeat](https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj) | 2:35 |
 | 76 | [LIMERENCE](https://open.spotify.com/track/5nITzteXAc5fXDtiQmhIBI) | [Beauvois](https://open.spotify.com/artist/6AbXJxYckXHpMDApmUyP8A) | [LIMERENCE](https://open.spotify.com/album/4iKMecARl9jUolLXdjO6QS) | 2:59 |
 | 77 | [It's Strange \(feat\. K.Flay\) \- jigitz Remix](https://open.spotify.com/track/1AONUJWKH8RufJKrN1p6Mr) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [It's Strange \(feat\. K.Flay\) \[10th Anniversary Edition\]](https://open.spotify.com/album/5SipI7btNPTGmV2ZPUBOcS) | 2:53 |
+| 78 | [lucky 777](https://open.spotify.com/track/2PItx8ylP9oGrcoQMhPA3r) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [lucky 777](https://open.spotify.com/album/4yQO2awKYEX7cMd4AbGcXY) | 2:16 |
 
-Snapshot ID: `AAArDVnEJdxVHYIX9dqi8CIQcItu+Wry`
+Snapshot ID: `AAArDo1tJdu+QjMeXIUxdH9vncnoFPTL`

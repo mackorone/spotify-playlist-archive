@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-801 songs - 1 day 16 hr 17 min
+802 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Investeren In De Liefde](https://open.spotify.com/track/2wLap85rkCeiacx6QhXdF7) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [New Wave](https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0) | 2:57 | 2025-06-26 |  |
 | [Investeren In De Liefde](https://open.spotify.com/track/4gNUmFwSGsZNjzxsjcE0aM) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [New Wave](https://open.spotify.com/album/6yNagpRsQLiEsNts3ft9Ow) | 2:57 | 2024-07-10 | 2024-11-28 |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2025-06-27 | 2025-10-22 |
-| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-10-30 |  |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-10-30 | 2025-11-04 |
 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-26 | 2024-02-15 |
 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 | 2023-02-23 | 2023-10-03 |
 | [J'me tire](https://open.spotify.com/track/4w47YE9rjhmZUdtZjSCb82) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Subliminal \(La face cachée\)](https://open.spotify.com/album/5EU9LqPsBwrhq4Iqx0xMVd) | 4:09 | 2024-11-11 | 2025-10-02 |
@@ -730,6 +730,7 @@
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-05-08 | 2025-07-02 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-11 | 2024-04-19 |
 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 | 2024-10-01 | 2025-02-28 |
+| [use me!!!!!!!](https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91) | 2:04 | 2025-11-03 |  |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2024-09-06 | 2025-03-06 |
 | [Vaag \- REMIX](https://open.spotify.com/track/6eldmQ56gAtXN55c7MuH8N) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR) | [Vaag \(REMIX\)](https://open.spotify.com/album/70Z3IiTGPIXykQLl93dyJl) | 2:46 | 2024-10-07 | 2025-02-11 |
 | [Vader & zoon](https://open.spotify.com/track/1pyBvrqSmFtD3yUnXNTlJh) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Jack](https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC) | [Vader & zoon](https://open.spotify.com/album/1oXomN9t2CCXIAHbGbMlvQ) | 2:11 | 2025-09-15 |  |

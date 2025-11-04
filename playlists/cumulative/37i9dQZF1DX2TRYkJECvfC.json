@@ -11890,10 +11890,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 440000,
       "name": "uHambo",
       "url": "https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P"
+    },
+    {
+      "album": {
+        "name": "Una Mattina",
+        "url": "https://open.spotify.com/album/14mE9wRZFL1eIZNLnQoAHa"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199732,
+      "name": "Una Mattina",
+      "url": "https://open.spotify.com/track/6g0L8OMeK0sa1IuY1De4oy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: mermaidonmars
 
-1,171 songs - 2 day 11 hr 40 min
+1,173 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Greenblueviolet](https://open.spotify.com/track/25bUC6HUONOmzHDDhuVzrG) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Greenblueviolet](https://open.spotify.com/album/4EgIdufjpX2WXIHe3vYZYE) | 3:38 | 2024-11-07 | 2025-01-24 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-01-23 | 2025-04-16 |
 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 | 2023-09-20 | 2023-11-24 |
+| [H.A.P.P.Y](https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [H.A.P.P.Y](https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB) | 2:29 | 2025-11-03 |  |
 | [Hairdresser](https://open.spotify.com/track/3ACuAlEUbOaRICryHUPoSL) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/45x0oOtcheQTInFbozCoWE) | 3:27 | 2025-05-08 | 2025-07-04 |
 | [Hall Pass](https://open.spotify.com/track/3PU3fHPOeAp6fWN65zJHY6) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Hall Pass](https://open.spotify.com/album/1jh5VgaFnCHfFvMplOlGwD) | 3:03 | 2023-08-25 | 2023-11-10 |
 | [Hallelujah](https://open.spotify.com/track/1nLZY9rmmi5l9TgYjv0mQm) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Hallelujah](https://open.spotify.com/album/4Ypr345ZDelmTzuoGDMgs5) | 3:09 | 2023-05-11 | 2023-09-01 |
@@ -506,6 +507,7 @@
 | [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 | 2023-11-16 | 2024-02-08 |
 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/6kZs5onGsFyRkTTAW624u0) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/album/6q5C6TAynyMnt9vfiPAuPT) | 2:43 | 2023-03-02 | 2023-06-02 |
 | [I Don't Wanna Dance](https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [I Don't Wanna Dance](https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS) | 3:02 | 2024-02-29 | 2024-05-03 |
+| [I Feel Love](https://open.spotify.com/track/5wvG9RQgBWgKAJY7aMOvd5) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [I Feel Love](https://open.spotify.com/album/2GKc4f1bQRip4jLwBOPzLV) | 2:52 | 2025-11-03 |  |
 | [I Got Out](https://open.spotify.com/track/1hwgM28NE9SnJ30RzjUOBg) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [I Got Out](https://open.spotify.com/album/4XQlwqLcTmeQbusmasghI6) | 3:08 | 2023-03-01 | 2023-04-28 |
 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 | 2025-04-10 | 2025-06-21 |
 | [I HAVEN'T SAID ENOUGH](https://open.spotify.com/track/40L1n9k9hAIgfDpIHTGvHi) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:19 | 2025-06-26 | 2025-09-26 |
@@ -1074,7 +1076,7 @@
 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-02-24 | 2023-03-25 |
 | [Ulterior Motives](https://open.spotify.com/track/0zfLf6IWFvJMGaubfJWtLk) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Ulterior Motives](https://open.spotify.com/album/0OOkiwWU6jpaprw7h8IYvm) | 2:34 | 2025-02-27 | 2025-05-09 |
 | [UNAPOLOGETICALLY](https://open.spotify.com/track/6w8x20GjwpIHTJ3MAszyJh) | [llll](https://open.spotify.com/artist/4nooGDX5QxisOl67xm4BBE) | [UNAPOLOGETICALLY](https://open.spotify.com/album/7E0YLbuzHhReJCSQCfvVkU) | 2:58 | 2024-08-01 | 2024-09-20 |
-| [Unconditional](https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Unconditional](https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj) | 3:32 | 2025-09-11 |  |
+| [Unconditional](https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Unconditional](https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj) | 3:32 | 2025-09-11 | 2025-11-04 |
 | [Undecided](https://open.spotify.com/track/67HfJMTt2jley2uzWzocKe) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Undecided](https://open.spotify.com/album/4rOBvkbMvjHEtQByHEUx4V) | 2:40 | 2024-02-05 | 2024-04-26 |
 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 | 2025-01-16 | 2025-03-18 |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 | 2023-05-25 | 2023-09-01 |

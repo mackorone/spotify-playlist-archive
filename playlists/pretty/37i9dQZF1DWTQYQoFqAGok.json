@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64252,
+  "num_followers": 64258,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
-      },
-      "artists": [
-        {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
-        }
-      ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Mi Sentimiento Guerrerense",
         "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
       "artists": [
         {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -611,6 +595,22 @@
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -743,6 +743,30 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
+      },
+      "artists": [
+        {
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Alberto Medina",
+          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
+        },
+        {
+          "name": "Pablo Prieto",
+          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
+        }
+      ],
+      "duration_ms": 428720,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Orquesta Moderna",
         "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 285508,
       "name": "Guapanguito",
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
-      },
-      "artists": [
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Alberto Medina",
-          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
-        },
-        {
-          "name": "Pablo Prieto",
-          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
-        }
-      ],
-      "duration_ms": 428720,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Amaneceres",
         "url": "https://open.spotify.com/album/6IbnxAPwtYL8uJtgiYgJVG"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 273880,
       "name": "Amaneceres",
       "url": "https://open.spotify.com/track/21lSntIcuSdGdV0m4LesLz"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2024-08-29 03:09:23",

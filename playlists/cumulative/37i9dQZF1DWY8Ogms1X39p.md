@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-319 songs - 17 hr 56 min
+320 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-07 | 2025-02-13 |
 | [Bigger In Texas](https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:32 | 2024-12-09 | 2025-01-08 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-04 |  |
+| [Blink \(feat\. TZUYU\)](https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj), [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [Blink \(feat\. TZUYU\)](https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB) | 2:42 | 2025-11-03 |  |
 | [bloodline](https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:36 | 2022-12-13 | 2023-09-14 |
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-06-23 | 2025-07-28 |
 | [Boyz in da Hood](https://open.spotify.com/track/7GImVZmByp3f3mJXUBsWWa) | [Serigala Malam](https://open.spotify.com/artist/6kfH65R3zLl5lcfC8HnJBN), [D.P.M.B](https://open.spotify.com/artist/5TXNAGvl0RJtT0Ps1LdNhG) | [Question](https://open.spotify.com/album/7yRo4YxTbr6aTxJWAQbS8W) | 3:43 | 2025-08-03 | 2025-09-08 |

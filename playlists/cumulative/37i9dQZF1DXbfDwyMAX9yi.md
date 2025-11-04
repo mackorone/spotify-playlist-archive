@@ -4,7 +4,7 @@
 
 > Our favorite subject? Their chemistry\. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-39 songs - 1 hr 46 min
+40 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [High Life \(feat\. Victoria Hillestad\) \- from "Maxton Hall"](https://open.spotify.com/track/1juIr1XUf9BrFAIYkya0Lu) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Victoria Hillestad](https://open.spotify.com/artist/5PQx75WvXW8l49ONY0C7IC) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:27 | 2024-06-06 |  |
 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 | 2024-06-06 |  |
 | [In Between Two Worlds \- from "Maxton Hall"](https://open.spotify.com/track/4oLaLau11OQRROPZ0zRJ9g) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 2:55 | 2024-06-06 |  |
+| [It's Perfect \- From "Maxton Hall"](https://open.spotify.com/track/7uQFV1uYPJJ67XP169n4xY) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [It's Perfect \(From "Maxton Hall"\)](https://open.spotify.com/album/3z5LDg9FSCMLGIXUQkdvVd) | 2:22 | 2025-11-03 |  |
 | [James' Suspension \- from "Maxton Hall"](https://open.spotify.com/track/7xUyPpsTQIEp3v6UzvFOS4) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:46 | 2024-06-06 |  |
 | [Let Down \(Acoustic Version\) \(feat\. Victoria Hillestad\) \- from "Maxton Hall"](https://open.spotify.com/track/6kH6AdZkHsvlBVc6nfEmsr) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Victoria Hillestad](https://open.spotify.com/artist/5PQx75WvXW8l49ONY0C7IC) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 0:53 | 2024-06-06 |  |
 | [Let Down \(Extended Album Version\) \(feat\. Victoria Hillestad\) \- from "Maxton Hall"](https://open.spotify.com/track/2GWYhPDOC925K0J4Q3h7jn) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6), [Victoria Hillestad](https://open.spotify.com/artist/5PQx75WvXW8l49ONY0C7IC) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 3:33 | 2024-06-06 |  |

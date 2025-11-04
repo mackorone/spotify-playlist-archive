@@ -2,9 +2,9 @@
 
 ### [RADAR PAKISTAN](https://open.spotify.com/playlist/37i9dQZF1DWU6NlIeT95t9)
 
-> Meet the future\.  Cover: Samar Jafri
+> Meet the future ♥️ Cover: Samar Jafri
 
-135 songs - 7 hr 22 min
+136 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Mukhtasir Baatein](https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y) | [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO) | [Mukhtasir Baatein](https://open.spotify.com/album/5nOZtgjx1yZ7xZUQk69pKo) | 2:42 | 2023-07-31 | 2024-01-06 |
 | [Muntazir](https://open.spotify.com/track/2ln4h0StQMJKYYe9JT5vkx) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Muntazir](https://open.spotify.com/album/0zR86HUa4MhcbL2aOTtwkW) | 3:01 | 2025-09-17 |  |
 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 | 2023-07-31 | 2025-09-18 |
+| [Naazni](https://open.spotify.com/track/6m5sG6iWIfnO5o9RG20xhu) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Naazni](https://open.spotify.com/album/0HWaoplF0LAs4ciF5lPBBT) | 2:58 | 2025-11-03 |  |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2024-05-13 |  |
 | [Naraaz](https://open.spotify.com/track/5R5reIUDThok64YH1LAelH) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naraaz](https://open.spotify.com/album/42h4XY1DBc1sBM8mrvjqU0) | 3:40 | 2025-09-17 |  |
 | [Nasha](https://open.spotify.com/track/2hxa69crD7YPyl8oGL0LV1) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [CLUB SANDWICH](https://open.spotify.com/album/430Af0wtsNi3smXvzdvqgV) | 3:12 | 2024-11-18 | 2025-07-18 |
@@ -102,7 +103,7 @@
 | [No One Like Us](https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 3:22 | 2025-05-06 |  |
 | [OBVIOUS \(feat\. Hasan Raheem\)](https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:15 | 2024-07-22 |  |
 | [OMG](https://open.spotify.com/track/2X60hQz6bswS3DAvBhtckg) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [OMG](https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87) | 3:12 | 2023-07-31 |  |
-| [OUIJA](https://open.spotify.com/track/6cXGq3VUhLg0CQArHnzV1K) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [OUIJA](https://open.spotify.com/album/4nQCfJKGANKKHOIbUEMZLB) | 2:13 | 2023-07-31 |  |
+| [OUIJA](https://open.spotify.com/track/6cXGq3VUhLg0CQArHnzV1K) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [OUIJA](https://open.spotify.com/album/4nQCfJKGANKKHOIbUEMZLB) | 2:13 | 2023-07-31 | 2025-11-04 |
 | [Out Of Your Mind](https://open.spotify.com/track/3158tIsGVTvferWVA1O6iE) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Out Of Your Mind](https://open.spotify.com/album/7Fv5ITtniDNrMBJXGXSTSw) | 2:54 | 2025-07-18 |  |
 | [Pal Pal](https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal](https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS) | 2:27 | 2025-07-18 |  |
 | [Pardes Katenda](https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Pardes Katenda](https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd) | 2:47 | 2023-09-03 |  |
@@ -132,7 +133,7 @@
 | [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 | 2024-02-23 | 2024-04-19 |
 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2023-07-31 |  |
 | [Tarka](https://open.spotify.com/track/10tUxnculTXzMGFAcj3ZNr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Turbo \(Deluxe\)](https://open.spotify.com/album/5AqK0sYFr4bVWAtVKTmXcz) | 1:56 | 2024-02-16 | 2025-09-18 |
-| [Tera Milna](https://open.spotify.com/track/5iNZ04LcMbEn2oI71Rv2Lu) | [Raahim Shaukat](https://open.spotify.com/artist/7BpYXb29nZcZsjbGXe9yTU), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Uzair Mirza](https://open.spotify.com/artist/3JpBQcTd0poxwkWEgAHMeC) | [Tera Milna](https://open.spotify.com/album/0CnC0tXL7PbIXGmrlLtpgU) | 3:35 | 2025-09-17 |  |
+| [Tera Milna](https://open.spotify.com/track/5iNZ04LcMbEn2oI71Rv2Lu) | [Raahim Shaukat](https://open.spotify.com/artist/7BpYXb29nZcZsjbGXe9yTU), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Uzair Mirza](https://open.spotify.com/artist/3JpBQcTd0poxwkWEgAHMeC) | [Tera Milna](https://open.spotify.com/album/0CnC0tXL7PbIXGmrlLtpgU) | 3:35 | 2025-09-17 | 2025-11-04 |
 | [Teray Naam](https://open.spotify.com/track/4dBRaBEild4wQPztOuV2EU) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahrukh](https://open.spotify.com/artist/02yAoSmsqYASF4Wb45bRlJ), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:06 | 2023-09-15 |  |
 | [Teriyan](https://open.spotify.com/track/4hHPrjRpr1jiqTXdWZn3zz) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Teriyan](https://open.spotify.com/album/3zdnb1So6h8GFY1GeuSIsJ) | 3:14 | 2023-09-03 | 2024-07-23 |
 | [Thandi](https://open.spotify.com/track/7tEzOjkyhaY9LSWCsV455b) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/3pSxUhtCRY31ETLq2seRVQ) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 2:40 | 2023-11-02 | 2025-07-18 |

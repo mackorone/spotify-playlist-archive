@@ -1,12 +1,12 @@
 {
   "description": "The best new music every Friday. Cover: Florence + The Machine ",
-  "num_followers": 1297109,
+  "num_followers": 1296993,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK76hNfyuXR1jXcJD9JGu6CjyCBZ",
+  "snapshot_id": "AAAAAFo6w6VxB6qHxHgBQW2T8e2dJFmf",
   "tracks": [
     {
       "added_at": "2025-10-31 04:00:41",
@@ -291,6 +291,30 @@
       "duration_ms": 209986,
       "name": "Sympathy Is A Knife",
       "url": "https://open.spotify.com/track/3DwoBh7cAfEOrSVWRUtgOE"
+    },
+    {
+      "added_at": "2025-11-03 20:59:05",
+      "album": {
+        "name": "SNOEY",
+        "url": "https://open.spotify.com/album/4ODxsdra6AfxaVFf51UkMs"
+      },
+      "artists": [
+        {
+          "name": "Zack Villere",
+          "url": "https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh"
+        },
+        {
+          "name": "Roy Blair",
+          "url": "https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67"
+        },
+        {
+          "name": "Papo2oo4",
+          "url": "https://open.spotify.com/artist/4S7E6TrfOatG9H3YuYV4V2"
+        }
+      ],
+      "duration_ms": 177050,
+      "name": "Public Opinion",
+      "url": "https://open.spotify.com/track/3ORsrd6XBeO8BhE0zYRtgE"
     },
     {
       "added_at": "2025-10-31 04:00:41",

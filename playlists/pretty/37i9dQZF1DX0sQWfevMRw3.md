@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,747 likes - 139 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,743 likes - 139 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Wanna](https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [I Wanna](https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx) | 2:09 |
+| 1 | [UNGA I KVÄLL](https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [UNGA I KVÄLL](https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0) | 2:20 |
 | 2 | [Kurtisør 2026](https://open.spotify.com/track/5xiYCXTo3PnbkjdRRcuMdq) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Kurtisør 2026](https://open.spotify.com/album/0Dz7qLsSVwDeGB0Xfqptjf) | 2:51 |
-| 3 | [LÄTTAR](https://open.spotify.com/track/0haBpxAKNDWImmQf91NPdF) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [LÄTTAR](https://open.spotify.com/album/6WvdffDFUri9uyYv4VznKR) | 2:02 |
-| 4 | [UNGA I KVÄLL](https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [UNGA I KVÄLL](https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0) | 2:20 |
+| 3 | [I Wanna](https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [I Wanna](https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx) | 2:09 |
+| 4 | [LÄTTAR](https://open.spotify.com/track/0haBpxAKNDWImmQf91NPdF) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [LÄTTAR](https://open.spotify.com/album/6WvdffDFUri9uyYv4VznKR) | 2:02 |
 | 5 | [Bad boys](https://open.spotify.com/track/4rjv15I95Y3XYudadxS15j) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Bad boys](https://open.spotify.com/album/70meEZFZI6Ka8HGd0rV4jF) | 2:32 |
 | 6 | [Juniregnet](https://open.spotify.com/track/7iZHA1WIBbDER2YvheX0kP) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [GOLF](https://open.spotify.com/album/2ZTc5n62uK6TjSbpURO5Me) | 2:54 |
 | 7 | [SOS](https://open.spotify.com/track/4rPzC5pYU0MYzNys1VCQ2U) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [SOS](https://open.spotify.com/album/6HCFm5uTyOQVENK6Fizxyi) | 2:09 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 138 | [113](https://open.spotify.com/track/0Vec54m9ABwhKGVHG5rkQF) | [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt) | [113](https://open.spotify.com/album/4O6efjOGwx7nhYQ5KPJKfK) | 2:01 |
 | 139 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 
-Snapshot ID: `AAAAACxu8Q4ZyGQFX/4M7q2hiNukYqPD`
+Snapshot ID: `AAAAALJDb/XzAk2RxT0BjYb4xlPMynbB`

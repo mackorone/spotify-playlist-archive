@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-22",
-  "description": "Meet the future.  Cover: Samar Jafri",
+  "description": "Meet the future \u2665\ufe0f Cover: Samar Jafri",
   "name": "RADAR PAKISTAN",
   "tracks": [
     {
@@ -1791,6 +1791,32 @@
     },
     {
       "album": {
+        "name": "Naazni",
+        "url": "https://open.spotify.com/album/0HWaoplF0LAs4ciF5lPBBT"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "Naazni",
+      "url": "https://open.spotify.com/track/6m5sG6iWIfnO5o9RG20xhu"
+    },
+    {
+      "album": {
         "name": "4 Saal",
         "url": "https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q"
       },
@@ -2004,7 +2030,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 133241,
       "name": "OUIJA",
       "url": "https://open.spotify.com/track/6cXGq3VUhLg0CQArHnzV1K"
@@ -2644,7 +2670,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 215263,
       "name": "Tera Milna",
       "url": "https://open.spotify.com/track/5iNZ04LcMbEn2oI71Rv2Lu"

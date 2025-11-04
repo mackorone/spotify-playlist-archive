@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover:  林愷鈴
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,246 likes - 154 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,243 likes - 154 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

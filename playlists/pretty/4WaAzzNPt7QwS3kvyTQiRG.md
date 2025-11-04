@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WaAzzNPt7QwS3kvyTQiRG.md) - [plain]
 
 > Chart topping icons, forgotten classics and all out guilty pleasures \- this is the 80s.
 
-[Smash Hits](https://open.spotify.com/user/smash_hits) - 7,463 likes - 100 songs - 6 hr 55 min
+[Smash Hits](https://open.spotify.com/user/smash_hits) - 7,464 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

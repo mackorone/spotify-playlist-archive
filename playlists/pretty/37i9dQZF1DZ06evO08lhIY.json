@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAADHQrW/njXEGhGna2W55Kp2",
+  "snapshot_id": "aQafAAAAAABJp8tcJj5InaMtX7aaeQVs",
   "tracks": [
     {
       "added_at": null,
@@ -55,26 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It Now (Agbanilagbatan)",
-        "url": "https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Do It Now (Agbanilagbatan)",
-      "url": "https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lord & Savior",
         "url": "https://open.spotify.com/album/3bWSFLDWSQwlDvyPp1Fdbs"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 173771,
       "name": "Lord & Savior",
       "url": "https://open.spotify.com/track/7iSuMiRlJNceKCE3ES6HBr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It Now (Agbanilagbatan)",
+        "url": "https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Do It Now (Agbanilagbatan)",
+      "url": "https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD"
     },
     {
       "added_at": null,
@@ -647,34 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Vida",
-        "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
-      },
-      "artists": [
-        {
-          "name": "Kingdom & Culture",
-          "url": "https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Segunda Vida",
-      "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/5o934KiJcvWwFhhPbPINvz"
       },
@@ -715,6 +687,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Segunda Vida",
+        "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
+      },
+      "artists": [
+        {
+          "name": "Kingdom & Culture",
+          "url": "https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "Segunda Vida",
+      "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young & Chosen",
         "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
       },
@@ -722,15 +722,11 @@
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
         }
       ],
-      "duration_ms": 142283,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/2vsID3pEfy6oB0V9f4iCxn"
+      "duration_ms": 165543,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL"
     },
     {
       "added_at": null,
@@ -842,11 +838,15 @@
         {
           "name": "Limoblaze",
           "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
         }
       ],
-      "duration_ms": 165543,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL"
+      "duration_ms": 142283,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2vsID3pEfy6oB0V9f4iCxn"
     },
     {
       "added_at": null,

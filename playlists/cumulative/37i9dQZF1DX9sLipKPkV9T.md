@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: סטטיק
 
-471 songs - 1 day 0 hr 45 min
+472 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [מה משאיר אותנו כאן](https://open.spotify.com/track/1kyeOM8HD1bul7kEViTEEB) | [עידו מלכה](https://open.spotify.com/artist/2UAEpEEwnaFVjWZGwxHWL3) | [מה משאיר אותנו כאן](https://open.spotify.com/album/2KZJTCuZwYmw7GSpJhQsiu) | 2:53 | 2025-05-29 | 2025-09-05 |
 | [מה שאני צריכה](https://open.spotify.com/track/5Uu5mT5IafIRISL6lOAdBK) | [ענבל רז](https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y), [Eli Huli](https://open.spotify.com/artist/0pVfuGHwDRXhSWJw7tzygH) | [מה שאני צריכה](https://open.spotify.com/album/2g7MF7C7MOylJ4WmMWqdqz) | 2:30 | 2024-06-27 | 2024-09-13 |
 | [מה שהיה היה](https://open.spotify.com/track/573ltQ5QKog6QXVZYgrbps) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [מה שהיה היה](https://open.spotify.com/album/27aIM0p8uQoOfL7CqMN60g) | 3:04 | 2025-09-11 |  |
+| [מה שיבוא](https://open.spotify.com/track/2EwDKsoemDnIgfJ23k52cv) | [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8), [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [מה שיבוא](https://open.spotify.com/album/4sgmgLvtU66PoH1o0ATJGf) | 3:29 | 2025-10-30 |  |
 | [מה ששלי שלי](https://open.spotify.com/track/2wdKNiN0XwLCrSQ0axU057) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [טוהר](https://open.spotify.com/album/4daZgs5ldX57soeQHk6Jg7) | 2:58 | 2025-03-27 | 2025-06-20 |
 | [מודה אני](https://open.spotify.com/track/7dFXMRBRtLu6GMku07kYGD) | [Moshe Peretz](https://open.spotify.com/artist/2kOE3Jm5tMqLh65EiDkHJi), [Mooki](https://open.spotify.com/artist/2RMH8nqc3YmaUEikglXlXm) | [מודה אני](https://open.spotify.com/album/7arNglLP1SeJUbR2IFETpn) | 3:19 | 2024-07-04 | 2024-07-12 |
 | [מודה אני](https://open.spotify.com/track/1yGzl0CqjQOqdVcFX94gic) | [Safe Space Sessions](https://open.spotify.com/artist/53iEneWNCdwCeXL5zde6Pg), [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [מרחב מוגן](https://open.spotify.com/album/3GCd94fF78hbZbJIvrgA2X) | 4:39 | 2025-04-03 | 2025-06-06 |

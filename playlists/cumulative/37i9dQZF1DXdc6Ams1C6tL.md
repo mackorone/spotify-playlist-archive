@@ -2,7 +2,7 @@
 
 ### [Every UK Number One: 2025](https://open.spotify.com/playlist/37i9dQZF1DXdc6Ams1C6tL)
 
-> Taylor Swift takes the top spot 🍊
+> HUNTR/X are back on top 🥇
 
 40 songs - 2 hr 18 min
 

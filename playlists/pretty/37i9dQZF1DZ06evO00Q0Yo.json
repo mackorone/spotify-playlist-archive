@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19747,
+  "num_followers": 19756,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAACdnUoAfdVm+kMq6gNuP2Oj",
+  "snapshot_id": "aQafAAAAAADa0qrCpqAd+6oU7JRvjsxM",
   "tracks": [
     {
       "added_at": null,
@@ -611,42 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 122790,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wet Dreams (feat. coop & gg)",
         "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
       },
@@ -667,6 +631,42 @@
       "duration_ms": 159090,
       "name": "Wet Dreams (feat. coop & gg)",
       "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 122790,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 150652,
+      "name": "Money (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
       "added_at": null,

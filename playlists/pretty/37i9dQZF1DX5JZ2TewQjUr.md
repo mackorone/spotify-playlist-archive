@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: The Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,577 likes - 144 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,578 likes - 144 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

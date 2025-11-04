@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: RIO\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,550 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,565 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 24 | [Make\-believe](https://open.spotify.com/track/0vwAG82C6lgnmrojDP5qsU) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Make\-believe](https://open.spotify.com/album/43BAHAUk1NvSY8UlD59yGS) | 2:46 |
 | 25 | [My star](https://open.spotify.com/track/6j9lOM0mmJsS4fP7s4GTrU) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [My star](https://open.spotify.com/album/1qlznH1GRH7VBXxd1AZ9Xs) | 3:14 |
 | 26 | [It stings!](https://open.spotify.com/track/6avPD0pubMIFY55Nn0fwe7) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [FANTASY](https://open.spotify.com/album/1nhxJmX1wipzaOkihjiH4s) | 2:29 |
-| 27 | [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/3dL5qo0TDlRJXV8K3FNZID) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 |
+| 27 | [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/4uoKLZ5dHkP1NLHRudbQFw) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 |
 | 28 | [Someday, With You Again](https://open.spotify.com/track/3zCpxJLcDmmfklrBvfk5Bn) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Someday, With You Again](https://open.spotify.com/album/6DgOYZr2IYEtyhz623SFcY) | 3:42 |
 | 29 | [Megamind](https://open.spotify.com/track/0nbFfGsI841xVr2woT8YTB) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Amateur Hunting Squad](https://open.spotify.com/album/1Se3NMCm7LMts4q5BrVAbL) | 4:52 |
 | 30 | [Kids Return](https://open.spotify.com/track/4OW17aMPJyYW2Zu6oehyzk) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Kids Return](https://open.spotify.com/album/5APljpDUTlWR1k4r0wAidl) | 4:06 |

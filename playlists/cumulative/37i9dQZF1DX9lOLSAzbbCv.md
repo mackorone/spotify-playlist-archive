@@ -4,7 +4,7 @@
 
 > Хіти українського репу\. Обкладинка: KRBK
 
-134 songs - 6 hr 10 min
+136 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [RAGNAROK](https://open.spotify.com/track/2too3Pi9ZnJtwt6koMJEmF) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [RAGNAROK](https://open.spotify.com/album/21iXpwif0hx1bu32KMAiDp) | 3:33 | 2024-06-27 |  |
 | [Sun](https://open.spotify.com/track/0zBUSHwjDRfvJg0A8ocVuW) | [Watsebha](https://open.spotify.com/artist/4NKiKE60GYOcPCe02G9Ke4) | [Sun](https://open.spotify.com/album/4a7psQ9XAe58GdTuM6MnLM) | 2:29 | 2024-06-27 | 2024-08-16 |
 | [VODA](https://open.spotify.com/track/5sEqCNUVsNS00BWzYqncqq) | [Libenson](https://open.spotify.com/artist/5WKDr18VQpdy1dBHkBi8O1), [Райчу](https://open.spotify.com/artist/29nWzSyEg2JLtzY9Z3vX03), [beshket](https://open.spotify.com/artist/3EjuAkczKqIF2XQ456uiOl), [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P), [Guber](https://open.spotify.com/artist/1ntmI6a5ucgT8nQfc7nByD) | [VODA](https://open.spotify.com/album/06p39abrcNaOV97Dc41vs8) | 3:18 | 2025-06-19 |  |
-| [А хто хейтить \- OST «10 Блогерят»](https://open.spotify.com/track/4WJWo3nKXdTrk3FXhKsh4k) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [А хто хейтить \(OST «10 Блогерят»\)](https://open.spotify.com/album/4K4Sh0hessVSUqG5karoJw) | 2:39 | 2025-10-14 |  |
+| [А хто хейтить \- OST «10 Блогерят»](https://open.spotify.com/track/4WJWo3nKXdTrk3FXhKsh4k) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [А хто хейтить \(OST «10 Блогерят»\)](https://open.spotify.com/album/4K4Sh0hessVSUqG5karoJw) | 2:39 | 2025-10-14 | 2025-11-04 |
 | [Аеропорт](https://open.spotify.com/track/2Qkw59RMFpDlQOsaOnQ9Zs) | [Фрай](https://open.spotify.com/artist/0u1L8pq6k21TsAtP0OPq2J) | [Аеропорт](https://open.spotify.com/album/0ZT3dAoTlCSpo3lcz9MNOH) | 2:11 | 2025-02-28 | 2025-06-20 |
 | [Алфавіт](https://open.spotify.com/track/5G7fwsVR9YKXN31FIwCXuq) | [Міша Правильний](https://open.spotify.com/artist/6yvtjGJV6Q5XayHVYb3Q1N), [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Шо ти мелеш?](https://open.spotify.com/album/7aO3iSpPX7Ny9UEW1TQk5H) | 2:29 | 2025-02-28 | 2025-10-15 |
 | [Аплодуй](https://open.spotify.com/track/4HLYC1wzAHswVs5HrRfEJw) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l), [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Аплодуй](https://open.spotify.com/album/4LNsL1SEC7XVptBXCT2qjs) | 3:27 | 2025-07-11 |  |
@@ -80,7 +80,7 @@
 | [Мій дім](https://open.spotify.com/track/2B9toPBL4ZxY5xeK8h8RBS) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Мій дім](https://open.spotify.com/album/60AdWdumInAzUUCayul6BV) | 2:41 | 2024-06-27 | 2024-08-16 |
 | [Нaшi](https://open.spotify.com/track/6ITihG9iy5E9WkvWg80NBg) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 3:01 | 2024-08-01 | 2024-09-13 |
 | [На](https://open.spotify.com/track/5CpQn3HfKom9m0TvkbGJCe) | [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM), [Макс ТТ](https://open.spotify.com/artist/5MTokyHhUxiDPNFKsXVdcK) | [На](https://open.spotify.com/album/0Z2o7NLxMcCcppHvwODYxC) | 2:24 | 2024-09-30 | 2024-11-09 |
-| [На відтяжці](https://open.spotify.com/track/4M8tehkzebTY5l4dZ3CZv8) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh) | [На відтяжці](https://open.spotify.com/album/0jD83emvbuC7XdJOnORs3g) | 1:13 | 2025-10-14 |  |
+| [На відтяжці](https://open.spotify.com/track/4M8tehkzebTY5l4dZ3CZv8) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh) | [На відтяжці](https://open.spotify.com/album/0jD83emvbuC7XdJOnORs3g) | 1:13 | 2025-10-14 | 2025-11-04 |
 | [На даху](https://open.spotify.com/track/6AvzIrBCctDINlsy16lQR3) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [На даху](https://open.spotify.com/album/3FlXdW43VRAn8ww99fNCly) | 2:34 | 2024-06-27 | 2025-10-15 |
 | [На пафосі](https://open.spotify.com/track/13a42S4mWLvOUubzKz8M5P) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [На пафосі](https://open.spotify.com/album/0OfgPEU2HdyGA9DpSioyXu) | 2:03 | 2024-09-30 | 2025-07-12 |
 | [Над океаном](https://open.spotify.com/track/6WWVGwnbQy7cRSQYvJlne2) | [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Над океаном](https://open.spotify.com/album/2xefr2prljKjzK9F1LcbwA) | 2:48 | 2024-09-12 | 2024-10-01 |
@@ -119,6 +119,7 @@
 | [Там, де немає людей](https://open.spotify.com/track/3ajVYtJDqiVahlJeYoCWIJ) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Там, де немає людей](https://open.spotify.com/album/6rf8i3mL4G5fJYwupWuFFQ) | 3:19 | 2025-06-19 |  |
 | [Танцюй](https://open.spotify.com/track/3PqBdnkWVaNMCfjm1ZzkYO) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Танцюй](https://open.spotify.com/album/2mKL2gPe5YHUZk32Ad2bTQ) | 1:49 | 2025-06-19 |  |
 | [Танцюй сама](https://open.spotify.com/track/0SQ1LyGMMsHHuT7cD3edUf) | [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Танцюй сама](https://open.spotify.com/album/6poPgsLVWBlLBAPKeqBdDw) | 2:28 | 2024-07-11 | 2024-10-01 |
+| [Таро](https://open.spotify.com/track/6K2MyjNAePQdt6bLG65tIr) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Люблю тебе коли](https://open.spotify.com/album/2YBfDbR87Nw2h7EWorBQzK) | 3:07 | 2025-11-03 |  |
 | [Тато](https://open.spotify.com/track/0Ixh7OAq7WCX3VWZdHetra) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Тато](https://open.spotify.com/album/6dLaBMi2ODeyBCdPGUjRvr) | 3:02 | 2024-06-27 | 2024-09-13 |
 | [Тебе не попустить](https://open.spotify.com/track/3d95pupJFsnNflzJlGLOUT) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Для душі](https://open.spotify.com/album/6e4llhAPdGcwonniwPLhwK) | 2:09 | 2024-06-27 | 2024-07-12 |
 | [Тиші немає](https://open.spotify.com/track/6Axa4LV9E2KbAHHF96lLmt) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Krasna Tysha](https://open.spotify.com/artist/5WD4YPNOrVGVmOnmwnZexh) | [Тиші немає](https://open.spotify.com/album/6NOtQ3lfqVNRmF8SIXxTHl) | 2:51 | 2024-09-12 | 2024-11-09 |
@@ -131,6 +132,7 @@
 | [Чекаю на ніч](https://open.spotify.com/track/6uwvm0ZMHCMVxE9XPU6UA5) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Чекаю на ніч](https://open.spotify.com/album/4IQuXEYq1dRFFhPunJRCS6) | 1:58 | 2024-06-27 | 2024-11-15 |
 | [Червона нитка](https://open.spotify.com/track/69KPutzqYvBjVGnp3k2cf1) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Ann in Black](https://open.spotify.com/artist/4HSiAq2sw2h2nGx8KMW0ik) | [Червона нитка](https://open.spotify.com/album/1UAHXsFvxWNi9pnlsiTqdp) | 2:37 | 2024-08-15 | 2025-03-01 |
 | [Честер](https://open.spotify.com/track/4sUa5WnOxAeNItdV3vhoX3) | [Міша Правильний](https://open.spotify.com/artist/6yvtjGJV6Q5XayHVYb3Q1N), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Честер](https://open.spotify.com/album/2rDRBKyMrXyY0eETN0Zke3) | 3:17 | 2024-09-12 | 2025-03-01 |
+| [Чорний лебідь](https://open.spotify.com/track/39WvUiZRy6wSXPUJHVgnDF) | [Гоня](https://open.spotify.com/artist/0VwCm41TLbckvzuvHuapBh) | [Чорний лебідь](https://open.spotify.com/album/22TFpPzv3iBvZcUdG5Ck8X) | 2:06 | 2025-11-03 |  |
 | [Чуттєво й зворушливо](https://open.spotify.com/track/69d7LFyrraty4buwYsXeGf) | [VovaZiLvova](https://open.spotify.com/artist/7MFvm8pwjLdmVBZddGNiQH), [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Чуттєво й зворушливо](https://open.spotify.com/album/3CLJUopbto0GE7LitWF5wr) | 2:27 | 2024-06-27 | 2024-08-02 |
 | [Шепоче дощ](https://open.spotify.com/track/0r8QbYyEx9qvzccnPDyYSX) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS), [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Шепоче дощ](https://open.spotify.com/album/4TpzNla4P92I6TW3VSnmX9) | 2:31 | 2024-07-18 | 2025-03-01 |
 | [Шукали вчора](https://open.spotify.com/track/6LWU2SReUMAZ4XixabuZqp) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C) | [Недовготривалі відносини](https://open.spotify.com/album/1Y74eDClvLKpzJgVSbovLS) | 2:48 | 2024-06-27 |  |

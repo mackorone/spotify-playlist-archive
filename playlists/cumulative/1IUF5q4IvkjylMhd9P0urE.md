@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-878 songs - 2 day 2 hr 7 min
+879 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,6 +816,7 @@
 | [Time Waster](https://open.spotify.com/track/46sN6Wj7ec9bqMqTPycYXr) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Time Waster](https://open.spotify.com/album/2GyeWj8LWVtvRMsQdlHe8l) | 3:31 | 2022-10-10 | 2022-12-20 |
 | [Tinfoil](https://open.spotify.com/track/5cT0FWFW8cdUsaz7CWdcs1) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK), [Astrolith](https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I) | [Tinfoil](https://open.spotify.com/album/57ixMubBbJtKAUCSACUTxB) | 4:25 | 2024-09-07 | 2025-03-21 |
 | [To Coberto X Bato Com o Placo](https://open.spotify.com/track/5RczWF9S4A5dI2F3m1OC94) | [MC Davi CPR](https://open.spotify.com/artist/0Xgfv9czKL7lEuKkRpHq2Y), [wrbeats](https://open.spotify.com/artist/5LC8vkf9VfkzjoDMpLwtX6), [DJ Martinelli](https://open.spotify.com/artist/0qvUt5Hd1W4kEGAZSs4yJH), [Cjtinha](https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE) | [To Coberto X Bato Com o Placo](https://open.spotify.com/album/16Tt8niDXmy2wTt0vaTazd) | 3:02 | 2024-09-07 | 2025-03-21 |
+| [To Death](https://open.spotify.com/track/545CvkYbkafHedepFL72V9) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Purity](https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG) | 1:27 | 2025-11-03 |  |
 | [To\-K](https://open.spotify.com/track/3krMW85c3YU8KvyNMNs9ck) | [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Rise of the Raptor](https://open.spotify.com/album/414IHjHdQBRGJQqazfx1JH) | 4:09 | 2024-09-07 | 2025-03-21 |
 | [Tojo](https://open.spotify.com/track/5w3b1UFMnOqxeNSiJBLzqO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 3:59 | 2023-01-18 | 2023-03-16 |
 | [Toka](https://open.spotify.com/track/0TAk7FFpkREMlKOO30iyrK) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Versus](https://open.spotify.com/album/4ERUL5x8fPIOFZVYfcobbA) | 3:21 | 2024-09-07 | 2025-03-21 |

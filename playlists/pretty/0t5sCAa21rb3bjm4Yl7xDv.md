@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain](/playlists/plain/0t5sCAa21rb3bjm4Yl7xDv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0t5sCAa21rb3bjm4Yl7xDv)
 
-### [POP HITS 2025 \(TOP 100 SONGS\)](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
+### [POP HITS 2025 \(BEST 100 SONGS\)](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
 > pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 78,358 likes - 98 songs - 5 hr 12 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 78,344 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 97 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 | 98 | [Close To You](https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:45 |
 
-Snapshot ID: `AAA8nvK27QgaCVJl5ucXMY/q7fetrg8u`
+Snapshot ID: `AAA8nxOKj/KdyMH0SW1nm9RTrc7cjTJJ`

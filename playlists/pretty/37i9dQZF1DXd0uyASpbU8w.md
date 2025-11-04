@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Vigro Deep, Blxckie & Cassper Nyovest, Florence + The Machine and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,197 likes - 79 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,236 likes - 79 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

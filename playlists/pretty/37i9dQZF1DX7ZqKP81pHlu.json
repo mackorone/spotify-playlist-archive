@@ -1,13 +1,29 @@
 {
   "description": "The hottest 50 tracks in Algeria. Cover: Numidia Lezoul",
-  "num_followers": 150080,
+  "num_followers": 150107,
   "original_name": "Hot Hits Algeria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOSk1gMM2/2iHmCBvlxw0Ay3z5no",
+  "snapshot_id": "AAAAALRzFmwbaVQ7VOi8aRz2q3Utdhl5",
   "tracks": [
+    {
+      "added_at": "2025-11-03 05:29:15",
+      "album": {
+        "name": "SAYGA",
+        "url": "https://open.spotify.com/album/67OggBaHeH1P5kflZop6w6"
+      },
+      "artists": [
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "duration_ms": 185711,
+      "name": "SAYGA",
+      "url": "https://open.spotify.com/track/0sph6B02DsRCAkKpMhOT3P"
+    },
     {
       "added_at": "2025-10-07 06:44:11",
       "album": {
@@ -483,26 +499,6 @@
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"
-    },
-    {
-      "added_at": "2025-10-07 06:44:11",
-      "album": {
-        "name": "WESH BB",
-        "url": "https://open.spotify.com/album/1z8xpR4QQlRMbM8S24I7kB"
-      },
-      "artists": [
-        {
-          "name": "Didine Canon 16",
-          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
-        },
-        {
-          "name": "Mc Artisan",
-          "url": "https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S"
-        }
-      ],
-      "duration_ms": 184723,
-      "name": "WESH BB",
-      "url": "https://open.spotify.com/track/25oNBSF8dQlwfi9teKIJAs"
     },
     {
       "added_at": "2025-10-07 06:44:11",

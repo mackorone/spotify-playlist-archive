@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Skaai
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,913 likes - 104 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,905 likes - 104 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

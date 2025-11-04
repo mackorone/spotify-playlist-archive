@@ -1,13 +1,33 @@
 {
   "description": "Best of the EDM scene in India. Cover- Ritviz",
-  "num_followers": 36984,
+  "num_followers": 36997,
   "original_name": "EDM in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKRUvTSXKUPpBv56Hi84fckj+m7",
+  "snapshot_id": "AAAAANPqFSqoNnrqy7/5GOdrz4xcmWn1",
   "tracks": [
+    {
+      "added_at": "2025-11-03 05:42:03",
+      "album": {
+        "name": "Bazaar",
+        "url": "https://open.spotify.com/album/11xFfqLQzdhuQtFGkopdEb"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Anyasa",
+          "url": "https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd"
+        }
+      ],
+      "duration_ms": 363847,
+      "name": "Bazaar",
+      "url": "https://open.spotify.com/track/4hkCTxmPXuFKveumJVcnEW"
+    },
     {
       "added_at": "2025-10-25 16:27:56",
       "album": {

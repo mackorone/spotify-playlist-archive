@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 36 | [Sauvignon](https://open.spotify.com/track/0VHXix8h9flwMdJajrKhnT) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Sauvignon](https://open.spotify.com/album/6UlrKixl15syjZiSsfI0qE) | 2:39 |
 | 37 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 |
 | 38 | [Slaaptekort](https://open.spotify.com/track/3p2Z2ql0Lh5Ywa6sfQOjlC) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Slaaptekort](https://open.spotify.com/album/63rceqrBYQJBdpOXheMZmU) | 2:26 |
-| 39 | [Bitter Candy](https://open.spotify.com/track/4R9axL2QnBhy2Lz2REGLTt) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 3:06 |
-| 40 | [LOS](https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [LOS](https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5) | 3:14 |
+| 39 | [LOS](https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [LOS](https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5) | 3:14 |
+| 40 | [Bitter Candy](https://open.spotify.com/track/4R9axL2QnBhy2Lz2REGLTt) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 3:06 |
 | 41 | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/track/3QB4Avw7a95SEl7WnuGLyI) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Thomas Helsloot](https://open.spotify.com/artist/4pVfQbm8g4tMztNgXoHTYL) | [Sum Like That \(feat\. Sigourney K\)](https://open.spotify.com/album/2UIKMONyNKHiutdSlXhaMd) | 2:53 |
 | 42 | [Take It Like a Man](https://open.spotify.com/track/3XkbXbLu9TQensKNdwgQ5u) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 2:50 |
 | 43 | [Je Weet Ik Ben Een Slodder \(feat\. Sigourney\)](https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Sigourney](https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ) | [Je Weet Ik Ben Een Slodder \- Single](https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 49 | [Huilen In De Club](https://open.spotify.com/track/76w2a0YoSkeRlSemAewu6q) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:55 |
 | 50 | [Blockparty](https://open.spotify.com/track/40sZ1V8JA1vxH4WdYewQax) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6ydoCDUdefP6cDRFzLQQWd) | 3:35 |
 
-Snapshot ID: `AcAisgAAAAAiK78gPgCSxBdwiQMT+55H`
+Snapshot ID: `AcAoZgAAAAB+aOirs5ALnxypkkYtzxyS`

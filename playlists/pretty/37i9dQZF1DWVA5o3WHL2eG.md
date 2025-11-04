@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,883 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,878 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
 | 24 | [wo & wann](https://open.spotify.com/track/7rAEucGJHqT7YLoIppfg4F) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [wo & wann](https://open.spotify.com/album/0brmZ8AwConnQLjQxmxF6E) | 2:32 |
 | 25 | [Glow](https://open.spotify.com/track/7wR04K3JSaRJPO3D0f5fnx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 2:45 |
-| 26 | [Verlier Mich](https://open.spotify.com/track/4lvvLeeiKvsOPglkOXWowx) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [wenn ich groß bin, will ich alles werden außer alt](https://open.spotify.com/album/6XGCSVoJkjrRJCAg53I1jQ) | 3:30 |
-| 27 | [beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [beine spüren](https://open.spotify.com/album/1u1SE1QyQgbP4A7KhTF1cF) | 2:52 |
+| 26 | [beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [beine spüren](https://open.spotify.com/album/1u1SE1QyQgbP4A7KhTF1cF) | 2:52 |
+| 27 | [Verlier Mich](https://open.spotify.com/track/4lvvLeeiKvsOPglkOXWowx) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [wenn ich groß bin, will ich alles werden außer alt](https://open.spotify.com/album/6XGCSVoJkjrRJCAg53I1jQ) | 3:30 |
 | 28 | [Girls Like Girls](https://open.spotify.com/track/56ar3rohKTZkk6ALA9jDk3) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Girls Like Girls](https://open.spotify.com/album/6eoKHDGL3Ey9Svw5zhEX3Z) | 2:14 |
-| 29 | [Hauptsache easy](https://open.spotify.com/track/0gUZPIUdHnpvSuQ3IyRtBZ) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Hauptsache easy](https://open.spotify.com/album/4mZBtGBI7O9pidY4Q2hmuU) | 2:52 |
-| 30 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
+| 29 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
+| 30 | [Hauptsache easy](https://open.spotify.com/track/0gUZPIUdHnpvSuQ3IyRtBZ) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Hauptsache easy](https://open.spotify.com/album/4mZBtGBI7O9pidY4Q2hmuU) | 2:52 |
 | 31 | [Neongrün & Rosarot](https://open.spotify.com/track/4y9VSm4QHqkyNY2DPnBtmG) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Neongrün & Rosarot](https://open.spotify.com/album/6s5neNtSQjaAclQ1BKCD06) | 3:02 |
 | 32 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 |
 | 33 | [Du kannst nicht gut allein sein](https://open.spotify.com/track/2ZPIyzwaJ1fDdGdlqBq7Cy) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Du kannst nicht gut allein sein](https://open.spotify.com/album/0GdCyhce60HcUmnUugZV6W) | 3:03 |

@@ -4,7 +4,7 @@
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-98 songs - 8 hr 4 min
+99 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [The Importance Of Being Idle](https://open.spotify.com/track/2RUfZnDBLgXeO2A1XOj0ss) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:39 | 2022-01-11 |  |
 | [The Masterplan](https://open.spotify.com/track/0g1Y10aIIdJDkcSEuAq51k) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 5:22 | 2023-10-10 |  |
 | [The Shock Of The Lightning](https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:59 | 2022-01-11 |  |
+| [The Swamp Song \(Excerpt 1\) \- Remastered](https://open.spotify.com/track/1ySErNCwCKqKIgB4SBlrOP) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6) | 0:44 | 2025-11-04 |  |
 | [Turn Up The Sun](https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:59 | 2022-01-20 |  |
 | [Up In The Sky \- Monnow Valley Version](https://open.spotify.com/track/09PXFjvDB0uB4jYEuu70N3) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Up In The Sky \(Monnow Valley Version\)](https://open.spotify.com/album/0aLybeSnxTwUCI1AB2pA9E) | 4:57 | 2024-07-17 | 2024-08-30 |
 | [Up In The Sky \- Remastered](https://open.spotify.com/track/10fOKTNaGzajbX5SdS00Ut) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:28 | 2022-01-21 | 2024-07-05 |

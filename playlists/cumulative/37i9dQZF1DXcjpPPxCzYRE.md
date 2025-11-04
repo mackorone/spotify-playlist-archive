@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-446 songs - 1 day 1 hr 31 min
+447 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Cambios](https://open.spotify.com/track/2pehRZBrGUQrsAnnyG02ET) | [Mario Diaz](https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh), [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw) | [Cambios](https://open.spotify.com/album/1JgQALH4p7iOtrcJPHrYqD) | 3:23 | 2024-04-11 | 2024-06-22 |
 | [Caminar Sobre la Luna](https://open.spotify.com/track/2ETIE8drnfLbnj12WuvvcT) | [Lina de Sol](https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK) | [de Sol en Sol](https://open.spotify.com/album/16ugOIf3psA88gt1oqFtpf) | 3:36 | 2025-10-03 |  |
 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 | 2023-08-18 | 2024-03-23 |
-| [Canción de Cuna para Gabriel y Nicolás \- Tema incluído en la Banda Sonora Original "Blue & Malone Casos Imposibles"](https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Canción de Cuna para Gabriel y Nicolás \(Tema incluído en la Banda Sonora Original Blue & Malone Casos Imposibles\)](https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR) | 3:15 | 2024-06-06 |  |
+| [Canción de Cuna para Gabriel y Nicolás \- Tema incluído en la Banda Sonora Original "Blue & Malone Casos Imposibles"](https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Canción de Cuna para Gabriel y Nicolás \(Tema incluído en la Banda Sonora Original Blue & Malone Casos Imposibles\)](https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR) | 3:15 | 2024-06-06 | 2025-11-04 |
 | [Canción de Despedida](https://open.spotify.com/track/0aiLg6zGgeNoNYqk0e4d4m) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [El Camino](https://open.spotify.com/album/720mOOPxxpzDogAwBGOY9q) | 4:13 | 2023-10-26 | 2024-02-09 |
 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 | 2024-10-01 | 2025-09-19 |
 | [Caramelo](https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:25 | 2022-11-11 | 2025-09-19 |
@@ -219,6 +219,7 @@
 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 | 2023-10-16 | 2023-12-30 |
 | [La ventanita](https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [La ventanita](https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS) | 4:15 | 2024-04-11 | 2025-03-21 |
 | [La vie en rose \- Single Version](https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p) | 3:24 | 2022-11-11 | 2024-02-09 |
+| [Laberinto](https://open.spotify.com/track/4WLGsU96rAlEhWZi2i69SU) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Ocurrimos Lejos](https://open.spotify.com/album/4rrgSh5DbT22n2GdL8eCiE) | 3:04 | 2025-10-30 |  |
 | [Leaveyourlove \(with MARO\)](https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Leaveyourlove \(with MARO\)](https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9) | 3:34 | 2024-12-23 |  |
 | [Lejos De Más](https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Lejos De Más](https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf) | 4:06 | 2025-01-03 |  |
 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 | 2024-05-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80185,
+  "num_followers": 80180,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQVNgAAAAACW6NLc4iOn/i5EhMFhk+e9",
+  "snapshot_id": "aQafAAAAAAB8Hl/desh7lyFMh9FWUBI9",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "No Man's Woman",
-      "url": "https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enemy of the Enemy (Remastered)",
         "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 295040,
       "name": "1000 Mirrors",
       "url": "https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "No Man's Woman",
+      "url": "https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Emma's Song",
-      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
         "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Mountain Thyme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm"
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 216892,
-      "name": "I\u2019ll Be Singing",
-      "url": "https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT"
+      "duration_ms": 201826,
+      "name": "Emma's Song",
+      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
     },
     {
       "added_at": null,
@@ -675,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Across The Borderline",
-        "url": "https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp"
+        "name": "Wild Mountain Thyme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm"
       },
       "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 418226,
-      "name": "Don't Give Up (feat. Sin\u00e9ad O'Connor)",
-      "url": "https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM"
+      "duration_ms": 216892,
+      "name": "I\u2019ll Be Singing",
+      "url": "https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 206880,
       "name": "8 Good Reasons",
       "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Across The Borderline",
+        "url": "https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 418226,
+      "name": "Don't Give Up (feat. Sin\u00e9ad O'Connor)",
+      "url": "https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM"
     },
     {
       "added_at": null,

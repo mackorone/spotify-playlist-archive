@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Los \u00e9xitos del Dembow. Portada: Arlene MC",
+  "description": "Los \u00e9xitos del Dembow. Portada: El Alfa",
   "name": "Dembow Pegao",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 143349,
       "name": "Bailalo Rocky",
       "url": "https://open.spotify.com/track/2nKdvC22Nbra2MZVKY1Srf"
@@ -990,6 +990,32 @@
       "duration_ms": 134565,
       "name": "Boy Boy",
       "url": "https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B"
+    },
+    {
+      "album": {
+        "name": "Bum Bum",
+        "url": "https://open.spotify.com/album/0tb91KS25kJgIYEOUuRFwT"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169336,
+      "name": "BUM BUM",
+      "url": "https://open.spotify.com/track/2rZFlwRuJbAbEK6JQ4UYyN"
     },
     {
       "album": {

@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Biguine pour Ahoefa",
+        "url": "https://open.spotify.com/album/0xcxaUMHnOVfmGMXxQTI7a"
+      },
+      "artists": [
+        {
+          "name": "Lune Br\u00fbl\u00e9e",
+          "url": "https://open.spotify.com/artist/30Kkab3lfweFQ6RrHN5ogu"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204551,
+      "name": "Biguine pour Ahoefa",
+      "url": "https://open.spotify.com/track/2XiqESjgfqCkySHdlio7ad"
+    },
+    {
+      "album": {
         "name": "Bistro Fada",
         "url": "https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ"
       },
@@ -653,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Chacun sa croix",
+        "url": "https://open.spotify.com/album/7a6i1kzrDvH8gH2fqXKhjJ"
+      },
+      "artists": [
+        {
+          "name": "Notes de Nuit",
+          "url": "https://open.spotify.com/artist/5tLk5smZqsZZ4mgpmBR3pS"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174519,
+      "name": "Chacun sa croix",
+      "url": "https://open.spotify.com/track/3nIpWpWACgvoGyxx3wI9O3"
+    },
+    {
+      "album": {
         "name": "Vall\u00e9e Fleurie",
         "url": "https://open.spotify.com/album/5x7vEsluoexnpCH0T5dE37"
       },
@@ -736,7 +772,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 195391,
       "name": "Coquette",
       "url": "https://open.spotify.com/track/5XeaVWbqR2qst9AE7CY64k"
@@ -758,7 +794,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 242066,
       "name": "Corinne",
       "url": "https://open.spotify.com/track/6W8cg08lZU9JnndwYtEhTS"
@@ -1968,7 +2004,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 205043,
       "name": "la paix dans le monde, tout \u00e7a\u2026",
       "url": "https://open.spotify.com/track/4nMZlRtZyhoLyrSJrw5J5Y"
@@ -2120,7 +2156,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 182474,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/2U0WWWzYhnFieMhO9ONB1F"
@@ -2668,7 +2704,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 257418,
       "name": "mon petit caf\u00e9 en terrasse",
       "url": "https://open.spotify.com/track/6M8gkXejsFG7i1xGiUvBqM"
@@ -3647,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Simple Swing",
+        "url": "https://open.spotify.com/album/3RngTlA5W3KQUQmdFQF0F6"
+      },
+      "artists": [
+        {
+          "name": "Le Quintette Bleu",
+          "url": "https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127478,
+      "name": "Simple Swing",
+      "url": "https://open.spotify.com/track/6aIbLuicVL1duWs97oZ1cq"
+    },
+    {
+      "album": {
         "name": "Sometime Ago",
         "url": "https://open.spotify.com/album/3kyIBZMvMKerwf85pCEBHo"
       },
@@ -3902,10 +3956,28 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-04",
       "duration_ms": 192423,
       "name": "Suzette",
       "url": "https://open.spotify.com/track/15G8JWzGHoxH7vryK5v2g4"
+    },
+    {
+      "album": {
+        "name": "Swing detox",
+        "url": "https://open.spotify.com/album/3flGXeJ4zqqSKdlR64PTzF"
+      },
+      "artists": [
+        {
+          "name": "Le Quintette Bleu",
+          "url": "https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247593,
+      "name": "Swing detox",
+      "url": "https://open.spotify.com/track/7jqVzbrbcy3I8qFlnJl3ZZ"
     },
     {
       "album": {
@@ -3942,6 +4014,24 @@
       "duration_ms": 208834,
       "name": "Swing Mocinateur",
       "url": "https://open.spotify.com/track/3dEX65c5OjLVdelCnBFSbr"
+    },
+    {
+      "album": {
+        "name": "Swing Parisien",
+        "url": "https://open.spotify.com/album/6nsGz9H8fun1aaydktdP2l"
+      },
+      "artists": [
+        {
+          "name": "George Laffitte",
+          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169584,
+      "name": "Swing Parisien",
+      "url": "https://open.spotify.com/track/1buoPIkULZPuxAyKMveXtE"
     },
     {
       "album": {
@@ -4310,6 +4400,24 @@
       "duration_ms": 142627,
       "name": "Valse Des Niglos",
       "url": "https://open.spotify.com/track/0lHWKbBlhz3uzdFN5GGOT8"
+    },
+    {
+      "album": {
+        "name": "Valse du chignon",
+        "url": "https://open.spotify.com/album/3HlMzsJ7YS9Gt0hX0l9TVC"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9andre Porcher Orchestra",
+          "url": "https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126516,
+      "name": "Valse du chignon",
+      "url": "https://open.spotify.com/track/6oBgyC4xuXj8XLr6S5WojN"
     },
     {
       "album": {

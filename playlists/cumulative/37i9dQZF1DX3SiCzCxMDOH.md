@@ -4,12 +4,12 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-982 songs - 2 day 9 hr 34 min
+984 songs - 2 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/5rVp4lUeVnreDokWtWJ08a) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | ['Round Midnight](https://open.spotify.com/album/21hu6rdw1Tj3lake6poRGg) | 3:34 | 2023-05-25 | 2024-05-24 |
-| [3AM Streetlights](https://open.spotify.com/track/03lXwy5ucjHOyy9f5AkDlV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [3AM Streetlights](https://open.spotify.com/album/46DuAyoOCDbgQtfWOfBqWx) | 3:21 | 2025-05-19 |  |
+| [3AM Streetlights](https://open.spotify.com/track/03lXwy5ucjHOyy9f5AkDlV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [3AM Streetlights](https://open.spotify.com/album/46DuAyoOCDbgQtfWOfBqWx) | 3:21 | 2025-05-19 | 2025-11-04 |
 | [A Beat of Silence](https://open.spotify.com/track/5oasqNWMB5buZMMwfajfkL) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [A Beat of Silence](https://open.spotify.com/album/2Iw1FTue40CHiWj6H8uq7b) | 3:41 | 2025-10-07 |  |
 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-28 | 2024-04-19 |
 | [A Better Place](https://open.spotify.com/track/7JfORZg3Tvn0YyDZCiGhMU) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/0BIRayldwphnBlwreGKihM) | 2:13 | 2022-11-10 | 2022-11-13 |
@@ -326,7 +326,7 @@
 | [Hidden Moments](https://open.spotify.com/track/5yBFrGhWL5x4yZCTZRaxqO) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Hidden Moments](https://open.spotify.com/album/3RWGN2dQArQ3aIlZH01GCx) | 4:21 | 2025-02-24 |  |
 | [Hills Are Green](https://open.spotify.com/track/4qo2GCWvoq0FOwB09BYNn0) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Hills Are Green](https://open.spotify.com/album/7JxpIeshWJtSBR4SqN0D4B) | 4:09 | 2022-12-01 | 2025-07-02 |
 | [Holding Onto Dawn](https://open.spotify.com/track/27yLQgeE70oyihRLEorqRy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Holding Onto Dawn](https://open.spotify.com/album/0JNJYL6httnFWoLYXh6JAE) | 3:14 | 2024-03-08 |  |
-| [Holograms](https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Holograms](https://open.spotify.com/album/32TK2PRS6wBvm4JIM9DdNk) | 3:52 | 2023-02-23 |  |
+| [Holograms](https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Holograms](https://open.spotify.com/album/32TK2PRS6wBvm4JIM9DdNk) | 3:52 | 2023-02-23 | 2025-11-04 |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 | 2025-04-16 |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 | 2025-06-06 |
 | [Homebound](https://open.spotify.com/track/7obaAm9tRqarKIJ1JsRelQ) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Homebound](https://open.spotify.com/album/55PXw2IMn0zVQ9DrjEmYnu) | 3:29 | 2022-08-10 | 2024-05-24 |
@@ -389,6 +389,7 @@
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-04-11 | 2023-01-13 |
 | [If I Ask You Now?](https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [If I Ask You Now?](https://open.spotify.com/album/6ntxSpTO4JPirtRAZ0SFQH) | 3:26 | 2023-09-29 | 2025-08-20 |
 | [If I could just go back](https://open.spotify.com/track/6GqR4kbLTMfwJ2hFDZclMv) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [If I could just go back](https://open.spotify.com/album/6pt2EdumSP5OK6gyUEXnaH) | 2:59 | 2023-01-19 | 2025-03-25 |
+| [If You & I](https://open.spotify.com/track/4if0PZ2yt6r8PTOHHy9bZP) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [If You & I](https://open.spotify.com/album/5hdgLxWOdgZGJaqTPOLiku) | 2:49 | 2025-11-03 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 | 2025-02-25 |
 | [If You Could See Me Now](https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [If You Could See Me Now](https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm) | 4:15 | 2022-08-10 | 2023-03-03 |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2022-04-11 | 2025-04-05 |
@@ -932,6 +933,7 @@
 | [When All Was Said and Done](https://open.spotify.com/track/4RTUdqbqiuKJ3cu7PBvScU) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [When All Was Said and Done](https://open.spotify.com/album/2RD4jX3CYtP6pvuNAnLqPi) | 4:35 | 2022-05-17 | 2024-07-16 |
 | [When I Fall In Love](https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [When I Fall In Love](https://open.spotify.com/album/6rCnmJjhEashCYVazkSK7g) | 4:49 | 2022-04-11 | 2025-03-19 |
 | [When I Was Yours](https://open.spotify.com/track/4xoijX1lySMC1oeffLMwxy) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [When I Was Yours](https://open.spotify.com/album/0s7ihgzcnczatG62r5PI41) | 3:43 | 2025-08-28 |  |
+| [When Silence Speaks](https://open.spotify.com/track/36kEtyMYuf6rIcDRDB7u8F) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [When Silence Speaks](https://open.spotify.com/album/2PiLhlUYUDzuAdDIv6Wv9f) | 3:08 | 2025-11-03 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2022-04-11 | 2024-05-24 |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 | 2025-09-24 |
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 | 2024-06-12 |
