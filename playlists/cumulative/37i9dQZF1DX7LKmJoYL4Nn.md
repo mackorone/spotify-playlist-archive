@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-205 songs - 13 hr 25 min
+206 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,8 +190,9 @@
 | [夢見るアーキテクチャ](https://open.spotify.com/track/4dt6rT3qvwRR0i3jHb2bsT) | [影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/7qBy7Y8N9KcQ8DDbwtezqM) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie](https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF) | 3:41 | 2024-08-19 | 2024-11-16 |
 | [天下無敵☆メテオレンジャー!](https://open.spotify.com/track/1XFWiQILHnJqrMn2i6PDDD) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 4:27 | 2024-04-26 |  |
 | [天翔KAGETSU](https://open.spotify.com/track/30oVnFACmUWY6T0p4bpIIv) | [紅月](https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs), [滝 維吹](https://open.spotify.com/artist/6cJawTUAmqxwEPd9NHHnvs), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [紅月 with 滝 維吹「天翔KAGETSU」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/6l6hNNK95i6rVQkCmbi20R) | 4:04 | 2024-12-30 |  |
+| [始まりのファンタジア](https://open.spotify.com/track/1f7iTXYBjiNGkascBy9r6I) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 \(vol.3\)](https://open.spotify.com/album/37RXOBxM051XIM195TlyXM) | 3:39 | 2025-10-28 |  |
 | [幸せの歌](https://open.spotify.com/track/6qu4fgyaEmfv4Pw1CHpjmX) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar](https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7) | 4:50 | 2024-04-26 | 2024-12-10 |
-| [指先のアリアドネ](https://open.spotify.com/track/0m4Fozv8EttrtJcFFPj5PR) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [Crazy:B「指先のアリアドネ」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/6GdnM9XjuFotzIXuCsirrO) | 4:38 | 2024-04-26 |  |
+| [指先のアリアドネ](https://open.spotify.com/track/0m4Fozv8EttrtJcFFPj5PR) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [Crazy:B「指先のアリアドネ」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/6GdnM9XjuFotzIXuCsirrO) | 4:38 | 2024-04-26 | 2025-11-05 |
 | [明星 スバルが『BRIGHTEST STARS!!』を紹介！](https://open.spotify.com/track/07ZJQdALK4lCOU45KxLVLF) | [明星 スバル（CV.柿原 徹也）](https://open.spotify.com/artist/3nwvCmjEvYk1hVRgK1dNao) | [明星 スバルが『BRIGHTEST STARS!!』を紹介！](https://open.spotify.com/album/4KywI9Pp5rULoGxbh4vbJ7) | 0:48 | 2025-04-24 |  |
 | [星の鳴動響きし時に](https://open.spotify.com/track/4HfzaFfOFv2zIAzXT37LC6) | [Valkyrie](https://open.spotify.com/artist/5IBPK72CczyOeFkx6iKQUM), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Valkyrie「星の鳴動響きし時に」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/0oTq1rLPPyyOmjIqEY0km5) | 6:19 | 2025-01-14 |  |
 | [月光奇譚](https://open.spotify.com/track/705LiBmCJHgFJaOj2bEiEE) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [紅月「月光奇譚」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/069zrfaEQIbpcoLh2YX5kH) | 4:23 | 2025-01-14 | 2025-09-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Vigro Deep, Blxckie & Cassper Nyovest, Florence + The Machine and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,236 likes - 79 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,277 likes - 79 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 62 | [Double Trouble](https://open.spotify.com/track/76tfvcqrLczxHTYRvKibzT) | [uLazi](https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l), [Mender\_ZA](https://open.spotify.com/artist/2VwubNCwsSIRvtmKGITrH3), [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Soul Da Dj](https://open.spotify.com/artist/6bZvDkY5nHTU1Z0lc9m7Ee) | [Wethu Feel](https://open.spotify.com/album/49pHJjFBFcGUhTI2VxJiul) | 6:05 |
 | 63 | [Be The World](https://open.spotify.com/track/0ObaAzs0qiJAnxQS0uHMyx) | [LaFlareboi](https://open.spotify.com/artist/0JKnOw6WZsfXaUo0f8fGpY) | [RESILIENT.](https://open.spotify.com/album/5zzO4R5BkqGWtLdk4UcMWY) | 3:19 |
 | 64 | [Deep End](https://open.spotify.com/track/5oMXTGoJgQZdyAJiXGxFGR) | [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [Deep End](https://open.spotify.com/album/4tRbeG7UKDbSu5TZdzU5Da) | 2:23 |
-| 65 | [Drip On Me](https://open.spotify.com/track/7LUraY0nNsr4L7vQibrpGn) | [Lord Script](https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua), [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi) | [The Undeniable EP](https://open.spotify.com/album/7wparWle64jAVJck1hBGfi) | 3:21 |
+| 65 | [Drip On Me](https://open.spotify.com/track/7LUraY0nNsr4L7vQibrpGn) | [Lord Script](https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua), [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi) | [The Undeniable EP](https://open.spotify.com/album/7wparWle64jAVJck1hBGfi) | 3:11 |
 | 66 | [Intro](https://open.spotify.com/track/5YTG4zYBkmF0CfmzvBDwNg) | [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh) | [YUNGBOY’$ REVENGE 5](https://open.spotify.com/album/3Ig0qEbDqWVxSjcYQ4jrW4) | 1:50 |
 | 67 | [Dark Sky](https://open.spotify.com/track/0gl9O5myVxkcsEyokJA4wf) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Dark Sky](https://open.spotify.com/album/4nYSo0LX92j7yAs0DJqAfA) | 1:58 |
 | 68 | [Up so late](https://open.spotify.com/track/0NnTD4mnfXVPC5kXbX0A1B) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6), [Cindii Masina](https://open.spotify.com/artist/4mh4cMpsxH7elAqheOtTf5) | [Up so late](https://open.spotify.com/album/5MM1ok2a7NfFHpkLB0HKCG) | 3:46 |

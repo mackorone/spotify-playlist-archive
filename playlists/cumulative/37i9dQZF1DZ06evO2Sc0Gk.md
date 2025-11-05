@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-155 songs - 7 hr 47 min
+156 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Life Is Eazi](https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 4:04 | 2024-04-01 |  |
 | [London Town](https://open.spotify.com/track/1SBlzntln0kxEHrnkko11q) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:20 | 2024-12-28 | 2025-11-01 |
 | [London Town](https://open.spotify.com/track/5vsSSc33nKJhWRCrhZvCJa) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [London Town](https://open.spotify.com/album/0t9l8uAl9VLOehg4p10zN6) | 3:20 | 2021-12-31 | 2022-09-21 |
-| [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 | 2025-05-11 |  |
+| [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 | 2025-05-11 | 2025-11-05 |
+| [Love Me Now](https://open.spotify.com/track/7z6IhNr7jIoW5WhC3UMdTq) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Maison Rouge](https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I) | 2:25 | 2025-11-05 |  |
 | [Love Struck \(feat\. Tiwa Savage & Mr Eazi\)](https://open.spotify.com/track/6wO8AzCOhutr1QwfwFcmZb) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [DOU3LE 3AK](https://open.spotify.com/album/0K8bvnLpHb5dW1RRQJQqkZ) | 3:34 | 2021-12-28 | 2022-10-13 |
 | [Make E No Tey](https://open.spotify.com/track/1HG1EuikzwOyMu1jWGQj6L) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Maison Rouge](https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I) | 3:25 | 2025-11-01 |  |
 | [Mandela](https://open.spotify.com/track/4KsipOlFHPF7Qo29auvXXL) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:40 | 2023-11-10 | 2024-04-08 |

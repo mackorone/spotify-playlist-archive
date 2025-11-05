@@ -4,11 +4,12 @@
 
 > This is Irv Gotti\. The essential tracks, all in one playlist.
 
-19 songs - 1 hr 7 min
+20 songs - 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All I Know \(feat\. Irv Gotti\)](https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0) | [Shade Sheist](https://open.spotify.com/artist/6E8pGolyeInc820eQQak70), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Informal Introduction OG](https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd) | 4:42 | 2025-03-11 |  |
+| [All I Know \(feat\. Irv Gotti\)](https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56) | [Shade Sheist](https://open.spotify.com/artist/6E8pGolyeInc820eQQak70), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Informal Introduction: Classic Edition](https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO) | 4:40 | 2025-11-05 |  |
+| [All I Know \(feat\. Irv Gotti\)](https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0) | [Shade Sheist](https://open.spotify.com/artist/6E8pGolyeInc820eQQak70), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Informal Introduction OG](https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd) | 4:42 | 2025-03-11 | 2025-11-05 |
 | [Boss \- Skit](https://open.spotify.com/track/2x81bnQVQEqhV0IWIbsMQk) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 0:42 | 2025-03-11 | 2025-11-04 |
 | [Come\-N\-Go](https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 4:29 | 2025-03-11 |  |
 | [Freestyle](https://open.spotify.com/track/751KeVdKlfF8wkZ8rLUHWq) | [Boo](https://open.spotify.com/artist/5Z3tsYTS1kfBUfGjCLXmqy), [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF) | [The Fast and The Furious](https://open.spotify.com/album/7b1Za3lJeLs6rOSi6a5wqf) | 2:52 | 2025-03-11 |  |

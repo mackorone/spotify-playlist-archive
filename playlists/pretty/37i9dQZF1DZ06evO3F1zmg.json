@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42288,
+  "num_followers": 42292,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAAAM806rw/BrsX4/7agdqqX",
+  "snapshot_id": "aQfwgAAAAACsFi4olGwxu/mpbI7nlQ7Q",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLA PRESSURE",
-        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162708,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fast (Motion)",
         "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 170653,
       "name": "Fast (Motion)",
       "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HELLA PRESSURE",
+        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162708,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
     },
     {
       "added_at": null,
@@ -999,22 +999,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Girl (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
+        "name": "K.R.I.T. IZ HERE",
+        "url": "https://open.spotify.com/album/0d8sN1OuLU70PyYVBJzBmG"
       },
       "artists": [
         {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 147386,
-      "name": "That Girl (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
+      "duration_ms": 169944,
+      "name": "Addiction - feat. Lil Wayne & Saweetie",
+      "url": "https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv"
     }
   ],
   "unique_name": "This Is Saweetie",

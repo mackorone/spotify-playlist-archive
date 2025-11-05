@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 801120,
+  "num_followers": 801150,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Spirit's Furnace",
-        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 169254,
-      "name": "Hammers and Nails",
-      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "Whiskey Shivers",
         "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 190906,
       "name": "Graves",
       "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "Spirit's Furnace",
+        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 169254,
+      "name": "Hammers and Nails",
+      "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Psalms",
+      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
         "name": "Another Man\u02bcs Grave",
         "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 164200,
       "name": "Nothing But The Water (I)",
       "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
-      },
-      "artists": [
-        {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Psalms",
-      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "The Dirty River Boys",
-        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty River Boys",
-          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Down by the River",
-      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "The Dirty River Boys",
+        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty River Boys",
+          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Down by the River",
+      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
         "name": "Daughter, Daughter",
         "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 205022,
       "name": "Daughter, Daughter",
       "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-02-28 05:00:51",
       "album": {
-        "name": "Raise Hell",
-        "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 181868,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
         "name": "Let Love In",
         "url": "https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 370573,
       "name": "Red Right Hand",
       "url": "https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "Raise Hell",
+        "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 181868,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1403,6 +1403,22 @@
       "duration_ms": 258373,
       "name": "The Devil & The Huntsman",
       "url": "https://open.spotify.com/track/798DGIdVPsLFXvDblTeM7d"
+    },
+    {
+      "added_at": "2025-02-28 05:00:51",
+      "album": {
+        "name": "A Long Life of Living",
+        "url": "https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "The Railroad",
+      "url": "https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I"
     },
     {
       "added_at": "2025-02-28 05:00:51",
@@ -1503,22 +1519,6 @@
       "duration_ms": 265760,
       "name": "Meet Me In The Alleyway",
       "url": "https://open.spotify.com/track/4qIY8BJt2qBDZT8lm2eFkv"
-    },
-    {
-      "added_at": "2025-02-28 05:00:51",
-      "album": {
-        "name": "A Long Life of Living",
-        "url": "https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "The Railroad",
-      "url": "https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I"
     },
     {
       "added_at": "2025-02-28 05:00:51",

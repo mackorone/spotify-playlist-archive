@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123598,
+  "num_followers": 123604,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABIuddJTImem9tQkBLyZAgW",
+  "snapshot_id": "aQfwgAAAAACB3MI99B5vs5ejLFJIgDC5",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "American Ride",
-      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Walkin'",
         "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
@@ -335,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+        "name": "American Ride",
+        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
       },
       "artists": [
         {
@@ -344,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 200973,
-      "name": "My List",
-      "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
+      "duration_ms": 165693,
+      "name": "American Ride",
+      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
       "duration_ms": 172994,
       "name": "Don't Let the Old Man In",
       "url": "https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "My List",
+      "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "I'm Just Talkin' About Tonight",
-      "url": "https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clancy's Tavern",
         "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 206640,
       "name": "Beers Ago",
       "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "I'm Just Talkin' About Tonight",
+      "url": "https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "If I Was Jesus",
-      "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 214920,
       "name": "Honkytonk U",
       "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "If I Was Jesus",
+      "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
     },
     {
       "added_at": null,

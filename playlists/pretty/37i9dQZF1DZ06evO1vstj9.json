@@ -1,29 +1,13 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 6401,
+  "num_followers": 6408,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABu9bloAja/ujBtZkow6Rlm",
+  "snapshot_id": "aQfwgAAAAADiGvSsQYG82pZlK4PPwgJQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
-    },
     {
       "added_at": null,
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 150048,
       "name": "Damage Control",
       "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Work",
-        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 217304,
-      "name": "Light Work",
-      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 166393,
       "name": "Useless (Without You)",
       "url": "https://open.spotify.com/track/22AbBg7GdbP7sjxQ0SLQZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -199,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
       "artists": [
         {
@@ -208,9 +192,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 167240,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY"
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
       "added_at": null,
@@ -231,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
       "artists": [
         {
@@ -240,9 +224,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 200813,
-      "name": "TLC",
-      "url": "https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9"
+      "duration_ms": 167240,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY"
     },
     {
       "added_at": null,
@@ -259,6 +243,22 @@
       "duration_ms": 165431,
       "name": "Different Too",
       "url": "https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "TLC",
+      "url": "https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 247480,
-      "name": "Ode To Win",
-      "url": "https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 144672,
       "name": "Dull Jewellery",
       "url": "https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 247480,
+      "name": "Ode To Win",
+      "url": "https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Until It's Dust",
-      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 51240,
       "name": "Days!",
       "url": "https://open.spotify.com/track/6VsOaeuFQ2F7Ux3kkvKDa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Until It's Dust",
+      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyway I Can",
-        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Dark Out (Season of Thieves)",
-      "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From 525",
         "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 192520,
       "name": "Untitled (How Does It Feel?) - Live From 525",
       "url": "https://open.spotify.com/track/2YJnUBbDDQ83tPEfAxcVOu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Dark Out (Season of Thieves)",
+      "url": "https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 270013,
-      "name": "Pink Matter - Live From 525",
-      "url": "https://open.spotify.com/track/0KRqUVsBSMTJ5LismVoNv1"
+      "duration_ms": 170333,
+      "name": "Coraline - Live From 525",
+      "url": "https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 170333,
-      "name": "Coraline - Live From 525",
-      "url": "https://open.spotify.com/track/3K5n6dkpyYLlqWuEWiGz20"
+      "duration_ms": 270013,
+      "name": "Pink Matter - Live From 525",
+      "url": "https://open.spotify.com/track/0KRqUVsBSMTJ5LismVoNv1"
     },
     {
       "added_at": null,

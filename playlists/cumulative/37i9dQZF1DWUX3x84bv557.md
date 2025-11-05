@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Danique
 
-1,120 songs - 2 day 5 hr 31 min
+1,121 songs - 2 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Als Je Niet Opneemt](https://open.spotify.com/track/0McDOKwHK9U7p7B1b1Swb6) | [Tomson](https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp) | [Als Je Niet Opneemt](https://open.spotify.com/album/1g5WAOARqJ6jdhvIl3Phou) | 2:53 | 2023-12-08 | 2024-01-05 |
 | [Als Je Nog Wil](https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Als Je Nog Wil](https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d) | 3:23 | 2025-02-27 | 2025-03-21 |
 | [Als Je Voor Me Staat](https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/3dd2TJiNinnH58uCo6etNP) | 3:20 | 2023-02-23 | 2023-04-07 |
-| [Als jij het wil](https://open.spotify.com/track/5aJgRrGYzBF4YO05IX3S5R) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Als jij het wil](https://open.spotify.com/album/08smch6KDBUeSZ0lqU4kfW) | 3:26 | 2025-08-07 |  |
+| [Als jij het wil](https://open.spotify.com/track/5aJgRrGYzBF4YO05IX3S5R) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Als jij het wil](https://open.spotify.com/album/08smch6KDBUeSZ0lqU4kfW) | 3:26 | 2025-08-07 | 2025-11-05 |
 | [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-06 | 2023-05-26 |
 | [Alsjeblieft](https://open.spotify.com/track/7MIJkY9YV5B9YkqrVtumay) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Alsjeblieft](https://open.spotify.com/album/2AxPkec0FVLw1lGxIBotl5) | 2:18 | 2024-11-14 | 2024-12-13 |
 | [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 | 2024-08-29 | 2024-11-08 |
@@ -842,6 +842,7 @@
 | [Salmari & Kreeft](https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Naar De Haaien & Weer Terug](https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg) | 4:22 | 2024-10-03 | 2024-11-22 |
 | [Samen](https://open.spotify.com/track/6R8yIWBiagEoxILhcY1Hnw) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Samen](https://open.spotify.com/album/55XhyytN7FTEHoNiGphKRe) | 2:36 | 2024-05-30 | 2024-06-28 |
 | [Samen](https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Samen](https://open.spotify.com/album/7drCw1YJM30pRxnPrkSFja) | 3:20 | 2024-05-09 | 2024-06-14 |
+| [Samen](https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Samen](https://open.spotify.com/album/7u6sZ1c9u4mDfTfhpgYNSu) | 2:46 | 2025-11-04 |  |
 | [Samen Niets Doen](https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Samen Niets Doen](https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27) | 2:46 | 2023-08-03 | 2023-11-10 |
 | [Samen Zijn We Eén](https://open.spotify.com/track/1Q36IMiHir62ZkdinImepL) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [Unplugged](https://open.spotify.com/album/6Kv3bhL09toCx2K3z0b6n9) | 3:01 | 2024-01-25 | 2024-03-08 |
 | [Samen Één](https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/7jn0vf2mnFQADgZIMcqdSc) | 2:10 | 2024-05-02 | 2024-07-27 |

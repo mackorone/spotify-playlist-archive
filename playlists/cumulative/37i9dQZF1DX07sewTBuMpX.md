@@ -4,7 +4,7 @@
 
 > De beste tunes op repeat\. Cover: Jonna Fraser & Lil Kleine
 
-101 songs - 4 hr 46 min
+102 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 | 2025-07-17 |  |
 | [I Need Your Love](https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [I Need Your Love](https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0) | 2:43 | 2025-07-17 |  |
 | [Ik Heb Je \(met Henkie T & Yssi SB\)](https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Ik Heb Je](https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz) | 3:14 | 2025-07-17 |  |
+| [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 | 2025-10-15 |  |
 | [In De Nacht](https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13) | [In De Nacht](https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0) | 2:30 | 2025-07-17 |  |
 | [Je Bent Leuk](https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Je Bent Leuk](https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt) | 2:02 | 2025-07-17 |  |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2025-07-17 |  |
@@ -88,7 +89,7 @@
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2025-07-17 |  |
 | [Stiekem ‘24](https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Stiekem ‘24](https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr) | 3:08 | 2025-07-17 |  |
 | [Stunten](https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Strandje Aan De Maas](https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA) | 3:26 | 2025-07-17 |  |
-| [Sweety Darling](https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Sweety Darling](https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S) | 3:07 | 2025-07-17 |  |
+| [Sweety Darling](https://open.spotify.com/track/1pT2D94nmsih5N9gqoV5bJ) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Sweety Darling](https://open.spotify.com/album/2NtImoM1XD9dQefEpeQx9S) | 3:07 | 2025-07-17 | 2025-11-05 |
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-09-23 |  |
 | [TE LAAT \(feat\. Zoë Tauran\)](https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [GIOVANNI II](https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA) | 3:10 | 2025-09-23 |  |
 | [The Baddest](https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [The Baddest](https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV) | 2:51 | 2025-07-17 |  |

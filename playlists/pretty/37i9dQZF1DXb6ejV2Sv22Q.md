@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊\.  Bratty en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,808 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,830 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 20 | [Hechizada](https://open.spotify.com/track/1YjeArlLN2rOgZCNfVd9yw) | [JANN.](https://open.spotify.com/artist/2PRKkqwMIWsArc3ABqXtzZ) | [Hechizada](https://open.spotify.com/album/5ynLdWkFGLg4wf2ZysFUgN) | 3:09 |
 | 21 | [BANDI](https://open.spotify.com/track/3st87g6KtXeDrs839fIitj) | [Nava](https://open.spotify.com/artist/4TJTHU3X0zWZi3wrFcOWLF), [ALCA](https://open.spotify.com/artist/2bNnAUTcUhgv6SxTjwwsny) | [La Otra Cara](https://open.spotify.com/album/6bLfEWQ4NWTDItUWVfdOmg) | 2:39 |
 | 22 | [la vuelta](https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [la vuelta](https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD) | 3:19 |
-| 23 | [Fugitivos](https://open.spotify.com/track/6abf0Csa41gdGDnL6p0O9t) | [Javi Gallardo](https://open.spotify.com/artist/6lj8re7deIPyzpcKxAT5Qk), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [BONGZ](https://open.spotify.com/artist/03AQZAEApIo7jGC6CCKmJO) | [Fugitivos](https://open.spotify.com/album/5iA7WdosfvsgV0GCSnmgn3) | 2:30 |
+| 23 | [Fugitivos](https://open.spotify.com/track/6abf0Csa41gdGDnL6p0O9t) | [Javi Gallardo](https://open.spotify.com/artist/6lj8re7deIPyzpcKxAT5Qk), [BONGZ](https://open.spotify.com/artist/03AQZAEApIo7jGC6CCKmJO), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [Fugitivos](https://open.spotify.com/album/5iA7WdosfvsgV0GCSnmgn3) | 2:30 |
 | 24 | [la mala racha](https://open.spotify.com/track/4Swzoi4CXARQwhhDU8kjcw) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Seb Rodríguez](https://open.spotify.com/artist/4EJ8UxTgitlv2YdMFnWRJC) | [la mala racha](https://open.spotify.com/album/0vVykKWkLEiGjJ1RpvUNBK) | 3:08 |
 | 25 | [VETIVER Y AMARETTO](https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [VETIVER Y AMARETTO](https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs) | 4:02 |
 | 26 | [total\[90\]](https://open.spotify.com/track/4CRaFCDWWmXlBt8Oo3t2pK) | [Point Decster](https://open.spotify.com/artist/6ofWq57inP1I2Fr3X08uR7) | [total\[90\]](https://open.spotify.com/album/3paVnyAgRV8OwDkdQEwMG4) | 4:37 |

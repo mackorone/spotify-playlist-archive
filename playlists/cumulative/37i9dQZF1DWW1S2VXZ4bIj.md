@@ -2,9 +2,9 @@
 
 ### [ฮิตติดกระแส](https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj)
 
-> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: YOUNGOHM
+> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: BLVCKHEART
 
-563 songs - 1 day 10 hr 13 min
+565 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 | 2025-07-11 |  |
 | [จังหวะจะรัก](https://open.spotify.com/track/2dhMTwg7O8n4kFYLpCaLC4) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [จังหวะจะรัก](https://open.spotify.com/album/5hjS0mLBF0f59Cq71mgjDe) | 3:40 | 2025-09-05 |  |
 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 | 2024-12-20 |  |
-| [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 | 2024-06-27 |  |
+| [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 | 2024-06-27 | 2025-11-05 |
 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 | 2024-06-27 | 2025-05-02 |
 | [จีบ \(ไม่เก่ง\)](https://open.spotify.com/track/7tJI2CkjAICEzoNO3Y4gex) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [จีบ \(ไม่เก่ง\)](https://open.spotify.com/album/52EeY5TN8V9dX72wys4ID5) | 3:41 | 2025-06-06 | 2025-06-18 |
 | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 | 2025-04-24 | 2025-07-05 |
@@ -440,7 +440,7 @@
 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 | 2025-02-06 |  |
 | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [สัมภเวซี้ \(GFF Ghost Friend Forever\) \[From ซองแดงแต่งผี\]](https://open.spotify.com/album/6PpU1mdpIla4ZCafxgcQad) | 3:22 | 2025-03-12 | 2025-05-17 |
 | [สาริกาลิ้นทอง \(Smooth\-talker\)](https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW), [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [สาริกาลิ้นทอง \(Smooth\-talker\) \- Single](https://open.spotify.com/album/5UGFoT5E3XTctzfOondKRU) | 4:08 | 2024-09-06 |  |
-| [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/track/6pQp49ThiAsKwCl8OWcO4V) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/album/1MHUEhvO4u9sKKKVcUOVRy) | 3:59 | 2025-10-24 |  |
+| [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/track/6pQp49ThiAsKwCl8OWcO4V) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/album/1MHUEhvO4u9sKKKVcUOVRy) | 3:59 | 2025-10-24 | 2025-11-05 |
 | [สิ่งที่เธอทิ้งง่ายที่สุด](https://open.spotify.com/track/75Jyk0TvMndNJ3IMl4YRSe) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG), [JAO YENTED](https://open.spotify.com/artist/7lycdBzDpGzmlQ2glOwa4K) | [สิ่งที่เธอทิ้งง่ายที่สุด](https://open.spotify.com/album/7B2nBELFv0kCW3zUZcBKuA) | 3:26 | 2025-06-13 | 2025-08-16 |
 | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H) | 3:35 | 2024-12-06 | 2025-01-25 |
 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 | 2025-01-24 |  |
@@ -465,6 +465,7 @@
 | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/track/1L2Kyu9eOSz9PVKyUloBM6) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/album/0ptiLoehWeONMaAlbo4ukW) | 3:50 | 2024-08-30 | 2024-09-14 |
 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 | 2025-05-30 |  |
 | [อยากจะบอกเธอว่า..\. \(Prom Queen\)](https://open.spotify.com/track/42EpiyqCD8SlqEy8sdPv3S) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะบอกเธอว่า..\. \(Prom Queen\)](https://open.spotify.com/album/1pPcSFRFqmxBmHcSplLu1l) | 3:42 | 2025-10-02 | 2025-10-18 |
+| [อยากจะมีเธอข้างกาย \(I Told My Father\)](https://open.spotify.com/track/6C0O21H2MXs0jKJrajBGa6) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [BLVCKHEART](https://open.spotify.com/album/77umFOUUMlR0gQH7LEU7EM) | 2:24 | 2025-11-04 |  |
 | [อยู่คนเดียวกับเขา](https://open.spotify.com/track/53LA6FpWz2mGrQVde1vTr9) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [อยู่คนเดียวกับเขา](https://open.spotify.com/album/2Pm2Btrcqr3bhyOLPXRolY) | 3:45 | 2024-08-23 | 2024-09-20 |
 | [อยู่ดีๆก็อ่อนแอ \(My Weakness is You\)](https://open.spotify.com/track/5Kw1ljNGHNZy8xmPn81QyH) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [Emotional Rollercoaster](https://open.spotify.com/album/7x6Rqd74OhtmCkipVZ31FM) | 2:56 | 2024-10-04 | 2024-10-19 |
 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 | 2024-08-02 |  |
@@ -542,6 +543,7 @@
 | [ใครก็ได้แต่… \(Millions People\)](https://open.spotify.com/track/1SA1i9nvKnHPnXLAypWn0P) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ใครก็ได้แต่… \(Millions People\) \- Single](https://open.spotify.com/album/4A5VExjPRQ6mimgU1lu2Dq) | 2:41 | 2024-06-27 | 2024-07-06 |
 | [ใครสักคน \( SOMEBODY's ME \)](https://open.spotify.com/track/6hhiComLULoPZkEnFPI6Tf) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [MAI ME](https://open.spotify.com/album/44K6O0hh0sy64tJsVX9AN3) | 3:58 | 2025-06-25 | 2025-07-12 |
 | [ใจจงมั่น Ost.เขมจิราต้องรอด](https://open.spotify.com/track/20RqncLIMkPObeDBgCtl0X) | [ปราง ปรางทิพย์](https://open.spotify.com/artist/2uLHnWXJesP4riw8ripPWN), [KENG HARIT](https://open.spotify.com/artist/1WSgf7mAZ7E1Fj7toVGXPe) | [ใจจงมั่น Ost.เขมจิราต้องรอด](https://open.spotify.com/album/2I9yJzIpUHX4S8s4ZAQb5n) | 4:10 | 2025-08-29 | 2025-09-12 |
+| [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 | 2025-11-04 |  |
 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 | 2024-06-27 | 2025-07-12 |
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-06-27 | 2024-08-28 |
 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 | 2024-06-27 | 2024-10-26 |

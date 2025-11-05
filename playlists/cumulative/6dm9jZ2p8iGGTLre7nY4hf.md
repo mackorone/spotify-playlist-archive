@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-485 songs - 1 day 3 hr 25 min
+487 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 | 2024-04-02 | 2025-03-14 |
 | [Before You Go](https://open.spotify.com/track/2Z8IDSvVsodUfZs3Zvm1yK) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [NOW That's What I Call Music! 105](https://open.spotify.com/album/72Pb59x7KkEf3r1LpNb1IW) | 3:35 | 2025-07-24 |  |
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2025-03-26 | 2025-07-25 |
+| [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-11-04 |  |
 | [Best Thing I Never Had](https://open.spotify.com/track/1i2zpmV4dQvngHZx6u7Pe6) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Break Up Songs](https://open.spotify.com/album/4d6jNVUcYZsdbtNUMtgwFT) | 4:13 | 2023-09-15 | 2025-03-14 |
 | [Better](https://open.spotify.com/track/2Dwglymon3tL9rXIiPe38F) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/6D6ezFGOgKcxsS6ND5w1ve) | 3:24 | 2023-09-15 | 2025-03-14 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2023-09-15 | 2025-03-14 |
@@ -396,6 +397,7 @@
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2025-03-26 |  |
 | [Talking to Myself](https://open.spotify.com/track/2SY4ep4NQaArath0ze4gTg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 3:59 | 2023-09-15 | 2025-03-14 |
 | [Tears](https://open.spotify.com/track/3YX3I8UulsrmAvYoJl6vaZ) | [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Tears](https://open.spotify.com/album/6VfICs53uX733RIiIXieEh) | 3:18 | 2023-09-15 | 2025-03-14 |
+| [ten years time](https://open.spotify.com/track/2OupMbGCv1k6UDN0ay6sdt) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe) | 2:10 | 2025-11-04 |  |
 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 | 2023-09-15 | 2025-03-14 |
 | [TG4M \- Spotify Studios Recording](https://open.spotify.com/track/4A8UGOAh2OYM6hn6tTI95H) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Studio It's Hits](https://open.spotify.com/album/1qneSSXVWC2tIkueGNbHp3) | 2:23 | 2023-09-15 | 2025-03-14 |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2025-03-26 |  |
@@ -481,7 +483,7 @@
 | [Without You](https://open.spotify.com/track/6hb5yT4liAWhTFXpcYHWoc) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Without You](https://open.spotify.com/album/7dufMKtU2DkHcUUI7PNrIR) | 3:45 | 2023-09-15 | 2025-03-14 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2023-09-15 | 2025-03-14 |
 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2025-03-26 |  |
-| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2025-03-26 |  |
+| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2025-03-26 | 2025-11-05 |
 | [You Broke Me](https://open.spotify.com/track/5bpT0Qnne7wMea5woXgU2y) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [They never leave their wives](https://open.spotify.com/album/6HmkYZsG58mPBFenb27ank) | 3:29 | 2023-09-15 | 2025-03-14 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2023-09-15 |  |
 | [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 | 2025-08-15 |  |

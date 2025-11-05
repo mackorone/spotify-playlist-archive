@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,290 songs - 2 day 8 hr 58 min
+1,291 songs - 2 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [Imagine](https://open.spotify.com/track/3rObr57Bps2401FcjO9OSU) | [Boeuv](https://open.spotify.com/artist/4DfrfLaX6lrjdKYOcN0LES), [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [Imagine](https://open.spotify.com/album/0mOtFB6Pzg9LytvKwJ8GP7) | 2:21 | 2024-08-23 | 2024-11-18 |
 | [In A Heartbeat](https://open.spotify.com/track/6aNCsousLmz0UBVJVzjp2X) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH) | [In A Heartbeat](https://open.spotify.com/album/7nR3F8zEEB80ZhGCKEoix7) | 2:46 | 2024-03-08 | 2024-04-15 |
 | [In And Out Of Love](https://open.spotify.com/track/40HaJYvvO1jMAdf9U0pcFI) | [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa), [May Zoean](https://open.spotify.com/artist/23SyodQYstma0O9w4ERf4s) | [In And Out Of Love](https://open.spotify.com/album/5IunT5utdhb4yL7iqP7bAs) | 2:36 | 2025-02-28 | 2025-06-07 |
+| [In Another Life](https://open.spotify.com/track/3JwC1i661J5GYRoPPZqpke) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc), [MVNA](https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [In Another Life](https://open.spotify.com/album/4gbVCJPB92dAzH1u8IRys7) | 2:49 | 2025-11-04 |  |
 | [In My Mind](https://open.spotify.com/track/5xkMDodMnKWY1PutWPwWTj) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [In My Mind](https://open.spotify.com/album/4BCx7TjkDIuyDGIvyFUPbj) | 3:10 | 2024-09-27 | 2025-01-22 |
 | [In The Air Tonight](https://open.spotify.com/track/6xCUzDEwifZ9PUPYoFCtZt) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [In The Air Tonight](https://open.spotify.com/album/0UdIFWPQ3fZ4YXlL0a3UdC) | 2:29 | 2024-11-01 | 2024-12-07 |
 | [In The Middle](https://open.spotify.com/track/5bYGGBojtXEicgmqFSIa99) | [Arctec](https://open.spotify.com/artist/1KzMaLiqjVR3B7WwGMlTWT) | [In The Middle](https://open.spotify.com/album/6NVMGLhoKoI4dzUO4i4Boj) | 3:04 | 2025-10-03 | 2025-11-04 |

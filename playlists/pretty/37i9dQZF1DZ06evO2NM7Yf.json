@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 437,
+  "num_followers": 436,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAACRyFY7LMLwH6ASvTn1dILC",
+  "snapshot_id": "aQfwgAAAAAA6R7y7KOvyXM39taSyWYOj",
   "tracks": [
     {
       "added_at": null,
@@ -295,38 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "you fake your british accent",
-      "url": "https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop Drama",
         "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
@@ -351,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "guitar center",
-        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
       "artists": [
         {
@@ -360,9 +328,25 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 187839,
-      "name": "guitar center",
-      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
+      "duration_ms": 188562,
+      "name": "you fake your british accent",
+      "url": "https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/0qmiXuQjdromX08E2ZjZ4j"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gospel According to Meg Smith",
         "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
     },
     {
       "added_at": null,

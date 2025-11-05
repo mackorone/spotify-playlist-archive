@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70946,
+  "num_followers": 70947,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Allting ordnar sig",
+        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
+      },
+      "artists": [
+        {
+          "name": "Achee Flips",
+          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
+        },
+        {
+          "name": "Rob Bourne",
+          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Allting ordnar sig",
+      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "S\u00e5na \u00f6gon",
         "url": "https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 172000,
       "name": "S\u00e5na \u00f6gon",
       "url": "https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Allting ordnar sig",
-        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
-      },
-      "artists": [
-        {
-          "name": "Achee Flips",
-          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
-        },
-        {
-          "name": "Rob Bourne",
-          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Allting ordnar sig",
-      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e5 nice",
-        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "S\u00e5 nice",
-      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Leva",
         "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 176613,
       "name": "Leva",
       "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "S\u00e5 nice",
+        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "S\u00e5 nice",
+      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
+        "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
+      },
+      "artists": [
+        {
+          "name": "Promoe",
+          "url": "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
+      "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Back on track",
         "url": "https://open.spotify.com/album/79ja6VUuZvbr0g7POJ1Xb1"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 214125,
       "name": "Back on track",
       "url": "https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
-        "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
-      },
-      "artists": [
-        {
-          "name": "Promoe",
-          "url": "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
-      "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
     },
     {
       "added_at": "2024-06-24 11:19:01",

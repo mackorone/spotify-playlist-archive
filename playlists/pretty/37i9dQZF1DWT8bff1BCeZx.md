@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,878 likes - 141 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,893 likes - 141 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 16 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
 | 17 | [Imela](https://open.spotify.com/track/125nxvS8cjvr9Chpnno5SG) | [Lumina Worship](https://open.spotify.com/artist/2byP4FxZl421KXIUlxDgeA), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Godwin King](https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC), [Alicia Jay](https://open.spotify.com/artist/6crPJmpHR66WQbf7erAigJ), [ISDMUSIC](https://open.spotify.com/artist/3XcH6LY2crH77fmOHoaEjC) | [Imela](https://open.spotify.com/album/6WYnb4osumk5nbueQBHoo9) | 2:15 |
 | 18 | [Power of God \- Live](https://open.spotify.com/track/6KTGgGVSD60XZFBPAQrLtH) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Power of God \(Live\)](https://open.spotify.com/album/6aWfRNVkbTvdbG1iR9D56v) | 12:10 |
-| 19 | [UNLIMITED](https://open.spotify.com/track/5tRq6BMkzV0dJCnXJqeSdm) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [UNLIMITED](https://open.spotify.com/album/2Do8T8QxG3rALXoofdSbj3) | 2:43 |
+| 19 | [UNLIMITED](https://open.spotify.com/track/5tRq6BMkzV0dJCnXJqeSdm) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [UNLIMITED](https://open.spotify.com/album/2Do8T8QxG3rALXoofdSbj3) | 2:43 |
 | 20 | [Higher](https://open.spotify.com/track/17HFFGjJxiTl99h1iEnpuL) | [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Higher](https://open.spotify.com/album/6Q1JwMoQxeaAmtM0r09Qs8) | 3:58 |
 | 21 | [DOH](https://open.spotify.com/track/4cqspe6InaQjklGJQuZXYw) | [Tklex](https://open.spotify.com/artist/3nqqTSStDMepotlsMSnbvL), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [DOH](https://open.spotify.com/album/42Ja9WDCG1yDnTxBTA6SI0) | 2:51 |
 | 22 | [noises](https://open.spotify.com/track/6vLrw0gHyEFH1YNnHQZI2a) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [noises](https://open.spotify.com/album/2mKDRN3feRcYd4AIAmbHpV) | 1:56 |

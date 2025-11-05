@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 52960,
+  "num_followers": 52972,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAADVxH3wR3tRySvmas+Ayr3o",
+  "snapshot_id": "aQfwgAAAAACZu8955nsZLyA0WtcInM40",
   "tracks": [
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/2mcVTWPqxa2LVC8LJdD2xJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At The Cross",
         "url": "https://open.spotify.com/album/7IYkLgcSw21e6uBRiXJKHI"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 219729,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/1IAhLdE6jDVfLyV10b68cG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/2mcVTWPqxa2LVC8LJdD2xJ"
     },
     {
       "added_at": null,

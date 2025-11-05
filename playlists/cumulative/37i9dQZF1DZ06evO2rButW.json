@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "FEMME FATALE",
+        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225598,
+      "name": "Ocupa Mi Piel",
+      "url": "https://open.spotify.com/track/0cWcCyz2Z0xouTi7G4iUoT"
+    },
+    {
+      "album": {
         "name": "Otra Noche de Llorar",
         "url": "https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 249805,
       "name": "Vida Normal",
       "url": "https://open.spotify.com/track/4Vpzf68gIqtlE7ADqmAVem"

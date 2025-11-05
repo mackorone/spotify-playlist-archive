@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 282,356 likes - 37 songs - 2 hr 19 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 282,326 likes - 37 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 23 | [Bullshit](https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Bullshit](https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y) | 2:58 |
 | 24 | [I Want My Freedom](https://open.spotify.com/track/4JJyCkIjB5l1axC1p5X3uN) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [I Want My Freedom](https://open.spotify.com/album/2Xofyel5kKpV6EsFYc5AF5) | 5:10 |
 | 25 | [Phantasy](https://open.spotify.com/track/2bNzRdSeIOxOM7iZEnwGck) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Phantasy](https://open.spotify.com/album/3CJ4UbkwJuHLXEeaQWgcPC) | 3:14 |
-| 26 | [Higher \- Notre Dame Remix](https://open.spotify.com/track/0J32M4Uc5qVhKwCvdDbACb) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Higher \(Notre Dame Remix\)](https://open.spotify.com/album/4eUKadrB0SkDvQLz8uUbcF) | 3:58 |
+| 26 | [Higher \- Notre Dame Remix](https://open.spotify.com/track/0J32M4Uc5qVhKwCvdDbACb) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Higher \(Notre Dame Remix\)](https://open.spotify.com/album/4eUKadrB0SkDvQLz8uUbcF) | 3:58 |
 | 27 | [ABOUT YOU](https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ABOUT YOU](https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE) | 3:31 |
 | 28 | [Chemicals](https://open.spotify.com/track/0zf1tiIdlhpbUDZJmbdBPA) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Chemicals](https://open.spotify.com/album/6ElHfnCTakQ9ZTruXFjTeB) | 4:44 |
 | 29 | [Faith](https://open.spotify.com/track/7FHcKps307elS3AgocKDA9) | [DOREY](https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id) | [Faith](https://open.spotify.com/album/2XHyfupJblQtNZUQXernPN) | 4:28 |

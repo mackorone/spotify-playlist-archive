@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37822,
+  "num_followers": 37823,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAAro/c+trWLDSYP6+k5795f",
+  "snapshot_id": "aQfwgAAAAACS1xw1s9RrDFqC8ZscCs46",
   "tracks": [
     {
       "added_at": null,
@@ -131,42 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunscreen",
-        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 212213,
-      "name": "Is It Cold In The Water?",
-      "url": "https://open.spotify.com/track/20vrVR0N1Y0zAJNmvnQJyg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -187,6 +151,42 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
       "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "Is It Cold In The Water?",
+      "url": "https://open.spotify.com/track/20vrVR0N1Y0zAJNmvnQJyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 215628,
+      "name": "MSMSMSM",
+      "url": "https://open.spotify.com/track/3iCOBMaqDx0ommZRqFi6sF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hi This Is Flume (Mixtape)",
         "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 287331,
       "name": "Is It Cold In The Water? (Flume & Eprom Remix)",
       "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 215628,
-      "name": "MSMSMSM",
-      "url": "https://open.spotify.com/track/3iCOBMaqDx0ommZRqFi6sF"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 126686,
+      "name": "UNISIL",
+      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 244839,
       "name": "My Forever (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 126686,
-      "name": "UNISIL",
-      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "Whole New World (Sophie and Doss Remix)",
+      "url": "https://open.spotify.com/track/00iumuIHzIc3rDViE1Vh8U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 244062,
       "name": "Live In My Truth (feat. BC Kingdom & LIZ)",
       "url": "https://open.spotify.com/track/5lnau4jYpzDIPIavlqQWPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "Whole New World (Sophie and Doss Remix)",
-      "url": "https://open.spotify.com/track/00iumuIHzIc3rDViE1Vh8U"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Evita Manji",
-          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Berlin Nightmare (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
         "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 251189,
       "name": "Pony Whip",
       "url": "https://open.spotify.com/track/1ORL2w9mpbWLUT6lHcqOgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
+        }
+      ],
+      "duration_ms": 215021,
+      "name": "Berlin Nightmare (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
     },
     {
       "added_at": null,
@@ -623,46 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CCCLX",
-        "url": "https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS"
-      },
-      "artists": [
-        {
-          "name": "Lunice",
-          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
-        },
-        {
-          "name": "Kalifa",
-          "url": "https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Drop Down",
-      "url": "https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
+        "name": "Transnation",
+        "url": "https://open.spotify.com/album/6xV8XV6JaRJudXN09zm9hW"
       },
       "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Evita Manji",
-          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 117010,
-      "name": "Gallop (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/5LoTztzRm8MpXriEj5k4jJ"
+      "duration_ms": 161535,
+      "name": "Transnation",
+      "url": "https://open.spotify.com/track/5shQ1DVs0Kjg0zmcFJcN9b"
     },
     {
       "added_at": null,
@@ -692,13 +664,37 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         },
         {
-          "name": "BIG SISTER",
-          "url": "https://open.spotify.com/artist/47V5PmiM2OZbksll1O7se1"
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
         }
       ],
-      "duration_ms": 250077,
-      "name": "Do You Wanna Be Alive? (feat. BIG SISTER)",
-      "url": "https://open.spotify.com/track/0VL6ayQDJbVFYrv3nA6FjU"
+      "duration_ms": 117010,
+      "name": "Gallop (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/5LoTztzRm8MpXriEj5k4jJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CCCLX",
+        "url": "https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS"
+      },
+      "artists": [
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+        },
+        {
+          "name": "Kalifa",
+          "url": "https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Drop Down",
+      "url": "https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx"
     },
     {
       "added_at": null,
@@ -715,6 +711,26 @@
       "duration_ms": 327093,
       "name": "Push Emission (Whore Moans)",
       "url": "https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "BIG SISTER",
+          "url": "https://open.spotify.com/artist/47V5PmiM2OZbksll1O7se1"
+        }
+      ],
+      "duration_ms": 250077,
+      "name": "Do You Wanna Be Alive? (feat. BIG SISTER)",
+      "url": "https://open.spotify.com/track/0VL6ayQDJbVFYrv3nA6FjU"
     },
     {
       "added_at": null,

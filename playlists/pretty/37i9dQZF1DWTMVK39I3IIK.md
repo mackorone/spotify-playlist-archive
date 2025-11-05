@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  Malte August
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,099 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,098 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 43 | [Folk Forsvinder](https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr) | [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [Folk Forsvinder](https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc) | 2:53 |
 | 44 | [Hen til det](https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Hen til det](https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp) | 2:51 |
 | 45 | [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 |
-| 46 | [Nevermind](https://open.spotify.com/track/14Jcq3SjvqUS80fwJTGop9) | [ASTA NORR](https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF) | [Nevermind](https://open.spotify.com/album/1WL7AjCCMOOBazFXaqD78w) | 3:09 |
-| 47 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
+| 46 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
+| 47 | [Nevermind](https://open.spotify.com/track/14Jcq3SjvqUS80fwJTGop9) | [ASTA NORR](https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF) | [Nevermind](https://open.spotify.com/album/1WL7AjCCMOOBazFXaqD78w) | 3:09 |
 | 48 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
 | 49 | [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 |
 | 50 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 52 | [Regnvejr](https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [EP](https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8) | 3:16 |
 | 53 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 |
 | 54 | [Void](https://open.spotify.com/track/0FnPLGAM2kz47V99T5YskK) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Void](https://open.spotify.com/album/3VZSSQaS4szKE3aq2vNNEW) | 3:16 |
-| 55 | [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 |
-| 56 | [BARATO](https://open.spotify.com/track/3iy4yl1YHHRlgZJbIKTnn0) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [BARATO](https://open.spotify.com/album/3k2jX8she6s2NzgpAKWMpT) | 2:29 |
+| 55 | [BARATO](https://open.spotify.com/track/3iy4yl1YHHRlgZJbIKTnn0) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [BARATO](https://open.spotify.com/album/3k2jX8she6s2NzgpAKWMpT) | 2:29 |
+| 56 | [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 |
 | 57 | [Barn Af Venedig](https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Barn Af Venedig](https://open.spotify.com/album/7md2UVqllUni4xa7373rXi) | 3:59 |
 | 58 | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/track/5UhMx8DBKV8e4nKGNJhAM3) | [Aland Z](https://open.spotify.com/artist/5ac27Tra29pdLsxOZRddjm), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Perker Pop \(Jeg vil ha'\)](https://open.spotify.com/album/222HR56KflpoDSvJTuDOlC) | 3:00 |
 | 59 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 62 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
 | 63 | [1 gang til](https://open.spotify.com/track/4Pj63m6uNr1S6fAYo8Z4QF) | [Lisa Fosmark](https://open.spotify.com/artist/3GunZjrBeuApvoV5udcC91), [Anthon Edwards](https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [1 gang til](https://open.spotify.com/album/2EPMQ8giDjvy8tiwrxhZ09) | 2:33 |
 | 64 | [Klart Nok](https://open.spotify.com/track/0itsAYJPTg18QJadt3lchA) | [Kvadrillers](https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac) | [Klart Nok](https://open.spotify.com/album/12lnq7v7r939itsSBIa9oF) | 2:26 |
-| 65 | [Syg af følelser](https://open.spotify.com/track/26xQNPL2NfgQEzwezhcOml) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Sikkert syg af følelser](https://open.spotify.com/album/20fZqsijpjF3PbufuepQbD) | 2:51 |
-| 66 | [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 |
-| 67 | [Ik Er Her.](https://open.spotify.com/track/0TzGNfAXYBWpbo5YqCchM2) | [FRSLV](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [Det Frslv.](https://open.spotify.com/album/4qOSab4b42c9RoSWIxRxSr) | 2:16 |
+| 65 | [Ik Er Her.](https://open.spotify.com/track/0TzGNfAXYBWpbo5YqCchM2) | [FRSLV](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [Det Frslv.](https://open.spotify.com/album/4qOSab4b42c9RoSWIxRxSr) | 2:16 |
+| 66 | [Syg af følelser](https://open.spotify.com/track/26xQNPL2NfgQEzwezhcOml) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Sikkert syg af følelser](https://open.spotify.com/album/20fZqsijpjF3PbufuepQbD) | 2:51 |
+| 67 | [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 |
 | 68 | [nothing at all](https://open.spotify.com/track/4R8nC9Xq3alkz4piaQd34S) | [Elliot](https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd), [Reveal Party](https://open.spotify.com/artist/665kf4qpOB0x1GE1TfFhAT) | [nothing at all](https://open.spotify.com/album/5qCrlkXncgAS7h7f5VsOGa) | 3:28 |
 | 69 | [Kys før fald](https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Kys før fald](https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx) | 3:14 |
-| 70 | [Fanget I En Drøm](https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Fanget I En Drøm](https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4) | 2:52 |
+| 70 | [Den Lykkelige Ungdom](https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Den Lykkelige Ungdom](https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo) | 2:43 |
 
 Snapshot ID: `AAAAAJ0fNU2SFRpKR+Sg9aQpg7nNYSQC`

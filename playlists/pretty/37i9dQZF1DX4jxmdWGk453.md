@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,994 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,111 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 43 | [Greensleeves \(Interlude\)](https://open.spotify.com/track/2Qw29GIlHVTSi9qwhel6tp) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Christmas Is Here!](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) | 0:59 |
 | 44 | [Holst: 3 Hymns for the English Hymnal: No\. 1, In the Bleak Mid\-Winter](https://open.spotify.com/track/73qlV0uB22V8FaBRJch9yj) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 4:50 |
 | 45 | [Gabriel's Message](https://open.spotify.com/track/1ej2KGj74mFyQo94ceTalI) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS) | [A Traditional Christmas Carol Collection, Vol\. II](https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y) | 2:39 |
-| 46 | [Nowel el el: VI\. Nowel el el](https://open.spotify.com/track/7Hxvgan282Oku5C6F6H15o) | [Piers Connor Kennedy](https://open.spotify.com/artist/6lQTJxpcfkOs1QBJvzNs3e), [Ensemble Pro Victoria](https://open.spotify.com/artist/0ac06ScSSBl5mezP4VqPxk), [Toby Ward](https://open.spotify.com/artist/5IrFpK2JE3JYjTZgKQPdWv) | [Nowel el el: VI\. Nowel el el](https://open.spotify.com/album/18QUWqD3usYCy7m0Gxx5CF) | 1:56 |
+| 46 | [Nowel el el: VI\. Nowel el el](https://open.spotify.com/track/7Hxvgan282Oku5C6F6H15o) | [Piers Connor Kennedy](https://open.spotify.com/artist/6lQTJxpcfkOs1QBJvzNs3e), [Ensemble Pro Victoria](https://open.spotify.com/artist/0ac06ScSSBl5mezP4VqPxk), [Cecily Beer](https://open.spotify.com/artist/2FDKeOtLEn4WTEnADS66UX), [Toby Ward](https://open.spotify.com/artist/5IrFpK2JE3JYjTZgKQPdWv) | [Nowel el el: VI\. Nowel el el](https://open.spotify.com/album/18QUWqD3usYCy7m0Gxx5CF) | 1:56 |
 | 47 | [O Little Town of Bethlehem](https://open.spotify.com/track/2DBlvHETRsLuYcePuWNmCa) | [The Oxford Trinity Choir](https://open.spotify.com/artist/3r3EF4IUivV9v7HYln1YzB) | [Christmas Carols \- The Very Best Traditional Xmas Carols & Hymns](https://open.spotify.com/album/4x4BFeZwqvbyALfNMxhCc2) | 2:32 |
 | 48 | [Oh Come All Ye Faithful](https://open.spotify.com/track/4UGViGgRfjkNgNTXpPPd89) | [The Singers Unlimited](https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if) | [Christmas](https://open.spotify.com/album/6oRVPUG1H8dm915S12d5PP) | 2:14 |
 | 49 | [The Holly & the Ivy \(Arr\. H\. Walford Davies\)](https://open.spotify.com/track/57lKCJHxa9IKtlzsaEFKVQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [Cambridge Singers Christmas Album](https://open.spotify.com/album/0vfX51J1FSfPhcxM4I3kUb) | 2:58 |

@@ -2832,7 +2832,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 164803,
       "name": "ANTHEM",
       "url": "https://open.spotify.com/track/1mXHO77WUa3PYrtgrSoGEN"
@@ -7710,7 +7710,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 151500,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy"
@@ -28058,6 +28058,24 @@
     {
       "album": {
         "name": "Marraskuu",
+        "url": "https://open.spotify.com/album/6VkbrO8Q7sm3JRK8JE4sYC"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183789,
+      "name": "Marraskuu",
+      "url": "https://open.spotify.com/track/2fyibnOTk1DSl4GNFGOg0R"
+    },
+    {
+      "album": {
+        "name": "Marraskuu",
         "url": "https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs"
       },
       "artists": [
@@ -39596,7 +39614,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 197205,
       "name": "Rakkaudesta manii",
       "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
@@ -44674,7 +44692,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 144752,
       "name": "Sry honey (feat. Senya)",
       "url": "https://open.spotify.com/track/7lqItnismNksp4nc8nqfb7"
@@ -45588,7 +45606,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 230048,
       "name": "Sun tytt\u00f6",
       "url": "https://open.spotify.com/track/4TXDY9RqFb8psoJ1Hdhg86"
@@ -49750,7 +49768,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 180288,
       "name": "Tuiki Tuiki (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/0XipxBadammPSnNeBHFeAT"
@@ -56896,7 +56914,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 159592,
       "name": "\u00c4l\u00e4 pelk\u00e4\u00e4",
       "url": "https://open.spotify.com/track/04P8mrc0gL2g8gLDuxQGdm"

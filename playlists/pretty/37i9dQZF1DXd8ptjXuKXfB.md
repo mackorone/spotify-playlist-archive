@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,684 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,693 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 26 | [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 |
 | 27 | [BE VAGYOK ZÁRVA](https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [BE VAGYOK ZÁRVA](https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5) | 2:11 |
 | 28 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
-| 29 | [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 |
+| 29 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 |
 | 30 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 |
 | 31 | [Kimaradás](https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Ferike](https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ) | [Kimaradás](https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI) | 2:15 |
 | 32 | [PONT JÓ](https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [PONT JÓ](https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1) | 2:34 |
 | 33 | [PLETYKA](https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [PLETYKA](https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj) | 2:35 |
-| 34 | [Talpra cigányok](https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU) | 2:26 |
+| 34 | [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 |
 | 35 | [Demo](https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Demo](https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ) | 2:51 |
 | 36 | [STRESSZ](https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [STRESSZ](https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ) | 2:48 |
 | 37 | [SZAR AZ ÉLET](https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZAR AZ ÉLET](https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc) | 3:11 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 40 | [ANGYALOK](https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ANGYALOK](https://open.spotify.com/album/7El982ts9FR1auscPCNLr6) | 3:31 |
 | 41 | [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 |
 | 42 | [Passport](https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:17 |
-| 43 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 |
-| 44 | [Papírom](https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [Papírom](https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf) | 2:39 |
+| 43 | [Papírom](https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [Papírom](https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf) | 2:39 |
+| 44 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 |
 | 45 | [LEVÉL](https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [LEVÉL](https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh) | 2:37 |
 | 46 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 |
 | 47 | [deLfincity](https://open.spotify.com/track/6hcCtr9q2hiOmgUgZyE0pM) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Aziverzum](https://open.spotify.com/album/4xXvoQdTClfi7CYpWANDRm) | 3:29 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 65 | [PATTOG A BEAT](https://open.spotify.com/track/4mi7BpmzNXK5J3dRgyGG9i) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [PATTOG A BEAT](https://open.spotify.com/album/5GwZPNhspjkc3b8at4MNSz) | 1:54 |
 | 66 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 |
 | 67 | [SZÖRNYETEG](https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ SZÁLLODA \(1\. RÉSZ\)](https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF) | 3:28 |
-| 68 | [PATKÁNY](https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [PATKÁNY](https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK) | 2:29 |
-| 69 | [Oy Lele](https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Oy Lele](https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B) | 2:30 |
+| 68 | [Oy Lele](https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Oy Lele](https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B) | 2:30 |
+| 69 | [PATKÁNY](https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [PATKÁNY](https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK) | 2:29 |
 | 70 | [TAKA](https://open.spotify.com/track/0KN7gjHni6JHOn97t9O1F1) | [Mikee Mykanic](https://open.spotify.com/artist/5PjhmqjtE8y3WeS96xSmQu) | [NEHÉZFAME](https://open.spotify.com/album/7zivpKIat95GgeWt6wanUH) | 2:24 |
 | 71 | [3NAP](https://open.spotify.com/track/6tW69dfzZ5gxRoCyGI010b) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO) | [3NAP](https://open.spotify.com/album/3ZFS5JuQ6e8OtZ45RbWtdV) | 2:57 |
 | 72 | [Libikóka](https://open.spotify.com/track/66FSHBlaFjgUBE7AKVRxmj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Libikóka](https://open.spotify.com/album/6BKsMwAE9c1NM5moE808Yb) | 4:01 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 77 | [Beházasodtam](https://open.spotify.com/track/3SBqXm4ArrhOqNdUwHvzGa) | [HRflow](https://open.spotify.com/artist/3YuXReN1XJtyvBhUd0zjBk) | [Beházasodtam](https://open.spotify.com/album/2Zo8W6TqE90d8omt0fW8pY) | 2:26 |
 | 78 | [az én országom](https://open.spotify.com/track/0Xymkt9jHypCBwW9NWfPoN) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [az én országom](https://open.spotify.com/album/1B0fhyY2g7APOcJW6xulVs) | 3:04 |
 | 79 | [Átutazó](https://open.spotify.com/track/0CCg3ywQIY93SSuAJ8I2rd) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [Átutazó](https://open.spotify.com/album/7mWhXfPQYzUTkw8Mdo9qO2) | 2:55 |
-| 80 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 |
+| 80 | [Szobor](https://open.spotify.com/track/6hWybKVOmVE6q4LeJRcoay) | [Wavy](https://open.spotify.com/artist/6yhyLqCUsp3DMQDRRb6iEq), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72), [FRANKO](https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [MENNI MIXTAPE](https://open.spotify.com/album/2ppanRLrOHhtXlf3RztiB7) | 3:11 |
 
 Snapshot ID: `AAAAABndIzt0OhPzAoNXQUOP+FocgJgw`

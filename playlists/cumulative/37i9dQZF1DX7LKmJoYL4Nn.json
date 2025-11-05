@@ -3593,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.3)",
+        "url": "https://open.spotify.com/album/37RXOBxM051XIM195TlyXM"
+      },
+      "artists": [
+        {
+          "name": "fine/\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u65e5\u3005\u6a39 \u6e09(CV.\u6c5f\u53e3\u62d3\u4e5f)\u3001\u59eb\u5bae\u6843\u674e(CV.\u6751\u702c \u6b69)\u3001\u4f0f\u898b\u5f13\u5f26(CV.\u6a4b\u672c\u6643\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v"
+        }
+      ],
+      "date_added": "2025-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "\u59cb\u307e\u308a\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30a2",
+      "url": "https://open.spotify.com/track/1f7iTXYBjiNGkascBy9r6I"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
         "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
       },
@@ -3622,7 +3640,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 278520,
       "name": "\u6307\u5148\u306e\u30a2\u30ea\u30a2\u30c9\u30cd",
       "url": "https://open.spotify.com/track/0m4Fozv8EttrtJcFFPj5PR"

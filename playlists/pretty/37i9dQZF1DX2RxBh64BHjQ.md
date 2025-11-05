@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3qdQnBjEBHrk5nZYxXdV1U">Skrilla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,761,582 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,761,352 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 15 | [Successful](https://open.spotify.com/track/4a4TQY1JEu1TLRCIM2cpsh) | [PCF Jaey](https://open.spotify.com/artist/3SQyoWBxZH35NqaGtKDplP), [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6) | [Successful](https://open.spotify.com/album/1rshOvPIwne7xx6WUSVAle) | 1:55 |
 | 16 | [Head Shot / Gas In The Truck](https://open.spotify.com/track/369I51M6XDujuwDlj3GW6R) | [IShowSpeed](https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS) | [Head Shot / Gas In The Truck](https://open.spotify.com/album/3RZnt9xmpoUJC5RoxpPcqx) | 3:57 |
 | 17 | [Signed a Napkin](https://open.spotify.com/track/6LhJYXD9Dt6YgvaaG0odKL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Signed a Napkin](https://open.spotify.com/album/3FfykUYfBW7hXjwQbdCVsY) | 2:38 |
-| 18 | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/album/52xvSVWdjkBlJbctNBiH5q) | 1:40 |
-| 19 | [SAY IT TO ME.](https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:28 |
+| 18 | [SAY IT TO ME.](https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:28 |
+| 19 | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/album/52xvSVWdjkBlJbctNBiH5q) | 1:40 |
 | 20 | [Coming Undone](https://open.spotify.com/track/6gx810Ay2uDXu9zDDJ0J8f) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Coming Undone](https://open.spotify.com/album/2blgbtADzleNsU419e6tXB) | 2:58 |
 | 21 | [LMAO](https://open.spotify.com/track/4tL7cu2Ta3r4FZKtSumlMS) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [LMAO](https://open.spotify.com/album/7JsNiyPwf5SpOxKrTYVHI6) | 1:54 |
 | 22 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Sevan](https://open.spotify.com/track/4W4hhnxvRE0rRUK1vaGlsk) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:41 |
 | 100 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
 
-Snapshot ID: `AAAAAPnOvFIn64LJDTd6j20/bkDBBuhg`
+Snapshot ID: `AAAAAKows47nXFOiuV4bXsoCKC8XSkUU`

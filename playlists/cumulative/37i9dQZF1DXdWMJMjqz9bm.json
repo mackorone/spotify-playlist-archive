@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 131783,
       "name": "26",
       "url": "https://open.spotify.com/track/5g9l6lC7v2Z7OpXIztsJII"
@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 167606,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5R3mhmaTWx6zlLgmBimBS6"
@@ -7241,6 +7241,28 @@
     },
     {
       "album": {
+        "name": "KO",
+        "url": "https://open.spotify.com/album/4X4lSxXixoFEuAkUICyZMR"
+      },
+      "artists": [
+        {
+          "name": "NLE The Great",
+          "url": "https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214122,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/2pAombGD2E4luR6lArQHCJ"
+    },
+    {
+      "album": {
         "name": "age tape 3",
         "url": "https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5"
       },
@@ -8344,6 +8366,24 @@
       "duration_ms": 143466,
       "name": "Maui Wowie",
       "url": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3bYmRWtPWM94WfgoW6QGzL"
+      },
+      "artists": [
+        {
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108666,
+      "name": "MAZZALEEN",
+      "url": "https://open.spotify.com/track/6AhJ1N1Ua0nhJQa9G4fqyO"
     },
     {
       "album": {

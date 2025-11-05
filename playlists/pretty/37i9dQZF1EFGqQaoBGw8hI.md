@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,741 likes - 616 songs - 1 day 19 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,744 likes - 616 songs - 1 day 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -451,7 +451,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 441 | [Conquer The Sun](https://open.spotify.com/track/4y33y6VDIvE0LL50q1EgpZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:21 |
 | 442 | [Hoop Of Fire](https://open.spotify.com/track/5E77V6ErhqNdoEsDumSFeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:15 |
 | 443 | [Two Rooms At The End Of The World](https://open.spotify.com/track/0Qjv3FuTDNVA7ROf3UM3ib) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:39 |
-| 444 | [Les aveux](https://open.spotify.com/track/6XO3Py5mQVYNNqju9feA0L) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Paris, France \(Remasterisé en 2004; Edition Deluxe\)](https://open.spotify.com/album/793ULWe5RCII1FKS6rzgFg) | 4:15 |
+| 444 | [Les aveux](https://open.spotify.com/track/6XO3Py5mQVYNNqju9feA0L) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Paris, France \(Edition Deluxe\) \[Remasterisé en 2004\]](https://open.spotify.com/album/793ULWe5RCII1FKS6rzgFg) | 4:15 |
 | 445 | [Can I Put You On \- UK\-Release Mix](https://open.spotify.com/track/6mVRyHTk2P190llXw7EXdH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [17\-11\-70](https://open.spotify.com/album/4oQROC3cT21c88hQWQF47s) | 6:10 |
 | 446 | [Trust Me \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/0xRI7YqTGf3VuFe6YqrY46) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:45 |
 | 447 | [My Heart Dances \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/79TcSmbYhqqZBHskcui5oN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:51 |
@@ -625,4 +625,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 615 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 616 | [Tak Já Zas Stojím](https://open.spotify.com/track/3wdzFK4hcZRrnl6wYEAJy4) | [Alena](https://open.spotify.com/artist/43Ubj5xwJn75ljUs0eQEtG) | [Já a ty](https://open.spotify.com/album/7EXwdt5mIE6GAdSCuaPnMN) | 3:17 |
 
-Snapshot ID: `AcAocAAAAAAMi4ODgPkiST/IXBB9Zc5w`
+Snapshot ID: `AcAt8gAAAAB+TFHzNNc1fJtOcGRZdMDe`

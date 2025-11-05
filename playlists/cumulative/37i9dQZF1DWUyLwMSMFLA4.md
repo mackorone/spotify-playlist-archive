@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-349 songs - 20 hr 17 min
+350 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Los Infieles](https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Y la cumbia se baila así...](https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN) | 3:18 | 2024-04-19 |  |
 | [Los Vagos](https://open.spotify.com/track/7t4XvCLzTHA6IksAEPjeVT) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Los Vagos](https://open.spotify.com/album/2qqxELPkyx4l9X492OrD7A) | 2:15 | 2024-10-25 |  |
 | [Manos de Tijera](https://open.spotify.com/track/703pazG4eZUZHohBBgs4SM) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Manos de Tijera](https://open.spotify.com/album/0E3sJKvxHzRNwTovcf3seP) | 5:41 | 2023-09-26 |  |
+| [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 | 2025-10-24 |  |
 | [Me Acordé de Ti](https://open.spotify.com/track/4uw085GYeRq0JjiVHfEoU4) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Me Acordé de Ti](https://open.spotify.com/album/7KsHvRwBtuZlGSmAAPNGdi) | 2:54 | 2023-06-23 | 2023-09-09 |
 | [Me Enamore](https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:32 | 2023-05-05 |  |
 | [Me Enamore](https://open.spotify.com/track/3EVZuOkvQeQ6X4cszwLq3s) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/4Mzl5iwSspGGF3zX0Ciq7H) | 3:03 | 2025-06-10 | 2025-06-28 |
@@ -317,7 +318,7 @@
 | [Tu Carcel](https://open.spotify.com/track/3WA6w55SBpzOfOBjWHDxAG) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Tu Carcel](https://open.spotify.com/album/14RnASbUlU4WwIl7a4JwFe) | 3:19 | 2025-06-10 | 2025-10-25 |
 | [Tu Marca](https://open.spotify.com/track/4kdEmhRyZcLbwhSTqjc4vH) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tu Marca](https://open.spotify.com/album/7eAmdtMfLjpeRoam6fzHVc) | 3:30 | 2023-08-25 | 2023-10-07 |
 | [Tu Presa](https://open.spotify.com/track/6nSM3b2nA2fVc5bTZdin2I) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Cumbia Viva Session \#11 La Nueva Luna](https://open.spotify.com/album/6FAKYpIlP37m1b2Hhg8tey) | 1:40 | 2024-07-09 | 2025-06-28 |
-| [Tus Botellas](https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Tus Botellas](https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04) | 3:22 | 2025-10-24 |  |
+| [Tus Botellas](https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Tus Botellas](https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04) | 3:22 | 2025-10-24 | 2025-11-05 |
 | [Tú, la más bella \- En Vivo](https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tú, la más bella \(En Vivo\)](https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL) | 2:29 | 2024-11-01 | 2025-05-31 |
 | [Un Bardo](https://open.spotify.com/track/3PqlYZa5jesGRD7scvZ3Cj) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Eh Rey](https://open.spotify.com/artist/0Jzgvm1RE5VEIasMBbhFtw) | [Un Bardo](https://open.spotify.com/album/1dBmAPiKloLN08a1YsKgdB) | 3:25 | 2023-08-25 | 2023-08-29 |
 | [Un Beso y una Flor](https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 4:08 | 2024-04-19 |  |

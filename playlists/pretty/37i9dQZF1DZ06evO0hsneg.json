@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAADizLfJu06a+0EKwBh3S8KQ",
+  "snapshot_id": "aQfwgAAAAAAzNQT8G19FCaf+uYuHecHV",
   "tracks": [
     {
       "added_at": null,
@@ -259,30 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Holy Bassgod EP",
-        "url": "https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Crisis Era",
-          "url": "https://open.spotify.com/artist/4G6enmlHQQ4ktgVMIR9op0"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 166263,
-      "name": "Kawaii 808",
-      "url": "https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Want Me Back",
         "url": "https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx"
       },
@@ -303,6 +279,30 @@
       "duration_ms": 175714,
       "name": "Want Me Back",
       "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Holy Bassgod EP",
+        "url": "https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Crisis Era",
+          "url": "https://open.spotify.com/artist/4G6enmlHQQ4ktgVMIR9op0"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 166263,
+      "name": "Kawaii 808",
+      "url": "https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI"
     },
     {
       "added_at": null,
@@ -431,38 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onto The Next",
-        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+        "name": "BOMBAE",
+        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Onto The Next",
-      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         }
       ],
-      "duration_ms": 221083,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
+      "duration_ms": 146184,
+      "name": "BOMBAE",
+      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
     },
     {
       "added_at": null,
@@ -487,22 +471,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOMBAE",
-        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 221083,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onto The Next",
+        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         }
       ],
-      "duration_ms": 146184,
-      "name": "BOMBAE",
-      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
+      "duration_ms": 214109,
+      "name": "Onto The Next",
+      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
     },
     {
       "added_at": null,
@@ -523,6 +523,26 @@
       "duration_ms": 185892,
       "name": "Digital Love",
       "url": "https://open.spotify.com/track/2ZIIaB50Dc5LN2FVzOordQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indo ME",
+        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "duration_ms": 200899,
+      "name": "Indo ME",
+      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
     },
     {
       "added_at": null,
@@ -551,26 +571,6 @@
       "duration_ms": 187503,
       "name": "Bassgod",
       "url": "https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indo ME",
-        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Basboi",
-          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
-        }
-      ],
-      "duration_ms": 200899,
-      "name": "Indo ME",
-      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        }
-      ],
-      "duration_ms": 174767,
-      "name": "i make time (feat. Matter Mos)",
-      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't Gonna Give Up",
         "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
       },
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        }
+      ],
+      "duration_ms": 174767,
+      "name": "i make time (feat. Matter Mos)",
+      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MING LING (feat. Yung Raja)",
         "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 163780,
       "name": "MING LING (feat. Yung Raja)",
       "url": "https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FASHION",
-        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "FASHION",
-      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
     },
     {
       "added_at": null,
@@ -887,26 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "COPYCAT",
-        "url": "https://open.spotify.com/album/6VXoMfJ7RrxiLUylUVVeWN"
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
       },
       "artists": [
-        {
-          "name": "Rayi Putra",
-          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
-        },
-        {
-          "name": "Dmust Akira",
-          "url": "https://open.spotify.com/artist/29OA72cLmCZDFEn0Fk8JXl"
-        },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 204486,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/2qAjQut5DrJ3o6X7QwKxXR"
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
     },
     {
       "added_at": null,
@@ -931,22 +907,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FACTS",
-        "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
+        "name": "COPYCAT",
+        "url": "https://open.spotify.com/album/6VXoMfJ7RrxiLUylUVVeWN"
       },
       "artists": [
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
         },
         {
-          "name": "asiatic.wav",
-          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+          "name": "Dmust Akira",
+          "url": "https://open.spotify.com/artist/29OA72cLmCZDFEn0Fk8JXl"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 147928,
-      "name": "FACTS",
-      "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
+      "duration_ms": 204486,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/2qAjQut5DrJ3o6X7QwKxXR"
     },
     {
       "added_at": null,
@@ -1007,6 +987,26 @@
       "duration_ms": 150929,
       "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FACTS",
+        "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "duration_ms": 147928,
+      "name": "FACTS",
+      "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
     },
     {
       "added_at": null,

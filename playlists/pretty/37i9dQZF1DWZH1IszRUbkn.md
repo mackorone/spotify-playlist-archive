@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,951 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,953 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 23 | [La Patita](https://open.spotify.com/track/1aGPWR1quPaIAtZ8fUlphA) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:50 |
 | 24 | [Mueve el Ombligo](https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx) | [La Banda de Carmen](https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8) | [Música Infantil para Fiestas: Canciones para Bailar Niños y Padres](https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT) | 2:53 |
 | 25 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
-| 26 | [¡Qué empiece ya!](https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Bailando](https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To) | 1:09 |
-| 27 | [Te Creo](https://open.spotify.com/track/7gsrhkG05oEIsk81MJ3yoW) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 3:59 |
+| 26 | [Te Creo](https://open.spotify.com/track/7gsrhkG05oEIsk81MJ3yoW) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 3:59 |
+| 27 | [¡Qué empiece ya!](https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Bailando](https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To) | 1:09 |
 | 28 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
 | 29 | [La Feria de Cepillín](https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:05 |
 | 30 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |

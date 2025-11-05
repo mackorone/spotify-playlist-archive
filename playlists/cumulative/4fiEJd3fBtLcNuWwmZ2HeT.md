@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-398 songs - 23 hr 4 min
+399 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Your Name](https://open.spotify.com/track/1SnZeUGRKqK1exANKeqhlk) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Journey](https://open.spotify.com/album/1TXZLZHDHFSq0ckd8bZoIh) | 3:38 | 2024-01-31 |  |
 | [Yuguleoneroom \(feat\. Chano\)](https://open.spotify.com/track/1QVZWK1ozjaK9uz3lvqQRv) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [Chano](https://open.spotify.com/artist/49MtPwwkVyamUmJ4oVtOCy) | [Utakatarelation CHUNITHM Original Sound Track](https://open.spotify.com/album/3sXgqO3oAGrAlEVzwQn6lF) | 2:25 | 2023-12-25 |  |
 | [「Crazy ∞ nighT」 feat.いかさん\(カバー\)](https://open.spotify.com/track/0a64sJhQS80cXPWHR7QhdA) | [HitoshizukuP](https://open.spotify.com/artist/5Vozl7NL075bgJOe1iSlcP), [やま△](https://open.spotify.com/artist/5iw5VPMwEb9vomcLBDwFPK) | [ボクらの最終定理](https://open.spotify.com/album/0iFf8I1UnP7pzBtbsyYeij) | 3:22 | 2024-03-10 |  |
+| [「THE KINKY」](https://open.spotify.com/track/1qwUmmAIB2jdkX4trCXz9P) | [DADAROMA](https://open.spotify.com/artist/65u1WZsa68wCWFOexGZuz1) | [「This is ”LIVE”」](https://open.spotify.com/album/6ihgmiFs9vVhmeMya8039J) | 3:26 | 2025-11-04 |  |
 | [あいして。](https://open.spotify.com/track/0AnVedOnc3RvcJHvXzLc2o) | [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [あいして。](https://open.spotify.com/album/5kEv9TrX05FKkrrQdkWEdf) | 2:14 | 2024-08-19 |  |
 | [あっかんべ](https://open.spotify.com/track/4H3CbpffoSJ0YvAcysYF9y) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [ぽいずにゃ〜しんどろーむ](https://open.spotify.com/album/5BqRdVGwJWuwV3c6emUoEZ) | 2:46 | 2022-09-06 |  |
 | [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:51 | 2025-07-20 |  |

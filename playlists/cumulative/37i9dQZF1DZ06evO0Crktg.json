@@ -1844,6 +1844,28 @@
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Bailee Ann",
+          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215477,
+      "name": "Tears Could Talk",
+      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
       "date_added": "2023-12-13",
@@ -2056,7 +2078,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 207269,
       "name": "Wheels Fall Off",
       "url": "https://open.spotify.com/track/4yGeJP63Z6gLEOZNHjkNnW"

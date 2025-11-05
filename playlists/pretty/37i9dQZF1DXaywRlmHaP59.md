@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > Discover the best hits of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,413 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,476 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 7 | [Tawaam Hayati](https://open.spotify.com/track/7j4ZkJkfEC3Qo9FnsAQvJh) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tawaam Hayati](https://open.spotify.com/album/42OwBXvfdodOTNYdpPibfE) | 3:54 |
 | 8 | [Farek Men El Sama Lal Ard](https://open.spotify.com/track/38TuvHgODyqzjAD5X8GXCX) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Taghyeer El Fousoul](https://open.spotify.com/album/6QQXjBIopnsi0kPSepQg94) | 3:37 |
 | 9 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 |
-| 10 | [Tawaam Hayati](https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 3:54 |
+| 10 | [Albi Mertah](https://open.spotify.com/track/7AR95BVtIccdWjaWD2iuWX) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Albi Mertah](https://open.spotify.com/album/4LhiXTMY6udx0hlECrTfb2) | 3:14 |
 | 11 | [Chou B Oul](https://open.spotify.com/track/3svYE1Y2bTBiLWYeKukRxF) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Chou B Oul](https://open.spotify.com/album/79AMPUKJDB8qM7YhWJKi38) | 3:05 |
 | 12 | [١٠٠ احساس جديد](https://open.spotify.com/track/4VnXCSGvrav1Ifwj4bX3lo) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [١٠٠ احساس جديد](https://open.spotify.com/album/4uLvWJSmqnACGZat3wsOeS) | 2:54 |
 | 13 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 39 | [Hobbak Metl Beirut](https://open.spotify.com/track/2DYIRwjjr3oJ0LMoOsIlrs) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Hobbak Metl Beirut](https://open.spotify.com/album/43M4mL9yhmnSK0C8P4FhSS) | 4:03 |
 | 40 | [Shou Helou](https://open.spotify.com/track/5tlP8y3s1iMDKOoDlN1xQT) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Shou Helou](https://open.spotify.com/album/2WKCgrvvYrEoxrmvdZPebP) | 3:31 |
 
-Snapshot ID: `AAAAADqOwE6cS1OGuujB+FmBB8q36ij4`
+Snapshot ID: `AAAAAFmIQIz52oFodKZZ1NeIVDWIDwm/`

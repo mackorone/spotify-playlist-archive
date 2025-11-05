@@ -4701,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "\u300cThis is \u201dLIVE\u201d\u300d",
+        "url": "https://open.spotify.com/album/6ihgmiFs9vVhmeMya8039J"
+      },
+      "artists": [
+        {
+          "name": "DADAROMA",
+          "url": "https://open.spotify.com/artist/65u1WZsa68wCWFOexGZuz1"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "\u300cTHE KINKY\u300d",
+      "url": "https://open.spotify.com/track/1qwUmmAIB2jdkX4trCXz9P"
+    },
+    {
+      "album": {
         "name": "\u3042\u3044\u3057\u3066\u3002",
         "url": "https://open.spotify.com/album/5kEv9TrX05FKkrrQdkWEdf"
       },

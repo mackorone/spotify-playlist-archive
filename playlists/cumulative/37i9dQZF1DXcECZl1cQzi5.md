@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-192 songs - 9 hr 11 min
+193 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,12 +147,13 @@
 | [Reaching Waves](https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Reaching Waves](https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s) | 2:38 | 2023-10-26 | 2025-10-03 |
 | [Rebuild](https://open.spotify.com/track/6xYoQ0EtHqtvhgm8zlxHUa) | [Toni Fairbanks](https://open.spotify.com/artist/11M2X5cWg29k0Xg2eHLJHy) | [Rebuild](https://open.spotify.com/album/38zNoXSDR3Isa9xG2li7vY) | 4:28 | 2024-02-06 | 2024-08-01 |
 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 | 2023-10-23 |  |
-| [Rila](https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Rila](https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun) | 3:16 | 2023-10-23 |  |
+| [Rila](https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Rila](https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun) | 3:16 | 2023-10-23 | 2025-11-05 |
 | [Rolling Seas](https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Rolling Seas](https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0) | 3:09 | 2023-10-23 | 2025-06-01 |
 | [Sand Mountain](https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Sand Mountain](https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq) | 2:18 | 2023-10-23 |  |
 | [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 | 2023-10-23 |  |
 | [Scenery](https://open.spotify.com/track/7pbqUZV3IVADNfLD4pa0tc) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Scenery](https://open.spotify.com/album/5I4EmI8sSubdnIiei3i154) | 2:45 | 2024-11-22 | 2024-12-02 |
 | [Seaesta](https://open.spotify.com/track/3URABoQxXx1Grenb3NDklF) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Seaesta](https://open.spotify.com/album/2Dyt2lLbfcgvtTjSPS0jKQ) | 2:29 | 2025-10-02 |  |
+| [Seas in Balance](https://open.spotify.com/track/3nZWbaCeHbuczBt6KrgerH) | [Yin Canopy](https://open.spotify.com/artist/0Noyn207iScjKuf0Rzbe5s) | [Seas in Balance](https://open.spotify.com/album/448smD1wZADRppxWq8tmS4) | 2:22 | 2025-10-02 |  |
 | [Sedated](https://open.spotify.com/track/0ZSyO3bqGpDxGioVHLXbjr) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sedated](https://open.spotify.com/album/4V3KjRIT8asHHUS1rXlgUm) | 2:44 | 2024-08-22 |  |
 | [Shoreline Serenity](https://open.spotify.com/track/4pJ0qiET0w17eYIangFjDo) | [Carmela Zavala](https://open.spotify.com/artist/00OuphZkinOuOhenMlndwQ) | [Shoreline Serenity](https://open.spotify.com/album/5tlda8TQsXWnCNf2isVNxg) | 2:48 | 2025-06-23 |  |
 | [Shores of Serenity](https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Shores of Serenity](https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5) | 2:32 | 2023-10-23 | 2024-08-23 |

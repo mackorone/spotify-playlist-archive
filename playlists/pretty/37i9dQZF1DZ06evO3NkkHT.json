@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 69089,
+  "num_followers": 69134,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAB1lx+0sVzK5EfppoGAhp6g",
+  "snapshot_id": "aQfwgAAAAAD4phwfA3bT35tHI4EvFWzt",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr.Trouble",
-        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Mr.Trouble",
-      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope You're Happy (Commentary Version)",
         "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 135133,
       "name": "Home (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr.Trouble",
+        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Mr.Trouble",
+      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
         {
@@ -430,7 +430,7 @@
       ],
       "duration_ms": 176933,
       "name": "About You (feat. Tucker Wetmore)",
-      "url": "https://open.spotify.com/track/4mDeL6rcWzsCLVYcdnzDo5"
+      "url": "https://open.spotify.com/track/5xXgI1hjqAil8JX9FH74pn"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124480,
-      "name": "Life of a Boss",
-      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 213600,
       "name": "Primetime",
       "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 124480,
+      "name": "Life of a Boss",
+      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164954,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR",
         "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
       },
@@ -559,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
       },
       "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 168041,
-      "name": "U and Me (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
+      "duration_ms": 164954,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
     },
     {
       "added_at": null,
@@ -599,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Stepper",
-        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
       },
       "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 130774,
-      "name": "Big Stepper",
-      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
+      "duration_ms": 168041,
+      "name": "U and Me (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 136098,
       "name": "Safehouse",
       "url": "https://open.spotify.com/track/260XeZ5B5iyXTxVmSpks4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 130774,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 108133,
-      "name": "Therapy Session",
-      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Run It",
         "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 108133,
+      "name": "Therapy Session",
+      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMAR (Deluxe)",
         "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 122000,
       "name": "Left Eye",
       "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feeling Like Dennis",
+        "url": "https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "Feeling Like Dennis",
+      "url": "https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 181333,
       "name": "Long Nights (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feeling Like Dennis",
-        "url": "https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "Feeling Like Dennis",
-      "url": "https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 41133,
-      "name": "Gift & a Curse (interlude)",
-      "url": "https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEET THE 6IXERS",
         "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 137896,
       "name": "Meet The 6ixers",
       "url": "https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 41133,
+      "name": "Gift & a Curse (interlude)",
+      "url": "https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3"
     },
     {
       "added_at": null,
@@ -927,26 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp"
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
       "artists": [
         {
-          "name": "MO3",
-          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
-        },
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
         }
       ],
-      "duration_ms": 196029,
-      "name": "AR (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB"
+      "duration_ms": 159733,
+      "name": "24/7 (feat. Ink)",
+      "url": "https://open.spotify.com/track/4zLSN6kmgyLcxFrk7KH9rR"
     }
   ],
   "unique_name": "This Is BigXthaPlug",

@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 198638,
+  "num_followers": 198663,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAACZN18rvdV0WTvrmlbxnV/N",
+  "snapshot_id": "aQfwgAAAAAC+FvISC6oMMbqAlF/iz+22",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Memories Can't Wait - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best of Talking Heads",
         "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 298960,
       "name": "Blind - 2003 Remaster",
       "url": "https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Creatures of Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Memories Can't Wait - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
+      "duration_ms": 255800,
+      "name": "Creatures of Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
     },
     {
       "added_at": null,

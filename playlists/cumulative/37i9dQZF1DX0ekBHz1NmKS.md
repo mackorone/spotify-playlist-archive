@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,042 songs - 4 day 9 hr 50 min
+2,043 songs - 4 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [Hollow Woods](https://open.spotify.com/track/2ate2zkgChme3nCh6AhtNS) | [Nomi](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Hollow Woods](https://open.spotify.com/album/2L3CYGyZmGjCg6DKSrusQP) | 3:41 | 2022-05-05 | 2022-06-07 |
 | [Home](https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Home](https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM) | 3:01 | 2024-08-15 | 2024-09-27 |
 | [Home \(Truckstops and Airports\)](https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Home \(Truckstops and Airports\)](https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f) | 3:42 | 2024-08-15 | 2025-03-14 |
+| [Hon e 32 oktober](https://open.spotify.com/track/3bGNmdSOhTRc0swbqfW4gv) | [Nisse Hasselgren](https://open.spotify.com/artist/4v5w0Jq7clg8opEwcfrGs2) | [Hon e 32 oktober](https://open.spotify.com/album/0eUYDZ5GoXIbicmUKxHCQm) | 3:48 | 2025-11-03 |  |
 | [Hon får mig dansa](https://open.spotify.com/track/6cMKUMafbyVrXYoaHC9FcW) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hon får mig dansa](https://open.spotify.com/album/6TEULhvPJGhxAG6tAaxNOW) | 2:53 | 2025-04-17 | 2025-08-11 |
 | [Hon har dig](https://open.spotify.com/track/02twVAfoDG1podz5ns885c) | [bby](https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N) | [Bara bby](https://open.spotify.com/album/3plhQIEFllsYNv708OaENV) | 2:35 | 2022-05-05 | 2023-04-01 |
 | [HON SA](https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8) | [Chico](https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n) | [HON SA](https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX) | 2:47 | 2024-06-06 | 2024-08-09 |
@@ -1170,7 +1171,7 @@
 | [Miles away](https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Miles away](https://open.spotify.com/album/1IJ0AewQmGV57xx81FMF1B) | 2:34 | 2024-02-24 | 2024-04-06 |
 | [MILK](https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [MILK](https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM) | 3:30 | 2025-07-03 | 2025-09-05 |
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-12 | 2024-12-03 |
-| [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-05-08 |  |
+| [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-05-08 | 2025-11-05 |
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 | 2024-12-08 |
 | [Min död](https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Min död](https://open.spotify.com/album/05eyKYwHi06cEZcAuK60Hx) | 2:30 | 2024-05-16 | 2024-06-14 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-26 |
@@ -1778,7 +1779,7 @@
 | [There To Me](https://open.spotify.com/track/7IysNJRQHLK7bszZBiosw2) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [There To Me](https://open.spotify.com/album/0DxIxH5Yv3K5dj4SDvwity) | 3:04 | 2024-03-02 | 2024-04-19 |
 | [they don't know](https://open.spotify.com/track/1yfIeso4HxiY5N5TRZRyIf) | [tindra](https://open.spotify.com/artist/1725qONdsi9Vajd66ATXaz) | [they don't know](https://open.spotify.com/album/46gklpPqhytegYwoQhVcLw) | 3:20 | 2024-01-25 | 2024-01-28 |
 | [Thin](https://open.spotify.com/track/36DjnovGfaU6tWduDb0skt) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Thin](https://open.spotify.com/album/1AmKGq5TXiKTxYrEAe5KQn) | 3:33 | 2022-03-10 | 2022-04-02 |
-| [Think Of You](https://open.spotify.com/track/2KQQt62dqPuC6RI0LNKJ2i) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Think Of You](https://open.spotify.com/album/5c00OXKnPFCZv0IWghTf8l) | 2:52 | 2025-10-16 |  |
+| [Think Of You](https://open.spotify.com/track/2KQQt62dqPuC6RI0LNKJ2i) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Think Of You](https://open.spotify.com/album/5c00OXKnPFCZv0IWghTf8l) | 2:52 | 2025-10-16 | 2025-11-05 |
 | [Third strike](https://open.spotify.com/track/5lXZPdOi7mGABQPEKJ8qG5) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Third strike](https://open.spotify.com/album/7h303GqBrFucrhaLiOSmzG) | 3:07 | 2023-11-16 | 2024-02-09 |
 | [This Right Here](https://open.spotify.com/track/2zBQE3F3st2HToVlhG2dQ0) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM), [Free Will](https://open.spotify.com/artist/5oMmUxH4OljQDTGkkZDLaY) | [This Right Here](https://open.spotify.com/album/1VLk0YxKsUyIf7OqDlmS1G) | 4:21 | 2024-04-19 | 2024-05-24 |
 | [This Side](https://open.spotify.com/track/3SJBTEMhW8dRpBNodHZHWc) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [This Side](https://open.spotify.com/album/1bGa5AYRWUE4DyY81YuDcf) | 2:46 | 2024-03-14 | 2024-03-17 |
@@ -1900,7 +1901,7 @@
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 | 2025-07-04 |
 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 | 2025-09-18 |  |
 | [Vem vill va själv](https://open.spotify.com/track/5r5OhizcTQcTcZTLukl8Tu) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Vem vill va själv](https://open.spotify.com/album/6FYC9Wfc8kKYt5xaw5qw7x) | 2:27 | 2025-09-01 | 2025-10-11 |
-| [Vem är som du?](https://open.spotify.com/track/1m12BzPJh3Hx6V9MbUVnt7) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vem är som du?](https://open.spotify.com/album/5S0yNusAIpDXWx9nzqmI5V) | 3:18 | 2025-09-01 | 2025-11-03 |
+| [Vem är som du?](https://open.spotify.com/track/1m12BzPJh3Hx6V9MbUVnt7) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vem är som du?](https://open.spotify.com/album/5S0yNusAIpDXWx9nzqmI5V) | 3:18 | 2025-09-01 |  |
 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 | 2024-02-08 | 2024-04-05 |
 | [Vera](https://open.spotify.com/track/40lzSXiPLw5WoauCP4D175) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Där natten möter dagen](https://open.spotify.com/album/7pgyS1t8D6QwnVoC0WO4RQ) | 3:40 | 2025-04-10 | 2025-07-31 |
 | [Verkligheten har jag här för mig själv](https://open.spotify.com/track/0z7sJEhd7I9EONtW6DnRqI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [APONIA](https://open.spotify.com/album/1jco0VGKqWijdEj3rD0SIs) | 4:16 | 2025-03-07 | 2025-05-09 |

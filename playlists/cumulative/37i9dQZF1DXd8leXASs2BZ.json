@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: BIG FAF",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AOTO",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -610,6 +610,28 @@
       "duration_ms": 144033,
       "name": "2am in Tokyo",
       "url": "https://open.spotify.com/track/1rjNWXWLPdxYcY7oFnfOlU"
+    },
+    {
+      "album": {
+        "name": "2MUCH",
+        "url": "https://open.spotify.com/album/1NSFeZrcTLDIl2z0XkdMTT"
+      },
+      "artists": [
+        {
+          "name": "Coldie",
+          "url": "https://open.spotify.com/artist/33pU8axDaJ7vlfT9yUt1pk"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155114,
+      "name": "2MUCH",
+      "url": "https://open.spotify.com/track/0DdOEJOx6LNcHzMoRYJIRK"
     },
     {
       "album": {
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 113655,
       "name": "ALL EYES ON ME",
       "url": "https://open.spotify.com/track/5mZ36S4w1cx9HlbdZBIuIM"
@@ -2548,7 +2570,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 176022,
       "name": "Best Take",
       "url": "https://open.spotify.com/track/7MIMHHINYv1Vn9lSv2pExr"
@@ -3266,7 +3288,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 148604,
       "name": "bottom",
       "url": "https://open.spotify.com/track/1X7Qz1fMx7cZcVbzE0EYgM"
@@ -3576,6 +3598,24 @@
       "duration_ms": 141428,
       "name": "BUSY feat. BENXNI, TAHITI",
       "url": "https://open.spotify.com/track/29Vubf1qt7NmbsgjrEIuC9"
+    },
+    {
+      "album": {
+        "name": "BUTTOBASHIT",
+        "url": "https://open.spotify.com/album/4IpFJdDzrqsdF2GZvjghFr"
+      },
+      "artists": [
+        {
+          "name": "e5",
+          "url": "https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192409,
+      "name": "BUTTOBASHIT",
+      "url": "https://open.spotify.com/track/3g5yCta0AoVrVYxqE37qQG"
     },
     {
       "album": {
@@ -4100,7 +4140,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 119700,
       "name": "CHOO IIKO (feat. Lil Mafuyu)",
       "url": "https://open.spotify.com/track/2vYwj3WEg316UTRZ0lxTYy"
@@ -4372,6 +4412,28 @@
       "duration_ms": 130000,
       "name": "Crew up",
       "url": "https://open.spotify.com/track/4r96S9ST7u1SfNqjvmuTJ6"
+    },
+    {
+      "album": {
+        "name": "Crown (feat. 7)",
+        "url": "https://open.spotify.com/album/0JXmXd8jh6ydRdKfEYO1nW"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Crown (feat. 7)",
+      "url": "https://open.spotify.com/track/2Q0Yo5PjgoMNw5QWKUeySD"
     },
     {
       "album": {
@@ -9586,7 +9648,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 169565,
       "name": "Ide Tachi (feat. HARKA)",
       "url": "https://open.spotify.com/track/3qNP17mDeUn82dV4J7QW5X"
@@ -9622,7 +9684,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 119620,
       "name": "If you commit a sex crime at my gig, I'll kill you.",
       "url": "https://open.spotify.com/track/03bj2oYrZDSBXpxa4phSy4"
@@ -10526,7 +10588,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 142105,
       "name": "KANTAN",
       "url": "https://open.spotify.com/track/1f0uwUFJbeX5rvMytaTPVw"
@@ -12699,6 +12761,24 @@
     },
     {
       "album": {
+        "name": "MITOMA KAORU",
+        "url": "https://open.spotify.com/album/0aekOGRNIUjBpybOnO49MQ"
+      },
+      "artists": [
+        {
+          "name": "Ludio",
+          "url": "https://open.spotify.com/artist/41vIKiqDMTHk8ZFm442Vls"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102400,
+      "name": "MITOMA KAORU",
+      "url": "https://open.spotify.com/track/2Dd1l6eXiXT1gThO407AL2"
+    },
+    {
+      "album": {
         "name": "Mitsuboshi",
         "url": "https://open.spotify.com/album/74YfTK6loZh2eH2tgSbPmJ"
       },
@@ -13010,7 +13090,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 193714,
       "name": "My Good fellas",
       "url": "https://open.spotify.com/track/2rH9AL1FFY6IIEB65hcMl6"
@@ -13390,6 +13470,28 @@
       "duration_ms": 162107,
       "name": "NERI CHAGI",
       "url": "https://open.spotify.com/track/7MEtFiQy6Y4uwSLRDlgbHz"
+    },
+    {
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/1UBPcz4pFpOQZfBqzQ1JgT"
+      },
+      "artists": [
+        {
+          "name": "jellyy",
+          "url": "https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt"
+        },
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Never Funny (feat. Worldwide Skippa)",
+      "url": "https://open.spotify.com/track/3CfPltJvy201vKMzxZo3ye"
     },
     {
       "album": {
@@ -14292,7 +14394,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 160221,
       "name": "OKAY!!!",
       "url": "https://open.spotify.com/track/0dqfX10E5vLff5tFEeYSB8"
@@ -14769,6 +14871,24 @@
     },
     {
       "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/05jhfn4OUGAdMUGgRbtj5U"
+      },
+      "artists": [
+        {
+          "name": "Back Street Blues",
+          "url": "https://open.spotify.com/artist/3rCf49MZAEGvV1eAhV3R5E"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127650,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/483ekik6jaeruwNejsLvej"
+    },
+    {
+      "album": {
         "name": "Watch Your Step",
         "url": "https://open.spotify.com/album/3LZmLsjuGG03vUFaBUZSI6"
       },
@@ -15062,6 +15182,28 @@
       "duration_ms": 243778,
       "name": "PAROPARO G (feat. \u93ae\u5ea7DOPENESS & \u7530\u6211\u6d41)",
       "url": "https://open.spotify.com/track/5Ki6GiDDuFvAjvsyferQjO"
+    },
+    {
+      "album": {
+        "name": "Lisajam!!2",
+        "url": "https://open.spotify.com/album/0mC1ceygleSiguXtaPUYfH"
+      },
+      "artists": [
+        {
+          "name": "jam fuden",
+          "url": "https://open.spotify.com/artist/53XBsSeDvUdxJJGW9d0MzV"
+        },
+        {
+          "name": "Lisa lil vinci",
+          "url": "https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206204,
+      "name": "Part of my past",
+      "url": "https://open.spotify.com/track/42n08wwe5MmWySlKAlk1Om"
     },
     {
       "album": {
@@ -18261,6 +18403,28 @@
     },
     {
       "album": {
+        "name": "Grind n Hustle",
+        "url": "https://open.spotify.com/album/41ZY5Hkm0QC8HyLsjB4qcx"
+      },
+      "artists": [
+        {
+          "name": "STICKY BUDS",
+          "url": "https://open.spotify.com/artist/606E8dfYTpa1QY1MLJxN8J"
+        },
+        {
+          "name": "KID PENSEUR",
+          "url": "https://open.spotify.com/artist/68ea2WqkkypaKoakuoNbbl"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Step To Step (feat. KID PENSEUR)",
+      "url": "https://open.spotify.com/track/0Dy75HAaOZoA7yrtdXpR8G"
+    },
+    {
+      "album": {
         "name": "Still Fly",
         "url": "https://open.spotify.com/album/55nDfsFusGk7UgRH7Un9zx"
       },
@@ -18963,6 +19127,24 @@
     },
     {
       "album": {
+        "name": "Kika",
+        "url": "https://open.spotify.com/album/3qMYaZUHeeArgRLCBQ5Kqu"
+      },
+      "artists": [
+        {
+          "name": "Daz",
+          "url": "https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "TAIDA",
+      "url": "https://open.spotify.com/track/30eBqNSZ3asy95CY7uwewZ"
+    },
+    {
+      "album": {
         "name": "TAKARA (feat. DABO)",
         "url": "https://open.spotify.com/album/22Q8c2nH2ln0kvXSrS6B2W"
       },
@@ -19098,7 +19280,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 138731,
       "name": "Tekipaki",
       "url": "https://open.spotify.com/track/0Khin4BcBYK1gszibOya7j"
@@ -19436,7 +19618,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 180925,
       "name": "Throw it in Ya Area",
       "url": "https://open.spotify.com/track/4vwDsqnhlNNBhPR127Lsqi"
@@ -19767,6 +19949,36 @@
     },
     {
       "album": {
+        "name": "PLM",
+        "url": "https://open.spotify.com/album/5fiGgPSGCrcbwsexHzdZs5"
+      },
+      "artists": [
+        {
+          "name": "PLUM TOWN",
+          "url": "https://open.spotify.com/artist/1m9qTDH4NtiorSMxJPxObz"
+        },
+        {
+          "name": "RAFU",
+          "url": "https://open.spotify.com/artist/4zEJwMidggGTCiuS2j7Sqk"
+        },
+        {
+          "name": "wattz",
+          "url": "https://open.spotify.com/artist/19hus0jQU0nKG1Xu1PS4qG"
+        },
+        {
+          "name": "ebunii",
+          "url": "https://open.spotify.com/artist/4kauShupniHRddWcBgMaYF"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165146,
+      "name": "TRAP",
+      "url": "https://open.spotify.com/track/0OSdfFtxNEfgWMCaNVaslq"
+    },
+    {
+      "album": {
         "name": "Trash box",
         "url": "https://open.spotify.com/album/1UoPp3MYqrQPQ0fPtAOVoO"
       },
@@ -19840,7 +20052,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 164589,
       "name": "Trillion Boy",
       "url": "https://open.spotify.com/track/671NxL27d70z6Swh7W8Lno"
@@ -20792,6 +21004,36 @@
       "duration_ms": 168052,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/5kIDCHC8IwPN87RvMDclh9"
+    },
+    {
+      "album": {
+        "name": "We Don't Trust",
+        "url": "https://open.spotify.com/album/4CyzjfPM0CfHCpqD5N8cz8"
+      },
+      "artists": [
+        {
+          "name": "Moment Joon",
+          "url": "https://open.spotify.com/artist/2FmmcFD4xNpAZGiDPizWll"
+        },
+        {
+          "name": "Fisong",
+          "url": "https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW"
+        },
+        {
+          "name": "SiX FXXT UNDXR",
+          "url": "https://open.spotify.com/artist/25Gl3vI9iupwqKWY7Yfo4v"
+        },
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250523,
+      "name": "We Don't Trust (feat. Fisong, SiX FXXT UNDXR & Worldwide Skippa) - Remix",
+      "url": "https://open.spotify.com/track/1D12j2E7NWfPRK2QwIk1m3"
     },
     {
       "album": {
@@ -22297,6 +22539,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30a4\u30aa\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/1NgNWtG58r30GoNe5fdUpw"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145605,
+      "name": "\u30d0\u30a4\u30aa\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/0b19ZdZoxf3lmGSEVnHIWr"
+    },
+    {
+      "album": {
         "name": "\u30d7\u30e9\u30a4\u30c9",
         "url": "https://open.spotify.com/album/6KxCZaVMF6PCbv3XNeEvpS"
       },
@@ -22650,6 +22910,24 @@
       "duration_ms": 164326,
       "name": "\u590f\u30ce\u96f2",
       "url": "https://open.spotify.com/track/1vhhSfZ8igusbbeoUgQGkd"
+    },
+    {
+      "album": {
+        "name": "\u3072\u3064\u3058\u96f2",
+        "url": "https://open.spotify.com/album/3U2sDhUclhCP7hhiDySYWl"
+      },
+      "artists": [
+        {
+          "name": "VERRY SMoL",
+          "url": "https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "\u5922\u306e\u8a71",
+      "url": "https://open.spotify.com/track/2bc9VBQAAer7kog3Zg43sE"
     },
     {
       "album": {

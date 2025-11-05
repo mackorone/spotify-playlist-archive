@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,559 songs - 4 day 9 hr 28 min
+1,560 songs - 4 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1440,6 +1440,7 @@
 | [Trust](https://open.spotify.com/track/63TU6HeinhcJyEov0Z8ptB) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Trust](https://open.spotify.com/album/5cGbvD6RfHWaou8F6lpTuo) | 4:56 | 2024-03-05 | 2024-04-24 |
 | [Trust](https://open.spotify.com/track/2phMrLeYo7YDvMAie0ZQVc) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Observe / Trust](https://open.spotify.com/album/1lSkYSvlHukyxn8EaRRzFr) | 2:14 | 2022-06-16 | 2022-07-28 |
 | [Trust Issues](https://open.spotify.com/track/5c8vAY1cHDOlksNfZdzbXu) | [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Hard](https://open.spotify.com/album/1avEjzKZ7E76eOkSNUQ9Tq) | 4:50 | 2024-08-07 | 2024-09-19 |
+| [Try Me](https://open.spotify.com/track/1jyOattakzLkXbJfiP157V) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Try Me](https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK) | 2:19 | 2025-11-04 |  |
 | [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 | 2023-10-12 | 2023-11-16 |
 | [Turned to Dust \(Rolling On\)](https://open.spotify.com/track/7hs1pgvxIuah5rRoagj8R5) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Turned to Dust \(Rolling On\)](https://open.spotify.com/album/5k9ZxbIpxfOlYyBUIXOfxP) | 4:04 | 2025-01-29 | 2025-03-13 |
 | [TV Star](https://open.spotify.com/track/2buU8psfahKHsNb1gu6bYs) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw) | [TV Star](https://open.spotify.com/album/3DyuJj8DDnbl0tLSe3N4ga) | 3:46 | 2024-09-04 | 2024-10-10 |

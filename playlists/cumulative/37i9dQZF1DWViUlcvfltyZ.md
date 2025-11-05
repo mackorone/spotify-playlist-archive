@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Satantango in cover
 
-1,707 songs - 3 day 22 hr 41 min
+1,708 songs - 3 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Cicale](https://open.spotify.com/track/2YaQSA2uGjEeVUQtsjX9Ew) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Cicale](https://open.spotify.com/album/67fheAlF6keL8ZDYb5S2W6) | 3:26 | 2024-06-27 | 2024-11-08 |
 | [Cicatrici](https://open.spotify.com/track/5NI77Wqg3GKECjoUtgwFTD) | [Colonne](https://open.spotify.com/artist/1lyMJ6BKcP0BlzXX3fWVHT) | [Tutto a Posto](https://open.spotify.com/album/254VUHtJiTgUXs9ZAURgFS) | 3:04 | 2024-02-29 | 2024-04-19 |
 | [Cilantro Grass](https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Parrots & The Park \(Pastimes Vol\. I\)](https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S) | 2:35 | 2022-06-16 | 2022-06-24 |
+| [Cilone](https://open.spotify.com/track/0gYShmZYu8PPDfEFuw8eSy) | [Altro](https://open.spotify.com/artist/4ANK4BQnzUEvDqYSm6TLjt) | [Cilone](https://open.spotify.com/album/2AmUDOkahxlF3Acxw0upfQ) | 1:31 | 2025-11-04 |  |
 | [Cimitero](https://open.spotify.com/track/3IPNLgCJJkFjHRtktUa28N) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Cimitero](https://open.spotify.com/album/1Tjkz14aQzJtOEX4mhehUP) | 2:12 | 2024-01-18 | 2024-03-01 |
 | [Cinema](https://open.spotify.com/track/3dmDKB9fmskXEjZcMniFh8) | [Balto](https://open.spotify.com/artist/2u3GEhLf7fYa480zQ7e0bZ) | [Cinema](https://open.spotify.com/album/51PNUR52FSQVhkxnRGp8dJ) | 2:47 | 2024-11-07 | 2024-11-22 |
 | [Cineraria](https://open.spotify.com/track/27Go5mJrYECfqOXiCcLvbZ) | [Leita](https://open.spotify.com/artist/5uZSi8TsRkUiPOcBZyPXZO) | [Alle Porte Del Regno Animale](https://open.spotify.com/album/2wiXbktLtkiLFbRkic1GUT) | 2:53 | 2025-03-06 | 2025-05-16 |

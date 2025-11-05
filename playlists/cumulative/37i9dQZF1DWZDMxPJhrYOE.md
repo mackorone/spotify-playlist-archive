@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-806 songs - 1 day 17 hr 39 min
+807 songs - 1 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/track/5nASqWcjcInzxUXi85drKk) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/album/3VdtcZKWLij2eQGc75CElV) | 2:31 | 2025-05-15 | 2025-06-29 |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-26 | 2025-01-25 |
 | [Have The Heart \(Feat\. Dolly Parton\)](https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:03 | 2024-08-16 | 2024-11-08 |
+| [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 | 2025-10-30 |  |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-17 | 2025-07-18 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/40kmaQ1Dpddc9EUuUrPMP0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Healing \(Shattered Heart\)](https://open.spotify.com/album/3UImWW3XpXLzF5l9VsEft5) | 2:42 | 2024-07-31 | 2024-08-09 |
 | [Heartbreaker From Tennessee](https://open.spotify.com/track/7HSEbDs7fluK8oXGduNKay) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Heartbreaker From Tennessee](https://open.spotify.com/album/6Imjg8TtPxOpudGWMqUeCH) | 2:12 | 2024-12-05 | 2025-02-23 |
@@ -768,7 +769,7 @@
 | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-07-01 | 2024-07-27 |
 | [Wake Me Up](https://open.spotify.com/track/4qR6ZdTuHGeXdWcKJB7sUA) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Wake Me Up](https://open.spotify.com/album/3IjmE1mPSh09HyJXUtElAN) | 4:15 | 2024-12-05 | 2024-12-13 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-07-01 | 2024-09-20 |
-| [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-16 |  |
+| [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-16 | 2025-11-05 |
 | [Waterfalls](https://open.spotify.com/track/2iKyCCz8V7tvk7OtBF2bpy) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Waterfalls](https://open.spotify.com/album/0EyYnQXxYdgNYKxjgUbglf) | 2:39 | 2025-10-09 | 2025-10-24 |
 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 | 2025-07-11 | 2025-09-06 |
 | [We Are One](https://open.spotify.com/track/6gEqjxhH442KteWsCOIQRM) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [We Are One](https://open.spotify.com/album/2flPRBI1wJUZ9dZJ3hEL3v) | 3:14 | 2025-09-04 | 2025-09-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 40372,
+  "num_followers": 40416,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAADU6latFREcGNbhn5uGK0tj",
+  "snapshot_id": "aQfwgAAAAAAfG3wxsoX3B5omL2qmQwin",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140606,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140606,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
     },
     {
       "added_at": null,

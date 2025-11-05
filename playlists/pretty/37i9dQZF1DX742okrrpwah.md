@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > ROSALÍA, Josman et Amir au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,371 likes - 67 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,359 likes - 67 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 23 | [To The Sky](https://open.spotify.com/track/6vHWANJBLPKJLxo3hc4JlA) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [To The Sky](https://open.spotify.com/album/0thEH6s5KK3D4yJz1ss6Ep) | 2:49 |
 | 24 | [The Future Is Cancelled](https://open.spotify.com/track/63RRBZLduS3iKJkzzlHnp0) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [The Future Is Cancelled](https://open.spotify.com/album/5NqBxIPIZ6Fm9x6X7QafoU) | 3:27 |
 | 25 | [Unoriginal](https://open.spotify.com/track/0k4qLmMUs7HOvGYtkljECk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unoriginal / Black\-Eyed Susan Climb](https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO) | 2:58 |
-| 26 | [PTSD](https://open.spotify.com/track/1k5VO1U9cBQGiDVACnHWe0) | [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [PTSD](https://open.spotify.com/album/77kuAD2GBUWw0VICgH4e33) | 1:59 |
+| 26 | [PTSD](https://open.spotify.com/track/1k5VO1U9cBQGiDVACnHWe0) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU), [Todiefor](https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ) | [PTSD](https://open.spotify.com/album/77kuAD2GBUWw0VICgH4e33) | 1:59 |
 | 27 | [HARDSTYLE 2](https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [HARDSTYLE 2](https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U) | 4:46 |
 | 28 | [SIBÉRIE](https://open.spotify.com/track/2MylcFlhnlzAiIYVDeuzx3) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [SIBÉRIE](https://open.spotify.com/album/5WvGKuT1R80GqwjeaWg6c8) | 2:42 |
 | 29 | [VACAY](https://open.spotify.com/track/1CutUMtI4rkedIHL1An2ky) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [VACAY](https://open.spotify.com/album/2PW7NCWCtucBocBe0Ute4F) | 2:51 |

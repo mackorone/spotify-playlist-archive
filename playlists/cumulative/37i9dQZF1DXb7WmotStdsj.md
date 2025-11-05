@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb7WmotStdsj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb7WmotStdsj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7WmotStdsj)
 
-### [Raï Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
+### [Rai Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
 
-> Les hits Raï du moment.
+> أفضل أغاني الراي
 
 236 songs - 19 hr 10 min
 

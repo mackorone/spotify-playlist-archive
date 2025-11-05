@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Rosalía, Tyler The Creator, Ado, Eve, 幾田りら and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,642 likes - 58 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,641 likes - 58 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

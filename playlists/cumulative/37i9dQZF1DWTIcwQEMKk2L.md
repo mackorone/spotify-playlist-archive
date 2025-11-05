@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-199 songs - 9 hr 20 min
+200 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2024-07-29 |  |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2025-10-20 |  |
 | [Deck the Halls](https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Deck the Halls \~ Solo Piano Christmas](https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2) | 3:40 | 2024-12-09 | 2025-01-31 |
+| [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2025-10-20 |  |
 | [Disconnect](https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD) | [Alice Frohde](https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe) | [Disconnect](https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4) | 2:34 | 2023-12-11 |  |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2023-11-20 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Don't Go To Strangers](https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE) | 3:41 | 2025-04-14 | 2025-10-30 |
@@ -204,7 +205,7 @@
 | [You Are Peace](https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [You Are Peace](https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT) | 3:24 | 2023-11-20 |  |
 | [You Could Stay If You Want To](https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [You Could Stay If You Want To](https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9) | 3:18 | 2025-07-14 | 2025-07-28 |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [You Stepped Out Of A Dream](https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS) | 2:35 | 2025-06-30 | 2025-10-27 |
-| [Young and Foolish](https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Young and Foolish](https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0) | 2:54 | 2025-06-30 |  |
+| [Young and Foolish](https://open.spotify.com/track/0jXDdQhyBxYpN8IdepBwzn) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Young and Foolish](https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0) | 2:54 | 2025-06-30 | 2025-11-05 |
 | [Yours Is My Heart Alone](https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Yours Is My Heart Alone](https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3) | 3:21 | 2025-06-30 | 2025-10-28 |
 | [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2024-12-09 |  |
 

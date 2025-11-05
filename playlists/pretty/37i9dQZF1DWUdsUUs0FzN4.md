@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con Miranda Santizo hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,187 likes - 68 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,185 likes - 68 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

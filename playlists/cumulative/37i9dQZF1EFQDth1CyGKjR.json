@@ -2871,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/6xAV4s1HRUvwir1e6zimtP"
+    },
+    {
+      "album": {
         "name": "Burn The Ships (Deluxe Edition: Remixes & Collaborations)",
         "url": "https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb"
       },

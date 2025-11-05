@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno
 
-787 songs - 1 day 12 hr 1 min
+789 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [22 and Confused](https://open.spotify.com/track/5cz5ks12l9nyKjwtoFEV6S) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [22 and Confused](https://open.spotify.com/album/2lxnzpLEjE8hY3ikX06if5) | 2:03 | 2021-11-16 | 2022-02-19 |
 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 | 2025-04-29 | 2025-07-02 |
 | [24 48](https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [24 48](https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l) | 2:33 | 2022-04-15 | 2022-06-11 |
-| [26](https://open.spotify.com/track/5g9l6lC7v2Z7OpXIztsJII) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [hara\-kiri \(Deluxe\)](https://open.spotify.com/album/67BXbMRq618ZlEqgcoZeAT) | 2:11 | 2025-05-16 |  |
+| [26](https://open.spotify.com/track/5g9l6lC7v2Z7OpXIztsJII) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [hara\-kiri \(Deluxe\)](https://open.spotify.com/album/67BXbMRq618ZlEqgcoZeAT) | 2:11 | 2025-05-16 | 2025-11-05 |
 | [2D](https://open.spotify.com/track/2EifArXfbbtd81owNuz3f8) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [2D](https://open.spotify.com/album/3tHc4SsvGMU2W6DcAiGkXT) | 3:11 | 2023-06-23 | 2024-06-01 |
 | [2hrs](https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [2hrs](https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6) | 1:04 | 2023-04-04 | 2023-07-08 |
 | [2Much 2Fast \(feat\. Landon Cube\)](https://open.spotify.com/track/2QpAdnOzTNkjVrOOxXndH4) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [2Much 2Fast \(feat\. Landon Cube\)](https://open.spotify.com/album/0DdZ1V6pvT3hYnYwhP3hQj) | 2:37 | 2025-02-28 | 2025-04-30 |
@@ -242,7 +242,7 @@
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-16 | 2022-02-26 |
 | [Fine](https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Fine](https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg) | 2:30 | 2022-10-11 | 2022-12-21 |
 | [Finest](https://open.spotify.com/track/2YPAdqWqaT5fb6iE8BEZHT) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Finest](https://open.spotify.com/album/6EIzf0WuxDzRbYmEWV0wXj) | 3:21 | 2025-05-27 | 2025-08-19 |
-| [Fire](https://open.spotify.com/track/5R3mhmaTWx6zlLgmBimBS6) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Fire](https://open.spotify.com/album/0F6GGtpOpeS0Tl5Ks74X0W) | 2:47 | 2025-08-08 |  |
+| [Fire](https://open.spotify.com/track/5R3mhmaTWx6zlLgmBimBS6) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Fire](https://open.spotify.com/album/0F6GGtpOpeS0Tl5Ks74X0W) | 2:47 | 2025-08-08 | 2025-11-05 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-07-07 |
 | [Fishnets](https://open.spotify.com/track/6JnLTBWxTM8M25AJuyFCs2) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Fishnets](https://open.spotify.com/album/3mfeRfnXvnOSGr3BgHWAIs) | 3:05 | 2023-10-13 | 2025-03-24 |
 | [five year plan](https://open.spotify.com/track/7906VnRknBNK6Eb8ABcUgq) | [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [five year plan](https://open.spotify.com/album/4saAmbd9zLQIETX9UkkntL) | 2:27 | 2023-04-14 | 2024-01-23 |
@@ -382,6 +382,7 @@
 | [Keys](https://open.spotify.com/track/1kCI0UC3E0gwtOVdgyukFD) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Keys](https://open.spotify.com/album/38tcHYIBDdOtJB0hh7XiHe) | 2:52 | 2022-02-25 | 2022-06-04 |
 | [Kick Back \(feat\. Matt from Matt and Kim\)](https://open.spotify.com/track/7mMimQjKOCCNUYgyCMwOwA) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [Coming of Age](https://open.spotify.com/album/1ECVICmYrUie6EIuhvSuWm) | 3:46 | 2022-04-22 | 2022-05-20 |
 | [Know Better](https://open.spotify.com/track/2YCDVu4FofMFvSJt5Vggu2) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Know Better](https://open.spotify.com/album/64yqSFX8tX8XYrVbtXsfgu) | 3:19 | 2022-01-14 | 2022-05-20 |
+| [KO](https://open.spotify.com/track/2pAombGD2E4luR6lArQHCJ) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [KO](https://open.spotify.com/album/4X4lSxXixoFEuAkUICyZMR) | 3:34 | 2025-11-04 |  |
 | [la di da \- acoustic](https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 3](https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5) | 1:28 | 2022-04-08 | 2022-05-07 |
 | [La La Land](https://open.spotify.com/track/7taeV6Kz3xIgjx5QR0eG8p) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/1gTkvHFHZhcFMhpy0Ko2Ln) | 2:37 | 2022-07-12 | 2022-11-22 |
 | [Lady Killers III](https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lady Killers III](https://open.spotify.com/album/3RCknpgHZcaBHdLSmXU2Cb) | 2:56 | 2024-05-31 | 2025-08-27 |
@@ -439,6 +440,7 @@
 | [Matador](https://open.spotify.com/track/58hnYlg8wf15n85yzeG7YK) | [brother sundance](https://open.spotify.com/artist/1AbcKIsIR4SV7pPdm0GRsd) | [Matador](https://open.spotify.com/album/40ulnbYUwlXLzlgV6wDYyE) | 2:50 | 2021-11-16 | 2022-02-19 |
 | [mathematics](https://open.spotify.com/track/14wlnbFSJj5VTK5c1cDQMQ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [mathematics](https://open.spotify.com/album/0YoJg9rGP5vZI7sMC3vwhm) | 2:27 | 2022-04-08 | 2022-05-20 |
 | [Maui Wowie](https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [A Kid Named Cudi](https://open.spotify.com/album/2blXZboio9DF8VC39LmUag) | 2:23 | 2025-10-20 |  |
+| [MAZZALEEN](https://open.spotify.com/track/6AhJ1N1Ua0nhJQa9G4fqyO) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [II](https://open.spotify.com/album/3bYmRWtPWM94WfgoW6QGzL) | 1:48 | 2025-11-04 |  |
 | [Medicine](https://open.spotify.com/track/3BuyvZXqG2GvQ6RertnyAt) | [Miles Wesley](https://open.spotify.com/artist/4WhfepOctZk2kVISWeeNo3), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Medicine](https://open.spotify.com/album/6qMn2B1Pee5ttuYcqJCJFq) | 3:11 | 2021-11-16 | 2022-02-26 |
 | [MERCEDES](https://open.spotify.com/track/6VEssnVAOZDmDEWrVCj4HP) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [A NECESSARY EVIL](https://open.spotify.com/album/0bYw8OiOHrDz8PerNCciSO) | 2:20 | 2023-06-23 | 2024-06-01 |
 | [Mero Mero](https://open.spotify.com/track/0DEhpnXCQButZJDhQ7KXrA) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Mero Mero](https://open.spotify.com/album/2T2iIfXu2G1ndz3qgTrD1P) | 2:34 | 2024-03-15 | 2025-03-24 |

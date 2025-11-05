@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,775 likes - 117 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,784 likes - 117 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 29 | [Satellites](https://open.spotify.com/track/3vTrtBC44TMnMPhZ4M7u1P) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Satellites](https://open.spotify.com/album/14hRpipLoo5qgzWDmSEplG) | 4:36 |
 | 30 | [Viagem](https://open.spotify.com/track/1hw9A8sc13UHxZaKoou9Vx) | [Tiago Bettencourt](https://open.spotify.com/artist/7Aqr06WngG4dj6rArzKgUG) | [2019 \- Rumo ao Eclipse](https://open.spotify.com/album/5omC20UOFWzCvd77px4CBA) | 4:26 |
 | 31 | [Se Me Deixasses Ser](https://open.spotify.com/track/4fi4IPVk7jPB3Nlr2Rea4U) | [Tiago Bettencourt](https://open.spotify.com/artist/7Aqr06WngG4dj6rArzKgUG) | [A Procura](https://open.spotify.com/album/03tvDscBXA3Zypa12jWECO) | 4:00 |
-| 32 | [someone](https://open.spotify.com/track/2RYZvP3DX7lj8Yzpv63UYF) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [someone](https://open.spotify.com/album/53w2Th0lIwncJDoLhhfz9a) | 3:29 |
+| 32 | [someone](https://open.spotify.com/track/2RYZvP3DX7lj8Yzpv63UYF) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [someone](https://open.spotify.com/album/53w2Th0lIwncJDoLhhfz9a) | 3:30 |
 | 33 | [La Noche](https://open.spotify.com/track/2G6kgs4EwNlD6ryujXV10b) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Memoirs In Armour](https://open.spotify.com/album/4HgkXIyPXtXueFq7swBqXa) | 3:47 |
 | 34 | [Moment Hung](https://open.spotify.com/track/3XJoql5pyhwGtQYfUwKDGb) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Song of Sage: Post Panic!](https://open.spotify.com/album/7fdZwTbIUUVJ6Efrma3xlC) | 2:25 |
 | 35 | [Cycles](https://open.spotify.com/track/6DvzkI3dZLJMN0QCwryF1C) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Superkilen](https://open.spotify.com/album/4yITNJlltc0Tiu679pnWu7) | 4:19 |

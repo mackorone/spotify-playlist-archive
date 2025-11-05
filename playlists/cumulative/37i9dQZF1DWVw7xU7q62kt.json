@@ -964,7 +964,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 125953,
       "name": "Beyond Horizon",
       "url": "https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 117176,
       "name": "Blades",
       "url": "https://open.spotify.com/track/7Bqkuj2wPcgfdolI8NEUhf"
@@ -7028,7 +7028,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 96000,
       "name": "Lungo",
       "url": "https://open.spotify.com/track/4jgRs4SYRkiRaNwFaSfTkm"
@@ -11857,6 +11857,28 @@
     },
     {
       "album": {
+        "name": "Sunset by the Lake",
+        "url": "https://open.spotify.com/album/1GLa8p6VZx8bF9a4nqg7yq"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101757,
+      "name": "Sunset by the Lake",
+      "url": "https://open.spotify.com/track/1tdG86Nguvb7ylGQiReC90"
+    },
+    {
+      "album": {
         "name": "Days In The Sun",
         "url": "https://open.spotify.com/album/4jrMiOto4gfVQVapKnhIJx"
       },
@@ -13044,7 +13066,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 96102,
       "name": "Trip To Munich",
       "url": "https://open.spotify.com/track/326BdVJs3PH6TE56UKa7Wu"
@@ -13900,6 +13922,32 @@
       "duration_ms": 111000,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/5xcse24DCIYJeRr5lTZPTR"
+    },
+    {
+      "album": {
+        "name": "Water Reflections",
+        "url": "https://open.spotify.com/album/2DfBvCJZs7lLG5QIIXXNFl"
+      },
+      "artists": [
+        {
+          "name": "Simber",
+          "url": "https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0"
+        },
+        {
+          "name": "Lock",
+          "url": "https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A"
+        },
+        {
+          "name": "Cali Soul",
+          "url": "https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119674,
+      "name": "Water Reflections",
+      "url": "https://open.spotify.com/track/6oJdNQwY3q3rajH52K2aG1"
     },
     {
       "album": {

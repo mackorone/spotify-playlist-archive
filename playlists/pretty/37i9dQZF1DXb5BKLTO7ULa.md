@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Jan Smit, ROSALÍA, néomí, Esko, BLØF & Racoon en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,571 likes - 86 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,546 likes - 86 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 40 | [LIES](https://open.spotify.com/track/0z44wrDhO5KsqGKVZQRT7D) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94) | [LIES](https://open.spotify.com/album/5y6z9jDcqVvavweZ62l1bN) | 3:44 |
 | 41 | [Performante Pain](https://open.spotify.com/track/2CFOMeQAeajRPnYKOBu6Zy) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Performante Pain](https://open.spotify.com/album/5qktduaeZekiMaNegeRA3z) | 3:02 |
 | 42 | [Poko Poko](https://open.spotify.com/track/0sMKO5kThQuiXBnBS9SauK) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Rich Kalashh](https://open.spotify.com/artist/6Lison90Nuv6paiGTrTqRl), [Dongo](https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2) | [Poko Poko](https://open.spotify.com/album/6gyyAJuEBycmqmMSuGdt8A) | 2:31 |
-| 43 | [Bam Bam \(with Sheridan\)](https://open.spotify.com/track/4b8T2gyeUIQSAa02TVWtTi) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Bam Bam \(with Sheridan\)](https://open.spotify.com/album/2ajx5N6btd6oxEePlGAmTm) | 2:24 |
+| 43 | [Bam Bam \(with Sheridan\)](https://open.spotify.com/track/4b8T2gyeUIQSAa02TVWtTi) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Bam Bam \(with Sheridan\)](https://open.spotify.com/album/2ajx5N6btd6oxEePlGAmTm) | 2:24 |
 | 44 | [Zuidas Jimmy](https://open.spotify.com/track/3YqsML7aILH28qx53cMJvQ) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Zuidas Jimmy](https://open.spotify.com/album/2CeH2PT1LLHIbaa7BuTpE2) | 2:57 |
 | 45 | [Done Searching](https://open.spotify.com/track/7zVGrJKv5WEDW23z2qvmLR) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Done Searching](https://open.spotify.com/album/6yiWE718oOyYfQqxPl16Ol) | 2:48 |
 | 46 | [Skip A Few Steps \(feat\. ANY\)](https://open.spotify.com/track/3uhDIHIjJCJRCHZrXRysuG) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [Skip A Few Steps \(feat\. ANY\)](https://open.spotify.com/album/7dDmJgKsr5rkxuS6o6XiE3) | 2:06 |

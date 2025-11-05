@@ -2,7 +2,7 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: Ice Nine Kills
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Bad Omens
 
 1,597 songs - 3 day 23 hr 35 min
 

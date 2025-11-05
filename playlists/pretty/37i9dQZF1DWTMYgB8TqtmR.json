@@ -1,12 +1,12 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 859998,
+  "num_followers": 859960,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2xvtK48FB6wnkcw9dRQDZ8K7tV",
+  "snapshot_id": "AAAAADNgCMbjA57pJBTrrCfFSf/qay0+",
   "tracks": [
     {
       "added_at": "2025-11-03 08:20:38",
@@ -325,20 +325,24 @@
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
     },
     {
-      "added_at": "2025-11-03 08:20:38",
+      "added_at": "2025-11-04 16:02:47",
       "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+        "name": "Bakom molnen",
+        "url": "https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
         }
       ],
-      "duration_ms": 211960,
-      "name": "SPEED DEMON",
-      "url": "https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh"
+      "duration_ms": 182400,
+      "name": "Bakom molnen",
+      "url": "https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw"
     },
     {
       "added_at": "2025-11-03 08:20:38",
@@ -655,22 +659,6 @@
     {
       "added_at": "2025-11-03 08:20:38",
       "album": {
-        "name": "Lys p\u00e5 mig",
-        "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Lys p\u00e5 mig",
-      "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
-    },
-    {
-      "added_at": "2025-11-03 08:20:38",
-      "album": {
         "name": "I Wanna",
         "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
       },
@@ -759,6 +747,22 @@
       "duration_ms": 109800,
       "name": "H\u00e5ller Mig Sj\u00e4lv",
       "url": "https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq"
+    },
+    {
+      "added_at": "2025-11-03 08:20:38",
+      "album": {
+        "name": "Lys p\u00e5 mig",
+        "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Lys p\u00e5 mig",
+      "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
     },
     {
       "added_at": "2025-11-03 08:20:38",

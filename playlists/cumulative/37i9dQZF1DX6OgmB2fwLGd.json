@@ -20257,6 +20257,24 @@
     },
     {
       "album": {
+        "name": "bastard",
+        "url": "https://open.spotify.com/album/5d5EOkujMDdyVnCv5WuuAv"
+      },
+      "artists": [
+        {
+          "name": "bunii",
+          "url": "https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172721,
+      "name": "toothache",
+      "url": "https://open.spotify.com/track/2DU3ToevqSisgAV8ohecc2"
+    },
+    {
+      "album": {
         "name": "Boy On Mars 2",
         "url": "https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq"
       },

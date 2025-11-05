@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Coogie)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -9170,7 +9170,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 319106,
       "name": "Memories of You and Me",
       "url": "https://open.spotify.com/track/1F5MRky5joGXiNlsfUdaXa"
@@ -11679,6 +11679,24 @@
     },
     {
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/7waKXKG8F5UaTLyiLkvDGH"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5xYjKeo7tKjIA39IUyr5yL"
+    },
+    {
+      "album": {
         "name": "Rain (feat. Uyeon)",
         "url": "https://open.spotify.com/album/244oDj3xy4uMgU66lFd1yo"
       },
@@ -13102,6 +13120,24 @@
       "duration_ms": 179590,
       "name": "Show Window (Feat. pH-1)",
       "url": "https://open.spotify.com/track/2kNyLmoOsWq89SNSJzdoUs"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/7waKXKG8F5UaTLyiLkvDGH"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/0smNbgXPBVxCgXGLmQMhS9"
     },
     {
       "album": {
@@ -15112,7 +15148,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 128304,
       "name": "trouble",
       "url": "https://open.spotify.com/track/3kjITZTzIoKM929dACraW6"

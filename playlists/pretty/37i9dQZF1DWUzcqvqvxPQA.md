@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,925 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,939 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 29 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 | 30 | [Blood Stained Cross](https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [Blood Stained Cross](https://open.spotify.com/album/3NBB2PDKEh0RG8IBW6yD1a) | 4:51 |
 | 31 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
-| 32 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
-| 33 | [Homeward Ache](https://open.spotify.com/track/2iEDTIFg9oMHQAq3tlpA1a) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [Homeward Ache](https://open.spotify.com/album/4iyzKhfv21pH7dPsZN0Kkf) | 4:17 |
+| 32 | [Homeward Ache](https://open.spotify.com/track/2iEDTIFg9oMHQAq3tlpA1a) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [Homeward Ache](https://open.spotify.com/album/4iyzKhfv21pH7dPsZN0Kkf) | 4:17 |
+| 33 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
 | 34 | [Brittle](https://open.spotify.com/track/1TfhnviXtcjpfXi6nINyDg) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Brittle](https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J) | 3:32 |
 | 35 | [Things Jesus Didn't Say](https://open.spotify.com/track/03qGBQopCiCi47Kq2ZPsn2) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Things Jesus Didn't Say](https://open.spotify.com/album/0BqDLIkQKH99l04mD2rkm7) | 2:22 |
 | 36 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 45 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/2Gdc4bTh7MYkPQGXbMeyzr) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/1m93X8VpURTvUomirYDWQT) | 4:20 |
 | 46 | [It Is Well](https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [It Is Well](https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY) | 3:20 |
 | 47 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
-| 48 | [Jar Of Clay](https://open.spotify.com/track/3Ha8rp9jG6GRg3wHR34SLv) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Jar Of Clay](https://open.spotify.com/album/5sblqeZn9ghEosSqTEgPbn) | 3:08 |
-| 49 | [Necessary Evil](https://open.spotify.com/track/4Dp5SdYi4pvrJufTtGrOCS) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Necessary Evil](https://open.spotify.com/album/1u8O10wPCSWsh3mePE3pmW) | 3:28 |
+| 48 | [Necessary Evil](https://open.spotify.com/track/4Dp5SdYi4pvrJufTtGrOCS) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [Necessary Evil](https://open.spotify.com/album/1u8O10wPCSWsh3mePE3pmW) | 3:28 |
+| 49 | [Jar Of Clay](https://open.spotify.com/track/3Ha8rp9jG6GRg3wHR34SLv) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Jar Of Clay](https://open.spotify.com/album/5sblqeZn9ghEosSqTEgPbn) | 3:08 |
 | 50 | [Here I Am](https://open.spotify.com/track/1mhVnXC0Mf8HUpvj2ZtqEY) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [Here I Am](https://open.spotify.com/album/30yJdJF6LgTH5gYqVIgoS7) | 3:18 |
 | 51 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
 | 52 | [In The Ether](https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Revival In My Mind](https://open.spotify.com/album/68N1AI8w7ZHKpWuevdr2Uz) | 4:41 |

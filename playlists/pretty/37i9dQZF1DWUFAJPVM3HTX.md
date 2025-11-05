@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2?si=gvkmi9ZDQKuqTPca0jn3Eg">Storm Ford</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,561 likes - 350 songs - 17 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,575 likes - 350 songs - 17 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 349 | [Jasmine](https://open.spotify.com/track/79caefVm1doZCBxjGeb6Xi) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [Jasmine](https://open.spotify.com/album/6mTOxrQnRLH9z59TgJGG76) | 2:53 |
 | 350 | [Been Here Before](https://open.spotify.com/track/2AugNlI0B3qB6f574Msr7F) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Been Here Before](https://open.spotify.com/album/0YqKvS9WInh9tlMeD90KOj) | 3:48 |
 
-Snapshot ID: `AAAAANVZlhVasugC7ylmLmOyVi0Ey/O4`
+Snapshot ID: `AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6`

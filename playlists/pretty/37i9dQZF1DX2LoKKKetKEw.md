@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,626 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,643 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 22 | [Calvary](https://open.spotify.com/track/4OCtJ6Jm4TATGTU6tnMKHi) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [METANOIA](https://open.spotify.com/album/6DZgMfVrDgyAKdvTHsMEUH) | 2:53 |
 | 23 | [The Source](https://open.spotify.com/track/3iYBAZBnST0Mj8FrKiSoiV) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [The Source](https://open.spotify.com/album/6gSUiVBOTiFwSKRuEVj1uA) | 2:40 |
 | 24 | [Never Fail](https://open.spotify.com/track/1BX9bky2W3mkqWq7N2Uu3D) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail](https://open.spotify.com/album/721vMtfWYMUurGZqCzt7kZ) | 2:26 |
-| 25 | [UNLIMITED](https://open.spotify.com/track/5tRq6BMkzV0dJCnXJqeSdm) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [UNLIMITED](https://open.spotify.com/album/2Do8T8QxG3rALXoofdSbj3) | 2:43 |
+| 25 | [UNLIMITED](https://open.spotify.com/track/5tRq6BMkzV0dJCnXJqeSdm) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [UNLIMITED](https://open.spotify.com/album/2Do8T8QxG3rALXoofdSbj3) | 2:43 |
 | 26 | [God First](https://open.spotify.com/track/2etcvSTrodoQLDfzLF2Jjk) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [God First](https://open.spotify.com/album/4dIXGvZO6953EzOAyaYeH4) | 2:45 |
 | 27 | [HOLY GHOST](https://open.spotify.com/track/56ml53wkVbtMoSsmw1hkvo) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Eben](https://open.spotify.com/artist/0RiFbgEIISn8DwOutzHis1) | [HOLY GHOST](https://open.spotify.com/album/4dIfinSM1YU4hZGuPfHHXo) | 2:30 |
 | 28 | [fallin'](https://open.spotify.com/track/3BQei8MGDIKpzHyjoB2TOt) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [fallin'](https://open.spotify.com/album/27BpubM8Ly3qHT9euDwjgD) | 2:23 |

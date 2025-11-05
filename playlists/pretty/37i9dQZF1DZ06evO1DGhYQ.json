@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9247,
+  "num_followers": 9252,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAA0aPhzOFiGUu828FqARUWh",
+  "snapshot_id": "aQfwgAAAAACn5D6oAF7A3Nbom/z2qQtR",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEON",
-        "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "The Crane",
-          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 289293,
       "name": "FEELIN' GOOD",
       "url": "https://open.spotify.com/track/51ekzjfX01cxNzjElR8bpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
     },
     {
       "added_at": null,

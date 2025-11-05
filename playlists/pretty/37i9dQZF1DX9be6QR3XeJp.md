@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: JayaHadADream
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,808 likes - 259 songs - 13 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,800 likes - 259 songs - 13 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

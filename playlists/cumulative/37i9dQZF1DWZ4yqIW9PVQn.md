@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-183 songs - 11 hr 5 min
+185 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [6:35PM](https://open.spotify.com/track/0aIuqjVsXQpo0rpkLztzxE) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:07 | 2022-11-01 |  |
 | [A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 | 2023-08-05 | 2024-04-19 |
 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 | 2022-07-04 |  |
+| [A Coat](https://open.spotify.com/track/7qo3sfW9krcd2DFBPYrxib) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Fall 3](https://open.spotify.com/album/0K6dNU8W02QJjKq1anGS0Q) | 3:37 | 2025-11-04 |  |
 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 | 2022-11-01 |  |
 | [a week](https://open.spotify.com/track/31yXAkrPkFQhTFgpTUFJjd) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [a week](https://open.spotify.com/album/7yCmXr5yblhkNXTsEFcFEq) | 3:31 | 2022-11-01 |  |
 | [Acting \(With Heize\)](https://open.spotify.com/track/1SSA6NNzrCo4MmpcHNDX0M) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:41 | 2022-07-04 |  |
@@ -135,6 +136,7 @@
 | [Sorry That I Love You Still](https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Sorry That I Love You Still](https://open.spotify.com/album/2dd1k75R0SlWlEGJgBw07G) | 2:27 | 2022-07-04 |  |
 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 | 2022-07-04 |  |
 | [Spring Road](https://open.spotify.com/track/6gJwSGDQs5KHPPwmYLon1z) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM), [D.Story](https://open.spotify.com/artist/2AEhBDQu2S6EX9xKOrSFfD) | [Spring Road](https://open.spotify.com/album/60COHBzsOf9dEcYuBzz4x0) | 2:53 | 2024-03-08 |  |
+| [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-04 |  |
 | [Stay \(Feat\. amin\)](https://open.spotify.com/track/1gYqYDbYQuuFFcfVSo0aLg) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Stay \(Feat\. amin\)](https://open.spotify.com/album/6XcdNgatOlaJ5EspniDp7x) | 2:48 | 2023-10-16 |  |
 | [stay with me \(With Choi Yu Ree\)](https://open.spotify.com/track/3EY4mUifZWKR0mtaUoG67g) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 2:50 | 2024-03-08 |  |
 | [stay with me \(With Choi Yu Ree\)](https://open.spotify.com/track/3P2w5AkWcX08bNZTc6EWqP) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6iHKlPIButEGe8ckLpjgbM) | 2:50 | 2022-07-04 | 2024-04-19 |

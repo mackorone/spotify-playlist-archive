@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 10111,
+  "num_followers": 10130,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,30 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
+        "name": "Pending (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7nMnJbOpcPuQdP2rIRvWaC"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Anne M\u00fcller",
+          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "Pending (feat. NATURE)",
+      "url": "https://open.spotify.com/track/02CH0iKD7ME2F2pqOqiEaR"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
         "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
         "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
       },
@@ -523,26 +547,22 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "Pending (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7nMnJbOpcPuQdP2rIRvWaC"
+        "name": "Naima (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2QQnmpxrcluC5qv4ewnh25"
       },
       "artists": [
         {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+          "name": "Aura Dione",
+          "url": "https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Anne M\u00fcller",
-          "url": "https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl"
         }
       ],
-      "duration_ms": 342400,
-      "name": "Pending (feat. NATURE)",
-      "url": "https://open.spotify.com/track/02CH0iKD7ME2F2pqOqiEaR"
+      "duration_ms": 150272,
+      "name": "Naima (feat. NATURE)",
+      "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -591,26 +611,6 @@
       "duration_ms": 291380,
       "name": "All We Are (feat. NATURE)",
       "url": "https://open.spotify.com/track/346i3CsCilzxhSipkvYdqJ"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
-        "name": "Naima (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2QQnmpxrcluC5qv4ewnh25"
-      },
-      "artists": [
-        {
-          "name": "Aura Dione",
-          "url": "https://open.spotify.com/artist/5SUSe6NpDjc6BNKX8Dx0hj"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 150272,
-      "name": "Naima (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1diMMU4dEjZad3i42ldDwN"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "In Purpose (feat. NATURE)",
-        "url": "https://open.spotify.com/album/0EHyjPgDfmVplZ2oaPLEQG"
-      },
-      "artists": [
-        {
-          "name": "Madame Gandhi",
-          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 241212,
-      "name": "In Purpose (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0fYg8DpVBD8xSY3Y2slmrR"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
         "name": "Breathe (feat. NATURE)",
         "url": "https://open.spotify.com/album/4gr69bVV2WxDFAqYf3q2It"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 180613,
       "name": "Breathe (feat. NATURE) - Ocean Edit",
       "url": "https://open.spotify.com/track/1SdqHTOuQsSl9I893o4iAr"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
+        "name": "In Purpose (feat. NATURE)",
+        "url": "https://open.spotify.com/album/0EHyjPgDfmVplZ2oaPLEQG"
+      },
+      "artists": [
+        {
+          "name": "Madame Gandhi",
+          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 241212,
+      "name": "In Purpose (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0fYg8DpVBD8xSY3Y2slmrR"
     },
     {
       "added_at": "2025-09-24 00:01:01",
@@ -1119,6 +1119,54 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
+        "name": "Baarishein (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1tJAN3YL2YPUkkaIq8hMPv"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 207217,
+      "name": "Baarishein (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6mkfkL1jVPANJeOA79OFj8"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
+        "name": "Rompecabezas (feat NATURE)",
+        "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 276932,
+      "name": "Rompecabezas (feat NATURE)",
+      "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
+    },
+    {
+      "added_at": "2025-09-24 00:01:01",
+      "album": {
         "name": "A Soul With No King - Remix (feat. NATURE)",
         "url": "https://open.spotify.com/album/596bNFZ0FCXSzoFcyQOb89"
       },
@@ -1247,26 +1295,6 @@
     {
       "added_at": "2025-09-24 00:01:01",
       "album": {
-        "name": "Baarishein (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1tJAN3YL2YPUkkaIq8hMPv"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 207217,
-      "name": "Baarishein (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6mkfkL1jVPANJeOA79OFj8"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
         "name": "wherever u r (feat. V of BTS and NATURE)",
         "url": "https://open.spotify.com/album/2GlNxsOWZEeOY9f2VDRhGt"
       },
@@ -1339,30 +1367,6 @@
       "duration_ms": 302750,
       "name": "Orange Skies (feat. NATURE)",
       "url": "https://open.spotify.com/track/5g2SGvTGdCwTtu37KJskwr"
-    },
-    {
-      "added_at": "2025-09-24 00:01:01",
-      "album": {
-        "name": "Brightest Blue - Nature Remix (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7BMvrXesDbR2n1vW8vErav"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Joe Kearns",
-          "url": "https://open.spotify.com/artist/7Eh6OUut4HFx3P6wWZBFGQ"
-        }
-      ],
-      "duration_ms": 282702,
-      "name": "Brightest Blue - Nature Remix (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7a5bG69omTngxpqXo01wqi"
     }
   ],
   "unique_name": "feat. NATURE",

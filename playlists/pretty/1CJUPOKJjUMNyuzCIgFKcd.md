@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,718 likes - 65 songs - 2 hr 58 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 22,713 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 12 | [ALL TYPA SHI](https://open.spotify.com/track/6n4Pjr07nTigD1LFQrZ1Gc) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#F.E.B](https://open.spotify.com/album/75RMWrQaADsBgO8lGpvj6l) | 2:06 |
 | 13 | [Cash Shit](https://open.spotify.com/track/0LtcUPbzzYdaGZYeq9ekxi) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [Cash Shit](https://open.spotify.com/album/26tsG8O27m1k8g6OW1MzpX) | 2:35 |
 | 14 | [Pop Yo Shit](https://open.spotify.com/track/2JgLe7DD0kkeWddkTxVipY) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Pop Yo Shit](https://open.spotify.com/album/4Bh06WzdV5FoT8aMXzg8uJ) | 3:12 |
-| 15 | [Flea Flickin](https://open.spotify.com/track/3mVP3VKelYDNLaoIg1NmGA) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Tee Romano](https://open.spotify.com/artist/2jqTneUf8hbgKmwzO5Mk0I) | [Flea Flickin](https://open.spotify.com/album/20b6X3aKOWMq8Ck3ePUJI4) | 2:32 |
+| 15 | [Flea Flickin](https://open.spotify.com/track/3mVP3VKelYDNLaoIg1NmGA) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Tee Romano](https://open.spotify.com/artist/2jqTneUf8hbgKmwzO5Mk0I) | [Flea Flickin](https://open.spotify.com/album/20b6X3aKOWMq8Ck3ePUJI4) | 2:29 |
 | 16 | [Naturally Beautiful](https://open.spotify.com/track/15mOkzycTx8WMPzp6MbP6U) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Saint](https://open.spotify.com/album/7qL7JUASlcS8jl4PgId4Bq) | 2:30 |
 | 17 | [Passaway](https://open.spotify.com/track/3MuUG5eKKfyvocwTI3dwwz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Passaway](https://open.spotify.com/album/07JiWRyd1CEghs8mOySQaO) | 3:52 |
 | 18 | [Free Sig](https://open.spotify.com/track/6fks4AIZ3SqaDbzQqqbFBi) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Free Sig](https://open.spotify.com/album/3Ayp57iVKGq77uN50AzXOL) | 2:27 |

@@ -3321,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "album": {
         "name": "Me Acord\u00e9 de Ti",
         "url": "https://open.spotify.com/album/7KsHvRwBtuZlGSmAAPNGdi"
       },
@@ -6190,7 +6208,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 202160,
       "name": "Tus Botellas",
       "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"

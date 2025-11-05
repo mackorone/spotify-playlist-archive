@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: GALE
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,393 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,246 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 11 | [No Voy A Cambiar](https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [No Voy A Cambiar](https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf) | 2:45 |
 | 12 | [La Canción De Los Dos](https://open.spotify.com/track/3zVwgwb0Q9ZAoJdp949VXJ) | [Dimeloking](https://open.spotify.com/artist/4LVVm4QddeluNJAUuiCqRz), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Los Nuevos Reyes](https://open.spotify.com/album/6q7NqAYt7mBBpAdA0lyfAo) | 3:51 |
 | 13 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
-| 14 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:57 |
+| 14 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:56 |
 | 15 | [No Matter](https://open.spotify.com/track/1XnlpYMGAzr69JA4SetBMy) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Matter](https://open.spotify.com/album/62MYpmYWPVlPzVNBLvYeHm) | 2:09 |
 | 16 | [ALO](https://open.spotify.com/track/6My3QAgFsK0ZqeNfzdWran) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [ALO](https://open.spotify.com/album/1sgpXnyR384wM9e8oYOgZW) | 3:08 |
 | 17 | [el + puro](https://open.spotify.com/track/7AqS1h2YyDus82FUPiVRhp) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [el + puro](https://open.spotify.com/album/6Z7t93qqKoI6eslXlBUDlk) | 4:13 |

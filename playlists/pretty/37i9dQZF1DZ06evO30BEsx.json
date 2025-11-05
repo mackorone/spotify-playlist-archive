@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1719,
+  "num_followers": 1725,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABN/DNzlGQPVxCTyOO7f+fO",
+  "snapshot_id": "aQfwgAAAAAByifHR5u7ystdn8dwMnkUo",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
+        "name": "Dessner: Towards the Forest",
+        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         }
       ],
-      "duration_ms": 172586,
-      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
-      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
+      "duration_ms": 239653,
+      "name": "Towards the Forest",
+      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
     },
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dessner: Towards the Forest",
-        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
       },
       "artists": [
         {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         }
       ],
-      "duration_ms": 239653,
-      "name": "Towards the Forest",
-      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
+      "duration_ms": 172586,
+      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
+      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
     },
     {
       "added_at": null,
@@ -735,34 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        }
-      ],
-      "duration_ms": 387440,
-      "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
-      "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haydn: Cello Concertos",
         "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
@@ -787,6 +759,34 @@
       "duration_ms": 273826,
       "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
       "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        }
+      ],
+      "duration_ms": 387440,
+      "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
+      "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art of the Cello",
+        "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Williams: Main Theme (From \"Schindler's List\")",
+      "url": "https://open.spotify.com/track/4iC0pELAxCXMXwjFupya53"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back to School - Classics for Studying",
         "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
       },
@@ -1027,34 +1055,6 @@
       "duration_ms": 82306,
       "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
       "url": "https://open.spotify.com/track/5LmlfG9wHLv7YT3cx4SKXr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rachmaninoff & Brahms",
-        "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Andreas Ottensamer",
-          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 261173,
-      "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
-      "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
     },
     {
       "added_at": null,
@@ -1087,34 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of the Cello",
-        "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Williams: Main Theme (From \"Schindler's List\")",
-      "url": "https://open.spotify.com/track/4iC0pELAxCXMXwjFupya53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -1139,6 +1111,34 @@
       "duration_ms": 372066,
       "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
       "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rachmaninoff & Brahms",
+        "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andreas Ottensamer",
+          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 261173,
+      "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
+      "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
     },
     {
       "added_at": null,

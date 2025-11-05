@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124816,
+  "num_followers": 124809,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUxS4ylBK6hlBl1McY0WE8XDPZHNwn",
+  "snapshot_id": "AAAUxrnj0SzDuw/dtzqh5ktDNckgj1ZF",
   "tracks": [
+    {
+      "added_at": "2025-11-04 15:48:04",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/4N5Yn9vcLQ8RFx3OTKQLwE"
+      },
+      "artists": [
+        {
+          "name": "A.M.R",
+          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
+        },
+        {
+          "name": "Aether",
+          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
+        }
+      ],
+      "duration_ms": 199374,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1Las5DREvBQtqeoYdfgtk3"
+    },
     {
       "added_at": "2025-11-03 16:56:39",
       "album": {

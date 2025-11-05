@@ -4,7 +4,7 @@
 
 > Discover the best hits of Lebanon.
 
-132 songs - 7 hr 47 min
+133 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Akidi](https://open.spotify.com/track/2vxqCirk1P2X5ZdwnWX0Mt) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akidi](https://open.spotify.com/album/1ZCdgTD2L27ZyeWG9JpUsQ) | 3:28 | 2021-09-10 | 2024-10-09 |
 | [Akidi](https://open.spotify.com/track/6O1MhxOyOStFEOeGfAKTm5) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akidi](https://open.spotify.com/album/2M7JFPjxUF8W2MmUwFZf7e) | 3:28 | 2023-03-13 | 2024-04-19 |
 | [Akrab Chakhes](https://open.spotify.com/track/6BNoktQeQbGasv1QdbLrH0) | [Naji Osta](https://open.spotify.com/artist/4bgldXaGu7WvZpkW1NfyBp) | [Akrab Chakhes](https://open.spotify.com/album/3HrfuIuppioPOPh4NS9bED) | 3:29 | 2021-09-10 | 2025-10-11 |
+| [Albi Mertah](https://open.spotify.com/track/7AR95BVtIccdWjaWD2iuWX) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Albi Mertah](https://open.spotify.com/album/4LhiXTMY6udx0hlECrTfb2) | 3:14 | 2025-11-04 |  |
 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 | 2021-09-10 | 2025-10-11 |
 | [Ana Aw La Ahad](https://open.spotify.com/track/0ku1qGWFryWckG7E1yKLpG) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ana Aw La Ahad](https://open.spotify.com/album/6PA9lhEqQT45GpsoVjLKcW) | 3:43 | 2025-10-10 |  |
 | [Ana Lebnani](https://open.spotify.com/track/05yK0D4WzPDYffxjVf6FKU) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ana Lebnani](https://open.spotify.com/album/5kYUHXEtD6A1GimOcpsq9l) | 3:15 | 2024-11-21 | 2025-10-11 |
@@ -114,7 +115,7 @@
 | [Shukran Al Azimi](https://open.spotify.com/track/3nEjEnNRyXNcN6nWoalMvp) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [12 Sa'a](https://open.spotify.com/album/7yWLsrNU17dhFesO9R7EZa) | 3:34 | 2021-09-10 | 2024-10-09 |
 | [Tak Tak Albi](https://open.spotify.com/track/5CjPwqpFmFU9z6LsUXdetV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Tak Tak Albi](https://open.spotify.com/album/3Uxi4zHfS5wjTeFYuLgAsI) | 4:03 | 2025-10-10 |  |
 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 | 2021-09-10 | 2025-10-11 |
-| [Tawaam Hayati](https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 3:54 | 2025-10-11 |  |
+| [Tawaam Hayati](https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa](https://open.spotify.com/album/5XIpOWNfS3eGY9RSxtsg8Q) | 3:54 | 2025-10-11 | 2025-11-05 |
 | [Tawaam Hayati](https://open.spotify.com/track/7j4ZkJkfEC3Qo9FnsAQvJh) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tawaam Hayati](https://open.spotify.com/album/42OwBXvfdodOTNYdpPibfE) | 3:54 | 2025-10-10 |  |
 | [Tetsharrat](https://open.spotify.com/track/6PL3VX8CYX0U3wv1FaEjjg) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v), [الوليد الحلاني](https://open.spotify.com/artist/4U9LzmkjHgY6UFJHRcbDix) | [Tetsharrat](https://open.spotify.com/album/3o5Zl9oCbsU3Yyrkx2zoxM) | 2:53 | 2025-02-02 | 2025-10-11 |
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2021-09-10 |  |

@@ -6,8 +6,148 @@
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOVaCHSV/TB7PKne0gI657uW16myRk",
+  "snapshot_id": "AAAOYsqTP+ibwwTuT/z1UGi5Fgi5j4yP",
   "tracks": [
+    {
+      "added_at": "2025-11-04 16:55:24",
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/2aN1FWQGqSU86NVzRAmvCE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Carl",
+          "url": "https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2"
+        }
+      ],
+      "duration_ms": 229002,
+      "name": "Down (Original Mix)",
+      "url": "https://open.spotify.com/track/6YaFyRsRbB2AIy6Ajea4jB"
+    },
+    {
+      "added_at": "2025-11-04 16:48:44",
+      "album": {
+        "name": "Avian",
+        "url": "https://open.spotify.com/album/1GA0OS0YEE8DpbXtEh2CVj"
+      },
+      "artists": [
+        {
+          "name": "VC-118A",
+          "url": "https://open.spotify.com/artist/6bAk1VOoyEqW2QWSlMWthy"
+        }
+      ],
+      "duration_ms": 383826,
+      "name": "Avian",
+      "url": "https://open.spotify.com/track/4rxAfNgwzTjUYrcZfOwiAg"
+    },
+    {
+      "added_at": "2025-11-04 16:51:28",
+      "album": {
+        "name": "Electrostatic 2025 / Electric Vision 2025",
+        "url": "https://open.spotify.com/album/66Atx7HkIVLJLbweXJbXqu"
+      },
+      "artists": [
+        {
+          "name": "Terence Fixmer",
+          "url": "https://open.spotify.com/artist/54yHcfvcrKO91U46rnzHkc"
+        }
+      ],
+      "duration_ms": 321436,
+      "name": "Electrostatic 2025",
+      "url": "https://open.spotify.com/track/5bufTndJRaySeBxMfbOjzW"
+    },
+    {
+      "added_at": "2025-11-04 16:53:39",
+      "album": {
+        "name": "Tripomatic Fairytales 2001 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt"
+      },
+      "artists": [
+        {
+          "name": "Jam & Spoon",
+          "url": "https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7"
+        }
+      ],
+      "duration_ms": 378933,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/4xpb4uciTIVelhTvPdfZVD"
+    },
+    {
+      "added_at": "2025-11-04 16:50:55",
+      "album": {
+        "name": "Play The Game (Extended Mixes)",
+        "url": "https://open.spotify.com/album/63mKDRDeKg24WywWVnvHzo"
+      },
+      "artists": [
+        {
+          "name": "Kenny Hawkes",
+          "url": "https://open.spotify.com/artist/0XsnJ92KhIB9CioiafxlyZ"
+        },
+        {
+          "name": "Louise Carver",
+          "url": "https://open.spotify.com/artist/2wilE00MONvKHAAbi14jkw"
+        }
+      ],
+      "duration_ms": 406678,
+      "name": "Play The Game - Extended Mix",
+      "url": "https://open.spotify.com/track/3ogRpW4JsIMg3TTq63Kh70"
+    },
+    {
+      "added_at": "2025-11-04 16:52:07",
+      "album": {
+        "name": "Mouth",
+        "url": "https://open.spotify.com/album/1l6GWiB086CDGkDvdBEb8P"
+      },
+      "artists": [
+        {
+          "name": "IZ",
+          "url": "https://open.spotify.com/artist/0CmzwU6uibzA5qohaDZCkg"
+        },
+        {
+          "name": "Diz",
+          "url": "https://open.spotify.com/artist/7C4471WtK4KzOfboGfUS0I"
+        },
+        {
+          "name": "Pep\u00e9 Bradock",
+          "url": "https://open.spotify.com/artist/7JTEGQ1B3TFiYFTyRUDwxO"
+        }
+      ],
+      "duration_ms": 448460,
+      "name": "Mouth - Brad Peep's Remix For Friends",
+      "url": "https://open.spotify.com/track/27plXSLZuSwm7EB1BvACOb"
+    },
+    {
+      "added_at": "2025-11-04 16:54:53",
+      "album": {
+        "name": "RAL 9005",
+        "url": "https://open.spotify.com/album/4TsscVF3ucXmIcvoZ3c3Rf"
+      },
+      "artists": [
+        {
+          "name": "Tiefschwarz",
+          "url": "https://open.spotify.com/artist/6f2k5CwVLvTy0rgw6Q8B4Q"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Acid Soul",
+      "url": "https://open.spotify.com/track/4h3T8s1hN3CL1I4KFuEuys"
+    },
+    {
+      "added_at": "2025-11-04 16:56:23",
+      "album": {
+        "name": "Tears & Hope",
+        "url": "https://open.spotify.com/album/1gjc7Ob9kMCsZ4AmFRcMcP"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/2y6bEcLorsfNNhp8jCovou"
+    },
     {
       "added_at": "2025-10-27 14:17:35",
       "album": {

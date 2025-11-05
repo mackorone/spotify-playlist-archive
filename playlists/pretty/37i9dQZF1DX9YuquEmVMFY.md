@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > TRAVIS SCOTT \- CIRCUS MAXIMUS in Korea 2025.10.25 @ 고양 종합 운동장
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,009 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,218 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

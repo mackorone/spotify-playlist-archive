@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 61647,
+  "num_followers": 61646,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABQF43ohCwPFP9PjsLqiQjl",
+  "snapshot_id": "aQfwgAAAAABR1HuZt4PFPNmZgH0Dc3/M",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Tush",
+      "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 247470,
       "name": "I Hate Myself For Loving You",
       "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Tush",
-      "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Rebel, Rebel",
-      "url": "https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
       },
@@ -775,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unvarnished (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 216640,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 173960,
       "name": "Tulane",
       "url": "https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Reputation (Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Rebel, Rebel",
+      "url": "https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unvarnished (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2"
     },
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love Rock 'N' Roll (Live At The New York Bottom Line, Dec 20th 1980)",
-        "url": "https://open.spotify.com/album/6fG2kqSgt8sM99iJj3keTJ"
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
       },
       "artists": [
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        },
-        {
-          "name": "Blackhearts",
-          "url": "https://open.spotify.com/artist/5mJzqDKepWgcC9IeHNTCKa"
         }
       ],
-      "duration_ms": 39033,
-      "name": "Band Intros - Live",
-      "url": "https://open.spotify.com/track/0dOQ4qzbfNVB5zEvCreGgX"
+      "duration_ms": 255133,
+      "name": "You Want In, I Want Out",
+      "url": "https://open.spotify.com/track/4nPfw7JheKRSPFhqRxPdrQ"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

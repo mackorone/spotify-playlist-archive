@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAACwpzAqnm0QYO4kuOlzxfbX",
+  "snapshot_id": "aQfwgAAAAADG2sc0Zglmde5EV/eSJErx",
   "tracks": [
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+        "name": "Streets Of Gold",
+        "url": "https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo"
       },
       "artists": [
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 175901,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/7yw3aTLXNcxC2gdkeV8hWE"
+      "duration_ms": 180593,
+      "name": "Streets Of Gold",
+      "url": "https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX"
     },
     {
       "added_at": null,
@@ -799,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streets Of Gold",
-        "url": "https://open.spotify.com/album/51XPTXJbsdDqduN0OhUJwo"
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
       },
       "artists": [
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 180593,
-      "name": "Streets Of Gold",
-      "url": "https://open.spotify.com/track/25lRM5gnPkkOt92N0TZHfX"
+      "duration_ms": 175901,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7yw3aTLXNcxC2gdkeV8hWE"
     },
     {
       "added_at": null,
@@ -835,6 +835,30 @@
       "duration_ms": 173150,
       "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
       "url": "https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Good",
+        "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "This Good",
+      "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
     },
     {
       "added_at": null,
@@ -875,30 +899,6 @@
       "duration_ms": 157470,
       "name": "So Real",
       "url": "https://open.spotify.com/track/0Y1Qdnb7rvqGYj5yp3Pwcu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Good",
-        "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
-      },
-      "artists": [
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        },
-        {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "This Good",
-      "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
     },
     {
       "added_at": null,

@@ -1,13 +1,33 @@
 {
   "description": "Cheerful classical music to wake up with or to accompany a leisurely breakfast. Even if the sun isn\u2019t shining it seems like it does! <a href=\"http://www.sinfinimusic.com/nl\">Discover more classical music on Classics To Go.</a>",
-  "num_followers": 9352,
+  "num_followers": 9349,
   "original_name": "Classical Sunday Morning",
   "owner": {
     "name": "Classics To Go",
     "url": "https://open.spotify.com/user/sinfinimusic.nl"
   },
-  "snapshot_id": "AAACuh9WrFFPqANuDvF5ryjB9xnH/b6+",
+  "snapshot_id": "AAACvEnguBzrgG0fvYDjW7zosQ6CHMGn",
   "tracks": [
+    {
+      "added_at": "2025-11-04 13:33:39",
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude No. 9 in E Major, BWV 854",
+        "url": "https://open.spotify.com/album/5OxcqEdKwByOFr1ncNtMXt"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 104319,
+      "name": "The Well-Tempered Clavier I: Prelude No. 9 in E Major, BWV 854",
+      "url": "https://open.spotify.com/track/40wF7T5TCODZjl9PMCIkhK"
+    },
     {
       "added_at": "2025-05-23 11:51:02",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 302720,
       "name": "Matth\u00e4us-Passion, BWV 244: Aria: Aus Liebe will mein Heiland sterben (Arr. Anderson & Roe for 2 Pianos)",
       "url": "https://open.spotify.com/track/0l5Jzd9t2IDdxcwG9KtKEQ"
-    },
-    {
-      "added_at": "2025-05-23 11:51:02",
-      "album": {
-        "name": "J.S. Bach: Cantata, BWV 12: Weinen, Klagen, Sorgen, Zagen (Arr. \u00d3lafsson for Piano)",
-        "url": "https://open.spotify.com/album/5W3nN0jSzhwKGxyQfd5qlF"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 158743,
-      "name": "Cantata, BWV 12: Weinen, Klagen, Sorgen, Zagen (Arr. \u00d3lafsson for Piano)",
-      "url": "https://open.spotify.com/track/0IUVON8lQaZRkbqoX63tmb"
     },
     {
       "added_at": "2025-05-23 11:51:02",

@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 223903,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/40yE0gCybjI6ND0hCac2ft"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 319633,
       "name": "Kiseki Wo Mattetatte",
       "url": "https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9"
@@ -3901,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
+        "url": "https://open.spotify.com/album/7sXFcyqLpDJiLs4awycwQk"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213757,
+      "name": "\u3042\u306a\u305f\u3068\u3044\u305f\u3044",
+      "url": "https://open.spotify.com/track/3lhSoYrMfyX9Mg24Fdp0eo"
+    },
+    {
+      "album": {
         "name": "\u3042\u3089\u3044\u3056\u3089\u3044",
         "url": "https://open.spotify.com/album/7GrJT4y3UHgNNoaBeqe7YU"
       },
@@ -5688,6 +5706,24 @@
       "duration_ms": 207147,
       "name": "\u30e9\u30d6\u3068\u30d4\u30fc\u30b9",
       "url": "https://open.spotify.com/track/7McrUOr41CllamAuxWUsbt"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/0TmrVaVmfbq84zsCl3lIrj"
+      },
+      "artists": [
+        {
+          "name": "BILLY BOO",
+          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259201,
+      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2bxVVFluBkIu65DEoy92IU"
     },
     {
       "album": {

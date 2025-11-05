@@ -4,7 +4,7 @@
 
 > Playlist
 
-617 songs - 1 day 12 hr 31 min
+618 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Loverboy](https://open.spotify.com/track/375MmzTJHKB4cL7kEfTgKy) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Loverboy](https://open.spotify.com/album/3tZtehud2gmrnNNm9IsMOi) | 3:26 | 2023-10-25 |  |
 | [Loverboy \- Saib Remix](https://open.spotify.com/track/1pYWjYD43C9VhCmZDzdDtC) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Loverboy \(Remixes\)](https://open.spotify.com/album/753myFKOaafeI5Mh2qZ62B) | 3:58 | 2023-10-25 |  |
 | [Loverboy \- Teen Daze Remix](https://open.spotify.com/track/7IZqKRmTxr8Z4H2ZiHstOa) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Loverboy \(Remixes\)](https://open.spotify.com/album/753myFKOaafeI5Mh2qZ62B) | 4:37 | 2023-10-25 |  |
+| [Lule e Egër](https://open.spotify.com/track/68HCHDGbYaiOgO3DYeaXXN) | [Corpus Perditum](https://open.spotify.com/artist/41bRvSUF56ZIhyJsAMahmJ) | [Lule e Egër](https://open.spotify.com/album/6YaXvfFdT7yeh9TR4LYb2u) | 5:40 | 2025-11-04 |  |
 | [Lulu](https://open.spotify.com/track/4EOMFRy5Azu8vDHFfVkJPy) | [Nick Bampton](https://open.spotify.com/artist/4r0wiWD8C32bkfoHPO4kri) | [Slow Lane](https://open.spotify.com/album/2eDMwa5rxsH3RjQZMhPUoI) | 4:37 | 2024-11-27 |  |
 | [L’after](https://open.spotify.com/track/5XUUsjQASOyZY1nJONpGiP) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 4:29 | 2023-10-25 |  |
 | [Made U Cry](https://open.spotify.com/track/0DLLsDnLZkkyiGdE4RagOx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Peer 2 Peer](https://open.spotify.com/album/0yj7MLtNm1dfYoiqU0hONP) | 4:26 | 2023-10-25 |  |

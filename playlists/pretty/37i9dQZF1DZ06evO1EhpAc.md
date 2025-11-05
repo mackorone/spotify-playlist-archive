@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,637 likes - 43 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,635 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 42 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
 | 43 | [Believe In Ya \(Max Tundra Remix\)](https://open.spotify.com/track/1Tlr1PHzDwaPJVRUD6A1bo) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb) | [Believe In Ya \(Max Tundra Remix\)](https://open.spotify.com/album/2sNg4t68Q3df4zOoBG7at6) | 4:44 |
 
-Snapshot ID: `aQafAAAAAABDNmShvc4M3skm6VahtWuM`
+Snapshot ID: `aQfwgAAAAADj+wODLFFT5FygJjPhDFsh`

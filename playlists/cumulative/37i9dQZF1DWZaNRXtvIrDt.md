@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music.
 
-1,080 songs - 3 day 5 hr 9 min
+1,081 songs - 3 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [DJibouti Blues](https://open.spotify.com/track/26Pg9HLVQfvWOf1s05PwUb) | [DJibouti](https://open.spotify.com/artist/2PyUWRpP3uy6MrZB1rPxQw) | [DJibouti Blues](https://open.spotify.com/album/13oGjcG4tpHjFdHiOmKMKk) | 4:17 | 2024-11-28 | 2025-05-02 |
 | [DNA ∞](https://open.spotify.com/track/36sARCGegSJcQp8cXNswGH) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DNA ∞](https://open.spotify.com/album/4LqWy1CjGmMs83GLG6qfMW) | 3:23 | 2025-02-06 | 2025-05-30 |
 | [dnd](https://open.spotify.com/track/0kqfIf5FWo0Qv596PysEth) | [Heni](https://open.spotify.com/artist/5DA9XAtp2mrX5v1uWsk136) | [dnd](https://open.spotify.com/album/1np0InCN8SL05HAFmECvYh) | 3:26 | 2024-04-16 | 2024-08-09 |
-| [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 | 2025-06-12 |  |
+| [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 | 2025-06-12 | 2025-11-05 |
 | [Domenico](https://open.spotify.com/track/2jvoUFy1ovw1q2kloUPBE1) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Domenico](https://open.spotify.com/album/0DhbY3VlbKpUABz7i6gUne) | 4:58 | 2023-03-09 | 2023-05-19 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-25 | 2023-08-04 |
 | [Don't Feel A Thing](https://open.spotify.com/track/4GmfXiutjG47Dtl72KkoZH) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [WASH](https://open.spotify.com/album/46nwevyvFgmAkqMuOBvloC) | 5:45 | 2023-09-28 | 2024-02-10 |
@@ -861,6 +861,7 @@
 | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 | 2024-09-05 | 2024-11-29 |
 | [Smile](https://open.spotify.com/track/3LK7BfvGHtRCdd6DIQIpiC) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Smile](https://open.spotify.com/album/7t0yydFmDChmSPla4Yi3Hm) | 3:05 | 2024-12-12 | 2025-01-10 |
 | [Smoke](https://open.spotify.com/track/3KaDLJhdgx3tkmxNqLyO8a) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Smoke](https://open.spotify.com/album/4orQ6TXC8AAgIL7LfkBJmC) | 2:55 | 2023-06-29 | 2023-08-18 |
+| [Snapped Up](https://open.spotify.com/track/3TIntILeVDiB673eV5ayLr) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Snapped Up](https://open.spotify.com/album/7rNvhzsivFY22OzesFNLd4) | 3:06 | 2025-10-16 |  |
 | [SNOW GLOBE](https://open.spotify.com/track/6fE8YLQhZfnXfeXFmMzrAm) | [Kaila](https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo) | [STOP READING THE TELEPROMPTER](https://open.spotify.com/album/6NAU9yFO6xD6sarhIwGjN0) | 4:38 | 2025-05-01 | 2025-07-11 |
 | [So Long](https://open.spotify.com/track/4sm6jKJ3UnbjOzmhmGif5p) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [I Can't Do This Without You!](https://open.spotify.com/album/6zVIevg0sFU2NqGgzdt9aZ) | 2:51 | 2023-05-11 | 2023-08-18 |
 | [So Real](https://open.spotify.com/track/7Iy9nquGdO3knVC4PW9xKk) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw) | [So Real](https://open.spotify.com/album/0FYjmJ49n0NOXjijotrSdk) | 4:30 | 2023-05-11 | 2023-08-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 397249,
+  "num_followers": 397328,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALSA9sfuYeMWIdceFT+qtxNwZHQQ",
+  "snapshot_id": "AAAAAHYJmThKGyNztzKR7NF4K4A8Cz9o",
   "tracks": [
     {
       "added_at": "2025-10-24 15:23:27",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
+        "name": "Maneva 20 Anos, Origem - Ao Vivo",
+        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 152166,
+      "name": "Incenso - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
+    },
+    {
+      "added_at": "2025-10-24 15:23:27",
+      "album": {
         "name": "Que Seja de Alegria",
         "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
       },
@@ -547,26 +563,6 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 174858,
-      "name": "pequena - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
-    },
-    {
-      "added_at": "2025-10-24 15:23:27",
-      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -587,18 +583,22 @@
     {
       "added_at": "2025-10-24 15:23:27",
       "album": {
-        "name": "Maneva 20 Anos, Origem - Ao Vivo",
-        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
       },
       "artists": [
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         }
       ],
-      "duration_ms": 152166,
-      "name": "Incenso - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
+      "duration_ms": 174858,
+      "name": "pequena - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
     },
     {
       "added_at": "2025-10-24 15:23:27",

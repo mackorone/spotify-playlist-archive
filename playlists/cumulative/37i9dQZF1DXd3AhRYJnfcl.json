@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u0639\u0627\u0634\u0648\u0631 ",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0646\u063a\u0627\u0645 ",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Ekhtalafna .. Fara'na .. Eftara'na",
+        "url": "https://open.spotify.com/album/1kt8RaftlYDHnL76bpTknX"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269285,
+      "name": "Ekhtalafna .. Fara'na .. Eftara'na",
+      "url": "https://open.spotify.com/track/4HsAeZ9hbj3YsI10ww3vFn"
+    },
+    {
+      "album": {
         "name": "El 3o2d El Loli",
         "url": "https://open.spotify.com/album/755j2XJ5r33urwvHzkGkNc"
       },
@@ -1632,8 +1650,8 @@
       },
       "artists": [
         {
-          "name": "Tommy Gun",
-          "url": "https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l"
+          "name": "Tommyy",
+          "url": "https://open.spotify.com/artist/0rP0kEsDalTTaGHFEDgecg"
         },
         {
           "name": "Rally",
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 246087,
       "name": "Tab3ak Ghalab",
       "url": "https://open.spotify.com/track/5gh6uDCEwPtz5khpNn7o3K"

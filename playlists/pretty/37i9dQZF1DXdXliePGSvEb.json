@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 74313,
+  "num_followers": 74315,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "The Trip",
+        "url": "https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "The Trip",
+      "url": "https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "How You Feel (Ft. Leven Kali)",
         "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "The Trip",
-        "url": "https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B"
-      },
-      "artists": [
-        {
-          "name": "DJ Carpenter",
-          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
-        },
-        {
-          "name": "Izza Gara",
-          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "The Trip",
-      "url": "https://open.spotify.com/track/3aVhH2Ds1JbwLI9Psao8H8"
     },
     {
       "added_at": "2024-12-04 12:15:00",

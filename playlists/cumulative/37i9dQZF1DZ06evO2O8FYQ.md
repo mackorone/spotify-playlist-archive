@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 8 min
+76 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [It's Tricky](https://open.spotify.com/track/4zbDMXa67MBJ4h7APUeGDj) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [It's Tricky](https://open.spotify.com/album/4gHLIjjsfGiNopeMqxoZMX) | 3:08 | 2022-09-16 |  |
 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 | 2022-09-16 | 2025-03-18 |
 | [Love to Hate Me](https://open.spotify.com/track/0glicUGi6G8zIJxXQ0sLFJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:30 | 2022-09-16 |  |
+| [Love's The Worst](https://open.spotify.com/track/3ORXZ3eyfUIFp9HJSbbuRb) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 2:47 | 2025-11-05 |  |
 | [Love's The Worst](https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Love's The Worst](https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC) | 2:47 | 2025-07-19 | 2025-09-11 |
 | [Might as Well](https://open.spotify.com/track/4in6QMzkh6nljWeECsxBNx) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:53 | 2022-10-11 | 2022-10-13 |
 | [Mona Lisa](https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 4:00 | 2022-09-16 |  |
@@ -67,7 +68,7 @@
 | [Peninsula](https://open.spotify.com/track/5AiWmb2mXJbdZDP7XGomCh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/64aCDmxb3wjPmvmlLjiUhH) | 3:31 | 2022-09-16 | 2022-11-09 |
 | [Pouring Gasoline](https://open.spotify.com/track/6eF46qhfOX5iyz3MlRUEZD) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 | 2024-12-21 |  |
 | [Punk Kiss](https://open.spotify.com/track/7l57ND5J8nrYpz86GRweYU) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 2:56 | 2025-08-24 | 2025-09-21 |
-| [Quasimodo Melonheart](https://open.spotify.com/track/2fuw5mzOjJ8z7tVUMEhBDA) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:53 | 2025-08-24 |  |
+| [Quasimodo Melonheart](https://open.spotify.com/track/2fuw5mzOjJ8z7tVUMEhBDA) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:53 | 2025-08-24 | 2025-11-05 |
 | [Red and Purple](https://open.spotify.com/track/6SRJtgmyjyQ5ro0LpHaPw1) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:36 | 2022-11-16 |  |
 | [Red and Purple](https://open.spotify.com/track/6lOAhWZ3oPz2Z6elA9phfc) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:36 | 2022-09-16 | 2022-11-17 |
 | [Round The Bend](https://open.spotify.com/track/3pYEOC4YluYylx12kstL5L) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:14 | 2022-09-16 |  |

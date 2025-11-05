@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-953 songs - 2 day 15 hr 2 min
+955 songs - 2 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Lost & Found](https://open.spotify.com/track/6jaLFu5HvfNrI1JmcM4eXu) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 5:14 | 2023-05-19 |  |
 | [Lost In Space / Great Scott / 22\-26](https://open.spotify.com/track/2XdGXvlyYtTlyMgpjXQMUY) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:22 | 2024-01-15 |  |
 | [Love / Lover / Friend](https://open.spotify.com/track/6uQ5QMwMKmakv0PH5blCHi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:01 | 2024-01-04 |  |
+| [Love Is Such a Funny Thing](https://open.spotify.com/track/0ZclKGumi1NNBLFbz3LEsG) | [Tiernan & Joscelin](https://open.spotify.com/artist/0ZxaF7oURARiDTzA2uv92K) | ["Pinch Me, I Think I'm Dreaming": Valentine's Day](https://open.spotify.com/album/7dzprEofLH2oDXJ6WnzcSG) | 1:26 | 2025-11-05 |  |
 | [Love Song](https://open.spotify.com/track/6jKKaXL2jUTMfIGfRMijO2) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 1:19 | 2023-07-06 |  |
 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 | 2024-04-02 |  |
 | [Love Sosa](https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:06 | 2022-08-11 |  |
@@ -861,6 +862,7 @@
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-03-11 | 2024-01-30 |
 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 | 2023-08-01 | 2023-12-14 |
 | [thousand eyes](https://open.spotify.com/track/1xsb4ZIwzSi5dacBz9oMdA) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 5:00 | 2022-01-19 |  |
+| [Thumblove](https://open.spotify.com/track/0iMrXC33Z7YO6kF61P2orq) | [Tiernan & Joscelin](https://open.spotify.com/artist/0ZxaF7oURARiDTzA2uv92K) | ["I Can't Set Your Heart on Fire": Valentine's Day](https://open.spotify.com/album/4NOzisjTQfdakIbefTCyJZ) | 2:18 | 2025-11-05 |  |
 | [Tim's Intro](https://open.spotify.com/track/7qzQfE2se3Ai5reZcxs920) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:04 | 2023-12-31 |  |
 | [Time Ain't Accidental](https://open.spotify.com/track/1qK4COAu95yDuWWnWEN0IZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:27 | 2024-03-11 |  |
 | [Time Back](https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 2:11 | 2023-04-30 | 2023-05-03 |

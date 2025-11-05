@@ -736,7 +736,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 249050,
       "name": "As Above, So Below",
       "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "I Feel The Everblack Festering Within Me",
+        "url": "https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403875,
+      "name": "Glenwood",
+      "url": "https://open.spotify.com/track/1zMtEW4SE5s3VqrmTicJaY"
+    },
+    {
+      "album": {
         "name": "The Stage",
         "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
       },
@@ -3414,7 +3432,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 206433,
       "name": "Good F**King Music",
       "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
@@ -5156,6 +5174,24 @@
       "duration_ms": 192176,
       "name": "Misery",
       "url": "https://open.spotify.com/track/6gfUOprNMeD8amncMOSFl0"
+    },
+    {
+      "album": {
+        "name": "More Than Hate",
+        "url": "https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207382,
+      "name": "More Than Hate",
+      "url": "https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS"
     },
     {
       "album": {

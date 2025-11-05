@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129271,
+  "num_followers": 129285,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAAh451HlXfOHUlyAnXuw0yA",
+  "snapshot_id": "aQfwgAAAAACiOXhIszivWIr5zobF6bVw",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Thunder",
-        "url": "https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 217121,
-      "name": "Heaven Thunder",
-      "url": "https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven Thunder",
+        "url": "https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC"
+      },
+      "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 217121,
+      "name": "Heaven Thunder",
+      "url": "https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr"
     },
     {
       "added_at": null,
@@ -775,38 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Favorite Dream",
-        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
-        },
-        {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
-        }
-      ],
-      "duration_ms": 152644,
-      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
-      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ascension",
         "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
       },
@@ -835,6 +803,38 @@
       "duration_ms": 153693,
       "name": "Abraham",
       "url": "https://open.spotify.com/track/4apmu4PFNpTI4nmzFodKq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Favorite Dream",
+        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg"
+        }
+      ],
+      "duration_ms": 152644,
+      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
+      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 53 min
+67 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Something in the Water \- Remastered 2017](https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 3:13 | 2023-06-17 |  |
 | [Southern Son \- Remastered 2017](https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 4:01 | 2023-06-17 |  |
 | [Spirit of the Anzacs](https://open.spotify.com/track/2gxV3aK7K1RYZ50rQkfqpl) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Guy Sebastian](https://open.spotify.com/artist/3FkCjDVyQwqMH98pfjhXWR), [Jessica Mauboy](https://open.spotify.com/artist/1CeNCdxmvF9Q0KGiTYhRuQ), [Jon Stevens](https://open.spotify.com/artist/2e5VLxRuciU8ubPypnJnj0), [Shannon Noll](https://open.spotify.com/artist/5TktQungcqCi8oRA1L2jPr), [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:53 | 2023-06-17 |  |
-| [Spirit of the Bush \- Remastered 2017](https://open.spotify.com/track/2h1nMiUCpMA3kLrtjIUe8h) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Spirit of the Bush \(Remastered 2017\)](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:33 | 2023-06-17 |  |
+| [Spirit of the Bush \- Remastered 2017](https://open.spotify.com/track/6zZUz5d1IbmEz3ckpDZiC0) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Steve Ford](https://open.spotify.com/artist/3w3POrLv9wRAYjuPWOwj8C), [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 3:35 | 2025-11-05 |  |
+| [Spirit of the Bush \- Remastered 2017](https://open.spotify.com/track/2h1nMiUCpMA3kLrtjIUe8h) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Spirit of the Bush \(Remastered 2017\)](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:33 | 2023-06-17 | 2025-11-05 |
 | [Texas Qld 4385 \- Remastered 2017](https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:08 | 2023-06-17 |  |
 | [Thank God I'm a Country Boy \- Aussie Version](https://open.spotify.com/track/1y4NGTpA4VdnKPUucZSD3f) | [Josh Arnold](https://open.spotify.com/artist/3bNkSSl10ckpEpWGVV4V3G), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Thank God I'm a Country Boy \(Aussie Version\)](https://open.spotify.com/album/6uYC7O31rho9l4hMsREq1h) | 2:42 | 2024-11-06 | 2024-12-25 |
 | [The Dust of Uruzgan](https://open.spotify.com/track/2OngCpPz9IqujhZsIecy22) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Fred Smith](https://open.spotify.com/artist/6sKpcjOzydnWpMIlWMeBnb) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 6:44 | 2024-02-19 | 2024-02-28 |

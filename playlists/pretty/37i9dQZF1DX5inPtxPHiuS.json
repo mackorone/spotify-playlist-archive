@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87759,
+  "num_followers": 87760,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Anaranjado",
-        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Planetas",
-      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Balas De Beb\u00e9 (Y Otras Canciones De Cuna)",
         "url": "https://open.spotify.com/album/2BWUhwSn6GXNjCfKdMF9cK"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 236923,
       "name": "Si Te Busco",
       "url": "https://open.spotify.com/track/4OfWUGEFIOKGrHVaN4SzAh"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Anaranjado",
+        "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Planetas",
+      "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Ver Tus Ojos Mir\u00e1ndome",
+        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        }
+      ],
+      "duration_ms": 210078,
+      "name": "Ver Tus Ojos Mir\u00e1ndome",
+      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -367,34 +383,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Ver Tus Ojos Mir\u00e1ndome",
-        "url": "https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1"
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
       },
       "artists": [
         {
-          "name": "Volc\u00e1n",
-          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 210078,
-      "name": "Ver Tus Ojos Mir\u00e1ndome",
-      "url": "https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
-      },
-      "artists": [
-        {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
-        }
-      ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
+        "name": "Marteko Euriak",
+        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
         }
       ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
+      "duration_ms": 175724,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Soles Negros",
+        "url": "https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 240636,
+      "name": "Sirenas",
+      "url": "https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "No Hay Tiempo Que Perder",
         "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 210285,
       "name": "Nadie Es Inocente (feat. Dilson Diaz & Nicolai Fella)",
       "url": "https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Soles Negros",
-        "url": "https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG"
-      },
-      "artists": [
-        {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
-        }
-      ],
-      "duration_ms": 240636,
-      "name": "Sirenas",
-      "url": "https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Eng\u00e1\u00f1ate",
+        "url": "https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC"
+      },
+      "artists": [
+        {
+          "name": "Pirineos En Llamas",
+          "url": "https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "Eng\u00e1\u00f1ate",
+      "url": "https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Eng\u00e1\u00f1ate",
-        "url": "https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC"
-      },
-      "artists": [
-        {
-          "name": "Pirineos En Llamas",
-          "url": "https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd"
-        }
-      ],
-      "duration_ms": 181124,
-      "name": "Eng\u00e1\u00f1ate",
-      "url": "https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Sed",
         "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 299116,
       "name": "Sed",
       "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Antes de Que Sea Muy Tarde",
-        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
-      },
-      "artists": [
-        {
-          "name": "Sismo",
-          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
-        }
-      ],
-      "duration_ms": 192787,
-      "name": "Antes de Que Sea Muy Tarde",
-      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -927,6 +911,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Antes de Que Sea Muy Tarde",
+        "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
+      },
+      "artists": [
+        {
+          "name": "Sismo",
+          "url": "https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq"
+        }
+      ],
+      "duration_ms": 192787,
+      "name": "Antes de Que Sea Muy Tarde",
+      "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Cisne",
         "url": "https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 154000,
       "name": "Cisne",
       "url": "https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Solo t\u00fa",
-        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        }
-      ],
-      "duration_ms": 247392,
-      "name": "Solo t\u00fa",
-      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -975,6 +959,22 @@
       "duration_ms": 212660,
       "name": "Madre Tierra",
       "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Solo t\u00fa",
+        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
+      },
+      "artists": [
+        {
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+        }
+      ],
+      "duration_ms": 247392,
+      "name": "Solo t\u00fa",
+      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
     },
     {
       "added_at": "2024-09-20 08:27:00",

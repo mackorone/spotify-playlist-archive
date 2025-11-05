@@ -1,6 +1,6 @@
 {
   "description": "New music from Rom\u00e9o Elvis & Oscar and the Wolf, ROSAL\u00cdA, Metejoor, Andromedik and more...",
-  "num_followers": 46246,
+  "num_followers": 46245,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -146,10 +146,6 @@
         {
           "name": "Dimitri Vegas",
           "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
         }
       ],
       "duration_ms": 144193,
@@ -624,16 +620,16 @@
       },
       "artists": [
         {
-          "name": "Todiefor",
-          "url": "https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ"
-        },
-        {
           "name": "Vald",
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         },
         {
           "name": "Vladimir Cauchemar",
           "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
+        },
+        {
+          "name": "Todiefor",
+          "url": "https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ"
         }
       ],
       "duration_ms": 119172,

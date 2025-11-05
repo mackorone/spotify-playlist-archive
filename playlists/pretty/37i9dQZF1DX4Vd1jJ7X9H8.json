@@ -691,30 +691,6 @@
     {
       "added_at": "2025-09-05 04:00:18",
       "album": {
-        "name": "Gypsy Woman",
-        "url": "https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        },
-        {
-          "name": "ADLR",
-          "url": "https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr"
-        },
-        {
-          "name": "Different Hits",
-          "url": "https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK"
-        }
-      ],
-      "duration_ms": 200823,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX"
-    },
-    {
-      "added_at": "2025-09-05 04:00:18",
-      "album": {
         "name": "Opening Soon",
         "url": "https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 243066,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak"
+    },
+    {
+      "added_at": "2025-09-05 04:00:18",
+      "album": {
+        "name": "Gypsy Woman",
+        "url": "https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        },
+        {
+          "name": "ADLR",
+          "url": "https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr"
+        },
+        {
+          "name": "Different Hits",
+          "url": "https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK"
+        }
+      ],
+      "duration_ms": 200823,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX"
     },
     {
       "added_at": "2025-09-05 04:00:18",

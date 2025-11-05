@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>hyeminsong\)
 
-1,675 songs - 3 day 17 hr 38 min
+1,677 songs - 3 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [CLUTCH](https://open.spotify.com/track/4PwpCXLyyBNvyTRSUEE0t8) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [CLUTCH](https://open.spotify.com/album/4tw47Y64E5YY4ZbgL2KESM) | 2:08 | 2025-11-03 |  |
 | [Cockroach](https://open.spotify.com/track/3zE0IW0EkOqKT0pk3LtLdn) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 3:06 | 2021-12-29 | 2022-06-05 |
 | [Cockroaches \(feat\. Sikboy\)](https://open.spotify.com/track/3R7Mqg1N1JTDOzkNmP1YvR) | [Yonge Jaundice](https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT), [Max Kim](https://open.spotify.com/artist/6zKnUkgWMqNMQ3g88g9iqR), [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:08 | 2022-06-03 | 2022-06-07 |
+| [COD \(prod\. KayArchon\)](https://open.spotify.com/track/5VlypxNApg0yJOL4zuB7vt) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC) | [COD](https://open.spotify.com/album/5ssQa9mK2mDH8z0mwyx6HS) | 1:54 | 2025-11-04 |  |
 | [Coffee](https://open.spotify.com/track/44NrYLVtWcwizNgFva0zUt) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [Home](https://open.spotify.com/album/1uDSyPokcsWjykNxR61SbI) | 3:00 | 2024-06-14 | 2024-09-20 |
 | [Coin Laundry](https://open.spotify.com/track/7c15oEQBX6E0hGdDSsGxZy) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Coin Laundry](https://open.spotify.com/album/1WiFGqAYwIO3Zb16PXe9Q3) | 2:44 | 2021-12-21 | 2022-07-02 |
 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 | 2021-12-18 | 2022-07-05 |
@@ -1162,6 +1163,7 @@
 | [RACE](https://open.spotify.com/track/6ZRDqsJlFXzbIquKhaMdQe) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [RACE](https://open.spotify.com/album/6fa2O5Ph59LzOm0N4hiFwL) | 3:21 | 2021-12-18 | 2022-07-01 |
 | [RACHA!](https://open.spotify.com/track/56esqTuj8kbbyuo2nRtAnW) | [LuVan](https://open.spotify.com/artist/2A26TcRO2eBgrHILiiUH70) | [BOY FROM THE OCEAN](https://open.spotify.com/album/0D28NFlUxxvt3Yxn3akVTm) | 3:00 | 2022-06-18 | 2022-08-13 |
 | [Radio](https://open.spotify.com/track/3YDuuc8zxwDHVNCeLHRKms) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NOWITZKI](https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq) | 3:31 | 2023-07-05 | 2023-07-19 |
+| [Rain](https://open.spotify.com/track/5xYjKeo7tKjIA39IUyr5yL) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Woman](https://open.spotify.com/album/7waKXKG8F5UaTLyiLkvDGH) | 2:34 | 2025-11-04 |  |
 | [Rain Drop](https://open.spotify.com/track/6aoJWBJoFfg7ZeLANcvsNV) | [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Rain Drop](https://open.spotify.com/album/00oktkhIRIzEuKJs8hySTt) | 3:47 | 2022-09-27 | 2023-01-03 |
 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 | 2021-12-18 | 2022-07-08 |
 | [Rainy day \(Feat\. ASH ISLAND, Skinny Brown\)](https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Rainy day](https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2) | 3:38 | 2022-09-03 | 2022-11-02 |

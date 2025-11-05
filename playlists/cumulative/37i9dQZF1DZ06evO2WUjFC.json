@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 165640,
       "name": "De Negra a Negra",
       "url": "https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY"
@@ -1471,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210256,
+      "name": "LA CAPITAL",
+      "url": "https://open.spotify.com/track/0aWUDbp7bK9fEfrc57Q7UO"
+    },
+    {
+      "album": {
         "name": "LA CAPITAL",
         "url": "https://open.spotify.com/album/2nGXA6aI0CcSX6e9curx7T"
       },
@@ -1486,7 +1508,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 210256,
       "name": "LA CAPITAL",
       "url": "https://open.spotify.com/track/2NnxDhtPyWgASTDVp8MnnM"
@@ -2345,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258081,
+      "name": "QUIERO SABER DE TI - En Vivo",
+      "url": "https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH"
+    },
+    {
+      "album": {
         "name": "Y.T.L.S.V.",
         "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
       },
@@ -2396,7 +2440,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 138392,
       "name": "QU\u00c9 QUIERE",
       "url": "https://open.spotify.com/track/5h9ElPBeVmPoWYWL9nC9tS"
@@ -2418,7 +2462,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 200979,
       "name": "Qu\u00edtate La Ropa",
       "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"

@@ -1,6 +1,6 @@
 {
   "description": "Flow so good, it deserved a reload.  Cover: Yizzy, Jme",
-  "num_followers": 731039,
+  "num_followers": 731013,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
+        "name": "Even inda Wok",
+        "url": "https://open.spotify.com/album/22V1P5s3P0kq7AyCrWWcp0"
+      },
+      "artists": [
+        {
+          "name": "Burner",
+          "url": "https://open.spotify.com/artist/4hskd3ct9icK8ylt5apveu"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Even inda Wok",
+      "url": "https://open.spotify.com/track/4k54JpnWCozhGpwzGrsv0g"
+    },
+    {
+      "added_at": "2025-10-10 11:49:46",
+      "album": {
         "name": "Lets Talk (feat. Jme)",
         "url": "https://open.spotify.com/album/4Y452bZyorfxW7bCIJJaIr"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 198857,
       "name": "Let's Talk (feat. Jme)",
       "url": "https://open.spotify.com/track/2w2FGqT7etJegkoesEzKsT"
-    },
-    {
-      "added_at": "2025-10-10 11:49:46",
-      "album": {
-        "name": "Even inda Wok",
-        "url": "https://open.spotify.com/album/22V1P5s3P0kq7AyCrWWcp0"
-      },
-      "artists": [
-        {
-          "name": "Burner",
-          "url": "https://open.spotify.com/artist/4hskd3ct9icK8ylt5apveu"
-        }
-      ],
-      "duration_ms": 212244,
-      "name": "Even inda Wok",
-      "url": "https://open.spotify.com/track/4k54JpnWCozhGpwzGrsv0g"
     },
     {
       "added_at": "2025-10-10 11:49:46",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
-        "name": "NAGASAKI",
-        "url": "https://open.spotify.com/album/23Q1sb2XLPfMENMxoFQaZL"
-      },
-      "artists": [
-        {
-          "name": "JAY10!",
-          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "NAGASAKI",
-      "url": "https://open.spotify.com/track/3hdRDD1AEFO0077sxJKLwb"
-    },
-    {
-      "added_at": "2025-10-10 11:49:46",
-      "album": {
         "name": "TUFF",
         "url": "https://open.spotify.com/album/2PGtIrYSJiy5bw7Tcad6HN"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/23Q1sb2XLPfMENMxoFQaZL"
+      },
+      "artists": [
+        {
+          "name": "JAY10!",
+          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/3hdRDD1AEFO0077sxJKLwb"
+    },
+    {
+      "added_at": "2025-10-10 11:49:46",
+      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/7aeGkSrHin7gULg31SzIen"
       },
@@ -775,18 +775,22 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
-        "name": "Putting on Weight",
-        "url": "https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy"
+        "name": "Let It Breathe",
+        "url": "https://open.spotify.com/album/1thnGdiBtZiAyWOrjppgGp"
       },
       "artists": [
         {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+          "name": "Kacie",
+          "url": "https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY"
+        },
+        {
+          "name": "KHAOS",
+          "url": "https://open.spotify.com/artist/1snKoF7D4TMSIQYe1XXGl6"
         }
       ],
-      "duration_ms": 183283,
-      "name": "Putting on Weight",
-      "url": "https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND"
+      "duration_ms": 163500,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/16hr0oAdZtMYTKK5s1K6QG"
     },
     {
       "added_at": "2025-10-10 11:49:46",
@@ -807,6 +811,22 @@
       "duration_ms": 151285,
       "name": "premium wear",
       "url": "https://open.spotify.com/track/6pKJ4KJfFW1M56NhlSm77e"
+    },
+    {
+      "added_at": "2025-10-10 11:49:46",
+      "album": {
+        "name": "Putting on Weight",
+        "url": "https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy"
+      },
+      "artists": [
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 183283,
+      "name": "Putting on Weight",
+      "url": "https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND"
     },
     {
       "added_at": "2025-10-10 11:49:46",
@@ -843,22 +863,6 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
-        "name": "Geronimo",
-        "url": "https://open.spotify.com/album/0Daj0Y9haEcNweE0AnAgxc"
-      },
-      "artists": [
-        {
-          "name": "Koder",
-          "url": "https://open.spotify.com/artist/0LEWB6r1NeRpb4N84BlYXj"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Geronimo",
-      "url": "https://open.spotify.com/track/6096p5PPlkSoyyB95Gksab"
-    },
-    {
-      "added_at": "2025-10-10 11:49:46",
-      "album": {
         "name": "Check Dis",
         "url": "https://open.spotify.com/album/5BW7q1epzfJ3JWplkTqk6m"
       },
@@ -875,6 +879,22 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
+        "name": "Geronimo",
+        "url": "https://open.spotify.com/album/0Daj0Y9haEcNweE0AnAgxc"
+      },
+      "artists": [
+        {
+          "name": "Koder",
+          "url": "https://open.spotify.com/artist/0LEWB6r1NeRpb4N84BlYXj"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/6096p5PPlkSoyyB95Gksab"
+    },
+    {
+      "added_at": "2025-10-10 11:49:46",
+      "album": {
         "name": "3 3 3 3",
         "url": "https://open.spotify.com/album/7JFR8bAEka2OjUGh5iPMZe"
       },
@@ -887,22 +907,6 @@
       "duration_ms": 154285,
       "name": "Hyperfocus",
       "url": "https://open.spotify.com/track/2MjwF2xVs5hMYv8tFTyqIe"
-    },
-    {
-      "added_at": "2025-10-10 11:49:46",
-      "album": {
-        "name": "Watch the Ride",
-        "url": "https://open.spotify.com/album/2GcfSVz2I2Y4Ck3XOTddLa"
-      },
-      "artists": [
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "Watch the Ride",
-      "url": "https://open.spotify.com/track/1XtObqji9kF7IbXN1IdMai"
     },
     {
       "added_at": "2025-10-10 11:49:46",
@@ -987,6 +991,22 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
+        "name": "Watch the Ride",
+        "url": "https://open.spotify.com/album/2GcfSVz2I2Y4Ck3XOTddLa"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "Watch the Ride",
+      "url": "https://open.spotify.com/track/1XtObqji9kF7IbXN1IdMai"
+    },
+    {
+      "added_at": "2025-10-10 11:49:46",
+      "album": {
         "name": "Somebody Help?",
         "url": "https://open.spotify.com/album/5sUHs8jEOc4nwJkeWgfssW"
       },
@@ -1059,6 +1079,22 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
+        "name": "No Remorse",
+        "url": "https://open.spotify.com/album/3ikKskfLpAGVeqLsReUaLT"
+      },
+      "artists": [
+        {
+          "name": "Jammz",
+          "url": "https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "Focussed",
+      "url": "https://open.spotify.com/track/0Ya9VclZT2lAiJvDYXZDcl"
+    },
+    {
+      "added_at": "2025-10-10 11:49:46",
+      "album": {
         "name": "Back2Back",
         "url": "https://open.spotify.com/album/5QyFo2mJ58MW1OVyM0Xp7D"
       },
@@ -1083,22 +1119,6 @@
       "duration_ms": 174857,
       "name": "Back2Back",
       "url": "https://open.spotify.com/track/1JEpTpdCF5CuM9qhH7JAkr"
-    },
-    {
-      "added_at": "2025-10-10 11:49:46",
-      "album": {
-        "name": "No Remorse",
-        "url": "https://open.spotify.com/album/3ikKskfLpAGVeqLsReUaLT"
-      },
-      "artists": [
-        {
-          "name": "Jammz",
-          "url": "https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "Focussed",
-      "url": "https://open.spotify.com/track/0Ya9VclZT2lAiJvDYXZDcl"
     },
     {
       "added_at": "2025-10-10 11:49:46",
@@ -1231,26 +1251,6 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
-        "name": "Let It Breathe",
-        "url": "https://open.spotify.com/album/1thnGdiBtZiAyWOrjppgGp"
-      },
-      "artists": [
-        {
-          "name": "Kacie",
-          "url": "https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY"
-        },
-        {
-          "name": "KHAOS",
-          "url": "https://open.spotify.com/artist/1snKoF7D4TMSIQYe1XXGl6"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Let It Breathe",
-      "url": "https://open.spotify.com/track/16hr0oAdZtMYTKK5s1K6QG"
-    },
-    {
-      "added_at": "2025-10-10 11:49:46",
-      "album": {
         "name": "Or What?",
         "url": "https://open.spotify.com/album/5af3gKAMG5ohDcUaXGnL5r"
       },
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
+        "name": "Just-B",
+        "url": "https://open.spotify.com/album/6wosb2TsbT4POqP17ll5R3"
+      },
+      "artists": [
+        {
+          "name": "Just-B",
+          "url": "https://open.spotify.com/artist/6tQKpWqFbZTGXKCrdHJkTh"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Jenova",
+      "url": "https://open.spotify.com/track/7sj716ZVpLv3YDCM3ULFsc"
+    },
+    {
+      "added_at": "2025-10-10 11:49:46",
+      "album": {
         "name": "NO SENSE",
         "url": "https://open.spotify.com/album/4ZQ9aXylRGbQoxe0vTbBIQ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 195428,
       "name": "NO SENSE",
       "url": "https://open.spotify.com/track/6KarkNK3MGxD5xd8NXCIXN"
-    },
-    {
-      "added_at": "2025-10-10 11:49:46",
-      "album": {
-        "name": "Just-B",
-        "url": "https://open.spotify.com/album/6wosb2TsbT4POqP17ll5R3"
-      },
-      "artists": [
-        {
-          "name": "Just-B",
-          "url": "https://open.spotify.com/artist/6tQKpWqFbZTGXKCrdHJkTh"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Jenova",
-      "url": "https://open.spotify.com/track/7sj716ZVpLv3YDCM3ULFsc"
     },
     {
       "added_at": "2025-10-10 11:49:46",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2025-10-10 11:49:46",
       "album": {
+        "name": "When Will It End?",
+        "url": "https://open.spotify.com/album/4V41B6JaC1SV540ERnGEdR"
+      },
+      "artists": [
+        {
+          "name": "Chower",
+          "url": "https://open.spotify.com/artist/4h4q5Q7DPbbKKTBk913DfF"
+        },
+        {
+          "name": "Daveyoh",
+          "url": "https://open.spotify.com/artist/1bXcACbUTycIcqC0AiQ0Is"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "When Will It End?",
+      "url": "https://open.spotify.com/track/5vwsZrnIsAdVLrg5q7ldHi"
+    },
+    {
+      "added_at": "2025-10-10 11:49:46",
+      "album": {
         "name": "Blas4Me",
         "url": "https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d"
       },
@@ -1419,22 +1439,6 @@
       "duration_ms": 173095,
       "name": "Big Shaq",
       "url": "https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb"
-    },
-    {
-      "added_at": "2025-10-10 11:49:46",
-      "album": {
-        "name": "ICE VS ICE",
-        "url": "https://open.spotify.com/album/6XemLZ6kdvA4WY0DRc3QjM"
-      },
-      "artists": [
-        {
-          "name": "Lady Ice",
-          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
-        }
-      ],
-      "duration_ms": 82500,
-      "name": "ICE VS ICE",
-      "url": "https://open.spotify.com/track/2Hcg8Jrx0EzUI80pxKnmZa"
     },
     {
       "added_at": "2025-10-10 11:49:46",

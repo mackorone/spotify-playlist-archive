@@ -1,6 +1,6 @@
 {
   "description": "Glasgow's finest. Here we, here we... Cover: SOPHIE",
-  "num_followers": 17789,
+  "num_followers": 17787,
   "original_name": "We Are Glasgow",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
+      },
+      "artists": [
+        {
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+        }
+      ],
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 136087,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "So Sweet I Could Die",
-        "url": "https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1"
-      },
-      "artists": [
-        {
-          "name": "Lucia & The Best Boys",
-          "url": "https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1"
-        }
-      ],
-      "duration_ms": 142328,
-      "name": "So Sweet I Could Die",
-      "url": "https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -455,66 +455,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "BORED",
-        "url": "https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX"
+        "name": "So Sweet I Could Die",
+        "url": "https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1"
       },
       "artists": [
         {
-          "name": "swim school",
-          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
+          "name": "Lucia & The Best Boys",
+          "url": "https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1"
         }
       ],
-      "duration_ms": 206997,
-      "name": "BORED",
-      "url": "https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
-      },
-      "artists": [
-        {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
-        }
-      ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/68YY2V186xi4HTJKdoC4vl"
-      },
-      "artists": [
-        {
-          "name": "Ros T",
-          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
-        }
-      ],
-      "duration_ms": 221458,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2fl0s2k5DI6eNJaUkiu5cz"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "I EXIST",
-        "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "I EXIST",
-      "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
+      "duration_ms": 142328,
+      "name": "So Sweet I Could Die",
+      "url": "https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -535,18 +487,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Inconvenient",
-        "url": "https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/68YY2V186xi4HTJKdoC4vl"
       },
       "artists": [
         {
-          "name": "Matthew Hall",
-          "url": "https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ"
+          "name": "Ros T",
+          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
         }
       ],
-      "duration_ms": 140533,
-      "name": "Inconvenient",
-      "url": "https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582"
+      "duration_ms": 221458,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2fl0s2k5DI6eNJaUkiu5cz"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -563,6 +515,54 @@
       "duration_ms": 224285,
       "name": "See Through You",
       "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "BORED",
+        "url": "https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX"
+      },
+      "artists": [
+        {
+          "name": "swim school",
+          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
+        }
+      ],
+      "duration_ms": 206997,
+      "name": "BORED",
+      "url": "https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "I EXIST",
+        "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "I EXIST",
+      "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "Inconvenient",
+        "url": "https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hall",
+          "url": "https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Inconvenient",
+      "url": "https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "don't leave me behind",
-        "url": "https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8"
-      },
-      "artists": [
-        {
-          "name": "swim school",
-          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
-        }
-      ],
-      "duration_ms": 188243,
-      "name": "don't leave me behind",
-      "url": "https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -631,18 +615,34 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
+        "name": "Disgrace",
+        "url": "https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg"
       },
       "artists": [
         {
-          "name": "Qazi & Qazi",
-          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
         }
       ],
-      "duration_ms": 263760,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
+      "duration_ms": 124943,
+      "name": "Disgrace",
+      "url": "https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "don't leave me behind",
+        "url": "https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8"
+      },
+      "artists": [
+        {
+          "name": "swim school",
+          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
+        }
+      ],
+      "duration_ms": 188243,
+      "name": "don't leave me behind",
+      "url": "https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -679,18 +679,34 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Disgrace",
-        "url": "https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg"
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
       },
       "artists": [
         {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+          "name": "Qazi & Qazi",
+          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
         }
       ],
-      "duration_ms": 124943,
-      "name": "Disgrace",
-      "url": "https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba"
+      "duration_ms": 263760,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "The Thing",
+        "url": "https://open.spotify.com/album/7jwHvXTWFpBTgAou7Ut4vL"
+      },
+      "artists": [
+        {
+          "name": "Spyres",
+          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+        }
+      ],
+      "duration_ms": 196442,
+      "name": "The Thing",
+      "url": "https://open.spotify.com/track/41ugiY9z17eniXjCkeFPCj"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Glasgow Eyes",
-        "url": "https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 239920,
-      "name": "jamcod",
-      "url": "https://open.spotify.com/track/4hYkg7rTJ2ifRzAiHUklU1"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
         "name": "Burn The Empire",
         "url": "https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "The Thing",
-        "url": "https://open.spotify.com/album/7jwHvXTWFpBTgAou7Ut4vL"
+        "name": "Glasgow Eyes",
+        "url": "https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL"
       },
       "artists": [
         {
-          "name": "Spyres",
-          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
         }
       ],
-      "duration_ms": 196442,
-      "name": "The Thing",
-      "url": "https://open.spotify.com/track/41ugiY9z17eniXjCkeFPCj"
+      "duration_ms": 239920,
+      "name": "jamcod",
+      "url": "https://open.spotify.com/track/4hYkg7rTJ2ifRzAiHUklU1"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Dreams, Schemes & Young Teams",
-        "url": "https://open.spotify.com/album/179NnZHYVnYsM3R3XMmLsa"
+        "name": "Community Service",
+        "url": "https://open.spotify.com/album/410cnKn5jGXU19ifHrwnVX"
       },
       "artists": [
         {
-          "name": "Shambolics",
-          "url": "https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR"
+          "name": "Bottle Rockets",
+          "url": "https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK"
         }
       ],
-      "duration_ms": 138814,
-      "name": "Influencer",
-      "url": "https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7"
+      "duration_ms": 177272,
+      "name": "Community Service",
+      "url": "https://open.spotify.com/track/2LJru2jR7vQmrwRHLkBW0W"
     }
   ],
   "unique_name": "We Are Glasgow",

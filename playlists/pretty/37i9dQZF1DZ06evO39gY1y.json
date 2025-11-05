@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 249340,
+  "num_followers": 249361,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAD/JMtXX7lJ61MFVyWI1x2f",
+  "snapshot_id": "aQfwgAAAAAASOGoSWl2PlC+RlsciRkrE",
   "tracks": [
     {
       "added_at": null,
@@ -915,6 +915,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00d3rbitas",
+        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 209737,
+      "name": "Ma\u00f1ana Vas a Estar Ausente",
+      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -955,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d3rbitas",
-        "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 209737,
-      "name": "Ma\u00f1ana Vas a Estar Ausente",
-      "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -1003,30 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n la Quiere",
-        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        },
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Qui\u00e9n la Quiere",
-      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 183000,
       "name": "No Se Sobrepase",
       "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n la Quiere",
+        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Qui\u00e9n la Quiere",
+      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
     },
     {
       "added_at": null,

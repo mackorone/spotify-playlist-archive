@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 87772,
+  "num_followers": 87795,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAADnX1nIgxCHcqjttF1fS4oW",
+  "snapshot_id": "aQfwgAAAAABurlKnpfPIg9KaBJMmrZjS",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frijolero",
-        "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe"
       },
       "artists": [
         {
-          "name": "Somos Frijoleros",
-          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 213947,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
+      "duration_ms": 149720,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj"
     },
     {
       "added_at": null,
@@ -687,22 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Nos Dejan",
-        "url": "https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe"
+        "name": "Frijolero",
+        "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Somos Frijoleros",
+          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 149720,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj"
+      "duration_ms": 213947,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
     },
     {
       "added_at": null,

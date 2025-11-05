@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mao\. Artwork: Isu Kim
 
-450 songs - 23 hr 48 min
+452 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [RAW.](https://open.spotify.com/track/1HCVrcQcxDf7zBdviW0GuH) | [LOCO.](https://open.spotify.com/artist/68vnFjXn3omf0eIRqqfUED), [Lordie the Goat](https://open.spotify.com/artist/3gIR2RoLWyl8mbV1b3U8YK) | [SUPERLOCO 2](https://open.spotify.com/album/5L3eW3AySJvXIcNeB75IAb) | 2:48 | 2025-08-06 |  |
 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 | 2023-05-17 | 2024-01-17 |
 | [Report to me](https://open.spotify.com/track/4syYPLHQ9VwcEAu3BKIx2v) | [FIGŪREZ](https://open.spotify.com/artist/5Yz17zWo8Kqau4oOkiiQD8), [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [Report to me](https://open.spotify.com/album/4MlUIh6YfD4E9mzd7K6ahh) | 1:54 | 2023-07-05 | 2023-09-07 |
-| [Revenge](https://open.spotify.com/track/5uuCn3kSNvbog2DKc8m9En) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Revenge](https://open.spotify.com/album/2hNO1BNJazh2NcggpWr5yg) | 2:53 | 2025-02-10 |  |
+| [Revenge](https://open.spotify.com/track/5uuCn3kSNvbog2DKc8m9En) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Revenge](https://open.spotify.com/album/2hNO1BNJazh2NcggpWr5yg) | 2:53 | 2025-02-10 | 2025-11-05 |
 | [Runaway](https://open.spotify.com/track/0F2pGe4qohDKXtvwEeMV7l) | [Fonzo](https://open.spotify.com/artist/4n2TYibag10VGUrfO7rQoF) | [Runaway](https://open.spotify.com/album/0QLX3k01xXv49q31TXZqlL) | 7:20 | 2023-08-01 | 2024-05-01 |
 | [Sabba7 Sabba7 \- صبح صبح](https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP), [Mahib Sleat](https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4) | [Sabba7 Sabba7 \(صبح صبح\)](https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp) | 2:29 | 2022-11-01 | 2023-01-18 |
 | [Salam aleykoum](https://open.spotify.com/track/5YBYZlNvyikesrSmpDSOpX) | [Driss Lahlou](https://open.spotify.com/artist/2ubqk2IdJTM5QUhuskBjp9), [Amanar](https://open.spotify.com/artist/2LW1fReOfFs7DTz55eNR6E) | [Salam Aleykum](https://open.spotify.com/album/0gW4OVmh63retRi8vSINHZ) | 3:48 | 2024-09-11 | 2025-01-23 |
@@ -343,6 +343,7 @@
 | [SHI YOUM](https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [SHI YOUM](https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh) | 3:17 | 2025-01-22 | 2025-09-25 |
 | [SHIKA SHYAKA](https://open.spotify.com/track/7q38eXaAnnVFZPLFZNu1e5) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH) | [SHIKA SHYAKA](https://open.spotify.com/album/0CpyR13JBqQuX5zxuuzzzR) | 2:27 | 2025-02-17 | 2025-10-08 |
 | [Shoot](https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SWITCH](https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K) | 2:24 | 2025-08-07 |  |
+| [SHOU SAR / شو صار](https://open.spotify.com/track/54GxdRnwcsULgZL0kuukSy) | [Rita Malek](https://open.spotify.com/artist/5bvwkpRTvnLnSkUhTf2NCP) | [SHOU SAR? / شو صار?](https://open.spotify.com/album/7iGMCbdw9hgWu0Uai0coIl) | 4:03 | 2025-11-04 |  |
 | [Shta2tella](https://open.spotify.com/track/66Vk9wfboLceIahHzBJuV0) | [Ibby VK](https://open.spotify.com/artist/1ZaiYYGVDJvISe5rUV7JAS) | [Shta2tella](https://open.spotify.com/album/1EZENUppFnXlur5KKsP41B) | 1:55 | 2023-02-14 | 2023-03-22 |
 | [Sidi](https://open.spotify.com/track/2HxLwYX0P7rcZp7SO7Cqd0) | [Nour Harkati](https://open.spotify.com/artist/0LFvN0ZSf92CMb00teZdYJ) | [Sidi](https://open.spotify.com/album/4xXiGTd4CRErEhtpVl3m5w) | 3:24 | 2024-09-11 | 2025-01-23 |
 | [Slow Dance](https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Slow Dance](https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u) | 2:15 | 2022-10-11 | 2022-12-14 |
@@ -376,6 +377,7 @@
 | [Telephone](https://open.spotify.com/track/4Z14OEDS8ryZxcr2co4P9U) | [Louis LS](https://open.spotify.com/artist/3sN5oyOnNGOETUpAA50xYW) | [Telephone](https://open.spotify.com/album/14KtnblxrNmq7ToGOp0PBq) | 2:21 | 2024-05-14 | 2024-09-12 |
 | [Tell Me Something](https://open.spotify.com/track/7LRzmoO4nCxxWOh9oLiqFN) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Tell Me Something](https://open.spotify.com/album/5jgQXB2zG15VBgEOzGrdff) | 3:36 | 2024-02-20 | 2024-07-10 |
 | [Tenderness](https://open.spotify.com/track/2dlMM8ibQesE507TLSys6f) | [Postcards](https://open.spotify.com/artist/4sYpDKlRs59ghPkLeg5kHe) | [Tenderness](https://open.spotify.com/album/0NlHvrJ3gwHFL4FcYY3HbC) | 2:42 | 2023-04-11 | 2023-04-27 |
+| [TESHREEN](https://open.spotify.com/track/2kgaek3dqjuciNFMgSwxde) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6), [Arabi](https://open.spotify.com/artist/1cvzLv3dYPAxvCLFcQ9eJ9) | [TESHREEN](https://open.spotify.com/album/3xy73bLj4bMn4fS5bYiVWg) | 4:18 | 2025-11-04 |  |
 | [The Accident](https://open.spotify.com/track/53t2tLPXz8VL58tdIqtZUK) | [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [NASR](https://open.spotify.com/artist/7n2BhGadR70t9jaY7eeoeE) | [The Accident](https://open.spotify.com/album/0cHPUBfsTeJCcdX1Xt2n4c) | 5:02 | 2024-11-06 | 2025-05-21 |
 | [The Storm](https://open.spotify.com/track/3iBfi3r5E7gtMOxKUapFnk) | [Interbellum](https://open.spotify.com/artist/4jKRYWPmm8hBIqRrD0wFbO) | [Our House Is Very Beautiful at Night](https://open.spotify.com/album/4FxKW6gUtwVVjXR843TLla) | 3:22 | 2023-04-11 | 2023-04-27 |
 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 | 2023-03-14 | 2023-05-24 |
@@ -454,7 +456,7 @@
 | [مش فكراك](https://open.spotify.com/track/42ENvcce0GTKKp9VkQTH64) | [Nourine](https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K) | [مش فكراك](https://open.spotify.com/album/1S6tg4sPr8vWLdpDZ0kN0y) | 2:58 | 2024-05-14 | 2024-09-12 |
 | [مواويل](https://open.spotify.com/track/3JmafIV8VSpCqf17uxcyj2) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [مواويل](https://open.spotify.com/album/5Jfv379VriB4IgbrwSvpRN) | 2:28 | 2024-05-14 | 2024-09-12 |
 | [نسيانى](https://open.spotify.com/track/0zvpBOe1DeUT7L1vYVOieC) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [نسيانى](https://open.spotify.com/album/6T10ri6HSVgAjesykqpWGS) | 4:02 | 2024-08-13 | 2024-11-07 |
-| [هما سابونا](https://open.spotify.com/track/7oTnx9O7DubWLOvjYn8tai) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [الخوف](https://open.spotify.com/album/4FXMWjo5IxroKIZSjaS0v9) | 3:02 | 2025-02-17 |  |
+| [هما سابونا](https://open.spotify.com/track/7oTnx9O7DubWLOvjYn8tai) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [الخوف](https://open.spotify.com/album/4FXMWjo5IxroKIZSjaS0v9) | 3:02 | 2025-02-17 | 2025-11-05 |
 | [و أنا مالي](https://open.spotify.com/track/2aCE78ZsW1t42bMPz8G5wP) | [DJIZA](https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk) | [و أنا مالي](https://open.spotify.com/album/3wbG98cMVwm7ms7GvHcwib) | 2:30 | 2024-05-14 | 2024-09-12 |
 | [وقت الفراق](https://open.spotify.com/track/0oikCaTV3ZMxWUTxDeF3HC) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4) | [وقت الفراق](https://open.spotify.com/album/1EbaIOOBWGwbArlafQPqqH) | 3:10 | 2025-05-16 |  |
 | [يمّر الوقت](https://open.spotify.com/track/7yZjHD4eP38V5bHOgPmbAL) | [Grzzlee](https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [يمّر الوقت](https://open.spotify.com/album/30XQSYHG2tSLkh0tkibG8a) | 2:31 | 2024-11-26 | 2025-07-15 |

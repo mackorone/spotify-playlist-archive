@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,480 likes - 207 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,614 likes - 207 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: JayaHadADream
 
-71 songs - 3 hr 5 min
+72 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [dls \(drugs life sex\)](https://open.spotify.com/track/2u1it8jsdbryTk1YjiXYwJ) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o) | [dls \(drugs life sex\)](https://open.spotify.com/album/14ZfWh2kA7YZATwBCPF08Q) | 2:17 | 2025-10-23 |  |
 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 | 2025-10-23 |  |
 | [entitled](https://open.spotify.com/track/7jn7SOuYxnrAoz3QSmhIgQ) | [kwes e](https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy) | [fingers crossed](https://open.spotify.com/album/6pG7gONWECHILHBqd0t6OA) | 2:20 | 2025-10-23 |  |
-| [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 | 2025-10-23 |  |
+| [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 | 2025-10-23 | 2025-11-05 |
 | [FINESSE MY BRO \(FMB\)](https://open.spotify.com/track/2wCPuCekYVOaCxJwOww3IB) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [FINESSE MY BRO \(FMB\)](https://open.spotify.com/album/3o2W3umUEXyKz0cnlPqd4q) | 1:29 | 2025-10-23 |  |
 | [GIRLS](https://open.spotify.com/track/4HKk0rmGoDBKqCpvvqaFdK) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [GIRLS](https://open.spotify.com/album/28jHjgKv4F7mhlGNlec7Is) | 2:53 | 2025-10-23 |  |
 | [Glaze](https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Glaze](https://open.spotify.com/album/2P84jHNs5YMCuLw3uX8ZLM) | 2:43 | 2025-10-23 |  |
@@ -33,6 +33,7 @@
 | [I Have So Much To Tell You](https://open.spotify.com/track/2PkCkaQc3Gokr4eHCs2C2B) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Have So Much To Tell You](https://open.spotify.com/album/6erpduA3ocDzhOCMLD8msi) | 3:50 | 2025-10-23 |  |
 | [i luv u!](https://open.spotify.com/track/7AnSoAPH3QhxC2UhU5u2kn) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo), [NAIM JUNIOR](https://open.spotify.com/artist/4rI6GuVOP8igyuj2PzlAV4) | [i luv u!](https://open.spotify.com/album/5e47YaU9aJdQjTyG8qArQS) | 2:34 | 2025-10-23 |  |
 | [I NEVER WORE A CAPE](https://open.spotify.com/track/2CS3GCttq77koSV6jUgl1X) | [MKABOVE](https://open.spotify.com/artist/6bjBS7xLH2JbajNLMA8FGt) | [I NEVER WORE A CAPE](https://open.spotify.com/album/5tNbKx0UgoKxPTPUmMGL6Y) | 1:26 | 2025-10-23 |  |
+| [I Was Shook](https://open.spotify.com/track/63ziCgWHuAyMTfvxwNs4Ol) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [I Was Shook / Rice And Stew](https://open.spotify.com/album/0xjpVCe8hul4p8K07p7ahD) | 1:53 | 2025-11-04 |  |
 | [If It Ain't](https://open.spotify.com/track/05G7mFAM1ABmSUIuTt6G54) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo), [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [Happiness From Agony](https://open.spotify.com/album/6k55aAff183ZJ37d5yrrYq) | 2:54 | 2025-10-23 |  |
 | [In My Palm](https://open.spotify.com/track/358A83bjA2BdwOS99jOFbb) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [In My Palm](https://open.spotify.com/album/73afTukE826RBIhZpkFs67) | 1:45 | 2025-10-23 |  |
 | [iwtwbaigwap](https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6) | [Leo Chavez](https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv) | [iwtwbaigwap](https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL) | 3:55 | 2025-10-23 |  |
@@ -63,7 +64,7 @@
 | [Suya](https://open.spotify.com/track/0HCrelYt8aGjCtcyvCuNl9) | [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft), [Namani](https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj) | [Suya](https://open.spotify.com/album/58nHkbTjq9i0Cnn33webIK) | 2:25 | 2025-10-23 |  |
 | [Sweden Girl, Pt\. 1](https://open.spotify.com/track/1CkbYf3B3ipKAvBoqQvP8O) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Sweden Girl, Pt\. 1](https://open.spotify.com/album/5YRwQsDuBjmNCQavPthCoi) | 3:29 | 2025-10-23 |  |
 | [Take A Touch](https://open.spotify.com/track/0YeVu5fmRos8tD0JRO1FGb) | [aryan](https://open.spotify.com/artist/4szmJZF4T0Ica5kkxK8Zyy) | [Take A Touch](https://open.spotify.com/album/6EIeEpHv7qPqIG0s9jbeWN) | 2:24 | 2025-10-23 |  |
-| [Tamper](https://open.spotify.com/track/2Cymy83v0iB4X4rJuJcYT2) | [Kacie](https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0) | [I Like To Tamper](https://open.spotify.com/album/2Z5MkPnCOUK2x641hnpUEo) | 2:33 | 2025-10-23 |  |
+| [Tamper](https://open.spotify.com/track/2Cymy83v0iB4X4rJuJcYT2) | [Kacie](https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0) | [I Like To Tamper](https://open.spotify.com/album/2Z5MkPnCOUK2x641hnpUEo) | 2:33 | 2025-10-23 | 2025-11-05 |
 | [Tell Me!!!](https://open.spotify.com/track/1qvTzVA2VVi3nnknvaSJ20) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [Monét](https://open.spotify.com/artist/1GrIhEF7bfChhCO6M4CSn8), [JAY MALAKHI](https://open.spotify.com/artist/3P8v5QqGUYcqpL2IqJs6Rb), [SAMSON](https://open.spotify.com/artist/2I2FhyufVacXGtnLVt5mcp), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Tell Me!!!](https://open.spotify.com/album/5FjC35EVXKR6ROrGclq7Va) | 3:13 | 2025-10-23 |  |
 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 | 2025-10-23 |  |
 | [They're called 110s](https://open.spotify.com/track/2b64ozWXxNT4eIgobH4S56) | [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [They're called 110s](https://open.spotify.com/album/1Ywq2kDV2GHIiDnfSBGyv3) | 2:44 | 2025-10-23 |  |

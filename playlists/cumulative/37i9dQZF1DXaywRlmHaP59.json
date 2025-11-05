@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Albi Mertah",
+        "url": "https://open.spotify.com/album/4LhiXTMY6udx0hlECrTfb2"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194752,
+      "name": "Albi Mertah",
+      "url": "https://open.spotify.com/track/7AR95BVtIccdWjaWD2iuWX"
+    },
+    {
+      "album": {
         "name": "Albi Ya Albi",
         "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
       },
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 234614,
       "name": "Tawaam Hayati",
       "url": "https://open.spotify.com/track/0OiH9KupQNLSsklFEOaLS2"

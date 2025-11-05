@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🥤 cover: Audrey Hobert
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,484 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,481 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 44 | [Ugly Crier](https://open.spotify.com/track/6xVeO0jiOrV5XZDnM8wAzB) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Can I Come Too?](https://open.spotify.com/album/5007izIDA5T2I96QI67JaO) | 3:20 |
 | 45 | [WISH I COULD CHANGE THE WEATHER](https://open.spotify.com/track/6wnbwHELabGWmIgujSghzu) | [HARVEY HILTON](https://open.spotify.com/artist/6IW2t8HKJEwygZ5YmgG0bJ) | [WISH I COULD CHANGE THE WEATHER](https://open.spotify.com/album/1Q6DV9JGIofmpGofNimRzK) | 4:17 |
 | 46 | [drive](https://open.spotify.com/track/1q3Yd6kPtd9byxquiedaob) | [jessica\-ann](https://open.spotify.com/artist/29PuEgWgOAYlJcqxPHI75s) | [drive](https://open.spotify.com/album/0i7tTvMVjPdA6G7Y0fCjiX) | 2:58 |
-| 47 | [someone](https://open.spotify.com/track/2RYZvP3DX7lj8Yzpv63UYF) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [someone](https://open.spotify.com/album/53w2Th0lIwncJDoLhhfz9a) | 3:29 |
+| 47 | [someone](https://open.spotify.com/track/2RYZvP3DX7lj8Yzpv63UYF) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [someone](https://open.spotify.com/album/53w2Th0lIwncJDoLhhfz9a) | 3:30 |
 | 48 | [All My Life](https://open.spotify.com/track/25Lf4qYSRw3uy8mca4qZ3a) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [All My Life](https://open.spotify.com/album/4oPC3WfDoFPATlsHOKe2Bg) | 2:01 |
 | 49 | [LOCK](https://open.spotify.com/track/2KdFMIMbLkQ0DbSZ3kR73H) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [LOCK](https://open.spotify.com/album/7ED6azlDo3agTJlhBVgD8a) | 3:22 |
 | 50 | [Clinging To The Sides](https://open.spotify.com/track/61CmJ6dcAOK66g5wgbH7cc) | [Harriet Dagnall](https://open.spotify.com/artist/18pxBfaTMWeMRYnlmr0h3t) | [Clinging To The Sides](https://open.spotify.com/album/0FRHDn9NhgaCFA8IHMVxta) | 3:32 |

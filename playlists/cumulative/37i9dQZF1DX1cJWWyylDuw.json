@@ -4279,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "EVOLVE",
+        "url": "https://open.spotify.com/album/52jS26ckoo4FxrDuzH75JV"
+      },
+      "artists": [
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181078,
+      "name": "EVOLVE",
+      "url": "https://open.spotify.com/track/3J8zKMWojpAtSvyJbDHhJZ"
+    },
+    {
+      "album": {
         "name": "Exiled",
         "url": "https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq"
       },
@@ -12004,7 +12022,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 197614,
       "name": "The Isnis",
       "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"

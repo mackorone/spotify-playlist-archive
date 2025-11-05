@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Netherlands.",
-  "num_followers": 66870,
+  "num_followers": 66912,
   "original_name": "Viral 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MJwc+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MJ1ueAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Wij zeggen nee, nee, nee, tegen een AZC (Hardcore Mix)",
+        "url": "https://open.spotify.com/album/6woHRzOJuVNjjqGc4b0ROt"
+      },
+      "artists": [
+        {
+          "name": "JW \"Broken Veteran\"",
+          "url": "https://open.spotify.com/artist/7vpoGzvUHw31dnQlyd5YSW"
+        }
+      ],
+      "duration_ms": 191719,
+      "name": "Wij zeggen nee, nee, nee, tegen een AZC - Hardcore Mix",
+      "url": "https://open.spotify.com/track/4nW7z4lyhT18qAuz7uZ7lW"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Wij zeggen Nee,Nee, Nee, tegen een AZC",
         "url": "https://open.spotify.com/album/0cCj7rxeipUGwUdlGsqleu"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/62Ard2bzNbrqt9U6eXuB93"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Noem me maar Rechts-Extreem",
         "url": "https://open.spotify.com/album/5DIzKVmwW38QEh8Hh5fJlp"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/5cnq7vqBdfKFRJvGHGal7b"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Had Ik Maar",
         "url": "https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm"
@@ -57,23 +73,103 @@
       "url": "https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "Without Me",
-        "url": "https://open.spotify.com/album/4ggAqavt81oF4dQLF4D7lp"
+        "name": "Fuck jullie! Linkse Fuckers! (Hardcore Mix)",
+        "url": "https://open.spotify.com/album/1YLYbjZX4gLnqt4t5yDkxq"
       },
       "artists": [
         {
-          "name": "Orion7",
-          "url": "https://open.spotify.com/artist/5xq85p5vUAcHW9qjlJ2Hle"
+          "name": "JW \"Broken Veteran\"",
+          "url": "https://open.spotify.com/artist/7vpoGzvUHw31dnQlyd5YSW"
         }
       ],
-      "duration_ms": 321394,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/3EWDDciJNMk7gAZNp6L6V7"
+      "duration_ms": 238519,
+      "name": "Fuck jullie! Linkse Fuckers! - Hardcore Mix",
+      "url": "https://open.spotify.com/track/1x1WEExbPR1WSnKVGB6qvK"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Nederland United (Anti AZC)",
+        "url": "https://open.spotify.com/album/1S3RZCzkgTvYBHqGr3jOYw"
+      },
+      "artists": [
+        {
+          "name": "JW \"Broken Veteran\"",
+          "url": "https://open.spotify.com/artist/7vpoGzvUHw31dnQlyd5YSW"
+        }
+      ],
+      "duration_ms": 234119,
+      "name": "Nederland United - Anti AZC",
+      "url": "https://open.spotify.com/track/2LpQT38yieY6EIMY0topfC"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Onze Vlag (Official Release)",
+        "url": "https://open.spotify.com/album/35YyzUqdyFyxTBOYK52ImJ"
+      },
+      "artists": [
+        {
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/38GCVbz9VJWSuZrV4MERq7"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Onze Vlag - Official Release",
+      "url": "https://open.spotify.com/track/02Kd0YenJ59E78JZZh5qhq"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Livin\u2019 on Borrowed Time",
+        "url": "https://open.spotify.com/album/7K7mMmwLyB8nDyYAX5Ufjg"
+      },
+      "artists": [
+        {
+          "name": "Breaking Rust",
+          "url": "https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5"
+        }
+      ],
+      "duration_ms": 204959,
+      "name": "Livin\u2019 on Borrowed Time",
+      "url": "https://open.spotify.com/track/3fBLo7dnG5CSepoXgu3B53"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Als het je niet bevalt, ga dan! (Anti-AZC) [Hardcore Mix]",
+        "url": "https://open.spotify.com/album/16sfH3Htu4hrUtWpaTcGPU"
+      },
+      "artists": [
+        {
+          "name": "JW \"Broken Veteran\"",
+          "url": "https://open.spotify.com/artist/7vpoGzvUHw31dnQlyd5YSW"
+        }
+      ],
+      "duration_ms": 183199,
+      "name": "Als het je niet bevalt, ga dan! (Anti-AZC) - Hardcore Mix",
+      "url": "https://open.spotify.com/track/6JUmSZYDwrmAapdWW2d8WV"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Resilient",
+        "url": "https://open.spotify.com/album/4a51ZNJXb5Psq3YmBBAn0i"
+      },
+      "artists": [
+        {
+          "name": "Breaking Rust",
+          "url": "https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Walk My Walk",
+      "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Paid to Exist",
         "url": "https://open.spotify.com/album/4Xh6ncpPchN6sttSXlarzg"
@@ -89,39 +185,7 @@
       "url": "https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Eyl\u00fclzede",
-        "url": "https://open.spotify.com/album/4F0m8knXbdGm0PJpaarwCF"
-      },
-      "artists": [
-        {
-          "name": "Nikbinler",
-          "url": "https://open.spotify.com/artist/1m7sjyFkalMYQt4frXljEl"
-        }
-      ],
-      "duration_ms": 269919,
-      "name": "Eyl\u00fclzede",
-      "url": "https://open.spotify.com/track/3N2dY8tyTp7XGhsTSigaxT"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124608,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/74HNHfB066STy568ETJsPl"
@@ -153,7 +217,7 @@
       "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Dit is Voor Nederland",
         "url": "https://open.spotify.com/album/55yTXvPky2BjOjEp8aTiRz"
@@ -169,23 +233,23 @@
       "url": "https://open.spotify.com/track/4EwbTlzeFYbbzJ2YPsxH3t"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/7KRiPA7S7cR3b6QZXePL91"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
         }
       ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
+      "duration_ms": 124608,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Smartlap Is Niet Dood",
         "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
@@ -205,39 +269,47 @@
       "url": "https://open.spotify.com/track/6o1Uv8FqaVBtqCXmjrCbSA"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "which one x 1er gaou",
-        "url": "https://open.spotify.com/album/4QOyEozWJDikcPyTpS7M3v"
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
       "artists": [
         {
-          "name": "sugarcoma",
-          "url": "https://open.spotify.com/artist/2zrqIcaKlvKacewBRPfn7v"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 146000,
-      "name": "which one x 1er gaou",
-      "url": "https://open.spotify.com/track/6eynivQry1ZjQ4FxWTMZTi"
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+        "name": "Baila de Gasolina (Remix)",
+        "url": "https://open.spotify.com/album/3JHvRZxGFMron9RLauackt"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Ruthless",
+          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
+        },
+        {
+          "name": "Effe Serieus",
+          "url": "https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93"
         }
       ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+      "duration_ms": 204387,
+      "name": "Baila de Gasolina - Remix",
+      "url": "https://open.spotify.com/track/1EHUaXrI4iKIPz2RvGyWX7"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "The Original Monster Mash",
         "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
@@ -257,7 +329,23 @@
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Wacht Op Mij",
         "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
@@ -273,7 +361,63 @@
       "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Poko Poko",
+        "url": "https://open.spotify.com/album/6gyyAJuEBycmqmMSuGdt8A"
+      },
+      "artists": [
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "Rich Kalashh",
+          "url": "https://open.spotify.com/artist/6Lison90Nuv6paiGTrTqRl"
+        },
+        {
+          "name": "Dongo",
+          "url": "https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2"
+        }
+      ],
+      "duration_ms": 151116,
+      "name": "Poko Poko",
+      "url": "https://open.spotify.com/track/0sMKO5kThQuiXBnBS9SauK"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "YAMA",
+        "url": "https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 159673,
+      "name": "YAMA",
+      "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "The Nightmare Before Christmas",
         "url": "https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm"
@@ -289,7 +433,63 @@
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "WHAT THA HELLY (SOMEONE CALL THE AMBULANCE)",
+        "url": "https://open.spotify.com/album/5nKOeJM9R1jMkJHUAuyWgf"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        },
+        {
+          "name": "Levenkhan",
+          "url": "https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd"
+        }
+      ],
+      "duration_ms": 189352,
+      "name": "WHAT THA HELLY (SOMEONE CALL THE AMBULANCE)",
+      "url": "https://open.spotify.com/track/1QIBLPZqpqETKtuMLpHAN4"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "De Wijk",
+        "url": "https://open.spotify.com/album/2qWdiZuC4jsQtmkAhnHT7B"
+      },
+      "artists": [
+        {
+          "name": "jd 74",
+          "url": "https://open.spotify.com/artist/0gMO3UnbsLi6cnS11xx6sF"
+        }
+      ],
+      "duration_ms": 136740,
+      "name": "De Wijk",
+      "url": "https://open.spotify.com/track/1crJ6kjhiCodGR0pS7zjN4"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Halloween Night in the Forest",
+        "url": "https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw"
+      },
+      "artists": [
+        {
+          "name": "Nevium",
+          "url": "https://open.spotify.com/artist/18h6bUDAke6kPNEuB3VcMM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Who's There?",
+      "url": "https://open.spotify.com/track/21hyZSpif6WN91ayidqdE9"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "We Are Snakepit (Official Snakepit 2025 Anthem)",
         "url": "https://open.spotify.com/album/2wJ9ubM3QYPPljXVJcHfRg"
@@ -313,39 +513,39 @@
       "url": "https://open.spotify.com/track/3F16b3ktYgtFxHZ8eDeP2L"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "De Wijk",
-        "url": "https://open.spotify.com/album/2qWdiZuC4jsQtmkAhnHT7B"
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
       },
       "artists": [
         {
-          "name": "jd 74",
-          "url": "https://open.spotify.com/artist/0gMO3UnbsLi6cnS11xx6sF"
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
         }
       ],
-      "duration_ms": 136740,
-      "name": "De Wijk",
-      "url": "https://open.spotify.com/track/1crJ6kjhiCodGR0pS7zjN4"
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Bontardi",
         "url": "https://open.spotify.com/album/6J9tjiB79EOtpKlsZmfmkD"
@@ -369,7 +569,7 @@
       "url": "https://open.spotify.com/track/1kqZtggxscbT7VX4H7Ehsl"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -385,135 +585,47 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
       "artists": [
         {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 125624,
-      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
-      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "IRIS OUT",
-        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+        "name": "Beste Zangers 2025 (Jacqueline Govaert)",
+        "url": "https://open.spotify.com/album/50NTSJIbNgMylRj9UXlwFj"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "IRIS OUT",
-      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "To the Max",
-        "url": "https://open.spotify.com/album/4DSU5IvNNK26NuzPhItKSE"
-      },
-      "artists": [
-        {
-          "name": "DjangoBeats",
-          "url": "https://open.spotify.com/artist/5S8jlJz9AU8D2LYdfjSNOi"
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
         },
         {
-          "name": "Rits",
-          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
         },
         {
-          "name": "Oykie",
-          "url": "https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ"
-        },
-        {
-          "name": "Shep500",
-          "url": "https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU"
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
         }
       ],
-      "duration_ms": 225312,
-      "name": "To the Max",
-      "url": "https://open.spotify.com/track/5XjhvR5rKcug7q8DKyxzlm"
+      "duration_ms": 156714,
+      "name": "Oceaan",
+      "url": "https://open.spotify.com/track/3b7HPTaPUafGpft8vYNjz7"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Halloween Night in the Forest",
-        "url": "https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw"
-      },
-      "artists": [
-        {
-          "name": "Nevium",
-          "url": "https://open.spotify.com/artist/18h6bUDAke6kPNEuB3VcMM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Who's There?",
-      "url": "https://open.spotify.com/track/21hyZSpif6WN91ayidqdE9"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "27 Anos Nacional",
-        "url": "https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW"
-      },
-      "artists": [
-        {
-          "name": "Furac\u00e3o 2000",
-          "url": "https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0"
-        },
-        {
-          "name": "Nyasia",
-          "url": "https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW"
-        }
-      ],
-      "duration_ms": 140560,
-      "name": "Mimosa 2000",
-      "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Helaas",
         "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
@@ -537,51 +649,43 @@
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "Halloween Horror Sounds: Very Creepy & Scary Mood, Spooky Sound Effect 2022",
-        "url": "https://open.spotify.com/album/03hu0ePSIAxOR5lhdrKG30"
+        "name": "which one x 1er gaou",
+        "url": "https://open.spotify.com/album/4QOyEozWJDikcPyTpS7M3v"
       },
       "artists": [
         {
-          "name": "Spooky Halloween Sounds",
-          "url": "https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y"
+          "name": "sugarcoma",
+          "url": "https://open.spotify.com/artist/2zrqIcaKlvKacewBRPfn7v"
         }
       ],
-      "duration_ms": 214410,
-      "name": "Creepy Little Girl Singing (Horror Sound Effect)",
-      "url": "https://open.spotify.com/track/6eqS8y8qnueb6D099eQV94"
+      "duration_ms": 146000,
+      "name": "which one x 1er gaou",
+      "url": "https://open.spotify.com/track/6eynivQry1ZjQ4FxWTMZTi"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "Vader & zoon (Remix)",
-        "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
+        "name": "27 Anos Nacional",
+        "url": "https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW"
       },
       "artists": [
         {
-          "name": "Thomas Berge",
-          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
+          "name": "Furac\u00e3o 2000",
+          "url": "https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0"
         },
         {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC"
-        },
-        {
-          "name": "Milo ter Reegen",
-          "url": "https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn"
-        },
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+          "name": "Nyasia",
+          "url": "https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW"
         }
       ],
-      "duration_ms": 140202,
-      "name": "Vader & zoon - Remix",
-      "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
+      "duration_ms": 140560,
+      "name": "Mimosa 2000",
+      "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -597,43 +701,55 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "Deze Nacht (All Night Long)",
-        "url": "https://open.spotify.com/album/4eueg0K9RALrcC4OInrPdN"
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
       },
       "artists": [
         {
-          "name": "Thijs Boontjes",
-          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
         }
       ],
-      "duration_ms": 243005,
-      "name": "Deze Nacht (All Night Long)",
-      "url": "https://open.spotify.com/track/00tDSqUMjyOICNNmQSBE8w"
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "NOW OR NEVER",
-        "url": "https://open.spotify.com/album/2iJkrwXpyChhfeClyX7oov"
+        "name": "Halloween Horror Sounds: Very Creepy & Scary Mood, Spooky Sound Effect 2022",
+        "url": "https://open.spotify.com/album/03hu0ePSIAxOR5lhdrKG30"
       },
       "artists": [
         {
-          "name": "Tkandz",
-          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
-        },
-        {
-          "name": "CXSPER",
-          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+          "name": "Spooky Halloween Sounds",
+          "url": "https://open.spotify.com/artist/6Dmi92a5cnv8DcFoUhK56Y"
         }
       ],
-      "duration_ms": 123428,
-      "name": "NOW OR NEVER",
-      "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c"
+      "duration_ms": 214410,
+      "name": "Creepy Little Girl Singing (Horror Sound Effect)",
+      "url": "https://open.spotify.com/track/6eqS8y8qnueb6D099eQV94"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
@@ -653,23 +769,119 @@
       "url": "https://open.spotify.com/track/4Oc1qHsjM4kM0AARvlwSs3"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "What's a Girl to Do in '25",
-        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w"
       },
       "artists": [
         {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Lekkerfaces",
+          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+        },
+        {
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
         }
       ],
-      "duration_ms": 148047,
-      "name": "What's a Girl to Do in '25",
-      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+      "duration_ms": 161684,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Highly Rogue",
+        "url": "https://open.spotify.com/album/13GBaRgu5EYW0MslqoJUrd"
+      },
+      "artists": [
+        {
+          "name": "LAMMER",
+          "url": "https://open.spotify.com/artist/5XCMynHbftLKbZ0Mp6iHdc"
+        }
+      ],
+      "duration_ms": 238260,
+      "name": "Time To Move",
+      "url": "https://open.spotify.com/track/77a1NpI0XMHdJFQU50i5EV"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Vrijspel",
+        "url": "https://open.spotify.com/album/2VGSxA5QMA7Kz7T7ugTYzi"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        }
+      ],
+      "duration_ms": 227727,
+      "name": "Alcantara",
+      "url": "https://open.spotify.com/track/6IUqEmhUrRcZZIvOd2mkcT"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+      },
+      "artists": [
+        {
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+        }
+      ],
+      "duration_ms": 192092,
+      "name": "Lekker Ding, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Deze Nacht (All Night Long)",
+        "url": "https://open.spotify.com/album/4eueg0K9RALrcC4OInrPdN"
+      },
+      "artists": [
+        {
+          "name": "Thijs Boontjes",
+          "url": "https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei"
+        }
+      ],
+      "duration_ms": 243005,
+      "name": "Deze Nacht (All Night Long)",
+      "url": "https://open.spotify.com/track/00tDSqUMjyOICNNmQSBE8w"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
+      "album": {
+        "name": "Het PiratenHits Hardstyle Album, Vol. 1",
+        "url": "https://open.spotify.com/album/4KEQCRjpJLEOah2QocFstA"
+      },
+      "artists": [
+        {
+          "name": "SkaffaWilly",
+          "url": "https://open.spotify.com/artist/0YDblxudKOoX1HUYHjMaM7"
+        }
+      ],
+      "duration_ms": 186177,
+      "name": "M'n Zus Van 21 - Hardstyle Remake/Remix",
+      "url": "https://open.spotify.com/track/7DG1MgtXXnwlwLKpxAMFLa"
+    },
+    {
+      "added_at": "2025-11-04 19:47:54",
       "album": {
         "name": "Kan Je Me Zien",
         "url": "https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU"
@@ -689,228 +901,20 @@
       "url": "https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd"
     },
     {
-      "added_at": "2025-11-03 16:12:24",
+      "added_at": "2025-11-04 19:47:54",
       "album": {
-        "name": "Highly Rogue",
-        "url": "https://open.spotify.com/album/13GBaRgu5EYW0MslqoJUrd"
+        "name": "What's a Girl to Do in '25",
+        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
       },
       "artists": [
         {
-          "name": "LAMMER",
-          "url": "https://open.spotify.com/artist/5XCMynHbftLKbZ0Mp6iHdc"
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 238260,
-      "name": "Time To Move",
-      "url": "https://open.spotify.com/track/77a1NpI0XMHdJFQU50i5EV"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Het PiratenHits Hardstyle Album, Vol. 1",
-        "url": "https://open.spotify.com/album/4KEQCRjpJLEOah2QocFstA"
-      },
-      "artists": [
-        {
-          "name": "SkaffaWilly",
-          "url": "https://open.spotify.com/artist/0YDblxudKOoX1HUYHjMaM7"
-        }
-      ],
-      "duration_ms": 186177,
-      "name": "M'n Zus Van 21 - Hardstyle Remake/Remix",
-      "url": "https://open.spotify.com/track/7DG1MgtXXnwlwLKpxAMFLa"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Koekoek",
-        "url": "https://open.spotify.com/album/4jesaqifjQmG1diKzPiTZ0"
-      },
-      "artists": [
-        {
-          "name": "John De Bever",
-          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
-        },
-        {
-          "name": "Wilfred Genee",
-          "url": "https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs"
-        }
-      ],
-      "duration_ms": 149947,
-      "name": "Koekoek",
-      "url": "https://open.spotify.com/track/3oG4L8ahaZKHnSZZbAEIjT"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "The Singer & The Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 100746,
-      "name": "Bless the Telephone",
-      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "In De Olie",
-        "url": "https://open.spotify.com/album/5lkTnqlk46P194Ux5qpnEw"
-      },
-      "artists": [
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "In De Olie",
-      "url": "https://open.spotify.com/track/6AvgZ3a7cdtuuIGVH63QPP"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
-        }
-      ],
-      "duration_ms": 109759,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Dit Is Je Verjaardag (Troetelnamen)",
-        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
-      },
-      "artists": [
-        {
-          "name": "Cadeautje voor jou",
-          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
-        }
-      ],
-      "duration_ms": 192092,
-      "name": "Lekker Ding, Dit Is Je Verjaardag",
-      "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "The Boy Who Flew To The Moon (Vol. 1)",
-        "url": "https://open.spotify.com/album/4AOuaSsHC7Y0R7ovt98aEo"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 143466,
-      "name": "Maui Wowie",
-      "url": "https://open.spotify.com/track/7uJUDd92ZfawO5clVSY0dq"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "October Country (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX"
-      },
-      "artists": [
-        {
-          "name": "October Country",
-          "url": "https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9"
-        }
-      ],
-      "duration_ms": 126840,
-      "name": "My Girlfriend Is a Witch",
-      "url": "https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "Halloween Trap Remixes 2025",
-        "url": "https://open.spotify.com/album/5twODzxoqQGWmFnSooVrsk"
-      },
-      "artists": [
-        {
-          "name": "Trap Remix Guys",
-          "url": "https://open.spotify.com/artist/5mJT67kG5MKy7byzJWMN7c"
-        }
-      ],
-      "duration_ms": 79523,
-      "name": "Harry Potter - Trap Remix",
-      "url": "https://open.spotify.com/track/08mbeGhGSQaNheBe2DzpRc"
-    },
-    {
-      "added_at": "2025-11-03 16:12:24",
-      "album": {
-        "name": "MONTAGEM RUGADA",
-        "url": "https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n"
-      },
-      "artists": [
-        {
-          "name": "cape",
-          "url": "https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K"
-        },
-        {
-          "name": "JXNDRO",
-          "url": "https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q"
-        },
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        }
-      ],
-      "duration_ms": 92384,
-      "name": "MONTAGEM RUGADA",
-      "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
+      "duration_ms": 148047,
+      "name": "What's a Girl to Do in '25",
+      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
     }
   ],
   "unique_name": "Viral 50 - Netherlands",

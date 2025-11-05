@@ -2516,7 +2516,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 150861,
       "name": "Artista Gen\u00e9rico",
       "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
@@ -9502,7 +9502,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -11550,7 +11550,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 183714,
       "name": "Faz Bem",
       "url": "https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa"
@@ -15864,7 +15864,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -21838,7 +21838,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 256483,
       "name": "Mussulo (feat. Doddy)",
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
@@ -23032,7 +23032,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -23548,7 +23548,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 166861,
       "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim.",
       "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
@@ -37198,6 +37198,28 @@
       "duration_ms": 180923,
       "name": "\u00d4 Mo\u00e7a",
       "url": "https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Dan\u00e7a",
+        "url": "https://open.spotify.com/album/5SFdJagxex7pu7jQiUt1hH"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "Lucas Maia",
+          "url": "https://open.spotify.com/artist/38DMFcRvqwBt7yWsQmNZOr"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "\u00daltima Dan\u00e7a",
+      "url": "https://open.spotify.com/track/5mKzzTh3y4KsGpDT9h8EmS"
     },
     {
       "album": {

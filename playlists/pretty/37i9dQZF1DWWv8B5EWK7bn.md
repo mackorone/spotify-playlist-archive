@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,779 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,800 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 20 | [Fishbrain](https://open.spotify.com/track/60PgbKqLoj6DCASnxEgZ7F) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 4:37 |
 | 21 | [Segredo](https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj) | [Música do Esquecimento](https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb) | 4:04 |
 | 22 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
-| 23 | [Crushxd](https://open.spotify.com/track/42xwqRK62PxAEUh4N3kVpf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:06 |
-| 24 | [Sandrail Silhouette](https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/4lfxnysknFsZMnrB07hlCo) | 4:29 |
+| 23 | [Sandrail Silhouette](https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/4lfxnysknFsZMnrB07hlCo) | 4:29 |
+| 24 | [Crushxd](https://open.spotify.com/track/42xwqRK62PxAEUh4N3kVpf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:06 |
 | 25 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 |
 | 26 | [Bang \- Peanut Butter Wolf Remix](https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang \(Peanut Butter Wolf Remix\)](https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24) | 4:08 |
 | 27 | [Hello](https://open.spotify.com/track/5CBO4dDJIJlYpicO7HNyFI) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 5:08 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 81 | [Vallahi Yok](https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf) | 4:37 |
 | 82 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
 | 83 | [New World \- Edit](https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o) | [Tindersticks](https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5) | [Always a Stranger](https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI) | 3:47 |
-| 84 | [Dividual Individual](https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 5:00 |
-| 85 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
+| 84 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
+| 85 | [Dividual Individual](https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 5:00 |
 | 86 | [Al Sur](https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs) | [The Notwist](https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha), [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Al Sur](https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy) | 3:18 |
 | 87 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
 | 88 | [An Embroidery](https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [An Embroidery](https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy) | 4:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 96 | [Hay Veces](https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hay Veces](https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7) | 3:06 |
 | 97 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
 | 98 | [Pagano](https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE) | [Siniestra Pandora](https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U) | [Elegía](https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj) | 3:47 |
-| 99 | [Sus Dog](https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 4:36 |
-| 100 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 |
+| 99 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 |
+| 100 | [Sus Dog](https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 4:36 |
 
 Snapshot ID: `AAAAAL+VE5ve48KhceemIjn2nXnb7fz3`

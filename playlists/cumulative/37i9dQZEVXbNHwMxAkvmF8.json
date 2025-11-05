@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "1-1-1",
+        "url": "https://open.spotify.com/album/3XKY1ilKDx5Xi8Gx5ZVpyI"
+      },
+      "artists": [
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        },
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "1-1-1",
+      "url": "https://open.spotify.com/track/0amJLBfAlU9sAV0v56V7E4"
+    },
+    {
+      "album": {
         "name": "BARBATULA BARBATULA",
         "url": "https://open.spotify.com/album/6shv3bmIBOtB1hoGURDBuA"
       },
@@ -5318,7 +5340,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 113046,
       "name": "CHOCO MOMMY",
       "url": "https://open.spotify.com/track/2V5x33qFjc72hmrrtG6ujv"
@@ -15986,7 +16008,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 114392,
       "name": "LOCA",
       "url": "https://open.spotify.com/track/6WtqW4ItZAzcWqilIFteHR"
@@ -21062,7 +21084,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 159204,
       "name": "Pap\u00edrom",
       "url": "https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B"
@@ -21386,7 +21408,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 137614,
       "name": "Passport",
       "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
@@ -25212,7 +25234,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 170934,
       "name": "SISS",
       "url": "https://open.spotify.com/track/4WGi0tOktUgbzYmEqBocQD"
@@ -26160,7 +26182,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 168738,
       "name": "STRESSZ",
       "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
@@ -26838,7 +26860,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 170000,
       "name": "Sz\u00e9kelykapu",
       "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"

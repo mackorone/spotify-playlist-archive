@@ -6,7 +6,7 @@
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANXFPI8LRyF1qSMt2/u2+/O5bYZpkU",
+  "snapshot_id": "AAANX9CDd4cnCSLecSWWasajMlpZuVu2",
   "tracks": [
     {
       "added_at": "2025-09-10 18:40:15",
@@ -1014,10 +1014,6 @@
         {
           "name": "Wednesday",
           "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        },
-        {
-          "name": "Advance Base",
-          "url": "https://open.spotify.com/artist/4YIMPSc3zZLRwe4Ujaxjce"
         }
       ],
       "duration_ms": 149506,
@@ -1407,6 +1403,58 @@
       "duration_ms": 215975,
       "name": "100 years of Bill & Lil",
       "url": "https://open.spotify.com/track/14S4p6XIlsHNJdiz8Ptws7"
+    },
+    {
+      "added_at": "2025-11-04 21:56:22",
+      "album": {
+        "name": "Los Jovenes Viejos (Remastered)",
+        "url": "https://open.spotify.com/album/7BpwAXzzaTqkzWTSmQ5gvk"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mihanovich",
+          "url": "https://open.spotify.com/artist/2hPO6aP9HU0QsxpqYqNNCY"
+        },
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Vals en 16mm",
+      "url": "https://open.spotify.com/track/0GoVAWajaazvgau87iHWoq"
+    },
+    {
+      "added_at": "2025-11-04 21:58:24",
+      "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/5L7VeMZzhPfTqF0cd6nPHB"
+      },
+      "artists": [
+        {
+          "name": "Volodja Brodsky",
+          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
+        }
+      ],
+      "duration_ms": 241486,
+      "name": "Snowfall Serenade",
+      "url": "https://open.spotify.com/track/4y3GGDrMxmoPRkZoPZ7WNc"
+    },
+    {
+      "added_at": "2025-11-04 22:36:23",
+      "album": {
+        "name": "Dwell Time",
+        "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2"
     }
   ],
   "unique_name": "warmth, and red eyes",

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 921954,
+  "num_followers": 921840,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -187,30 +187,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
-      },
-      "artists": [
-        {
-          "name": "Marc Kiss",
-          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
-        },
-        {
-          "name": "ThomTree",
-          "url": "https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse"
-        },
-        {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Freaking You Out",
         "url": "https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 182968,
       "name": "Freaking You Out",
       "url": "https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
+      },
+      "artists": [
+        {
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+        },
+        {
+          "name": "ThomTree",
+          "url": "https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -331,26 +331,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Riverside MF",
-        "url": "https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ"
+        "name": "No Sleep (6AM) (feat. MERYLL)",
+        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         },
         {
-          "name": "Sidney Samson",
-          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
-        },
-        {
-          "name": "PAJANE",
-          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 155146,
-      "name": "Riverside MF",
-      "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
+      "duration_ms": 146195,
+      "name": "No Sleep (6AM) (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -371,22 +367,26 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "No Sleep (6AM) (feat. MERYLL)",
-        "url": "https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro"
+        "name": "Riverside MF",
+        "url": "https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        },
+        {
+          "name": "PAJANE",
+          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
         }
       ],
-      "duration_ms": 146195,
-      "name": "No Sleep (6AM) (feat. MERYLL)",
-      "url": "https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt"
+      "duration_ms": 155146,
+      "name": "Riverside MF",
+      "url": "https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -607,26 +607,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
         "name": "Party After Party",
         "url": "https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 159230,
       "name": "Party After Party",
       "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
+        "name": "Ravers Bounce",
+        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        }
+      ],
+      "duration_ms": 195357,
+      "name": "Ravers Bounce",
+      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1243,26 +1263,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Ravers Bounce",
-        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        },
-        {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
-        }
-      ],
-      "duration_ms": 195357,
-      "name": "Ravers Bounce",
-      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Rock The Party",
-        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Rock The Party",
-      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Losing My Head",
         "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 189289,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Repeating",
-        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 147420,
-      "name": "Repeating",
-      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 181934,
       "name": "Anywhere You Go",
       "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 135692,
       "name": "Arsonist",
       "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
@@ -1599,6 +1579,26 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
         "name": "Droppin' It (La La La)",
         "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
@@ -1615,6 +1615,30 @@
       "duration_ms": 156190,
       "name": "Droppin' It (La La La)",
       "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Jumpin",
+        "url": "https://open.spotify.com/album/3cGPTrlJGeTpC5aJheKBYL"
+      },
+      "artists": [
+        {
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        },
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        },
+        {
+          "name": "ALKEMY",
+          "url": "https://open.spotify.com/artist/771D3936gQeS3Dw5qLcHR2"
+        }
+      ],
+      "duration_ms": 164798,
+      "name": "Jumpin",
+      "url": "https://open.spotify.com/track/2hNss6COTP0Vev63tdcrz2"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1651,30 +1675,6 @@
       "duration_ms": 160849,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
-        "name": "Jumpin",
-        "url": "https://open.spotify.com/album/3cGPTrlJGeTpC5aJheKBYL"
-      },
-      "artists": [
-        {
-          "name": "Luis Torres",
-          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
-        },
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        },
-        {
-          "name": "ALKEMY",
-          "url": "https://open.spotify.com/artist/771D3936gQeS3Dw5qLcHR2"
-        }
-      ],
-      "duration_ms": 164798,
-      "name": "Jumpin",
-      "url": "https://open.spotify.com/track/2hNss6COTP0Vev63tdcrz2"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
         "name": "Cathedral (Piece Of Me) [feat. JEN]",
         "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 148809,
       "name": "Cathedral (Piece Of Me) [feat. JEN]",
       "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1931,22 +1931,18 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Smash The Disco",
-        "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
       },
       "artists": [
         {
-          "name": "REBRN",
-          "url": "https://open.spotify.com/artist/3GHKSLV8K79xY8Z6TASqqz"
-        },
-        {
-          "name": "Oliver Marshak",
-          "url": "https://open.spotify.com/artist/6lUFleltrcWzLWSkRnt3zB"
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 181875,
-      "name": "Smash The Disco",
-      "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
     }
   ],
   "unique_name": "Shuffle Syndrome",

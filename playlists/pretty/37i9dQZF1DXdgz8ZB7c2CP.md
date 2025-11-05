@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>! Featuring IMANU
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,737 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,731 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 82 | [Monsoon](https://open.spotify.com/track/5pVySA9qkHt5qsh8oVUDma) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Monsoon](https://open.spotify.com/album/34FbsM0FQZpATKLGKaw4c5) | 2:50 |
 | 83 | [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 |
 | 84 | [SOLD MY SOUL](https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [SOLD MY SOUL](https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW) | 3:19 |
-| 85 | [CHROMA 008 TANGZ](https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 008](https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb) | 5:12 |
-| 86 | [With You](https://open.spotify.com/track/50LgA55Oq94rxOSbPzMnwD) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [With You](https://open.spotify.com/album/4yl8kZmMw50wpomsA7kbrP) | 4:14 |
-| 87 | [THINGS I DO 4U](https://open.spotify.com/track/1S87j1kalscHzX3rjf7fHD) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [THINGS I DO 4U](https://open.spotify.com/album/1mj8EyllkyXUeyWbuJwFdC) | 2:47 |
-| 88 | [Something More](https://open.spotify.com/track/7uvy5O6RwchnhIr8B8L07y) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Something More](https://open.spotify.com/album/2YRte9je2KhE4Qvuzt00ht) | 2:41 |
+| 85 | [With You](https://open.spotify.com/track/50LgA55Oq94rxOSbPzMnwD) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [With You](https://open.spotify.com/album/4yl8kZmMw50wpomsA7kbrP) | 4:14 |
+| 86 | [CHROMA 008 TANGZ](https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 008](https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb) | 5:12 |
+| 87 | [Something More](https://open.spotify.com/track/7uvy5O6RwchnhIr8B8L07y) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Something More](https://open.spotify.com/album/2YRte9je2KhE4Qvuzt00ht) | 2:41 |
+| 88 | [THINGS I DO 4U](https://open.spotify.com/track/1S87j1kalscHzX3rjf7fHD) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [THINGS I DO 4U](https://open.spotify.com/album/1mj8EyllkyXUeyWbuJwFdC) | 2:47 |
 | 89 | [wish you the best](https://open.spotify.com/track/2qbwO0CRPggvohMtVNJWCA) | [Conrad.](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC), [soleil](https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN) | [restart](https://open.spotify.com/album/4crQVQEtgZpbESkCxapShg) | 3:04 |
 | 90 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 |
 | 91 | [IYKYK](https://open.spotify.com/track/2VfsWUM63pXOHrPwHqrIfC) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Amanda Joy](https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi) | [IYKYK](https://open.spotify.com/album/0iZav5xhaGkYCRijYyxfG9) | 3:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 97 | [dollaz n dollaz](https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [dollaz n dollaz](https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq) | 2:24 |
 | 98 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 |
 | 99 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 |
-| 100 | [GOOD TIME GIRL](https://open.spotify.com/track/6A2CEALbfAIbxbYUy2ya6e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GOOD TIME GIRL](https://open.spotify.com/album/6jbsNqUzdc8GkVLPj7je1q) | 2:32 |
+| 100 | [Too Late](https://open.spotify.com/track/62yoC1CtvCigAoLgybU2ub) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Second Self](https://open.spotify.com/album/5CwOMFZ4ss057biZKdHBY6) | 3:31 |
 
 Snapshot ID: `AAAAAEpJcKH0ycais66CCvFVqmg9K33H`

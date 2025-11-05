@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 61991,
+  "num_followers": 61990,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAADPXqDuOCF7aE77hobZOH+h",
+  "snapshot_id": "aQfwgAAAAABHGHigGDZs6xtOaatC+5Ja",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
-        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 106110,
-      "name": "Medita\u00e7\u00e3o - Ultimate Mix",
-      "url": "https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amoroso",
         "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 249960,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3lSpczrXGWy6Bzc28KGHhE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
+        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 106110,
+      "name": "Medita\u00e7\u00e3o - Ultimate Mix",
+      "url": "https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 281706,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/3JbZ8W2aFTIEP6EidBlN38"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto",
         "url": "https://open.spotify.com/album/73ZRKdD3Ds43IjHrhKgucY"
       },
@@ -435,38 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 281706,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/3JbZ8W2aFTIEP6EidBlN38"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relic\u00e1rio: Jo\u00e3o Gilberto (Ao Vivo no Sesc 1998)",
-        "url": "https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 166479,
-      "name": "Rei sem coroa (ao vivo no Sesc)",
-      "url": "https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 158386,
       "name": "Amor Em Paz (Love in Peace)",
       "url": "https://open.spotify.com/track/4zADXJ2g8AlAwshQAhLsRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relic\u00e1rio: Jo\u00e3o Gilberto (Ao Vivo no Sesc 1998)",
+        "url": "https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 166479,
+      "name": "Rei sem coroa (ao vivo no Sesc)",
+      "url": "https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 266546,
       "name": "Consolation (Consolacao)",
       "url": "https://open.spotify.com/track/4ch1ylH8TECcranRFm8Kdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 387133,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
         "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 97359,
       "name": "Samba de uma Nota S\u00f3 - Ultimate Mix",
       "url": "https://open.spotify.com/track/7joZ2HZJxMLeT5Gpz3YYsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 387133,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 526200,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coisa Mais Linda",
         "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 526200,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jo\u00e3o Voz E Viol\u00e3o",
         "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 234933,
       "name": "Desde Que O Samba E Samba",
       "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 225071,
+      "name": "Falsa Baiana",
+      "url": "https://open.spotify.com/track/7nis0pALSkz4Tai1hJilet"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
       "duration_ms": 264226,
       "name": "It Might As Well Be Spring - Live At Carnegie Hall",
       "url": "https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 225071,
-      "name": "Falsa Baiana",
-      "url": "https://open.spotify.com/track/7nis0pALSkz4Tai1hJilet"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Getz/Gilberto #2",
+        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 171253,
+      "name": "Um Abraco No Bonfa - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 201839,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Getz/Gilberto #2",
-        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "Um Abraco No Bonfa - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg"
     },
     {
       "added_at": null,

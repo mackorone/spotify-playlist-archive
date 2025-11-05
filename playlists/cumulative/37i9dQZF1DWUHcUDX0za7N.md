@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Showdemcamp
 
-663 songs - 1 day 7 hr 10 min
+664 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Heaven's Gate \(feat\. Lily Allen\)](https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:22 | 2022-10-14 | 2022-10-29 |
 | [Hei God](https://open.spotify.com/track/1u6HuhlBtbiUeN5Y4I4IVP) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Hei God](https://open.spotify.com/album/6D9NddrRn6exZWm0F2ojvp) | 2:37 | 2025-05-16 | 2025-06-02 |
 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 |  |
-| [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 |  |
+| [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 | 2025-11-05 |
 | [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-20 | 2023-07-28 |
 | [Higher Consciousness](https://open.spotify.com/track/4RZJ4xsVuq20lNS9eDe4ly) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [BIGBIRD & THA VIPER](https://open.spotify.com/album/06avYXeBI5Df4cvkeTfJmS) | 3:05 | 2025-09-19 | 2025-10-04 |
 | [Highest Student](https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF) | [Highest Student](https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK) | 2:51 | 2023-03-25 | 2023-07-28 |
@@ -308,6 +308,7 @@
 | [Ink Flow](https://open.spotify.com/track/274haF5obwLpKtqWYHHk1T) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [We Not Done Yet](https://open.spotify.com/album/1Lt271IvIHkJfCLs9Qasdc) | 2:24 | 2024-05-31 | 2024-06-12 |
 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 | 2023-03-30 | 2023-04-28 |
 | [IRE](https://open.spotify.com/track/3vowySAqVBASOj6qojv0e6) | [D Bliss](https://open.spotify.com/artist/3gQm1VLHWfgsxdCybVW3LA), [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [IRE](https://open.spotify.com/album/1vrNczRrwYB6WVCNHpR7DY) | 3:21 | 2023-03-30 | 2023-04-15 |
+| [Italawa](https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Italawa](https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn) | 2:52 | 2025-11-04 |  |
 | [JAIYE EVERYDAY](https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [DAPO TUBURNA](https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO), [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [JAIYE EVERYDAY](https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09) | 3:01 | 2023-08-03 | 2023-09-29 |
 | [James Bond \(With Harley\)](https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [James Bond \(With Harley\)](https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg) | 2:41 | 2024-01-05 | 2024-02-17 |
 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 | 2024-01-19 | 2024-11-22 |

@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 183175,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z"
@@ -2527,6 +2527,28 @@
     },
     {
       "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215585,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
+    },
+    {
+      "album": {
         "name": "Gloeien",
         "url": "https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y"
       },
@@ -3068,7 +3090,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 171080,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk"
@@ -3344,6 +3366,24 @@
       "duration_ms": 219522,
       "name": "How My Heart Was Won",
       "url": "https://open.spotify.com/track/7aI0nca5m0wSGYcBdwRL8r"
+    },
+    {
+      "album": {
+        "name": "Huis van Zwart en Rood / Cederhout",
+        "url": "https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe"
+      },
+      "artists": [
+        {
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Huis van Zwart en Rood",
+      "url": "https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs"
     },
     {
       "album": {
@@ -5560,7 +5600,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 237318,
       "name": "Onomkeerbaar",
       "url": "https://open.spotify.com/track/3dM16edUVofGFGO0Zwb11i"
@@ -6024,6 +6064,24 @@
       "duration_ms": 262554,
       "name": "Salmari & Kreeft",
       "url": "https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN"
+    },
+    {
+      "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/7u6sZ1c9u4mDfTfhpgYNSu"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166950,
+      "name": "Samen",
+      "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17846,
+  "num_followers": 17850,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMJrLl3hiNWaGwvx5nd6MQiRCJpzUe",
+  "snapshot_id": "AAAMKF/j0Ow+BeqLKOQyGbv5gx5B9aOX",
   "tracks": [
+    {
+      "added_at": "2025-11-04 11:08:14",
+      "album": {
+        "name": "Lule e Eg\u00ebr",
+        "url": "https://open.spotify.com/album/6YaXvfFdT7yeh9TR4LYb2u"
+      },
+      "artists": [
+        {
+          "name": "Corpus Perditum",
+          "url": "https://open.spotify.com/artist/41bRvSUF56ZIhyJsAMahmJ"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Lule e Eg\u00ebr",
+      "url": "https://open.spotify.com/track/68HCHDGbYaiOgO3DYeaXXN"
+    },
     {
       "added_at": "2025-10-24 08:11:00",
       "album": {

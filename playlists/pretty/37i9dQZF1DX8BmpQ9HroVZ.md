@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Samar Jafri
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,069 likes - 93 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,125 likes - 93 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

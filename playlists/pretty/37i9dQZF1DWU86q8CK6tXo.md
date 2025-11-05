@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,612 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,602 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 52 | [Be Still](https://open.spotify.com/track/6XHPsVxJ1XKZI41ip1Iamm) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Feel It All](https://open.spotify.com/album/3qF1BKqphh0Cmcf5i55Kqe) | 4:25 |
 | 53 | [Velcro](https://open.spotify.com/track/54K4WsM7uRhK0z57aoVmNr) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [A Thousand Songs About It All: Act 1](https://open.spotify.com/album/10zjvlSmwTfjc491s3eVUQ) | 1:53 |
 | 54 | [hang on the wall what you kill](https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [hang on the wall what you kill](https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2) | 2:27 |
-| 55 | [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 |
-| 56 | [The Bomb](https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 2:22 |
+| 55 | [The Bomb](https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 2:22 |
+| 56 | [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 |
 | 57 | [Sweeter](https://open.spotify.com/track/15YaPqTspwhXRJEMdMuaDN) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Finer Things](https://open.spotify.com/album/6gB9GpKKpLQdkY8Kqk4uXu) | 3:34 |
 | 58 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
 | 59 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 |

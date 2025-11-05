@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-532 songs - 1 day 7 hr 10 min
+533 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Change](https://open.spotify.com/track/60Kt2LvcqCBFSP5KJhwFr4) | [TOTTY](https://open.spotify.com/artist/5tOshqnaM41LBDj4eqANGf) | [Garden](https://open.spotify.com/album/7dBML7p2NHqjadl5zg9wL1) | 3:36 | 2020-11-06 | 2022-03-18 |
 | [Chase The Feeling \(feat\. Chris Cester\)](https://open.spotify.com/track/62RyvewCxS3xPErGb8QNft) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4), [Chris Cester](https://open.spotify.com/artist/0cP4SSnrVoc1ltdLc1V4Xa) | [Chase The Feeling \[feat\. Chris Cester \(Jet\)\]](https://open.spotify.com/album/4fQw6uxku02ROtdMnrEUkJ) | 3:47 | 2020-10-10\* | 2021-02-25 |
 | [City of Ghosts](https://open.spotify.com/track/3QtTZfPJWnwOtaDqZQWg2H) | [Meshiaak](https://open.spotify.com/artist/48s7ExfphslLIDBcjrywnn) | [City Of Ghosts](https://open.spotify.com/album/4Iu1uyOCN7ROXs2qDtFQUi) | 4:04 | 2020-10-10\* | 2021-02-25 |
+| [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-05 |  |
 | [Cold Water](https://open.spotify.com/track/0Bi5NIXkCVSQtZl3vFNMQI) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [Cold Water](https://open.spotify.com/album/7M5CjLdBzbAi9BytyXNQqC) | 3:40 | 2021-08-14 | 2025-05-28 |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-03-18 | 2025-06-04 |
 | [Concrete](https://open.spotify.com/track/5vNjpsOhWA8ISGdoxxbFqI) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Concrete](https://open.spotify.com/album/4jY7HdVZJUJjN30dQ8464N) | 3:20 | 2020-10-10\* | 2021-02-25 |

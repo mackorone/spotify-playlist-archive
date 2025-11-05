@@ -1,29 +1,13 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777698,
+  "num_followers": 777678,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAACG6g5uKgGFLcYdVbBaXs27",
+  "snapshot_id": "aQfwgAAAAAAWeAenMg6ZZadbbsYP1Wf4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
-      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -79,22 +79,6 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": null,
@@ -131,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jennifer's Body Music From The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox"
       },
@@ -143,22 +143,6 @@
       "duration_ms": 227093,
       "name": "New Perspective",
       "url": "https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Build God, Then We'll Talk",
-      "url": "https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX"
     },
     {
       "added_at": null,
@@ -188,9 +172,25 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 202546,
-      "name": "Impossible Year",
-      "url": "https://open.spotify.com/track/5j9yOfRB2s6OMS1YwwYiMw"
+      "duration_ms": 158666,
+      "name": "Emperor's New Clothes",
+      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Build God, Then We'll Talk",
+      "url": "https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
       "duration_ms": 205320,
       "name": "Karma Police - Live In Denver",
       "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 205752,
-      "name": "But It's Better If You Do",
-      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
     },
     {
       "added_at": null,
@@ -252,9 +236,25 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Emperor's New Clothes",
-      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
+      "duration_ms": 196520,
+      "name": "LA Devotee",
+      "url": "https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 205752,
+      "name": "But It's Better If You Do",
+      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
       "duration_ms": 191560,
       "name": "Nine in the Afternoon - Single Mix",
       "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
-      "url": "https://open.spotify.com/track/4WdopfTdSd0nCLropjhsgH"
     },
     {
       "added_at": null,
@@ -316,9 +300,25 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 196520,
-      "name": "LA Devotee",
-      "url": "https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ"
+      "duration_ms": 178600,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
+      "url": "https://open.spotify.com/track/4WdopfTdSd0nCLropjhsgH"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
       "duration_ms": 192053,
       "name": "Miss Jackson (feat. LOLO)",
       "url": "https://open.spotify.com/track/46Kcradxrva9Dny4lHU1b3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Time to Dance",
-      "url": "https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6"
     },
     {
       "added_at": null,
@@ -384,9 +368,25 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"
+      "duration_ms": 203506,
+      "name": "Death of a Bachelor",
+      "url": "https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Time to Dance",
+      "url": "https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6"
     },
     {
       "added_at": null,

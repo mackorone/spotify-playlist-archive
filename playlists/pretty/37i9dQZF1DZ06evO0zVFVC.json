@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 110607,
+  "num_followers": 110628,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABKE1Ws8pzDthmMWbPN/eH/",
+  "snapshot_id": "aQfwgAAAAADgG6Jg4ma4WPWJySkYoe10",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211996,
-      "name": "Soul Bleach",
-      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0"
+      "duration_ms": 228226,
+      "name": "Idols and Anchors",
+      "url": "https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 228226,
-      "name": "Idols and Anchors",
-      "url": "https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je"
+      "duration_ms": 211996,
+      "name": "Soul Bleach",
+      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 410773,
-      "name": "Darker Still",
-      "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a"
+      "duration_ms": 241033,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 241033,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
+      "duration_ms": 410773,
+      "name": "Darker Still",
+      "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
       "duration_ms": 380410,
       "name": "Chronos",
       "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 249305,
-      "name": "Ground Zero",
-      "url": "https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E"
     },
     {
       "added_at": null,
@@ -299,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 249305,
+      "name": "Ground Zero",
+      "url": "https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 222975,
       "name": "Absolute Power",
       "url": "https://open.spotify.com/track/3PBO2IOcxzIdDbpDwygejB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 328743,
-      "name": "The Greatest Fear",
-      "url": "https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 328743,
+      "name": "The Greatest Fear",
+      "url": "https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 303808,
       "name": "Wishing Wells",
       "url": "https://open.spotify.com/track/6Fqdip4cWZEFwtmdhX9iNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 224994,
-      "name": "Like Napalm",
-      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 240631,
       "name": "A Deathless Song",
       "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 224994,
+      "name": "Like Napalm",
+      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319383,
+  "num_followers": 319394,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Day",
-        "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 161819,
-      "name": "Clich\u00ea",
-      "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "S",
         "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 211451,
       "name": "Ser",
       "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 161819,
+      "name": "Clich\u00ea",
+      "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "temporal",
+        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 216299,
+      "name": "temporal",
+      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "Paga pra Ver",
         "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 193191,
       "name": "Blues",
       "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "temporal",
-        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 216299,
-      "name": "temporal",
-      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
     }
   ],
   "unique_name": "Rala e Rola",

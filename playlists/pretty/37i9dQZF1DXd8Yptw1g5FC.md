@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sinan Akçıl x Duru ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,974 likes - 139 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,956 likes - 139 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

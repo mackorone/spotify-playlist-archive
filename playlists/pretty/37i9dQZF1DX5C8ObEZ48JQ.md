@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56?si=cdTjfYr\-R\-GbPNK\-OIy5xw">Amaeya</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,958 likes - 81 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,964 likes - 81 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

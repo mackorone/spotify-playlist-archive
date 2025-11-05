@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-789 songs - 1 day 13 hr 52 min
+790 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Dvala](https://open.spotify.com/track/3MOqT1Ka4jEf9PKSafbDiT) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Dvala](https://open.spotify.com/album/0cE9nCfxJWkXE9MbB8jAuZ) | 2:57 | 2023-03-31 | 2024-02-09 |
 | [Eclipsar](https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT) | [Adrian Stenhammar](https://open.spotify.com/artist/6ho3Q9yBtL0CHlJwV9TKCr) | [Eclipsar](https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l) | 3:21 | 2024-02-08 | 2025-03-22 |
 | [Eclipse](https://open.spotify.com/track/7GMKqJAsTVs5EB1mGhGxZz) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Eclipse](https://open.spotify.com/album/4NN6SfzljIm5dqqkCXARPY) | 2:55 | 2025-01-08 | 2025-06-08 |
-| [Eclipse](https://open.spotify.com/track/01VGmfU4QvSYaYA0TvWaL4) | [Foramina Nigra](https://open.spotify.com/artist/60DvyJ9hOPSC7lBgeSMb2T) | [Eclipse](https://open.spotify.com/album/2wlxAZhAdQXkDLRmuZk4G6) | 2:26 | 2025-05-07 |  |
+| [Eclipse](https://open.spotify.com/track/01VGmfU4QvSYaYA0TvWaL4) | [Foramina Nigra](https://open.spotify.com/artist/60DvyJ9hOPSC7lBgeSMb2T) | [Eclipse](https://open.spotify.com/album/2wlxAZhAdQXkDLRmuZk4G6) | 2:26 | 2025-05-07 | 2025-11-05 |
 | [Edenora](https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Edenora](https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9) | 2:57 | 2024-09-13 |  |
 | [Elevation](https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Elevation](https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP) | 2:50 | 2024-07-09 | 2024-07-16 |
 | [Eleven](https://open.spotify.com/track/2VS5gBeWwMYhrGOJAs1aYc) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [11](https://open.spotify.com/album/0oAnFMLX1yGvFXAQP7Uewx) | 2:50 | 2023-03-31 | 2024-05-21 |
@@ -630,6 +630,7 @@
 | [Sleeping in Starlight](https://open.spotify.com/track/2eqUFsccea3ulMapCnPI1v) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Sleeping in Starlight](https://open.spotify.com/album/1AlIMbgk0QGi17BZ9toPwu) | 2:52 | 2024-01-13 | 2025-04-10 |
 | [Sleepy Octaves](https://open.spotify.com/track/4yxzs04RjHm7phdG6qNgUH) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [Sleepy Octaves](https://open.spotify.com/album/1JeQa2LsszYiBLHlPiwZFU) | 2:13 | 2023-03-31 | 2024-05-05 |
 | [Sleepyhead](https://open.spotify.com/track/3s2wuyhnAeoE3XGjYNFlVQ) | [Vindviska](https://open.spotify.com/artist/49ZUaDbjVFmr85mRlqw76O) | [Sleepyhead](https://open.spotify.com/album/4ou8Pt8fwv2djnK0CH8Gec) | 2:30 | 2025-09-23 |  |
+| [Slowly Drifting](https://open.spotify.com/track/4szbOIFw8z36kyR5rOxWMJ) | [Mirelio](https://open.spotify.com/artist/6HwQXwozxzsGeHM56IUJCm) | [Slowly Drifting](https://open.spotify.com/album/5jgv7o7Z4MlPAiS43hFdkZ) | 2:06 | 2025-10-08 |  |
 | [Sluimeren](https://open.spotify.com/track/66pwfPIsgHrqmpq30wUTjE) | [Chaima Bergevoet](https://open.spotify.com/artist/5fjdDidIgzZ6pFIXk3q5Bj) | [Sluimeren](https://open.spotify.com/album/42yS37sBL5qc7cjkaowUsC) | 2:59 | 2023-03-31 | 2024-02-09 |
 | [Slumber](https://open.spotify.com/track/79VaizbXk2cpZy3nzUxjN7) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Slumber](https://open.spotify.com/album/4O2LD8nIKfma74ymQ9qDtF) | 2:41 | 2024-06-18 |  |
 | [Snowflake](https://open.spotify.com/track/3IftdsEdhYBjFenO3VWDht) | [Amanda Wildt](https://open.spotify.com/artist/4acmjvEdOPeKKwiRv3hZ4h) | [Snowflake](https://open.spotify.com/album/1huCY9aSFYlnJ3FyI4eaI8) | 3:02 | 2023-10-20 | 2025-02-15 |

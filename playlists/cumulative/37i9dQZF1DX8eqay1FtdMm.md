@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Roy Kim\(로이킴\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 어반자카파\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-621 songs - 1 day 16 hr 38 min
+623 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [La Festa](https://open.spotify.com/track/1TOXIH81rjFEDtnxiaBBXi) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [La Festa](https://open.spotify.com/album/7aPj7OVv3zdUJjIIostVUX) | 3:24 | 2025-02-03 | 2025-02-11 |
 | [La Vie Rosée](https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 5:14 | 2024-04-25 | 2024-05-19 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-04-01 | 2022-05-17 |
+| [Last Light](https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Last Light](https://open.spotify.com/album/4gEqGE3PT2Ae7ciTJH8YSn) | 4:04 | 2025-11-04 |  |
 | [Last Page \(prod\. by yoonsang\)](https://open.spotify.com/track/1aS1LxAKRyWCu5wPPfCQt3) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [Last Page \(prod\. by yoonsang\)](https://open.spotify.com/album/02r7KPdGKIirL2sAUOH2KQ) | 4:12 | 2022-03-24 | 2022-04-16 |
 | [Lazenca, Save Us \(우리 동네 음악대장\) \(Bonus Track\)](https://open.spotify.com/track/0tokbEw27FxVHubsv8ZYN4) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Mask Singer 62th \(Live Version\)](https://open.spotify.com/album/4xd4Px5dMB7EljQFSMpgKJ) | 3:27 | 2024-05-29 | 2024-06-06 |
 | [Lean on You \(Monthly Project 2018 September Yoon Jong Shin\)](https://open.spotify.com/track/7Hjed63TETowppuKap2RIe) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Lean on You \(Monthly Project 2018 September Yoon Jong Shin\)](https://open.spotify.com/album/5HvxoqEQOm4t3K50HTzb1k) | 4:49 | 2022-03-24 | 2022-03-28 |
@@ -458,6 +459,7 @@
 | [Stay](https://open.spotify.com/track/4GJe5QQxmtHsJa3AvZroal) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [The Beginning: World Tree](https://open.spotify.com/album/1gomORnQsreWvJxDGy85pB) | 4:18 | 2022-05-31 | 2022-06-15 |
 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-20 | 2025-05-13 |
 | [STAY](https://open.spotify.com/track/1zP4F4FExmoTk2yeZSZfca) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [STAY](https://open.spotify.com/album/2auTN0kIA1hNoyhb8XMlB6) | 2:55 | 2022-03-24 | 2022-04-17 |
+| [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-04 |  |
 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 | 2021-12-20 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2024-02-20 | 2024-04-24 |
 | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/album/7jUJbL40ru1ZIiCtimtHlR) | 4:27 | 2025-09-01 | 2025-10-30 |
@@ -471,7 +473,7 @@
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-02 | 2025-08-30 |
 | [Surrender](https://open.spotify.com/track/3giNZ1ZVKFVRPJZq4ckF7o) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [DIVA](https://open.spotify.com/album/4sOFEOAhkVbcV3QiIJIRaT) | 3:57 | 2024-11-28 | 2024-12-06 |
-| [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-09-01 |  |
+| [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-09-01 | 2025-11-05 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2024-05-29 | 2024-06-06 |
 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2022-08-03 | 2023-07-21 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-23 | 2023-06-19 |
@@ -538,7 +540,7 @@
 | [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-12 | 2024-02-21 |
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 | 2025-10-03 |
 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 | 2022-04-01 | 2023-10-11 |
-| [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 |  |
+| [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 | 2025-11-05 |
 | [We Are Broken Up](https://open.spotify.com/track/5B2Ly3nOWf6MCb5yRxBX9O) | [Lim Sa Rang](https://open.spotify.com/artist/5fRgaatTAoOJk24oK86Bjo) | [We Are Broken Up](https://open.spotify.com/album/4N43CJ7mRyOu38sw4f4ioh) | 3:27 | 2022-08-18 | 2022-10-06 |
 | [We Should've Been Friends](https://open.spotify.com/track/6UHNQXx91lUEULQty8XgJR) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [We Should've Been Friends](https://open.spotify.com/album/1hV0jEXi9ZEtwSoUkv1wgv) | 4:31 | 2022-04-21 | 2022-06-28 |
 | [What If](https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [What If](https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR) | 4:32 | 2023-05-03 | 2023-07-12 |

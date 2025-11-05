@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-142 songs - 6 hr 28 min
+143 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Christmas Morning](https://open.spotify.com/track/2L2PfoLfYE2a5ExqfymzLF) | [Miles Goodman](https://open.spotify.com/artist/6EO3sg6d03gDegWGl2eILt) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 0:57 | 2021-12-03 |  |
 | [Christmas Morning](https://open.spotify.com/track/3GID4s7AqCNCWureohDnZ9) | [Miles Goodman](https://open.spotify.com/artist/6EO3sg6d03gDegWGl2eILt) | [The Muppets Christmas Carol](https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4) | 0:57 | 2021-12-03 | 2022-07-29 |
 | [Come December](https://open.spotify.com/track/0sgFXUqZUc8aULEbhY8bO5) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Come December](https://open.spotify.com/album/0wRxTwZuZA2EW4OTyZbM3C) | 2:51 | 2022-12-08 |  |
+| [Coming Home This Christmas](https://open.spotify.com/track/5HmoDF89unDD6P2Mhylpcx) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [](https://open.spotify.com/album/null) | 3:24 | 2025-11-04 |  |
 | [Dancing with My Elf](https://open.spotify.com/track/5F6dhXfQxfxx3FIaMl7Vc1) | [The Santa Clauses \- Cast](https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU) | [Dancing with My Elf \(From "The Santa Clauses: Season 2"\)](https://open.spotify.com/album/7kDzYXuRLjSNgChDuOeGVy) | 3:50 | 2023-11-14 |  |
 | [Deck the Halls](https://open.spotify.com/track/5jtvS4uu9odCpRC4XvI29B) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Deck the Halls](https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0) | 1:37 | 2021-12-03 |  |
 | [Deck the Halls](https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:24 | 2022-12-08 |  |

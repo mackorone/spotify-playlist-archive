@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116506,
+  "num_followers": 116509,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Jeg har v\u00e6rt en idiot",
-        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+        "name": "Hoppe inn med hjertet f\u00f8rst",
+        "url": "https://open.spotify.com/album/5aLeG3uJQeB5GBFxEfukZS"
       },
       "artists": [
         {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 149886,
-      "name": "Jeg har v\u00e6rt en idiot",
-      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
+      "duration_ms": 174951,
+      "name": "Hoppe inn med hjertet f\u00f8rst",
+      "url": "https://open.spotify.com/track/7qgk9wQwrXZnL8cZgA8vKR"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
+        "name": "Jeg har v\u00e6rt en idiot",
+        "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "Jeg har v\u00e6rt en idiot",
+      "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 157833,
       "name": "En d\u00e5rlig id\u00e9",
       "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
-        "name": "Hoppe inn med hjertet f\u00f8rst",
-        "url": "https://open.spotify.com/album/5aLeG3uJQeB5GBFxEfukZS"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 174951,
-      "name": "Hoppe inn med hjertet f\u00f8rst",
-      "url": "https://open.spotify.com/track/7qgk9wQwrXZnL8cZgA8vKR"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -523,22 +523,18 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Nachspiel",
-        "url": "https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE"
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
       "artists": [
         {
-          "name": "Swingklubben",
-          "url": "https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Nachspiel",
-      "url": "https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU"
+      "duration_ms": 186453,
+      "name": "K\u00e6m Tok Ho Me S\u00e6",
+      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -559,18 +555,22 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+        "name": "Nachspiel",
+        "url": "https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE"
       },
       "artists": [
         {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+          "name": "Swingklubben",
+          "url": "https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 186453,
-      "name": "K\u00e6m Tok Ho Me S\u00e6",
-      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+      "duration_ms": 157714,
+      "name": "Nachspiel",
+      "url": "https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -1123,54 +1123,6 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 140945,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
-        "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
-        "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 188788,
-      "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
-      "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
-    },
-    {
-      "added_at": "2025-10-23 22:00:47",
-      "album": {
         "name": "H\u00e5per du er lykkelig n\u00e5",
         "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
       },
@@ -1191,6 +1143,38 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 140945,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
         "name": "Bare for i kveld",
         "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-10-23 22:00:47",
       "album": {
-        "name": "Best p\u00e5 fest",
-        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+        "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
+        "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
         }
       ],
-      "duration_ms": 167980,
-      "name": "Zetor\u2019n",
-      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
+      "duration_ms": 188788,
+      "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
+      "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
     },
     {
       "added_at": "2025-10-23 22:00:47",
@@ -1239,6 +1223,22 @@
       "duration_ms": 175250,
       "name": "Om igjen",
       "url": "https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF"
+    },
+    {
+      "added_at": "2025-10-23 22:00:47",
+      "album": {
+        "name": "Best p\u00e5 fest",
+        "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 167980,
+      "name": "Zetor\u2019n",
+      "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
     },
     {
       "added_at": "2025-10-23 22:00:47",

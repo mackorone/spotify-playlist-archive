@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 142859,
+  "num_followers": 142899,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "Christmas & Chill",
         "url": "https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 158720,
       "name": "Winter Things",
       "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "My Kind Of Christmas",
         "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 243133,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
-        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 181469,
-      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
-      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "Wonder (Deluxe)",
         "url": "https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe"
       },
@@ -435,6 +419,38 @@
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
+        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 181469,
+      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 175338,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -471,22 +487,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 175338,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/2InCKrQ5NeFtanOHA46WAz"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Loneliest Time Of Year",
-        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Loneliest Time Of Year",
-      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "Night Before Christmas",
         "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 216220,
       "name": "Night Before Christmas",
       "url": "https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Loneliest Time Of Year",
+        "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Loneliest Time Of Year",
+      "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -699,18 +699,34 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Warm on a Christmas Night",
-        "url": "https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE"
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
       "artists": [
         {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 268781,
-      "name": "Warm on a Christmas Night",
-      "url": "https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH"
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -731,22 +747,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "The Pianoman at Christmas",
         "url": "https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g"
       },
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+        "name": "Warm on a Christmas Night",
+        "url": "https://open.spotify.com/album/0hNsNVEk5TwAFs6fmXUrmE"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         }
       ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
+      "duration_ms": 268781,
+      "name": "Warm on a Christmas Night",
+      "url": "https://open.spotify.com/track/1llPUVjhbDrx5s8o1Ym1sH"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 215058,
       "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
+        "name": "The King of Soul",
+        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
         "name": "Day After Tomorrow",
         "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 191378,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
-        "name": "The King of Soul",
-        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Last December (Mountain Music version)",
-        "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 335555,
-      "name": "Last December (Mountain Music version)",
-      "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f"
+        "name": "Last December (Mountain Music version)",
+        "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
       },
       "artists": [
         {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 266922,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO"
+      "duration_ms": 335555,
+      "name": "Last December (Mountain Music version)",
+      "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/79UhVQyX9bJSasD8bGUw1f"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
         }
       ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+      "duration_ms": 266922,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Ultimate Pop Christmas",
-        "url": "https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
       },
       "artists": [
         {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 188400,
-      "name": "It May Be Winter Outside (But In My Heart It's Spring)",
-      "url": "https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ"
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1155,6 +1139,22 @@
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Ultimate Pop Christmas",
+        "url": "https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "It May Be Winter Outside (But In My Heart It's Spring)",
+      "url": "https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Stay Another Day",
-        "url": "https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 161657,
-      "name": "Stay Another Day",
-      "url": "https://open.spotify.com/track/5npCyhoNJ3eJLIszVqOwIj"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "Christmastide",
         "url": "https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 224360,
       "name": "Christmastide",
       "url": "https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Stay Another Day",
+        "url": "https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 161657,
+      "name": "Stay Another Day",
+      "url": "https://open.spotify.com/track/5npCyhoNJ3eJLIszVqOwIj"
     },
     {
       "added_at": "2025-10-23 16:02:33",

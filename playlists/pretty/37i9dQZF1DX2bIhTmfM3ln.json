@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 52159,
+  "num_followers": 52222,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "About Us (with Qing Madi)",
         "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 177773,
       "name": "About Us (with Qing Madi)",
       "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "US III",
+        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "US III",
+      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Control (with Joeboy & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 185880,
       "name": "Control (with Joeboy & Bella Shmurda)",
       "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "US III",
-        "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "US III",
-      "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1087,22 +1087,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/4UCilTZFzFDYB6WEHl8vaT"
+        "name": "O Mahiya",
+        "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
       },
       "artists": [
         {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 169565,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/58NnjSYSMcKogUfZZFFlZK"
+      "duration_ms": 174411,
+      "name": "O Mahiya",
+      "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Highlife",
-        "url": "https://open.spotify.com/album/4hX6r3IGbzJlpTO923YFZi"
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/4UCilTZFzFDYB6WEHl8vaT"
       },
       "artists": [
         {
-          "name": "Hyce",
-          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
         },
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 150735,
-      "name": "Highlife",
-      "url": "https://open.spotify.com/track/4ztI4NZdFjWcBa1dW9whZz"
+      "duration_ms": 169565,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/58NnjSYSMcKogUfZZFFlZK"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "O Mahiya",
-        "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
+        "name": "Highlife",
+        "url": "https://open.spotify.com/album/4hX6r3IGbzJlpTO923YFZi"
       },
       "artists": [
         {
-          "name": "Kanika Kapoor",
-          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 174411,
-      "name": "O Mahiya",
-      "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
+      "duration_ms": 150735,
+      "name": "Highlife",
+      "url": "https://open.spotify.com/track/4ztI4NZdFjWcBa1dW9whZz"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
-      },
-      "artists": [
-        {
-          "name": "Morravey",
-          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Pattern Am",
         "url": "https://open.spotify.com/album/6zgswUbA7gwC06d8eqouFX"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
+      },
+      "artists": [
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "France Feeling",
         "url": "https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Wife Material",
-        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "Wife Material",
-      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Lemme Know",
         "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 173571,
       "name": "Lemme Know",
       "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Wife Material",
+        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "Wife Material",
+      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
     }
   ],
   "unique_name": "AfroBae",

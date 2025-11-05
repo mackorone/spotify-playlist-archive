@@ -98,7 +98,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 218600,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/2ASddVW0JXCecLbOcXrNV3"
@@ -919,6 +919,36 @@
     },
     {
       "album": {
+        "name": "E.A.T.",
+        "url": "https://open.spotify.com/album/7BfWDxD4oZFYqNRg2XgFE8"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227498,
+      "name": "E.A.T.",
+      "url": "https://open.spotify.com/track/4goFtr9yRM2WAIxUDBzWVq"
+    },
+    {
+      "album": {
         "name": "A Breukelen Story (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
@@ -946,7 +976,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 227498,
       "name": "E.A.T.",
       "url": "https://open.spotify.com/track/5wf4rbeLC7w5vh5mRGuPWN"
@@ -1408,7 +1438,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 187800,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw"
@@ -1596,6 +1626,28 @@
       "duration_ms": 315369,
       "name": "Kartagina",
       "url": "https://open.spotify.com/track/1jzwJF5fHMx6TJMc9QTvYF"
+    },
+    {
+      "album": {
+        "name": "Keep It Moving (Sprite Anthem)",
+        "url": "https://open.spotify.com/album/075wTWwDVCktXgU6IITKGT"
+      },
+      "artists": [
+        {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Keep It Moving - Sprite Anthem",
+      "url": "https://open.spotify.com/track/3ZPZ1M6Mm19CL4w61LScvc"
     },
     {
       "album": {
@@ -1928,7 +1980,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 249666,
       "name": "Low Budget Allstar",
       "url": "https://open.spotify.com/track/7oyMGm1Jy02UDYgiyKjO4x"
@@ -2060,7 +2112,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 208733,
       "name": "Meglio che chiedi a qualcuno",
       "url": "https://open.spotify.com/track/1ozEUYcyidM6jfa8zB8PeC"
@@ -3088,7 +3140,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 227624,
       "name": "The Fight Song (feat. Pharoahe Monch)",
       "url": "https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Mahalini, Stevan Pasaribu, Mario G Klau, The Neighbourhood dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,539 likes - 110 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,562 likes - 110 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 88 | [A Chance Encounter](https://open.spotify.com/track/0lGPKB9g7qVCs5vMzZMGe2) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [A Chance Encounter](https://open.spotify.com/album/2fccNWzL5jDwu4dfbqRROs) | 3:33 |
 | 89 | [Beat\-Boxer](https://open.spotify.com/track/4X8JreC8HgOwxmh0bRjQ4w) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Beat\-Boxer](https://open.spotify.com/album/6SPjS2fx5nvWvmhWfJjAHi) | 2:35 |
 | 90 | [SUPERPOWER \(Peak\)](https://open.spotify.com/track/5cgk5DRxhBuPcvJpM8KIsz) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : WRECKING THE HOUSE](https://open.spotify.com/album/0BWWwBPmMDLnhvi2SJX8CV) | 3:23 |
-| 91 | [If You Wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 |
+| 91 | [if you wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 |
 | 92 | [Cloud](https://open.spotify.com/track/4fOdK6DLy3VcpagzcI2KBt) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cloud](https://open.spotify.com/album/6ZhosGhIGeloPI8TTrOcNv) | 2:39 |
 | 93 | [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 |
 | 94 | [Last Light](https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Last Light](https://open.spotify.com/album/4gEqGE3PT2Ae7ciTJH8YSn) | 4:04 |

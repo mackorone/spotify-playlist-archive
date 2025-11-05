@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: Ice Nine Kills
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Bad Omens
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,351 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,458 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 |
-| 2 | [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 |
-| 3 | [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 |
-| 4 | [Dead](https://open.spotify.com/track/3ruUNrY3Vr7D84QnvNrcGt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Dead](https://open.spotify.com/album/4eOTSkwqPH3cXTlDZQZUKW) | 4:04 |
-| 5 | [bad luck](https://open.spotify.com/track/4l6m1x05ChXrZA7GEoQtO6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu), [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [bad luck](https://open.spotify.com/album/78DHgUcHMwtvfQuXBolNWt) | 4:12 |
-| 6 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 |
-| 7 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
+| 1 | [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 |
+| 2 | [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 |
+| 3 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
+| 4 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 |
+| 5 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 |
+| 6 | [Dead](https://open.spotify.com/track/3ruUNrY3Vr7D84QnvNrcGt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Dead](https://open.spotify.com/album/4eOTSkwqPH3cXTlDZQZUKW) | 4:04 |
+| 7 | [bad luck](https://open.spotify.com/track/4l6m1x05ChXrZA7GEoQtO6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu), [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [bad luck](https://open.spotify.com/album/78DHgUcHMwtvfQuXBolNWt) | 4:12 |
 | 8 | [Conquer \(feat\. Josh Mowery of Catch Your Breath\)](https://open.spotify.com/track/2f0CzQtErjDiiSL5kW3SQE) | [Arankai](https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX), [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Conquer \(feat\. Josh Mowery of Catch Your Breath\)](https://open.spotify.com/album/7HP7X98DvRPXW0CtImpsEX) | 2:59 |
 | 9 | [Pale Moonlight](https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Pale Moonlight](https://open.spotify.com/album/5ad8oCDDBwNymZEBEBNDJs) | 3:40 |
 | 10 | [What Lies Within](https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [What Lies Within](https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY) | 5:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 |
 | 75 | [God Terror](https://open.spotify.com/track/1wlikY9neDeNwPvVFETOod) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Blue Nowhere](https://open.spotify.com/album/7qy9gnX5SXAeW9fO6pzwTh) | 6:41 |
 
-Snapshot ID: `AAAAAHkPTx34DOEoutVPVWVvApF7QMu2`
+Snapshot ID: `AAAAALLDrfBGrZMy3j5lHNRQxuqz/rmo`

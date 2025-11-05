@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 24863,
+  "num_followers": 24865,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 222306,
-      "name": "inside you",
-      "url": "https://open.spotify.com/track/6dxjfasDAe8v56M308tQdz"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u541b\u306f\u50d5\u306e\u5b9d\u7269",
@@ -563,6 +547,22 @@
       "duration_ms": 230600,
       "name": "\u51ac\u304c\u306f\u3058\u307e\u308b\u3088",
       "url": "https://open.spotify.com/track/3l7GLaE6NRaPJHMcy4rYRD"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 222306,
+      "name": "inside you",
+      "url": "https://open.spotify.com/track/6dxjfasDAe8v56M308tQdz"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
-        "url": "https://open.spotify.com/album/5fWcpMjZtpv1lc74m62bwm"
-      },
-      "artists": [
-        {
-          "name": "Original Love",
-          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
-        }
-      ],
-      "duration_ms": 292960,
-      "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
-      "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u732b\u3068\u30a2\u30ec\u30eb\u30ae\u30fc",
@@ -819,18 +803,18 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "fam fam",
-        "url": "https://open.spotify.com/album/1bW2uDVWI51ttFReQYFWQ0"
+        "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
+        "url": "https://open.spotify.com/album/5fWcpMjZtpv1lc74m62bwm"
       },
       "artists": [
         {
-          "name": "never young beach",
-          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
         }
       ],
-      "duration_ms": 193587,
-      "name": "\u304a\u5225\u308c\u306e\u6b4c",
-      "url": "https://open.spotify.com/track/0VwZq35ff2SvvMWOFNrEDc"
+      "duration_ms": 292960,
+      "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
+      "url": "https://open.spotify.com/track/3ngihcNtaHh3ggXwPPpXYv"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -847,6 +831,22 @@
       "duration_ms": 265803,
       "name": "\u6708\u306b\u5420\u3048\u308b",
       "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "fam fam",
+        "url": "https://open.spotify.com/album/1bW2uDVWI51ttFReQYFWQ0"
+      },
+      "artists": [
+        {
+          "name": "never young beach",
+          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
+        }
+      ],
+      "duration_ms": 193587,
+      "name": "\u304a\u5225\u308c\u306e\u6b4c",
+      "url": "https://open.spotify.com/track/0VwZq35ff2SvvMWOFNrEDc"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u6cab\u96ea",
-        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "\u6cab\u96ea",
-      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
         "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 286000,
       "name": "SNOW SOUND",
       "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u6cab\u96ea",
+        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "\u6cab\u96ea",
+      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "Snow White",
-        "url": "https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u3055\u3092\u3002",
-          "url": "https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh"
-        }
-      ],
-      "duration_ms": 203366,
-      "name": "Snow White",
-      "url": "https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
         "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 231638,
       "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Snow White",
+        "url": "https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3055\u3092\u3002",
+          "url": "https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh"
+        }
+      ],
+      "duration_ms": 203366,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "BIBLE",
-        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
-      },
-      "artists": [
-        {
-          "name": "Seiko Matsuda",
-          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
-      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Ken Hirai 10th Anniversary Complete Single Collection '95-'05 \u6b4c\u30d0\u30ab",
@@ -1499,6 +1483,22 @@
       "duration_ms": 339773,
       "name": "even if",
       "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "BIBLE",
+        "url": "https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
     },
     {
       "added_at": "2025-10-23 13:55:51",

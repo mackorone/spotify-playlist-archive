@@ -2933,6 +2933,24 @@
     },
     {
       "album": {
+        "name": "Vicious Delicious",
+        "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Laurie",
+      "url": "https://open.spotify.com/track/3RBfQypRWaELeurl0YucPT"
+    },
+    {
+      "album": {
         "name": "Burn The Right Things Down (Deluxe)",
         "url": "https://open.spotify.com/album/3QtagtvBHIemERfuVdUqKS"
       },

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-852 songs - 1 day 17 hr 15 min
+853 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,7 +532,7 @@
 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 | 2023-03-23 | 2024-05-05 |
 | [Northern Vision](https://open.spotify.com/track/5YOZJuXBLkMiOakT0xi0CA) | [Elie Elie](https://open.spotify.com/artist/4n4uZ65TRiHl7622KzgTIE) | [Northern Vision](https://open.spotify.com/album/7i5sFYMam5oo9R8yxaFG25) | 3:18 | 2024-05-20 | 2024-09-14 |
 | [Nostalgia](https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Nostalgia](https://open.spotify.com/album/4ctuDxjwJGSMsgJG8EOeQV) | 2:41 | 2023-03-23 | 2024-02-09 |
-| [Nostalgic](https://open.spotify.com/track/4vOnlLWIGRfxBDEWr4vICC) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Nostalgic](https://open.spotify.com/album/5TaRLHhBUoSw8CbrgI9X5a) | 2:59 | 2025-03-27 |  |
+| [Nostalgic](https://open.spotify.com/track/4vOnlLWIGRfxBDEWr4vICC) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Nostalgic](https://open.spotify.com/album/5TaRLHhBUoSw8CbrgI9X5a) | 2:59 | 2025-03-27 | 2025-11-05 |
 | [Novastar](https://open.spotify.com/track/14pCak2cBXOqZHQ2MQIUoW) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Novastar](https://open.spotify.com/album/1xP3LaVgXtIoMgdlQIli0r) | 2:57 | 2024-03-06 | 2025-01-09 |
 | [Novation](https://open.spotify.com/track/04UlDODpopyY0bZ6rhJtXB) | [Abi Burkholder](https://open.spotify.com/artist/1sVWQGvblGt6xTMFwIT6Ta) | [Novation](https://open.spotify.com/album/0CCRyVo2yblONJcn10hTRV) | 2:57 | 2024-05-04 | 2025-01-23 |
 | [Nox](https://open.spotify.com/track/2l5RGPbH2eq93zMytmGZ4n) | [Esotherum](https://open.spotify.com/artist/2UMsy6qAcmjU3yYbTSJuwb) | [Nox](https://open.spotify.com/album/133wimkpma9DpRyIEgS5dV) | 2:46 | 2025-02-04 | 2025-06-26 |
@@ -820,6 +820,7 @@
 | [unwinding mind](https://open.spotify.com/track/3cKtbvlmZLIGQlvlXVGWcO) | [vindi meta](https://open.spotify.com/artist/1KpJe8aYmtCJpH7LP8mX9s) | [unwinding mind](https://open.spotify.com/album/5mYhxCiyQnJY8oBdgL6i1M) | 3:00 | 2024-05-20 | 2025-08-04 |
 | [Up Above](https://open.spotify.com/track/3lyvwZ5DUyj7qlnb49DyRg) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Up Above](https://open.spotify.com/album/1sheGcDitJ34SQSTHCPGrv) | 3:04 | 2023-03-23 | 2024-03-21 |
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2023-03-23 | 2024-02-09 |
+| [Valley](https://open.spotify.com/track/1NjSP3rbFjiRBW1s2ZFiNx) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Valley](https://open.spotify.com/album/4bx5iHW5lzbD8zVg2UhVR8) | 2:44 | 2025-10-08 |  |
 | [Veilless](https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Veilless](https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy) | 2:18 | 2023-03-23 | 2024-05-05 |
 | [Verdensrommet](https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Verdensrommet](https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0) | 3:02 | 2024-07-09 | 2025-10-03 |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2023-03-23 | 2024-02-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Julie Bergan & Ruben, Chris Holsten og Søte & Rare og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,456 likes - 98 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,452 likes - 98 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 41 | [Sorg City](https://open.spotify.com/track/6ambzVxiubm1aaGnQ9safD) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Sorg City](https://open.spotify.com/album/2kBeAmYdk5ZpVqdJzw9oHz) | 3:10 |
 | 42 | [Du Vet Jeg Liker \(Ali G’s\)](https://open.spotify.com/track/5P6gZswmKxIoPgIIj0hWCB) | [KANSELLERT](https://open.spotify.com/artist/3R1yZ8cIqiJC8mUAFQFy2z) | [Du Vet Jeg Liker \(Ali G’s\)](https://open.spotify.com/album/7oMa7JVOX2F89aGkylkIFp) | 2:42 |
 | 43 | [Wrong](https://open.spotify.com/track/43sMxCCuNs2swri9wmmQSe) | [rxxmer](https://open.spotify.com/artist/1E5EhZVxQ6IuMO68eh2j91) | [Wrong](https://open.spotify.com/album/6w6Mv3m6A6w4xU1q2VwnQ9) | 3:34 |
-| 44 | [Vulnerable](https://open.spotify.com/track/1l2Zf3jkgopV1Hn3DhTS2U) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Echoes](https://open.spotify.com/album/76eXMrbmPQ6mxklmbEYkun) | 2:35 |
+| 44 | [Vulnerable](https://open.spotify.com/track/1l2Zf3jkgopV1Hn3DhTS2U) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [Echoes](https://open.spotify.com/album/76eXMrbmPQ6mxklmbEYkun) | 2:35 |
 | 45 | [H.A.P.P.Y](https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [H.A.P.P.Y](https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB) | 2:29 |
 | 46 | [Afterlife Glitch](https://open.spotify.com/track/3FgGmVopcdhwZfmD30HnAN) | [THEGOD01](https://open.spotify.com/artist/359oxZhkhinpdgyQicivC5) | [Reverb of The Gone EP](https://open.spotify.com/album/0iDd0g3h2VQMh0CfRxXPAX) | 5:51 |
 | 47 | [Addicted to You](https://open.spotify.com/track/4VgCZKrXW61sSNOeds3OtL) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Addicted to You](https://open.spotify.com/album/4ZHNfVAydH0AOBOrSZudvn) | 3:22 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 55 | [Lionheart](https://open.spotify.com/track/7x14OAUNkLM3VWy9CNTJXq) | [DJ Sofa](https://open.spotify.com/artist/0JQlyYKy63k4WwhdRrcmZc) | [Lionheart](https://open.spotify.com/album/4gXIQ84IZZjvNAvVhaoejJ) | 6:25 |
 | 56 | [My Money \(ft\. Yo Gotti\)](https://open.spotify.com/track/0A9GYhbXodOk9LnJg0TyGN) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [d00mscrvll](https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b) | [d00mscrvll, Vol\. 1](https://open.spotify.com/album/5QRFnGnBeMGePBKF2xTz5z) | 1:55 |
 | 57 | [At My Best](https://open.spotify.com/track/5XqbyTQDWGo6S2MYupzxTi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [At My Best](https://open.spotify.com/album/7yDkhM5joo3A3aDa3OJgI5) | 2:56 |
-| 58 | [My Choisest Hours](https://open.spotify.com/track/3QjygdogOViHJYAsVdQXLM) | [Rebekka Bakken](https://open.spotify.com/artist/3oY7VC1i7SwfO1EhOIlc0t) | [My Choisest Hours](https://open.spotify.com/album/7p7YuxgZlv3pUNtJivkbRl) | 3:58 |
+| 58 | [My Choicest Hours](https://open.spotify.com/track/3QjygdogOViHJYAsVdQXLM) | [Rebekka Bakken](https://open.spotify.com/artist/3oY7VC1i7SwfO1EhOIlc0t) | [My Choicest Hours](https://open.spotify.com/album/7p7YuxgZlv3pUNtJivkbRl) | 3:58 |
 | 59 | [Nærmere og fjernere](https://open.spotify.com/track/7BdgJDiYlb6Po5RmOcI47u) | [Kristi Brud](https://open.spotify.com/artist/1TLU7Mia0hFpRZ7NPMgGKW) | [Et fall](https://open.spotify.com/album/4qFaAE3jYBSMyNro4u92GR) | 4:06 |
 | 60 | [Monster under senga](https://open.spotify.com/track/3V7ktO76SSgw6We5T73fLt) | [Atle Pettersen](https://open.spotify.com/artist/6Ila4JCGkODSdI18ebTgCz) | [Monster under senga](https://open.spotify.com/album/4y1CsqBdw2PbCX28Jsay85) | 2:04 |
 | 61 | [Bakken ned](https://open.spotify.com/track/2fzpZF6lnf90z1eQWhHfvO) | [Vennen Min](https://open.spotify.com/artist/2TITqtxswCYU3H62iwEIvT) | [Bakken ned](https://open.spotify.com/album/6FddI91yKpWxKO0Hh8chcG) | 1:51 |

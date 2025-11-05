@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-87 songs - 5 hr 45 min
+89 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Be My Shelter, Hold Me Close](https://open.spotify.com/track/13TYjE0MVF38mPzkveRDxm) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Motel California OST Part.1](https://open.spotify.com/album/5SLDQJy85mmRg9AekUpap6) | 3:47 | 2025-10-15 |  |
 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 | 2024-12-19 |  |
 | [Beauty of my life](https://open.spotify.com/track/2nuYQ6OTqjwzHw34SJiaF8) | [Kim Young Geun](https://open.spotify.com/artist/2gYn9xPkHXRkKnVnzRc4RZ) | [Beauty of my life](https://open.spotify.com/album/5XQTrStexFPEdhcCSLGvKe) | 4:28 | 2025-07-29 |  |
+| [Because of You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/7gJiI5P6Djq6mwy2c4rjte) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Would You Marry Me?, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3PUiaIOXsMRHw4n8Cn7NgT) | 4:00 | 2025-11-04 |  |
 | [Before Love](https://open.spotify.com/track/2lKrSfIqw1HKPZt8SMSk14) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [Before Love](https://open.spotify.com/album/12NS4M30oqznlTJPmBWMC0) | 4:05 | 2025-10-21 |  |
 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 | 2025-07-01 |  |
 | [Daily confession](https://open.spotify.com/track/0MJqWFARd7JwuYOIAhIX9V) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Daily confession](https://open.spotify.com/album/1PD73S3rXG09xdi3XuquVb) | 3:24 | 2025-07-22 |  |
@@ -55,6 +56,7 @@
 | [Meaning of you](https://open.spotify.com/track/3ucfniv4fLB3RPA6N9iLM2) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:15 | 2024-12-19 |  |
 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 | 2024-12-19 |  |
 | [My Romance](https://open.spotify.com/track/5Rys2WgRdbvQNdeezDvUql) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Hometown Cha\-Cha\-Cha, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7lLdUzOlYRwdmsaYw0kpiv) | 2:53 | 2024-12-19 |  |
+| [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 | 2025-11-04 |  |
 | [of course](https://open.spotify.com/track/1S3Qtj2QGy4KQKbtOZZQ7d) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:57 | 2025-09-03 |  |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2024-12-19 |  |
 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2024-12-19 |  |

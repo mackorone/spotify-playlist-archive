@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,405 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,431 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 | 94 | [Van Mij \(feat\. Jandro & Zefanio\)](https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [10](https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO) | 3:24 |
 | 95 | [BON VIBES](https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [BON VIBES](https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3) | 2:19 |
 | 96 | [Speling](https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16) | [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Speling](https://open.spotify.com/album/7wU40hIIazCe9fto5Meubi) | 2:48 |
-| 97 | [Christian Dior](https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Christian Dior](https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM) | 2:32 |
+| 97 | [Walou Crisis \(feat\. 3robi & Mula B\)](https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Forever Lit](https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy) | 2:36 |
 | 98 | [Amiri Jeans](https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ) | [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Amiri Jeans](https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB) | 2:26 |
 | 99 | [Headlock \(feat\. Yung Nnelg, Cho & Jayh\)](https://open.spotify.com/track/5tHt1mA4EU7cpYQBLnauGB) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Headlock \(feat\. Yung Nnelg, Cho & Jayh\)](https://open.spotify.com/album/4uZJBNTvtImoHripOeXWBT) | 3:19 |
 | 100 | [Now She See Me \(feat\. Sevn Alias & Two Crooks\)](https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [Two Crooks](https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV) | [Gate 16](https://open.spotify.com/album/5z41J2skECbPp97tog4mdg) | 3:23 |

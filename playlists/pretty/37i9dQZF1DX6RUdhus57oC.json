@@ -1,6 +1,6 @@
 {
   "description": "Le sommeil, c'est la sant\u00e9, alors laissez-vous bercer. Photo : Alain Roche",
-  "num_followers": 31321,
+  "num_followers": 31333,
   "original_name": "Douce nuit",
   "owner": {
     "name": "Spotify",
@@ -347,30 +347,6 @@
     {
       "added_at": "2025-09-12 14:39:34",
       "album": {
-        "name": "Your Breathing Sounds Like a Wave",
-        "url": "https://open.spotify.com/album/64Vv3PkNZ8GHwwJ4sEVcAO"
-      },
-      "artists": [
-        {
-          "name": "Brian Fennell",
-          "url": "https://open.spotify.com/artist/5yTDn0EKP0EnXlvsrQPeGT"
-        },
-        {
-          "name": "Gibran Alcocer",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
-        },
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Your Breathing Sounds Like a Wave",
-      "url": "https://open.spotify.com/track/2KmoTSrMgQDI8UIffLTmvj"
-    },
-    {
-      "added_at": "2025-09-12 14:39:34",
-      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6"
       },
@@ -383,6 +359,26 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
+    },
+    {
+      "added_at": "2025-09-12 14:39:34",
+      "album": {
+        "name": "Your Breathing Sounds Like a Wave",
+        "url": "https://open.spotify.com/album/64Vv3PkNZ8GHwwJ4sEVcAO"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Your Breathing Sounds Like a Wave",
+      "url": "https://open.spotify.com/track/2KmoTSrMgQDI8UIffLTmvj"
     },
     {
       "added_at": "2025-09-12 14:39:34",

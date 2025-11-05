@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 614123,
+  "num_followers": 614134,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAAJ+GRIL/HtQDsHLqCCGgEu",
+  "snapshot_id": "aQfwgAAAAAAqrD1LRaZmW4fGurQHYrMA",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe Explicit Version)",
-        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 206866,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 180960,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neighborhoods (Deluxe Explicit Version)",
+        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ"
     },
     {
       "added_at": null,

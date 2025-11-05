@@ -2,7 +2,7 @@
 
 ### [Metal Covers](https://open.spotify.com/playlist/37i9dQZF1DWUJiNTfqDwyS)
 
-> A collection of the best Metal covers out there\. Cover: Metallica
+> A collection of the best Metal covers out there\. Cover: Frayle
 
 215 songs - 15 hr 5 min
 

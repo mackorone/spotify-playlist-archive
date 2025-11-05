@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 603 songs - 1 day 15 hr 26 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 605 songs - 1 day 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -611,5 +611,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 601 | [Please Don't Let Me Be So Understood](https://open.spotify.com/track/4VIAvJKD31aODBCXiwUItg) | [Tweedy](https://open.spotify.com/artist/3F4PBcfdeFdmxjRPS2UdMl), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Sukierae](https://open.spotify.com/album/0Y2C0vkDk1gxQjIr2IbFte) | 1:32 |
 | 602 | [Opening Station](https://open.spotify.com/track/1Ouddr47W1oaAhj2ER32kq) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Egypt Station](https://open.spotify.com/album/3uLrSFrNqa8CULSIU7e9v5) | 0:41 |
 | 603 | [给抱着盒子的姑娘](https://open.spotify.com/track/5kpqZy4npLRTd8AEjkV6YH) | [宋冬野](https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo) | [安和桥北](https://open.spotify.com/album/4MTEs0gR5jeInhPAu5aZkD) | 2:05 |
+| 604 | [Love Is Such a Funny Thing](https://open.spotify.com/track/0ZclKGumi1NNBLFbz3LEsG) | [Tiernan & Joscelin](https://open.spotify.com/artist/0ZxaF7oURARiDTzA2uv92K) | ["Pinch Me, I Think I'm Dreaming": Valentine's Day](https://open.spotify.com/album/7dzprEofLH2oDXJ6WnzcSG) | 1:26 |
+| 605 | [Thumblove](https://open.spotify.com/track/0iMrXC33Z7YO6kF61P2orq) | [Tiernan & Joscelin](https://open.spotify.com/artist/0ZxaF7oURARiDTzA2uv92K) | ["I Can't Set Your Heart on Fire": Valentine's Day](https://open.spotify.com/album/4NOzisjTQfdakIbefTCyJZ) | 2:18 |
 
-Snapshot ID: `AAAH+EkaLxosKakMjA61G5aKJfrDiE4d`
+Snapshot ID: `AAAH+pgGulN/YEW7//nP1ielDEwIhBSh`

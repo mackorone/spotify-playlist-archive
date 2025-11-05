@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-707 songs - 1 day 12 hr 38 min
+708 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Favourite Story](https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Favourite Story](https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC) | 3:56 | 2024-05-24 |  |
 | [Feel Your Body](https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [BUTiFLY](https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3) | 3:33 | 2023-10-13 | 2023-11-17 |
 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 | 2024-03-22 |  |
-| [Fever II](https://open.spotify.com/track/4kcoQCoBdUt9VBJDTsZ5KV) | [Raevin](https://open.spotify.com/artist/1Rn5xVELEoqHc9BPRPwSTv), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Fever II](https://open.spotify.com/album/2KE52ZTSClpoqFlRUIvrPH) | 3:31 | 2025-09-26 |  |
+| [Fever II](https://open.spotify.com/track/4kcoQCoBdUt9VBJDTsZ5KV) | [Raevin](https://open.spotify.com/artist/1Rn5xVELEoqHc9BPRPwSTv), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Fever II](https://open.spotify.com/album/2KE52ZTSClpoqFlRUIvrPH) | 3:31 | 2025-09-26 | 2025-11-05 |
 | [Finally](https://open.spotify.com/track/7K421TaU7VnlOYYNfftd8A) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Finally](https://open.spotify.com/album/3444myYgBDVDQaSpHjS0rB) | 2:22 | 2024-06-21 | 2024-07-12 |
 | [Fine Girl](https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Fine Girl](https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR) | 2:36 | 2024-12-16 | 2025-03-22 |
 | [Fine Girl](https://open.spotify.com/track/6P52DObY1mHoGjJAObCvAQ) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Fine Girl](https://open.spotify.com/album/5H9X2O4eYYkTshwoofj3eB) | 3:02 | 2025-05-23 | 2025-09-26 |
@@ -585,6 +585,7 @@
 | [Somebody](https://open.spotify.com/track/13sENmd5vkGo9pRW2a2lh0) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Somebody](https://open.spotify.com/album/2jBAGBR9vEW6VX2Rk4eh0F) | 3:30 | 2023-11-10 | 2023-12-08 |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2022-06-09 | 2023-07-01 |
 | [Someday](https://open.spotify.com/track/77vjnIc75JPGhsrVujcgfA) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Someday](https://open.spotify.com/album/63Ige7U9L2jtGSOkstekfj) | 3:00 | 2024-11-29 | 2024-12-17 |
+| [Someday Soon](https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:41 | 2025-11-04 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-09 |  |
 | [Sor Mi Mu](https://open.spotify.com/track/0AzAaHxrFAP9x0LXWDDfkp) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Sor Mi Mu](https://open.spotify.com/album/6NPRJryzky3jIts1OXxtpK) | 3:21 | 2022-06-09 | 2022-08-22 |
 | [Soweto](https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:28 | 2022-07-13 | 2023-09-29 |

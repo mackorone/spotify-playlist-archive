@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: YC
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Low G
 
 319 songs - 18 hr 42 min
 
@@ -96,7 +96,7 @@
 | [Em Buồn Anh](https://open.spotify.com/track/12KilFjTeSu4wPvc8mSsS4) | [Haley](https://open.spotify.com/artist/39s1RCn0qbRtGzBwCmx63z), [INUS](https://open.spotify.com/artist/4mWL3t6VGghWi1CkYUdkcW), [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf) | [Em Buồn Anh](https://open.spotify.com/album/2Kg3O9TGIlJpamHiBq8YqD) | 3:47 | 2025-05-15 | 2025-06-06 |
 | [Em Bé](https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Em Bé](https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN) | 3:12 | 2024-06-12 | 2025-01-30 |
 | [EM CHỈ IM LẶNG](https://open.spotify.com/track/4W5QAfHlwNHAxosC2sNjWq) | [Osad](https://open.spotify.com/artist/6sJBvMCAi9NuNCxI9RDYDW), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [lil'O](https://open.spotify.com/album/2BZr8To1UoZMvADNCV2mAO) | 3:22 | 2023-12-08 | 2023-12-11 |
-| [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2Pillz](https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A) | [Em iu \(Radio Edit\)](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:40 | 2023-10-19 |  |
+| [Em iu \- Radio Edit](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2Pillz](https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A) | [Em iu \(Radio Edit\)](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:40 | 2023-10-19 |  |
 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 | 2023-11-14 | 2024-01-09 |
 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 | 2024-10-03 |  |
 | [ex's hate me, Pt\. 2](https://open.spotify.com/track/0Rx4GFPy8ISxPhRwkjl64b) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:36 | 2024-02-15 | 2024-08-17 |

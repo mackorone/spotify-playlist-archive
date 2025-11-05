@@ -1,13 +1,29 @@
 {
   "description": "Break up songs, the best cure for a broken heart!",
-  "num_followers": 438918,
+  "num_followers": 438864,
   "original_name": "Breakup Songs \ud83d\udc94",
   "owner": {
     "name": "Filtr Norway",
     "url": "https://open.spotify.com/user/sonymusic"
   },
-  "snapshot_id": "AAAH7KXYc+dwT+G7upuKyf/osUIg85QZ",
+  "snapshot_id": "AAAIF+1o6xGyabgIFu6tg2CymGZR0NWC",
   "tracks": [
+    {
+      "added_at": "2025-10-02 22:05:00",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/0nZQithCY9l0CP2i8WFPto"
+      },
+      "artists": [
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+        }
+      ],
+      "duration_ms": 188239,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/4eM05nS0Lzig5gAbvVyLxK"
+    },
     {
       "added_at": "2025-07-24 09:24:40",
       "album": {
@@ -25,20 +41,36 @@
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2025-03-26 10:09:24",
+      "added_at": "2025-11-04 09:31:58",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "mood swings",
+        "url": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
+      "duration_ms": 130653,
+      "name": "ten years time",
+      "url": "https://open.spotify.com/track/2OupMbGCv1k6UDN0ay6sdt"
+    },
+    {
+      "added_at": "2025-03-26 10:09:24",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "added_at": "2025-03-26 10:09:24",
@@ -73,6 +105,70 @@
       "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
     },
     {
+      "added_at": "2025-09-25 23:28:58",
+      "album": {
+        "name": "Hypotheticals:",
+        "url": "https://open.spotify.com/album/3zzCqPiX9JhtOKBVxlPQqs"
+      },
+      "artists": [
+        {
+          "name": "2AM-DM",
+          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Tired Eyes",
+      "url": "https://open.spotify.com/track/5eUfHAH72xZ2sMufJfyzw9"
+    },
+    {
+      "added_at": "2025-09-05 08:00:07",
+      "album": {
+        "name": "Stay + Happy Ever After",
+        "url": "https://open.spotify.com/album/0Cw5dNHIOJR5XCqcUgeT1D"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7dkLiX1LPbQC5B9Ez1lRyv"
+    },
+    {
+      "added_at": "2025-03-26 10:09:24",
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "added_at": "2025-09-11 22:22:13",
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/3b6EgeeuKDdfwG8xC5cFHC"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/16MTQq5iwPVy76gbgcAS6i"
+    },
+    {
       "added_at": "2025-09-16 15:55:27",
       "album": {
         "name": "So Good",
@@ -95,40 +191,40 @@
     {
       "added_at": "2025-03-26 10:09:24",
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 269560,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+      "duration_ms": 240133,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
     },
     {
-      "added_at": "2025-10-02 22:05:00",
+      "added_at": "2025-09-26 08:32:48",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/0nZQithCY9l0CP2i8WFPto"
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
       "artists": [
         {
-          "name": "May",
-          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 188239,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/4eM05nS0Lzig5gAbvVyLxK"
+      "duration_ms": 247906,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0"
     },
     {
-      "added_at": "2025-09-25 22:55:11",
+      "added_at": "2025-09-10 12:59:02",
       "album": {
-        "name": "Hypotheticals:",
-        "url": "https://open.spotify.com/album/3zzCqPiX9JhtOKBVxlPQqs"
+        "name": "How to Let Go",
+        "url": "https://open.spotify.com/album/6XEMNFuUW4tjvnVnvr5kPI"
       },
       "artists": [
         {
@@ -136,25 +232,33 @@
           "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
         }
       ],
-      "duration_ms": 208466,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/0xwu0DXnV1dHmp47imCUWA"
+      "duration_ms": 212920,
+      "name": "How to Let Go",
+      "url": "https://open.spotify.com/track/75Xnx2Wc9pG2IhWRezyl9X"
     },
     {
-      "added_at": "2025-09-05 08:00:07",
+      "added_at": "2025-11-04 09:05:54",
       "album": {
-        "name": "Stay + Happy Ever After",
-        "url": "https://open.spotify.com/album/0Cw5dNHIOJR5XCqcUgeT1D"
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
       "artists": [
         {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/7dkLiX1LPbQC5B9Ez1lRyv"
+      "duration_ms": 178853,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
     },
     {
       "added_at": "2025-03-26 10:09:24",
@@ -205,22 +309,6 @@
       "url": "https://open.spotify.com/track/2VuE7OIkz0UiqsRuE7u919"
     },
     {
-      "added_at": "2025-09-10 12:59:02",
-      "album": {
-        "name": "How to Let Go",
-        "url": "https://open.spotify.com/album/6XEMNFuUW4tjvnVnvr5kPI"
-      },
-      "artists": [
-        {
-          "name": "2AM-DM",
-          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
-        }
-      ],
-      "duration_ms": 212920,
-      "name": "How to Let Go",
-      "url": "https://open.spotify.com/track/75Xnx2Wc9pG2IhWRezyl9X"
-    },
-    {
       "added_at": "2025-09-26 08:38:08",
       "album": {
         "name": "Silence",
@@ -263,22 +351,6 @@
     {
       "added_at": "2025-03-26 10:09:24",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2025-03-26 10:09:24",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -291,22 +363,6 @@
       "duration_ms": 196453,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
-    },
-    {
-      "added_at": "2025-09-26 08:32:48",
-      "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0"
     },
     {
       "added_at": "2025-03-26 10:09:24",
@@ -357,7 +413,7 @@
       "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
     },
     {
-      "added_at": "2025-09-25 23:28:58",
+      "added_at": "2025-09-25 22:55:11",
       "album": {
         "name": "Hypotheticals:",
         "url": "https://open.spotify.com/album/3zzCqPiX9JhtOKBVxlPQqs"
@@ -368,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
         }
       ],
-      "duration_ms": 172573,
-      "name": "Tired Eyes",
-      "url": "https://open.spotify.com/track/5eUfHAH72xZ2sMufJfyzw9"
+      "duration_ms": 208466,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/0xwu0DXnV1dHmp47imCUWA"
     },
     {
       "added_at": "2025-07-24 10:47:59",
@@ -403,22 +459,6 @@
       "duration_ms": 185988,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2bZfHxeozGcn9ZehRNESbX"
-    },
-    {
-      "added_at": "2025-03-26 10:09:24",
-      "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
       "added_at": "2025-03-26 10:09:24",
@@ -483,22 +523,6 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
-    },
-    {
-      "added_at": "2025-09-11 22:22:13",
-      "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/3b6EgeeuKDdfwG8xC5cFHC"
-      },
-      "artists": [
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/16MTQq5iwPVy76gbgcAS6i"
     },
     {
       "added_at": "2025-08-08 08:17:53",

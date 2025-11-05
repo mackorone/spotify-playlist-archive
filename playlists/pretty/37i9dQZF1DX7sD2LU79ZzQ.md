@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Stevan Pasaribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,064 likes - 127 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,071 likes - 127 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

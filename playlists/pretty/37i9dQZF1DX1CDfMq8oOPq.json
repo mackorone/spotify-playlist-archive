@@ -1,6 +1,6 @@
 {
   "description": "as g\u00eameas com uma enxurrada de refs e quem tem d\u00f3 \u00e9 cavaco",
-  "num_followers": 81777,
+  "num_followers": 82054,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,30 @@
     {
       "added_at": "2025-10-31 17:21:38",
       "album": {
+        "name": "Doces ou Travessuras",
+        "url": "https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "DetonaCry",
+          "url": "https://open.spotify.com/artist/2GVjz1qVtO74QpJDl6IcNt"
+        },
+        {
+          "name": "A22I2",
+          "url": "https://open.spotify.com/artist/1PnxRUT3M9ZHlbFCQIYNjz"
+        }
+      ],
+      "duration_ms": 154630,
+      "name": "Doces ou Travessuras",
+      "url": "https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk"
+    },
+    {
+      "added_at": "2025-10-31 17:21:38",
+      "album": {
         "name": "Mate Ou Morra",
         "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
       },
@@ -650,35 +674,19 @@
         {
           "name": "L\u00e9o Kobayashi",
           "url": "https://open.spotify.com/artist/7FkOAfTSJpyVxb7YSgxFqr"
+        },
+        {
+          "name": "Petroceli",
+          "url": "https://open.spotify.com/artist/0wKVGvwlZH6lKsx8csqhmf"
+        },
+        {
+          "name": "calli.",
+          "url": "https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo"
         }
       ],
       "duration_ms": 144000,
       "name": "PERIGOSA",
       "url": "https://open.spotify.com/track/5abNpk1wgO3jPl2NNYuDJD"
-    },
-    {
-      "added_at": "2025-10-31 17:21:38",
-      "album": {
-        "name": "Doces ou Travessuras",
-        "url": "https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "DetonaCry",
-          "url": "https://open.spotify.com/artist/2GVjz1qVtO74QpJDl6IcNt"
-        },
-        {
-          "name": "A22I2",
-          "url": "https://open.spotify.com/artist/1PnxRUT3M9ZHlbFCQIYNjz"
-        }
-      ],
-      "duration_ms": 154630,
-      "name": "Doces ou Travessuras",
-      "url": "https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk"
     },
     {
       "added_at": "2025-10-31 17:21:38",

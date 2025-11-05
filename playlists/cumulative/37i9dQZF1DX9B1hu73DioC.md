@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-985 songs - 2 day 10 hr 29 min
+986 songs - 2 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Cadillac Dreams](https://open.spotify.com/track/2Vmc0X3NrwMOAZugemfARw) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP) | [Cadillac Dreams](https://open.spotify.com/album/74DYE80vX0YyuTYCfmHami) | 2:29 | 2021-05-10 | 2022-04-15 |
 | [Café Amarillo](https://open.spotify.com/track/0smkaatALDID1sIBXDWDL4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Café Amarillo](https://open.spotify.com/album/5qEruuMlJd1VDaT6adQohp) | 4:23 | 2020-10-05\* | 2022-04-19 |
 | [Calgary](https://open.spotify.com/track/4otHnPszGCLCH6zB5yq5lw) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/7pTARJYCVO49nFXB1Mo5re) | 4:10 | 2020-10-16 | 2022-04-19 |
-| [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 | 2025-08-29 |  |
+| [Call On Me](https://open.spotify.com/track/1QWxSUyWb0Lky2UV87vBfT) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 2:49 | 2025-11-03 |  |
+| [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 | 2025-08-29 | 2025-11-05 |
 | [call waiting](https://open.spotify.com/track/7qUsTlk0PuRtkA3daJTMWf) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [On A Virgo Mind](https://open.spotify.com/album/09Uyj0lcbXUL2FzIiA3NSE) | 2:50 | 2021-08-27 | 2022-04-21 |
 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 | 2021-06-25 | 2022-04-19 |
 | [Candy](https://open.spotify.com/track/2PC6lbQhSTaeZIEGs7lHF6) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:51 | 2020-10-05\* | 2022-04-20 |

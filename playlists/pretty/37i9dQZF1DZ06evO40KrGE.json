@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37371,
+  "num_followers": 37374,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAABV+vyggljyub7m7Y4mwb8",
+  "snapshot_id": "aQfwgAAAAADULCnS4toFZT4AP+4malNQ",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 282633,
+      "name": "Vou Seguir",
+      "url": "https://open.spotify.com/track/67TQGw4cZzFD33j4KJcOdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem \u00e9 Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 399386,
       "name": "Quem \u00e9 Ele - Ao Vivo",
       "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 282633,
-      "name": "Vou Seguir",
-      "url": "https://open.spotify.com/track/67TQGw4cZzFD33j4KJcOdQ"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare Agora",
-        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 269775,
-      "name": "N\u00e3o Pare Agora",
-      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tem Milagre",
         "url": "https://open.spotify.com/album/786Yb8RGLm5I1hezYh9klS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 247051,
       "name": "Tem Milagre",
       "url": "https://open.spotify.com/track/4N8W1ihLYDi7b3PzBjgiqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare Agora",
+        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 269775,
+      "name": "N\u00e3o Pare Agora",
+      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from, Dato' Sri Siti Nurhaliza, Ernie Zakri, The Neighbourhood, Jessie J, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,504 likes - 124 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,501 likes - 124 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 102 | [A Chance Encounter](https://open.spotify.com/track/0lGPKB9g7qVCs5vMzZMGe2) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [A Chance Encounter](https://open.spotify.com/album/2fccNWzL5jDwu4dfbqRROs) | 3:33 |
 | 103 | [Beat\-Boxer](https://open.spotify.com/track/4X8JreC8HgOwxmh0bRjQ4w) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Beat\-Boxer](https://open.spotify.com/album/6SPjS2fx5nvWvmhWfJjAHi) | 2:35 |
 | 104 | [SUPERPOWER \(Peak\)](https://open.spotify.com/track/5cgk5DRxhBuPcvJpM8KIsz) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : WRECKING THE HOUSE](https://open.spotify.com/album/0BWWwBPmMDLnhvi2SJX8CV) | 3:23 |
-| 105 | [If You Wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 |
+| 105 | [if you wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 |
 | 106 | [Cloud](https://open.spotify.com/track/4fOdK6DLy3VcpagzcI2KBt) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cloud](https://open.spotify.com/album/6ZhosGhIGeloPI8TTrOcNv) | 2:39 |
 | 107 | [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 |
 | 108 | [Last Light](https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Last Light](https://open.spotify.com/album/4gEqGE3PT2Ae7ciTJH8YSn) | 4:04 |

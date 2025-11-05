@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberto Menescal, Cris Delanno",
-  "num_followers": 353513,
+  "num_followers": 353506,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "C\u00e9u Azul / Can\u00e7\u00e3o no R\u00e1dio",
-        "url": "https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 189232,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Botucatu",
         "url": "https://open.spotify.com/album/5M1oyuqRTjRFppGZ9pfLyH"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 162333,
       "name": "Botucatu",
       "url": "https://open.spotify.com/track/3C94btpZ1mmmVY9oBFQflj"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "C\u00e9u Azul / Can\u00e7\u00e3o no R\u00e1dio",
+        "url": "https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 189232,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Um Trem para as Estrelas",
         "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 216425,
       "name": "Um Trem Para as Estrelas",
       "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -999,22 +999,30 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Pagode da Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
+        "name": "\u00c2nima",
+        "url": "https://open.spotify.com/album/3MnVyMkVVuIw3oXUGsQCMh"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         },
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 180982,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+      "duration_ms": 191281,
+      "name": "\u00c2nima",
+      "url": "https://open.spotify.com/track/32729XuPuPb5aYlhFgfeje"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1051,30 +1059,42 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "\u00c2nima",
-        "url": "https://open.spotify.com/album/3MnVyMkVVuIw3oXUGsQCMh"
+        "name": "Pagode da Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         },
         {
-          "name": "Dora Morelenbaum",
-          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 191281,
-      "name": "\u00c2nima",
-      "url": "https://open.spotify.com/track/32729XuPuPb5aYlhFgfeje"
+      "duration_ms": 180982,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "Qualquer Canto",
+        "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
+      },
+      "artists": [
+        {
+          "name": "Abacaxepa",
+          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Qualquer Canto",
+      "url": "https://open.spotify.com/track/6cTMZoxnb9b6cneBK8eTf8"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1095,38 +1115,18 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Bananeira",
-        "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         }
       ],
-      "duration_ms": 213377,
-      "name": "Bananeira",
-      "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+      "duration_ms": 250000,
+      "name": "Infinito em n\u00f3s",
+      "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1151,38 +1151,38 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Infinito em n\u00f3s",
-      "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
     },
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "Qualquer Canto",
-        "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
+        "name": "Bananeira",
+        "url": "https://open.spotify.com/album/2GRTmmPuhLAfvCEg9PrHxL"
       },
       "artists": [
         {
-          "name": "Abacaxepa",
-          "url": "https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         },
         {
-          "name": "Alessandra Le\u00e3o",
-          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Qualquer Canto",
-      "url": "https://open.spotify.com/track/6cTMZoxnb9b6cneBK8eTf8"
+      "duration_ms": 213377,
+      "name": "Bananeira",
+      "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
+        "name": "50 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
+      },
+      "artists": [
+        {
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+        }
+      ],
+      "duration_ms": 263014,
+      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
         "name": "Donatural (Ao Vivo)",
         "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 211000,
       "name": "Samba e Amor",
       "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
-        "name": "50 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/542SJci09jqTRFyVoAzCvI"
-      },
-      "artists": [
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
-        }
-      ],
-      "duration_ms": 263014,
-      "name": "Divina Com\u00e9dia Humana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
     },
     {
       "added_at": "2025-10-25 00:51:33",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-10-25 00:51:33",
       "album": {
-        "name": "O Sino Da Igrejinha",
-        "url": "https://open.spotify.com/album/7D8JYnygEiz4KSEqtESWyU"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        }
-      ],
-      "duration_ms": 155055,
-      "name": "O Sino Da Igrejinha",
-      "url": "https://open.spotify.com/track/5sPhCtEsMSFIw01ThGM1ps"
-    },
-    {
-      "added_at": "2025-10-25 00:51:33",
-      "album": {
         "name": "Minha Casa",
         "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 200632,
       "name": "Noite Severina - Ao Vivo",
       "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
+    },
+    {
+      "added_at": "2025-10-25 00:51:33",
+      "album": {
+        "name": "O Sino Da Igrejinha",
+        "url": "https://open.spotify.com/album/7D8JYnygEiz4KSEqtESWyU"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "duration_ms": 155055,
+      "name": "O Sino Da Igrejinha",
+      "url": "https://open.spotify.com/track/5sPhCtEsMSFIw01ThGM1ps"
     },
     {
       "added_at": "2025-10-25 00:51:33",

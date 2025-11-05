@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Manisha Eerabathini
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,624 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,631 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Bujji Pilla](https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Bujji Pilla](https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ) | 4:35 |
 | 75 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 |
 
-Snapshot ID: `AAAAAGU2IYs4vemW+imjR5SIgri6J6OW`
+Snapshot ID: `AAAAAFIYpbbm4qdFq3to6/yvhj64EgA2`

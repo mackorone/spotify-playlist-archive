@@ -5835,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "HOW ARE YOU",
+        "url": "https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "HOW ARE YOU",
+      "url": "https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu"
+    },
+    {
+      "album": {
         "name": "How Are You (My Friend)",
         "url": "https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq"
       },
@@ -13762,7 +13780,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 194436,
       "name": "Toro - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
@@ -14668,7 +14686,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"

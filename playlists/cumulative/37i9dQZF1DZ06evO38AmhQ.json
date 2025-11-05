@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 173093,
       "name": "Aussie Balladeer",
       "url": "https://open.spotify.com/track/5VWbVfY2IVdK7qQAjYXeAd"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 163586,
       "name": "Boxful Of Wood",
       "url": "https://open.spotify.com/track/4vF0RapKHhbQvwSpfaoOMo"
@@ -348,6 +348,24 @@
       "duration_ms": 195426,
       "name": "Chandelier of Stars",
       "url": "https://open.spotify.com/track/41dkNDpZO62SV9s8JFJ14Y"
+    },
+    {
+      "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154298,
+      "name": "Come Back To Me Country",
+      "url": "https://open.spotify.com/track/1BLoicECMPNQ0tjnL3ycfm"
     },
     {
       "album": {
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 131682,
       "name": "Uluru Forever",
       "url": "https://open.spotify.com/track/53jttpBPM4UqkpkNIUIxRJ"

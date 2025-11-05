@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 239029,
+  "num_followers": 239092,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,54 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/7JXsGG9pXfbrDpzNiKyS5b"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Lo Que Yo Tengo",
+      "url": "https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "No Debes Jugar - 1993 Version",
+      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Siempre Humilde (Remastered)",
+        "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Ahora Qu\u00e9 Hago Sin Ti",
+      "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -499,54 +547,6 @@
       "duration_ms": 488253,
       "name": "Tejano Megamix - Long Version",
       "url": "https://open.spotify.com/track/1V8rBKeQAbNwykLUrL4qDh"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "No Debes Jugar - 1993 Version",
-      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "Siempre Humilde (Remastered)",
-        "url": "https://open.spotify.com/album/76qYJxKZrtShD1Y295OGbl"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Ahora Qu\u00e9 Hago Sin Ti",
-      "url": "https://open.spotify.com/track/1KFfJfpUwweJhjl3PKKUGx"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "The Voice",
-        "url": "https://open.spotify.com/album/7JXsGG9pXfbrDpzNiKyS5b"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Lo Que Yo Tengo",
-      "url": "https://open.spotify.com/track/77YM8eY4U7AKeJSQUc2OqF"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Que Cante El Mundo (Remastered)",
-        "url": "https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC"
+        "name": "Porque Todav\u00eda Te Quiero",
+        "url": "https://open.spotify.com/album/4AbAg6HHrjQzgCxni3fSLb"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
         }
       ],
-      "duration_ms": 246920,
-      "name": "Agua De Papaya",
-      "url": "https://open.spotify.com/track/1bGZfq8JYklMC8yT0BcpWz"
+      "duration_ms": 253610,
+      "name": "El Mariachi Loco",
+      "url": "https://open.spotify.com/track/7E4zThdgqCQO3WCPY0C3r5"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Porque Todav\u00eda Te Quiero",
-        "url": "https://open.spotify.com/album/4AbAg6HHrjQzgCxni3fSLb"
+        "name": "Que Cante El Mundo (Remastered)",
+        "url": "https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
         }
       ],
-      "duration_ms": 253610,
-      "name": "El Mariachi Loco",
-      "url": "https://open.spotify.com/track/7E4zThdgqCQO3WCPY0C3r5"
+      "duration_ms": 246920,
+      "name": "Agua De Papaya",
+      "url": "https://open.spotify.com/track/1bGZfq8JYklMC8yT0BcpWz"
     },
     {
       "added_at": "2024-05-02 04:14:20",

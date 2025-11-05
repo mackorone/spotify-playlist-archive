@@ -35389,6 +35389,28 @@
     },
     {
       "album": {
+        "name": "Pothi Pothi (From \"Kumki 2\")",
+        "url": "https://open.spotify.com/album/2OHtBTeedkrWbWiFyuOPfN"
+      },
+      "artists": [
+        {
+          "name": "Nivas K. Prasanna",
+          "url": "https://open.spotify.com/artist/60qjQnMDp28uREIQGWQCge"
+        },
+        {
+          "name": "Mohan Raj",
+          "url": "https://open.spotify.com/artist/0fjdeEKcAK4fZCwe8bM9da"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230784,
+      "name": "Pothi Pothi (From \"Kumki 2\")",
+      "url": "https://open.spotify.com/track/6iQXDFqKF93XUkIjTeCQ4u"
+    },
+    {
+      "album": {
         "name": "Pothi Pothi Valatha Pulla (From \"Varalaru Mukkiyam\")",
         "url": "https://open.spotify.com/album/0XPk2yLjBBHemz21Fqc0VJ"
       },
@@ -46106,7 +46128,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 372351,
       "name": "Unnake Unnaka (Female)",
       "url": "https://open.spotify.com/track/52VNdiom7GljrzvPJK1pnp"

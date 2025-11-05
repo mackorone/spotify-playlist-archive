@@ -12521,6 +12521,36 @@
     },
     {
       "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/4gbVCJPB92dAzH1u8IRys7"
+      },
+      "artists": [
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
+        },
+        {
+          "name": "MVNA",
+          "url": "https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH"
+        },
+        {
+          "name": "Chris Crone",
+          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169624,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/3JwC1i661J5GYRoPPZqpke"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/4BCx7TjkDIuyDGIvyFUPbj"
       },

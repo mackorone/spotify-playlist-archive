@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,428 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,470 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 69 | [From Russia with Love \- Single Version](https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [The Best Of Matt Monro](https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F) | 2:35 |
 | 70 | [B.\-Loved \(feat\. Cécile McLorin Salvant\) \- French Version](https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6) | [Fabrice Lecomte](https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Sylvie's Love \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj) | 1:59 |
 | 71 | [Damascus Thump](https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [Babylon \(Music from the Motion Picture\)](https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe) | 2:10 |
-| 72 | [Thinking Of Baby \- From "Johnny Staccato" Score / Remastered](https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG) | [Elmer Bernstein](https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c) | [Staccato \(Original Johnny Staccato Score\)](https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd) | 2:59 |
-| 73 | [Your Shining Eyes](https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea) | [Biel Ballester Trio](https://open.spotify.com/artist/6YjO2mAfC8sQlsrYnnn2L2), [Leo Hipaucha](https://open.spotify.com/artist/3cm8ovGEuzgAQRiLaE9mEO), [Graci Pedro](https://open.spotify.com/artist/7dCoSS3bmQ9koae0rDzeLh) | [Vicky Cristina Barcelona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY) | 4:29 |
+| 72 | [Your Shining Eyes](https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea) | [Biel Ballester Trio](https://open.spotify.com/artist/6YjO2mAfC8sQlsrYnnn2L2), [Leo Hipaucha](https://open.spotify.com/artist/3cm8ovGEuzgAQRiLaE9mEO), [Graci Pedro](https://open.spotify.com/artist/7dCoSS3bmQ9koae0rDzeLh) | [Vicky Cristina Barcelona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY) | 4:29 |
+| 73 | [Thinking Of Baby \- From "Johnny Staccato" Score / Remastered](https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG) | [Elmer Bernstein](https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c) | [Staccato \(Original Johnny Staccato Score\)](https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd) | 2:59 |
 | 74 | [Sabor a Mí](https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke) | [Idania Valdés](https://open.spotify.com/artist/551bh6t9ZTLna3swIZXpHx), [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj) | [Chico & Rita](https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB) | 1:16 |
 | 75 | [Amore mio aiutami \- Version 6](https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Amore mio aiutami \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF) | 3:01 |
 | 76 | [Blue Skies](https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR), [Bruce Fowler](https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp) | [The Good Shepherd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C) | 2:32 |

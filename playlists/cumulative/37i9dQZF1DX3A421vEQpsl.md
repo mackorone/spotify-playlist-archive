@@ -4,12 +4,13 @@
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-194 songs - 11 hr 16 min
+195 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0RYnhtURYsQ9hJ9fszM5rK) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/49zOWxP3dp92GVYbH2lhDa) | 0:00 | 2022-05-24 | 2023-04-01 |
 | [](https://open.spotify.com/track/6HQbaD0RomfUPO4KK866oI) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0OV6Olty1sYOl8414511Ae) | 0:00 | 2022-05-24 | 2023-04-01 |
+| [3 Shaukk \(From "De De Pyaar De 2"\)](https://open.spotify.com/track/1Y73sL31F1UZI7tCefImhb) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN) | [3 Shaukk \(From "De De Pyaar De 2"\)](https://open.spotify.com/album/2dUfTNaCflomUUobU74TY1) | 3:00 | 2025-11-04 |  |
 | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Aankh Marey \(From "Simmba"\)](https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN) | 3:32 | 2022-05-24 |  |
 | [Aap Jaisa Koi](https://open.spotify.com/track/5z8P3KHt2ZJUW8XXcaS0vN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [An Action Hero](https://open.spotify.com/album/075Qjn7wO4dLd42tAjw1Er) | 2:58 | 2022-12-01 |  |
 | [Aashiq Banaya Aapne \(From "Hate Story Iv"\)](https://open.spotify.com/track/7kfGvOOykB24QxFKZq5LUV) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Aashiq Banaya Aapne \(From "Hate Story Iv"\)](https://open.spotify.com/album/0dRJ5r5MmTW470YTcld8su) | 3:42 | 2022-05-24 |  |

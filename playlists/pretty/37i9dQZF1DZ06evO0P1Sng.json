@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8229,
+  "num_followers": 8230,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAACbP0tvMok0CyyHV322gsfW",
+  "snapshot_id": "aQfwgAAAAAAChzAh+dnGXQDU5AMXJcga",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 182923,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agi Igual Homem",
         "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 164204,
       "name": "Agi Igual Homem",
       "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faixa Rosa",
-        "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
-        }
-      ],
-      "duration_ms": 182923,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
     },
     {
       "added_at": null,
@@ -587,6 +587,26 @@
       "duration_ms": 153623,
       "name": "Outro Lugar",
       "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dona de Mim (Novela)",
         "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
       },
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 133193,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOLA + 1 BECK",
         "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
       },
@@ -743,38 +759,6 @@
       "duration_ms": 487619,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
     },
     {
       "added_at": null,
@@ -863,6 +847,22 @@
       "duration_ms": 1147406,
       "name": "Poetas No Topo 3.3, Pt. 1",
       "url": "https://open.spotify.com/track/67vfgPDV3JirBIMpeUzqYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
     },
     {
       "added_at": null,
@@ -975,30 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Prepara",
-        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 182415,
-      "name": "Se Prepara",
-      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desce & Sobe",
         "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 164571,
       "name": "Desce & Sobe",
       "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Prepara",
+        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 182415,
+      "name": "Se Prepara",
+      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
     },
     {
       "added_at": null,
@@ -1075,42 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1910",
-        "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "NaBrisa",
-          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
-        },
-        {
-          "name": "Nobru Black",
-          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
-        },
-        {
-          "name": "Thai Flow",
-          "url": "https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s"
-        },
-        {
-          "name": "Gabz",
-          "url": "https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq"
-        }
-      ],
-      "duration_ms": 517894,
-      "name": "1910",
-      "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sua Inten\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
       },
@@ -1163,6 +1127,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "1910",
+        "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "NaBrisa",
+          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
+        },
+        {
+          "name": "Nobru Black",
+          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
+        },
+        {
+          "name": "Thai Flow",
+          "url": "https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s"
+        },
+        {
+          "name": "Gabz",
+          "url": "https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq"
+        }
+      ],
+      "duration_ms": 517894,
+      "name": "1910",
+      "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
         "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
       },
@@ -1183,6 +1183,30 @@
       "duration_ms": 171500,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tormento",
+        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 198454,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
     },
     {
       "added_at": null,
@@ -1211,30 +1235,6 @@
       "duration_ms": 205717,
       "name": "V\u00cdBORA",
       "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tormento",
-        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        },
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 198454,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
     },
     {
       "added_at": null,
@@ -1387,6 +1387,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Te Envolver",
         "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
       },
@@ -1403,34 +1427,6 @@
       "duration_ms": 135517,
       "name": "Pra Te Envolver",
       "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/2dkUeDD9bV30laGNKoUp11"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        },
-        {
-          "name": "Valey",
-          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
-        },
-        {
-          "name": "NERESZZ",
-          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
-        }
-      ],
-      "duration_ms": 150329,
-      "name": "Tipo Uma Dan\u00e7a",
-      "url": "https://open.spotify.com/track/0ZaxU6AbRDT3TSRO5RhCDr"
     },
     {
       "added_at": null,

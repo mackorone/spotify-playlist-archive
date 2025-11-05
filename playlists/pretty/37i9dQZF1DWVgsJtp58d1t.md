@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:6Ip8FS7vWT1uKkJSweANQK">Dave</a> and  <a href="spotify:artist:687cZJR45JO7jhk1LHIbgq">Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,743 likes - 200 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,687 likes - 200 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [City On Fire \(feat\. Odeal\)](https://open.spotify.com/track/6QdyHBkpt484d9Ld3FJjUc) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [City On Fire](https://open.spotify.com/album/1rCVy3ZJyrAN6APLu2PiHH) | 2:33 |
 | 2 | [Mother](https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA +](https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1) | 4:40 |
-| 3 | [SAY IT TO ME.](https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:28 |
-| 4 | [NO SWEAT](https://open.spotify.com/track/6f6A5411wNShdb21MzAFXy) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 1:48 |
+| 3 | [NO SWEAT](https://open.spotify.com/track/6f6A5411wNShdb21MzAFXy) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 1:48 |
+| 4 | [SAY IT TO ME.](https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [THERE’S A GHOST IN MY HOUSE.](https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah) | 2:28 |
 | 5 | [Putting Ya Dine \- Remix](https://open.spotify.com/track/4NsCEJ4hSmWZ4iyJi9ERp3) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Putting Ya Dine \(feat\. YoungBoy Never Broke Again\) \[Remix\]](https://open.spotify.com/album/5DZSfEEnjvD7UEr6lGR4dK) | 2:41 |
 | 6 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 7 | [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 199 | [Wyl' Out](https://open.spotify.com/track/5o3iFDr3syIS8juM2YCkqI) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Wyl' Out](https://open.spotify.com/album/3ZOKbLPlNuv498mbhe14r6) | 2:53 |
 | 200 | [No Lies Detected \[Blind\]](https://open.spotify.com/track/258ZiFVggPg9p9XZ3fAD8Q) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Create, Destroy, Rebuild, Repeat](https://open.spotify.com/album/1FD51KOJseTIfFneCe2HIL) | 2:49 |
 
-Snapshot ID: `AAAAABD7hcpX+mawUuorYin0n+q/mjGJ`
+Snapshot ID: `AAAAAEB+WNjyEYlmfk8mWySyJfq/VWp+`

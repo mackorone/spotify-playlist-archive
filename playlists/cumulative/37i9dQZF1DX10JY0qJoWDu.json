@@ -437,6 +437,32 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204697,
+      "name": "Coming Home This Christmas",
+      "url": "https://open.spotify.com/track/5HmoDF89unDD6P2Mhylpcx"
+    },
+    {
+      "album": {
         "name": "Dancing with My Elf (From \"The Santa Clauses: Season 2\")",
         "url": "https://open.spotify.com/album/7kDzYXuRLjSNgChDuOeGVy"
       },

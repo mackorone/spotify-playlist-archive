@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain]
 
 > 
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 430 songs - 1 day 4 hr 40 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 431 songs - 1 day 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -438,5 +438,6 @@ pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain]
 | 428 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 429 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
 | 430 | [Don't Stop](https://open.spotify.com/track/7iKjlyaN1ve4FHQu42WFFg) | [One Way](https://open.spotify.com/artist/001aJOc7CSQVo3XzoLG4DK) | [Lady](https://open.spotify.com/album/2P2LqJn5QX4oatxAfnlIK0) | 3:52 |
+| 431 | [Paper Soldier \(feat\. Joony\)](https://open.spotify.com/track/0ReoK9isNvJmI7nV2iJcNR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [ISO Supremacy](https://open.spotify.com/artist/6rUez8y21xlLrYKExcXB1X) | [Paper Soldier \(feat\. Joony\)](https://open.spotify.com/album/2erYsKsIfcTqv8kVA2UT7I) | 3:22 |
 
-Snapshot ID: `AAAB6OBshzBm0aeY8IS13Un1KQYti0cn`
+Snapshot ID: `AAAB6d2z59eLtO8vBydjOP3awaD3dd68`

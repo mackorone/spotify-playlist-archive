@@ -1,13 +1,33 @@
 {
   "description": "Lift our voices to Him.",
-  "num_followers": 153442,
+  "num_followers": 153446,
   "original_name": "Papuri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAHT7si5PTfJTzbb9uRIqqydwPRQ",
+  "snapshot_id": "AAAAAEL0eSTyEg9lRkGmeKJK/DAmdW2q",
   "tracks": [
+    {
+      "added_at": "2025-11-05 02:39:15",
+      "album": {
+        "name": "Nananabik",
+        "url": "https://open.spotify.com/album/677gamZVNWtW0bwSmQYg6J"
+      },
+      "artists": [
+        {
+          "name": "Just Worship",
+          "url": "https://open.spotify.com/artist/2YzoJVKgWstOOAoDUBjqc4"
+        },
+        {
+          "name": "Ferdinand Aragon",
+          "url": "https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk"
+        }
+      ],
+      "duration_ms": 345633,
+      "name": "Nananabik",
+      "url": "https://open.spotify.com/track/7k9NTyyjsP7TaIZTfzqpK9"
+    },
     {
       "added_at": "2025-04-21 03:11:13",
       "album": {

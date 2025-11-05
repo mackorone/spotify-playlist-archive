@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-438 songs - 22 hr 35 min
+439 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 | 2023-10-13 | 2024-08-03 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-09-02 | 2025-10-15 |
 | [4U \- Edu Campos Remix](https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0), [Edu Campos](https://open.spotify.com/artist/2RvoRUjBaJOEHIlfjs9V2J) | [4U \(Remixes\)](https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR) | 3:00 | 2025-01-07 | 2025-10-15 |
+| [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 | 2025-11-04 |  |
 | [a lesson in chemistry](https://open.spotify.com/track/4PoCaIK1ATTxQvqtTTXFzz) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [a lesson in chemistry](https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3) | 2:07 | 2024-04-26 | 2024-08-03 |
 | [A New Beginning](https://open.spotify.com/track/01mzzX5T9vowx3uevmqo0t) | [Yetti](https://open.spotify.com/artist/1Z98Ovf0sHPSZU3DTIbeQ0) | [A New Beginning](https://open.spotify.com/album/61bVRwC7C50fnZxcjawHy1) | 3:58 | 2024-07-27 | 2024-08-03 |
 | [A New Day](https://open.spotify.com/track/3de5XKUSr25gWW0iz1HJI8) | [Tarmo](https://open.spotify.com/artist/0NHfTSgBcrto4B2AflArL7), [Starmode](https://open.spotify.com/artist/5q30AIpvZ2Au7MiWSLzTUB) | [A New Day](https://open.spotify.com/album/02StessRCTBIt7VpsjH3Uf) | 2:14 | 2024-02-09 | 2024-03-14 |

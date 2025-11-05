@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marina Satti ",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -1127,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "BAM BAM",
+        "url": "https://open.spotify.com/album/28kbRttYb5AGa9qZQQYu7k"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "BAM BAM",
+      "url": "https://open.spotify.com/track/7yJbZo0ev4D9ZaJgf1kaYX"
+    },
+    {
+      "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
@@ -1440,6 +1462,32 @@
       "duration_ms": 184613,
       "name": "BRAHAMI FINEST",
       "url": "https://open.spotify.com/track/0ik1NbqFVUoKrk6zgoPfxc"
+    },
+    {
+      "album": {
+        "name": "BRO X3",
+        "url": "https://open.spotify.com/album/5IdbiH01dKi84gpquKXvA4"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "BRO X3",
+      "url": "https://open.spotify.com/track/77VGUR3e39LMnXDbRTEmIB"
     },
     {
       "album": {
@@ -2820,7 +2868,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 186122,
       "name": "FWTIA",
       "url": "https://open.spotify.com/track/49Nl81fFdiJEVLhhhaDLqC"
@@ -2842,7 +2890,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 132933,
       "name": "GANGO FREESTYLE",
       "url": "https://open.spotify.com/track/1iTFJX6an3woR8NRDuOBrW"
@@ -3334,7 +3382,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 189089,
       "name": "HAYABUSA",
       "url": "https://open.spotify.com/track/2LOCrebeoS8jVdHvGYWb7k"
@@ -5459,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "PALI",
+        "url": "https://open.spotify.com/album/3FDTzSFy37xMGR7VgYPRaa"
+      },
+      "artists": [
+        {
+          "name": "Kareem Kalokoh",
+          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167251,
+      "name": "PALI",
+      "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
+    },
+    {
+      "album": {
         "name": "Panama",
         "url": "https://open.spotify.com/album/6EmezhSz87ge2ma2CDeEJK"
       },
@@ -5618,6 +5684,32 @@
       "duration_ms": 211666,
       "name": "Parapatao",
       "url": "https://open.spotify.com/track/31A9vCMK5RaMBstup4l9iU"
+    },
+    {
+      "album": {
+        "name": "YUNG BOYZ",
+        "url": "https://open.spotify.com/album/140bvwWzlwvEZxMW5PtkVw"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165288,
+      "name": "PARE DOSE",
+      "url": "https://open.spotify.com/track/3gTqUQql07sL6Eutx82ZQV"
     },
     {
       "album": {

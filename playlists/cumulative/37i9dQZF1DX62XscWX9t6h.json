@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Hrudja",
+        "url": "https://open.spotify.com/album/0CU9PwCpIpJ3gzRA3fhgpl"
+      },
+      "artists": [
+        {
+          "name": "Massimo Silverio",
+          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "Jev\u00e2",
+      "url": "https://open.spotify.com/track/0RrJFJ8vcqBaVT5llKTOxt"
+    },
+    {
+      "album": {
         "name": "Junchuch",
         "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
       },
@@ -3254,7 +3272,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"

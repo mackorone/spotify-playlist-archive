@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 442952,
+  "num_followers": 443040,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABXhJQqNUYGdehvguhUnIOJ",
+  "snapshot_id": "aQfwgAAAAADes2/fLWQM/4qMbq9ajx1J",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
       "duration_ms": 222274,
       "name": "Across The Universe",
       "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anywhere But Home (Live)",
+        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 257506,
+      "name": "Tourniquet - Live From Le Z\u00e9nith,France/2004",
+      "url": "https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8"
     }
   ],
   "unique_name": "This Is Evanescence",

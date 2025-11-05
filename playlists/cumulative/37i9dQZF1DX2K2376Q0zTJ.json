@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: NTsKi",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: Awich",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 172386,
       "name": "456",
       "url": "https://open.spotify.com/track/4HJhFTBUpvQHvfm7qjQlYZ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240484,
+      "name": "5FEET",
+      "url": "https://open.spotify.com/track/0qtKyGcWh1DsLsB2GYOdor"
     },
     {
       "album": {
@@ -2189,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "BUTTOBASHIT",
+        "url": "https://open.spotify.com/album/4IpFJdDzrqsdF2GZvjghFr"
+      },
+      "artists": [
+        {
+          "name": "e5",
+          "url": "https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192409,
+      "name": "BUTTOBASHIT",
+      "url": "https://open.spotify.com/track/3g5yCta0AoVrVYxqE37qQG"
+    },
+    {
+      "album": {
         "name": "Bye-Bye King",
         "url": "https://open.spotify.com/album/355SYUVufkwA8t7mDJEJQK"
       },
@@ -2520,7 +2556,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 216207,
       "name": "ChaO!",
       "url": "https://open.spotify.com/track/3KmgpETY3e5w8q0pz1oxFY"
@@ -3076,6 +3112,28 @@
       "duration_ms": 174489,
       "name": "CREAM",
       "url": "https://open.spotify.com/track/651fQeqTd1Ey4UT5taZVkB"
+    },
+    {
+      "album": {
+        "name": "Crown (feat. 7)",
+        "url": "https://open.spotify.com/album/0JXmXd8jh6ydRdKfEYO1nW"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Crown (feat. 7)",
+      "url": "https://open.spotify.com/track/2Q0Yo5PjgoMNw5QWKUeySD"
     },
     {
       "album": {
@@ -4254,6 +4312,24 @@
       "duration_ms": 221178,
       "name": "emoh",
       "url": "https://open.spotify.com/track/3KzPu0fG8Asq0VInuhpNgo"
+    },
+    {
+      "album": {
+        "name": "En",
+        "url": "https://open.spotify.com/album/67wpi0xexDGGSwvVE2Zt6i"
+      },
+      "artists": [
+        {
+          "name": "5Leaf",
+          "url": "https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154503,
+      "name": "En",
+      "url": "https://open.spotify.com/track/5TWg9A1QIIn5HYPR1WnUs6"
     },
     {
       "album": {
@@ -8045,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/3bS9wKuwcvMA0a9JUOnxZQ"
+      },
+      "artists": [
+        {
+          "name": "TOMOKO IDA",
+          "url": "https://open.spotify.com/artist/3OASAh5sU55fyujccaeUmB"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Josho",
+      "url": "https://open.spotify.com/track/0b5EkS1MB75CcQK1O3lB4m"
+    },
+    {
+      "album": {
         "name": "Ethernity",
         "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
       },
@@ -10574,7 +10668,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 192844,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4pVQ2vSayFNTKMTH040wcM"
@@ -15884,7 +15978,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 262413,
       "name": "Summer Dreams",
       "url": "https://open.spotify.com/track/1RlOymBs1osN3ZYy5aoZLa"
@@ -18085,6 +18179,36 @@
     },
     {
       "album": {
+        "name": "Wax On Wax Off",
+        "url": "https://open.spotify.com/album/6qMfwFtTxHIH6hSQZ5kWpt"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171803,
+      "name": "Wax On Wax Off",
+      "url": "https://open.spotify.com/track/5ELYNQEpLzJIDzCDc6CXZC"
+    },
+    {
+      "album": {
         "name": "We Are Always Under The Same Sky",
         "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
       },
@@ -18303,6 +18427,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227452,
+      "name": "what am i made for?",
+      "url": "https://open.spotify.com/track/6A2R5U4rigH8I7uogDnfvc"
+    },
+    {
+      "album": {
         "name": "Live at Fandango",
         "url": "https://open.spotify.com/album/3U7WKQCGBKiPKuiwQwkKcR"
       },
@@ -18314,7 +18456,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 105813,
       "name": "What do you mean you have to talk to me at this late hour?",
       "url": "https://open.spotify.com/track/25KDEoe0XgUlmrZHDhh7LA"
@@ -20654,7 +20796,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 229653,
       "name": "\u307b\u3046\u304d\u661f",
       "url": "https://open.spotify.com/track/0wROI0QCfZ21IslEMtJMwA"
@@ -23274,7 +23416,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 181434,
       "name": "\u4e09\u6708\u306e\u6b4c",
       "url": "https://open.spotify.com/track/4EQQLK6xsQN6eiByBRuko8"
@@ -26060,7 +26202,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 195550,
       "name": "\u82b1\u30fb\u9b41 - feat. Medusa, E.V.P & IFE",
       "url": "https://open.spotify.com/track/6octouOHHwAcyeWCMYvAhU"

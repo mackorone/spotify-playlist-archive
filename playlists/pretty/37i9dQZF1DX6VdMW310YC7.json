@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3917075,
+  "num_followers": 3917234,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/3r4Jl48LaSrHlKh0Lcqk7b"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Into The Night",
         "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 423006,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/3r4Jl48LaSrHlKh0Lcqk7b"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -871,6 +871,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
+      },
+      "artists": [
+        {
+          "name": "Nathan C",
+          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
-      },
-      "artists": [
-        {
-          "name": "Nathan C",
-          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "On A Clear Day, You Can See Forever",
         "url": "https://open.spotify.com/album/3FoFmPO5kxgqonzSGWQ8IW"
       },
@@ -975,18 +991,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
       "artists": [
         {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+      "duration_ms": 258517,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1031,26 +1051,6 @@
       "duration_ms": 230487,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 258517,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
+        "name": "Kids of the Sun",
+        "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
+      },
+      "artists": [
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        }
+      ],
+      "duration_ms": 159685,
+      "name": "Kids of the Sun",
+      "url": "https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -1219,18 +1235,38 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Kids of the Sun",
-        "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
       "artists": [
         {
-          "name": "Alex Keeper",
-          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
         }
       ],
-      "duration_ms": 159685,
-      "name": "Kids of the Sun",
-      "url": "https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP"
+      "duration_ms": 369798,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 215435,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1259,38 +1295,26 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 215435,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
         },
         {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Madeline Megery",
+          "url": "https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD"
         }
       ],
-      "duration_ms": 369798,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+      "duration_ms": 313064,
+      "name": "Sunrise (feat. Madeline Megery)",
+      "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1327,30 +1351,6 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Madeline Megery",
-          "url": "https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD"
-        }
-      ],
-      "duration_ms": 313064,
-      "name": "Sunrise (feat. Madeline Megery)",
-      "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 238065,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Senses of Comfort",
         "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 191946,
       "name": "Senses of Comfort",
       "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 238065,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Slow Bloom",
-        "url": "https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Slow Bloom",
-      "url": "https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Another Touch",
         "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 225301,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Slow Bloom",
+        "url": "https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Slow Bloom",
+      "url": "https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
-      },
-      "artists": [
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        },
-        {
-          "name": "Alessandro Martire",
-          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
-    },
-    {
-      "added_at": "2025-10-24 04:00:17",
-      "album": {
         "name": "Unbound",
         "url": "https://open.spotify.com/album/0MCD47Wv2l9Vx62CSVO47O"
       },
@@ -1859,22 +1839,22 @@
     {
       "added_at": "2025-10-24 04:00:17",
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/3ug1Vz79SQ7HufUo3TpKVq"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
       },
       "artists": [
         {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
         },
         {
-          "name": "Maria Lynn",
-          "url": "https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j"
+          "name": "Alessandro Martire",
+          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
         }
       ],
-      "duration_ms": 166017,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/5U1zaCg0SRkvidC8cBbewx"
+      "duration_ms": 162786,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
     },
     {
       "added_at": "2025-10-24 04:00:17",
@@ -1895,6 +1875,26 @@
       "duration_ms": 251303,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2025-10-24 04:00:17",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/3ug1Vz79SQ7HufUo3TpKVq"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        },
+        {
+          "name": "Maria Lynn",
+          "url": "https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j"
+        }
+      ],
+      "duration_ms": 166017,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/5U1zaCg0SRkvidC8cBbewx"
     },
     {
       "added_at": "2025-10-24 04:00:17",

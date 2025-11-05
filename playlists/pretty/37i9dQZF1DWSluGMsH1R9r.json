@@ -1,6 +1,6 @@
 {
   "description": "Calm piano music for enhanced concentration.",
-  "num_followers": 1446836,
+  "num_followers": 1446814,
   "original_name": "Perfect Concentration",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Azalea",
-        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 143750,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Nordanvind",
         "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 127000,
       "name": "Nordanvind",
       "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 143750,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Flower Wings",
-        "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Mignard",
-          "url": "https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Flower Wings",
-      "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Slowly \u6162\u6162\u5730",
         "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 129828,
       "name": "Slowly \u6162\u6162\u5730",
       "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Flower Wings",
+        "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Mignard",
+          "url": "https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Flower Wings",
+      "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "somewhere else, together",
-        "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
-      },
-      "artists": [
-        {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
-        }
-      ],
-      "duration_ms": 189108,
-      "name": "somewhere else, together",
-      "url": "https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Desde el alma",
         "url": "https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Find The Light Behind The Clouds",
-        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+        "name": "somewhere else, together",
+        "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
       },
       "artists": [
         {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
         }
       ],
-      "duration_ms": 139884,
-      "name": "Find The Light Behind The Clouds",
-      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+      "duration_ms": 189108,
+      "name": "somewhere else, together",
+      "url": "https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -999,6 +983,22 @@
       "duration_ms": 134512,
       "name": "Lysithea",
       "url": "https://open.spotify.com/track/4XBdquxpnwZRjFiM55TRkQ"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "duration_ms": 139884,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
+        "name": "Au matin du magicien",
+        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 122560,
+      "name": "Au matin du magicien",
+      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
         "name": "Making peace",
         "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 141014,
       "name": "Campania",
       "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
-        "name": "Au matin du magicien",
-        "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "Au matin du magicien",
-      "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "A Fresh Start",
-        "url": "https://open.spotify.com/album/0HfJtkvuSY9WjsWE6wm5c2"
-      },
-      "artists": [
-        {
-          "name": "Roger Swift",
-          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
-        }
-      ],
-      "duration_ms": 158580,
-      "name": "A Fresh Start",
-      "url": "https://open.spotify.com/track/2jlX4uHv42kpI4RrkjF9LK"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Ing\u00e9nue",
         "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 147639,
       "name": "Ing\u00e9nue",
       "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "A Fresh Start",
+        "url": "https://open.spotify.com/album/0HfJtkvuSY9WjsWE6wm5c2"
+      },
+      "artists": [
+        {
+          "name": "Roger Swift",
+          "url": "https://open.spotify.com/artist/7LFWOpUVxbAkCBMVycZT5k"
+        }
+      ],
+      "duration_ms": 158580,
+      "name": "A Fresh Start",
+      "url": "https://open.spotify.com/track/2jlX4uHv42kpI4RrkjF9LK"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Tales of This",
-        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
-      },
-      "artists": [
-        {
-          "name": "Andrea Azzola",
-          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
-        }
-      ],
-      "duration_ms": 136867,
-      "name": "Tales of This",
-      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
-        "name": "It Rained Last Night",
-        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
-      },
-      "artists": [
-        {
-          "name": "Casimir Roux",
-          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "It Rained Last Night",
-      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Simple Beauty",
         "url": "https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 166000,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/2cilJhRbesAUmkwLn9dlkR"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "It Rained Last Night",
+        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "It Rained Last Night",
+      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Tales of This",
+        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "duration_ms": 136867,
+      "name": "Tales of This",
+      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "The Seventh Wave",
-        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
-      },
-      "artists": [
-        {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
-        }
-      ],
-      "duration_ms": 128088,
-      "name": "The Seventh Wave",
-      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Velvet Veil",
         "url": "https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 123479,
       "name": "Velvet Veil",
       "url": "https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Evanesce",
-        "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
-      },
-      "artists": [
-        {
-          "name": "J. Alke",
-          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Evanesce",
-      "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 140541,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Evanesce",
+        "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
+      },
+      "artists": [
+        {
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "Evanesce",
+      "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Armonia",
-        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
-      },
-      "artists": [
-        {
-          "name": "Elion Veero",
-          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
-        }
-      ],
-      "duration_ms": 180830,
-      "name": "Armonia",
-      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Nostrella",
         "url": "https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 156321,
       "name": "Nostrella",
       "url": "https://open.spotify.com/track/0LH9FWqGcPXzwZ3yTDhjXS"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Armonia",
+        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
+      },
+      "artists": [
+        {
+          "name": "Elion Veero",
+          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
+        }
+      ],
+      "duration_ms": 180830,
+      "name": "Armonia",
+      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Ruby Clouds",
-        "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
-      },
-      "artists": [
-        {
-          "name": "Ey\u00f8ni",
-          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
-        }
-      ],
-      "duration_ms": 140808,
-      "name": "Ruby Clouds",
-      "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 153982,
       "name": "Every Particle",
       "url": "https://open.spotify.com/track/5aSh771bIr88xzVgC8zjka"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Ruby Clouds",
+        "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "duration_ms": 140808,
+      "name": "Ruby Clouds",
+      "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
+        "name": "Stigen",
+        "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
+      },
+      "artists": [
+        {
+          "name": "Carl Sture",
+          "url": "https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Stigen",
+      "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
         "name": "Particle rise",
         "url": "https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 160615,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
-        "name": "Stigen",
-        "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
-      },
-      "artists": [
-        {
-          "name": "Carl Sture",
-          "url": "https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Stigen",
-      "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Hudson",
-        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
-      },
-      "artists": [
-        {
-          "name": "Lluvio",
-          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Hudson",
-      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 136750,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Hudson",
+        "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
+      },
+      "artists": [
+        {
+          "name": "Lluvio",
+          "url": "https://open.spotify.com/artist/1kzkKhacDbiz7kbMewpWLV"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Hudson",
+      "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
     },
     {
       "added_at": "2025-09-24 15:40:55",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2025-09-24 15:40:55",
       "album": {
-        "name": "Go With The Flow",
-        "url": "https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh"
-      },
-      "artists": [
-        {
-          "name": "Hector Vall\u00c7e",
-          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Go With The Flow",
-      "url": "https://open.spotify.com/track/0LzHt0QSoskuBCgMvq1lms"
-    },
-    {
-      "added_at": "2025-09-24 15:40:55",
-      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 131583,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie"
+    },
+    {
+      "added_at": "2025-09-24 15:40:55",
+      "album": {
+        "name": "Go With The Flow",
+        "url": "https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Go With The Flow",
+      "url": "https://open.spotify.com/track/0LzHt0QSoskuBCgMvq1lms"
     },
     {
       "added_at": "2025-09-24 15:40:55",

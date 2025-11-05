@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1128924,
+  "num_followers": 1129415,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "Paro",
-        "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        },
-        {
-          "name": "UNPLG'd",
-          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
-        }
-      ],
-      "duration_ms": 70400,
-      "name": "Paro",
-      "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
         "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 257826,
       "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3EKHZNd0qflQK8UImpUu3k"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "Paro",
+        "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        }
+      ],
+      "duration_ms": 70400,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -803,6 +803,86 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
+        "name": "Tum Mere Na Huye (From \u201cThamma\u201d)",
+        "url": "https://open.spotify.com/album/7jAkBw3P85Q4b96Ecfs9XA"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
+      "url": "https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 160796,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "Sang Rahiyo",
+        "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Ujjwal Kashyap",
+          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
+        }
+      ],
+      "duration_ms": 213288,
+      "name": "Sang Rahiyo",
+      "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
         "name": "Monica (From \"Coolie\") (Tamil)",
         "url": "https://open.spotify.com/album/0JVeWlWdj13Q8PdEFmsjqX"
       },
@@ -831,8 +911,28 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "P-POP CULTURE",
-        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+        "name": "Khayaal",
+        "url": "https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        }
+      ],
+      "duration_ms": 162031,
+      "name": "Khayaal",
+      "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
       },
       "artists": [
         {
@@ -844,69 +944,9 @@
           "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
-      "duration_ms": 160796,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
-        "name": "Tum Mere Na Huye (From \u201cThamma\u201d)",
-        "url": "https://open.spotify.com/album/7jAkBw3P85Q4b96Ecfs9XA"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
-      "url": "https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
-        "name": "Sang Rahiyo",
-        "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Ujjwal Kashyap",
-          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
-        }
-      ],
-      "duration_ms": 213288,
-      "name": "Sang Rahiyo",
-      "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 159222,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+      "duration_ms": 155161,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -939,62 +979,6 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "Making Memories",
-        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 155161,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
-        "name": "Khayaal",
-        "url": "https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG"
-      },
-      "artists": [
-        {
-          "name": "Talwiinder",
-          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
-        },
-        {
-          "name": "NDS",
-          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
-        }
-      ],
-      "duration_ms": 162031,
-      "name": "Khayaal",
-      "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
-        "name": "Russian Bandana",
-        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
-      },
-      "artists": [
-        {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Russian Bandana",
-      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
         "name": "Still Rollin",
         "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
       },
@@ -1011,26 +995,18 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "WITHOUT PREJUDICE",
-        "url": "https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi"
+        "name": "Russian Bandana",
+        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
       },
       "artists": [
         {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Sanjoy",
-          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
-        },
-        {
-          "name": "Gill Machhrai",
-          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Qatal",
-      "url": "https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9"
+      "duration_ms": 197142,
+      "name": "Russian Bandana",
+      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -1095,6 +1071,30 @@
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "WITHOUT PREJUDICE",
+        "url": "https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Gill Machhrai",
+          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Qatal",
+      "url": "https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "Connie Francis Sings Second Hand Love & Other Hits",
-        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "Pretty Little Baby",
-      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
         "name": "Bachna Ae Haseeno",
         "url": "https://open.spotify.com/album/4mFLdK8SkUo3cx8ERLQC92"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 333583,
       "name": "Khuda Jaane",
       "url": "https://open.spotify.com/track/0gPgdRfB4jdGrlyXS0Vx78"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
+        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 268445,
+      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
         "name": "Aasa Kooda (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
       },
@@ -1307,30 +1331,6 @@
       "duration_ms": 228000,
       "name": "Mann Mera - Original Version",
       "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
-        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
-        }
-      ],
-      "duration_ms": 268445,
-      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
     },
     {
       "added_at": "2025-11-03 09:27:05",

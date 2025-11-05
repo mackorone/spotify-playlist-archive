@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 126168,
+  "num_followers": 126180,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAD7/aSxiHWp/oS2X+ICC2KO",
+  "snapshot_id": "aQfwgAAAAAAkUah9o3i3MFP0Qyff/AHn",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "No tengo amigos",
+      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Perdedor",
         "url": "https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 228687,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "No tengo amigos",
-      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oro en la Medalla",
-        "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
+        "name": "Inhala",
+        "url": "https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS"
       },
       "artists": [
         {
-          "name": "Nash",
-          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "AYWA",
-          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
+          "name": "Yayo",
+          "url": "https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ"
         }
       ],
-      "duration_ms": 155700,
-      "name": "Oro en la Medalla",
-      "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
+      "duration_ms": 245500,
+      "name": "Inhala",
+      "url": "https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI"
     }
   ],
   "unique_name": "This Is Dharius",

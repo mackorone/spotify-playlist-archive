@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 637803,
+  "num_followers": 637797,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAADKY9gEbWhX0qtgo3KYuRoa",
+  "snapshot_id": "aQfwgAAAAABs9C2KDv+LtSD0omtwiM3T",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 253493,
-      "name": "Missing My Baby",
-      "url": "https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp"
+      "duration_ms": 281560,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 281560,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
+      "duration_ms": 192840,
+      "name": "T\u00fa, Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 192840,
-      "name": "T\u00fa, Solo T\u00fa",
-      "url": "https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2"
+      "duration_ms": 194960,
+      "name": "Techno Cumbia 2012",
+      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Techno Cumbia 2012",
-      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -331,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Bidi Bidi Bom Bom - 1994 Version",
-      "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 463266,
       "name": "Disco Medley - Live From Astrodome",
       "url": "https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/08rj3keDexxAbhXnRM86ri"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 403640,
+      "name": "Como La Flor - Live From Astrodome",
+      "url": "https://open.spotify.com/track/2e5lffoLF7p6YeGbcmigdX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 284973,
       "name": "Buenos Amigos",
       "url": "https://open.spotify.com/track/1qd1ipkgtdhbiJ2UiAH1HM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 403640,
-      "name": "Como La Flor - Live From Astrodome",
-      "url": "https://open.spotify.com/track/2e5lffoLF7p6YeGbcmigdX"
     },
     {
       "added_at": null,
@@ -463,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Yo Te Sigo Queriendo",
-      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live-The Last Concert",
         "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
       },
@@ -495,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "Yo Te Sigo Queriendo",
+      "url": "https://open.spotify.com/track/3TpXM6ms8GE04qe8mRaMou"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 243000,
-      "name": "I'm Getting Used To You",
-      "url": "https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel"
+      "duration_ms": 253493,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "El Chico Del Apartamento 512 - Live",
+      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre A Mi Mundo",
         "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 195346,
-      "name": "El Chico Del Apartamento 512 - Live",
-      "url": "https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG"
+      "duration_ms": 243000,
+      "name": "I'm Getting Used To You",
+      "url": "https://open.spotify.com/track/1OxqCSTvWrCwoS413r9xel"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
       "duration_ms": 290773,
       "name": "I Could Fall In Love",
       "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 116600,
+      "name": "Cobarde - Live",
+      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
       "duration_ms": 518640,
       "name": "Cumbia Medley - Live",
       "url": "https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 116600,
-      "name": "Cobarde - Live",
-      "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
     },
     {
       "added_at": null,

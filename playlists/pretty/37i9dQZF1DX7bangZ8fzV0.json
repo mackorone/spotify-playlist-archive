@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Die Heuwels Fantasties",
-  "num_followers": 136643,
+  "num_followers": 136690,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Helemal",
-        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 227999,
-      "name": "Helemal",
-      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
-        "name": "Sarie Marais",
-        "url": "https://open.spotify.com/album/5sjp9cjRMXHQQzZzkqomlf"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Sarie Marais",
-      "url": "https://open.spotify.com/track/0oNC8qRsiWTKxhmUzol4Lw"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Hoe Nou?",
         "url": "https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 179002,
       "name": "Hoe Nou?",
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Sarie Marais",
+        "url": "https://open.spotify.com/album/5sjp9cjRMXHQQzZzkqomlf"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Sarie Marais",
+      "url": "https://open.spotify.com/track/0oNC8qRsiWTKxhmUzol4Lw"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Helemal",
+        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 227999,
+      "name": "Helemal",
+      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
+        "name": "Dik Stukke",
+        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 187611,
+      "name": "Dik Stukke",
+      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
         "name": "Klein Dingetjies",
         "url": "https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 177983,
       "name": "Iemand Soos Jy",
       "url": "https://open.spotify.com/track/298k3iGimVSsClUG9KolBF"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
-        "name": "Dik Stukke",
-        "url": "https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy"
-      },
-      "artists": [
-        {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
-        }
-      ],
-      "duration_ms": 187611,
-      "name": "Dik Stukke",
-      "url": "https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Lui Voete",
-        "url": "https://open.spotify.com/album/4jDNv5KSltQHTQ09SrDHGM"
-      },
-      "artists": [
-        {
-          "name": "Tamlyn Wessels",
-          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Lui Voete",
-      "url": "https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Carina",
         "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 196208,
       "name": "Carina",
       "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Lui Voete",
+        "url": "https://open.spotify.com/album/4jDNv5KSltQHTQ09SrDHGM"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Lui Voete",
+      "url": "https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Trek Hom Plat",
-        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 172850,
-      "name": "Trek Hom Plat",
-      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
         "name": "Kan 'N Man",
         "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
       },
@@ -1051,38 +1031,6 @@
       "duration_ms": 169164,
       "name": "Kan 'N Man",
       "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
-        "name": "Haar Naam Is Afrikaans",
-        "url": "https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 204335,
-      "name": "Haar Naam Is Afrikaans",
-      "url": "https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
-        "name": "Besonders",
-        "url": "https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Besonders",
-      "url": "https://open.spotify.com/track/6vSty2JOrCagay8asSyed8"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1119,6 +1067,58 @@
       "duration_ms": 164746,
       "name": "Ek Verstaan",
       "url": "https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Besonders",
+        "url": "https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Besonders",
+      "url": "https://open.spotify.com/track/6vSty2JOrCagay8asSyed8"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Trek Hom Plat",
+        "url": "https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Trek Hom Plat",
+      "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
+        "name": "Haar Naam Is Afrikaans",
+        "url": "https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 204335,
+      "name": "Haar Naam Is Afrikaans",
+      "url": "https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b"
     },
     {
       "added_at": "2025-10-30 22:00:14",

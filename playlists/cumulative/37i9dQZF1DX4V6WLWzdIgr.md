@@ -4,7 +4,7 @@
 
 > "Aku pancen ora sempurna, gampang terluka..." 💔
 
-137 songs - 11 hr 24 min
+139 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,9 +82,10 @@
 | [Matur Suwun](https://open.spotify.com/track/3vfjm9cp7EXPiwg1dM619J) | [Tri Hanna](https://open.spotify.com/artist/5gAnElZHeovABzndwUiYJO) | [Matur Suwun](https://open.spotify.com/album/3tWwVTVbfJaZxJf5dtnZzo) | 5:46 | 2021-09-08 | 2025-06-11 |
 | [Mencintai Dengan Ngeyel](https://open.spotify.com/track/6i6r1Z2Bl7vdZbIfYtHnIu) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Mencintai Dengan Ngeyel](https://open.spotify.com/album/2N7YLZFogJhbsnpHfyLahq) | 4:35 | 2025-09-11 |  |
 | [Mencintai Dengan Ngeyel](https://open.spotify.com/track/5vIc8msfVqULYtl2D0x7AP) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Mencintai Dengan Ngeyel](https://open.spotify.com/album/6GraNh74uCPWz2uCALkLmr) | 4:22 | 2025-09-11 |  |
-| [Mikir Mikir](https://open.spotify.com/track/3YXIQCSmo2BEY4WrUHtXxZ) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Mikir Mikir](https://open.spotify.com/album/2dOY1I0VJPzvpPTstppYmP) | 4:11 | 2024-05-17 |  |
+| [Mikir Mikir](https://open.spotify.com/track/3YXIQCSmo2BEY4WrUHtXxZ) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Mikir Mikir](https://open.spotify.com/album/2dOY1I0VJPzvpPTstppYmP) | 4:11 | 2024-05-17 | 2025-11-05 |
 | [Milih Mundur](https://open.spotify.com/track/0DLbVDwXQi23r36IFrTXPO) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Milih Mundur](https://open.spotify.com/album/6Uilrx8pMCE0HyrqUjI202) | 5:08 | 2025-08-04 |  |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2021-09-08 |  |
+| [Nduweni](https://open.spotify.com/track/0pEqcaVfMePZOEFwr9tzkh) | [Sweety Days](https://open.spotify.com/artist/0DWw4lIlzU2TQTedyDU5M4), [Arry Harmoko](https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf), [Estetika Karina](https://open.spotify.com/artist/1pKYbKRTckwqDrmYmrBKpt) | [Nduweni](https://open.spotify.com/album/3c7enycYJI2BOdarQIJvGl) | 3:30 | 2025-11-05 |  |
 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 | 2023-07-18 |  |
 | [NEMEN](https://open.spotify.com/track/39GRzmNriSnmGcPSo2c1hl) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NEMEN](https://open.spotify.com/album/1SUUq2Y3vd9p2ghJoq09GG) | 5:21 | 2023-09-27 | 2025-10-24 |
 | [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 | 2023-05-09 | 2025-07-18 |
@@ -125,13 +126,14 @@
 | [Sepine Wengi](https://open.spotify.com/track/250cwRyihzWCQynWdL6RTn) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sepine Wengi](https://open.spotify.com/album/1p53UK2w3WGOEI0S8bpQ9d) | 4:37 | 2021-09-08 | 2025-10-04 |
 | [Sewates Konco](https://open.spotify.com/track/3ZsxUx6uEUq2JaaJZHpY8J) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Destya Eka](https://open.spotify.com/artist/2tm1IWxQUHQJNbqZRIH49s) | [Sewates Konco](https://open.spotify.com/album/6X6IZWFp4R4ViCcXrJIXqs) | 5:03 | 2023-03-31 |  |
 | [Sigar](https://open.spotify.com/track/12BUsSyjHbnvmnFw6TObGD) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sigar](https://open.spotify.com/album/1yN2WgWXFFgfnIgzFmpEyu) | 5:29 | 2024-07-24 |  |
+| [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/track/72avAygkMmzT1UXks8D1gx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/album/2rmM5EfmOH7gVTZEE9Ok3M) | 5:05 | 2025-11-05 |  |
 | [Sing Tak Sayang Ilang](https://open.spotify.com/track/6peEINbo70GxP08o9TC9LU) | [Dory Harsa](https://open.spotify.com/artist/4srslZ2sGZ7GQoikELwXsX) | [Sing Tak Sayang Ilang](https://open.spotify.com/album/1IUvBhHScJl87iPOS081TH) | 4:26 | 2021-09-08 | 2024-10-24 |
 | [Sugeng Dalu](https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf) | 9:02 | 2024-09-26 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/3c24cpsd4wWF9mqLsNAGm5) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6lXi6pJWfrUP27FtWJY3zT) | 5:10 | 2023-05-19 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/7byQmHNYSJVjFAzd8eciFQ) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6LD8JaQ7efxzh0rChA3zCx) | 5:10 | 2023-10-11 | 2024-04-19 |
 | [Takdire Pisah](https://open.spotify.com/track/5jMO4LPNKOkhgqxiknYMwa) | [Diorama](https://open.spotify.com/artist/1fUKdAlQVtR3mZmdiFTzrq) | [Takdire Pisah](https://open.spotify.com/album/4fbDMnj1IJfMESBKFdvVLa) | 5:16 | 2023-09-13 |  |
 | [Tangise Sarangan](https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tangise Sarangan](https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB) | 6:55 | 2023-08-09 | 2025-01-14 |
-| [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2021-09-08 |  |
+| [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2021-09-08 | 2025-11-05 |
 | [Tatu](https://open.spotify.com/track/55XnOFlzoXBcx1Ov0UvzeL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/45mzuK7vN3XolfmyyEoOh3) | 4:54 | 2023-02-03 | 2024-04-19 |
 | [Tekan Semene](https://open.spotify.com/track/05l0TpxjHw8Y5Vxb9p5xKv) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tekan Semene](https://open.spotify.com/album/6kll8pVZnCHYbEKPDiV5XS) | 5:44 | 2021-09-08 |  |
 | [Tepian Nyaman](https://open.spotify.com/track/0KdAkZhKnYSRIJaN9XMV6G) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Tepian Nyaman](https://open.spotify.com/album/7z3m8eOP2eKq427vfJhWGj) | 4:57 | 2025-09-11 |  |

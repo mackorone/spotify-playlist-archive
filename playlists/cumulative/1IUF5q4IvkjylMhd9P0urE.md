@@ -4,7 +4,7 @@
 
 > Our favourite new music, curated by the XL team.
 
-879 songs - 2 day 2 hr 8 min
+881 songs - 2 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 | 2025-03-20 |  |
 | [POOR CHOICES](https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [POOR CHOICES](https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE) | 3:24 | 2025-10-01 |  |
 | [Pop Song 2](https://open.spotify.com/track/5EiFyi7cYlzfM1NlmFQnhL) | [Velvet Negroni](https://open.spotify.com/artist/3RGofWmykr8KICouK8pMUm) | [Bulli](https://open.spotify.com/album/0wVhZh8wHRBAAxqqA76qhv) | 1:54 | 2023-01-18 | 2023-04-14 |
+| [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-11-04 |  |
 | [Portals](https://open.spotify.com/track/4XY348mLkMShpnyhhx9UYr) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Portals](https://open.spotify.com/album/4gw6B4mV2AebjcFKDGdwc3) | 2:45 | 2022-09-16 | 2022-10-11 |
 | [Pourin \(feat\. BlueBucksClan\)](https://open.spotify.com/track/1RUdNc0N54E7PJJ3GI9V52) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Mike Free](https://open.spotify.com/artist/6iEOdI9RcimOiNzbfhhuTO), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Free 03](https://open.spotify.com/album/2UfVYQnUerGa6XhbJYlaWS) | 3:38 | 2023-01-18 | 2023-03-16 |
 | [Power](https://open.spotify.com/track/3nE7KhZq3bz31I7g7hvt1v) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Power](https://open.spotify.com/album/5B2xt3XKpNqKbHj7T02rms) | 2:48 | 2022-09-16 | 2022-11-09 |
@@ -871,6 +872,7 @@
 | [Wishi Wishi \(feat\. Scotts Maphuma & Young Stunna\)](https://open.spotify.com/track/34eKUydsaj9GeMTT1ybutO) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Wishi Wishi \(feat\. Scotts Maphuma & Young Stunna\)](https://open.spotify.com/album/4bhZZ9oHQ6wb8Lpke7nQql) | 6:21 | 2024-12-09 | 2025-06-26 |
 | [wishuwerehere](https://open.spotify.com/track/6ouflVakFDbhMaRKfv2jvF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [wishuwerehere](https://open.spotify.com/album/1cWmMEtvycWbC65ncuL2zs) | 2:14 | 2023-04-13 | 2024-03-22 |
 | [Witching Hour](https://open.spotify.com/track/7ubfcQbzlrG5qJcACAFD8T) | [Nat Home](https://open.spotify.com/artist/3PJ8RbmXKrqE1RjNsMWudk), [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp) | [Average Stardawg](https://open.spotify.com/album/2cwKiedUjZpR7lkCuo4Jwi) | 4:40 | 2022-11-08 | 2022-12-20 |
+| [wo ai ni](https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:31 | 2025-11-04 |  |
 | [wolf \(feat\. RADA\)](https://open.spotify.com/track/3qUJvwyxjVzl8enK80Rezj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [RADA](https://open.spotify.com/artist/4Mt29F9smgR7ghycaf5fI5) | [\#mia](https://open.spotify.com/album/69yCzxhBGrs0o2hPJWqttf) | 3:03 | 2025-03-20 |  |
 | [WOMAN LIKE THAT](https://open.spotify.com/track/3qo55kZpzioiSTdJH6KRng) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [I'M A HURRICANE I'M A WOMAN IN LOVE](https://open.spotify.com/album/78F7SDu1qKH4umdw2T6pVo) | 3:05 | 2025-06-25 |  |
 | [Workahol](https://open.spotify.com/track/2ORqBs1Y5GsHk5NO8WIJMr) | [Minor Science](https://open.spotify.com/artist/7xkfvmfvOfMBZmIGKaLtzi) | [064](https://open.spotify.com/album/2G9e246UccqoYxZ4AAgkw8) | 6:10 | 2023-05-23 | 2023-08-04 |

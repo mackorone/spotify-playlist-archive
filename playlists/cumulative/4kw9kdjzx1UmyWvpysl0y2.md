@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,107 songs - 2 day 13 hr 55 min
+1,108 songs - 2 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1092,6 +1092,7 @@
 | [Wish You Stayed](https://open.spotify.com/track/5Ab3nqZshtBT3LthZf9Kix) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:00 | 2022-11-19 | 2022-11-22 |
 | [wish.](https://open.spotify.com/track/6sWsz6pnVxJmyAw4XsOAMR) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [Ellii](https://open.spotify.com/artist/3tWLnX4ZbP9FJfwMykic5e) | [wish.](https://open.spotify.com/album/1jxhvgeN0ZYfYogPpRSVwJ) | 3:26 | 2024-07-10 | 2024-10-03 |
 | [With U](https://open.spotify.com/track/2u4dejYhJszoo17e1W2WLW) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [With U](https://open.spotify.com/album/3mBwB6v0WiqCNysrWmgJqj) | 4:12 | 2023-08-21 | 2023-12-14 |
+| [Without You](https://open.spotify.com/track/1Las5DREvBQtqeoYdfgtk3) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Without You](https://open.spotify.com/album/4N5Yn9vcLQ8RFx3OTKQLwE) | 3:19 | 2025-11-04 |  |
 | [Without You](https://open.spotify.com/track/5KuMYx5VncjdS6CSuurWlk) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Without You](https://open.spotify.com/album/1PS4HKWlVVopci1ElsHCoc) | 2:30 | 2022-08-23 | 2022-11-01 |
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-17 | 2022-07-28 |
 | [Won't Stop](https://open.spotify.com/track/6oS0xGbxzpkHh3f7ODXImB) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Won't Stop](https://open.spotify.com/album/3NXkqxY34ICPVZdMKl0CPO) | 4:38 | 2022-04-19 | 2022-06-30 |

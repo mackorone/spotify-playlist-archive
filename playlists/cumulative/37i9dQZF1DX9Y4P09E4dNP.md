@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: AratheJay
+> The big Hip\-Life hits rn\. Cover: Kweku Smoke
 
-290 songs - 18 hr 9 min
+291 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [16 Years](https://open.spotify.com/track/5VbYXY9TupDh4oX33zBMwR) | [Mzbel](https://open.spotify.com/artist/5YUTALnG3R7Hocweh7eovn) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:07 | 2020-02-20 | 2022-07-28 |
 | [360](https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [360](https://open.spotify.com/album/35BwMj0VAg3BCwB78CO7wa) | 3:08 | 2024-03-15 | 2024-05-17 |
 | [3:30](https://open.spotify.com/track/3oPg26PoYh2LriJ4aUUVYt) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [3:30](https://open.spotify.com/album/4UZrOGejXG1MBO4wFbLDjz) | 3:41 | 2024-06-07 | 2024-10-26 |
-| [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 | 2024-10-18 |  |
+| [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 | 2024-10-18 | 2025-11-05 |
 | [9:45 \(feat\. Lasmid & Ladipoe\)](https://open.spotify.com/track/0dT06xBuL6PQ7fzS37BEjs) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:46 | 2024-06-14 | 2025-03-15 |
 | [Aban Kaba](https://open.spotify.com/track/18ohSiDMM8ZNiEDYTKvIYs) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Aban Kaba](https://open.spotify.com/album/2q4nudXObn26z4FbfCSrMJ) | 3:32 | 2025-04-18 | 2025-05-27 |
 | [Abasakom](https://open.spotify.com/track/2eNSIR3kE2bhulBkVgCkcc) | [NS Tino](https://open.spotify.com/artist/5LWf1fvuHtGShL9KQ2YuaI), [Mickey Lux](https://open.spotify.com/artist/0hJNmRtD9lt2OjvkfYsauD), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Abasakom](https://open.spotify.com/album/1Rjd0CPRKWz0EGwh0Qaj8r) | 2:59 | 2024-03-15 | 2024-04-19 |
@@ -114,8 +114,8 @@
 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 | 2024-03-04 | 2025-09-23 |
 | [Grateful To Your Ex](https://open.spotify.com/track/3KnWRzfFyx5qljyeTRrbDU) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Grateful To Your Ex](https://open.spotify.com/album/74tjt18cIuiJqtfMGK0LzX) | 3:15 | 2024-07-12 | 2025-03-15 |
 | [Grenade](https://open.spotify.com/track/0nWYAK1qFKvHbgxrFTk9K2) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Grenade](https://open.spotify.com/album/0OiEbUGg5kepKCT4CAVpmW) | 3:13 | 2024-12-06 | 2025-01-18 |
-| [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 | 2025-07-11 | 2025-10-10 |
-| [Habit](https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Habit](https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS) | 2:53 | 2025-08-29 |  |
+| [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 | 2025-07-11 |  |
+| [Habit](https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Habit](https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS) | 2:53 | 2025-08-29 | 2025-11-05 |
 | [HANG MY BOOTS \(feat\. King Promise\)](https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [HANG MY BOOTS](https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj) | 3:07 | 2024-12-13 | 2025-07-18 |
 | [Holy Father](https://open.spotify.com/track/2wSk1MHN01QkgGEundIT0y) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Ras Kuuku](https://open.spotify.com/artist/24Lo1cdnRz69FYSaX7m44S) | [Holy Father](https://open.spotify.com/album/1AYw6sAIeqlefgpeNqjVjo) | 3:50 | 2024-03-04 | 2024-03-29 |
 | [I'm Going to Come](https://open.spotify.com/track/5DcOSvBnce6X6GlsAa0eZ4) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:39 | 2020-02-20 | 2022-07-22 |
@@ -247,6 +247,7 @@
 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 | 2024-03-29 | 2024-05-24 |
 | [Soja](https://open.spotify.com/track/0rkpKiWmsAs2VApWKJQRuY) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 3:01 | 2024-03-04 | 2024-04-12 |
 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 | 2025-04-07 |  |
+| [Someday Soon](https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:41 | 2025-11-04 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2024-03-04 | 2024-06-01 |
 | [Sradenam](https://open.spotify.com/track/4FjJYmgk0KGQNrOfSR1cqM) | [Castro](https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:20 | 2020-02-20 | 2022-07-28 |
 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 | 2020-02-20 | 2024-03-05 |

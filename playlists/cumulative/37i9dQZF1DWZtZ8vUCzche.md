@@ -4,7 +4,7 @@
 
 > Put your speakers to the test with this eclectic collection of legendary tracks.
 
-414 songs - 1 day 9 hr 29 min
+416 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [An Eagle In Your Mind](https://open.spotify.com/track/03zv0Znm7bA7XzWMZ1lEKO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 6:25 | 2021-10-15 | 2025-09-12 |
 | [An Eagle In Your Mind](https://open.spotify.com/track/7sAzXuEwz0sOhnB57xoccs) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 6:25 | 2023-01-19 | 2024-04-19 |
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2021-10-15 |  |
-| [An Ever Changing View](https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [An Ever Changing View](https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0) | 6:32 | 2025-10-03 |  |
+| [An Ever Changing View](https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [An Ever Changing View](https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0) | 6:32 | 2025-10-03 | 2025-11-05 |
 | [Anomalie bleue](https://open.spotify.com/track/4nw3uDxUEebT3TRFVHAR0d) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo \(Extended\)](https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p) | 3:52 | 2025-07-09 |  |
 | [Another Space Song](https://open.spotify.com/track/11EAxyNeRvUaZfomU8UUhz) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/2id1QCeqIEkiW4Kv5xqGT3) | 5:10 | 2021-10-15 | 2022-07-29 |
 | [Another Space Song](https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA) | [Failure](https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j) | [Fantastic Planet](https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I) | 5:10 | 2022-07-20 | 2024-04-19 |
@@ -83,6 +83,7 @@
 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 | 2022-07-20 | 2024-04-19 |
 | [Diamonds And Pearls](https://open.spotify.com/track/5IZ9bSLdTQlh3bFevTcnnl) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 5:45 | 2021-10-15 | 2025-09-05 |
 | [Diamonds on the Soles of Her Shoes](https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 5:49 | 2021-10-15 |  |
+| [Digital Love](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:01 | 2025-11-04 |  |
 | [Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 5:57 | 2023-02-02 |  |
 | [Don's Kora Song](https://open.spotify.com/track/192H1mOwT6TqfvNjUw4Vcf) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Cantando](https://open.spotify.com/album/0zBUX9ay58kwAfAhZDNGic) | 5:08 | 2023-01-19 | 2023-02-17 |
 | [Don's Kora Song](https://open.spotify.com/track/1s7bdeKIq8YiQDxxSkaQMU) | [Bobo Stenson](https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Cantando](https://open.spotify.com/album/2u3gT6j5LkalKEcyXuL7si) | 5:08 | 2021-10-15 | 2022-07-29 |
@@ -177,6 +178,7 @@
 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 | 2022-07-20 | 2024-04-19 |
 | [Kodokunohatsumei](https://open.spotify.com/track/5P9kSXsPkzbMP2D5UnjAfZ) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [The Book About My Idle Plot On A Vague Anxiety](https://open.spotify.com/album/7Flt7ilAKp0t2gRzdnwQvn) | 3:23 | 2021-10-15 | 2025-05-19 |
 | [La femme d'argent](https://open.spotify.com/track/3ZzhV6JIDKWvWR7wiKWD0C) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 7:06 | 2021-10-15 |  |
+| [La ritournelle](https://open.spotify.com/track/40at1IRgEDeq0Jun0VNsz2) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Politics](https://open.spotify.com/album/15668LZdvpFbxSGBFhoJ8K) | 7:34 | 2025-11-04 |  |
 | [Lady Brown \(feat\. Cise Starr from CYNE\)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr](https://open.spotify.com/artist/2Xavhsn8y9Yrr7N08OxvKF) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 3:19 | 2025-10-03 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2021-10-15 |  |
 | [Last Goodbye](https://open.spotify.com/track/4xqw8JSmfNdHLCuT23pHiv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 4:35 | 2021-10-15 | 2025-10-04 |
@@ -350,7 +352,7 @@
 | [Sunday City Sequence](https://open.spotify.com/track/1RdO4aqSgKXZtxtMuL32Xm) | [A Forest Mighty Black](https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5) | [Digital & Rare, Vol\. 1](https://open.spotify.com/album/1kYon4xsRwKpbVTJDG1UFJ) | 5:59 | 2024-03-27 |  |
 | [Sundown](https://open.spotify.com/track/5U480Ouk65lq6K9xxOAnzq) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/6fvMxeW8dDwBHu9YXh36qW) | 4:48 | 2024-03-27 |  |
 | [Sunrise](https://open.spotify.com/track/4LxDdYU3x9tyDxy3CghqdC) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Home](https://open.spotify.com/album/7b9Yl2gyEMKlDY97pcBPGd) | 3:19 | 2023-07-13 | 2024-04-19 |
-| [Sunrise](https://open.spotify.com/track/6fXxAmah5AF9KKmyU6w5eS) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Big Love Greatest Hits Edition 30th Anniversary](https://open.spotify.com/album/0Cq64whZuWP0ZV5nKKK1Or) | 3:19 | 2024-03-27 |  |
+| [Sunrise](https://open.spotify.com/track/6fXxAmah5AF9KKmyU6w5eS) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Big Love Greatest Hits Edition 30th Anniversary](https://open.spotify.com/album/0Cq64whZuWP0ZV5nKKK1Or) | 3:19 | 2024-03-27 | 2025-11-05 |
 | [Sunrise](https://open.spotify.com/track/0jGVEPscW8KmqktoHqv2Pa) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Sunrise European Single](https://open.spotify.com/album/2gGRaRaEHSywDFAhQUfdGP) | 3:20 | 2022-07-20 | 2024-02-23 |
 | [Svefn\-g\-englar](https://open.spotify.com/track/2fkPXXnPh0jhtwcTxLobqd) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis Byrjun](https://open.spotify.com/album/7LKQtdC6uWxqLzSbDonFij) | 10:04 | 2021-10-15 | 2025-07-24 |
 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 | 2022-07-20 | 2024-04-19 |

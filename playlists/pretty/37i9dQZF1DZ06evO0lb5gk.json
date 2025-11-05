@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 147051,
+  "num_followers": 147063,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABDyQ7lqBLTgCZQltHg9o30",
+  "snapshot_id": "aQfwgAAAAAC9FaAc5/6fefhZeLBj9H7w",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 274480,
-      "name": "The Axe",
-      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The way of all flesh",
         "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 344746,
       "name": "Esoteric surgery",
       "url": "https://open.spotify.com/track/7bUcTW0mHg4Ec0kgdXemEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "The Axe",
+      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 399320,
-      "name": "Explosia",
-      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The way of all flesh",
         "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 309533,
       "name": "A sight to behold",
       "url": "https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Liquid Fire",
+      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 257800,
-      "name": "Liquid Fire",
-      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
+      "duration_ms": 399320,
+      "name": "Explosia",
+      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
     },
     {
       "added_at": null,

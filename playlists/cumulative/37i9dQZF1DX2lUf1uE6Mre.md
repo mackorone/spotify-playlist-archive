@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Jazeek x Luciano
 
-371 songs - 15 hr 49 min
+372 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,12 +134,13 @@
 | [Favela Type Beat](https://open.spotify.com/track/0yfe4whuXtjif5WQt4uXGu) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Favela Type Beat](https://open.spotify.com/album/6Jy1my0Y51UIeZSmp37P9K) | 2:27 | 2024-06-28 | 2024-12-17 |
 | [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 | 2025-09-18 | 2025-10-03 |
 | [French Nails](https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [French Nails](https://open.spotify.com/album/27MfpZoTZHr8OWIsgjCXCB) | 2:13 | 2025-02-03 | 2025-04-18 |
-| [FROZEN](https://open.spotify.com/track/2ZZM5DepwKgqGJChdbfVx1) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Alim](https://open.spotify.com/artist/2eCeP9nQxAp8hXOL30KNGZ), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [FROZEN](https://open.spotify.com/album/0IAOLh308PgsAepj19BNts) | 2:48 | 2025-03-24 |  |
+| [FROZEN](https://open.spotify.com/track/2ZZM5DepwKgqGJChdbfVx1) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Alim](https://open.spotify.com/artist/2eCeP9nQxAp8hXOL30KNGZ), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [FROZEN](https://open.spotify.com/album/0IAOLh308PgsAepj19BNts) | 2:48 | 2025-03-24 | 2025-11-05 |
 | [FÜR IMMER](https://open.spotify.com/track/3HzLCE4KDrtwCuSvy8t7GS) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [FÜR IMMER](https://open.spotify.com/album/5zZcS8YmoeA99WdPzfxlzb) | 2:40 | 2024-10-10 | 2025-08-29 |
 | [Gerade Lines](https://open.spotify.com/track/0K4m3o2CZVKWPaK113ICXc) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [FÜNF](https://open.spotify.com/album/72fhK5IkZdUOmQwJp4Ds7P) | 2:18 | 2024-12-16 |  |
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 | 2025-04-25 |
 | [GET LOW](https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [GET LOW](https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP) | 2:30 | 2025-08-14 |  |
 | [GETRENNTE SOMMERNACHT](https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [GETRENNTE SOMMERNACHT](https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl) | 2:41 | 2025-10-23 |  |
+| [GHETTOGIRL](https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [HYAT](https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b) | 2:45 | 2025-11-04 |  |
 | [GOLF R FREESTYLE](https://open.spotify.com/track/4l11vPYTqYrq9wjcO2pHDc) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [GOLF R FREESTYLE](https://open.spotify.com/album/0muYATiSO8VD8aNbUqGXdF) | 2:02 | 2024-06-28 | 2024-07-27 |
 | [Goluboi Wagon \(Голубой вагон\)](https://open.spotify.com/track/2N7jK08JNI0I6fd5sda4Wj) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1), [NILETTO](https://open.spotify.com/artist/7wHvox8DtmBBPpDFRVURv4), [Jaschka](https://open.spotify.com/artist/3AyxWqfjUeWLKWvxlmAtFZ), [equal](https://open.spotify.com/artist/3HkeiQiokrKJhhjZ9skb23) | [Goluboi Wagon \(Голубой вагон\)](https://open.spotify.com/album/3eGrPQaZ3PNiSEGAliezQB) | 3:13 | 2024-12-16 | 2025-02-25 |
 | [Gott vergib](https://open.spotify.com/track/7yuN0budKGasEeefoi2yTo) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [I Hit You](https://open.spotify.com/album/6VHDY4zu1XZ9THRfdEKVES) | 3:04 | 2025-10-02 | 2025-10-17 |

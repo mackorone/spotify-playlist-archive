@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAC7xejfcwov8WvY+EF+W2a7",
+  "snapshot_id": "aQfwgAAAAADxz2ReBkBj3EKyvaQaGw2n",
   "tracks": [
     {
       "added_at": null,
@@ -172,10 +172,6 @@
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
           "name": "Caddillac Tah",
           "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
         },
@@ -184,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 223360,
-      "name": "No One Does It Better - Remix",
-      "url": "https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9"
+      "duration_ms": 169560,
+      "name": "O.G. - Remix",
+      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
     },
     {
       "added_at": null,
@@ -215,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Informal Introduction OG",
-        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
+        "name": "Informal Introduction: Classic Edition",
+        "url": "https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO"
       },
       "artists": [
         {
@@ -228,9 +224,9 @@
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 282240,
+      "duration_ms": 280649,
       "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
+      "url": "https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56"
     },
     {
       "added_at": null,
@@ -288,6 +284,10 @@
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
           "name": "Caddillac Tah",
           "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
         },
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 169560,
-      "name": "O.G. - Remix",
-      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
+      "duration_ms": 223360,
+      "name": "No One Does It Better - Remix",
+      "url": "https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9"
     },
     {
       "added_at": null,

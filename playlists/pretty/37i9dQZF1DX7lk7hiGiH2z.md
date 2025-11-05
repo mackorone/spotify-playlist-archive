@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,461 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,466 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 25 | [Der Herbst hat bunte Blätter](https://open.spotify.com/track/4mwmmoYfQX3zeV0Rvsm4kY) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:26 |
 | 26 | [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 |
 | 27 | [Alle Vögel sind schon da](https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 1:48 |
-| 28 | [Hu Ha Halloween](https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 2:36 |
-| 29 | [Regentropfen hüpfen](https://open.spotify.com/track/7MF1PctTNipjb4vjnItEMZ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder \- Herbst \(2022\)](https://open.spotify.com/album/08D9Wpnkuq1Obo7ZMhGCe9) | 2:10 |
+| 28 | [Regentropfen hüpfen](https://open.spotify.com/track/7MF1PctTNipjb4vjnItEMZ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder \- Herbst \(2022\)](https://open.spotify.com/album/08D9Wpnkuq1Obo7ZMhGCe9) | 2:10 |
+| 29 | [Hu Ha Halloween](https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 2:36 |
 | 30 | [Die Kürbisfamilie](https://open.spotify.com/track/4U1hPQsPnTePxMcgc0jSP4) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für den Herbst](https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF) | 2:47 |
 | 31 | [Hallo Herbst](https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Herbst](https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s) | 2:43 |
 | 32 | [Langsam zieht der Herbst in's Land](https://open.spotify.com/track/6kA7a7xAqLoDEC9DgztIYF) | [Eddi & Dän](https://open.spotify.com/artist/16bEAeEFFLi2M6zQuI439D) | [Eddi & Dän singen noch mehr Kinderlieder a cappella, Vol\. 3](https://open.spotify.com/album/6FCNX9cYvGqGuLVbvg9VcD) | 1:38 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 46 | [Wunderbar, der Herbst ist da](https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Der Herbst ist cool!](https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q) | 3:26 |
 | 47 | [Die Nase läuft](https://open.spotify.com/track/1CbOIRwnpmH5nIoe8ihk0d) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:57 |
 | 48 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
-| 49 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 |
+| 49 | [Bunte Blätter \(Herbstlied\)](https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Die Herbstzeit ist da: 20 schönste Kinderlieder im Herbst](https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi) | 1:45 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 
 Snapshot ID: `AAAAAKWPlsQRjpdIkPM9GP3jM0b6TJV2`

@@ -1,6 +1,6 @@
 {
   "description": "Zonke's \"Work of Heart\" turns 10.",
-  "num_followers": 95257,
+  "num_followers": 95297,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -43,26 +43,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "The 4th Tick - A Clockumentary",
-        "url": "https://open.spotify.com/album/466CzP9nhIV9C1rXd46oud"
-      },
-      "artists": [
-        {
-          "name": "DJ Clock",
-          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
-        },
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Pluto (Remember You)",
-      "url": "https://open.spotify.com/track/3rl0m4eV5brBp1ER1uHUhN"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 258105,
       "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
       "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "The 4th Tick - A Clockumentary",
+        "url": "https://open.spotify.com/album/466CzP9nhIV9C1rXd46oud"
+      },
+      "artists": [
+        {
+          "name": "DJ Clock",
+          "url": "https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg"
+        },
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "Pluto (Remember You)",
+      "url": "https://open.spotify.com/track/3rl0m4eV5brBp1ER1uHUhN"
     },
     {
       "added_at": "2025-10-10 02:53:29",

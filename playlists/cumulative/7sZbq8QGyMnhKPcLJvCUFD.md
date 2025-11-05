@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-782 songs - 1 day 15 hr 9 min
+784 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-10 |
 | [Firefly](https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Firefly](https://open.spotify.com/album/3xjkwdRVxpZVcFEbVzQ0dw) | 4:16 | 2023-08-08 | 2024-02-10 |
 | [Firestarter](https://open.spotify.com/track/1TUKNbEWmCV4xkcQ2fKvkj) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Lack D](https://open.spotify.com/artist/3G5tB6xoKtda7r4pqEFAAB) | [Firestarter](https://open.spotify.com/album/6hb4md1GbTkSai4km9UpeN) | 2:51 | 2024-11-22 |  |
+| [First Class](https://open.spotify.com/track/2uh0bkoi1aAfov9AaOMu7R) | [NORTHNIGHT](https://open.spotify.com/artist/0evEuKn6HnhCsJRMjg5LfD) | [First Class](https://open.spotify.com/album/1TPia8OudW1b5kWMT0KV2C) | 2:30 | 2025-11-04 |  |
 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 | 2023-03-17 | 2023-08-10 |
 | [Flutter](https://open.spotify.com/track/7cVEshyrawmEYmtqYtwoPy) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Flutter](https://open.spotify.com/album/5LrOkZ1rrpRyeM9Tbd3wJ6) | 4:00 | 2023-08-08 | 2023-12-14 |
 | [Fly](https://open.spotify.com/track/0AvkdeWPdMqjhGsYTwwo21) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY) | [Fly](https://open.spotify.com/album/0aAbSb3VaYpnGozXxfh2zy) | 3:44 | 2023-07-06 | 2023-08-10 |
@@ -569,6 +570,7 @@
 | [Realize](https://open.spotify.com/track/1GIUBSDNFxbojhlaKFtW6p) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 3:00 | 2023-07-06 | 2023-08-10 |
 | [Reason](https://open.spotify.com/track/4LNb4Xk3byVi4LVi7FE34E) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY), [Sam Nolan](https://open.spotify.com/artist/3CCvYAGH3giUtExJH0InLZ) | [Reason](https://open.spotify.com/album/15lJPipHfaSSulHOeVk6SZ) | 2:37 | 2025-05-30 |  |
 | [Reason](https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Remy Night](https://open.spotify.com/artist/4qusdQods4dr1nhyFKy83j) | [Reason](https://open.spotify.com/album/1Ve9M0vmXgLe4P3Ol4kaa6) | 3:00 | 2023-12-13 | 2024-05-08 |
+| [Recall](https://open.spotify.com/track/53WBImxa8UCdByzSJaBRSd) | [gabriawll](https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH) | [Recall](https://open.spotify.com/album/40MFPgsXd3lrKngz7Ta2jd) | 2:05 | 2025-11-04 |  |
 | [Red Lights](https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Red Lights](https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5) | 3:18 | 2024-05-31 | 2024-12-09 |
 | [Redemption](https://open.spotify.com/track/7N267HKpnzJzqToo5KcaoF) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Redemption](https://open.spotify.com/album/6M8MlEiGhdNwCrcqAUS23H) | 2:37 | 2023-08-08 | 2024-04-06 |
 | [Redemption](https://open.spotify.com/track/11hQpTbTymxIZzSmabCd9b) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Redemption](https://open.spotify.com/album/7Dl2QenOQCV2oRvbfugT7m) | 4:05 | 2022-09-29 | 2023-04-28 |

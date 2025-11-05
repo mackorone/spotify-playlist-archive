@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 135345,
+  "num_followers": 135346,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,26 @@
     {
       "added_at": "2025-10-31 17:22:11",
       "album": {
+        "name": "Cop\u00e3o",
+        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 157850,
+      "name": "Cop\u00e3o",
+      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
+    },
+    {
+      "added_at": "2025-10-31 17:22:11",
+      "album": {
         "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
         "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 160000,
       "name": "RANDANDAN",
       "url": "https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX"
-    },
-    {
-      "added_at": "2025-10-31 17:22:11",
-      "album": {
-        "name": "Cop\u00e3o",
-        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 157850,
-      "name": "Cop\u00e3o",
-      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
     },
     {
       "added_at": "2025-10-31 17:22:11",
@@ -559,30 +559,6 @@
       "duration_ms": 153600,
       "name": "Modelo Brasileiro",
       "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
-    },
-    {
-      "added_at": "2025-10-31 17:22:11",
-      "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 177877,
-      "name": "Dose de Gin",
-      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
     },
     {
       "added_at": "2025-10-31 17:22:11",
@@ -619,6 +595,30 @@
       "duration_ms": 228571,
       "name": "MAL INTENCIONADA (J\u00c1 FOI, J\u00c1 ERA)",
       "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
+    },
+    {
+      "added_at": "2025-10-31 17:22:11",
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 177877,
+      "name": "Dose de Gin",
+      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
     },
     {
       "added_at": "2025-10-31 17:22:11",

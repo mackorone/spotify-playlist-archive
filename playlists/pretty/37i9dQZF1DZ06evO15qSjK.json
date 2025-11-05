@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 174161,
+  "num_followers": 174155,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABSuIeKkl9swd4A5dU1Caic",
+  "snapshot_id": "aQfwgAAAAAAyJv8InH5hGwy4ClhKV5pb",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/2pMvyKuREhYRVIvM2nHnfo"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 195971,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/373jtpcw2vEdUwyWeIoIHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2021",
         "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 170239,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/2pMvyKuREhYRVIvM2nHnfo"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 195971,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/373jtpcw2vEdUwyWeIoIHG"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+        "name": "KIDZ BOP Megapop",
+        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 179247,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
+      "duration_ms": 198333,
+      "name": "That's Not My Name",
+      "url": "https://open.spotify.com/track/0K9xvFSBFD1vyvIBB50RnL"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Megapop",
-        "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 198333,
-      "name": "That's Not My Name",
-      "url": "https://open.spotify.com/track/0K9xvFSBFD1vyvIBB50RnL"
+      "duration_ms": 179247,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 37",
-        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP Megapop",
         "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 205506,
       "name": "Rumour Has It",
       "url": "https://open.spotify.com/track/1pl6PjgoyVuI5v553XO112"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 37",
+        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 184956,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP Megapop",
         "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 223533,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/4ct4lFBPFzEiXYsYGG8zv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 184956,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 134148,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP Megapop",
         "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 168279,
       "name": "10,000 Hours",
       "url": "https://open.spotify.com/track/3swVZl6ayrUkNaujFC9XeS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 134148,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/3nti4U2l0xqKTSbvMJz9az"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 151093,
-      "name": "Purple People Eater",
-      "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
+      "duration_ms": 184591,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/1kpyrSrztFItjIK2rIeynv"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/3nti4U2l0xqKTSbvMJz9az"
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 184591,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/1kpyrSrztFItjIK2rIeynv"
+      "duration_ms": 151093,
+      "name": "Purple People Eater",
+      "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
     },
     {
       "added_at": null,

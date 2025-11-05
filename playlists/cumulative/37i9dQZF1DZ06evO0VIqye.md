@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 5 min
+58 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bad as We Can Be](https://open.spotify.com/track/5xBnwSHVVnoibWwoWt9pMa) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:53 | 2025-09-03 | 2025-09-17 |
 | [Bad Karma \(feat\. Joan Jett\)](https://open.spotify.com/track/47KegqqrzpKw0jdHFWqtNb) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:08 | 2025-03-08 |  |
 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 | 2025-03-08 |  |
-| [Band Intros \- Live](https://open.spotify.com/track/0dOQ4qzbfNVB5zEvCreGgX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K), [Blackhearts](https://open.spotify.com/artist/5mJzqDKepWgcC9IeHNTCKa) | [I Love Rock 'N' Roll \(Live At The New York Bottom Line, Dec 20th 1980\)](https://open.spotify.com/album/6fG2kqSgt8sM99iJj3keTJ) | 0:39 | 2025-10-30 |  |
+| [Band Intros \- Live](https://open.spotify.com/track/0dOQ4qzbfNVB5zEvCreGgX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K), [Blackhearts](https://open.spotify.com/artist/5mJzqDKepWgcC9IeHNTCKa) | [I Love Rock 'N' Roll \(Live At The New York Bottom Line, Dec 20th 1980\)](https://open.spotify.com/album/6fG2kqSgt8sM99iJj3keTJ) | 0:39 | 2025-10-30 | 2025-11-05 |
 | [Cherry Bomb](https://open.spotify.com/track/5Eald1GAoLr6NNtOkgOaMO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd) | 2:35 | 2025-03-08 |  |
 | [Crimson and Clover](https://open.spotify.com/track/4do0Z0rHdFUV3RSMxMQsdq) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 3:17 | 2025-03-08 |  |
 | [Different](https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:36 | 2025-05-07 |  |
@@ -65,5 +65,6 @@
 | [You Don't Know What You've Got](https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:43 | 2025-03-08 |  |
 | [You Don't Own Me](https://open.spotify.com/track/05ok9A1VF7Nk2v0UW98QcN) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:27 | 2025-03-08 |  |
 | [You Drive Me Wild](https://open.spotify.com/track/6I5Taz8OHaWBy6KqoMYYEf) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:52 | 2025-03-08 |  |
+| [You Want In, I Want Out](https://open.spotify.com/track/4nPfw7JheKRSPFhqRxPdrQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:15 | 2025-11-05 |  |
 
 \*This playlist was first scraped on 2025-03-08. Prior content cannot be recovered.

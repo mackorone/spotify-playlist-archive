@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-178 songs - 10 hr 5 min
+179 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Give a Little](https://open.spotify.com/track/0Umdck3EQINZfO78t4fPXN) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL), [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [give a little](https://open.spotify.com/album/1zDpN5yfHwpqzJNXP2t7MN) | 2:49 | 2023-05-13 |  |
 | [Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:28 | 2024-03-08 |  |
 | [GOT IT MAID \(CG5 VERSION\)](https://open.spotify.com/track/5Fyzs4GZ6D48SalVZFeKh8) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Glitch Whisper](https://open.spotify.com/artist/1Jhi8R6zNodyhHadhC9IDe) | [GOT IT MAID \(CG5 VERSION\)](https://open.spotify.com/album/6lN5CKNmh8nSkDDHpywD0P) | 2:41 | 2025-09-27 |  |
+| [Gravity](https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij) | [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Gravity](https://open.spotify.com/album/74HNHfB066STy568ETJsPl) | 1:53 | 2025-11-04 |  |
 | [GRRRLS](https://open.spotify.com/track/5f6JnxY2aqNdF3qFIPozUd) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOLUME I](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO) | 3:48 | 2024-03-08 |  |
 | [Hasselhoff 2017](https://open.spotify.com/track/0sckxc84LeC5e1tZaJmgYg) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Hasselhoff 2017](https://open.spotify.com/album/1TZBg3vTzclGvoi1krXuyX) | 3:26 | 2018-12-06 |  |
 | [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 | 2022-01-26 |  |

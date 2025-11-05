@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 281840,
       "name": "Just Drive",
       "url": "https://open.spotify.com/track/0xIDNsqh5vgRClu4t31F7b"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 208386,
       "name": "Mamma Don't Let Your Babies",
       "url": "https://open.spotify.com/track/3H5oawvGT6dOQhDdhyiypw"
@@ -2073,6 +2073,36 @@
     },
     {
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Steve Ford",
+          "url": "https://open.spotify.com/artist/3w3POrLv9wRAYjuPWOwj8C"
+        },
+        {
+          "name": "Steve Forde",
+          "url": "https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Spirit of the Bush - Remastered 2017",
+      "url": "https://open.spotify.com/track/6zZUz5d1IbmEz3ckpDZiC0"
+    },
+    {
+      "album": {
         "name": "Spirit of the Bush (Remastered 2017)",
         "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
       },
@@ -2092,7 +2122,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 213493,
       "name": "Spirit of the Bush - Remastered 2017",
       "url": "https://open.spotify.com/track/2h1nMiUCpMA3kLrtjIUe8h"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Weekly new Hardstyle releases! Cover: Da Tweekaz",
+  "description": "Weekly new Hardstyle releases! Cover: Digital Punk",
   "name": "Hardstyle Adrenaline! 2025",
   "tracks": [
     {
@@ -2315,6 +2315,32 @@
     },
     {
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/3XuFyvJmX0CF4IlrGvkA9r"
+      },
+      "artists": [
+        {
+          "name": "KROMA",
+          "url": "https://open.spotify.com/artist/2XsKhGOiMsoOmHgckUMpZa"
+        },
+        {
+          "name": "New Beat Order",
+          "url": "https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea"
+        },
+        {
+          "name": "Seeko",
+          "url": "https://open.spotify.com/artist/6CE5ddAC32B4XKW6y0bbR3"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/3m2dgCQagVWkSha04cZn23"
+    },
+    {
+      "album": {
         "name": "BAD GIRLS",
         "url": "https://open.spotify.com/album/0RD7qFjFhVP3tI4phaRdBJ"
       },
@@ -3121,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "Beyond Oblivion",
+        "url": "https://open.spotify.com/album/2hHPMlHeI0u7DCMQIRAq3c"
+      },
+      "artists": [
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240766,
+      "name": "Beyond Oblivion",
+      "url": "https://open.spotify.com/track/5eQp2oQ0v1x3BPPn5W4B68"
+    },
+    {
+      "album": {
         "name": "The Second Dose",
         "url": "https://open.spotify.com/album/3zShX0xTLDzcTV2dvG7mDk"
       },
@@ -3772,6 +3816,24 @@
       "duration_ms": 207347,
       "name": "Bodyrock",
       "url": "https://open.spotify.com/track/7tiQMowzNWzn6Q8oGZYqXI"
+    },
+    {
+      "album": {
+        "name": "BOMBS_ON_THE_ENEMY",
+        "url": "https://open.spotify.com/album/5liQPUJnPHcl98M4RuYdYR"
+      },
+      "artists": [
+        {
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180765,
+      "name": "BOMBS_ON_THE_ENEMY",
+      "url": "https://open.spotify.com/track/0bzTS7iP9yZQgVVmTsJ6wQ"
     },
     {
       "album": {
@@ -6106,7 +6168,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 186079,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4m0V5nudeFxa6Z86KOjL3M"
@@ -6769,6 +6831,24 @@
     },
     {
       "album": {
+        "name": "Dance With Madness",
+        "url": "https://open.spotify.com/album/680NS3MXD6XGRIqulckpeM"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241545,
+      "name": "Dance With Madness",
+      "url": "https://open.spotify.com/track/2IwzdVJnPs4sptS1wkfya3"
+    },
+    {
+      "album": {
         "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/3qZxkKR5gxdgm0pTVC7WZw"
       },
@@ -6956,6 +7036,24 @@
       "duration_ms": 204800,
       "name": "Darkest Night",
       "url": "https://open.spotify.com/track/4F0hY9s0LJ6KQPhWRVFNPh"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/6XIZa12PtTghAsvsK4HGz2"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174683,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/1WfWs1UkAUo8z39lmCv55W"
     },
     {
       "album": {
@@ -7690,7 +7788,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 139503,
       "name": "Dirty Bassline",
       "url": "https://open.spotify.com/track/71nwaFnEU66Y85hqMx2kyn"
@@ -8470,7 +8568,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 230903,
       "name": "Drift",
       "url": "https://open.spotify.com/track/331sXeg3qYyLU6jsonBSxP"
@@ -9218,7 +9316,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 237282,
       "name": "END OF THE STORY",
       "url": "https://open.spotify.com/track/3bXf6qTwqb4MokY29KnsnV"
@@ -9579,6 +9677,28 @@
     },
     {
       "album": {
+        "name": "Euphorians",
+        "url": "https://open.spotify.com/album/073c9guhk6hemFlmG5ir7K"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Dark-E",
+          "url": "https://open.spotify.com/artist/6M402lSr59FPt4ChG6Zho7"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Euphorians",
+      "url": "https://open.spotify.com/track/2zBW9GuqVijNw0YH8YdxU4"
+    },
+    {
+      "album": {
         "name": "Europapa: Greatest Hits",
         "url": "https://open.spotify.com/album/7xyZRItvB1QLR3Sj83VDqx"
       },
@@ -9718,6 +9838,32 @@
       "duration_ms": 192117,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/07Sd6RW1HjiRutXnG0xL2d"
+    },
+    {
+      "album": {
+        "name": "Execute",
+        "url": "https://open.spotify.com/album/53R9LSPJceqyFumJJ56MqL"
+      },
+      "artists": [
+        {
+          "name": "Revelation",
+          "url": "https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw"
+        },
+        {
+          "name": "Damaxy",
+          "url": "https://open.spotify.com/artist/7iH754eigCrs80sQ08MFAx"
+        },
+        {
+          "name": "Detailed",
+          "url": "https://open.spotify.com/artist/4iqEVZEav7vIiv1HStr6Gx"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195003,
+      "name": "Execute",
+      "url": "https://open.spotify.com/track/5uoJhrEu7s7ILjhFDNdoB7"
     },
     {
       "album": {
@@ -10964,7 +11110,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 210611,
       "name": "Fly",
       "url": "https://open.spotify.com/track/0rsOzWSxUw929t8p64WaTU"
@@ -11244,7 +11390,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 185250,
       "name": "Forever Lost",
       "url": "https://open.spotify.com/track/6gf2L7fOQOfc9MYJlCPmKi"
@@ -11398,7 +11544,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 189374,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/5eoT7pisuhKQ0btdU6GXj9"
@@ -13726,7 +13872,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 190500,
       "name": "Highway To Heaven",
       "url": "https://open.spotify.com/track/2tZ3W6l96sx0A3mRoy0LdO"
@@ -14442,7 +14588,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 139354,
       "name": "I Am",
       "url": "https://open.spotify.com/track/2Gd2YuYpadGMsLA1cGBKUL"
@@ -17325,6 +17471,32 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6gCXczP4Xq1BsIwqtIqDOx"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        },
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/4aJh1izMvbKRXW4lYT1zbU"
+    },
+    {
+      "album": {
         "name": "Legendary Days",
         "url": "https://open.spotify.com/album/1cKE4N7SuHLkHMFyVhB5Wn"
       },
@@ -17950,7 +18122,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 225750,
       "name": "Like A Ghost",
       "url": "https://open.spotify.com/track/0MveIhSClzKdeS9dGadnlI"
@@ -18202,6 +18374,28 @@
       "duration_ms": 210580,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+    },
+    {
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/6aSk55aNBCKjrVjcj9Epks"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/7f1zQQn2zgR6Lix5NtJcS9"
     },
     {
       "album": {
@@ -18540,7 +18734,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 189580,
       "name": "Lose My Faith",
       "url": "https://open.spotify.com/track/7DWM59v5MIiWUUaKHBO4R0"
@@ -19880,7 +20074,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 144800,
       "name": "MF GO!",
       "url": "https://open.spotify.com/track/4q3hobQsGGyrtk63JZbKSq"
@@ -23003,6 +23197,24 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191153,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd"
+    },
+    {
+      "album": {
         "name": "Op Een Dag (Gaan We Allemaal Naar De Hemel)",
         "url": "https://open.spotify.com/album/2xtUO7oONmvTzPvsOF9s2T"
       },
@@ -23264,7 +23476,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 174750,
       "name": "Out Of Control",
       "url": "https://open.spotify.com/track/2Ygt4WhYUsfPTe1VcdfPLd"
@@ -23378,6 +23590,24 @@
       "duration_ms": 166600,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/7DDagCsWCjgoTGF19hmZ2A"
+    },
+    {
+      "album": {
+        "name": "Outro",
+        "url": "https://open.spotify.com/album/3pUJwPC75JQzqq76qQdIUA"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144814,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/4zmRv5Br7ZFMAUHeqiPQ8R"
     },
     {
       "album": {
@@ -24498,7 +24728,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 161634,
       "name": "PULL THE TRIGGER",
       "url": "https://open.spotify.com/track/0X27H1lv1ams6VqJEip8LW"
@@ -24666,7 +24896,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 187117,
       "name": "R.F.U. - Official REBELLiON Outdoor 2025 Anthem",
       "url": "https://open.spotify.com/track/5TJxu1KQWzxgu3xSsELCPa"
@@ -26887,6 +27117,32 @@
     },
     {
       "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/380wgMwmLKpQrQQhknOeH3"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Drean",
+          "url": "https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178048,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/6s8UaJxhkAl06ZbQ3yBtFU"
+    },
+    {
+      "album": {
         "name": "RUNNIN",
         "url": "https://open.spotify.com/album/5e23jQwbHR0ijCzjGT5Omb"
       },
@@ -27718,7 +27974,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 228340,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/7aIgUTEPXjRH19raLJwRMG"
@@ -28500,7 +28756,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 176500,
       "name": "Stand As One",
       "url": "https://open.spotify.com/track/6oa2Yi4Nk0RUklHk0jaS1n"
@@ -29422,7 +29678,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 191472,
       "name": "Summer Of 69",
       "url": "https://open.spotify.com/track/07xYzmiyu0RV0viHgR1yWQ"
@@ -30572,7 +30828,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 181720,
       "name": "The Approach",
       "url": "https://open.spotify.com/track/0R0xwSPf9ZxPbnvzogVkxq"
@@ -30824,6 +31080,24 @@
       "duration_ms": 248096,
       "name": "The Devils Hour",
       "url": "https://open.spotify.com/track/6Z0TVpgocjdUtKVUopGDjY"
+    },
+    {
+      "album": {
+        "name": "Open Heart Surgery",
+        "url": "https://open.spotify.com/album/0819GXlOhMJJYUvMqdpYdl"
+      },
+      "artists": [
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "The Dream Where I Never Died",
+      "url": "https://open.spotify.com/track/6d1pgN8XwwB6ylIVnDl7NW"
     },
     {
       "album": {
@@ -32884,7 +33158,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 170872,
       "name": "Time Is Running Out",
       "url": "https://open.spotify.com/track/58BGPGKkurKimKSnLA5L1k"
@@ -33012,7 +33286,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 202261,
       "name": "To The Dome",
       "url": "https://open.spotify.com/track/5EBlYbKR0daHfUakRgMUbN"
@@ -33224,6 +33498,28 @@
       "duration_ms": 170126,
       "name": "Top Of The World",
       "url": "https://open.spotify.com/track/1Bqj5mEyA7Cse0eoku4LQt"
+    },
+    {
+      "album": {
+        "name": "Touch My Body",
+        "url": "https://open.spotify.com/album/5nAzY0bQlWRXVJXPAQ3bb4"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "TwinTigerz",
+          "url": "https://open.spotify.com/artist/0pEKh68H0lmNrnAwV2aU4B"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Touch My Body",
+      "url": "https://open.spotify.com/track/2DTnNxfb69aYYMll16F21t"
     },
     {
       "album": {
@@ -34200,6 +34496,24 @@
       "duration_ms": 236437,
       "name": "UP IN FLAMES",
       "url": "https://open.spotify.com/track/4SBVH5ArfSTyH7OM8UGYJ9"
+    },
+    {
+      "album": {
+        "name": "Up In Flames",
+        "url": "https://open.spotify.com/album/4YfIl21LibHPsHQYfdZSyj"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Up In Flames",
+      "url": "https://open.spotify.com/track/3afBhAnP5NBrG8sdXSUDXO"
     },
     {
       "album": {
@@ -35750,7 +36064,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 141980,
       "name": "WELCOME TO THE PARTY",
       "url": "https://open.spotify.com/track/22fDW6KZWWzIIi9cPbEpo6"
@@ -35794,7 +36108,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 189352,
       "name": "WHAT THA HELLY (SOMEONE CALL THE AMBULANCE)",
       "url": "https://open.spotify.com/track/1QIBLPZqpqETKtuMLpHAN4"

@@ -4,7 +4,7 @@
 
 > Lift our voices to Him.
 
-242 songs - 14 hr 34 min
+243 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Mercy and Compassion](https://open.spotify.com/track/0Rso90siipxjbVbCagAfdp) | [Fr\. Raul G\. Caga SVD](https://open.spotify.com/artist/2zioTijO3b2H3KX9w9DmmL), [Cardinal Chito G\. Tagle](https://open.spotify.com/artist/1qoIwahhPAnFxTgdFlN1r1) | [Gracious Mercy](https://open.spotify.com/album/75Px91lECnZlOf1Dmk5euQ) | 5:15 | 2024-04-18 |  |
 | [Nakita Ko Ang Tubig](https://open.spotify.com/track/2a20l8hfQCNzXQihvUHOBJ) | [Pansol Choir](https://open.spotify.com/artist/5F5L19pYLUx3cjhT4baMEZ) | [Tubig at Liwanag \(Mga Awitin Para sa Pagdiriwang at Paggawad ng mga Sakramento\)](https://open.spotify.com/album/52hU76MBzQPTnKlnlxqzmP) | 1:56 | 2025-04-12 | 2025-04-21 |
 | [Nakita Ko Ang Tubig \(Salin ng "Vidi Aquam" Aklat ng Pagmimisa sa Roma\)](https://open.spotify.com/track/117zL2y3aPVfaNm7lZkOrF) | [Pansol Choir](https://open.spotify.com/artist/5F5L19pYLUx3cjhT4baMEZ) | [Nakita Ko Ang Tubig \(Salin ng "Vidi Aquam" Aklat ng Pagmimisa sa Roma\)](https://open.spotify.com/album/5EpD0348ZxIRDbwXsEhTFD) | 1:56 | 2024-10-24 |  |
+| [Nananabik](https://open.spotify.com/track/7k9NTyyjsP7TaIZTfzqpK9) | [Just Worship](https://open.spotify.com/artist/2YzoJVKgWstOOAoDUBjqc4), [Ferdinand Aragon](https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk) | [Nananabik](https://open.spotify.com/album/677gamZVNWtW0bwSmQYg6J) | 5:45 | 2025-11-05 |  |
 | [Narito Ako](https://open.spotify.com/track/0p5ERquOBFWKfuHLgwPuuY) | [Principle and Foundation Band](https://open.spotify.com/artist/16H0kN4CM67n9O6QKw5LD6), [Rene Salvador R\. San Andres](https://open.spotify.com/artist/7bYcCCwbqSbje2ihVsv0os) | [Narito Ako Pabaon ng Manlalakbay \(Remastered\)](https://open.spotify.com/album/0zpkyHntOJ5oYcNBdF94b8) | 4:42 | 2023-05-27 |  |
 | [Narito Ako \- Remastered 2021](https://open.spotify.com/track/0GPRtwq2gMcrLYnhPhiN8k) | [Principle and Foundation Band](https://open.spotify.com/artist/16H0kN4CM67n9O6QKw5LD6), [Rene Salvador R\. San Andres](https://open.spotify.com/artist/7bYcCCwbqSbje2ihVsv0os) | [Narito Ako Pabaon ng Manlalakbay \(Remastered 2021\)](https://open.spotify.com/album/1zbyEeXqb602pP0gVHFBHj) | 4:42 | 2023-05-27 | 2024-04-19 |
 | [Ningas ng Pag\-asa \- ft\. 92AD](https://open.spotify.com/track/3IkNBcZ3CxPAtD6G97QqVs) | [Jamie Rivera](https://open.spotify.com/artist/4w9rFB4pUAUO3OloDQ6wn7), [92AD](https://open.spotify.com/artist/1IIUCCQmVJM5QMDL7r8kwO) | [Ningas ng Pag\-asa \(ft\. 92AD\)](https://open.spotify.com/album/5uAdXddyxuV9iu579QVleU) | 3:48 | 2024-10-24 |  |

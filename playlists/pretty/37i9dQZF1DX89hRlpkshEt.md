@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89hRlpkshEt.md) - [plain]
 
 > Entdecke deinen neuen Lieblings\-Podcast! Diese Folgen von Creator\*innen gehören definitiv auf dein RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 10 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 10 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [\#118 Girlboss Era unlocked \- über Female Founders und Showgirls](https://open.spotify.com/episode/0MmlSzzixF3QHhj6Wl6spL) | [She's talking](https://open.spotify.com/show/440jF0rDAbCyw3YTZjA9yC) | [She's talking](https://open.spotify.com/album/440jF0rDAbCyw3YTZjA9yC) | 1:00:25 |
-| 2 | [\#116 Rizz der zu weit geht ](https://open.spotify.com/episode/6B5WpmZhIwMP0tWgK8Kuz3) | [She's talking](https://open.spotify.com/show/440jF0rDAbCyw3YTZjA9yC) | [She's talking](https://open.spotify.com/album/440jF0rDAbCyw3YTZjA9yC) | 1:06:03 |
-| 3 | [Unreife Menschen daten..\. Bitte hört auf damit!](https://open.spotify.com/episode/4AY1B2f1uvCq1ohp0tPYVk) | [KEINE FREUNDE](https://open.spotify.com/show/0zxuE5hpexs5uMpSX6lhen) | [KEINE FREUNDE](https://open.spotify.com/album/0zxuE5hpexs5uMpSX6lhen) | 59:26 |
-| 4 | [Paranormale Storys \- Dinge, die man sich nicht erklären kann..](https://open.spotify.com/episode/358oMvlMc27EbCfuDacgkv) | [KEINE FREUNDE](https://open.spotify.com/show/0zxuE5hpexs5uMpSX6lhen) | [KEINE FREUNDE](https://open.spotify.com/album/0zxuE5hpexs5uMpSX6lhen) | 57:37 |
-| 5 | [Ein Nepo\-Baby übernimmt die Vogue \(Dank Mama\) ](https://open.spotify.com/episode/4TG11cgvoxnGtd3Pglg4AU) | [The Daily Debrief](https://open.spotify.com/show/5YjvY2tCCY6ZmOPhkYDRFA) | [The Daily Debrief](https://open.spotify.com/album/5YjvY2tCCY6ZmOPhkYDRFA) | 29:55 |
-| 6 | [MrBeast: Fake\-Videos & echte Millionen?](https://open.spotify.com/episode/74I47v8mVoOmAFVWPdMrul) | [The Daily Debrief](https://open.spotify.com/show/5YjvY2tCCY6ZmOPhkYDRFA) | [The Daily Debrief](https://open.spotify.com/album/5YjvY2tCCY6ZmOPhkYDRFA) | 40:57 |
-| 7 | [\#169 Swifties enttäuscht: Taylor, Travis & Donald Trump](https://open.spotify.com/episode/1p0VBdlulhIdbk0Tq5f6af) | [Okay, ciao! Der Popkultur Podcast](https://open.spotify.com/show/4fC3q6tROttOr9InMyxHVQ) | [Okay, ciao! Der Popkultur Podcast](https://open.spotify.com/album/4fC3q6tROttOr9InMyxHVQ) | 44:21 |
-| 8 | [\#168 Heidis Fest: Homophobie auf Deutschlands queersten Oktoberfest](https://open.spotify.com/episode/3kCtsL5iXj0mZhwrtnsZNS) | [Okay, ciao! Der Popkultur Podcast](https://open.spotify.com/show/4fC3q6tROttOr9InMyxHVQ) | [Okay, ciao! Der Popkultur Podcast](https://open.spotify.com/album/4fC3q6tROttOr9InMyxHVQ) | 45:26 |
-| 9 | [\#73 Oktoberfest Eskalation ](https://open.spotify.com/episode/1xkF0jUkn23coKx3zQuB2p) | [Sisterhood](https://open.spotify.com/show/15TyAIfOcF1FaSx9r53GPe) | [Sisterhood](https://open.spotify.com/album/15TyAIfOcF1FaSx9r53GPe) | 50:08 |
-| 10 | [\# 69 \- unser neues Familienmitglied](https://open.spotify.com/episode/6964Dj6YoRJiH0FemE46jC) | [Sisterhood](https://open.spotify.com/show/15TyAIfOcF1FaSx9r53GPe) | [Sisterhood](https://open.spotify.com/album/15TyAIfOcF1FaSx9r53GPe) | 45:25 |
+| 1 | [\#76 unser Billboard in New York😭😍](https://open.spotify.com/episode/6dCHMLtaENn6U3swCX5Fv4) | [Sisterhood](https://open.spotify.com/show/15TyAIfOcF1FaSx9r53GPe) | [Sisterhood](https://open.spotify.com/album/15TyAIfOcF1FaSx9r53GPe) | 49:01 |
+| 2 | [\# 77 das Kennenlernen](https://open.spotify.com/episode/2mR4l7w8udnBriM4zZP9ew) | [Sisterhood](https://open.spotify.com/show/15TyAIfOcF1FaSx9r53GPe) | [Sisterhood](https://open.spotify.com/album/15TyAIfOcF1FaSx9r53GPe) | 40:53 |
+| 3 | [Katy Perry datet Politiker, Nicki Minaj KI\-Rebellion & Louvre Juwelen\-Haul ](https://open.spotify.com/episode/7IWjvje9Aub4hAcS8tRJ6T) | [Okay, ciao! Der Popkultur Podcast](https://open.spotify.com/show/4fC3q6tROttOr9InMyxHVQ) | [Okay, ciao! Der Popkultur Podcast](https://open.spotify.com/album/4fC3q6tROttOr9InMyxHVQ) | 31:50 |
+| 4 | [\#172 "Boah, Bahn" einfach unnötig & Britney Spears zurück in die Vormundschaft?](https://open.spotify.com/episode/1CaHBJbltt7UjtcuzJVQKb) | [Okay, ciao! Der Popkultur Podcast](https://open.spotify.com/show/4fC3q6tROttOr9InMyxHVQ) | [Okay, ciao! Der Popkultur Podcast](https://open.spotify.com/album/4fC3q6tROttOr9InMyxHVQ) | 33:25 |
+| 5 | [DER ANONYME ANRUFER \- Eure kranken Storys..](https://open.spotify.com/episode/5oxSsXo6qUmAcCj6I7VudP) | [KEINE FREUNDE](https://open.spotify.com/show/0zxuE5hpexs5uMpSX6lhen) | [KEINE FREUNDE](https://open.spotify.com/album/0zxuE5hpexs5uMpSX6lhen) | 58:55 |
+| 6 | [„Das ist KEINE LIEBE! Wenn Liebe Angst macht…“](https://open.spotify.com/episode/60oqe1dgMTvY3KJ4QCQkwf) | [KEINE FREUNDE](https://open.spotify.com/show/0zxuE5hpexs5uMpSX6lhen) | [KEINE FREUNDE](https://open.spotify.com/album/0zxuE5hpexs5uMpSX6lhen) | 1:02:39 |
+| 7 | [\#122 über die abgef\*\*ckten Seiten der Musikindustrie, Rachealben & Christfluencer](https://open.spotify.com/episode/5siWFcnRIwGhGomAeIrC2p) | [She's talking](https://open.spotify.com/show/440jF0rDAbCyw3YTZjA9yC) | [She's talking](https://open.spotify.com/album/440jF0rDAbCyw3YTZjA9yC) | 1:11:25 |
+| 8 | [\#121 genau so denken die Töchter nämlich....](https://open.spotify.com/episode/5CsQZvbSIoCOYEzN2b7cdE) | [She's talking](https://open.spotify.com/show/440jF0rDAbCyw3YTZjA9yC) | [She's talking](https://open.spotify.com/album/440jF0rDAbCyw3YTZjA9yC) | 56:23 |
+| 9 | [Das ultimative Pick\-Me Girl? : Christ\-Influencerinnen](https://open.spotify.com/episode/5C7U8Oh8zq8fE2PkOMi2zL) | [The Daily Debrief](https://open.spotify.com/show/5YjvY2tCCY6ZmOPhkYDRFA) | [The Daily Debrief](https://open.spotify.com/album/5YjvY2tCCY6ZmOPhkYDRFA) | 35:22 |
+| 10 | [Ist der Fall Rebecca Reusch kurz vor dem Durchbruch?](https://open.spotify.com/episode/7BF9TY9iLN5SfXBqGq1c5F) | [The Daily Debrief](https://open.spotify.com/show/5YjvY2tCCY6ZmOPhkYDRFA) | [The Daily Debrief](https://open.spotify.com/album/5YjvY2tCCY6ZmOPhkYDRFA) | 42:59 |
 
-Snapshot ID: `AAAAABpW3OS8X7aXlHCYWJllh4rQSYq5`
+Snapshot ID: `AAAAAFQqFYliJP8ZnzqKgEKlkZ7ehrQT`

@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。
 
-384 songs - 23 hr 17 min
+385 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [You & I](https://open.spotify.com/track/72ssNVSfuvYH39CLVDGh3F) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [You & I](https://open.spotify.com/album/45N5Sz0eCAuU90MYKF61Xl) | 4:30 | 2023-11-07 | 2023-11-16 |
 | [Your Favorite Things](https://open.spotify.com/track/1BChLfdJmv6rPKnZyTNOQ2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:20 | 2024-02-28 | 2024-04-03 |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-10-20 | 2022-10-26 |
+| [“You're the Best Person in This World”](https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 4:05 | 2025-11-04 |  |
 | [あいこ](https://open.spotify.com/track/429C5mffD678cT8sUm2BZm) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [あいこ](https://open.spotify.com/album/6Cg2eW5eFytybKykpaZtjH) | 3:27 | 2022-11-08 | 2022-11-30 |
 | [あのうたがきこえる \- feat.Ema & 吉田沙良\(モノンクル\)](https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6) | [象眠舎](https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6), [Ema](https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1), [吉田沙良\(モノンクル\)](https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj) | [あのうたがきこえる \[feat.Ema & 吉田沙良\(モノンクル\)\]](https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM) | 6:48 | 2023-05-16 | 2023-08-18 |
 | [あめ](https://open.spotify.com/track/3krw9tEZvkPK2EIxgDSohn) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [あめ](https://open.spotify.com/album/0SvQEjDT5o6DNKNXmTRhEK) | 2:46 | 2023-05-31 | 2023-06-01 |
@@ -262,7 +263,7 @@
 | [そんなbitterな話](https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:36 | 2023-11-16 | 2024-04-19 |
 | [ただで太った人生](https://open.spotify.com/track/3lYf2H0Vc0wQGj4OBhIRu5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI) | 2:42 | 2022-11-30 | 2022-12-01 |
 | [ため息とコーヒー](https://open.spotify.com/track/48SAdZAFQGySWizWud8JxA) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2), [A SCHOOOOL](https://open.spotify.com/artist/5OjUQ6Z5H0rWIuOEQNBQb4) | [ため息とコーヒー](https://open.spotify.com/album/4CzTs9BMIvhJTKvqAJGyZD) | 3:44 | 2023-01-31 | 2023-03-08 |
-| [ときめき探偵](https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [ときめき探偵](https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y) | 3:09 | 2025-10-14 |  |
+| [ときめき探偵](https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [ときめき探偵](https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y) | 3:09 | 2025-10-14 | 2025-11-05 |
 | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/track/4AbZgR1V8c4zE63y51GXOL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv) | 2:57 | 2023-07-18 | 2023-09-08 |
 | [ひとめもり](https://open.spotify.com/track/1mMDVySZj0nMBa4yebm3Bb) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [ひとめもり](https://open.spotify.com/album/2W8fHCw81Kpka42aHkw6DT) | 4:13 | 2024-03-05 | 2025-01-15 |
 | [ふわり](https://open.spotify.com/track/40HGWMDzsbCN5uIY0znQty) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [ふわり](https://open.spotify.com/album/7CjB2qN8kpU8YcXn0N0Sz4) | 4:07 | 2025-07-22 | 2025-08-06 |

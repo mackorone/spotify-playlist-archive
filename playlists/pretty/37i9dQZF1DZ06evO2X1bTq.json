@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1256311,
+  "num_followers": 1256326,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAACjEGdv0dynJB7Sv3lpKOcp",
+  "snapshot_id": "aQfwgAAAAADW5QCreDHB3PMyhl8ik7Cn",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 330506,
-      "name": "Ultra Violet (Light My Way)",
-      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 220733,
       "name": "In A Little While",
       "url": "https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 330506,
+      "name": "Ultra Violet (Light My Way)",
+      "url": "https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a"
     },
     {
       "added_at": null,

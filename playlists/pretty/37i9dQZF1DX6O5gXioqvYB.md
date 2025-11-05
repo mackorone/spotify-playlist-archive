@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Bouganville
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,330 likes - 94 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,328 likes - 94 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

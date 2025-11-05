@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-741 songs - 1 day 23 hr 30 min
+742 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [EVERMORE](https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [EVERMORE](https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3) | 3:41 | 2025-08-08 |  |
 | [Everything Bleeds](https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Everything Bleeds](https://open.spotify.com/album/2KPSXo6XMYGge8SUqPWdrY) | 2:42 | 2023-06-16 | 2025-03-15 |
 | [Everything Has Been Read](https://open.spotify.com/track/6gReyVGau1E5dK06bppV8f) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Sulphur Cvlt](https://open.spotify.com/album/2xBOvDwOXI5I3zviRQzb92) | 4:19 | 2021-12-17 | 2022-07-28 |
+| [EVOLVE](https://open.spotify.com/track/3J8zKMWojpAtSvyJbDHhJZ) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [EVOLVE](https://open.spotify.com/album/52jS26ckoo4FxrDuzH75JV) | 3:01 | 2025-11-04 |  |
 | [Exiled](https://open.spotify.com/track/3nf8onNmC1LSOWISZIusa6) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Exiled](https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq) | 4:22 | 2021-12-31 | 2022-07-24 |
 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2021-12-17 | 2023-04-15 |
 | [Exit Wound](https://open.spotify.com/track/4EqYki9QKkXPAv3SwHUep4) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Exit Wound](https://open.spotify.com/album/5WaWYyhULgfNhIxwN0ZHI2) | 2:43 | 2022-09-09 | 2022-12-03 |
@@ -640,7 +641,7 @@
 | [THE FINAL GATE](https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr) | [The Archaic Epidemic](https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l) | [THE FINAL GATE](https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N) | 3:04 | 2025-08-22 | 2025-10-09 |
 | [The Gallow](https://open.spotify.com/track/0ioB64ttCtpxVvoQsaqVQH) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Gallow](https://open.spotify.com/album/4hImAik1vJKAfPmXFFg3q1) | 4:58 | 2023-12-13 | 2024-10-19 |
 | [The Hardest Thing About Being God Is That No One Believes Me](https://open.spotify.com/track/2owXgJfvIVH29Nsz2b1ETa) | [Blindfolded and Led to the Woods](https://open.spotify.com/artist/4yBKoaWwA9iMFSdNd26G9C) | [The Hardest Thing About Being God Is That No One Believes Me](https://open.spotify.com/album/3nDaZvMPDBa3ZKtx60mISJ) | 4:12 | 2025-10-10 |  |
-| [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 | 2022-09-09 |  |
+| [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 | 2022-09-09 | 2025-11-05 |
 | [The Killing Womb](https://open.spotify.com/track/5gb2BesEN6FrtuApkKPPW2) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/1J1Alzur5kRYahOsgqCqCh) | 2:32 | 2022-01-07 | 2022-06-12 |
 | [The Lake](https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Vemod](https://open.spotify.com/album/1meKjxOu8dmRsuWo47vmAI) | 4:55 | 2021-12-17 | 2022-07-25 |
 | [The Medicine](https://open.spotify.com/track/3hGaEXlWUmiHEHFut99e5Z) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Alejandro Aranda](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Leap of Death](https://open.spotify.com/album/2cMg25CzpU2YjomavkYsZ6) | 4:43 | 2024-08-23 |  |

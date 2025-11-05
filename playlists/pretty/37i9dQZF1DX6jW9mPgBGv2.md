@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Kendo Kaponi y Luar La L plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,886 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,924 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:57 |
+| 1 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:56 |
 | 2 | [Tony Montana](https://open.spotify.com/track/2QlBGi84n6EiW0MOTh62KY) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Tony Montana](https://open.spotify.com/album/6GcvxxMeI4jvd3e8J0iyX8) | 2:08 |
 | 3 | [Foo Chow](https://open.spotify.com/track/24kTIhBGlyH7nyFMfYQD71) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o), [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl), [DEUXER](https://open.spotify.com/artist/2mv4oA2PU10YE6FiKlfk5j), [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Joniel](https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI), [Felo Blonck](https://open.spotify.com/artist/7kJEoJXXCcAcziKADYgS0c), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC), [Lil Papi](https://open.spotify.com/artist/6wja6hbk2J8oHzrz6rdvaH), [Jozzu](https://open.spotify.com/artist/0w82woTBdhc5VcxIAL7V3U), [Ro Milliones](https://open.spotify.com/artist/7GMsuN0ar2FDUz0ZLZk517), [Hans Hs](https://open.spotify.com/artist/37buK2h2sG6HAQbinELi1Q), [Brvvo](https://open.spotify.com/artist/3JqTrGRqCsihN4XxG2MvZs) | [Foo Chow](https://open.spotify.com/album/4coi82WXgrfAkmjIA4e7AS) | 8:51 |
 | 4 | [Sin Miedo A Morir](https://open.spotify.com/track/6qlg0jGN91NCvHMSfxcvJH) | [Chal 777](https://open.spotify.com/artist/3mK7sIlefqaAHtpWNiCqyJ), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [Sin Miedo A Morir](https://open.spotify.com/album/75CJuyjKNiEev3E7miUTgR) | 2:51 |

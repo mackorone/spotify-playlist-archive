@@ -1,12 +1,12 @@
 {
   "description": "The best in Black music! Cover: <a href=\"spotify:artist:6Ip8FS7vWT1uKkJSweANQK\">Dave</a> and  <a href=\"spotify:artist:687cZJR45JO7jhk1LHIbgq\">Tems</a> ",
-  "num_followers": 1094743,
+  "num_followers": 1094687,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABD7hcpX+mawUuorYin0n+q/mjGJ",
+  "snapshot_id": "AAAAAEB+WNjyEYlmfk8mWySyJfq/VWp+",
   "tracks": [
     {
       "added_at": "2025-11-03 21:56:12",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-11-03 21:56:12",
       "album": {
-        "name": "THERE\u2019S A GHOST IN MY HOUSE.",
-        "url": "https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 148646,
-      "name": "SAY IT TO ME.",
-      "url": "https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg"
-    },
-    {
-      "added_at": "2025-11-03 21:56:12",
-      "album": {
         "name": "HAUNTED BY FAME",
         "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 108936,
       "name": "NO SWEAT",
       "url": "https://open.spotify.com/track/6f6A5411wNShdb21MzAFXy"
+    },
+    {
+      "added_at": "2025-11-03 21:56:12",
+      "album": {
+        "name": "THERE\u2019S A GHOST IN MY HOUSE.",
+        "url": "https://open.spotify.com/album/5fp3kb3iWMd0URTwo6lzah"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 148646,
+      "name": "SAY IT TO ME.",
+      "url": "https://open.spotify.com/track/2mEU6SCoJS7vJLfxxutSWg"
     },
     {
       "added_at": "2025-11-03 21:56:12",

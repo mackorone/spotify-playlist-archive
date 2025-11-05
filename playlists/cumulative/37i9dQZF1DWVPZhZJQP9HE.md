@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhinesh Nagarajan
 
-713 songs - 1 day 17 hr 53 min
+714 songs - 1 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Kaanadha Vizhigal](https://open.spotify.com/track/7K02crvfkaOH4LqZcp8lNM) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC) | [Kaanadha Vizhigal](https://open.spotify.com/album/2RJYqOUDoLnrErpDQ3OW3A) | 2:57 | 2022-02-25 | 2022-07-08 |
 | [Kaaranam](https://open.spotify.com/track/5qfTeUo5gDEYk7ApD7JUqR) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kaaranam](https://open.spotify.com/album/0Wu1gmRfOGgr5KSIFQJwCt) | 4:02 | 2022-12-16 | 2023-01-11 |
 | [Kaathadi](https://open.spotify.com/track/5FlpkXMsHB5C8bjOErpQuy) | [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kaathadi](https://open.spotify.com/album/36coKWgWqWR62SkpXeyl4a) | 3:23 | 2021-12-18 | 2022-12-20 |
-| [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 | 2024-07-27 |  |
+| [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \(From "Think Indie"\)](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 | 2024-07-27 | 2025-11-05 |
 | [Kaatrile](https://open.spotify.com/track/3ozRf60fIEOFABQB5r792F) | [Sperience](https://open.spotify.com/artist/6hM2eMbTUUKLLDIeRBLClE), [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Kaatrile](https://open.spotify.com/album/4fBs9f1HRGZYbwM7ghvy3W) | 2:49 | 2023-03-06 | 2023-03-18 |
 | [Kaatrodu](https://open.spotify.com/track/5yIC1ldpXfRyVL7LpjrZLp) | [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo), [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Kaatrodu](https://open.spotify.com/album/5EUmFeHta6LpGNhgqj6Med) | 5:44 | 2022-09-23 | 2023-02-09 |
 | [Kadal Alai](https://open.spotify.com/track/1hGfjnEdTOrNIWNOvD9mmK) | [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw), [Mahesh Raghvan](https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi) | [Kadal Alai](https://open.spotify.com/album/4bnki9Z6qFFuTkvBejr1jV) | 3:18 | 2023-09-29 | 2025-02-21 |
@@ -357,6 +357,7 @@
 | [Maya Mohini](https://open.spotify.com/track/28vyPvdBUySEwrPZ4wZRHa) | [KVR](https://open.spotify.com/artist/2ShMUR5Cjnt67tvZUChLEu), [LAURITZ FRANCIS](https://open.spotify.com/artist/2LrLzxSOvQ2qCEcY4VMaH9) | [Maya Mohini](https://open.spotify.com/album/2vUpby0lT7zFoeou8tXk8b) | 3:55 | 2022-12-02 | 2023-03-22 |
 | [Mayakkam](https://open.spotify.com/track/2gkiPPb1kjvPrR55I5z1zz) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Mayakkam](https://open.spotify.com/album/2Oixh8URDzxcXZWrqoIEQn) | 3:13 | 2024-04-19 | 2024-06-14 |
 | [Mayangi Porene](https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Mayangi Porene](https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs) | 1:04 | 2023-11-14 | 2023-12-19 |
+| [Mayangiren](https://open.spotify.com/track/1HtOdjgJ6ebtl4YR7Mwmhj) | [Luksimi Sivaneswaralingam](https://open.spotify.com/artist/1yu8UL7E8i1XSFjHLjbYUb), [Selojan Srivaratharasan](https://open.spotify.com/artist/6xafNP3VKD8vD2ngIVrYEU), [Sathyan Ilanko](https://open.spotify.com/artist/0GbNmLZKI7PpYKVkw26wnN) | [Mayangiren](https://open.spotify.com/album/16ECb37i54aqGQmmFJSJMk) | 2:49 | 2025-11-04 |  |
 | [Mayil Iragae](https://open.spotify.com/track/2VLl0OAIYgzETYAXwa1qgf) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Mayil Iragae](https://open.spotify.com/album/1NSfqN4NtVJycVwkboD9iY) | 3:01 | 2023-05-26 | 2023-06-24 |
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2022-12-12 | 2024-12-28 |
 | [Mazhai Kuruvi](https://open.spotify.com/track/54uxMrzHA19Uw3K1EYrRzU) | [Shameel J](https://open.spotify.com/artist/21peBnGpGmNdiC9UwnBMdg), [Cv Laksh](https://open.spotify.com/artist/3RbNOYexLa2GmQzelTXPSa) | [Mazhai Kuruvi](https://open.spotify.com/album/3810ANE6YEusX5tYeSHIoG) | 4:00 | 2022-10-13 | 2023-01-11 |

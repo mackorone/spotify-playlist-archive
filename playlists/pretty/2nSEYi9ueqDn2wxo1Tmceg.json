@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 61770,
+  "num_followers": 61767,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAARB62EC96r+JgYMWO0FOGBhGIKjU4Y",
+  "snapshot_id": "AAARCK8wN3y0MNAxvP0mHdqeNVR97r6u",
   "tracks": [
+    {
+      "added_at": "2025-11-04 15:07:00",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
+    },
     {
       "added_at": "2025-10-29 12:16:57",
       "album": {

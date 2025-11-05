@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 
 > Enter the <a href="spotify:site:infinityplaylist">Infinity Playlist</a>\.  Music from "Demon Slayer"\. <br/>  ©吾峠呼世晴／集英社・アニプレックス・ufotable
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,900 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,888 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 | 36 | [無限列車～avant\-title～](https://open.spotify.com/track/4kg7zjCDzrPB5dSGzaQbz3) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:03 |
 | 37 | [煉獄の戦闘～其ノ弐](https://open.spotify.com/track/4vBPuyek5OFjUSq80DM3Yp) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 1:45 |
 | 38 | [猗窩座の主張](https://open.spotify.com/track/50ekhRriEvbVJMXvvzQ9UC) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 1:38 |
-| 39 | [煉獄の最期](https://open.spotify.com/track/3qmX635ICKNeMaOvL7mD1O) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:28 |
+| 39 | [煉獄の最期](https://open.spotify.com/track/3qmX635ICKNeMaOvL7mD1O) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:27 |
 | 40 | [煉獄の訃報](https://open.spotify.com/track/0b2vKKzcJ0JggiLuYP6x0E) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:15 |
 | 41 | [堕姫撃破](https://open.spotify.com/track/2IWefWj5lC8C5p1iKW25w7) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」遊郭編 オリジナルサウンドトラック](https://open.spotify.com/album/5czFPP3dehjE4C3PeP4HO4) | 3:29 |
 | 42 | [討伐まであと一歩～霹靂一閃 神速](https://open.spotify.com/track/6G78pQSN4jzD3dJu4TztfV) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」遊郭編 オリジナルサウンドトラック](https://open.spotify.com/album/5czFPP3dehjE4C3PeP4HO4) | 2:04 |

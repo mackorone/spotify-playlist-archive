@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOsJPDmcri64i.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 20 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOsJPDmcri64i.md) - [plain]
 | 12 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [FRIENDS KEEP SECRETS](https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ) | 2:50 |
 | 13 | [Halsey Explains It All: Inside Her New Album and Much More](https://open.spotify.com/episode/6X1gAVoQastrlSDWndPfQs) | [Rolling Stone Music Now](https://open.spotify.com/show/0jCfnXfdYhwIM2I4x7SxZx) | [Rolling Stone Music Now](https://open.spotify.com/album/0jCfnXfdYhwIM2I4x7SxZx) | 49:10 |
 | 14 | [Done for Me \(feat\. Kehlani\)](https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:00 |
-| 15 | [The Day Charlie Puth Helped Us Celebrate](https://open.spotify.com/episode/5dqbWWmmvtGLnT8De7Bdya) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/show/5lCZ8aONOdtCAqxosfVaOi) | [Elvis Duran and the Morning Show ON DEMAND](https://open.spotify.com/album/5lCZ8aONOdtCAqxosfVaOi) | 2:01:33 |
-| 16 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/3Q6fRSTIz9AZLfmTMGNlxG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/album/3RRlQpHcnBStDiuVD88wtp) | 2:56 |
-| 17 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
-| 18 | [Justin Bieber's 'Changes' Proves the Enduring Allure of Child\-Turned\-Adult Pop Stars](https://open.spotify.com/episode/0hS3hJyORLwDXBygWFFb5U) | [Pop Shop Podcast](https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ) | [Pop Shop Podcast](https://open.spotify.com/album/6Up21LReNRTrMTa6O3mkKJ) | 25:12 |
-| 19 | [Hellevator](https://open.spotify.com/track/67LJNZyfDA1uaPCtlpyuKN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape](https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4) | 4:00 |
-| 20 | [Stray Kids Double Knot \(English Version\), District 9 Tour, Being a Stray Kid](https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 32:19 |
+| 15 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/3Q6fRSTIz9AZLfmTMGNlxG) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/album/3RRlQpHcnBStDiuVD88wtp) | 2:56 |
+| 16 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
+| 17 | [Justin Bieber's 'Changes' Proves the Enduring Allure of Child\-Turned\-Adult Pop Stars](https://open.spotify.com/episode/0hS3hJyORLwDXBygWFFb5U) | [Pop Shop Podcast](https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ) | [Pop Shop Podcast](https://open.spotify.com/album/6Up21LReNRTrMTa6O3mkKJ) | 25:12 |
+| 18 | [Hellevator](https://open.spotify.com/track/67LJNZyfDA1uaPCtlpyuKN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape](https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4) | 4:00 |
+| 19 | [Stray Kids Double Knot \(English Version\), District 9 Tour, Being a Stray Kid](https://open.spotify.com/episode/67XZuhEtKkTS8j5Y9tqs9p) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 32:19 |
 
 Snapshot ID: `AZiNegAAAAALTPy6lf7D9CJm0MIUVe6m`

@@ -27533,6 +27533,24 @@
     },
     {
       "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139672,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
+    },
+    {
+      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf"
       },

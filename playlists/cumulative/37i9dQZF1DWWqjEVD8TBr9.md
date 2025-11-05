@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-376 songs - 20 hr 17 min
+377 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [ULTRA \(Changbin\)](https://open.spotify.com/track/5LiRLjFqwPNR8WBmlsbQW6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:27 | 2024-12-13 |  |
 | [Unfair \(Felix\)](https://open.spotify.com/track/04vneFKe8iMdaA4d2zxgjb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH) | 2:48 | 2024-12-13 |  |
 | [Up All Night \(Bang Chan, Changbin, Felix, Seungmin\)](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:21 | 2022-12-21 |  |
+| [Updraft](https://open.spotify.com/track/6R5DcaBpYwKdscbXLrzKD3) | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [Typhoon Family, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3Jk0Rdyqiu9gWca0rodEU6) | 3:02 | 2025-11-04 |  |
 | [VAY \(Feat\. 창빈 of Stray Kids\)](https://open.spotify.com/track/54KjiczcYLLYNVX49JtFKA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/3PJbTq65fNFTzXt26YEp0p) | 2:41 | 2025-09-17 |  |
 | [VENOM](https://open.spotify.com/track/4b3rGL8LDSkbARUUA20136) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:14 | 2022-03-18 | 2024-04-19 |
 | [VENOM](https://open.spotify.com/track/5VwOAFFqlLikti3l1RJnPz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:14 | 2022-03-18 |  |

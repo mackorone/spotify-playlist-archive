@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-263 songs - 13 hr 10 min
+264 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Focus](https://open.spotify.com/track/4iUOXOLxqeimvWAXUg4vGt) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [God & Rap](https://open.spotify.com/album/4B5VsLWUc6vNFhS5OoPbcV) | 3:09 | 2024-04-26 | 2024-05-24 |
 | [Focus On Me](https://open.spotify.com/track/3gQxTu5e5K9btGajeTy5iv) | [Freda Rhymz](https://open.spotify.com/artist/3e8jas2EOwWf2Pp3laUajH) | [Focus On Me](https://open.spotify.com/album/6PMxU7xULJ3fhQegSvfhsX) | 2:53 | 2023-11-17 | 2024-01-05 |
 | [For The Streetz](https://open.spotify.com/track/1gS2JFbUnIGwzPAZAx7CaG) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [For The Streetz](https://open.spotify.com/album/3ue4vYiExwOP9VvpipbTJS) | 2:22 | 2025-02-28 | 2025-03-21 |
+| [Fowaah](https://open.spotify.com/track/1M0MnNWPoBA3BP49jshvsS) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fowaah](https://open.spotify.com/album/0n1Hnr42y8SvpdhdCtHmVM) | 2:47 | 2025-11-04 |  |
 | [Frass](https://open.spotify.com/track/4YesAXkrlESdn1Vk2f65pa) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Nothing Matters](https://open.spotify.com/album/6nhytxiQ5m9fgRIMKoqgbi) | 2:43 | 2022-12-08 | 2023-02-11 |
 | [Fre Me](https://open.spotify.com/track/5jOjRAFGcCLd0gMUyviyM4) | [Thomas the Great](https://open.spotify.com/artist/4DaWXLEMSsQWHrkshW0IDc), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fre Me](https://open.spotify.com/album/5vpZvekXCaEXVDqSuN7vMW) | 2:51 | 2022-10-30 | 2022-11-19 |
 | [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/track/4JFvMJhj0IItMMOosrxEJY) | [FREE THE YOUTH](https://open.spotify.com/artist/0DtFQ5ZCavMbEf4jmYsgui), [Lil Skid](https://open.spotify.com/artist/1e9JfhpBsf4VF51AWObUBa), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/album/27UWJ4EXmYP7pg6B9Aehxp) | 2:59 | 2025-02-28 | 2025-04-01 |
@@ -243,7 +244,7 @@
 | [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 | 2025-09-19 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
-| [Trapper Man](https://open.spotify.com/track/1J8NL4Us5EZSJw1GwkvRiS) | [Hiphop Africa](https://open.spotify.com/artist/2s1z2VzXmksRd1VNoKhkhY), [Sobolo Geng](https://open.spotify.com/artist/5gKj7cTFiW0Edum0HkGifx) | [Trapper Man](https://open.spotify.com/album/6tTm9ln6qZuquAWFnO4Di3) | 3:07 | 2025-09-26 |  |
+| [Trapper Man](https://open.spotify.com/track/1J8NL4Us5EZSJw1GwkvRiS) | [Hiphop Africa](https://open.spotify.com/artist/2s1z2VzXmksRd1VNoKhkhY), [Sobolo Geng](https://open.spotify.com/artist/5gKj7cTFiW0Edum0HkGifx) | [Trapper Man](https://open.spotify.com/album/6tTm9ln6qZuquAWFnO4Di3) | 3:07 | 2025-09-26 | 2025-11-05 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |
 | [U CAN'T SHOW ME NATTIN](https://open.spotify.com/track/0UK1y4xvWdW72NZikJTNtZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [U CAN'T SHOW ME NATTIN](https://open.spotify.com/album/52ozyyffNnSxshBttmll8o) | 2:17 | 2022-06-09 | 2024-03-15 |
 | [Valley Of Trappers](https://open.spotify.com/track/0M45LdUPRAlAZJUp6jeHL5) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [Valley Of Trappers](https://open.spotify.com/album/7mZz6DhJ44tgc0rIypklgj) | 2:13 | 2024-04-19 |  |

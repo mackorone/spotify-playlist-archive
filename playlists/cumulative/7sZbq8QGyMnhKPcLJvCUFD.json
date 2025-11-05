@@ -5459,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/1TPia8OudW1b5kWMT0KV2C"
+      },
+      "artists": [
+        {
+          "name": "NORTHNIGHT",
+          "url": "https://open.spotify.com/artist/0evEuKn6HnhCsJRMjg5LfD"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/2uh0bkoi1aAfov9AaOMu7R"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn"
       },
@@ -11916,6 +11934,24 @@
       "duration_ms": 180689,
       "name": "Reason",
       "url": "https://open.spotify.com/track/1Oq4IQYV4Yte1KdemEspf2"
+    },
+    {
+      "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/40MFPgsXd3lrKngz7Ta2jd"
+      },
+      "artists": [
+        {
+          "name": "gabriawll",
+          "url": "https://open.spotify.com/artist/5jMwLnp7dI0H2YFvXpCaMH"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125255,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/53WBImxa8UCdByzSJaBRSd"
     },
     {
       "album": {

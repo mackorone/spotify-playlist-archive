@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Melis Fis
 
-419 songs - 20 hr 55 min
+420 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Ben Sana Kötülük Etmedim](https://open.spotify.com/track/6dwp7MLJCnN4P9zydmLTGX) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [BANA BENİ ANLAT](https://open.spotify.com/album/4y4jsFxpfje8dIDJMNavsP) | 3:57 | 2025-02-20 | 2025-05-07 |
 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 | 2024-06-27 | 2025-06-02 |
 | [Bence De Git](https://open.spotify.com/track/5yFePkkCwAof5pChuKI2I3) | [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A), [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Bence De Git](https://open.spotify.com/album/2RS2HYUvZ8OfOM54qzxv2n) | 3:53 | 2025-07-10 | 2025-08-22 |
+| [Benden Geç Yarim](https://open.spotify.com/track/3KUBQEVG83ry8ONH9OMcKJ) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Benden Geç Yarim](https://open.spotify.com/album/4YiGlC3HY9PNPEI0DII4um) | 2:40 | 2025-10-23 |  |
 | [Beni Ancak](https://open.spotify.com/track/286BeRk7I8tkFQv8uJNie9) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 3:45 | 2024-11-14 | 2024-12-06 |
 | [Beni Anlamıyor](https://open.spotify.com/track/6mra1Q0McNcrDcjxEi2rW3) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Beni Anlamıyor](https://open.spotify.com/album/5d5Ae8icCgEKskv3YE3fIV) | 3:15 | 2024-06-27 | 2024-07-07 |
 | [Beni Niye Sevmedin](https://open.spotify.com/track/78ZwQSAAztyX7Qhf5dy9ce) | [Fundyy](https://open.spotify.com/artist/0Qd3WxeIl4mgfd2KYLwE7H) | [Beni Niye Sevmedin](https://open.spotify.com/album/7ysAEXDJwzj13qMLfJnsGw) | 2:31 | 2025-09-04 |  |
@@ -408,7 +409,7 @@
 | [Zümrüdüankam](https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Zümrüdüankam](https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN) | 3:23 | 2024-08-22 | 2024-12-10 |
 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-13 | 2025-07-18 |
 | [çaykaram](https://open.spotify.com/track/3OCrgoz2nCRsk3ptRUFHwF) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [AVARE.](https://open.spotify.com/album/3vE5SXoQrHlJdejlYLgSlk) | 2:42 | 2025-02-06 | 2025-02-21 |
-| [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 | 2025-08-15 |  |
+| [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 | 2025-08-15 | 2025-11-05 |
 | [Çok Özlüyorum](https://open.spotify.com/track/39gABHIgJSl52G0TnTddeU) | [Berksan](https://open.spotify.com/artist/72OZeQyKCAebfnRJAIEpnx) | [Çok Özlüyorum](https://open.spotify.com/album/5ZYMBeTtPpwW1xTgLUKOic) | 2:57 | 2024-07-11 | 2024-07-17 |
 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 | 2025-06-26 |  |
 | [Çıkmaz Bir Sokakta](https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Çıkmaz Bir Sokakta](https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC) | 2:42 | 2025-10-23 |  |

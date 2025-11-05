@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Community Service",
+        "url": "https://open.spotify.com/album/410cnKn5jGXU19ifHrwnVX"
+      },
+      "artists": [
+        {
+          "name": "Bottle Rockets",
+          "url": "https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Community Service",
+      "url": "https://open.spotify.com/track/2LJru2jR7vQmrwRHLkBW0W"
+    },
+    {
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 138814,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7"

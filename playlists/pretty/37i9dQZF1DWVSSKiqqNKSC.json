@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 523514,
+  "num_followers": 523512,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,38 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Tranquilo Que Yo Controlo (Remasterizado)",
+        "url": "https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy"
+      },
+      "artists": [
+        {
+          "name": "Pupy y Los Que Son Son",
+          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "Un Poquito al Rev\u00e9s - Remasterizado",
+      "url": "https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Sin Escala",
+        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
+      },
+      "artists": [
+        {
+          "name": "El Noro y Primera Clase",
+          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "La Bomba (Yo Lo S\u00e9)",
+      "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Cuba Isla Bella",
         "url": "https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc"
       },
@@ -787,38 +819,6 @@
       "duration_ms": 284266,
       "name": "Cuba Isla Bella",
       "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Sin Escala",
-        "url": "https://open.spotify.com/album/0e12UMKQIn5tbSD08D3ma9"
-      },
-      "artists": [
-        {
-          "name": "El Noro y Primera Clase",
-          "url": "https://open.spotify.com/artist/5wfvAqF5O8wjiLdwIpfwyf"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "La Bomba (Yo Lo S\u00e9)",
-      "url": "https://open.spotify.com/track/6Mq0PPDjAI9yaXZNZlwrOM"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Tranquilo Que Yo Controlo (Remasterizado)",
-        "url": "https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy"
-      },
-      "artists": [
-        {
-          "name": "Pupy y Los Que Son Son",
-          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "Un Poquito al Rev\u00e9s - Remasterizado",
-      "url": "https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF"
     },
     {
       "added_at": "2025-03-07 06:00:25",

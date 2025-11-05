@@ -1,29 +1,13 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47074,
+  "num_followers": 47073,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAABtBGGr6UEMcc++YRdgqNxx",
+  "snapshot_id": "aQfwgAAAAACsfEgJkhYtYD/xnOLktLKJ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 253202,
-      "name": "CORAZ\u00d3N PART\u00cdO - Spotify Singles",
-      "url": "https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,26 +23,6 @@
       "duration_ms": 161326,
       "name": "SIN AUTOTUNE",
       "url": "https://open.spotify.com/track/5MG4QNLAZfxIiGethXtl8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "QUE SED",
-        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 124714,
-      "name": "POR EL EX NO SE LLORA",
-      "url": "https://open.spotify.com/track/1ZNLgW8KFCK695C9C5sIq7"
     },
     {
       "added_at": null,
@@ -79,6 +43,26 @@
       "duration_ms": 239482,
       "name": "1000COSAS",
       "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QUE SED",
+        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 124714,
+      "name": "POR EL EX NO SE LLORA",
+      "url": "https://open.spotify.com/track/1ZNLgW8KFCK695C9C5sIq7"
     },
     {
       "added_at": null,
@@ -207,6 +191,22 @@
       "duration_ms": 272727,
       "name": "M.A - Remix",
       "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 253202,
+      "name": "CORAZ\u00d3N PART\u00cdO - Spotify Singles",
+      "url": "https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF"
     },
     {
       "added_at": null,
@@ -583,22 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOMBOLEWA (Remix)",
-        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
+        "name": "SUPERPOP",
+        "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
       },
       "artists": [
         {
-          "name": "Suzete",
-          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
         },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 171469,
-      "name": "KOMBOLEWA - Remix",
-      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
+      "duration_ms": 172632,
+      "name": "LA TIRITA",
+      "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
     },
     {
       "added_at": null,
@@ -619,22 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERPOP",
-        "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
+        "name": "KOMBOLEWA (Remix)",
+        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
       },
       "artists": [
         {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+          "name": "Suzete",
+          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
         },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 172632,
-      "name": "LA TIRITA",
-      "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
+      "duration_ms": 171469,
+      "name": "KOMBOLEWA - Remix",
+      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 212877,
-      "name": "KILLA (ring ring)",
-      "url": "https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 144424,
       "name": "YO TENGO UN NOVIO",
       "url": "https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 212877,
+      "name": "KILLA (ring ring)",
+      "url": "https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV"
     },
     {
       "added_at": null,

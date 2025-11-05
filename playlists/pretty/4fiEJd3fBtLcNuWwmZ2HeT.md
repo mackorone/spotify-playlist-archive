@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 391 songs - 22 hr 32 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 392 songs - 22 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,5 +399,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 389 | [画脂鏤氷](https://open.spotify.com/track/0cwFv4cJSL1z3RidyF5Uqr) | [かんてゐく](https://open.spotify.com/artist/7a3VEAgXx9IfbsDxmQRAZ3), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB) | [ViRGiN](https://open.spotify.com/album/5e4izHlNGtNLlw0pVfdF6X) | 3:21 |
 | 390 | [バッドエンド・エトセトラ](https://open.spotify.com/track/7jG8STJAaqnVZOETHa8bUV) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [バッドエンド・エトセトラ](https://open.spotify.com/album/3kDQISpwrueaYPtrvJGI3b) | 1:53 |
 | 391 | [Otona no Jijo](https://open.spotify.com/track/6BfDkvp3wJq7cA0xDWDHAI) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Sanman](https://open.spotify.com/album/0kYhbt34EkgHrtBq54eSog) | 3:18 |
+| 392 | [「THE KINKY」](https://open.spotify.com/track/1qwUmmAIB2jdkX4trCXz9P) | [DADAROMA](https://open.spotify.com/artist/65u1WZsa68wCWFOexGZuz1) | [「This is ”LIVE”」](https://open.spotify.com/album/6ihgmiFs9vVhmeMya8039J) | 3:26 |
 
-Snapshot ID: `AAAJfmg8JSFxxpYtJmk462hpZx9xOQcD`
+Snapshot ID: `AAAJf0JZA9wYcgpSWUYV/cHP3QRZ0G43`

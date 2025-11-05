@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Protek Illasheva
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,181 likes - 121 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,203 likes - 121 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 28 | [Infinity](https://open.spotify.com/track/4m6skbhTVYDH4VAix5VhD8) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Infinity](https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48) | 3:41 |
 | 29 | [here](https://open.spotify.com/track/6C4DacOnoWaXnXXjg0AmRu) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy II](https://open.spotify.com/album/3ZnyJyblnIdEDtYXP6D9A5) | 2:25 |
 | 30 | [Se Bebe](https://open.spotify.com/track/6h3SIM1JXtfeMqLoFzjk7R) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Se Bebe](https://open.spotify.com/album/3AEvRjl43zhrEseUH3kyt2) | 3:17 |
-| 31 | [UNLIMITED](https://open.spotify.com/track/5tRq6BMkzV0dJCnXJqeSdm) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [UNLIMITED](https://open.spotify.com/album/2Do8T8QxG3rALXoofdSbj3) | 2:43 |
+| 31 | [UNLIMITED](https://open.spotify.com/track/5tRq6BMkzV0dJCnXJqeSdm) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [UNLIMITED](https://open.spotify.com/album/2Do8T8QxG3rALXoofdSbj3) | 2:43 |
 | 32 | [DOH](https://open.spotify.com/track/4cqspe6InaQjklGJQuZXYw) | [Tklex](https://open.spotify.com/artist/3nqqTSStDMepotlsMSnbvL), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [DOH](https://open.spotify.com/album/42Ja9WDCG1yDnTxBTA6SI0) | 2:51 |
 | 33 | [Daddy](https://open.spotify.com/track/69Pcsnqzv0QaTodhpPdn8j) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Daddy](https://open.spotify.com/album/0jo4aBkmzONSDin9WR4m8d) | 2:10 |
 | 34 | [Yahweh](https://open.spotify.com/track/4sPs5XhnfUTM7OipFTOJjA) | [Outgun Onkar](https://open.spotify.com/artist/4prG7V9Q373dQcu1sfyplD), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Yahweh](https://open.spotify.com/album/7k5jPNCIuuPAzh2mm6HgnK) | 3:08 |

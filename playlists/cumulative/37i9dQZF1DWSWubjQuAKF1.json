@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Gaba Ko\u015bciug",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: dezydery",
   "name": "up next",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "My\u015bli",
+        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159047,
+      "name": "7 nieszcz\u0119\u015b\u0107",
+      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
+    },
+    {
+      "album": {
         "name": "No Rest",
         "url": "https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6"
       },
@@ -320,6 +338,24 @@
       "duration_ms": 113333,
       "name": "Ale Boli!",
       "url": "https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN"
+    },
+    {
+      "album": {
+        "name": "Vicious Delicious",
+        "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR"
     },
     {
       "album": {
@@ -1021,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Beznami\u0119tnie",
+        "url": "https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l"
+      },
+      "artists": [
+        {
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164122,
+      "name": "Beznami\u0119tnie",
+      "url": "https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth"
+    },
+    {
+      "album": {
         "name": "bilet beze mnie",
         "url": "https://open.spotify.com/album/21kMgZgkNc6AtBG86VnxMZ"
       },
@@ -1214,7 +1268,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 171753,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
@@ -1778,7 +1832,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 232409,
       "name": "Ciarki",
       "url": "https://open.spotify.com/track/1wxdw5LIrYTJiURdxfwlfk"
@@ -2568,6 +2622,28 @@
       "duration_ms": 165000,
       "name": "Dla Turyst\u00f3w",
       "url": "https://open.spotify.com/track/1xBiiCNb0YUsEftywzL6kd"
+    },
+    {
+      "album": {
+        "name": "do pogrzebu si\u0119 zagoi",
+        "url": "https://open.spotify.com/album/6zaC41Pl5cljlJs717Y5Dj"
+      },
+      "artists": [
+        {
+          "name": "noffkoffska",
+          "url": "https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt"
+        },
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181711,
+      "name": "do pogrzebu si\u0119 zagoi",
+      "url": "https://open.spotify.com/track/74NMdk0cJG92YXH2SZ1Crh"
     },
     {
       "album": {
@@ -3486,7 +3562,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 174857,
       "name": "hibernacja",
       "url": "https://open.spotify.com/track/22XLWNDIzzHxYgNgRcbbYg"
@@ -4432,10 +4508,28 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 187041,
       "name": "Kompleks Boga",
       "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
+    },
+    {
+      "album": {
+        "name": "Koniec",
+        "url": "https://open.spotify.com/album/03ruuVqjCUVBvicIlCRDkO"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Koniec",
+      "url": "https://open.spotify.com/track/71bxgWtZXnLiJwEYqywrwV"
     },
     {
       "album": {
@@ -5887,6 +5981,24 @@
     },
     {
       "album": {
+        "name": "morze dalej zimne",
+        "url": "https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176335,
+      "name": "morze dalej zimne",
+      "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
+    },
+    {
+      "album": {
         "name": "Movie Scene",
         "url": "https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J"
       },
@@ -7030,7 +7142,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 174751,
       "name": "Not What\u2019s Going On",
       "url": "https://open.spotify.com/track/22j1qFcWhyPMQjXWtq0bKc"
@@ -8687,6 +8799,28 @@
     },
     {
       "album": {
+        "name": "Rzeka",
+        "url": "https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh"
+      },
+      "artists": [
+        {
+          "name": "LUNARIA",
+          "url": "https://open.spotify.com/artist/1XsO4JN3QWw3kliCrrKXaP"
+        },
+        {
+          "name": "W. Krajewski",
+          "url": "https://open.spotify.com/artist/7lEVFDOUQeA7Zw7DqUvO9F"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Rzeka",
+      "url": "https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S"
+    },
+    {
+      "album": {
         "name": "R\u00f3\u017ce",
         "url": "https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb"
       },
@@ -8979,6 +9113,24 @@
     },
     {
       "album": {
+        "name": "shady",
+        "url": "https://open.spotify.com/album/0Tq1fXfkBJHlGSCcC0E78p"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128230,
+      "name": "shady",
+      "url": "https://open.spotify.com/track/3WCcDNT4MecCulBiLMBETx"
+    },
+    {
+      "album": {
         "name": "shoreline",
         "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
       },
@@ -9168,7 +9320,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 197528,
       "name": "some days",
       "url": "https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW"
@@ -9288,7 +9440,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 172422,
       "name": "sprzeda\u0142am si\u0119?",
       "url": "https://open.spotify.com/track/5L1lLGaluYqVyWLH3uuBB3"
@@ -10816,7 +10968,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 246696,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5"
@@ -11822,7 +11974,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 171000,
       "name": "Z\u0142a Pami\u0119\u0107",
       "url": "https://open.spotify.com/track/4rx96iXf1XqGC38y9oBRKW"
@@ -11840,7 +11992,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-05",
       "duration_ms": 158666,
       "name": "Z\u0141Y",
       "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"

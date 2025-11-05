@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Hi\-STANDARD
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: FIRE ON FIRE
 
-858 songs - 1 day 21 hr 28 min
+860 songs - 1 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Get Me Back](https://open.spotify.com/track/7DyYH1hRVEDTDjxXJP9wHl) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [ONE HiT TO THE BODY](https://open.spotify.com/album/2MwaOSSA0ggOvgjtZ0X2EI) | 2:54 | 2022-05-12 | 2022-07-20 |
 | [Get out](https://open.spotify.com/track/3UTqzhJOiRWGuy7xd6fnFP) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Get out](https://open.spotify.com/album/5boYEJejEUlO56jTqjXWBL) | 2:11 | 2022-05-12 | 2022-07-28 |
 | [Get Up](https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Dim The Lights](https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU) | 4:05 | 2022-05-12 |  |
-| [Gift](https://open.spotify.com/track/0QGIuyCNcGzxPegBlNKygP) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Gift](https://open.spotify.com/album/39TLbfYOTZkBahz2E5MOuX) | 4:22 | 2025-09-09 |  |
+| [Gift](https://open.spotify.com/track/0QGIuyCNcGzxPegBlNKygP) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Gift](https://open.spotify.com/album/39TLbfYOTZkBahz2E5MOuX) | 4:22 | 2025-09-09 | 2025-11-05 |
 | [Go away](https://open.spotify.com/track/74m1ANTskdub3D1QgMoMwX) | [Junky58%](https://open.spotify.com/artist/70KfXyXsFwEmCA1i6kMn2m) | [Go away](https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk) | 2:48 | 2022-09-06 | 2022-09-15 |
 | [Go For It](https://open.spotify.com/track/6WEC4dCGAuMfrUMoF55BD4) | [ANGER FLARES](https://open.spotify.com/artist/1KT2rYCKxq9UQ6tqnXLhSP) | [Punk Rock Compilation, Vol​​.1](https://open.spotify.com/album/5L0WzRvc31A7qaHd3yDdHK) | 1:53 | 2023-01-24 | 2023-04-19 |
 | [goes on](https://open.spotify.com/track/3mpavY4fu2IKWpWIuFd03d) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:21 | 2022-05-17 | 2022-08-19 |
@@ -280,6 +280,7 @@
 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 | 2023-05-16 | 2023-06-10 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-06-09 | 2023-06-14 |
 | [Let It Burn](https://open.spotify.com/track/0GAUTkC5RbnqoJ3HJ7IoRD) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Let It Burn](https://open.spotify.com/album/3WJehw5mVS7ZNU688Q7eeZ) | 3:29 | 2025-09-02 |  |
+| [LET IT FLOW](https://open.spotify.com/track/3rCM5OLI4PPGPkIX4wPTWj) | [FIRE ON FIRE](https://open.spotify.com/artist/3xg0MBPvDDkWB4s05UmbCC) | [SPARK](https://open.spotify.com/album/0bcNMV8tvrg8hMvDoDBBJ1) | 2:53 | 2025-11-04 |  |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 | 2023-12-06 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 | 2023-12-07 | 2023-12-20 |
 | [Let The Beat Carry On](https://open.spotify.com/track/5aIxRbYvjSr5fYco54GbgA) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Four](https://open.spotify.com/album/1A2qh9qzsHSiN4jbRMSL7C) | 3:09 | 2022-05-12 | 2022-07-25 |
@@ -349,6 +350,7 @@
 | [N.S.O.](https://open.spotify.com/track/3rnUX9PbuWG7W8yVftuJvg) | [JUANAFAN CLUB](https://open.spotify.com/artist/68NIBIkk9yQAajOWWtl8f2) | [N.S.O.](https://open.spotify.com/album/3xVxvzEkLNZsNCNhNhfcxi) | 5:12 | 2022-07-14 | 2022-07-20 |
 | [Nagisa](https://open.spotify.com/track/0u8dRvBuJYPxr7xysHXhCe) | [UNMASK aLIVE](https://open.spotify.com/artist/4wZznngFKM7rP9mTk2dRGo) | [UNMASK aLIVE](https://open.spotify.com/album/3eG7tLgIVZ0nbc1N0JdBSD) | 2:28 | 2022-05-12 | 2022-07-29 |
 | [Nakamanouta](https://open.spotify.com/track/47ksmgpGttB6zmHmIy0CyW) | [The Mass Missile](https://open.spotify.com/artist/0ZZkqs16RgXFeUQbRdGFef) | [Nakamanouta](https://open.spotify.com/album/4uGinRpuwIDnU5qyCmto1H) | 4:57 | 2022-05-12 | 2022-07-21 |
+| [Naked](https://open.spotify.com/track/5KGU6BgcvqmHiM7fdTHiUU) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [Naked](https://open.spotify.com/album/43Z6Pvd1VPo0uhZhHh9PBi) | 2:46 | 2025-11-04 |  |
 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2022-05-12 | 2024-06-18 |
 | [NANANA](https://open.spotify.com/track/3K3NU1VZiAwIoQ7B06aM8I) | [DISTRESS](https://open.spotify.com/artist/2Rseip7lRjsDFTUSEyRj6K) | [NANANA](https://open.spotify.com/album/3r1ufZMtgZzQ8AjZJwxUwB) | 3:54 | 2022-06-21 | 2022-07-20 |
 | [naze kyou tenkiga warui](https://open.spotify.com/track/6xKi8s3RnwFSrBrqJ6H55F) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [naze kyou tenkiga warui](https://open.spotify.com/album/5k6hf0HvYEMWNhEVCy5oqq) | 2:54 | 2023-07-13 | 2023-07-26 |
@@ -824,7 +826,7 @@
 | [死亡フラグを立てないで](https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [死亡フラグを立てないで](https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG) | 4:35 | 2024-04-16 |  |
 | [永久に](https://open.spotify.com/track/4bqBqH6zYVgIZXQO4ZyZJ7) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [永久に](https://open.spotify.com/album/0VeAIIbyFuQS7WeWqxa0PP) | 4:06 | 2023-08-08 | 2023-08-10 |
 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 | 2024-03-23 |
-| [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 | 2023-08-29 |  |
+| [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 | 2023-08-29 | 2025-11-05 |
 | [決意の歌](https://open.spotify.com/track/32HxsGp4jX5URUmulu5dHd) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [レコンキスタ](https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv) | 5:21 | 2022-05-12 | 2022-07-27 |
 | [泣き虫デスマッチ](https://open.spotify.com/track/0N9uFmMjZLBK28fwYxbFtZ) | [Garlicboys](https://open.spotify.com/artist/6nPBc3gSUZ1rQaMvD0VXZz) | [再録ベスト](https://open.spotify.com/album/39cFpk3zsEtX8aE0Mgs7WU) | 2:36 | 2022-05-12 | 2022-07-24 |
 | [火花](https://open.spotify.com/track/5sqCFj25fms531Jx41FhoX) | [SULLIVAN's FUN CLUB](https://open.spotify.com/artist/03d8MZYqxq7mS9DDxWV18U) | [Panta rhei](https://open.spotify.com/album/5yYOvOyzsVLy8AYDIENgOT) | 1:37 | 2022-05-19 | 2022-07-11 |

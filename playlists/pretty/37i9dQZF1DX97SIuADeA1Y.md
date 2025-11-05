@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,218 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,211 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 12 | [Boots](https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Boots](https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z) | 2:41 |
 | 13 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 |
 | 14 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 |
-| 15 | [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 |
-| 16 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
+| 15 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
+| 16 | [Crash](https://open.spotify.com/track/0j8dgoUYTkqdqzfvxXqYG9) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Crash](https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS) | 2:06 |
 | 17 | [Somebody That I Used to Know](https://open.spotify.com/track/19g33fGnzBMWNf7ILmbmuw) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq), [Tyzn](https://open.spotify.com/artist/4RtLJ6ksxpaktS32qE6kxo) | [Somebody That I Used to Know](https://open.spotify.com/album/1BvepLFynGGKZSF1rtgTcc) | 2:42 |
 | 18 | [Redlight](https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Redlight](https://open.spotify.com/album/2xz9ov07OnNqQnXhDTVa1e) | 2:57 |
 | 19 | [Wonderful Life](https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Ane](https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj) | [Wonderful Life](https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd) | 2:40 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 57 | [Talk Talk Talk](https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Talk Talk Talk](https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE) | 2:28 |
 | 58 | [Wishing Well](https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Wishing Well](https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH) | 2:22 |
 | 59 | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S) | 2:46 |
-| 60 | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB) | 2:32 |
+| 60 | [Ride Ride Ride](https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz) | [Victoria Kern](https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Ride Ride Ride](https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg) | 2:42 |
 
 Snapshot ID: `AAAAAC0jRXMwnGV4WQg7cmvgkQSmQerI`

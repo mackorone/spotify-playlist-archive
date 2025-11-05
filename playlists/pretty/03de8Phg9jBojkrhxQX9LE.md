@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,736 likes - 155 songs - 8 hr 50 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,734 likes - 155 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 14 | [Only One](https://open.spotify.com/track/2UUMfNa3jCx5eeHav0IpPe) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Ascension](https://open.spotify.com/album/1AzxHSUa7SbJHC9Q6qYnrk) | 3:22 |
 | 15 | [Blood is the Law](https://open.spotify.com/track/1rctq7opO2gQK8aDn8LgOd) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Diablo](https://open.spotify.com/artist/1fhuuNHBmQFhBizWLlzGJ8), [Blizzard Entertainment](https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59) | [Blood is the Law](https://open.spotify.com/album/70flEiyEBzClP61nU8H2P8) | 2:35 |
 | 16 | [BLUE2TH!](https://open.spotify.com/track/3WlZDXyo8jPkHuCAIb3uPR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Lunnari](https://open.spotify.com/artist/3WOkFrwqOYTjSGcku5Dkq7), [kyva](https://open.spotify.com/artist/2Fh6XuKuTK8IW5SNERcsBQ) | [BLUE2TH!](https://open.spotify.com/album/7axjdEYhhy5gIsJkfSjfdP) | 3:00 |
-| 17 | [RUNNA](https://open.spotify.com/track/1Km1gkxBuN49H3dIsCRxgx) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [RUNNA](https://open.spotify.com/album/4xAUqo8DmfMwhA7kplCw9B) | 2:50 |
+| 17 | [Runna](https://open.spotify.com/track/1Km1gkxBuN49H3dIsCRxgx) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Runna](https://open.spotify.com/album/4xAUqo8DmfMwhA7kplCw9B) | 2:50 |
 | 18 | [You Thought](https://open.spotify.com/track/7vqhdTChjBagZe19k5OMlA) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [New York](https://open.spotify.com/album/0XkAxtxrz3kFobDhuuwFiR) | 4:33 |
 | 19 | [UGS](https://open.spotify.com/track/6qWLbvEkHL64oRjX0Am9zq) | [Kill Safari](https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [UGS](https://open.spotify.com/album/6N7oni77x7EOaVhu026Y0M) | 2:17 |
 | 20 | [LOUDER](https://open.spotify.com/track/3tUl81O1ilB0U3H63kcNiy) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LOUDER](https://open.spotify.com/album/5klX6dXCGsRln0N4t6pHEr) | 2:12 |

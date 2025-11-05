@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 481188,
+  "num_followers": 481140,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQafAAAAAAAW/rObQ+it5R51+HLydodU",
+  "snapshot_id": "aQfwgAAAAACF8H6j62nL5usUJTijIkFm",
   "tracks": [
     {
       "added_at": null,
@@ -658,11 +658,15 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 102842,
-      "name": "LACE LIFTERS",
-      "url": "https://open.spotify.com/track/6K2JmaTn3MWXpXqICyCrjB"
+      "duration_ms": 141781,
+      "name": "STFU (FEAT. LIL JON)",
+      "url": "https://open.spotify.com/track/4lQi3waSXFs3SjQPKOcv1o"
     },
     {
       "added_at": null,
@@ -726,15 +730,11 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
         }
       ],
-      "duration_ms": 141781,
-      "name": "STFU (FEAT. LIL JON)",
-      "url": "https://open.spotify.com/track/4lQi3waSXFs3SjQPKOcv1o"
+      "duration_ms": 102842,
+      "name": "LACE LIFTERS",
+      "url": "https://open.spotify.com/track/6K2JmaTn3MWXpXqICyCrjB"
     },
     {
       "added_at": null,

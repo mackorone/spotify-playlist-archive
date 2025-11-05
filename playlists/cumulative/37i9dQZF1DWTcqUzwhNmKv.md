@@ -4,7 +4,7 @@
 
 > Ice Nine Kills are on top of today's best Metal playlist.
 
-1,151 songs - 3 day 3 hr 8 min
+1,152 songs - 3 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [Earwig](https://open.spotify.com/track/1aovAXNh9hTj7pu031Q34T) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Earwig](https://open.spotify.com/album/3fR0ttBLpuuixutqIbW2SL) | 3:14 | 2025-02-14 | 2025-03-22 |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2021-12-20 | 2022-03-25 |
 | [Echoes](https://open.spotify.com/track/3ziTknZahiwT3RTAlwN5a1) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [From The New World](https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC) | 3:17 | 2024-10-11 | 2025-03-08 |
-| [Echoes](https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Echoes](https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV) | 4:29 | 2025-10-10 |  |
+| [Echoes](https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Echoes](https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV) | 4:29 | 2025-10-10 | 2025-11-05 |
 | [Echoes](https://open.spotify.com/track/72mfxZKrn7uUGJ5VIHQctO) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Echoes](https://open.spotify.com/album/51cl9f9wHRoDA0foJmzkMd) | 2:49 | 2025-09-26 |  |
 | [Echoes \(Radio Edit\)](https://open.spotify.com/track/3fFjk1czgVziPEQmcLlD0J) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [Echoes \(Radio Edit\)](https://open.spotify.com/album/6xxlAng53QMr7C8OmthgjG) | 3:34 | 2023-10-06 | 2023-11-18 |
 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 | 2023-02-03 | 2023-05-13 |
@@ -928,10 +928,10 @@
 | [Supreme Ruler](https://open.spotify.com/track/6U6arJe3nfBpl0UiVg1T70) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Exhibition Of Prowess](https://open.spotify.com/album/3UqEHbnms5ixC6YPuPZTfi) | 0:54 | 2024-10-07 | 2024-12-14 |
 | [Surrender](https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 3:41 | 2021-12-20 | 2022-04-15 |
 | [Survivors Guilt](https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Survivor’s Guilt](https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY) | 3:18 | 2024-11-08 | 2024-12-07 |
-| [System](https://open.spotify.com/track/7mi0MYAE0uEcX0c0VeP8Ou) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [](https://open.spotify.com/album/null) | 1:54 | 2025-10-31 |  |
+| [System](https://open.spotify.com/track/7mi0MYAE0uEcX0c0VeP8Ou) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [](https://open.spotify.com/album/null) | 1:54 | 2025-10-31 | 2025-11-05 |
 | [T.I.M.E.](https://open.spotify.com/track/6Wxesnvvvh44UMXCBF7wMa) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [T.I.M.E.](https://open.spotify.com/album/632ug91PGPg5ODJIJYNAUY) | 3:58 | 2025-04-04 | 2025-06-28 |
 | [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 | 2024-07-19 | 2024-10-12 |
-| [Take My Last Breath](https://open.spotify.com/track/0kmwqIdWC6UoFcKaH0Tjwf) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [The Host](https://open.spotify.com/album/6AYi6eyLMf2qOIYF9xEaGp) | 3:28 | 2025-09-26 | 2025-11-01 |
+| [Take My Last Breath](https://open.spotify.com/track/0kmwqIdWC6UoFcKaH0Tjwf) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [The Host](https://open.spotify.com/album/6AYi6eyLMf2qOIYF9xEaGp) | 3:28 | 2025-09-26 |  |
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-07-21 | 2023-09-30 |
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/6uBtqwcoaMTcTewEXX9e7T) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:24 | 2023-09-29 | 2023-10-21 |
 | [Tamashii No Houkai](https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Tamashii No Houkai](https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B) | 5:58 | 2022-01-21 | 2022-02-25 |
@@ -1069,6 +1069,7 @@
 | [VIKING](https://open.spotify.com/track/6Z5rBmAtaA29iD0H0LGKn7) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [VIKING](https://open.spotify.com/album/4DCEqAP5mAejmCP1y1SIYG) | 4:31 | 2023-11-17 | 2024-03-02 |
 | [Villain](https://open.spotify.com/track/4RZCiJgNU2GY3ii22Y5Pu9) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [ARMAHEAVEN](https://open.spotify.com/album/4YMYPIlNkl2ujiwrebKmN2) | 3:31 | 2025-10-31 |  |
 | [Villain Arc](https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Villain Arc](https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8) | 3:39 | 2024-06-07 | 2024-10-05 |
+| [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 | 2025-11-04 |  |
 | [Violent Ends](https://open.spotify.com/track/2ijRR930GKlMPmMyPrAIpA) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Violent Ends](https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg) | 2:41 | 2022-08-05 | 2022-09-24 |
 | [Violent Nature](https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Zenith](https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb) | 3:55 | 2025-04-11 | 2025-07-19 |
 | [Violent Nature](https://open.spotify.com/track/4wG1qk65XGBixayITnktbO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/0NpIXEaW7ekAxVqOJ8GmAe) | 2:10 | 2025-05-23 | 2025-06-21 |

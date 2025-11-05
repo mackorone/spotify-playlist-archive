@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Transnation",
+        "url": "https://open.spotify.com/album/6xV8XV6JaRJudXN09zm9hW"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161535,
+      "name": "Transnation",
+      "url": "https://open.spotify.com/track/5shQ1DVs0Kjg0zmcFJcN9b"
+    },
+    {
+      "album": {
         "name": "PRODUCT",
         "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
       },

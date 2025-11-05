@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇 Kannessa Ice Nine Kills.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,626 likes - 76 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,633 likes - 76 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-256 songs - 16 hr 31 min
+257 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [コノユビトマレ](https://open.spotify.com/track/47ltbGJTejvcljxYfzAlUZ) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [コノユビトマレ](https://open.spotify.com/album/5xpmbprnRWDZfDCF8kCU63) | 4:59 | 2022-05-10 |  |
 | [サクリファイス](https://open.spotify.com/track/6n82QNGxWNZvIHvWdDH8HT) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [神楽色アーティファクト](https://open.spotify.com/album/0cCg0eapt15PYey2SsNeqk) | 4:14 | 2025-09-18 |  |
 | [サクリファイス](https://open.spotify.com/track/45oVY6oQcKsMmRhacvLhsG) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [サクリファイス](https://open.spotify.com/album/1h1aMRQtp8vDVOMKxwXFPc) | 4:15 | 2022-05-10 | 2025-09-19 |
+| [ジェーンは教会で眠った](https://open.spotify.com/track/5jvfHk3Uqxb2HVo4M4bAGp) | [レゼ（上田麗奈）](https://open.spotify.com/artist/2AaLPKr9ixiqGNlK07WoJ9) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/12QAC47UeSL5kHYu0g7wX3) | 1:23 | 2025-11-04 |  |
 | [スタンドバイミー](https://open.spotify.com/track/053ydqZPlzfOkFsRmY8SNL) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [スタンドバイミー](https://open.spotify.com/album/6vU96iKokwWo07rK08BoNm) | 4:37 | 2022-05-10 | 2025-09-19 |
 | [スタンドバイミー](https://open.spotify.com/track/3uc67Ss8Bs8d061kQTsgD2) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 4:38 | 2025-09-18 |  |
 | [ソフィア](https://open.spotify.com/track/6K5ylsLGN10jFejzBAXO4M) | [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU) | [ソフィア](https://open.spotify.com/album/1nVzjlOmf3MAFtwpcfK9uV) | 5:31 | 2022-05-10 |  |

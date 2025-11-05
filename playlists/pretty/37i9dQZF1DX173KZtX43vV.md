@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: Chy Cartier, Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,820 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,818 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 38 | [Ready](https://open.spotify.com/track/6H6vPaq7HfWqqflUhvmuz6) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Ready](https://open.spotify.com/album/7vid9BEk4cWnQWtv7tLGs6) | 2:32 |
 | 39 | [Platonic](https://open.spotify.com/track/7oFqlL5YtppeJQSoelzlym) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [How I Feel](https://open.spotify.com/album/4SsAzqjIJvvbq3NA4E3UNL) | 2:46 |
 | 40 | [Easy Silence](https://open.spotify.com/track/3T8GmN1tKgSwWxlBMj0AM1) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Desire Lines](https://open.spotify.com/album/4qbBgoBqWJoYS1SeY2bEcJ) | 3:06 |
-| 41 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 |
+| 41 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/5MmaIayf4hK7hR3hdK6Y0v) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 |
 | 42 | [Last Days](https://open.spotify.com/track/1SN4njpx7LeapXlrD4kBW6) | [Blacksmith](https://open.spotify.com/artist/3eSCq2mHL5JuADXu2vEAs5), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Last Days](https://open.spotify.com/album/5JMmcZ5M8iQfF6UNBFwN5V) | 2:50 |
 | 43 | [Bk2reality](https://open.spotify.com/track/3Y0TlqUH27ZqGt787sVY1q) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Bk2reality](https://open.spotify.com/album/2l04QguwJk0L2BkFKx9Gax) | 2:48 |
 | 44 | [Don't Hate Me](https://open.spotify.com/track/6ukI0t8qlc8fC6jB4SBG8j) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Don't Hate Me](https://open.spotify.com/album/3mpiUuk113l19V7QIWHOWP) | 2:47 |

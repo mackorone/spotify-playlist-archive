@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 52264,
+  "num_followers": 52306,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
         "name": "Theory of Colours",
         "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
       },
@@ -381,22 +397,6 @@
       "url": "https://open.spotify.com/track/4l6gl1xs2TQx5SwBNdWEsv"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
-      },
-      "artists": [
-        {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
-    },
-    {
       "added_at": "2024-10-25 06:00:00",
       "album": {
         "name": "Worm",
@@ -411,6 +411,22 @@
       "duration_ms": 198000,
       "name": "Flatworm Meets Sea Slug",
       "url": "https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Lunatic Harness",
+        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 382373,
+      "name": "Brace Yourself Jason",
+      "url": "https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -443,22 +459,6 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Lunatic Harness",
-        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 382373,
-      "name": "Brace Yourself Jason",
-      "url": "https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi"
     },
     {
       "added_at": "2025-01-30 18:29:28",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Good Places",
         "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 121856,
       "name": "Mechanical Advantage",
       "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Rounds",
-        "url": "https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ"
+        "name": "The Space Lady's Greatest Hits",
+        "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "The Space Lady",
+          "url": "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
         }
       ],
-      "duration_ms": 281933,
-      "name": "She Moves She",
-      "url": "https://open.spotify.com/track/4kenHKdPL2geBCAUrhkO5P"
+      "duration_ms": 275372,
+      "name": "I Had Too Much to Dream Last Night",
+      "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
     },
     {
       "added_at": "2023-03-03 04:01:23",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "The Space Lady's Greatest Hits",
-        "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
+        "name": "Rounds",
+        "url": "https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ"
       },
       "artists": [
         {
-          "name": "The Space Lady",
-          "url": "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 275372,
-      "name": "I Had Too Much to Dream Last Night",
-      "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
+      "duration_ms": 281933,
+      "name": "She Moves She",
+      "url": "https://open.spotify.com/track/4kenHKdPL2geBCAUrhkO5P"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Rounds",
-        "url": "https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 341160,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/6VfWccY3UTDtXFa7WFMyz8"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -1069,20 +1053,20 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+        "name": "Rounds",
+        "url": "https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ"
       },
       "artists": [
         {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 420066,
-      "name": "Sci-Fi Staircase",
-      "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
+      "duration_ms": 341160,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/6VfWccY3UTDtXFa7WFMyz8"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1099,6 +1083,22 @@
       "duration_ms": 642653,
       "name": "Silhouettes (I, II, III)",
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 420066,
+      "name": "Sci-Fi Staircase",
+      "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1165,30 +1165,6 @@
       "url": "https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Space Oddities: Studio Ganaro (1972-1982)",
-        "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
-      },
-      "artists": [
-        {
-          "name": "Nino Nardini",
-          "url": "https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS"
-        },
-        {
-          "name": "Eddie Warner",
-          "url": "https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2"
-        },
-        {
-          "name": "Roger Roger",
-          "url": "https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt"
-        }
-      ],
-      "duration_ms": 123973,
-      "name": "Beyond the Clouds",
-      "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Dopamine",
@@ -1219,6 +1195,30 @@
       "duration_ms": 383899,
       "name": "Music To Heal To",
       "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Space Oddities: Studio Ganaro (1972-1982)",
+        "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
+      },
+      "artists": [
+        {
+          "name": "Nino Nardini",
+          "url": "https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS"
+        },
+        {
+          "name": "Eddie Warner",
+          "url": "https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2"
+        },
+        {
+          "name": "Roger Roger",
+          "url": "https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt"
+        }
+      ],
+      "duration_ms": 123973,
+      "name": "Beyond the Clouds",
+      "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
-      },
-      "artists": [
-        {
-          "name": "Solomon Fesshaye",
-          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
-        }
-      ],
-      "duration_ms": 263630,
-      "name": "Star City",
-      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Drunken Clouds",
@@ -1519,6 +1503,22 @@
       "duration_ms": 253701,
       "name": "Drunken Clouds",
       "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
+      },
+      "artists": [
+        {
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
+        }
+      ],
+      "duration_ms": 263630,
+      "name": "Star City",
+      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 266179,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2024-08-14 16:50:39",

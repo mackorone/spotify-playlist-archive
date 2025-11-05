@@ -2,7 +2,7 @@
 
 ### [Moroccan Moonlight](https://open.spotify.com/playlist/37i9dQZF1DXdqI2RbPkCAQ)
 
-> late nights in Marrakech? packing now
+> marrakech season
 
 111 songs - 7 hr 13 min
 

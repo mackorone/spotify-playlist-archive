@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Anakin Larios
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,347 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,354 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 39 | [Travesuras Contigo](https://open.spotify.com/track/3IRYCsGqM18nICfoWXRkuQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Travesuras Contigo](https://open.spotify.com/album/1uWnroRrAL8nzS3dSiyQsA) | 2:50 |
 | 40 | [EN ALTAVOZ](https://open.spotify.com/track/0YpYqtnjIWYR516n46of97) | [Cheluis](https://open.spotify.com/artist/08EHv9ysRhyjFxU8woWkRh) | [Por Amores No Lloro](https://open.spotify.com/album/25Du1tvxBaNnYfNLGKGvw6) | 2:57 |
 
-Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`
+Snapshot ID: `AAAAANIl7KjWWntTU6nBs6b5gPurJ4U9`

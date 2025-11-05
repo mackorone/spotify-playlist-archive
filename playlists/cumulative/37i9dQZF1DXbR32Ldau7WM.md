@@ -2,9 +2,9 @@
 
 ### [Rock Strike Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> J\-Rock acts who have broken the border and are making global impact\.   Cover: Ling Tosite Sigure 凛として時雨
+> J\-Rock acts who have broken the border and are making global impact\.   Cover: Yogee New Waves
 
-1,424 songs - 3 day 21 hr 16 min
+1,427 songs - 3 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bloody Liar](https://open.spotify.com/track/4i28PHh1RaifHQSq77Dd4X) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Bloody Liar](https://open.spotify.com/album/1oU9RnBIPknsbhA6timxeh) | 3:43 | 2025-01-14 | 2025-01-22 |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 | 2023-02-08 |
 | [bloodYhell.](https://open.spotify.com/track/3hK0jJVeMYsie1nnQhvy2N) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [bloodYhell.](https://open.spotify.com/album/5TVZ4thQkBJS3fFAKt11Su) | 3:41 | 2025-04-01 | 2025-06-25 |
+| [BLUE DIVER](https://open.spotify.com/track/3n07Xv1MuzLx76mmHn0lly) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUE DIVER](https://open.spotify.com/album/7y1qT6eKNtrlMs3QbCJ3db) | 5:28 | 2025-11-04 |  |
 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-18 | 2023-09-13 |
 | [Boogie Woogie](https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [IZORA](https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI) | 3:57 | 2023-04-25 | 2023-05-10 |
 | [Boogie Woogie](https://open.spotify.com/track/4sJmUGSQRuaXU2lzaslHFI) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/3lkurRziZZ3vg0PprumXcU) | 3:57 | 2023-04-04 | 2023-04-06 |
@@ -228,6 +229,7 @@
 | [FINAL PIECE](https://open.spotify.com/track/09sCgFLpjQPfEqVcPzUlx3) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [FINAL PIECE](https://open.spotify.com/album/4dh31llaEE8hkDH1W3jb1E) | 4:34 | 2022-05-17 | 2022-07-22 |
 | [first death](https://open.spotify.com/track/0ky07Oq85l9zx7e427XGgC) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [first death](https://open.spotify.com/album/1IbsEpB7SmkJSaeTajYw7R) | 4:01 | 2022-11-29 | 2023-05-10 |
 | [Fledgling](https://open.spotify.com/track/5tvaEwIBqMrbKPIzfIRzMQ) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [Fledgling](https://open.spotify.com/album/4PW3M0r0Zs8msRppMWuNn9) | 2:24 | 2025-03-25 | 2025-04-09 |
+| [FMP](https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FMP](https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK) | 3:24 | 2025-11-04 |  |
 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 | 2022-07-05 | 2023-06-28 |
 | [for never end](https://open.spotify.com/track/08Ms1LvE6haWBO6vFety2l) | [dip](https://open.spotify.com/artist/4r6WtScg6432ThqBWqA4wD) | [HOLLOWGALLOW](https://open.spotify.com/album/0NERpROreFPwF4zpxDYGhL) | 4:00 | 2023-12-12 | 2023-12-20 |
 | [Forbidden tale](https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Epic Narratives](https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO) | 4:34 | 2024-09-24 | 2024-12-04 |
@@ -802,6 +804,7 @@
 | [UNICORN](https://open.spotify.com/track/0DgGervwg1jBfFNFn7vKao) | [Nanaco Sato](https://open.spotify.com/artist/5jBW0pDTtDdHdYQnQu8iIN), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [Yusuke Sato](https://open.spotify.com/artist/6ekst7TqSc5t6qan4yEt0n) | [UNICORN](https://open.spotify.com/album/6wLYM2M4RLKsXSbcoR3NHe) | 3:27 | 2024-02-13 | 2024-02-21 |
 | [UNICORN](https://open.spotify.com/track/44MRKShx562b6moPwz1wI8) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33), [Toru Okada](https://open.spotify.com/artist/6u3WQgfTby0E2R6nnqWLqO), [佐藤優介](https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L) | [UNICORN](https://open.spotify.com/album/2xUmiIIjIVGoCwLpyh8zRV) | 3:27 | 2024-02-13 | 2024-02-15 |
 | [UNITE](https://open.spotify.com/track/5WwwgrjwI7DLLfg0qCEL7t) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [UNITE](https://open.spotify.com/album/53xqFfS0lGK2jQVoZ0ls1W) | 4:44 | 2022-05-19 | 2022-08-31 |
+| [UNITE](https://open.spotify.com/track/0pmVqC9qinx3ALaInYKg63) | [CONTRASTZ](https://open.spotify.com/artist/35wMWJWcm1XFzLiYi6wK03) | [CONTRASTZ](https://open.spotify.com/album/4e6lEfM24tGSJSpz7CRA9K) | 4:13 | 2025-11-04 |  |
 | [United Sparrows](https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/6rv9sxkAuqiclA89jciJWj) | 3:42 | 2022-05-12 | 2022-07-16 |
 | [Unknown](https://open.spotify.com/track/2BAz3SqnUO1AqABmOLsuv1) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [Unknown](https://open.spotify.com/album/0iiDQWRrwVrDtbi0bBQqSO) | 3:22 | 2024-07-09 | 2024-07-31 |
 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-08-09 | 2022-09-24 |
@@ -876,7 +879,7 @@
 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-02-20 | 2024-04-24 |
 | [Zero Gravity](https://open.spotify.com/track/5dxykjAA2ZILvMotcj9SyQ) | [Mari Hamada](https://open.spotify.com/artist/2lQwmHGmTnEu1jjfAgUAcq) | [Zero Gravity](https://open.spotify.com/album/5Z9WpciNxn8RhCqBaPnwrb) | 5:53 | 2023-04-04 | 2023-04-12 |
 | [Zetsubou Billy](https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:44 | 2024-04-23 | 2025-08-02 |
-| [zutto love song](https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [zutto love song](https://open.spotify.com/album/3emgAsjS97UgKw0MuxTO2W) | 3:32 | 2025-08-26 |  |
+| [zutto love song](https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [zutto love song](https://open.spotify.com/album/3emgAsjS97UgKw0MuxTO2W) | 3:32 | 2025-08-26 | 2025-11-05 |
 | [○か×](https://open.spotify.com/track/2VbxCJgAXOYcf5ashGYuHh) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [○か×](https://open.spotify.com/album/0Ew3ozhOSJz96Np4YTWPXB) | 3:51 | 2022-05-12 | 2022-07-26 |
 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 | 2024-04-23 | 2025-09-14 |
 | [あおにもどる](https://open.spotify.com/track/46lu106wmysXsOp6zDw1UC) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [BLUE](https://open.spotify.com/album/20AsUOZVegUSO3JC2oTZVb) | 6:08 | 2025-03-04 | 2025-04-02 |
@@ -1129,7 +1132,7 @@
 | [一触即発](https://open.spotify.com/track/5rjg2Ko5FKp9k8i8spC1vQ) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [TODAY](https://open.spotify.com/album/0DsM76Alyvsrq649owb7Xf) | 3:08 | 2022-10-29 | 2022-11-23 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-07-04 |  |
 | [三叉路のふたり](https://open.spotify.com/track/2dxI9SqqEO00D4RyHeCKEz) | [Moonriders](https://open.spotify.com/artist/01o8KYRik9Eb3RbAm4T2hh) | [It's the moooonriders](https://open.spotify.com/album/0S2eED52dbq75kYgRghQuc) | 2:56 | 2022-05-12 | 2022-05-18 |
-| [三月の歌](https://open.spotify.com/track/4EQQLK6xsQN6eiByBRuko8) | [SaToA](https://open.spotify.com/artist/3G6WF3GvhYoSEowQlsllIr) | [タイムリープ](https://open.spotify.com/album/5F7V2dm5l6wkHwozYRJJWY) | 3:01 | 2025-10-21 |  |
+| [三月の歌](https://open.spotify.com/track/4EQQLK6xsQN6eiByBRuko8) | [SaToA](https://open.spotify.com/artist/3G6WF3GvhYoSEowQlsllIr) | [タイムリープ](https://open.spotify.com/album/5F7V2dm5l6wkHwozYRJJWY) | 3:01 | 2025-10-21 | 2025-11-05 |
 | [下を向いて歩こう](https://open.spotify.com/track/1asktHGEURdlQRGFGWLpi9) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [下を向いて歩こう](https://open.spotify.com/album/17UUaCzdhyI4M9lXWP5qUK) | 5:02 | 2023-10-17 | 2023-11-11 |
 | [世界の真昼](https://open.spotify.com/track/7CvhO8yF4Xw0mbrBLQXrSB) | [割礼](https://open.spotify.com/artist/4BrmvqrDvcagflvt6lFNJ1) | [セカイノマヒル](https://open.spotify.com/album/7keZGSUJVc4X1Dbfcxro6m) | 4:12 | 2022-05-12 | 2022-06-06 |
 | [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2023-12-12 | 2024-07-03 |
@@ -1137,7 +1140,7 @@
 | [世界は変わる](https://open.spotify.com/track/6uUXrI5TQTnrDgWj08OuoL) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [世界は変わる](https://open.spotify.com/album/5LdgdWiTXcrbTI5qkUh244) | 3:22 | 2022-06-09 | 2022-07-14 |
 | [主人公](https://open.spotify.com/track/16Ja7QMLTkSEAqgt1rOd7H) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [主人公](https://open.spotify.com/album/2vsldPSSsOtahc3HAULWkA) | 4:58 | 2025-06-24 |  |
 | [乱土](https://open.spotify.com/track/3XOQImZq2wMFCJXFRPbsqU) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 2:05 | 2024-01-23 | 2024-01-31 |
-| [今ここで](https://open.spotify.com/track/4BY0Cuwh3CYlVTDqRRNV2U) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [今ここで](https://open.spotify.com/album/4hQ9ZdErVRKMWk1VNb0ktZ) | 3:53 | 2025-09-23 |  |
+| [今ここで](https://open.spotify.com/track/4BY0Cuwh3CYlVTDqRRNV2U) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [今ここで](https://open.spotify.com/album/4hQ9ZdErVRKMWk1VNb0ktZ) | 3:53 | 2025-09-23 | 2025-11-05 |
 | [今日の続きを](https://open.spotify.com/track/6eJqGKAaGIWQZ4zHZwhmI0) | [Scoobie Do](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/0kl03FkY6GYsty7uak2aJz) | 3:32 | 2022-08-23 | 2022-08-25 |
 | [会いに行く](https://open.spotify.com/track/1WAl0QDIFiNELLu2ecJdBs) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:04 | 2022-06-14 | 2022-06-22 |
 | [会心ノ一撃](https://open.spotify.com/track/7cgxUDKToj4Y8m8AO64Xhz) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [会心ノ一撃](https://open.spotify.com/album/6NH9zmaXkzaew0ahAzxpwv) | 3:46 | 2024-07-30 | 2024-09-03 |

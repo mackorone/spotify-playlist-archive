@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>! Featuring IMANU
 
-1,183 songs - 2 day 16 hr 55 min
+1,184 songs - 2 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Gone \- Sam Day Remix](https://open.spotify.com/track/3DXtDgmb9A3Gp5Dd5EF6tI) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Gone \(Sam Day Remix\)](https://open.spotify.com/album/2WlydDZM5ADjOfN3W2liUx) | 2:38 | 2022-04-22 | 2022-07-29 |
 | [Gone \- Sam Day Remix](https://open.spotify.com/track/6QeTOaxZRItQG5Pfj2qWm7) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Mazde: The Remixes](https://open.spotify.com/album/3smXBs5oEJjx0UnjcDY6bR) | 2:38 | 2022-12-21 | 2023-03-05 |
 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 | 2023-06-23 | 2023-12-14 |
-| [GOOD TIME GIRL](https://open.spotify.com/track/6A2CEALbfAIbxbYUy2ya6e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GOOD TIME GIRL](https://open.spotify.com/album/6jbsNqUzdc8GkVLPj7je1q) | 2:32 | 2025-06-06 |  |
+| [GOOD TIME GIRL](https://open.spotify.com/track/6A2CEALbfAIbxbYUy2ya6e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GOOD TIME GIRL](https://open.spotify.com/album/6jbsNqUzdc8GkVLPj7je1q) | 2:32 | 2025-06-06 | 2025-11-05 |
 | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/track/4inDHMhS9nxqOygYurJH2Q) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Gorgeous \(with Reo Cragun\)](https://open.spotify.com/album/2kNtLpsLRH3s2b74ZinmNs) | 2:48 | 2023-05-12 | 2023-05-21 |
 | [Grateful](https://open.spotify.com/track/0b4FAp9BjRoh9MmCs3TI0D) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Disconnect](https://open.spotify.com/album/46oF8bPSYc6DHs2PpqViTG) | 3:58 | 2021-08-06 | 2022-06-18 |
 | [Gundam](https://open.spotify.com/track/5q5KRMmj8TIIm3FNzs16Cw) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Gundam](https://open.spotify.com/album/7HUD2ph11CBmesjPmCZXsp) | 3:53 | 2024-10-10 | 2024-10-18 |
@@ -1050,6 +1050,7 @@
 | [Tirana](https://open.spotify.com/track/15KVtURLWmNBhpGWlbsG4t) | [minds&machines](https://open.spotify.com/artist/2KxAw5fHhZUSuDNBuNACUQ) | [Tirana](https://open.spotify.com/album/1LY019HgpEOcSistIGWEt3) | 4:09 | 2023-01-20 | 2023-03-25 |
 | [Today Tomorrow Forever \(feat\. fknsyd\)](https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Today Tomorrow Forever \(feat\. fknsyd\)](https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3) | 2:35 | 2023-05-05 | 2023-11-11 |
 | [Too Fast](https://open.spotify.com/track/6IDHk0p2Rt7cfof8mONQ2g) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Too Fast](https://open.spotify.com/album/0QBxcn7dmqPAfGkIlyBILQ) | 2:40 | 2023-10-05 | 2023-11-11 |
+| [Too Late](https://open.spotify.com/track/62yoC1CtvCigAoLgybU2ub) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Second Self](https://open.spotify.com/album/5CwOMFZ4ss057biZKdHBY6) | 3:31 | 2025-10-24 |  |
 | [TOO LOUD](https://open.spotify.com/track/0qcjhu6sjTjGBxa1U7FsQ5) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Aloboi](https://open.spotify.com/artist/4Lfqvnzd6MN7hmHJt6LfcY) | [OXY](https://open.spotify.com/album/7jadg9v5YG5vSAkKHitFuJ) | 3:11 | 2025-05-22 | 2025-07-08 |
 | [Torture Me \(feat\. Skrillex\)](https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:53 | 2023-02-10 | 2023-12-14 |
 | [Touch](https://open.spotify.com/track/5kEEmoch60p0sXWNjMOHTJ) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Hiding](https://open.spotify.com/album/1LDEPbaGv4HgFoviWNUcXi) | 4:21 | 2024-09-26 | 2024-10-04 |

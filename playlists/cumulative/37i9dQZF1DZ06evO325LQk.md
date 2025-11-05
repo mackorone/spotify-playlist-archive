@@ -4,7 +4,7 @@
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 26 min
+42 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 5:27 | 2025-10-28 |  |
 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:52 | 2025-10-28 |  |
 | [Sunscreen](https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Sunscreen](https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P) | 3:07 | 2025-10-28 |  |
+| [Transnation](https://open.spotify.com/track/5shQ1DVs0Kjg0zmcFJcN9b) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Transnation](https://open.spotify.com/album/6xV8XV6JaRJudXN09zm9hW) | 2:41 | 2025-11-05 |  |
 | [UNISIL](https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:06 | 2025-10-28 |  |
 | [Voices](https://open.spotify.com/track/3xP1Pvjs45aUMap2kk8okL) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ) | 1:54 | 2025-10-28 |  |
 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 | 2025-10-28 |  |

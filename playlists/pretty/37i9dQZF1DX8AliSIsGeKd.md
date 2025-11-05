@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Paul Kalkbrenner
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,191 likes - 89 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,274 likes - 89 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
