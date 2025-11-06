@@ -1,4 +1,4 @@
-## Playlists \(8958\)
+## Playlists \(8959\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4804,6 +4804,7 @@
 - [Prog Rock](/playlists/pretty/37i9dQZF1DWXgtgITTKvYl.md)
 - [Prog Rock Monsters](/playlists/pretty/37i9dQZF1DX0uqkwkR49kK.md)
 - [Progressive Metal](/playlists/pretty/37i9dQZF1DX5wgKYQVRARv.md)
+- [Projekt Melody Official Playlist](/playlists/pretty/4DLyjRH9elAil3nXGatCcY.md)
 - [Projeto Verão](/playlists/pretty/37i9dQZF1DXc0iyNwZI144.md)
 - [Prom Night](/playlists/pretty/37i9dQZF1DXe9YJxYnhkr3.md)
 - [Proper Belters](/playlists/pretty/37i9dQZF1DWWjDnew1mOxr.md)
