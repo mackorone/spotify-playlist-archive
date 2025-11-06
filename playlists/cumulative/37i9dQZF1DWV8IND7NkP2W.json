@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Gentle Pulse",
+        "url": "https://open.spotify.com/album/3ID1KnL5W5u4Q3y59oymBy"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150484,
+      "name": "Gentle Pulse",
+      "url": "https://open.spotify.com/track/5dA2ncuY1kKpuqWBV6YuXG"
+    },
+    {
+      "album": {
         "name": "gentle rain",
         "url": "https://open.spotify.com/album/77Z3NG9a0HbZC20gxpcsVN"
       },
@@ -12508,7 +12526,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 136426,
       "name": "SPICA",
       "url": "https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6"
@@ -12589,7 +12607,7 @@
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 276138,
+      "duration_ms": 271162,
       "name": "Stack Wave (feat. STUTS)",
       "url": "https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo"
     },
@@ -13229,7 +13247,7 @@
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200506,
+      "duration_ms": 200061,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },

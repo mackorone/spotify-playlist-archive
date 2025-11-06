@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-283 songs - 18 hr 26 min
+284 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-23 | 2025-11-05 |
 | [All I Want](https://open.spotify.com/track/03X0BZPwMFxLNg9O2yMtza) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [All I Want](https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh) | 2:30 | 2023-10-25 | 2023-11-11 |
 | [Amore](https://open.spotify.com/track/6KNODyHzjGCSmR38AahqsW) | [Jerome Banaay](https://open.spotify.com/artist/4YkvowYlmKG7m07nj31ymK) | [Amore](https://open.spotify.com/album/7pBcoSbfnMDPL2ME260k6J) | 3:52 | 2025-02-19 | 2025-03-19 |
-| [Ano Ba Talaga Tayo?](https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF) | 4:12 | 2025-07-16 |  |
+| [Ano Ba Talaga Tayo?](https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF) | 4:12 | 2025-07-16 | 2025-11-06 |
 | [Apat Na Buwan](https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM) | 3:37 | 2024-08-21 | 2024-09-05 |
 | [Araw\-Araw w/ You](https://open.spotify.com/track/1o0OXfkYfNKhANdE0LPbHa) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Araw\-Araw w/ You](https://open.spotify.com/album/6Sy2dHcsbWhyNTciQ00VY4) | 2:55 | 2024-01-10 | 2024-02-08 |
 | [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 | 2023-10-18 | 2023-12-19 |
@@ -195,6 +195,7 @@
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-09-04 |  |
 | [Palaging Masaya](https://open.spotify.com/track/4I7T76QWKWEjCpPTfGP6jq) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Palaging Masaya](https://open.spotify.com/album/4R60jek85Uw3wF6Wq4RyXc) | 3:58 | 2025-04-30 | 2025-05-10 |
 | [Palapit Sa Ü](https://open.spotify.com/track/1c82x61tkS3Piyt7l39Ouu) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Palapit Sa Ü](https://open.spotify.com/album/3YyLO6slRwlirN8KJkamTB) | 3:17 | 2025-05-21 | 2025-06-21 |
+| [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 | 2025-11-05 |  |
 | [Pamamaalam](https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Pamamaalam](https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB) | 3:46 | 2024-11-20 | 2024-11-30 |
 | [Pambihira](https://open.spotify.com/track/1Q8Y8NRb5Ug9OPSxJRmW01) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Pambihira](https://open.spotify.com/album/0GKilAe9xZorJi7OthEzWu) | 4:08 | 2025-05-09 | 2025-05-22 |
 | [Panaginip](https://open.spotify.com/track/6XHUlDl2PJMEecKyN6aAkO) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/7zA0i3A5ALkRYkLgb9cShq) | 5:17 | 2025-06-02 | 2025-06-21 |

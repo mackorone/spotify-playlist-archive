@@ -1,13 +1,29 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Karly Bowman. Artwork by Paola Saliby",
-  "num_followers": 230487,
+  "description": "The best new pop music from new, independent artists.  Cover: Stella Hennen. Artwork by Paola Saliby",
+  "num_followers": 230503,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFhAdoRHFTsXTijdZxGALXIF7P8Z",
+  "snapshot_id": "AAAAADpteNPyEInQ72c7EXI/6svp6sMz",
   "tracks": [
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "Jack of All Trades",
+        "url": "https://open.spotify.com/album/57nIZmCgofRT8NWpHGYvkH"
+      },
+      "artists": [
+        {
+          "name": "Stella Hennen",
+          "url": "https://open.spotify.com/artist/6MnbL55UpU2qOvoXDmTF2B"
+        }
+      ],
+      "duration_ms": 173948,
+      "name": "Jack of All Trades",
+      "url": "https://open.spotify.com/track/3YN5X0oGwi0NHvlt9vy2a8"
+    },
     {
       "added_at": "2025-10-29 04:00:33",
       "album": {
@@ -23,6 +39,166 @@
       "duration_ms": 202060,
       "name": "In My Sleep",
       "url": "https://open.spotify.com/track/46LKpy0VOIcUOn9jJhCtTZ"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "Where's My Mind",
+        "url": "https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 236747,
+      "name": "Where's My Mind",
+      "url": "https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "we never tried",
+        "url": "https://open.spotify.com/album/6cM668bpQjuS8Oep192yGs"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 248250,
+      "name": "we never tried",
+      "url": "https://open.spotify.com/track/65UBG6Uq9yfPAHO4XxMTxg"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "Take Me to Atlantis",
+        "url": "https://open.spotify.com/album/6AsTYWjXs7fuO7IIyMdaJj"
+      },
+      "artists": [
+        {
+          "name": "Chattaraa",
+          "url": "https://open.spotify.com/artist/7L1WY9iSSZenZPKcU98Fn6"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Take Me to Atlantis",
+      "url": "https://open.spotify.com/track/0SPueDV7TVh2s6IOj0DeRw"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "Crush on a Guy",
+        "url": "https://open.spotify.com/album/2bG1gXQRzBhd18fUFGokeZ"
+      },
+      "artists": [
+        {
+          "name": "Melicious",
+          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Crush on a Guy",
+      "url": "https://open.spotify.com/track/23XOzEnXKHSP2XpeHByUUt"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "I'm So Pretty",
+        "url": "https://open.spotify.com/album/2PybMedC0ginMdfPl1EhMs"
+      },
+      "artists": [
+        {
+          "name": "mermaidonmars",
+          "url": "https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX"
+        }
+      ],
+      "duration_ms": 147266,
+      "name": "I'm So Pretty",
+      "url": "https://open.spotify.com/track/5DnNt5sIgBNQpvk0gun1JL"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "holy water",
+        "url": "https://open.spotify.com/album/0kooE3G371fP6mB3ugbj98"
+      },
+      "artists": [
+        {
+          "name": "Harvey Brittain",
+          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
+        }
+      ],
+      "duration_ms": 178248,
+      "name": "holy water",
+      "url": "https://open.spotify.com/track/2a24jamhuwKpLZY7gH3w5v"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/7fZHBbY8ukuyFNeJGua6wF"
+      },
+      "artists": [
+        {
+          "name": "Chilli Chilton",
+          "url": "https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq"
+        }
+      ],
+      "duration_ms": 196483,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/2YMiOkAIV24i7fKsrV7zRs"
+    },
+    {
+      "added_at": "2025-11-05 14:47:19",
+      "album": {
+        "name": "CAMO",
+        "url": "https://open.spotify.com/album/6PeaRXu0PdCh6sPpWxEEE1"
+      },
+      "artists": [
+        {
+          "name": "DEEJADE",
+          "url": "https://open.spotify.com/artist/2SNdikRXdwh6utMvQ3LxPK"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "EVERYTHING AT ONCE",
+      "url": "https://open.spotify.com/track/7M9xRZm1gXwgkdKJLpaQ13"
     },
     {
       "added_at": "2025-10-29 04:00:33",

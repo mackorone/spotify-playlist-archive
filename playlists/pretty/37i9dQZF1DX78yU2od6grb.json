@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 542900,
+  "num_followers": 542851,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -168,7 +168,7 @@
           "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
         }
       ],
-      "duration_ms": 165752,
+      "duration_ms": 165714,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
@@ -1551,34 +1551,6 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "New Love (feat. Ellie Goulding)",
-        "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
-      },
-      "artists": [
-        {
-          "name": "Silk City",
-          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "New Love (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
         "name": "LOW",
         "url": "https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm"
       },
@@ -1619,6 +1591,34 @@
       "duration_ms": 141600,
       "name": "Be Okay (with HRVY)",
       "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
+        "name": "New Love (feat. Ellie Goulding)",
+        "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
+      },
+      "artists": [
+        {
+          "name": "Silk City",
+          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "New Love (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
     },
     {
       "added_at": "2025-02-07 03:01:15",

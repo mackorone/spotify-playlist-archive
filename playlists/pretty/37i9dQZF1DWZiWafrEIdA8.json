@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 12900,
+  "num_followers": 12912,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -183,30 +183,6 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Rainy day",
-        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
-      },
-      "artists": [
-        {
-          "name": "PATEKO (\ud30c\ud14c\ucf54)",
-          "url": "https://open.spotify.com/artist/4ykNV9I9CWhbELAORYGBHj"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
-      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -247,6 +223,22 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
+        "name": "More ASH",
+        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
       },
@@ -263,18 +255,26 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "More ASH",
-        "url": "https://open.spotify.com/album/7DiTwgxwQykOnl7Bfs4KPD"
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
       },
       "artists": [
         {
+          "name": "PATEKO (\ud30c\ud14c\ucf54)",
+          "url": "https://open.spotify.com/artist/4ykNV9I9CWhbELAORYGBHj"
+        },
+        {
           "name": "ASH ISLAND",
           "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
         }
       ],
-      "duration_ms": 115500,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/3uKoBRThCMtgKss90CiXQc"
+      "duration_ms": 218250,
+      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
     },
     {
       "added_at": "2025-09-29 05:04:58",

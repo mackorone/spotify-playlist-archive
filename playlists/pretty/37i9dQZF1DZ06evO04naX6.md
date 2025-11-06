@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,878 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,900 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 44 | [3G \(feat\. Jon Z, Don Chezina, Chencho Corleone & Myke Towers\) \- Remix](https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3G \(feat\. Jon Z, Don Chezina, Chencho Corleone & Myke Towers\) \[Remix\]](https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK) | 6:06 |
 | 45 | [Doble Personalidad](https://open.spotify.com/track/63Sj8CfN6RtKBES7G7l5Bp) | [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trap Capos II](https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG) | 3:48 |
 | 46 | [SEXO ES LA MODA](https://open.spotify.com/track/4U80gkwi6Qk0fBRcDuzn3E) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SEXO ES LA MODA](https://open.spotify.com/album/4bJWxZQFLrz2IW79KheuXD) | 2:45 |
-| 47 | [DEJA VU](https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:58 |
-| 48 | [Noche Y De Dia](https://open.spotify.com/track/1EeyW21hFIylGaCMGfCtqR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [SEX AND LOVE](https://open.spotify.com/album/3lIHHrdS4kzUgqvMXgPEKP) | 3:42 |
+| 47 | [Noche Y De Dia](https://open.spotify.com/track/1EeyW21hFIylGaCMGfCtqR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [SEX AND LOVE](https://open.spotify.com/album/3lIHHrdS4kzUgqvMXgPEKP) | 3:42 |
+| 48 | [DEJA VU](https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:58 |
 | 49 | [En Cero](https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Cero](https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq) | 3:43 |
 | 50 | [Hasta Abajo](https://open.spotify.com/track/0rRMe1LBFoq5TjmT1Jye2D) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [De Líder a Leyenda](https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul) | 3:25 |
 
-Snapshot ID: `aQfwgAAAAAA8303kTI7uR1zIHBd/+1mU`
+Snapshot ID: `aQlCAAAAAAC2dZOyo3M0Hy51CgAXBq62`

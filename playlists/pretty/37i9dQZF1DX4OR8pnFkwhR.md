@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: Lavt
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,217 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,222 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [感情的侵略](https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [](https://open.spotify.com/album/null) | 2:43 |
-| 2 | [Unknown Island](https://open.spotify.com/track/73r8oPLdOs4IzFpzoNyCVB) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [](https://open.spotify.com/album/null) | 4:16 |
+| 1 | [感情的侵略](https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [glauben](https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4) | 2:43 |
+| 2 | [Unknown Island](https://open.spotify.com/track/73r8oPLdOs4IzFpzoNyCVB) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2) | 4:16 |
 | 3 | [バースデイ](https://open.spotify.com/track/0MUuGBksODh4qIiFK9kWHG) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [バースデイ](https://open.spotify.com/album/6cqJocSJ2QmCWHePaVbAUy) | 5:24 |
 | 4 | [歌ってごめん](https://open.spotify.com/track/7KXcqP1iTesNPwp6Vgm0G2) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [歌ってごめん](https://open.spotify.com/album/2vFgQB5FWwOfuw9gaf93X6) | 3:07 |
 | 5 | [徒然 \- Tsurezure](https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [徒然 \- Tsurezure](https://open.spotify.com/album/3CEl2MbwS5i0aulXWQQ8gy) | 2:36 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 21 | [gimme!](https://open.spotify.com/track/6MB6t2mU75pcAcQUdV0IS9) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [gimme!](https://open.spotify.com/album/6CYUBLi7tK1NkrPSft3X61) | 2:26 |
 | 22 | [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [MELT](https://open.spotify.com/album/4qTPu3k41zzLZilDNyGEyD) | 3:56 |
 | 23 | [Into My Name](https://open.spotify.com/track/2viBzmRkwr7l1qYnWUYC0t) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [Into My Name](https://open.spotify.com/album/2luqvRAmh8gu3YBXvDlwuu) | 2:08 |
-| 24 | [Gtg \(feat\. reina\)](https://open.spotify.com/track/29SLKg5p3n89krHVS3mrn1) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Gtg](https://open.spotify.com/album/0E7kv5bWhxRpjSv6gy5Z4T) | 3:44 |
+| 24 | [Gtg \(feat\. reina\)](https://open.spotify.com/track/29SLKg5p3n89krHVS3mrn1) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Gtg](https://open.spotify.com/album/0E7kv5bWhxRpjSv6gy5Z4T) | 3:42 |
 | 25 | [はじめから](https://open.spotify.com/track/13avd0LpnrWLrOmNrfWotl) | [Mama Rag](https://open.spotify.com/artist/7cd0xzKKsg2SrTZ2FPjRL8) | [はじめから](https://open.spotify.com/album/4NwkJVKh8PS7outcHfz3Ic) | 4:26 |
 | 26 | [FLASH BACK!!!!!!!!](https://open.spotify.com/track/65VJ1MYXZOYuRcf1vFna3Z) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [FLASH BACK!!!!!!!!](https://open.spotify.com/album/4yzmhRTHmTSDdlrmRjAaZA) | 3:30 |
 | 27 | [番](https://open.spotify.com/track/5tz8W0O2a8XYl7JNBQvb6q) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [番](https://open.spotify.com/album/1AROmBu8zaHxRoUqLT4Spm) | 3:09 |

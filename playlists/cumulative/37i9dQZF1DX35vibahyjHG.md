@@ -2,7 +2,7 @@
 
 ### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU?si=w4\_Qu\_7\-Q\_i\_HN0ALnkkLA">Nissi</a>
+> Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS?si=Xdh7ZghgSiKfGMZMHeffew">Good Girl LA</a>
 
 532 songs - 1 day 5 hr 41 min
 

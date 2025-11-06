@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-408 songs - 16 hr 26 min
+411 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [At Last, Sunrise](https://open.spotify.com/track/4z0spwzLajA7R76czkAIEE) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/0Rv82yRFV9inly8ChKaO72) | 2:00 | 2021-06-27 | 2022-07-29 |
 | [At Last, Sunrise](https://open.spotify.com/track/04yKORm7EBZbrdzjf9jD3X) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:02 | 2022-07-05 | 2023-05-16 |
 | [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
+| [Autumn Tides](https://open.spotify.com/track/0Oo6s0VxvRwgeZGJwbAA2x) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Autumn Tides](https://open.spotify.com/album/1iPYdhN5CEokYoKkYTvqdb) | 2:14 | 2025-11-05 |  |
 | [Avioncito De Papel](https://open.spotify.com/track/25sQgB0cL7326ANzBO7ZLe) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Avioncito De Papel](https://open.spotify.com/album/1YuZmvRVkCLaoowcy47M4p) | 2:32 | 2025-02-19 |  |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-15 | 2025-04-10 |
 | [Back to you](https://open.spotify.com/track/58fIHb9sDH1QCsVLRBaUVq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Back to you](https://open.spotify.com/album/3OpMdkUcg1dq1JBc60ZVwz) | 2:20 | 2023-05-15 |  |
@@ -172,6 +173,7 @@
 | [Idyllwild](https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Idyllwild](https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z) | 2:21 | 2025-05-13 |  |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-09-11 | 2024-02-06 |
 | [in the midst of it all](https://open.spotify.com/track/1oKYmWpoSYAbQ9U957SWug) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [in the midst of it all](https://open.spotify.com/album/1c7a6NCXbJ0z1IyJwVrKR1) | 2:25 | 2024-02-05 | 2025-06-11 |
+| [In the Wake of Snow](https://open.spotify.com/track/3RoQraxh8RhLx44ERV4DEW) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [In the Wake of Snow](https://open.spotify.com/album/7jTffl8giuDC1ra3MHCige) | 3:11 | 2025-11-05 |  |
 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 | 2023-05-15 |  |
 | [Inseparable](https://open.spotify.com/track/4qmOpOHZFZVqS5MPXmcTev) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Inseparable](https://open.spotify.com/album/6fe33jx3YiupGSZqhJS9dr) | 2:31 | 2024-04-03 |  |
 | [Inside the Moon](https://open.spotify.com/track/64vVXe441Mo6VmJJw6Ab2d) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Inside the Moon](https://open.spotify.com/album/30Uqu5fDo3Bjykr8fkuxUD) | 1:45 | 2023-09-11 | 2025-04-03 |
@@ -389,6 +391,7 @@
 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 | 2024-10-15 |  |
 | [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2023-05-15 |  |
 | [Torpet](https://open.spotify.com/track/59klDnqZsQo97d309brDWo) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Torpet](https://open.spotify.com/album/5rPbW7u8C1923rk0d4eI2M) | 2:01 | 2023-05-15 | 2025-02-01 |
+| [Towards the Shore](https://open.spotify.com/track/195aAohMByp0f6hufXYYMP) | [Joseph Pichon](https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD) | [Towards the Shore](https://open.spotify.com/album/39oMc7uBAcX9LiwqOvSOvt) | 2:40 | 2025-11-05 |  |
 | [Tranquillity](https://open.spotify.com/track/5R3VFevA9XCuAlRlqCazge) | [Conrad Sieverts](https://open.spotify.com/artist/0VMJjZwrZ7LRrSvBMSLuR8) | [Odd Ones](https://open.spotify.com/album/20QMaQsHVDroONJx8aFbfj) | 3:17 | 2021-06-27 | 2023-05-16 |
 | [Tro](https://open.spotify.com/track/1be0V9RlpP8vsE78U54E8f) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Tro](https://open.spotify.com/album/1kfJlORvAGTbj02ns1RmbM) | 3:33 | 2023-05-15 |  |
 | [Trust](https://open.spotify.com/track/1iRrLvRjllhC2zCTNeNoqW) | [Martin Herzberg](https://open.spotify.com/artist/0G0i5Fk40ZZ6JylmVT4rsu), [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Liebe & Tasten](https://open.spotify.com/album/01zK27YlZXwzlf486jjZZt) | 5:25 | 2021-06-27 | 2022-07-29 |

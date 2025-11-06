@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 235594,
+  "num_followers": 235722,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2025-11-04 06:07:00",
       "album": {
+        "name": "Buzz (feat. Badshah)",
+        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Buzz (feat. Badshah)",
+      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
+    },
+    {
+      "added_at": "2025-11-04 06:07:00",
+      "album": {
         "name": "Coca Cola (From \"Luka Chuppi\")",
         "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 179225,
       "name": "Coca Cola (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
-    },
-    {
-      "added_at": "2025-11-04 06:07:00",
-      "album": {
-        "name": "Buzz (feat. Badshah)",
-        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
-      },
-      "artists": [
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Buzz (feat. Badshah)",
-      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
     },
     {
       "added_at": "2025-11-04 06:07:00",
@@ -843,26 +843,22 @@
     {
       "added_at": "2025-11-04 06:07:00",
       "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
       },
       "artists": [
         {
-          "name": "Zack Knight",
-          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Jasmin Walia",
-          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 238530,
-      "name": "Bom Diggy Diggy",
-      "url": "https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt"
+      "duration_ms": 243206,
+      "name": "Yaar Naa Miley",
+      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
     },
     {
       "added_at": "2025-11-04 06:07:00",
@@ -887,22 +883,26 @@
     {
       "added_at": "2025-11-04 06:07:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
       "artists": [
         {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
         },
         {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
-      "duration_ms": 243206,
-      "name": "Yaar Naa Miley",
-      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
+      "duration_ms": 238530,
+      "name": "Bom Diggy Diggy",
+      "url": "https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt"
     },
     {
       "added_at": "2025-11-04 06:07:00",
@@ -959,54 +959,6 @@
     {
       "added_at": "2025-11-04 06:07:00",
       "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
-      },
-      "artists": [
-        {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2025-11-04 06:07:00",
-      "album": {
-        "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
-        "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
-      },
-      "artists": [
-        {
-          "name": "Arjun Kanungo",
-          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
-        },
-        {
-          "name": "Mayur Puri",
-          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
-      "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk"
-    },
-    {
-      "added_at": "2025-11-04 06:07:00",
-      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1043,6 +995,54 @@
       "duration_ms": 203881,
       "name": "Chhote Chhote Peg",
       "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
+    },
+    {
+      "added_at": "2025-11-04 06:07:00",
+      "album": {
+        "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+        "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "Mayur Puri",
+          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
+      "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk"
+    },
+    {
+      "added_at": "2025-11-04 06:07:00",
+      "album": {
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     },
     {
       "added_at": "2025-11-04 06:07:00",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2025-11-04 06:07:00",
       "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Sahil Kaushal",
+          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
+        }
+      ],
+      "duration_ms": 282792,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
+    },
+    {
+      "added_at": "2025-11-04 06:07:00",
+      "album": {
         "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
       },
@@ -1143,26 +1163,6 @@
     {
       "added_at": "2025-11-04 06:07:00",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Sahil Kaushal",
-          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
-        }
-      ],
-      "duration_ms": 282792,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
-    },
-    {
-      "added_at": "2025-11-04 06:07:00",
-      "album": {
         "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
         "url": "https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba"
       },
@@ -1203,6 +1203,42 @@
     {
       "added_at": "2025-11-04 06:07:00",
       "album": {
+        "name": "Urvashi",
+        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 215483,
+      "name": "Urvashi",
+      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
+    },
+    {
+      "added_at": "2025-11-04 06:07:00",
+      "album": {
+        "name": "Bom Diggy - Single",
+        "url": "https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "Bom Diggy",
+      "url": "https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY"
+    },
+    {
+      "added_at": "2025-11-04 06:07:00",
+      "album": {
         "name": "Padmaavat",
         "url": "https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf"
       },
@@ -1231,62 +1267,18 @@
     {
       "added_at": "2025-11-04 06:07:00",
       "album": {
-        "name": "Bom Diggy - Single",
-        "url": "https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8"
+        "name": "Nawabzaade",
+        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
       },
       "artists": [
         {
-          "name": "Zack Knight",
-          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
-        },
-        {
-          "name": "Jasmin Walia",
-          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
         }
       ],
-      "duration_ms": 207692,
-      "name": "Bom Diggy",
-      "url": "https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY"
-    },
-    {
-      "added_at": "2025-11-04 06:07:00",
-      "album": {
-        "name": "Urvashi",
-        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "Urvashi",
-      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
-    },
-    {
-      "added_at": "2025-11-04 06:07:00",
-      "album": {
-        "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Hindi\")",
-        "url": "https://open.spotify.com/album/7Japg1kffbMOq1GfTltSL4"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
-        }
-      ],
-      "duration_ms": 238857,
-      "name": "Rebel Song (From \"Kantara A Legend Chapter 1 - Hindi\")",
-      "url": "https://open.spotify.com/track/0gC8FmyakSWHe8gKCZ3uPZ"
+      "duration_ms": 179099,
+      "name": "High Rated Gabru",
+      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
     }
   ],
   "unique_name": "Bollywood Workout",

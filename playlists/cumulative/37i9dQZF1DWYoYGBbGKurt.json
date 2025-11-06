@@ -10841,6 +10841,24 @@
     },
     {
       "album": {
+        "name": "Evenings",
+        "url": "https://open.spotify.com/album/69TWnZEGKfjfGDzIS39J1R"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Evenings",
+      "url": "https://open.spotify.com/track/3L6REEaOHHguItfa4RgYfx"
+    },
+    {
+      "album": {
         "name": "Now / Again",
         "url": "https://open.spotify.com/album/2B35M85zMrnWhnsV8mW7i0"
       },
@@ -23254,7 +23272,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 162104,
       "name": "moonlit",
       "url": "https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi"
@@ -26326,7 +26344,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 126011,
       "name": "Piece Of Mind",
       "url": "https://open.spotify.com/track/63yUqUFLVbDQRKR8rQXdsD"
@@ -26366,6 +26384,24 @@
       "duration_ms": 121967,
       "name": "pillow dreams",
       "url": "https://open.spotify.com/track/3VolXPYyNr222J89OHl8u0"
+    },
+    {
+      "album": {
+        "name": "pillow talk",
+        "url": "https://open.spotify.com/album/3hKcu1kVswp3V6r4Ku09MS"
+      },
+      "artists": [
+        {
+          "name": "Mumblo",
+          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141851,
+      "name": "pillow talk",
+      "url": "https://open.spotify.com/track/4qL9fcs4P32CNNnlMxbqiV"
     },
     {
       "album": {

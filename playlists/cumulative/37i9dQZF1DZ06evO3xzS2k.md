@@ -4,7 +4,7 @@
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 55 min
+67 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bernie Sanders](https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:07 | 2022-09-16 |  |
 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 | 2022-09-16 |  |
 | [Blue Mecca](https://open.spotify.com/track/76x3Bke3huDIb6ATeJK6Pp) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 5:17 | 2024-02-08 | 2024-02-22 |
+| [cannibal world](https://open.spotify.com/track/2lAGEcRzl5B8qrmKrqrywQ) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [cannibal world](https://open.spotify.com/album/7lcGeuVRPOGkyiAGUUa2DR) | 4:29 | 2025-11-06 |  |
 | [Carpenter's Son \- Live](https://open.spotify.com/track/3p7aZ3QdgImxHqQm1bJ65N) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Auditory Trauma: Nothing Isolation Sessions \(Live\)](https://open.spotify.com/album/2MWM3VRR7BXbseyUWU9XDI) | 8:11 | 2024-06-27 | 2024-07-24 |
 | [Catch a Fade](https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 3:50 | 2022-09-16 |  |
 | [Chloroform](https://open.spotify.com/track/0dy0SvYPjImJVQcF83pPQM) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 4:40 | 2022-09-16 | 2024-04-27 |
@@ -37,7 +38,7 @@
 | [Holocaust](https://open.spotify.com/track/5GmSO2eJM2BBuYEmWao2Ta) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty Of Everything 10 Year B Sides](https://open.spotify.com/album/55eNrnAl6w7sLhUE19xE56) | 4:38 | 2023-12-13 | 2024-01-22 |
 | [Hymn to the Pillory](https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:41 | 2022-09-16 |  |
 | [I Hate the Flowers](https://open.spotify.com/track/6U1BjvVwE9hDCasACGvguA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:21 | 2022-09-16 |  |
-| [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 | 2022-09-16 |  |
+| [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 | 2022-09-16 | 2025-11-06 |
 | [In Blueberry Memories](https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 5:18 | 2022-10-21 |  |
 | [Intro \- Live](https://open.spotify.com/track/0HtgSvKuGGQIL6wFJkaULw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Auditory Trauma: Nothing Isolation Sessions \(Live\)](https://open.spotify.com/album/2MWM3VRR7BXbseyUWU9XDI) | 1:19 | 2024-06-24 | 2024-09-02 |
 | [July the Fourth](https://open.spotify.com/track/0iuZ2P8O28jnsdJvECL3Y9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 3:40 | 2022-09-16 | 2024-04-25 |

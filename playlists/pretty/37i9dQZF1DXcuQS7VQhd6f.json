@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Fred Hammond",
-  "num_followers": 35585,
+  "num_followers": 35686,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "Intentional",
-      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "Introducing DeWayne Woods & When Singers Meet",
-        "url": "https://open.spotify.com/album/4WfsQFwx7hSNltRPEoUPbB"
-      },
-      "artists": [
-        {
-          "name": "DeWayne Woods",
-          "url": "https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce"
-        }
-      ],
-      "duration_ms": 295746,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3tQHbcDuZC0Zy323aODWPI"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
         "name": "Donnie McClurkin",
         "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 320400,
       "name": "Stand",
       "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
+        "name": "Introducing DeWayne Woods & When Singers Meet",
+        "url": "https://open.spotify.com/album/4WfsQFwx7hSNltRPEoUPbB"
+      },
+      "artists": [
+        {
+          "name": "DeWayne Woods",
+          "url": "https://open.spotify.com/artist/324RKHiPLIE9eDklXEVXce"
+        }
+      ],
+      "duration_ms": 295746,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3tQHbcDuZC0Zy323aODWPI"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers",
-        "url": "https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr & The Kurt Carr Singers",
-          "url": "https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ"
-        }
-      ],
-      "duration_ms": 368760,
-      "name": "In the Sanctuary - Live",
-      "url": "https://open.spotify.com/track/7okZiRqgL1K0lKTKDJe9OT"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
         "name": "I'm Glad About It",
         "url": "https://open.spotify.com/album/3yq9qBSLq7ixK74RinyjLg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 384800,
       "name": "Trouble Don't Last Always",
       "url": "https://open.spotify.com/track/515MCqErErWXBz8h35i3uj"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
+        "name": "Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers",
+        "url": "https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr & The Kurt Carr Singers",
+          "url": "https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ"
+        }
+      ],
+      "duration_ms": 368760,
+      "name": "In the Sanctuary - Live",
+      "url": "https://open.spotify.com/track/7okZiRqgL1K0lKTKDJe9OT"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 322973,
+      "name": "Speak to My Heart",
+      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
         "name": "Goshen",
         "url": "https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4pc1Tfi0bguzV4LgA3nSSi"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 322973,
-      "name": "Speak to My Heart",
-      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "I Won\u2019t Complain",
-        "url": "https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed"
-      },
-      "artists": [
-        {
-          "name": "Rev. Paul Jones",
-          "url": "https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "I Won\u2019t Complain",
-      "url": "https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
         "name": "I'll See You In The Rapture",
         "url": "https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 406160,
       "name": "When I Rose This Morning",
       "url": "https://open.spotify.com/track/11dkIaVR8Mx27Polm9U8wE"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
+        "name": "I Won\u2019t Complain",
+        "url": "https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed"
+      },
+      "artists": [
+        {
+          "name": "Rev. Paul Jones",
+          "url": "https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "I Won\u2019t Complain",
+      "url": "https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
-      },
-      "artists": [
-        {
-          "name": "SINACH",
-          "url": "https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV"
-        }
-      ],
-      "duration_ms": 286742,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
         "name": "The Best Is Yet to Come",
         "url": "https://open.spotify.com/album/1pmsh7eYdBHknQcNrBFHb7"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 358800,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/6vl7yccowSiasnVM2NJZrr"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
+      },
+      "artists": [
+        {
+          "name": "SINACH",
+          "url": "https://open.spotify.com/artist/0BMNHIlCIvN2eiHLGnEfTV"
+        }
+      ],
+      "duration_ms": 286742,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/4jJ0CynHMdzrgK5IOVMX08"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "Church On The Moon",
-        "url": "https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 246080,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/7LR7frxXJmKuUinqsxzd8S"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/36ZKkdsXITImTQwjRwNDhr"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 234293,
       "name": "Souled Out",
       "url": "https://open.spotify.com/track/1Wedx2PUcry2oJU8rUTsTe"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
+        "name": "Church On The Moon",
+        "url": "https://open.spotify.com/album/7tAv6YInjBhHbBjs8tqNlk"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 246080,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/7LR7frxXJmKuUinqsxzd8S"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -2259,6 +2259,26 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UyE4UHYnNJ6zGoJmTcJ0u"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/0njqt2jPYkAK7zIwSdkFU8"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
         "name": "The Best Of Both Worlds",
         "url": "https://open.spotify.com/album/012wybQlwIzwi8a6rp3hAU"
       },
@@ -2307,26 +2327,6 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UyE4UHYnNJ6zGoJmTcJ0u"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Bishop Cortez Vaughn",
-          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
-        }
-      ],
-      "duration_ms": 365190,
-      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
-      "url": "https://open.spotify.com/track/0njqt2jPYkAK7zIwSdkFU8"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
         "name": "Alive In South Africa",
         "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
       },
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "Withholding Nothing",
-        "url": "https://open.spotify.com/album/5B9unOzZJFcwbj25HpJOVK"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Withholding Nothing",
-      "url": "https://open.spotify.com/track/0xshvIbrnQm55HVLpKKz2K"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
         "name": "The Dolly Express",
         "url": "https://open.spotify.com/album/3W32276wtqwXOjcWYVfNr1"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 345625,
       "name": "You",
       "url": "https://open.spotify.com/track/07l6dBNEcArYKT1huIzCmV"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
+        "name": "Withholding Nothing",
+        "url": "https://open.spotify.com/album/5B9unOzZJFcwbj25HpJOVK"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Withholding Nothing",
+      "url": "https://open.spotify.com/track/0xshvIbrnQm55HVLpKKz2K"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Here I Am To Worship",
-      "url": "https://open.spotify.com/track/7BZ17guc4xS23ZVJ1s89Kj"
-    },
-    {
-      "added_at": "2025-09-14 09:25:01",
-      "album": {
         "name": "20/85 The Experience",
         "url": "https://open.spotify.com/album/716E6f5K4vHfQ6aewX5n8U"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 415160,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7G857E0hBszqDjQLre6h4L"
+    },
+    {
+      "added_at": "2025-09-14 09:25:01",
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Here I Am To Worship",
+      "url": "https://open.spotify.com/track/7BZ17guc4xS23ZVJ1s89Kj"
     },
     {
       "added_at": "2025-09-14 09:25:01",
@@ -2535,22 +2535,22 @@
     {
       "added_at": "2025-09-14 09:25:01",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+        "name": "20/85 The Experience",
+        "url": "https://open.spotify.com/album/716E6f5K4vHfQ6aewX5n8U"
       },
       "artists": [
         {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
         },
         {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+          "name": "Love Fellowship Choir",
+          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
         }
       ],
-      "duration_ms": 353400,
-      "name": "Who Would've Thought (feat. Marvin Winans)",
-      "url": "https://open.spotify.com/track/3Pp3efMD2VNkwIlCDUhlYP"
+      "duration_ms": 381080,
+      "name": "Lift Him Up",
+      "url": "https://open.spotify.com/track/1GIyFRPYPfkXHp7ALQA1dB"
     }
   ],
   "unique_name": "Gospel Classics",

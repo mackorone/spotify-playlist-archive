@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists from Africa\. Cover:  Fola
 
-488 songs - 1 day 1 hr 53 min
+489 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 | 2023-11-03 | 2024-05-09 |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2021-10-08 | 2023-05-05 |
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-05-04 | 2023-12-08 |
+| [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 | 2025-11-05 |  |
 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-17 |  |
 | [Borderline](https://open.spotify.com/track/1wuboor2JTlBQMAdeVoGpi) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [Borderline](https://open.spotify.com/album/5lz9iL7GHSTZ9HOUK8WFvw) | 4:09 | 2023-06-16 | 2023-07-21 |
 | [Bozza Mthathe](https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Bozza Mthathe / Release & Sustain](https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC) | 6:24 | 2025-08-01 |  |
@@ -189,7 +190,7 @@
 | [Ghana Bop](https://open.spotify.com/track/3zvitqVLMhzKzq3tQR4INc) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Wondergirl](https://open.spotify.com/album/5gX8CJicdyXFqlUtYTNqF6) | 2:44 | 2021-05-03 | 2022-05-06 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2024-05-09 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-05-05 |
-| [Give Me Love](https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Give Me Love](https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce) | 2:32 | 2025-08-29 |  |
+| [Give Me Love](https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Give Me Love](https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce) | 2:32 | 2025-08-29 | 2025-11-06 |
 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 | 2024-09-18 | 2024-12-05 |
 | [Godly](https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 2:55 | 2020-11-20 | 2022-05-06 |
 | [GOLIATH](https://open.spotify.com/track/6eXpEvkpwBKtgE1WfD86xV) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp) | 2:34 | 2025-07-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Tion Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,890 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,876 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 50 | [Badman](https://open.spotify.com/track/5UD3L6qlMeflQx4pf4Vajl) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Pool Party](https://open.spotify.com/album/51o2j8y90vuY7nFzE5A6l8) | 3:14 |
 | 51 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 52 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
-| 53 | [Init Gyal](https://open.spotify.com/track/6yLmNmpHe70nvqEFvKj0my) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Init Gyal](https://open.spotify.com/album/2qpKN28C1BfvGeHVULQ0mI) | 1:05 |
+| 53 | [INIT GYAL](https://open.spotify.com/track/6yLmNmpHe70nvqEFvKj0my) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [INIT GYAL](https://open.spotify.com/album/2qpKN28C1BfvGeHVULQ0mI) | 1:05 |
 | 54 | [Too Much](https://open.spotify.com/track/1gbdLuBMdmpx7dVloU03rs) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [Where Do I Begin?](https://open.spotify.com/album/1ua6BWySXGBeQTHp4ECYDK) | 3:18 |
 | 55 | [Block Tales](https://open.spotify.com/track/6u1eEbXzBtEFxrSPOW90V5) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Catch](https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Block Tales](https://open.spotify.com/album/20DqljJ63hpAAv5HCMYca0) | 2:52 |
 | 56 | [GIRLS](https://open.spotify.com/track/4HKk0rmGoDBKqCpvvqaFdK) | [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l) | [GIRLS](https://open.spotify.com/album/28jHjgKv4F7mhlGNlec7Is) | 2:53 |

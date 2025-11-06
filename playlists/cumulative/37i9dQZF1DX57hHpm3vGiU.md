@@ -4,7 +4,7 @@
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-95 songs - 6 hr 18 min
+97 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Crystal Bowl 310 Hz](https://open.spotify.com/track/177Z1WYwEvOKm6uDVYOPT4) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Crystal Bowl 310 Hz](https://open.spotify.com/album/4yIicYVSlrQdsibqXxgGIr) | 2:30 | 2023-07-10 |  |
 | [Crystal Bowl Dream](https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Crystal Bowl Dream](https://open.spotify.com/album/6Bo4QllINweqhoOyn90NtA) | 2:15 | 2022-07-18 |  |
 | [Crystal Bowl Soundbath](https://open.spotify.com/track/4RK7ebcJcY5b71aGYiF9FS) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Crystal Bowl Tranquility](https://open.spotify.com/album/2eOJnGIAQA6NkUUDdE4NWQ) | 3:29 | 2022-09-06 |  |
+| [Enchantment](https://open.spotify.com/track/559FqeO9I9CRpClLNX7xp7) | [Lotus Mind](https://open.spotify.com/artist/4WJQ14cSIRntdUhIbMZ6vh) | [Enchantment](https://open.spotify.com/album/3xsfTJb3Nxow9MaAkfbO2f) | 3:01 | 2025-11-05 |  |
 | [Grounding Tone C](https://open.spotify.com/track/3hYJ8hohXUL9Cwki1lHFbd) | [Wychazel](https://open.spotify.com/artist/3Ha5NFzupiI1mSkVVVkXhN) | [Tibetan Bowls](https://open.spotify.com/album/3TMvm79PL70U27YH1ExMXE) | 6:00 | 2022-07-18 |  |
 | [Heal from Within](https://open.spotify.com/track/6S9x2GzYBktcfxNrYGmi3q) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Healing Sequences](https://open.spotify.com/album/0EhG6dsoA88n2TkpSPKdRn) | 3:13 | 2022-07-18 |  |
 | [Healing Mantra](https://open.spotify.com/track/4qNzM8Q6hYbm2bN0Q7lBOc) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:44 | 2022-07-18 |  |
@@ -63,6 +64,7 @@
 | [Relaxing Bowls in Rain](https://open.spotify.com/track/5RquasatZE0f8C0dYBcs2q) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Singing Bowls in Nature](https://open.spotify.com/album/6oiXg3npUhIWScCT9sz8wm) | 3:00 | 2022-07-18 |  |
 | [Relieve Stress](https://open.spotify.com/track/4D7s9uFRhQGeF0gPOjJPdC) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Singing Bowls in Nature](https://open.spotify.com/album/6oiXg3npUhIWScCT9sz8wm) | 3:00 | 2022-07-18 |  |
 | [Remedy](https://open.spotify.com/track/1CxcMYB5hP79FQRHwP0GcM) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Remedy](https://open.spotify.com/album/301CPQVZmAT7UIbbnpMUIf) | 14:00 | 2022-07-18 | 2024-07-17 |
+| [Resonant Ether](https://open.spotify.com/track/00VQUhS3pVqJH2gMeorUCd) | [Aureven](https://open.spotify.com/artist/4YODCeoZBJzlwkh951pbDg) | [Resonant Ether](https://open.spotify.com/album/66su6X8NxmomYKv66RN8qA) | 2:06 | 2025-11-05 |  |
 | [Right Here](https://open.spotify.com/track/4dGYytZBGnFHEzJUqMyxdn) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Be Love Now](https://open.spotify.com/album/2tnkj3KcWroc1xF6h56X4V) | 2:23 | 2022-09-06 |  |
 | [Rishikesh](https://open.spotify.com/track/2FsHFnOQFNMD1xK4x77OAz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Rishikesh](https://open.spotify.com/album/0nzxXTeG3Lo22GP8omBXzN) | 3:43 | 2024-07-16 |  |
 | [Sati Bowl](https://open.spotify.com/track/4jgvF7VdROvGudjZCFsQv7) | [Dhyāna One](https://open.spotify.com/artist/0UFdIjW2UB80v8wuOMUrYC) | [Dhyāna](https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9) | 3:53 | 2022-07-18 |  |

@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-300 songs - 13 hr 10 min
+302 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
 | [Aurora](https://open.spotify.com/track/2bHfIDLkWeCXSg4ehFuUlo) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Aurora](https://open.spotify.com/album/2Zf3XnfqZ8f23RyehUilEC) | 3:01 | 2023-10-10 | 2025-07-09 |
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-08 |  |
+| [Bayou](https://open.spotify.com/track/4n5uhVSaDjV9nSHhfcbJ0B) | [Melvin Hull](https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz) | [Bayou](https://open.spotify.com/album/0WK8UlUY7Q9xNOv5Y6cVkj) | 2:46 | 2025-11-05 |  |
 | [Beautiful](https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Beautiful](https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF) | 2:34 | 2022-05-27 | 2024-04-10 |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2022-05-27 | 2025-01-23 |
 | [Beneath Your Smile](https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Beneath Your Smile](https://open.spotify.com/album/6pMxigWt9M25pZsLTaGam8) | 4:46 | 2022-05-27 | 2022-07-28 |
@@ -76,6 +77,7 @@
 | [Drivande](https://open.spotify.com/track/3Xi0zJ4FNyZ3EPERLAuXXX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drivande](https://open.spotify.com/album/7o9SwnbiM5hXE4IzoW3mzw) | 3:12 | 2025-01-07 | 2025-04-24 |
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2022-09-15 | 2025-04-05 |
 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 | 2024-03-25 |  |
+| [Emberline](https://open.spotify.com/track/6NG7PoE0dcstZY4cdM7McF) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [Emberline](https://open.spotify.com/album/2SR68CyFVSf66b8JTGU65f) | 2:32 | 2025-11-05 |  |
 | [Embrace me](https://open.spotify.com/track/2SFuklg1x2ooQ8NGAaPuyn) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Embrace me](https://open.spotify.com/album/47slUbGDlDwNvw4oEnjyEY) | 2:22 | 2025-06-10 |  |
 | [Emerald of the East](https://open.spotify.com/track/6fo9G6qHkya3qFKRi5ujkp) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Emerald of the East](https://open.spotify.com/album/15h7O9HdnXjMmFgbDGggEh) | 1:59 | 2023-07-12 | 2025-03-27 |
 | [Emollient](https://open.spotify.com/track/3Dq9w7HbtqlVHzTCQebVcl) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Valentina](https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW) | 2:35 | 2022-09-15 |  |

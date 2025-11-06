@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Lee Brice, ERNEST, Mitchell Tenpenny and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,288 likes - 68 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,321 likes - 68 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

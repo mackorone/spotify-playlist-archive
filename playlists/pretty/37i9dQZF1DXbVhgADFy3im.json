@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1129415,
+  "num_followers": 1129911,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,18 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
       },
       "artists": [
         {
-          "name": "Sanju Rathod",
-          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
-        },
-        {
-          "name": "G-SPXRK",
-          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+          "name": "Jind Universe",
+          "url": "https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE"
         }
       ],
-      "duration_ms": 175138,
-      "name": "Shaky",
-      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
+      "duration_ms": 140250,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -727,18 +723,22 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
       },
       "artists": [
         {
-          "name": "Jind Universe",
-          "url": "https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE"
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
         }
       ],
-      "duration_ms": 140250,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
+      "duration_ms": 175138,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -1247,6 +1247,30 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
+        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 268445,
+      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
+      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
         "name": "Aaj Ki Raat (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS"
       },
@@ -1275,26 +1299,18 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
+        "name": "Mann Mera (Original Version)",
+        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
       },
       "artists": [
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
         }
       ],
-      "duration_ms": 268445,
-      "name": "Tumse Behtar (From \"Sunny Sanskari Ki Tulsi Kumari\")",
-      "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
+      "duration_ms": 228000,
+      "name": "Mann Mera - Original Version",
+      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -1315,22 +1331,6 @@
       "duration_ms": 215510,
       "name": "Aasa Kooda - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
-        "name": "Mann Mera (Original Version)",
-        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
-      },
-      "artists": [
-        {
-          "name": "Gajendra Verma",
-          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mann Mera - Original Version",
-      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -1359,6 +1359,26 @@
       "duration_ms": 227654,
       "name": "Chambal K Dakku",
       "url": "https://open.spotify.com/track/4MtsPGGUTIs4qFD8gOSJ3D"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "Kaise Hua (From \"Kabir Singh\")",
+        "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 234722,
+      "name": "Kaise Hua (From \"Kabir Singh\")",
+      "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "Kaise Hua (From \"Kabir Singh\")",
-        "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
-        }
-      ],
-      "duration_ms": 234722,
-      "name": "Kaise Hua (From \"Kabir Singh\")",
-      "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
         "name": "Mera Hua (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/37hvufcZPSLdoI4aBsZOYC"
       },
@@ -1459,6 +1459,26 @@
       "duration_ms": 223000,
       "name": "Mera Hua (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/6AruzerQiOr65Muh9T7rGI"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
+        "url": "https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "duration_ms": 223390,
+      "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
+      "url": "https://open.spotify.com/track/0645eBDehHcqfiF15hscQV"
     },
     {
       "added_at": "2025-11-03 09:27:05",
@@ -1503,54 +1523,6 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "Do Patti",
-        "url": "https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr"
-      },
-      "artists": [
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
-        }
-      ],
-      "duration_ms": 214250,
-      "name": "Maiyya",
-      "url": "https://open.spotify.com/track/5VvkNZesG4T86mUULEG5Wp"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
-        "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
-        "url": "https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        }
-      ],
-      "duration_ms": 223390,
-      "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
-      "url": "https://open.spotify.com/track/0645eBDehHcqfiF15hscQV"
-    },
-    {
-      "added_at": "2025-11-03 09:27:05",
-      "album": {
         "name": "Malang Sajna",
         "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
       },
@@ -1579,18 +1551,50 @@
     {
       "added_at": "2025-11-03 09:27:05",
       "album": {
-        "name": "Desi Kalakaar",
-        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
+        "name": "Do Patti",
+        "url": "https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr"
       },
       "artists": [
         {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
         }
       ],
-      "duration_ms": 253352,
-      "name": "Desi Kalakaar",
-      "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
+      "duration_ms": 214250,
+      "name": "Maiyya",
+      "url": "https://open.spotify.com/track/5VvkNZesG4T86mUULEG5Wp"
+    },
+    {
+      "added_at": "2025-11-03 09:27:05",
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "duration_ms": 250158,
+      "name": "Pehle Bhi Main",
+      "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
     },
     {
       "added_at": "2025-11-03 09:27:05",

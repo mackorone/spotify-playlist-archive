@@ -4,7 +4,7 @@
 
 > كافيار الراب المحلّي
 
-79 songs - 3 hr 44 min
+80 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alhamdullah](https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Alhamdullah](https://open.spotify.com/album/3Gs23JBSqQR7YIXzsyTg6Y) | 3:05 | 2024-06-24 |  |
 | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Ama Ba'ad \(Shathar Mathar\)](https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0) | 4:16 | 2024-06-24 |  |
 | [Apocalypto](https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Apocalypto](https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2) | 2:57 | 2025-10-02 |  |
+| [Armalat Al\-Alpha](https://open.spotify.com/track/7paqmrCBmNEM6frYHCd8GL) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Armalat Al\-Alpha](https://open.spotify.com/album/4DQ6r2s7uCG9I1Xfy2RAtG) | 6:06 | 2025-11-05 |  |
 | [Aswat \(feat\. Walgz\)](https://open.spotify.com/track/3wSS3x6klMRqgXzhufL5my) | [Tmsa7](https://open.spotify.com/artist/1eUb0Yqoxg2MgUuHyYfM4e), [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Aswat \(feat\. Walgz\)](https://open.spotify.com/album/3hu5RGsbSyrodAy2asW2Mv) | 2:31 | 2025-10-02 |  |
 | [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 | 2024-07-10 |  |
 | [Bashkatib](https://open.spotify.com/track/5t7c62O8KkO9pdcBS6OpLQ) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 2:15 | 2025-10-02 |  |
@@ -25,7 +26,7 @@
 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 | 2024-06-24 |  |
 | [DOMA](https://open.spotify.com/track/4cPz71LZVkKTdIzP3CwJM8) | [Hyper249](https://open.spotify.com/artist/3T7CEZ4h8vXO8kEftlggOI), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [DOMA](https://open.spotify.com/album/1mMvVmB0dpOWxJvIIF564a) | 3:00 | 2025-10-02 |  |
 | [Donia](https://open.spotify.com/track/1Eb7vspAiXYvlwtFCTY0JK) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Donia](https://open.spotify.com/album/5tawL1TpvFCJyHa59wPlpW) | 2:34 | 2025-10-03 | 2025-10-15 |
-| [Drb Almahalik](https://open.spotify.com/track/3DBLrqr306UI8Lp7Z48n64) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Drb Almahalik](https://open.spotify.com/album/3PveDVWQRW4vBfMuTDeCUP) | 4:04 | 2025-10-02 |  |
+| [Drb Almahalik](https://open.spotify.com/track/3DBLrqr306UI8Lp7Z48n64) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [Drb Almahalik](https://open.spotify.com/album/3PveDVWQRW4vBfMuTDeCUP) | 4:04 | 2025-10-02 | 2025-11-06 |
 | [Ducati](https://open.spotify.com/track/0OC2UpjodBLVz1xFHt0a1H) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Ducati](https://open.spotify.com/album/7gaCM4sEj6b9OD55PNoXH4) | 3:06 | 2025-10-02 |  |
 | [Eshara](https://open.spotify.com/track/4uWwdosghKo3SrsTACvvFc) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Memento](https://open.spotify.com/album/5TxnFtqYxSTOjh7B5SKaZH) | 2:21 | 2025-10-02 |  |
 | [Fat Mat](https://open.spotify.com/track/7wbPRhgplVbjlTCprcLgl7) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Fat Mat](https://open.spotify.com/album/41gPrdRfvW8yEjGFFWQGrX) | 2:44 | 2024-09-19 | 2025-10-03 |

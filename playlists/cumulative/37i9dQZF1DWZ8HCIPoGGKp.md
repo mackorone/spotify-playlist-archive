@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-333 songs - 14 hr 52 min
+334 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Distant Waves Green Noise](https://open.spotify.com/track/0Ft7xVz3b5KNuLxdhrHwn6) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Natural World Green Noise](https://open.spotify.com/album/1lp7jDgvHy6TVJJlru1vBg) | 2:09 | 2022-12-09 |  |
 | [Doze with Green Noise](https://open.spotify.com/track/1LYg3tSkLJCfvGPddDI86A) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Doze with Green Noise](https://open.spotify.com/album/5kUpZN8sGdo4VyMVNFZ1V5) | 4:41 | 2024-06-10 |  |
 | [Dream Green Noise](https://open.spotify.com/track/5nA98r713D2SbbRs2xWVu4) | [Dreamsound](https://open.spotify.com/artist/3Ck26BVvvBgOPbjvkO9b3g) | [Dream Green Noise](https://open.spotify.com/album/5MLTsLTItK9WXSALmuSNTY) | 3:01 | 2023-05-05 |  |
+| [Dreamy Green Noise](https://open.spotify.com/track/2dk6I3hpHFDV51h1FA772V) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [Dreamy Green Noise](https://open.spotify.com/album/3yeCpbFI2P43Cxs51HHHSB) | 2:23 | 2025-05-26 |  |
 | [Dreamy Green Noise Waves](https://open.spotify.com/track/1Gz2xbs16H1ZddHIpmQbxg) | [Noise Sleep Machine](https://open.spotify.com/artist/5p8Dy1K1Bvp7HnCGxpY7FI) | [Fall Asleep Green Noise](https://open.spotify.com/album/3e5IgyFI6fr04GbUnptvFO) | 2:18 | 2022-12-09 |  |
 | [Dripping Green Noise](https://open.spotify.com/track/5CmFoZZ31Simna4jFOAL8j) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Sleep: Green Noise](https://open.spotify.com/album/4fLpY9TFTwoGBbIoDFxEgC) | 2:28 | 2022-12-09 |  |
 | [Drippy Rain Green Noise](https://open.spotify.com/track/3cXI5qlukFprNcadMwSzxf) | [State Of Rest](https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM) | [Sounds Of Green Noise](https://open.spotify.com/album/5Q7vbjjGEmmEC39uhMyD9k) | 2:44 | 2023-02-03 |  |
@@ -274,7 +275,7 @@
 | [Reverbed \(500 Hz LP, 100 Hz HP\)](https://open.spotify.com/track/0hu1vKmSWjpFKRQ5mIbDTG) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Green Noise For Sleep](https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK) | 3:20 | 2023-02-03 |  |
 | [Right Mind Noise](https://open.spotify.com/track/4Jwvt8ImF4ONUH1mf4dKB5) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Fading Forest Green Noise](https://open.spotify.com/album/13Oxn0mlcUoDcCZJqR8eaS) | 2:12 | 2023-03-10 |  |
 | [River \- Green Noise](https://open.spotify.com/track/6cI3UOlAmSFMD3dS0iBQ3F) | [Blancouver](https://open.spotify.com/artist/4wEPu3pHPLFIRay8kVUn09) | [The Background Noise of the World](https://open.spotify.com/album/3kvQjpraGfaHgiyCwW9TVv) | 2:01 | 2022-12-09 |  |
-| [River Green Noise](https://open.spotify.com/track/4bU9LcQ6jRhTImPhpnn2Yu) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Green Noise Ambience](https://open.spotify.com/album/4C190h0pKa73fARygNIjFN) | 2:52 | 2022-12-09 |  |
+| [River Green Noise](https://open.spotify.com/track/4bU9LcQ6jRhTImPhpnn2Yu) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Green Noise Ambience](https://open.spotify.com/album/4C190h0pKa73fARygNIjFN) | 2:52 | 2022-12-09 | 2025-11-06 |
 | [River Green Noise](https://open.spotify.com/track/31vr64oYnRDoTiD5Ayzyrd) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [River Green Noise](https://open.spotify.com/album/2V7FVKkQKASPI7gJx1a39c) | 2:40 | 2025-05-26 |  |
 | [River Green Noise](https://open.spotify.com/track/0SiUFr6UgLcl8bq6Le5qkg) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Sleep: Green Noise](https://open.spotify.com/album/4fLpY9TFTwoGBbIoDFxEgC) | 2:27 | 2022-12-09 |  |
 | [River Green Noise \(BP 400Hz, 2.4kHz\)](https://open.spotify.com/track/4Jwrj69gcecUyT13C2uDGf) | [Oxford Deluxe Noise](https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG) | [Deluxe Green Noise](https://open.spotify.com/album/1PL6IGsV9kxngAVFhoSJdu) | 2:21 | 2023-03-10 |  |

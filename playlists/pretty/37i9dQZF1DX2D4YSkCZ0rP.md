@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : marguerite
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,022 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,023 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 36 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
 | 37 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 |
 | 38 | [Love](https://open.spotify.com/track/0crgq6PLl60iznPz45NEHP) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Love](https://open.spotify.com/album/0uKQKIBzN5kpJSuiybdgVt) | 2:45 |
-| 39 | [J'tomberai pas](https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Panorama](https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5) | 3:06 |
+| 39 | [J'tomberai pas](https://open.spotify.com/track/4wFWwZ3AYbFmeQTqAnSKgF) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Panorama](https://open.spotify.com/album/30xA05iVxdjBjfj2mKXhL5) | 3:08 |
 | 40 | [Que tu te mentes](https://open.spotify.com/track/246qLPvm2lY2lRl0QowN5g) | [Louis Albi](https://open.spotify.com/artist/5vtBixycH4NYGd7ZVWseVn) | [Que tu te mentes](https://open.spotify.com/album/0MVCYDiqg8ElZGtHEsQ9ML) | 2:47 |
 
 Snapshot ID: `AAAAAKavgyBc42hYCValPWWu2TBxSEBT`

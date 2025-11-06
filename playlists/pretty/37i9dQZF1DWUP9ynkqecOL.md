@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,326 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,329 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 40 | [CUMBIA ORIENTAL](https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [La Montaña Sin Nombre II](https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs) | 6:02 |
 | 41 | [Cuchi Leguizamón yo te amo para siempre](https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Xanducero](https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW), [Silvio Astier](https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW), [Remiseria Temperley](https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo) | [Sencilla es mi canoa como mis afectos](https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO) | 6:23 |
 | 42 | [La Línea Del Rio \- Remix](https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY), [Rumbo Tumba](https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ) | [La Línea Del Rio \(Remix\)](https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN) | 9:06 |
-| 43 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
-| 44 | [Tac Tac Tac \- Joaquín Cornejo Remix](https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx) | [Espuma de Mar \~ remixes](https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0) | 3:44 |
+| 43 | [Tac Tac Tac \- Joaquín Cornejo Remix](https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx) | [Espuma de Mar \~ remixes](https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0) | 3:44 |
+| 44 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 |
 | 45 | [Dada](https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4), [King Coya](https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Dada](https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT) | 3:37 |
 | 46 | [El Despertar Del Anfibio \- Instrumental](https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH) | [Trickst4](https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY), [Tomás Pinkus](https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr) | [El Despertar Del Anfibio \(Instrumental\)](https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3) | 6:23 |
 | 47 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |

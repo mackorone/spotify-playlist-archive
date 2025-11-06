@@ -4,7 +4,7 @@
 
 > laid\-back beats for an easygoing morning.
 
-611 songs - 23 hr 13 min
+612 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [b2b](https://open.spotify.com/track/66fThwu8rpOl0CDMLZzeTg) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [b2b](https://open.spotify.com/album/6ibBA9oOJih8Hh7TX8f8HQ) | 2:12 | 2024-01-05 |  |
 | [back to back](https://open.spotify.com/track/2fKbjJViZtgtHCvQwTFlRi) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [back to back](https://open.spotify.com/album/49D0j3Utge02MANzxdrfo1) | 2:21 | 2025-08-21 | 2025-09-26 |
 | [BAE on my own](https://open.spotify.com/track/4mbQgUyzmnS32ScPNNWoj0) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [BAE on my own](https://open.spotify.com/album/4Z3uSPEi1EdaWxmU7M92JQ) | 2:13 | 2023-06-09 | 2025-07-03 |
-| [balloons](https://open.spotify.com/track/5CV5jyDKLVCpdGCQtGN5Hb) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [balloons](https://open.spotify.com/album/1LAiK1K98pnv3rJ87R9XvM) | 1:40 | 2024-02-23 |  |
+| [balloons](https://open.spotify.com/track/5CV5jyDKLVCpdGCQtGN5Hb) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [balloons](https://open.spotify.com/album/1LAiK1K98pnv3rJ87R9XvM) | 1:40 | 2024-02-23 | 2025-11-06 |
 | [Barbecue in the Garden](https://open.spotify.com/track/3WW2PZKfa56Dp2VRsGc0xJ) | [Elk](https://open.spotify.com/artist/3jdACmNqyEztgTJc1aOKgN), [Symoo](https://open.spotify.com/artist/12CDwi9HyJtyPRBqat24LV), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Barbecue in the Garden](https://open.spotify.com/album/617FgfFqtgy45BhNIwa828) | 2:12 | 2022-12-09 | 2023-10-27 |
 | [Barely Made It](https://open.spotify.com/track/5fdZlcPg0kE0AzhSUSMySY) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Barely Made It](https://open.spotify.com/album/00Fl4ejzrhMTG7i6WYsMO2) | 2:57 | 2024-07-19 |  |
 | [Barista](https://open.spotify.com/track/0xIroxQpcjA2z9u1dnHb7C) | [kire & stam](https://open.spotify.com/artist/41psjlKZr7stmimkuVcotj) | [Barista](https://open.spotify.com/album/5fkb60f2Vv4dQCAJax37iO) | 1:51 | 2023-09-29 | 2025-07-03 |
@@ -586,6 +586,7 @@
 | [Veil](https://open.spotify.com/track/28D9EaiySXKtyg37WFQqpT) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Veil](https://open.spotify.com/album/2ekQFQS4i8Jps7mEqN8Kjh) | 2:17 | 2022-05-20 | 2022-07-15 |
 | [Vestido Preto](https://open.spotify.com/track/3UZelzM1oKw3qI1mg8Qb3R) | [NeBULA Inc](https://open.spotify.com/artist/2W5CBe1LVHarKciHGBH01E) | [Vestido Preto](https://open.spotify.com/album/1PvAKedOsxn9MUjgCkJonV) | 1:10 | 2022-07-15 | 2023-01-20 |
 | [Vibrate](https://open.spotify.com/track/7s7YbHUZ1mpSwfezlmYuqb) | [Moyya](https://open.spotify.com/artist/4fPlOWWhp8ooStHBxk3zoF) | [Vibrate](https://open.spotify.com/album/4xOYgfPs0kc7qK07R0nlnr) | 2:24 | 2023-04-11 | 2024-05-14 |
+| [Violet](https://open.spotify.com/track/4tbntx7YYQGxKbpTcLjNw0) | [Space Queen](https://open.spotify.com/artist/3m5nS34Ypq4yvWZ2krrVHD) | [Violet](https://open.spotify.com/album/7zeAbVoUZEez0WS8PHS91C) | 1:37 | 2025-11-05 |  |
 | [Vitamin D](https://open.spotify.com/track/4IetzyFLPE3q1K2YbARbOq) | [myk](https://open.spotify.com/artist/7Fl8YkbVB7OAclJvy2Vl9H) | [Vitamin D](https://open.spotify.com/album/53FJ1B34MNLwRBpktBhfCi) | 2:25 | 2022-08-19 | 2023-09-22 |
 | [Wake up early](https://open.spotify.com/track/70ILhZLYGwOdy89qcgukNt) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Wake up early](https://open.spotify.com/album/6cuwMMluBEGhHasOPbWl7k) | 2:20 | 2022-12-23 | 2023-09-29 |
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2023-09-29 | 2025-09-26 |

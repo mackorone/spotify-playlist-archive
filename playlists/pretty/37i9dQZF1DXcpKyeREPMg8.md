@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpKyeREPMg8.md) - [plain]
 
 > Fine art in the form of UK Hip\-Hop\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,106 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,093 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpKyeREPMg8.md) - [plain]
 | 12 | [Lets Go](https://open.spotify.com/track/1QR3TGJVhD3TiqoJrtmQBR) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [King Of Reloads](https://open.spotify.com/album/74ibYrCJMBS2ga1Vf5nGP8) | 3:03 |
 | 13 | [Remontada \(feat\. Blanco\)](https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Remontada \(feat\. Blanco\)](https://open.spotify.com/album/1OTdy9AJVXEerYPUTDCmRd) | 2:41 |
 | 14 | [Go Mo](https://open.spotify.com/track/0Ze2Nfr8U7Ui5XBUgZsZnm) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Go Mo](https://open.spotify.com/album/4eWyPtCPTJP4IBNhnfpmZc) | 2:46 |
-| 15 | [Zagga Dat](https://open.spotify.com/track/7gIsmMYCcyuzSPnpMWqD5X) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Zagga Dat](https://open.spotify.com/album/2f9Ojh9Dzjvc3ZB7a3nuhI) | 2:08 |
+| 15 | [ZAGGA DAT](https://open.spotify.com/track/7gIsmMYCcyuzSPnpMWqD5X) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [ZAGGA DAT](https://open.spotify.com/album/2f9Ojh9Dzjvc3ZB7a3nuhI) | 2:08 |
 | 16 | [AURA](https://open.spotify.com/track/1dN4pN5AKR0gPEzdl4dx4h) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU), [Twin S](https://open.spotify.com/artist/1VJ9x40b4MIE9vkTBqNhwD) | [AURA](https://open.spotify.com/album/1w47VARjsxv5jrry2fheRA) | 2:42 |
 | 17 | [Fuji](https://open.spotify.com/track/4L2TUAADvZXXGr9gW0DvB9) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Mixtape J](https://open.spotify.com/album/4E5F5RxKp7mZwwXiiuuiGw) | 4:17 |
 | 18 | [Hyperfocus](https://open.spotify.com/track/2MjwF2xVs5hMYv8tFTyqIe) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [3 3 3 3](https://open.spotify.com/album/7JFR8bAEka2OjUGh5iPMZe) | 2:34 |

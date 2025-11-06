@@ -1,13 +1,77 @@
 {
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Liquid Mike",
-  "num_followers": 166730,
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: bloodsports",
+  "num_followers": 166737,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAm/UCrS/qnbMtIQcKhx1qQ1eaIX",
+  "snapshot_id": "AAAAAGm8Vacs7NHfZLNYg1naEgIEig5d",
   "tracks": [
+    {
+      "added_at": "2025-10-29 16:00:02",
+      "album": {
+        "name": "Anything Can Be a Hammer",
+        "url": "https://open.spotify.com/album/19ijDbMybiSi8WzBYMUDU6"
+      },
+      "artists": [
+        {
+          "name": "bloodsports",
+          "url": "https://open.spotify.com/artist/6HqDHzNgjf9fIXCVlQzEGS"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Come, Dog",
+      "url": "https://open.spotify.com/track/2qt8K7yoM5zNLZPHtT3vL6"
+    },
+    {
+      "added_at": "2025-11-05 23:42:19",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/4UPPVnKrExNRuuwKvCQiwE"
+      },
+      "artists": [
+        {
+          "name": "People I Love",
+          "url": "https://open.spotify.com/artist/5gsyST1rZJu9HulDyu0seJ"
+        }
+      ],
+      "duration_ms": 212127,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/5NZaBlvzATLgpUnzGwx0oI"
+    },
+    {
+      "added_at": "2025-11-05 23:42:19",
+      "album": {
+        "name": "Say a Prayer, and Wish Me Well",
+        "url": "https://open.spotify.com/album/4egCW4ylqNjI4n4rDS5pdy"
+      },
+      "artists": [
+        {
+          "name": "Softly",
+          "url": "https://open.spotify.com/artist/1asVFyNIt8ILBV7Ae4Cjk8"
+        }
+      ],
+      "duration_ms": 189125,
+      "name": "Darla",
+      "url": "https://open.spotify.com/track/19EF8KUTSwpwk7vrumg9fJ"
+    },
+    {
+      "added_at": "2025-11-05 23:42:19",
+      "album": {
+        "name": "No Cameras",
+        "url": "https://open.spotify.com/album/2LgnqiD64rExp2xa2B7xQb"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "No Cameras",
+      "url": "https://open.spotify.com/track/1PnkpDucaza8gNkFBu1JEJ"
+    },
     {
       "added_at": "2025-10-29 16:00:02",
       "album": {
@@ -23,6 +87,70 @@
       "duration_ms": 98238,
       "name": "Be Aggressive",
       "url": "https://open.spotify.com/track/2VWdwtOCW3TL8pRrVcS64D"
+    },
+    {
+      "added_at": "2025-11-05 23:42:19",
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/7tpE9pRKyh4o6VYymOvmrG"
+      },
+      "artists": [
+        {
+          "name": "Heavywave",
+          "url": "https://open.spotify.com/artist/2BJRTglavnA0W6OI2zLapV"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Splinter",
+      "url": "https://open.spotify.com/track/2zKw27t2g93O88snqhTO8G"
+    },
+    {
+      "added_at": "2025-11-05 23:42:19",
+      "album": {
+        "name": "Rupert Giles",
+        "url": "https://open.spotify.com/album/13adt0uWws8cuCSMLvI47R"
+      },
+      "artists": [
+        {
+          "name": "cruush",
+          "url": "https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Rupert Giles",
+      "url": "https://open.spotify.com/track/1o3fiLwmL3QXFtaBQDSsMg"
+    },
+    {
+      "added_at": "2025-11-05 23:42:19",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/7EcLaP67r3zb6fBoksirqz"
+      },
+      "artists": [
+        {
+          "name": "Honey I'm Home",
+          "url": "https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA"
+        }
+      ],
+      "duration_ms": 234857,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/2ZYaIayRkKdynhbeX2fRVW"
+    },
+    {
+      "added_at": "2025-11-05 23:42:19",
+      "album": {
+        "name": "Bug",
+        "url": "https://open.spotify.com/album/52x7haHIjPDDPmRNi7r0Zg"
+      },
+      "artists": [
+        {
+          "name": "Remember Sports",
+          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
+        }
+      ],
+      "duration_ms": 131520,
+      "name": "Bug",
+      "url": "https://open.spotify.com/track/5ZMx3OaX3quw7BlSt3dUZa"
     },
     {
       "added_at": "2025-10-29 16:00:02",
@@ -55,22 +183,6 @@
       "duration_ms": 155400,
       "name": "Pale Blue",
       "url": "https://open.spotify.com/track/2bGSuFriNuFKna7xf4pY6s"
-    },
-    {
-      "added_at": "2025-10-29 16:00:02",
-      "album": {
-        "name": "Anything Can Be a Hammer",
-        "url": "https://open.spotify.com/album/19ijDbMybiSi8WzBYMUDU6"
-      },
-      "artists": [
-        {
-          "name": "bloodsports",
-          "url": "https://open.spotify.com/artist/6HqDHzNgjf9fIXCVlQzEGS"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "Come, Dog",
-      "url": "https://open.spotify.com/track/2qt8K7yoM5zNLZPHtT3vL6"
     },
     {
       "added_at": "2025-10-29 16:00:02",
@@ -2323,118 +2435,6 @@
       "duration_ms": 207167,
       "name": "Without A Leash",
       "url": "https://open.spotify.com/track/09ke253nvh377Jm3tATZVT"
-    },
-    {
-      "added_at": "2025-07-09 16:21:23",
-      "album": {
-        "name": "Inch Lifestyle",
-        "url": "https://open.spotify.com/album/6qGUcMZW0XF7V0B64OyWUw"
-      },
-      "artists": [
-        {
-          "name": "Inch",
-          "url": "https://open.spotify.com/artist/7zefCGpzVb5LfH3zQYEhHf"
-        }
-      ],
-      "duration_ms": 154932,
-      "name": "Inspection",
-      "url": "https://open.spotify.com/track/47iA8GU6dmKqOTLfhQ5hPF"
-    },
-    {
-      "added_at": "2025-07-02 19:01:06",
-      "album": {
-        "name": "Pulling Thorns",
-        "url": "https://open.spotify.com/album/29gnYtcl2j4VtveR2t6ws1"
-      },
-      "artists": [
-        {
-          "name": "Sunday Morning",
-          "url": "https://open.spotify.com/artist/2jctlQLPR5HkLkNZz4Zo4G"
-        }
-      ],
-      "duration_ms": 155669,
-      "name": "Pulling Thorns",
-      "url": "https://open.spotify.com/track/6sdONTYEGw8DazXdOtnYTG"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "sycophant",
-        "url": "https://open.spotify.com/album/3CZAPVV4buBpBXHFRNzDaT"
-      },
-      "artists": [
-        {
-          "name": "Wet World",
-          "url": "https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko"
-        }
-      ],
-      "duration_ms": 129328,
-      "name": "sycophant",
-      "url": "https://open.spotify.com/track/09Am9PoKF5IGHrPy95t7Hb"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Choke Chain",
-        "url": "https://open.spotify.com/album/5jdSxkXwsDq4gwSOOASXau"
-      },
-      "artists": [
-        {
-          "name": "Angelsaur",
-          "url": "https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb"
-        }
-      ],
-      "duration_ms": 137253,
-      "name": "Choke Chain",
-      "url": "https://open.spotify.com/track/6L0iKLGrWW53jAopkwopzy"
-    },
-    {
-      "added_at": "2025-06-25 04:00:08",
-      "album": {
-        "name": "Daphne Janes",
-        "url": "https://open.spotify.com/album/6fl1nrRJWop2aA8yHo4hup"
-      },
-      "artists": [
-        {
-          "name": "Venus & the Flytraps",
-          "url": "https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF"
-        }
-      ],
-      "duration_ms": 185383,
-      "name": "Daphne Janes",
-      "url": "https://open.spotify.com/track/1Z1RenKhyjirzxN6o23tTd"
-    },
-    {
-      "added_at": "2025-06-19 16:11:06",
-      "album": {
-        "name": "Creation",
-        "url": "https://open.spotify.com/album/3Kz4KSZ92Oj55BQKBbAzZa"
-      },
-      "artists": [
-        {
-          "name": "9Million",
-          "url": "https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna"
-        }
-      ],
-      "duration_ms": 273678,
-      "name": "Creation",
-      "url": "https://open.spotify.com/track/4yQDfit7cyM0WXwWOQdka6"
-    },
-    {
-      "added_at": "2025-06-25 04:00:08",
-      "album": {
-        "name": "Flat Circle",
-        "url": "https://open.spotify.com/album/4l8wmu1iLfrN7jdkYjKTnx"
-      },
-      "artists": [
-        {
-          "name": "Sydney Sprague",
-          "url": "https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Flat Circle",
-      "url": "https://open.spotify.com/track/3afhO4qhTkyE5fNJfFq9fe"
     }
   ],
   "unique_name": "Fresh Finds Rock",

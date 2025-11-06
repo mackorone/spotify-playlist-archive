@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-118 songs - 6 hr 22 min
+120 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 | 2023-11-09 |  |
 | [Backstage Story](https://open.spotify.com/track/3bLybaAVj2CSDUWMiHykEa) | [오상아](https://open.spotify.com/artist/1J00c4vzJdwmgNAIIjcYQH) | [Backstage Story\(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6tWaMl4sj53AGpqTwYnA1u) | 3:18 | 2023-11-09 | 2025-05-08 |
 | [Baep Sae](https://open.spotify.com/track/5bjv9H1rZGZBuR6Rx2DPal) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [It's Okay, Dear](https://open.spotify.com/album/2MoJZKoJwnJh1X9a34usAC) | 3:20 | 2024-04-17 |  |
+| [Bathroom](https://open.spotify.com/track/25JImJVprKvTOZEJnPHJEP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:20 | 2025-11-05 |  |
 | [BDBD](https://open.spotify.com/track/5AwvsmuS2LmC3uWQtoqtcD) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [BDBD](https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6) | 2:38 | 2023-11-09 |  |
 | [Beap Sea](https://open.spotify.com/track/5j3LJr4O7RkhBmxCsjwpXZ) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [It's Okay, Dear](https://open.spotify.com/album/5JKIbI8IWlQ5fXddhnT0xE) | 3:20 | 2023-11-09 | 2024-04-19 |
 | [Because of Drinking](https://open.spotify.com/track/2ike0PkIoeAHpWZnWDuAsX) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [Because of Drinking](https://open.spotify.com/album/5qL4VOjX5PwYBa1qHG1vJB) | 3:14 | 2023-11-09 |  |
@@ -63,6 +64,7 @@
 | [It is what it is...](https://open.spotify.com/track/3H2RJlhKLW5vWY37zJ5MF2) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Charming Jo](https://open.spotify.com/artist/2WD3kpF4RQRNucwkuHhKZo) | [It is what it is...](https://open.spotify.com/album/5BcEPVheofscMIjxJ5ZKMO) | 2:18 | 2024-09-18 |  |
 | [i’m so tired.\. \(Feat\. THAMA\)](https://open.spotify.com/track/71lXdK0I8qxaeFxsFSDiwc) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 3:05 | 2025-04-16 |  |
 | [Lazy Me](https://open.spotify.com/track/5BjgnMwv77gljbjptknmU1) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/4WgImc0yuAYUPbObX4xjjs) | 3:07 | 2025-05-28 |  |
+| [Lazy!](https://open.spotify.com/track/12rmCtdt4CjZ7Y1hG8bkjp) | [Kimfunny](https://open.spotify.com/artist/6hQihzOAkoYx8DWP4iIkqM) | [Lazy!](https://open.spotify.com/album/2uihBcB1iN1qGfl1D63bSW) | 3:15 | 2025-11-05 |  |
 | [Lazyday](https://open.spotify.com/track/5lR0DmxtCgSVvYlzTLkBdp) | [Parkbongsoon](https://open.spotify.com/artist/4zi2UErU3OcQ6eydg3dHJM) | [Hello, Then Goodbye](https://open.spotify.com/album/6rEo5ut1ZaiKXi6NtRlyZY) | 2:12 | 2025-06-19 |  |
 | [let me go home](https://open.spotify.com/track/7zPB6iYhUSKiIJxAAUTlyo) | [Pre'Melo](https://open.spotify.com/artist/59jyRPrPkL8QIR0wfaJMWl) | [let me go home](https://open.spotify.com/album/2Mm6tTaPrNhdmadp0qTUEm) | 2:48 | 2025-04-23 |  |
 | [Like I'm saying](https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI) | 3:28 | 2024-04-17 | 2025-05-08 |
@@ -75,7 +77,7 @@
 | [NAPAL BAJI](https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:43 | 2023-11-09 | 2025-04-09 |
 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2025-04-08 |  |
 | [New Reels \(Feat\. pH\-1\)](https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:03 | 2024-11-26 |  |
-| [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 |  |
+| [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 | 2025-11-06 |
 | [No worries, I'm good](https://open.spotify.com/track/0m4QIgom2N3cN0sQflx9aS) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [NOW NOW](https://open.spotify.com/album/7zvJRzVY3xALSzV4NOENp9) | 2:49 | 2025-04-08 |  |
 | [Nobody Knows It](https://open.spotify.com/track/0vuoatM8LzFAacNflEPb98) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [The 1st full album \[BLISS\]](https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d) | 2:51 | 2025-07-09 |  |
 | [NOTHIN′](https://open.spotify.com/track/7KDtW0MJb331Hjez4iBVu0) | [SuperSu](https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6) | [NOTHIN'](https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1) | 2:20 | 2023-11-09 |  |
@@ -90,7 +92,7 @@
 | [Refresh](https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Refresh](https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk) | 3:36 | 2023-11-09 | 2025-05-08 |
 | [Shrimp with Mental Illness](https://open.spotify.com/track/6f9EvnVk5tMRCZUbttLxYo) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 3:10 | 2023-11-09 |  |
 | [Silky](https://open.spotify.com/track/0vq0jeNuAKYryydXzZUoYw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [PERCENT](https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW) | 2:34 | 2025-07-17 |  |
-| [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2023-11-09 |  |
+| [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2023-11-09 | 2025-11-06 |
 | [So Special](https://open.spotify.com/track/2VQPKULIah0mTBZyaac7RS) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2hQrHvM24SifVMH30qCbKU) | 3:19 | 2025-10-17 |  |
 | [SO WHAT](https://open.spotify.com/track/6hC2Qn11Fzw4Ufi4XH6z2m) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 2:58 | 2025-09-08 |  |
 | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/track/38t9a8VqpAJECDZxmw7811) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/album/37zHF0IjiuHCBZcwY8KSHj) | 2:50 | 2025-06-11 |  |

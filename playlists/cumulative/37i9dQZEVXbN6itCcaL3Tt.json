@@ -7330,7 +7330,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 180950,
       "name": "Brunetki",
       "url": "https://open.spotify.com/track/47AuqZrbVIVbhVpwZUppDF"
@@ -23724,7 +23724,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 172549,
       "name": "KIEROWNIK",
       "url": "https://open.spotify.com/track/1pl6TiCoKfRGkQ2Miyvy9f"
@@ -25100,7 +25100,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 165483,
       "name": "Kulig",
       "url": "https://open.spotify.com/track/4vhYckF7yzomDdqoHb3dIl"
@@ -29594,7 +29594,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 251400,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1088WwNMjp0QWvEP3aOgsf"
@@ -54848,7 +54848,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 152853,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2WFSy9WBAdKH8RnwL5deH2"
@@ -56496,6 +56496,24 @@
       "duration_ms": 247986,
       "name": "\u017b\u00f3\u0142ta Taks\u00f3wka",
       "url": "https://open.spotify.com/track/1AvkniPPyLWcGuUF5Gsa7N"
+    },
+    {
+      "album": {
+        "name": "100 dni do matury",
+        "url": "https://open.spotify.com/album/4cA2a9w1gSzJEIdbhwUrsH"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256040,
+      "name": "\u017b\u00f3\u0142te flamastry i grube katechetki",
+      "url": "https://open.spotify.com/track/4U16tUiGsOTUiPVLKiiy7t"
     },
     {
       "album": {

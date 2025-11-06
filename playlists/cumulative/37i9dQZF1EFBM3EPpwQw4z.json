@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "For Myself",
+        "url": "https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw"
+      },
+      "artists": [
+        {
+          "name": "Jjoska",
+          "url": "https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290948,
+      "name": "For Myself",
+      "url": "https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s"
+    },
+    {
+      "album": {
         "name": "THE SHELL",
         "url": "https://open.spotify.com/album/3LdW3SGS1DixlVsNMHGeui"
       },

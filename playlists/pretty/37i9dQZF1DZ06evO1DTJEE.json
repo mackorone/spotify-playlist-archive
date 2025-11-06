@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 61766,
+  "num_followers": 61788,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAAAzbTooaSm+YY6v9WYhMrUG",
+  "snapshot_id": "aQlCAAAAAADXWQSB1EarDgtsHmrTln0T",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Cowboy As It Gets",
-      "url": "https://open.spotify.com/track/42iJyKsPH1rbCeLcVK8XT4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/4uI9tXHHbtAAhNX3q0fZq4"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 191986,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/1m43AA5dEOtFmw5ph1zFNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Cowboy As It Gets",
+      "url": "https://open.spotify.com/track/42iJyKsPH1rbCeLcVK8XT4"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "What Am I Supposed To Do Now",
-      "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bury Me In Dixie",
         "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 188250,
       "name": "Bury Me In Dixie",
       "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "What Am I Supposed To Do Now",
+      "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
     },
     {
       "added_at": null,

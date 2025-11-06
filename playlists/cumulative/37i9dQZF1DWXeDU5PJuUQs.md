@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-234 songs - 14 hr 27 min
+235 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor](https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 7:42 | 2022-01-03 |  |
 | [BOMBONA / EL AMOR SE FUE / ME VA MEJOR CON EL ALCOHOL](https://open.spotify.com/track/6azBqRlGa9SHE21z6SJVbP) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [13 AÑOS \- 3ra Selección \(EN VIVO\)](https://open.spotify.com/album/54lpTpJjiDhOMiD2rSX9QS) | 3:19 | 2025-09-15 |  |
 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 | 2021-12-10 |  |
+| [Buscala \- Live](https://open.spotify.com/track/72H6DYWQ3XQKswJnXermuq) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0), [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Buscala \(Live\)](https://open.spotify.com/album/3MJGVqtaLPiojt1yqVlucn) | 3:03 | 2025-10-24 |  |
 | [Buscandote Entre los Rosales \- En Vivo Teatro Gran Rex](https://open.spotify.com/track/7foPUIpmNFDQw2txDddfoA) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Sombras Nada Más](https://open.spotify.com/artist/4BcjHOqvgEZZaarxtCG2Ma) | [Antonio Ríos Y Sus Amigos \(En Vivo Teatro Gran Rex\)](https://open.spotify.com/album/3lOX6Idmr2urfPLs4mDEim) | 2:13 | 2025-08-22 | 2025-10-27 |
 | [Cochi Nini \- Vivo En El Teatro, Opera / 2018](https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Cochi Nini \(Vivo En El Teatro, Opera / 2018\)](https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi) | 3:28 | 2021-12-10 |  |
 | [Como Fui a Enamorarme de Ti / Ahora Te Vas / Te Vas a Arrepentir / Dime](https://open.spotify.com/track/33tBimDq2tY1ofsRcpIjC0) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Live Session](https://open.spotify.com/album/3NMsUHaqlO013taOlTnTgN) | 10:24 | 2025-02-28 |  |
@@ -96,7 +97,7 @@
 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:04 | 2021-12-10 | 2025-01-11 |
 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 | 2021-12-10 |  |
 | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL) | 5:30 | 2021-12-10 | 2025-06-09 |
-| [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 | 2022-08-26 |  |
+| [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 | 2022-08-26 | 2025-11-06 |
 | [La Cancioncita \- En Vivo en el Luna Park](https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Orquesta Infanto\-juvenil de Constitución](https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v) | [La Cancioncita \(En Vivo en el Luna Park\)](https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj) | 5:39 | 2023-12-08 | 2024-01-14 |
 | [La Cola Less \- En Vivo](https://open.spotify.com/track/1Mc3igeO36vqjsEknZtj4I) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [La Fiesta \(En Vivo\)](https://open.spotify.com/album/2vw8QONQeAzZrOfOppQomN) | 2:03 | 2023-06-16 | 2023-09-24 |
 | [La Cumbia de los Rotos y los Descosidos \- En Vivo](https://open.spotify.com/track/34JqqBUM4wzwGX2ovPYNae) | [Diego González](https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9), [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x) | [La Cumbia de los Rotos y los Descosidos \(En Vivo\)](https://open.spotify.com/album/0Vlb6ovPyHchgesQAqtrYZ) | 3:40 | 2024-04-12 | 2024-07-13 |

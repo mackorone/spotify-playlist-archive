@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6859,
+  "num_followers": 6862,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAABlk6FNtC0O6be8DeBoZku6",
+  "snapshot_id": "aQlCAAAAAABshxIx4Oe8fUGu5Vw3F6d2",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 159400,
-      "name": "La Negra Colora",
-      "url": "https://open.spotify.com/track/3ZQ6cokAz0pRrxjWf7zxHW"
+      "duration_ms": 180600,
+      "name": "Tu Pum Pum",
+      "url": "https://open.spotify.com/track/6NTAW7bC9AgR6opeoMaVAc"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 180600,
-      "name": "Tu Pum Pum",
-      "url": "https://open.spotify.com/track/6NTAW7bC9AgR6opeoMaVAc"
+      "duration_ms": 159400,
+      "name": "La Negra Colora",
+      "url": "https://open.spotify.com/track/3ZQ6cokAz0pRrxjWf7zxHW"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 150160,
-      "name": "Con Musica de Banda",
-      "url": "https://open.spotify.com/track/3UGoxpTFjEBsoqYo5cjloc"
+      "duration_ms": 159800,
+      "name": "Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/03VYmP2mFFxRMTOWFwscCS"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Ves Bien Buena...",
-        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 159800,
-      "name": "Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/03VYmP2mFFxRMTOWFwscCS"
+      "duration_ms": 150160,
+      "name": "Con Musica de Banda",
+      "url": "https://open.spotify.com/track/3UGoxpTFjEBsoqYo5cjloc"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 217234,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La V\u00edbora Peligrosa",
         "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 149084,
       "name": "La V\u00edbora Peligrosa",
       "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
     },
     {
       "added_at": null,

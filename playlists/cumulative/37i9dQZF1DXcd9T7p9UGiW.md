@@ -2,7 +2,7 @@
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
-> Catching flights and going global\. Cover: Shalipoppi & Gunna
+> Catching flights and going global\. Cover: Dave & Tems
 
 756 songs - 1 day 16 hr 4 min
 

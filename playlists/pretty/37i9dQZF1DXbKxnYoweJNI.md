@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 老王樂隊 \(Your Woman Sleep with Others\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,975 likes - 149 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,979 likes - 149 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 79 | [熊熊](https://open.spotify.com/track/1rZkm4VajI7e5WFiXjdDka) | [K2C](https://open.spotify.com/artist/5W78cdyxB5a1hDk9Fb7v9P) | [熊熊](https://open.spotify.com/album/0sS1yPDAgdb3R2iAKsDL6r) | 3:10 |
 | 80 | [CAULE DE BAMBU 竹茎](https://open.spotify.com/track/5AZ56lKMRnkOgxQyKjLTc8) | [YEHAIYAHAN](https://open.spotify.com/artist/2rGUDp8wG9hqDm5BHbyy88), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [CAULE DE BAMBU 竹茎](https://open.spotify.com/album/7Hx8C7wIA4v43TaR05wxi0) | 6:04 |
 | 81 | [A+](https://open.spotify.com/track/2bYQ28HWblkTcy0QuJJy24) | [Feith Li](https://open.spotify.com/artist/4LVRvWh1ht2qMPVotYMUjD) | [A+](https://open.spotify.com/album/52HGAXnG1M0aIier0jUgzE) | 3:52 |
-| 82 | [A\-Bei](https://open.spotify.com/track/703OIcSezq91FHw9MyFJBL) | [Ruo Xin](https://open.spotify.com/artist/1m1wnMGm5NUmu6hKPfcdJS), [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [A\-Bei](https://open.spotify.com/album/7Aoj3fcMQyO88IPN1Az9jw) | 3:36 |
+| 82 | [A\-Bei](https://open.spotify.com/track/703OIcSezq91FHw9MyFJBL) | [黃若欣](https://open.spotify.com/artist/0BvJwgtQKB1UkmnyDTocAM), [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [A\-Bei](https://open.spotify.com/album/7Aoj3fcMQyO88IPN1Az9jw) | 3:36 |
 | 83 | [我們都曾不安](https://open.spotify.com/track/4bQQFud5Pt33ALHInj0QEz) | [劉恬君](https://open.spotify.com/artist/4wfaCGmNCxhzGHRFmHdyZW) | [不安小姐](https://open.spotify.com/album/2Ox3BEQ1wb74HBvfuJEZt4) | 3:57 |
 | 84 | [燕尾蝶 \- 滾石撞樂隊2 \(原唱:梁靜茹\)](https://open.spotify.com/track/3AvISOR2PaKA4nTHlnWQXS) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [滾石撞樂隊2 \- 燕尾蝶](https://open.spotify.com/album/4MWdx04UKDjL8qjkWvhv6u) | 3:45 |
 | 85 | [懸踏仔咬跤Oopsy! \- UncleTOMI Remix](https://open.spotify.com/track/0ehM30ivvH7Hjlyd2brLzb) | [李竺芯](https://open.spotify.com/artist/0qI7jcxX3CFiafnkAe7Rjp), [超音界](https://open.spotify.com/artist/4vCltsSMbRRMM9J0sf6B89) | [懸踏仔咬跤 Oopsy! \(Remixes\)](https://open.spotify.com/album/2GbnLAzL43Cdkt30WSUUc4) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,869 likes - 116 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,873 likes - 116 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 89 | [一夜一夜一夜](https://open.spotify.com/track/3djgonrherZ9t3Wwih6n0Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一夜一夜一夜](https://open.spotify.com/album/509hTNcF5mythficxIwadm) | 4:01 |
 | 90 | [不管怎樣你都能接住我](https://open.spotify.com/track/12gDweK7bNG6LN8CiUUO0x) | [童心Valentina](https://open.spotify.com/artist/5R51KlCL9ThprS5KVAGZB1) | [不管怎樣你都能接住我](https://open.spotify.com/album/1g2pDeouCLgNhQ4lAkATDW) | 3:49 |
 | 91 | [凌晨五點鐘](https://open.spotify.com/track/0lNGIcBti0PCWyQFV3qchn) | [HowZ](https://open.spotify.com/artist/348ClvzEm6fr680BJOeYcE) | [凌晨五點鐘](https://open.spotify.com/album/6xWaQP1mNMR0lZ76flGDU0) | 3:03 |
-| 92 | [A\-Bei](https://open.spotify.com/track/703OIcSezq91FHw9MyFJBL) | [Ruo Xin](https://open.spotify.com/artist/1m1wnMGm5NUmu6hKPfcdJS), [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [A\-Bei](https://open.spotify.com/album/7Aoj3fcMQyO88IPN1Az9jw) | 3:36 |
+| 92 | [A\-Bei](https://open.spotify.com/track/703OIcSezq91FHw9MyFJBL) | [黃若欣](https://open.spotify.com/artist/0BvJwgtQKB1UkmnyDTocAM), [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [A\-Bei](https://open.spotify.com/album/7Aoj3fcMQyO88IPN1Az9jw) | 3:36 |
 | 93 | [你的暗號](https://open.spotify.com/track/2GQqUXVGEJvHlZxcFXFZA1) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [你的暗號](https://open.spotify.com/album/6E21XXTV6Xy6P4M70V6l7f) | 4:15 |
 | 94 | [香水](https://open.spotify.com/track/3Gmllm7uwfVYkaN4alhrVM) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP), [Nana Ou\-Yang](https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY) | [香水](https://open.spotify.com/album/4jcboTdzhoEarLTCwb0zwh) | 4:50 |
 | 95 | [错位](https://open.spotify.com/track/39LNXuuFmz7d7b787Q3km9) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [错位](https://open.spotify.com/album/5HY4yHKrgHAF8Vb3CyxmzB) | 3:17 |

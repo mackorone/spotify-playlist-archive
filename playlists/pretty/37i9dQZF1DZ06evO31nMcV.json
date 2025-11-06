@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 24545,
+  "num_followers": 24543,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAACLIpQCsV/9xc3VEw3iLmh7",
+  "snapshot_id": "aQlCAAAAAADa30bI/QC5qo+aX/8xzRk1",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 218459,
-      "name": "Suddenly (Solo Piano Version)",
-      "url": "https://open.spotify.com/track/1SIuWpwLFmv1fQh7HnBB46"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 181758,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 218459,
+      "name": "Suddenly (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/1SIuWpwLFmv1fQh7HnBB46"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 76923,
-      "name": "Midnight Reverie",
-      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 133647,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 76923,
+      "name": "Midnight Reverie",
+      "url": "https://open.spotify.com/track/0dVL9nYiBF9ioCpq2oWR67"
     },
     {
       "added_at": null,

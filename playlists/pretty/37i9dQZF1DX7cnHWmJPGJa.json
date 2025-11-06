@@ -1,6 +1,6 @@
 {
   "description": "Glasgow's finest. Here we, here we... Cover: SOPHIE",
-  "num_followers": 17787,
+  "num_followers": 17789,
   "original_name": "We Are Glasgow",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Millennials",
-        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 246029,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
         "name": "Freie Interpreten",
         "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
       },
@@ -423,34 +407,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe"
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
       },
       "artists": [
         {
-          "name": "Love,Shaun",
-          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
         }
       ],
-      "duration_ms": 136087,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "Lovin\u2019",
-        "url": "https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE"
-      },
-      "artists": [
-        {
-          "name": "Cara Rose",
-          "url": "https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Lovin\u2019",
-      "url": "https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5"
+      "duration_ms": 246029,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -471,18 +439,50 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Just a Boy",
-        "url": "https://open.spotify.com/album/405O410ynvYxME5MzhHtov"
+        "name": "Lovin\u2019",
+        "url": "https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE"
       },
       "artists": [
         {
-          "name": "Ben Walker",
-          "url": "https://open.spotify.com/artist/6M5nTM4FiScPKeu8sO3RS4"
+          "name": "Cara Rose",
+          "url": "https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5"
         }
       ],
-      "duration_ms": 199317,
-      "name": "Just a Boy",
-      "url": "https://open.spotify.com/track/4DE6FDlw291rYfEDB4OI9v"
+      "duration_ms": 181894,
+      "name": "Lovin\u2019",
+      "url": "https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe"
+      },
+      "artists": [
+        {
+          "name": "Love,Shaun",
+          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+        }
+      ],
+      "duration_ms": 136087,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "See Through You",
+        "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
+      },
+      "artists": [
+        {
+          "name": "Spyres",
+          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+        }
+      ],
+      "duration_ms": 224285,
+      "name": "See Through You",
+      "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "See Through You",
-        "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
+        "name": "Just a Boy",
+        "url": "https://open.spotify.com/album/405O410ynvYxME5MzhHtov"
       },
       "artists": [
         {
-          "name": "Spyres",
-          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+          "name": "Ben Walker",
+          "url": "https://open.spotify.com/artist/6M5nTM4FiScPKeu8sO3RS4"
         }
       ],
-      "duration_ms": 224285,
-      "name": "See Through You",
-      "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
+      "duration_ms": 199317,
+      "name": "Just a Boy",
+      "url": "https://open.spotify.com/track/4DE6FDlw291rYfEDB4OI9v"
     },
     {
       "added_at": "2024-12-03 14:53:37",

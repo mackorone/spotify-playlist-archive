@@ -1,12 +1,12 @@
 {
   "description": "Feel good songs yang bikin kamu happy",
-  "num_followers": 206092,
+  "num_followers": 206084,
   "original_name": "Yang Penting Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK/Ag+ZrNRkVK8lTz7gR/X9N1/4z",
+  "snapshot_id": "AAAAAPO37HGIsPB0vkrA6HCMOTFINHDm",
   "tracks": [
     {
       "added_at": "2025-10-07 03:56:51",
@@ -273,6 +273,42 @@
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
+      "added_at": "2025-10-02 17:00:34",
+      "album": {
+        "name": "Senja Sudut Kota",
+        "url": "https://open.spotify.com/album/3sVoZe0ptCikuH0JKPpx0X"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cipta",
+          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
+        }
+      ],
+      "duration_ms": 223012,
+      "name": "Senja Sudut Kota",
+      "url": "https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni"
+    },
+    {
+      "added_at": "2025-11-05 04:09:29",
+      "album": {
+        "name": "Saat Denganmu",
+        "url": "https://open.spotify.com/album/3Mv029bGvz7oJVRqLr1t2e"
+      },
+      "artists": [
+        {
+          "name": "Chandra Satria",
+          "url": "https://open.spotify.com/artist/4ot1BWOW743fMmTrCNufAm"
+        },
+        {
+          "name": "Sheila Majid",
+          "url": "https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Saat Denganmu",
+      "url": "https://open.spotify.com/track/4Y5HdGbvGiyQCd7GjlyD1V"
+    },
+    {
       "added_at": "2025-10-13 05:08:43",
       "album": {
         "name": "AMORTAGE",
@@ -303,22 +339,6 @@
       "duration_ms": 227343,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
-    },
-    {
-      "added_at": "2025-10-02 17:00:34",
-      "album": {
-        "name": "Senja Sudut Kota",
-        "url": "https://open.spotify.com/album/3sVoZe0ptCikuH0JKPpx0X"
-      },
-      "artists": [
-        {
-          "name": "Samuel Cipta",
-          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
-        }
-      ],
-      "duration_ms": 223012,
-      "name": "Senja Sudut Kota",
-      "url": "https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni"
     },
     {
       "added_at": "2025-10-02 17:00:34",

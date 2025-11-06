@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 249361,
+  "num_followers": 249390,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAAASOGoSWl2PlC+RlsciRkrE",
+  "snapshot_id": "aQlCAAAAAAD5VjTrjaeOq6zR1zSG+pn8",
   "tracks": [
     {
       "added_at": null,
@@ -1027,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n la Quiere",
-        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        },
-        {
-          "name": "Little el Crack",
-          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Qui\u00e9n la Quiere",
-      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
         "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
       },
@@ -1079,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vela al Pastel",
-        "url": "https://open.spotify.com/album/7nU2hFwdJlfzet8yGeXNzq"
+        "name": "Qui\u00e9n la Quiere",
+        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
       },
       "artists": [
         {
@@ -1088,17 +1064,33 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
         },
         {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
         }
       ],
-      "duration_ms": 284500,
-      "name": "Otra Vela al Pastel",
-      "url": "https://open.spotify.com/track/3UL2fjYLnEpxljZminVDwK"
+      "duration_ms": 338000,
+      "name": "Qui\u00e9n la Quiere",
+      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
     }
   ],
   "unique_name": "This Is Charles Ans",

@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: \nMIYEON(\ubbf8\uc5f0))",
-  "num_followers": 1095316,
+  "num_followers": 1095416,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,26 @@
     {
       "added_at": "2025-11-03 10:15:57",
       "album": {
-        "name": "MY WORLD - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+        "name": "Bittersweet (feat. LeeHi)",
+        "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "WONWOO",
+          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
+        },
+        {
+          "name": "MINGYU",
+          "url": "https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 193413,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
+      "duration_ms": 174773,
+      "name": "Bittersweet (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
     },
     {
       "added_at": "2025-11-03 10:15:57",
@@ -527,30 +535,6 @@
     {
       "added_at": "2025-11-03 10:15:57",
       "album": {
-        "name": "Bittersweet (feat. LeeHi)",
-        "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
-      },
-      "artists": [
-        {
-          "name": "WONWOO",
-          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
-        },
-        {
-          "name": "MINGYU",
-          "url": "https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Bittersweet (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
-    },
-    {
-      "added_at": "2025-11-03 10:15:57",
-      "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
+    },
+    {
+      "added_at": "2025-11-03 10:15:57",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
     },
     {
       "added_at": "2025-11-03 10:15:57",
@@ -639,6 +639,42 @@
     {
       "added_at": "2025-11-03 10:15:57",
       "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 197613,
+      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
+    },
+    {
+      "added_at": "2025-11-03 10:15:57",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "added_at": "2025-11-03 10:15:57",
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
       },
@@ -663,42 +699,6 @@
       "duration_ms": 235413,
       "name": "Yours",
       "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
-    },
-    {
-      "added_at": "2025-11-03 10:15:57",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
-    },
-    {
-      "added_at": "2025-11-03 10:15:57",
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 197613,
-      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
     },
     {
       "added_at": "2025-11-03 10:15:57",
@@ -875,18 +875,22 @@
     {
       "added_at": "2025-11-03 10:15:57",
       "album": {
-        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
-        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 149053,
-      "name": "Trigger (DINO Solo)",
-      "url": "https://open.spotify.com/track/0MerfQMNc9OPWZvZWeUKWe"
+      "duration_ms": 205101,
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
     },
     {
       "added_at": "2025-11-03 10:15:57",
@@ -907,22 +911,18 @@
     {
       "added_at": "2025-11-03 10:15:57",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 205101,
-      "name": "Shoong! (feat. LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
+      "duration_ms": 149053,
+      "name": "Trigger (DINO Solo)",
+      "url": "https://open.spotify.com/track/0MerfQMNc9OPWZvZWeUKWe"
     },
     {
       "added_at": "2025-11-03 10:15:57",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-11-03 10:15:57",
       "album": {
-        "name": "VIBE (feat. Jimin of BTS)",
-        "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
-    },
-    {
-      "added_at": "2025-11-03 10:15:57",
-      "album": {
         "name": "JxW 1st Single Album 'THIS MAN'",
         "url": "https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN"
       },
@@ -1047,22 +1027,6 @@
       "duration_ms": 176960,
       "name": "Last night (Guitar by Park Juwon)",
       "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
-    },
-    {
-      "added_at": "2025-11-03 10:15:57",
-      "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Cry For Love",
-      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
     },
     {
       "added_at": "2025-11-03 10:15:57",
@@ -1083,6 +1047,42 @@
       "duration_ms": 177302,
       "name": "Rush Hour (Feat. j-hope of BTS)",
       "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
+    },
+    {
+      "added_at": "2025-11-03 10:15:57",
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
+    },
+    {
+      "added_at": "2025-11-03 10:15:57",
+      "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
     },
     {
       "added_at": "2025-11-03 10:15:57",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2025-11-03 10:15:57",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+        "name": "ETERNALT",
+        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "JULIE",
-          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
         }
       ],
-      "duration_ms": 206613,
-      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
-      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
+      "duration_ms": 215760,
+      "name": "All My Poetry",
+      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
     },
     {
       "added_at": "2025-11-03 10:15:57",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2025-11-03 10:15:57",
       "album": {
-        "name": "ETERNALT",
-        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
       "artists": [
         {
-          "name": "CLOSE YOUR EYES",
-          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "JULIE",
+          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
         }
       ],
-      "duration_ms": 215760,
-      "name": "All My Poetry",
-      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
+      "duration_ms": 206613,
+      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
+      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
     },
     {
       "added_at": "2025-11-03 10:15:57",

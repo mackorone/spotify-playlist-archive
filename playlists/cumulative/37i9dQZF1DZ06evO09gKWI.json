@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 203243,
       "name": "190",
       "url": "https://open.spotify.com/track/4TMx8KU7iRjqIJumDmXWvg"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 153600,
       "name": "M\u00fasica Vai Transmitir",
       "url": "https://open.spotify.com/track/7DCEStbxxrVwP8gWliLTJt"
@@ -2012,6 +2012,28 @@
       "duration_ms": 184421,
       "name": "Sigilo",
       "url": "https://open.spotify.com/track/21WPLgQ590lqTXSbY3ngK3"
+    },
+    {
+      "album": {
+        "name": "Som de Maloqueiro",
+        "url": "https://open.spotify.com/album/1tunr6evsEnJWsG3KrZaEP"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189910,
+      "name": "Som de Maloqueiro",
+      "url": "https://open.spotify.com/track/2dTNtyCoR2TAyPfFuMSvFV"
     },
     {
       "album": {

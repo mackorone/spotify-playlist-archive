@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAADxz2ReBkBj3EKyvaQaGw2n",
+  "snapshot_id": "aQlCAAAAAACnTwFRluc+9wBfEZd0vwDN",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/7fWdfvsziNSTI46OCjCq9d"
-    },
     {
       "added_at": null,
       "album": {
@@ -59,6 +39,26 @@
       "duration_ms": 234133,
       "name": "The Pledge Remix",
       "url": "https://open.spotify.com/track/6IuilfHQoQI1fJ2fliMhva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 283906,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/7fWdfvsziNSTI46OCjCq9d"
     },
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irv Gotti Presents: The Murderers",
-        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
+        "name": "Informal Introduction: Classic Edition",
+        "url": "https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO"
       },
       "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 130826,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
+      "duration_ms": 280649,
+      "name": "All I Know (feat. Irv Gotti)",
+      "url": "https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56"
     },
     {
       "added_at": null,
@@ -211,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Informal Introduction: Classic Edition",
-        "url": "https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO"
+        "name": "Irv Gotti Presents: The Murderers",
+        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
       },
       "artists": [
-        {
-          "name": "Shade Sheist",
-          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
-        },
         {
           "name": "Irv Gotti",
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         }
       ],
-      "duration_ms": 280649,
-      "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56"
+      "duration_ms": 130826,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
     },
     {
       "added_at": null,
@@ -247,30 +247,6 @@
       "duration_ms": 229643,
       "name": "Open Door",
       "url": "https://open.spotify.com/track/7lpLJAfs77KwlG0KJZuQAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Irv Gotti Presents...The Remixes",
-        "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
-      },
-      "artists": [
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        },
-        {
-          "name": "D.O. Cannons",
-          "url": "https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5"
-        },
-        {
-          "name": "Young Merc",
-          "url": "https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG"
-        }
-      ],
-      "duration_ms": 236680,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo"
     },
     {
       "added_at": null,
@@ -327,6 +303,30 @@
       "duration_ms": 269906,
       "name": "Come-N-Go",
       "url": "https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irv Gotti Presents...The Remixes",
+        "url": "https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT"
+      },
+      "artists": [
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        },
+        {
+          "name": "D.O. Cannons",
+          "url": "https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5"
+        },
+        {
+          "name": "Young Merc",
+          "url": "https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG"
+        }
+      ],
+      "duration_ms": 236680,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo"
     },
     {
       "added_at": null,

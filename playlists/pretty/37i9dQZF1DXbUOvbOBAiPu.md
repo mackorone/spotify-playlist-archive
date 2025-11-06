@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Roméo Elvis & Oscar and the Wolf, ROSALÍA, Metejoor, Andromedik and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,245 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,239 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 4 | [Only One](https://open.spotify.com/track/2UUMfNa3jCx5eeHav0IpPe) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Ascension](https://open.spotify.com/album/1AzxHSUa7SbJHC9Q6qYnrk) | 3:22 |
 | 5 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
 | 6 | [Mother](https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA +](https://open.spotify.com/album/4GVE2VlOr32mscmOks9zY1) | 4:40 |
-| 7 | [Bam Bam \(with Sheridan\)](https://open.spotify.com/track/4b8T2gyeUIQSAa02TVWtTi) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Bam Bam \(with Sheridan\)](https://open.spotify.com/album/2ajx5N6btd6oxEePlGAmTm) | 2:24 |
+| 7 | [Bam Bam \(with Sheridan\)](https://open.spotify.com/track/4b8T2gyeUIQSAa02TVWtTi) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Bam Bam \(with Sheridan\)](https://open.spotify.com/album/2ajx5N6btd6oxEePlGAmTm) | 2:24 |
 | 8 | [Gili Gili](https://open.spotify.com/track/5NLTu65fiIbo6BadXjyIYB) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Masta Dégât](https://open.spotify.com/album/6nYK0U8HOFENSCgntdKSFs) | 3:17 |
 | 9 | [Obsessed](https://open.spotify.com/track/4J9zEIL9RGTM7B9FH9vPQg) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Obsessed](https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn) | 2:53 |
 | 10 | [Avec toi](https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir²](https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya) | 3:30 |

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-923 songs - 1 day 23 hr 59 min
+924 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [DIANA](https://open.spotify.com/track/6lGSvbcSYpjgfsCaUc7Djo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/7athqoshLvzm5ylV8mVzwb) | 2:19 | 2025-01-31 | 2025-05-10 |
 | [Diarabi](https://open.spotify.com/track/1BuOKZA8fokaiEVqBkIHF1) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Dozo](https://open.spotify.com/album/6AtO14RzdM18MZyWHvoH26) | 3:06 | 2023-10-20 | 2024-04-13 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-24 | 2023-10-02 |
-| [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 | 2025-10-17 |  |
+| [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 | 2025-10-17 | 2025-11-06 |
 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 | 2025-01-28 | 2025-03-29 |
 | [Dimanche soir](https://open.spotify.com/track/3BkKW3ASZ0uzvsn0ZH70Rr) | [Lasco](https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra) | [2.6.Z](https://open.spotify.com/album/76EPcq3yFSKI4Y0gnTnnqW) | 4:00 | 2024-05-03 | 2024-08-02 |
 | [Dingue de toi \- Nabi\-Nabilla](https://open.spotify.com/track/2OHJYG61WwBhKCmyJ8rBtz) | [Sofiane](https://open.spotify.com/artist/3uSbAaLwGw2xF9je73h7F4) | [Dingue de toi \(Nabi\-Nabilla\)](https://open.spotify.com/album/0h6hmSwESIeAz3cL5V7lmW) | 3:54 | 2024-03-15 | 2024-05-25 |
@@ -485,6 +485,7 @@
 | [Lord Knows \(feat\. Tory Lanez\)](https://open.spotify.com/track/57hCSu4zMTdnSum7NBL1Ye) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 5:18 | 2024-11-15 | 2024-12-14 |
 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 | 2025-05-02 | 2025-09-27 |
 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 | 2025-05-15 | 2025-06-28 |
+| [Love D'une Tana](https://open.spotify.com/track/4Rb0eNuQLKe1OvdrLtQKO7) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Love D'une Tana](https://open.spotify.com/album/77YmSqZ7y8WSA2rZdWO0nD) | 2:59 | 2025-11-05 |  |
 | [Love Me](https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 4:15 | 2024-01-05 | 2024-05-18 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-03-07 | 2025-08-08 |
 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 | 2023-10-27 | 2024-03-23 |

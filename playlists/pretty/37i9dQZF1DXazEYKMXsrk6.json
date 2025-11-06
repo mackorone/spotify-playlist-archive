@@ -1,6 +1,6 @@
 {
   "description": "It's time to turn your sass level up to 100!",
-  "num_followers": 559044,
+  "num_followers": 559014,
   "original_name": "Independent Ladies",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2019-04-23 09:48:03",
       "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "He Wasn't Man Enough",
+      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
+    },
+    {
+      "added_at": "2019-04-23 09:48:03",
+      "album": {
         "name": "The New Classic",
         "url": "https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 209423,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/7pNC5ZIKtwUK0ReSpM3P9f"
-    },
-    {
-      "added_at": "2019-04-23 09:48:03",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "He Wasn't Man Enough",
-      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
     },
     {
       "added_at": "2019-04-23 09:48:03",

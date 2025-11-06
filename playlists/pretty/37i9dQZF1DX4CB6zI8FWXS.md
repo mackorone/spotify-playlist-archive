@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,002 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,998 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 43 | [Nan's The Word](https://open.spotify.com/track/1TLmoVnSVFvnaJmb8zeiIt) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Kanana](https://open.spotify.com/album/5N6Gy8rBSiW4AKVKizyLAc) | 3:49 |
 | 44 | [Higher](https://open.spotify.com/track/13BoUgeUpseJ35EuwuaGwL) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Cover Girl](https://open.spotify.com/album/4SvP99rd8lr8wpDW8p55uq) | 3:00 |
 | 45 | [Pity \(feat\. Tanya Stephens\)](https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Luvergirl](https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF) | 2:05 |
-| 46 | [Gtg \(feat\. reina\)](https://open.spotify.com/track/29SLKg5p3n89krHVS3mrn1) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Gtg](https://open.spotify.com/album/0E7kv5bWhxRpjSv6gy5Z4T) | 3:44 |
+| 46 | [Gtg \(feat\. reina\)](https://open.spotify.com/track/29SLKg5p3n89krHVS3mrn1) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Gtg](https://open.spotify.com/album/0E7kv5bWhxRpjSv6gy5Z4T) | 3:42 |
 | 47 | [Hard Part \(feat\. Lucky Daye\)](https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |
 | 48 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 49 | [Kiss Me Thru The Phone pt 2 \(with PinkPantheress\)](https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 3:38 |

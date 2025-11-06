@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7032,
+  "num_followers": 7033,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAAAPZ5iU8TsRttRlZk7HUVzH",
+  "snapshot_id": "aQlCAAAAAACb10uDpqS6SrNgnfev1dUo",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
         }
       ],
-      "duration_ms": 202197,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
+      "duration_ms": 213346,
+      "name": "Boom Box Gang War - Unreleased",
+      "url": "https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ"
     },
     {
       "added_at": null,
@@ -315,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
       },
       "artists": [
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
         }
       ],
-      "duration_ms": 213346,
-      "name": "Boom Box Gang War - Unreleased",
-      "url": "https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ"
+      "duration_ms": 202197,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
     },
     {
       "added_at": null,

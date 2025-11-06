@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 307571,
+  "num_followers": 307688,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAADL7+OovAfDFvimD9Ekf2fm",
+  "snapshot_id": "aQlCAAAAAADRvj4v+2MYAhYXqy3KjoYA",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,26 @@
       "duration_ms": 132336,
       "name": "escala en Panam\u00e1",
       "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Puede Pasar",
+        "url": "https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 233501,
+      "name": "Pa' Qu\u00e9 Te Quedas",
+      "url": "https://open.spotify.com/track/5JB3jzYaeT2TqgoPnSkgcM"
     },
     {
       "added_at": null,

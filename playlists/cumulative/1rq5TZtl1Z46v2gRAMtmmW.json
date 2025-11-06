@@ -1415,6 +1415,28 @@
     },
     {
       "album": {
+        "name": "Yume",
+        "url": "https://open.spotify.com/album/1jwaDkTXk5HQOcWCmFFXZX"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205125,
+      "name": "Career Climbing",
+      "url": "https://open.spotify.com/track/5bkxmQ4Im03LVDQsX78gdZ"
+    },
+    {
+      "album": {
         "name": "career day (Exaktly remix)",
         "url": "https://open.spotify.com/album/17FRYdAB2RID2osUWZRroU"
       },

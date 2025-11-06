@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73738,
+  "num_followers": 73739,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAABMJtcDQ8cZULwR9SxljWAY",
+  "snapshot_id": "aQlCAAAAAABPJKbwJOoIgUVjeYIbSqko",
   "tracks": [
     {
       "added_at": null,
@@ -459,46 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feliz De Vez",
-        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279475,
-      "name": "Feliz De Vez",
-      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rastros de Amor (ao Vivo)",
-        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
-      },
-      "artists": [
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "S\u00f3stenes Mendes",
-          "url": "https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Alto Pre\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -511,6 +471,22 @@
       "duration_ms": 205868,
       "name": "Vaso de Alabastro",
       "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feliz De Vez",
+        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279475,
+      "name": "Feliz De Vez",
+      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
     },
     {
       "added_at": null,
@@ -543,6 +519,30 @@
       "duration_ms": 295530,
       "name": "Fara\u00f3 ou Deus?",
       "url": "https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastros de Amor (ao Vivo)",
+        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "S\u00f3stenes Mendes",
+          "url": "https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Alto Pre\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279614,
+      "name": "Enquanto Eu Chorava",
+      "url": "https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279614,
-      "name": "Enquanto Eu Chorava",
-      "url": "https://open.spotify.com/track/2dlSQSCnYr2gejkAG4HPOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberta-me",
         "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 225883,
       "name": "Preciso de Uma Chance",
       "url": "https://open.spotify.com/track/5wGYqyGUDOA757piVlrJmb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Ele Escolheu os Cravos",
-      "url": "https://open.spotify.com/track/56cCCbRpp3X4X6YrD0Edim"
     },
     {
       "added_at": null,
@@ -959,6 +943,22 @@
       "duration_ms": 251890,
       "name": "Tempo de Crescer",
       "url": "https://open.spotify.com/track/2BGIItsqoZ3eRVUpgNJAUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Ele Escolheu os Cravos",
+      "url": "https://open.spotify.com/track/56cCCbRpp3X4X6YrD0Edim"
     },
     {
       "added_at": null,

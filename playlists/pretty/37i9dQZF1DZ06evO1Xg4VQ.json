@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72466,
+  "num_followers": 72474,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAABdPxy6QwiQcyjSYOOYGTKJ",
+  "snapshot_id": "aQlCAAAAAAAdxlw3ilHXJeZIGr1DOFcm",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sal\u00f3n L\u00e1grimas y Deseo",
+        "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "Urge",
+      "url": "https://open.spotify.com/track/6XcxsJD1KzyiNKPSTVgGbL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sal\u00f3n L\u00e1grimas y Deseo",
-        "url": "https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Urge",
-      "url": "https://open.spotify.com/track/6XcxsJD1KzyiNKPSTVgGbL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -239,22 +239,6 @@
       "duration_ms": 295013,
       "name": "Dios Nunca Muere",
       "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Alma De Lila Downs",
-        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
     },
     {
       "added_at": null,
@@ -275,6 +259,22 @@
       "duration_ms": 232733,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/6AvVOWpkcjSQQ11jB6BFQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Alma De Lila Downs",
+        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
     },
     {
       "added_at": null,

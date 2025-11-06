@@ -4,7 +4,7 @@
 
 > Regaz indie qui sono benvenut\* 💘 Cover: Laila Al Habash
 
-388 songs - 20 hr 41 min
+389 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Sul più bello](https://open.spotify.com/track/0LPXTnvvNYBa3sIjdCytcz) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Sul più bello](https://open.spotify.com/album/3yo8OZxRy2L9CMyzCK8jmx) | 2:56 | 2024-07-18 | 2025-02-12 |
 | [Suona](https://open.spotify.com/track/5TvUHRaL7vEowTJdlf7uLQ) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Suona! Vol.1](https://open.spotify.com/album/6R1f97fvkL6rjEG87EFHFV) | 4:31 | 2024-10-10 | 2024-10-25 |
 | [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-06-27 | 2024-08-02 |
+| [Telephone Tango](https://open.spotify.com/track/00JmBr4rYb4Iq0cXNHBgK9) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Telephone Tango](https://open.spotify.com/album/3VKZZmGmlbKvRa6Jn0XLZK) | 3:04 | 2025-11-05 |  |
 | [TEMPESTA \(feat\. Lil Busso & PSICOLOGI\)](https://open.spotify.com/track/0xphaCbWPaKC5IG1rF9nBw) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [NON GUARDARE GIÙ](https://open.spotify.com/album/4TFMkUQJGM1a2ZuarJKs4U) | 2:16 | 2025-04-03 |  |
 | [Terra bruciata](https://open.spotify.com/track/7rY0vHCtgNI37kMY9wIkCg) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 | 2024-06-27 | 2025-05-30 |
 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 | 2025-02-20 | 2025-03-18 |

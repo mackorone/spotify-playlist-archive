@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,696 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,698 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 31 | [Na Noite Se Resolve](https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU) | [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [DJ Soul Slinger](https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7) | [Bambas & Biritas, Vol\. 1](https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa) | 5:07 |
 | 32 | [Rolo Compressor](https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:11 |
 | 33 | [CONTEXTO \- Ao Vivo](https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 4:05 |
-| 34 | [Papaia](https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x) | [Hot e Oreia](https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [Crianças Selvagens](https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1) | 3:55 |
-| 35 | [NÃO VAMOS DESISTIR](https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [NÃO VAMOS DESISTIR](https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc) | 4:05 |
+| 34 | [NÃO VAMOS DESISTIR](https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [NÃO VAMOS DESISTIR](https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc) | 4:05 |
+| 35 | [Papaia](https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x) | [Hot e Oreia](https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [Crianças Selvagens](https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1) | 3:55 |
 | 36 | [Somos o Mundo](https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:14 |
 | 37 | [Sangue de Free](https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Sangue de Free](https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1) | 3:30 |
 | 38 | [O RITMO E A RAIVA](https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [JARDINEIROS](https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD) | 2:34 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 42 | [Sangue de Free \- Acústico](https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rael Convida: Black Alien \(Acústico\)](https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl) | 2:57 |
 | 43 | [Quem É Voce?](https://open.spotify.com/track/7gdQhYno5coyBLCDDdKRRG) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:54 |
 
-Snapshot ID: `aQfwgAAAAAArqSH0F4I7TaCYG7lsVb29`
+Snapshot ID: `aQlCAAAAAAApc0dYWksHkUpmUTrDMboF`

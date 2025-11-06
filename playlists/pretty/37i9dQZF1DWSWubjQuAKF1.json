@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: dezydery",
-  "num_followers": 24354,
+  "num_followers": 24345,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
+        "name": "Vicious Delicious",
+        "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
         "name": "Po blady \u015bwit",
         "url": "https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 156027,
       "name": "Po blady \u015bwit",
       "url": "https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "Vicious Delicious",
-        "url": "https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/2RjxEQRvSma9pVhmtVpEeR"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "Ton\u0119",
-        "url": "https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 207656,
-      "name": "Ton\u0119",
-      "url": "https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
         "name": "Rzeka",
         "url": "https://open.spotify.com/album/2Qt3FgzD4N0WeQJquEwXFh"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "PASSPORT",
-        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
+        "name": "Ton\u0119",
+        "url": "https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk"
       },
       "artists": [
         {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
         }
       ],
-      "duration_ms": 131152,
-      "name": "PASSPORT",
-      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
+      "duration_ms": 207656,
+      "name": "Ton\u0119",
+      "url": "https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -439,6 +423,22 @@
       "duration_ms": 198882,
       "name": "Wyjmij mnie",
       "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
+        "name": "PASSPORT",
+        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 131152,
+      "name": "PASSPORT",
+      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 141057,
-      "name": "KIKI",
-      "url": "https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
         "name": "Niby to wiem",
         "url": "https://open.spotify.com/album/5NGVIouWnsDoi0kWFwpjOg"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 205375,
       "name": "Niby to wiem",
       "url": "https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "KIKI",
+      "url": "https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -611,18 +611,18 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
-        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
+        "name": "Beznami\u0119tnie",
+        "url": "https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l"
       },
       "artists": [
         {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
         }
       ],
-      "duration_ms": 196705,
-      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
-      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
+      "duration_ms": 164122,
+      "name": "Beznami\u0119tnie",
+      "url": "https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -651,34 +651,18 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "Beznami\u0119tnie",
-        "url": "https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l"
+        "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+        "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
       },
       "artists": [
         {
-          "name": "Natalia Muianga",
-          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
         }
       ],
-      "duration_ms": 164122,
-      "name": "Beznami\u0119tnie",
-      "url": "https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "Kwiaty",
-        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 168661,
-      "name": "Kwiaty",
-      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
+      "duration_ms": 196705,
+      "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
+      "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -699,6 +683,22 @@
       "duration_ms": 281200,
       "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
+        "name": "Kwiaty",
+        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 168661,
+      "name": "Kwiaty",
+      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "Zabij",
-        "url": "https://open.spotify.com/album/03HyBfrhvD62En7PK1kEKx"
+        "name": "Za d\u0142ugo",
+        "url": "https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin"
       },
       "artists": [
         {
-          "name": "Micha\u0142 Anio\u0142",
-          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
+          "name": "Paulina Miku\u0142a",
+          "url": "https://open.spotify.com/artist/5O09f7lRMXJMUMAdzrepht"
         }
       ],
-      "duration_ms": 226438,
-      "name": "Zabij",
-      "url": "https://open.spotify.com/track/0t7yAsZITr3QU2jQOh7PkN"
+      "duration_ms": 217070,
+      "name": "Za d\u0142ugo",
+      "url": "https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "Za d\u0142ugo",
-        "url": "https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin"
-      },
-      "artists": [
-        {
-          "name": "Paulina Miku\u0142a",
-          "url": "https://open.spotify.com/artist/5O09f7lRMXJMUMAdzrepht"
-        }
-      ],
-      "duration_ms": 217070,
-      "name": "Za d\u0142ugo",
-      "url": "https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
         "name": "Boisz si\u0119",
         "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
+        "name": "Zabij",
+        "url": "https://open.spotify.com/album/03HyBfrhvD62En7PK1kEKx"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Anio\u0142",
+          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
+        }
+      ],
+      "duration_ms": 226438,
+      "name": "Zabij",
+      "url": "https://open.spotify.com/track/0t7yAsZITr3QU2jQOh7PkN"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
         "name": "Lepsze dni",
         "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
-        "url": "https://open.spotify.com/album/1viZCuhPFo51923kpMvEfJ"
-      },
-      "artists": [
-        {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
-        }
-      ],
-      "duration_ms": 135477,
-      "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
-      "url": "https://open.spotify.com/track/2Q3Y2eR0Sx90JKWl7H265z"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
         "name": "NAD RANEM",
         "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 273000,
       "name": "NAD RANEM",
       "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
+        "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
+        "url": "https://open.spotify.com/album/1viZCuhPFo51923kpMvEfJ"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        }
+      ],
+      "duration_ms": 135477,
+      "name": "\u015amia\u0107 si\u0119 i p\u0142aka\u0107",
+      "url": "https://open.spotify.com/track/2Q3Y2eR0Sx90JKWl7H265z"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "BOOM",
-        "url": "https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ"
-      },
-      "artists": [
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        }
-      ],
-      "duration_ms": 164951,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
         "name": "wifey material",
         "url": "https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 122571,
       "name": "wifey material",
       "url": "https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "duration_ms": 164951,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt"
     },
     {
       "added_at": "2025-11-04 23:00:08",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
-        "name": "Wiem co z nami b\u0119dzie",
-        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Wiem co z nami b\u0119dzie",
-      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
         "name": "Kompleks Boga",
         "url": "https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 187041,
       "name": "Kompleks Boga",
       "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
+        "name": "Wiem co z nami b\u0119dzie",
+        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Wiem co z nami b\u0119dzie",
+      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
     }
   ],
   "unique_name": "up next",

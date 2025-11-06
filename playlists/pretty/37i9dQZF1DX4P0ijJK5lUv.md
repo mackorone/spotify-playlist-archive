@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P0ijJK5lUv.md) - [plain]
 
 > Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,102 likes - 162 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,194 likes - 162 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P0ijJK5lUv.md) - [plain]
 | 161 | [The Angel Gabriel from Heaven Came \(Arr\. E\. Pettman for Choir\)](https://open.spotify.com/track/5x7ozefZ2DJDPaO9t137Uq) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Choir of New College, Oxford](https://open.spotify.com/artist/37f8YYDNWUstg5p859gMxe), [Timothy Wakerell](https://open.spotify.com/artist/4AQ64DARkGPAjpPDp2cCN8), [Robert Quinney](https://open.spotify.com/artist/6OGs5CBlm7nPJvvIcQPYEm) | [Nowell, Sing We!: Advent & Christmas at New College](https://open.spotify.com/album/1gj9U2ryTyFqNNDGzOeSvi) | 2:58 |
 | 162 | [Weihnachtsoratorium, BWV 248: Brich an, o schönes Morgenlicht \(Arr\. for Brass Ensemble by Werner Heckmann\)](https://open.spotify.com/track/2aWVNKs4388SAo18V8Pt9z) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [German Brass](https://open.spotify.com/artist/23OFuPJgFz1jGnHFW4WBiM) | [Weihnachtsoratorium, BWV 248: Brich an, o schönes Morgenlicht \(Arr\. for Brass Ensemble by Werner Heckmann\)](https://open.spotify.com/album/0CE05IHZPmURpV1TAgPSor) | 1:15 |
 
-Snapshot ID: `AAAAAOu6gukpXY0hU4ylt4sSD+sFUb49`
+Snapshot ID: `AAAAAPjYhczOc8QZKbJ7kG1EYE36CD7y`

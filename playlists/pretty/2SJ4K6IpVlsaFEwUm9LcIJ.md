@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,480 likes - 87 songs - 4 hr 55 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,483 likes - 88 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 58 | [When Debbie's Back From Texas](https://open.spotify.com/track/0gHTUeFmeb0k2led76eJHn) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [And She Closed Her Eyes](https://open.spotify.com/album/13afX31wQfHT87BjRUFjU1) | 4:08 |
 | 59 | [Liggers at Your Funeral \- 2006 Remaster](https://open.spotify.com/track/3sOGX9DFkn3HJzpJbFLrGU) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 5:32 |
 | 60 | [Everglade](https://open.spotify.com/track/0RiPfGtEyv3nZVq3lUi7kR) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:21 |
-| 61 | [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 2:29 |
+| 61 | [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe), [Advance Base](https://open.spotify.com/artist/4YIMPSc3zZLRwe4Ujaxjce) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 2:29 |
 | 62 | [As You Turn to Go](https://open.spotify.com/track/2qmg9WhT7nhPe0OwvPQ9ax) | [The 6ths](https://open.spotify.com/artist/7HzHgQO5cFieqjoINahKkm), [Momus](https://open.spotify.com/artist/0Uuw1MHNH56xL76bTOVJE8) | [Hyacinths and Thistles](https://open.spotify.com/album/0qU0P83XUlRE0KO0DaRhYM) | 1:59 |
 | 63 | [Victor, Fly Me to Stafford](https://open.spotify.com/track/3MNFiVcKOPlcvXcx9EHdpE) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [在動物園散步才是正經事](https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk) | 2:14 |
 | 64 | [Golden Fall](https://open.spotify.com/track/1MxBaWWTu4RRh7edgHExVb) | [Ooberman](https://open.spotify.com/artist/0QEF9qRSTtRUV6leWVPhQt) | [Shorley Wall](https://open.spotify.com/album/24V0ER59SFtczhNhoqOYMq) | 4:55 |
@@ -95,5 +95,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 85 | [Vals en 16mm](https://open.spotify.com/track/0GoVAWajaazvgau87iHWoq) | [Sergio Mihanovich](https://open.spotify.com/artist/2hPO6aP9HU0QsxpqYqNNCY), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [Los Jovenes Viejos \(Remastered\)](https://open.spotify.com/album/7BpwAXzzaTqkzWTSmQ5gvk) | 2:56 |
 | 86 | [Snowfall Serenade](https://open.spotify.com/track/4y3GGDrMxmoPRkZoPZ7WNc) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Raindrops](https://open.spotify.com/album/5L7VeMZzhPfTqF0cd6nPHB) | 4:01 |
 | 87 | [Oslo](https://open.spotify.com/track/1sAV0zncNjmZT2fg9YVKs2) | [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Dwell Time](https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc) | 4:40 |
+| 88 | [Last Time](https://open.spotify.com/track/3Wvj5QBsofxKCvwqKs9jLh) | [Shungu](https://open.spotify.com/artist/1XIyDif58YyorFor2gNfUF), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Last Time](https://open.spotify.com/album/0VltGG3swfBwkkAAbS4tRa) | 2:26 |
 
-Snapshot ID: `AAANX9CDd4cnCSLecSWWasajMlpZuVu2`
+Snapshot ID: `AAANYBcwJ42mD5LNTG14gEYYDGe0piwr`

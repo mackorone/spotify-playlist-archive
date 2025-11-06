@@ -4,7 +4,7 @@
 
 > marrakech season
 
-111 songs - 7 hr 13 min
+112 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Valodja \(Liva K Remix\)](https://open.spotify.com/track/6crRAkisXn9J3THH4yWX3S) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Valodja \(Liva K Remix\)](https://open.spotify.com/album/3aYmKkfbN0Gln01YMAYWAD) | 3:16 | 2025-06-27 |  |
 | [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-07-01 |  |
 | [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2025-06-27 |  |
+| [Waitin'](https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Waitin'](https://open.spotify.com/album/06N9nd3RaU5EwoiO9PyMtN) | 3:44 | 2025-11-05 |  |
 | [Wale Wale \(feat\. Sofiya Nzau\)](https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wale Wale \(feat\. Sofiya Nzau\) \[WITH U Remix \- Radio Edit\]](https://open.spotify.com/album/189nxvsd30cgk6lWXrtrXV) | 3:28 | 2025-10-13 |  |
 | [Waste Away](https://open.spotify.com/track/7huXvIux5BzSSeOcyPaLHp) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Waste Away](https://open.spotify.com/album/3JFpZLPVImVNF3AfWOYdNm) | 3:46 | 2025-10-13 |  |
 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 | 2025-06-27 |  |

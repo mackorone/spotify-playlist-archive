@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19286,
+  "num_followers": 19284,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Tango Porcjarza",
+      "url": "https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Tango Porcjarza",
-      "url": "https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Himalaje",
+        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
+      },
+      "artists": [
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        }
+      ],
+      "duration_ms": 207677,
+      "name": "Himalaje",
+      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Cudze rady psuj\u0105 mi \u017cycie",
         "url": "https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Himalaje",
-        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
-      },
-      "artists": [
-        {
-          "name": "Mela Koteluk",
-          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
-        }
-      ],
-      "duration_ms": 207677,
-      "name": "Himalaje",
-      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Universum",
-        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
-      },
-      "artists": [
-        {
-          "name": "Dawid Lubowicz",
-          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
-        },
-        {
-          "name": "Atom String Quartet",
-          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
-        }
-      ],
-      "duration_ms": 332013,
-      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
-      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Tradycyja",
         "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
       },
@@ -1259,30 +1239,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
+        "name": "Universum",
+        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
       },
       "artists": [
         {
-          "name": "Piotr Wyle\u017co\u0142",
-          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
+          "name": "Dawid Lubowicz",
+          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
         },
         {
-          "name": "Andy Middleton",
-          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
-        },
-        {
-          "name": "Ferenc Nemeth",
-          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
-        },
-        {
-          "name": "Micha\u0142 Bara\u0144ski",
-          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+          "name": "Atom String Quartet",
+          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
         }
       ],
-      "duration_ms": 443446,
-      "name": "Tatras",
-      "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
+      "duration_ms": 332013,
+      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
+      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1319,6 +1291,34 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "I Love Music",
+        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wyle\u017co\u0142",
+          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
+        },
+        {
+          "name": "Andy Middleton",
+          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
+        },
+        {
+          "name": "Ferenc Nemeth",
+          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
+        },
+        {
+          "name": "Micha\u0142 Bara\u0144ski",
+          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+        }
+      ],
+      "duration_ms": 443446,
+      "name": "Tatras",
+      "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
     },
     {
       "added_at": "2025-04-06 08:27:45",

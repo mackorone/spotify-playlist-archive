@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 188367,
       "name": "Cover me",
       "url": "https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA"
@@ -5240,7 +5240,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 273333,
       "name": "I Di Nma",
       "url": "https://open.spotify.com/track/5Pbsedj5IZKL5ZlrGvi7zg"
@@ -7632,6 +7632,24 @@
       "duration_ms": 173000,
       "name": "Mercies",
       "url": "https://open.spotify.com/track/2LvB79qALpOPe6MhhhDPb3"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5E59fqFOmQKBuMWHfUPaWN"
+      },
+      "artists": [
+        {
+          "name": "Toyin Ogunniyi",
+          "url": "https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0h9Q8ik3wEoRpJaSAl0IKW"
     },
     {
       "album": {
@@ -10260,6 +10278,28 @@
       "duration_ms": 158293,
       "name": "Sagona",
       "url": "https://open.spotify.com/track/7q5Hub5C9r8H4BrICTufGV"
+    },
+    {
+      "album": {
+        "name": "Same God II (Live)",
+        "url": "https://open.spotify.com/album/5gzsOlYRoeQRVyoadlirOq"
+      },
+      "artists": [
+        {
+          "name": "Segun John",
+          "url": "https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593626,
+      "name": "Same God II - Live",
+      "url": "https://open.spotify.com/track/0ZfahO1B3nAo20FKUptVaa"
     },
     {
       "album": {

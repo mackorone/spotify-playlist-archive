@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,330 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,324 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 82 | [Oh Ah \(with Paul Beaubrun & Cimafunk\)](https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Oh Ah \(with Paul Beaubrun & Cimafunk\)](https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb) | 1:51 |
 | 83 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
 | 84 | [FIST IN THE SKY \(feat\. Jordan Mackampa\)](https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [FIST IN THE SKY \(feat\. Jordan Mackampa\)](https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU) | 4:27 |
-| 85 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
-| 86 | [EAZI](https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil) | [Young Eman](https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL) | [EAZI](https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM) | 2:30 |
-| 87 | [So Clear](https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE) | [Mantra No\. 9](https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj) | 3:32 |
+| 85 | [EAZI](https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil) | [Young Eman](https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL) | [EAZI](https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM) | 2:30 |
+| 86 | [So Clear](https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo) | [Fliptrix](https://open.spotify.com/artist/5Dm525w7dCfRzudUS4EeQE) | [Mantra No\. 9](https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj) | 3:32 |
+| 87 | [Gan Ainm](https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Paragon Songs](https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA) | 4:07 |
 | 88 | [Pemmican](https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh) | [La Fine Equipe](https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Pemmican](https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV) | 3:32 |
 | 89 | [Pinking Shears](https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Pinking Shears](https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK) | 2:32 |
 | 90 | [We Are The Ones \- FC24 Version](https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [We Are The Ones \(FC24 Version\)](https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO) | 2:15 |

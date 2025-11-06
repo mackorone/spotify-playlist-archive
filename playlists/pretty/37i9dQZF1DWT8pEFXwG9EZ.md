@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,470 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,515 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 55 | [Love Theme \(From "Chinatown"\)](https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Kenny Kirkland](https://open.spotify.com/artist/3fvBGGCTOjiCsIqL3MFU6l), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Jazz in Film](https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs) | 8:23 |
 | 56 | [Joe's Lowdown Blues](https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:36 |
 | 57 | [Nuit sur les Champs\-Élysées \- Take 4 \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 3:00 |
-| 58 | [Room "26"](https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Bullitt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO) | 2:23 |
-| 59 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |
+| 58 | [Linus And Lucy](https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 3:06 |
+| 59 | [Room "26"](https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3) | [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Bullitt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO) | 2:23 |
 | 60 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 5:49 |
 | 61 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 |
 | 62 | [The Girl From Ipanema](https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Bossa Nova \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B) | 5:23 |

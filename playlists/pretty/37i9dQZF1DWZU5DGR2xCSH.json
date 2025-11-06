@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1130087,
+  "num_followers": 1130030,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Te Hacen Falta Vitaminas - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3caBCFURBMGqZYrZUc7j8s"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Acariciando Lo Aspero",
         "url": "https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 354746,
       "name": "Ala Delta",
       "url": "https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Te Hacen Falta Vitaminas - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3caBCFURBMGqZYrZUc7j8s"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Time Fate Love (Remastered 2019)",
-        "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
-      },
-      "artists": [
-        {
-          "name": "Luca Prodan",
-          "url": "https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI"
-        }
-      ],
-      "duration_ms": 257694,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/5XGWakb6O2GIQem0pIBMxH"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 135853,
       "name": "Demoliendo Hoteles",
       "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Time Fate Love (Remastered 2019)",
+        "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
+      },
+      "artists": [
+        {
+          "name": "Luca Prodan",
+          "url": "https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI"
+        }
+      ],
+      "duration_ms": 257694,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/5XGWakb6O2GIQem0pIBMxH"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 474398,
+  "num_followers": 474648,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Techno Sh",
+        "url": "https://open.spotify.com/album/30CDYNwvWQ6DYPkSa2aLjn"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Techno Sh",
+      "url": "https://open.spotify.com/track/3r3Vinc9oBAnIUjolTemFf"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Techno Sh",
-        "url": "https://open.spotify.com/album/30CDYNwvWQ6DYPkSa2aLjn"
-      },
-      "artists": [
-        {
-          "name": "OKAYVAL",
-          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Techno Sh",
-      "url": "https://open.spotify.com/track/3r3Vinc9oBAnIUjolTemFf"
     },
     {
       "added_at": "2025-09-19 04:00:36",
@@ -1541,46 +1541,6 @@
       "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
     },
     {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "Stay With The Tempo",
-        "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 214218,
-      "name": "Stay With The Tempo",
-      "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Grove St. Party",
-        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Grove St. Party",
-      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
-    },
-    {
       "added_at": "2025-08-08 04:00:44",
       "album": {
         "name": "You Love It",
@@ -1615,6 +1575,46 @@
       "duration_ms": 164544,
       "name": "Force",
       "url": "https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
+    },
+    {
+      "added_at": "2025-09-26 04:00:09",
+      "album": {
+        "name": "Stay With The Tempo",
+        "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 214218,
+      "name": "Stay With The Tempo",
+      "url": "https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5"
     },
     {
       "added_at": "2025-09-19 04:00:36",
@@ -2203,18 +2203,18 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Red Velvet",
-        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
       },
       "artists": [
         {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
         }
       ],
-      "duration_ms": 168440,
-      "name": "Red Velvet",
-      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
+      "duration_ms": 146953,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF"
     },
     {
       "added_at": "2025-08-29 04:00:41",
@@ -2235,18 +2235,18 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Something To Believe In",
-        "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
+        "name": "Red Velvet",
+        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         }
       ],
-      "duration_ms": 146953,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF"
+      "duration_ms": 168440,
+      "name": "Red Velvet",
+      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2309,6 +2309,26 @@
       "url": "https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3"
     },
     {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 155147,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+    },
+    {
       "added_at": "2025-08-29 04:00:41",
       "album": {
         "name": "I Got Soul (Super Bad)",
@@ -2331,26 +2351,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 155147,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "Choose Violence",
         "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
       },
@@ -2367,50 +2367,6 @@
       "duration_ms": 195071,
       "name": "Choose Violence",
       "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Late Night Secrets",
-        "url": "https://open.spotify.com/album/0erqXse0aWsncui7Eew8al"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 185952,
-      "name": "Late Night Secrets",
-      "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Go Mode",
-        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        },
-        {
-          "name": "Blookah",
-          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 232031,
-      "name": "Go Mode",
-      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2439,6 +2395,26 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Late Night Secrets",
+        "url": "https://open.spotify.com/album/0erqXse0aWsncui7Eew8al"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 185952,
+      "name": "Late Night Secrets",
+      "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Whole Lotta Drugs / Over The Edge",
         "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
       },
@@ -2455,6 +2431,30 @@
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "duration_ms": 232031,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
     }
   ],
   "unique_name": "Nasty Bits",

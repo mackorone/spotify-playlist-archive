@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,652 songs - 5 day 18 hr 11 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,653 songs - 5 day 18 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2660,5 +2660,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2650 | [Stay the Night](https://open.spotify.com/track/65rSOyocOD1hEMIxJ3eVfX) | [Synthaesthetica](https://open.spotify.com/artist/1n8BkVXRdmsbDJ2EHLUdRY), [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [Stay the Night](https://open.spotify.com/album/35DxqDMycqq4MP7kCrRQG8) | 2:45 |
 | 2651 | [Hot Stuff](https://open.spotify.com/track/0UXr3X7QC3DS9JMx134Vbd) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Insolent](https://open.spotify.com/album/73Vd8fLRAWwhO9z3URYGY9) | 3:07 |
 | 2652 | [Cry](https://open.spotify.com/track/1rIeVyssOYPJUzj8aTk4DX) | [ELPOLLO](https://open.spotify.com/artist/7EkkoSfEQVwStyW30cuVmi), [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [Cry](https://open.spotify.com/album/2lG2wgfrt0igaTt8nliJdI) | 2:34 |
+| 2653 | [Boy Slut](https://open.spotify.com/track/3SGaXiRAFUvk1ImSryUk9v) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [Boy Slut](https://open.spotify.com/album/6o0pfnVtuPq3woErGEq0x0) | 3:42 |
 
-Snapshot ID: `AAAKqWDQHdN54TYUPj7BFBObqbz4jwFh`
+Snapshot ID: `AAAKqroQUjegGNjJTnOnkvXTyrt5gGyh`

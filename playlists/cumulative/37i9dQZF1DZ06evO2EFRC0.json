@@ -1459,24 +1459,6 @@
     },
     {
       "album": {
-        "name": "Te Exaltamos",
-        "url": "https://open.spotify.com/album/7wCXLga0UCA7SkrCAFXPOM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "date_added": "2025-05-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163053,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c"
-    },
-    {
-      "album": {
         "name": "25 Concierto Conmemorativo (En Vivo)",
         "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
       },
@@ -1510,6 +1492,24 @@
       "duration_ms": 222876,
       "name": "Renu\u00e9vame",
       "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
+    },
+    {
+      "album": {
+        "name": "Te Exaltamos (En Vivo)",
+        "url": "https://open.spotify.com/album/7wCXLga0UCA7SkrCAFXPOM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "date_added": "2025-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "Renu\u00e9vame - En Vivo",
+      "url": "https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c"
     },
     {
       "album": {

@@ -1499,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Puede Pasar",
+        "url": "https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233501,
+      "name": "Pa' Qu\u00e9 Te Quedas",
+      "url": "https://open.spotify.com/track/5JB3jzYaeT2TqgoPnSkgcM"
+    },
+    {
+      "album": {
         "name": "Pic\u00f3",
         "url": "https://open.spotify.com/album/7kA9ZjLyi8S8rSzJbNR8iL"
       },

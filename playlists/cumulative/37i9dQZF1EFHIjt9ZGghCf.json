@@ -23,7 +23,7 @@
     },
     {
       "album": {
-        "name": "The Entreating",
+        "name": "The Entreating (Live)",
         "url": "https://open.spotify.com/album/7zJChADYcuBdZgDjv0jKjR"
       },
       "artists": [
@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Here On Earth",
+        "url": "https://open.spotify.com/album/0Njmye5mpDaoGnN5Y4kmb6"
+      },
+      "artists": [
+        {
+          "name": "Medi Kay",
+          "url": "https://open.spotify.com/artist/6Y2lu0327wke3FYutwXZXG"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458754,
+      "name": "Most Beautiful",
+      "url": "https://open.spotify.com/track/0doDyKeTxd20ks4M9K9yxD"
+    },
+    {
+      "album": {
         "name": "Here on Earth",
         "url": "https://open.spotify.com/album/0gh4vFV6j5Aay8t94AhVU1"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 458754,
       "name": "Most Beautiful",
       "url": "https://open.spotify.com/track/0lwW780IP7hPl52GdPpoJZ"

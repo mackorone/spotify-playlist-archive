@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from, Dato' Sri Siti Nurhaliza, Ernie Zakri, The Neighbourhood, Jessie J, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,501 likes - 124 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,496 likes - 124 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 29 | [Reno \- feat\. Colde](https://open.spotify.com/track/0kPhwAgoX0tB2lIO3zmRik) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Reno \(feat\. Colde\)](https://open.spotify.com/album/1Odn0BcmtVhQswzJc4kuPi) | 3:07 |
 | 30 | [CAPPUCCINO](https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [CAPPUCCINO](https://open.spotify.com/album/79XKfHFB4DDjK9qsFzGtwr) | 2:57 |
 | 31 | [風](https://open.spotify.com/track/2nwRk2QTUrMPfDcpISEvPY) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [風](https://open.spotify.com/album/5iWWdVYZvtY3g1RdF3V1qJ) | 4:12 |
-| 32 | [Pride \- Movie "Deadline" Theme Song](https://open.spotify.com/track/2FS2REEsCTuNQZiiaFRUxy) | [JUD](https://open.spotify.com/artist/0TLFuIkzBCZUHQ38oeK11R) | [Pride](https://open.spotify.com/album/2G52tVHq3s2Rq5PoC6wiOf) | 4:05 |
+| 32 | [Pride \- Movie "Deadline" Theme Song](https://open.spotify.com/track/2FS2REEsCTuNQZiiaFRUxy) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [Pride](https://open.spotify.com/album/2G52tVHq3s2Rq5PoC6wiOf) | 4:05 |
 | 33 | [关于你](https://open.spotify.com/track/5CsyLFj20nBUwdfET7UcX7) | [Evelyn Jiang](https://open.spotify.com/artist/6zb3HsIgT0wFAq1Puw89yI) | [关于你](https://open.spotify.com/album/5iTF8wmWfyUAAX0mhIBape) | 3:56 |
 | 34 | [頃刻間的愛](https://open.spotify.com/track/0cYJYafXPMZgravVYWWtjc) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [頃刻間的愛](https://open.spotify.com/album/4FIhHwuH6mOPHXxjxt1CHx) | 4:20 |
 | 35 | [多愛我 \- 影集《看看你有多愛我》自由主題曲](https://open.spotify.com/track/1lJhWxNHQW6yI8kvkKammP) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [多愛我 \(影集《看看你有多愛我》自由主題曲\)](https://open.spotify.com/album/72bLcmNo8ddLPQ793J5xqo) | 3:15 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 102 | [A Chance Encounter](https://open.spotify.com/track/0lGPKB9g7qVCs5vMzZMGe2) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [A Chance Encounter](https://open.spotify.com/album/2fccNWzL5jDwu4dfbqRROs) | 3:33 |
 | 103 | [Beat\-Boxer](https://open.spotify.com/track/4X8JreC8HgOwxmh0bRjQ4w) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Beat\-Boxer](https://open.spotify.com/album/6SPjS2fx5nvWvmhWfJjAHi) | 2:35 |
 | 104 | [SUPERPOWER \(Peak\)](https://open.spotify.com/track/5cgk5DRxhBuPcvJpM8KIsz) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : WRECKING THE HOUSE](https://open.spotify.com/album/0BWWwBPmMDLnhvi2SJX8CV) | 3:23 |
-| 105 | [if you wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 |
+| 105 | [If You Wanna](https://open.spotify.com/track/3CuGOVC8ML0TrQJ68RvwfP) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Syndrome](https://open.spotify.com/album/6xwwk8iEemDRT8eOcg3rOM) | 2:28 |
 | 106 | [Cloud](https://open.spotify.com/track/4fOdK6DLy3VcpagzcI2KBt) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Cloud](https://open.spotify.com/album/6ZhosGhIGeloPI8TTrOcNv) | 2:39 |
 | 107 | [No Words Can Say](https://open.spotify.com/track/1xkhh2mQI71CJJUrIbyKwk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [No Words Can Say](https://open.spotify.com/album/2d96sKtYbxVpOQVFetsaOr) | 3:56 |
 | 108 | [Last Light](https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Last Light](https://open.spotify.com/album/4gEqGE3PT2Ae7ciTJH8YSn) | 4:04 |

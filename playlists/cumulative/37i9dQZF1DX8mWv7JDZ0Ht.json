@@ -6895,6 +6895,24 @@
     },
     {
       "album": {
+        "name": "Flor Do Inverno",
+        "url": "https://open.spotify.com/album/3vzPI8pg9ENhFmUB7PQGTh"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "date_added": "2025-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184118,
+      "name": "Flor Do Inverno",
+      "url": "https://open.spotify.com/track/4S2KuuKNKKS06twmxWgAob"
+    },
+    {
+      "album": {
         "name": "Flores pro inferno",
         "url": "https://open.spotify.com/album/3ZMbYlXfb4zy79Nv6MegvO"
       },
@@ -10410,7 +10428,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 177777,
       "name": "N\u00e3o Tem Pre\u00e7o",
       "url": "https://open.spotify.com/track/2zbhMAmM6pKn2DKrK6KlIj"

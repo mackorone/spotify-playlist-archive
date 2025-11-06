@@ -4,7 +4,7 @@
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-109 songs - 8 hr 49 min
+110 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [La Canción de Linyera](https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 4:45 | 2021-07-28 | 2024-04-19 |
 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 | 2021-07-28 |  |
 | [La Cocola](https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA) | [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3) | [Soñe \- Jazz Mexicano](https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6) | 4:26 | 2021-07-28 |  |
+| [La Danza de Helmut](https://open.spotify.com/track/3XIuXL9FZBfoQe0KK7tdqc) | [Luri Molina](https://open.spotify.com/artist/6SEMxEhkjIX6zwedFrLv0n), [Diego Franco](https://open.spotify.com/artist/54unEwVLwrdvfz638XHDzY), [Juan Ale Sáenz](https://open.spotify.com/artist/46lGzSjHcC3I4JOUVpriOa), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [La Danza de Helmut](https://open.spotify.com/album/6Kks2IU2J1pb2nZ6sCpjck) | 3:58 | 2021-07-28 |  |
 | [La Franca](https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 3:18 | 2024-08-29 |  |
 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 | 2021-07-28 |  |
 | [La Marcha De Sansón](https://open.spotify.com/track/5FUStaUjkr3KnEuMe5ISoR) | [Chilo Moran](https://open.spotify.com/artist/2hJUxhxA0lT9kBVHUjARsK) | [Días De Vino Y Rosas](https://open.spotify.com/album/7M5Z3QiHlZx5EVaklRqUi0) | 4:36 | 2021-07-28 | 2024-01-12 |
@@ -80,7 +81,7 @@
 | [Monk Around](https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3) | [Daniel Wong](https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J) | [Daniel Wong Trio](https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B) | 3:50 | 2021-07-28 | 2023-11-18 |
 | [Mosquita Muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita Muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 | 2023-11-23 | 2024-09-04 |
 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 | 2021-07-28 |  |
-| [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 | 2021-07-28 |  |
+| [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 | 2021-07-28 | 2025-11-06 |
 | [Naila](https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...Un Poco Más](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 5:03 | 2021-07-28 |  |
 | [No Se que Pasa Entre Tú y Yo](https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO) | [Ernesto Riestra Y Su Orquesta](https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE) | [Las Puntadas de Ernesto Riesta](https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ) | 2:58 | 2021-07-28 |  |
 | [Nu Soul](https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1) | [Pepe Hernandez](https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW) | [Groove Zone](https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3) | 4:32 | 2021-07-28 |  |

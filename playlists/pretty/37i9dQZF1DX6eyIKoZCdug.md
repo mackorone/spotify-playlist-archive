@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,936 likes - 59 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,940 likes - 59 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 3 | [Pilgrimage to the Homeland](https://open.spotify.com/track/7836kZZp5LKsq4QMaJ4lrx) | [Z.E.N](https://open.spotify.com/artist/1e0U1rJZOxccXqF6oCyZT4) | [Parable EP](https://open.spotify.com/album/3AwDiF3MPo06RVZgUiscE9) | 7:05 |
 | 4 | [Replay](https://open.spotify.com/track/5EJGNjrRsfgwgFj7hvf7fR) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB) | [Replay](https://open.spotify.com/album/7oY5Xy6be2R9efmDVoCnvi) | 3:33 |
 | 5 | [Sowa Pt\. 2](https://open.spotify.com/track/6ijHaB3JQaQzNctgZcqnbz) | [Mo Laudi](https://open.spotify.com/artist/3jWjZtXKLucI8YSgshXJhW), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Sowa Pt\. 2](https://open.spotify.com/album/7JRrvfLoXEIccCWXOwbphx) | 3:38 |
-| 6 | [Khanyisela](https://open.spotify.com/track/2sRp8X8zJsx46EpP3hY2Q3) | [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh), [Luna Iyana](https://open.spotify.com/artist/7zZTs3aNJQrlgtK9tHFF83) | [Khanyisela](https://open.spotify.com/album/1EoDtq53w8HuMAGqiqm8CE) | 6:04 |
+| 6 | [Khanyisela](https://open.spotify.com/track/2sRp8X8zJsx46EpP3hY2Q3) | [KUTHATHU](https://open.spotify.com/artist/4Cclhj7FUPigBRYPNbW5dw), [Luna Iyana](https://open.spotify.com/artist/7zZTs3aNJQrlgtK9tHFF83) | [Khanyisela](https://open.spotify.com/album/1EoDtq53w8HuMAGqiqm8CE) | 6:04 |
 | 7 | [Clair De Lune](https://open.spotify.com/track/756ty0Bv8lSNQZ00ylKSJd) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [NegoO](https://open.spotify.com/artist/3gzr7RSwdcex4CdfvZi0TX) | [Tears On The Dancefloor](https://open.spotify.com/album/4FSWeYOHJIGe65jSgxOXu2) | 3:08 |
 | 8 | [Dark Waters](https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Dark Waters](https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl) | 3:33 |
 | 9 | [Mas'ngathandana](https://open.spotify.com/track/2B3BFzSTDH3ryrY8iWMpTL) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Mas'ngathandana](https://open.spotify.com/album/4nPXfPyVcfX7NflIKOo49u) | 7:40 |

@@ -4,7 +4,7 @@
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:4pY5WUGXSfiCUMFnb15oEB">Tare</a> in cover.
 
-1,932 songs - 3 day 23 hr 47 min
+1,933 songs - 3 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1823,6 +1823,7 @@
 | [un corpo x2](https://open.spotify.com/track/1Fgr4oRSWQh6HA3ipg0cCY) | [b.estye](https://open.spotify.com/artist/2YaXROXiWeqPA4fG5od6bU), [VÈRA](https://open.spotify.com/artist/7DZuHz7yhK2N1uCEiJ7jZF) | [un corpo x2](https://open.spotify.com/album/22DGsHyto83BY4PZqWpdQX) | 2:45 | 2022-11-17 | 2022-12-01 |
 | [Un drink più deciso](https://open.spotify.com/track/5LdrXyHptMz49GWlCj2r6g) | [Pietro Mio](https://open.spotify.com/artist/51kKYDRaem5nTYfN58QAqb) | [Un drink più deciso](https://open.spotify.com/album/54UvRMbNv40UN3cmjCCKwu) | 2:23 | 2024-04-23 | 2024-05-24 |
 | [Un Letto Per Tre](https://open.spotify.com/track/23qftjW7ppRTtcIY8Q9Hev) | [Lumiero](https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ) | [Un Letto Per Tre](https://open.spotify.com/album/2a6h0pFMb6Cbuytstwib7s) | 3:15 | 2025-09-30 | 2025-11-05 |
+| [Un momento, una crisi, un lampo](https://open.spotify.com/track/7kKAyF2olXEDLJHVsweOL0) | [Te quiero Euridice](https://open.spotify.com/artist/6frAhvskfC3xuQignUYg06) | [Sistemi lineari](https://open.spotify.com/album/5sGAth1VLdPMcmKsjsX0l6) | 2:41 | 2025-11-04 |  |
 | [Un Po' Mi Pento](https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [Un Po' Mi Pento](https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2) | 3:10 | 2024-07-18 | 2024-08-22 |
 | [UN POSTO NUOVO](https://open.spotify.com/track/6gHqzNylTKgd2QcPsVgQZE) | [Luca Re](https://open.spotify.com/artist/2TvgTSCaWT7JFeVYggKeu8) | [SP57](https://open.spotify.com/album/1KgbsghZgWMiXOZBeffgJr) | 2:24 | 2025-05-20 | 2025-06-11 |
 | [Un Ragazzo](https://open.spotify.com/track/4Ke87fcWxmC6ebcRkrDjYf) | [P O N ¥](https://open.spotify.com/artist/5SFiEHjNzaBpIiJd0uzaxX) | [Un Ragazzo](https://open.spotify.com/album/3fOWHNbaHcGatXysATcyXW) | 3:36 | 2022-01-06 | 2022-02-18 |

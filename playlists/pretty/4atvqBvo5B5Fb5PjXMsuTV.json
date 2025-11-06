@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Nov 19:05 UTC.",
-  "num_followers": 101,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Nov 04:04 UTC.",
+  "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAV41oph+CXTW9tHPPBoq2tJRov1X6w",
+  "snapshot_id": "AAAV6SfcV8KWb7S9PN/7xlUU0h4GfW/Y",
   "tracks": [
+    {
+      "added_at": "2025-11-05 23:04:12",
+      "album": {
+        "name": "Try To Love",
+        "url": "https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 143996,
+      "name": "Try To Love",
+      "url": "https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2"
+    },
+    {
+      "added_at": "2025-11-06 04:04:02",
+      "album": {
+        "name": "P.O.L.O.",
+        "url": "https://open.spotify.com/album/7gwPUI70LAatDbDWrDFcgV"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 115068,
+      "name": "P.O.L.O.",
+      "url": "https://open.spotify.com/track/0LfU4PlA0TbNqXOPkEBjZ0"
+    },
     {
       "added_at": "2025-11-04 19:05:14",
       "album": {
@@ -319,6 +351,22 @@
       "duration_ms": 104451,
       "name": "Fast Money",
       "url": "https://open.spotify.com/track/1m2xMQXfEluQn07rRevRGr"
+    },
+    {
+      "added_at": "2025-11-05 09:04:35",
+      "album": {
+        "name": "YOUTUBE",
+        "url": "https://open.spotify.com/album/44EKKblmLAv6dnK2xYIto8"
+      },
+      "artists": [
+        {
+          "name": "rexv2",
+          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
+        }
+      ],
+      "duration_ms": 123211,
+      "name": "YOUTUBE",
+      "url": "https://open.spotify.com/track/6vb12ndiXPFYuaSxGYB5Pm"
     },
     {
       "added_at": "2025-10-31 09:04:53",
@@ -783,54 +831,6 @@
       "duration_ms": 178901,
       "name": "Coming Undone",
       "url": "https://open.spotify.com/track/6gx810Ay2uDXu9zDDJ0J8f"
-    },
-    {
-      "added_at": "2025-10-25 18:05:37",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/1gIEqHodh2lVQZxjPyF7tr"
-      },
-      "artists": [
-        {
-          "name": "Yunggoth\u2730",
-          "url": "https://open.spotify.com/artist/2Wpsydr0xZekaBFNQ0OSKd"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/36cqRPZYjuy3LSbVSpMF1B"
-    },
-    {
-      "added_at": "2025-10-28 23:04:10",
-      "album": {
-        "name": "Wavy Lyke Africa",
-        "url": "https://open.spotify.com/album/2OQPn6xWdOvsxUyD4T9QQR"
-      },
-      "artists": [
-        {
-          "name": "Sickboyrari",
-          "url": "https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky"
-        }
-      ],
-      "duration_ms": 227124,
-      "name": "Wavy Lyke Africa",
-      "url": "https://open.spotify.com/track/4hBPYVun9c7xbDFUWwTF1F"
-    },
-    {
-      "added_at": "2025-10-29 09:04:54",
-      "album": {
-        "name": "Likey",
-        "url": "https://open.spotify.com/album/0BcGPJJp1PRbpeSNCtqLqB"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        }
-      ],
-      "duration_ms": 114480,
-      "name": "Likey",
-      "url": "https://open.spotify.com/track/3D6YXcLKUp78mWf7jaXko1"
     }
   ],
   "unique_name": "New Singles Now",

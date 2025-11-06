@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-816 songs - 1 day 12 hr 51 min
+817 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Funny Meal](https://open.spotify.com/track/5qrSBUdKCZn05W1LIs5H0Z) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Funny Meal](https://open.spotify.com/album/4rfpHnAXPsilZgDOjWtwMl) | 4:14 | 2021-12-23 | 2022-01-31 |
 | [Game Master](https://open.spotify.com/track/4Oo2LsLop0vSbHeO1TPLj0) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G) | [Game Master](https://open.spotify.com/album/4vmZPaMP1MHVKDrlr8hWI3) | 1:53 | 2022-01-06 | 2023-06-30 |
 | [Garden](https://open.spotify.com/track/1XI81iqlkLT3xUHzQzRrb8) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Fade](https://open.spotify.com/album/2BeO7MZkXO2dYyuadRNj4l) | 2:29 | 2021-12-23 | 2022-07-05 |
+| [Gentle Pulse](https://open.spotify.com/track/5dA2ncuY1kKpuqWBV6YuXG) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Gentle Pulse](https://open.spotify.com/album/3ID1KnL5W5u4Q3y59oymBy) | 2:30 | 2025-10-24 |  |
 | [gentle rain](https://open.spotify.com/track/1MAaAEofHxLP11dtelYU32) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/77Z3NG9a0HbZC20gxpcsVN) | 1:30 | 2023-07-20 | 2023-07-22 |
 | [gentle rain](https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP) | 1:30 | 2023-07-20 | 2023-09-27 |
 | [gentleman](https://open.spotify.com/track/1AJRoIsfo0UjJwWm7IPZGo) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [gentleman](https://open.spotify.com/album/6ZxqNUJWovT4o7RldR0FH9) | 2:08 | 2024-02-13 | 2024-12-22 |
@@ -656,11 +657,11 @@
 | [Sparkler](https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [Sparkler](https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB) | 2:52 | 2024-12-14 | 2025-10-14 |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-01-13 | 2025-05-05 |
 | [SPHERE](https://open.spotify.com/track/7z5sMgAaXOcToQhgynYjHG) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPHERE](https://open.spotify.com/album/5zpSPICBYaR5EX73CtD2a1) | 1:39 | 2022-09-22 | 2022-11-09 |
-| [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 |  |
+| [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 | 2025-11-06 |
 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 | 2022-04-21 | 2023-09-29 |
 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 | 2022-07-28 | 2023-06-18 |
 | [Spring Fever](https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/7wFqHdaHXqzKDepQNoh5EZ) | 4:03 | 2021-12-23 | 2022-07-26 |
-| [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV) | 4:36 | 2025-09-18 |  |
+| [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/track/0U3IxVP9vj56VAuVGHrSuo) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Stack Wave \(feat\. STUTS\)](https://open.spotify.com/album/00n7OlFDIC3zpWOXmV2bAV) | 4:31 | 2025-09-18 |  |
 | [stained glass](https://open.spotify.com/track/1CZGGAMZ8L8K7KixFUvrDS) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [stained glass](https://open.spotify.com/album/7kW2HciwXAKpd3a5Ln6V9o) | 3:00 | 2023-11-16 | 2024-02-06 |
 | [Star Lights](https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL) | 1:41 | 2022-11-17 | 2022-11-19 |
 | [Star Lights](https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL) | 1:41 | 2022-11-17 | 2023-06-01 |

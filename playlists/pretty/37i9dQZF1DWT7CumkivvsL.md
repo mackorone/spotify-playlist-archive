@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 
 > Will love prove stronger than resentment? Listen to the official playlist for Culpa Mia, Culpa Tuya , and Culpa Nuestra, now streaming on Prime Video
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,991 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,092 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 | 43 | [Strange Effect \(Killing Eve\)](https://open.spotify.com/track/2jiozkiIJZvTYEz58j6UFh) | [Unloved](https://open.spotify.com/artist/5SOsxafkLy6a7mUyPp0ETK), [Raven Violet](https://open.spotify.com/artist/2BxiZQw7FwvA6xYVBhPZun) | [Strange Effect \(Killing Eve\)](https://open.spotify.com/album/7mG466vIvXA7CtGMi8Z6Rh) | 2:41 |
 | 44 | [Sacúdete](https://open.spotify.com/track/4GsmrjLdnfsgkbV8pmRgdw) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Sacúdete](https://open.spotify.com/album/2OakpM5ZzFtokfU9xH8gzm) | 2:02 |
 | 45 | [CHIBI](https://open.spotify.com/track/4wKzb4OXeXiuqzyuU2PqaB) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:08 |
-| 46 | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU) | 2:41 |
+| 46 | [Ptazeta: Bzrp Music Sessions, Vol\. 45/66](https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ptazeta: Bzrp Music Sessions, Vol\. 45/66](https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU) | 2:41 |
 | 47 | [K.](https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 5:19 |
 | 48 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 |
 | 49 | [Nuestra Canción](https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL) | [Nuestra Canción](https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2) | 4:36 |

@@ -4,7 +4,7 @@
 
 > Sinan Akçıl x Duru ve haftanın en iyi çıkışları!
 
-4,124 songs - 8 day 17 hr 55 min
+4,125 songs - 8 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3185,6 +3185,7 @@
 | [SON KEZ](https://open.spotify.com/track/4I360K90xnk2nfHHrW35IX) | [Yung Şimşek](https://open.spotify.com/artist/4ReTB5nAVuJFlTRkA0aakm) | [SON KEZ](https://open.spotify.com/album/0r0bLa8O1GFVS5xlZxORxj) | 2:36 | 2025-05-15 | 2025-05-23 |
 | [SON SABAH](https://open.spotify.com/track/6MNscqZv2xhZbMtH2xDSJR) | [Süleyman Çapar](https://open.spotify.com/artist/7rMv9a7kN15wmor4HpIAio) | [SON SABAH](https://open.spotify.com/album/6iUr3B6DOPVFq5cBLlyIDo) | 3:47 | 2025-05-29 | 2025-06-06 |
 | [Son Satır](https://open.spotify.com/track/6wCS8BIglJ1Gd8zGM7qqd5) | [Turgut Turcihan](https://open.spotify.com/artist/14MWQlRBbo1C6DMioLgxwW) | [Son Satır](https://open.spotify.com/album/6ujhOK5AkPf8EyBSdZRFMd) | 2:29 | 2025-02-27 | 2025-03-07 |
+| [Son Ses](https://open.spotify.com/track/7i9JkJWxspYyIWXsqdMKuC) | [Önder Şahin](https://open.spotify.com/artist/54B2T6NfUfcu68yWPpy0kn) | [Son Ses](https://open.spotify.com/album/6OHVPagMHMLC4xT4Fbx8yV) | 3:04 | 2025-10-30 |  |
 | [Son Söz](https://open.spotify.com/track/2D6cIfsa27rewToJ8zRl9E) | [Haluk Kurosman](https://open.spotify.com/artist/63XdtzUMPQOm0xqzBhJ1rm) | [Son Söz](https://open.spotify.com/album/6gqsxaZbJSQEBL5M5N7Qug) | 3:42 | 2025-04-03 | 2025-04-11 |
 | [SON SÖZLERİM](https://open.spotify.com/track/6GNc5GEXXCJN7tYiuZfIfj) | [Parla](https://open.spotify.com/artist/0ELB2APjrcxE6zO75MWpBN), [Mili B](https://open.spotify.com/artist/7y2FO59lrnN6jNoiHoEhE9) | [SON SÖZLERİM](https://open.spotify.com/album/2kido0VXxv3taOFo26x4Tg) | 2:00 | 2025-10-16 | 2025-10-24 |
 | [Son Sözüm](https://open.spotify.com/track/5knedxu9Q8wOFyyBnM6ADY) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Son Sözüm](https://open.spotify.com/album/1q8w8M5Kh0KILvrTZxGloK) | 3:37 | 2025-08-07 | 2025-08-15 |

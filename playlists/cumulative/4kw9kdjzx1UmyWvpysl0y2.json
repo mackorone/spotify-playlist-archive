@@ -9381,6 +9381,28 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184222,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6HKKBO75lKYdWJPdW76Gmp"
       },

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,008 songs - 2 day 3 hr 38 min
+1,009 songs - 2 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [Standoff](https://open.spotify.com/track/3sFGcDz2wAweSlYn10USqC) | [Prime Punk](https://open.spotify.com/artist/3hieXs8GqdGwv2X3jYsqlf), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Norberto Loco](https://open.spotify.com/artist/55cVmEuppOOdjbgF04iYYO) | [Standoff](https://open.spotify.com/album/1jek94dIOUtwSBKEmgbHbf) | 2:40 | 2024-11-08 | 2024-11-16 |
 | [Stars Ignite \- Radio Edit](https://open.spotify.com/track/1z11LSSj4SumShX9Gc7mjz) | [Jozvent](https://open.spotify.com/artist/27RdGjhaxWCLENsx1cLBlz), [Elirah](https://open.spotify.com/artist/0e82ZVAGrqJm1uussK9IUl) | [Stars Ignite](https://open.spotify.com/album/1l6vSeAy1eZhv2nzo05eiE) | 2:52 | 2024-12-05 |  |
 | [Stars In Your Eyes \(feat\. Brave Culture\)](https://open.spotify.com/track/6ohIMkHb95QNE0AJkoNJZY) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [Stars In Your Eyes \(feat\. Brave Culture\)](https://open.spotify.com/album/5jrxESXj1aBiPyqF1TGdlQ) | 3:17 | 2023-11-24 | 2024-09-26 |
+| [State Of Emergency](https://open.spotify.com/track/39Bz1AM2z7s6wCeJ6KEpRr) | [Smith & Sorren](https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A) | [State Of Emergency](https://open.spotify.com/album/1h4IElYGVPnku0hM7C1JPw) | 4:05 | 2025-11-05 |  |
 | [State of Mind](https://open.spotify.com/track/4IFGiauDkB9nOiPrEw97F1) | [RYU & DANTE](https://open.spotify.com/artist/297i2RtGGQqofyuggOlE2l) | [State of Mind](https://open.spotify.com/album/4A8mUMRR5w7HoUALgYy0Pk) | 3:36 | 2023-05-12 | 2023-08-02 |
 | [Stay](https://open.spotify.com/track/0KYgrhOR22AirR2Z13KtCg) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY) | [Stay](https://open.spotify.com/album/0eYKrcg6wgIlRwTurG3pvr) | 3:44 | 2023-09-15 | 2023-12-23 |
 | [Steel Line](https://open.spotify.com/track/51yyRwUdIfG9dntnTiRwaK) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Steel Line](https://open.spotify.com/album/17KkY0KitERqshXFmKbffb) | 3:03 | 2023-10-26 | 2024-10-11 |

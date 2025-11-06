@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Capo Plaza, Tedua, Fedez, ROSALÍA, Florence + The Machine e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,176 likes - 68 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,164 likes - 68 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 53 | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/track/0OK7GFhrMmMVzHppXk3DSv) | [Foramacchia](https://open.spotify.com/artist/6ST078zQG2Ddyc8K6YExIr), [Fiabba](https://open.spotify.com/artist/6eHnWGv1hiGzEEgdUvP2WT) | [Tralicci :\|: ELETTRICITÀ](https://open.spotify.com/album/0GxhWR52oyRYwp9SgBcjhk) | 2:44 |
 | 54 | [Smoking session](https://open.spotify.com/track/08IXlZmjNYtXBgENjmpMAR) | [Rnawa](https://open.spotify.com/artist/18VNvuSCfOuIwCkd8VzOIV) | [Smoking session](https://open.spotify.com/album/7MrTS1OmElvBsUx465h8IZ) | 2:50 |
 | 55 | [ANUBI](https://open.spotify.com/track/7MLhPKIf1fTcJCy1Nfyyyc) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [ANUBI](https://open.spotify.com/album/52NtFcMo8qJNjOhOCDveCv) | 2:25 |
-| 56 | [Vulnerable](https://open.spotify.com/track/1l2Zf3jkgopV1Hn3DhTS2U) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [Echoes](https://open.spotify.com/album/76eXMrbmPQ6mxklmbEYkun) | 2:35 |
+| 56 | [Vulnerable](https://open.spotify.com/track/1l2Zf3jkgopV1Hn3DhTS2U) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Echoes](https://open.spotify.com/album/76eXMrbmPQ6mxklmbEYkun) | 2:35 |
 | 57 | [Addicted to You](https://open.spotify.com/track/4VgCZKrXW61sSNOeds3OtL) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Addicted to You](https://open.spotify.com/album/4ZHNfVAydH0AOBOrSZudvn) | 3:22 |
 | 58 | [Tavolo tondo \(feat\. Acqua Distillata\)](https://open.spotify.com/track/2MxZTur3pdmcYITc1CpKeq) | [tabascomeno](https://open.spotify.com/artist/7ry1g6OMLhn01U5Ok1JfUc), [Acqua Distillata](https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF) | [Tavolo tondo \(feat\. Acqua Distillata\)](https://open.spotify.com/album/755Tpxi87T0uybqLBVYsmp) | 3:32 |
 | 59 | [SILTRI](https://open.spotify.com/track/3mKWCo0xL10BWAW81AbXlE) | [AGA](https://open.spotify.com/artist/6o1ZHc5cD5f0ob011mOkpj) | [SILTRI / TRONA](https://open.spotify.com/album/7dmMOmbdBY2bCcdiNhVtih) | 1:55 |

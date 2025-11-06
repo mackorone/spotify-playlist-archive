@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-583 songs - 1 day 1 hr 0 min
+586 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Falke](https://open.spotify.com/track/6b5jWO1oYGUG7LKNJ07De4) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sonnenkind](https://open.spotify.com/album/0hTN8NbBKPGhbtUSrCzLgj) | 2:28 | 2022-12-22 | 2025-05-03 |
 | [Falling Trees](https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Falling Trees](https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3) | 2:42 | 2022-01-04 | 2025-01-30 |
 | [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 | 2022-03-01 | 2024-09-25 |
+| [Featherlike](https://open.spotify.com/track/1YF19DOIXzE8i2zsYhmR66) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Featherlike](https://open.spotify.com/album/7DLnD9cC6d0bMvtygu6VFy) | 2:13 | 2025-11-05 |  |
 | [Feathers](https://open.spotify.com/track/4T4P5i4RkTHRlGuBqbxSnA) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Feathers](https://open.spotify.com/album/7I0s6MBfw5VWHSReQ6NqWB) | 2:37 | 2021-12-07 | 2022-04-15 |
 | [Feuilles d'automne](https://open.spotify.com/track/0C2q5FBAGtuFopEx96ayCf) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Feuilles d'automne](https://open.spotify.com/album/0H24clOadhqXC56cb9bgbQ) | 2:09 | 2021-12-07 | 2022-12-24 |
 | [Ficelles](https://open.spotify.com/track/132Kp4GGfpNCDwiIOWygrg) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Ficelles](https://open.spotify.com/album/7FnU9q86zFuA6lmsgzs2H5) | 1:14 | 2023-03-06 | 2023-07-19 |
@@ -189,6 +190,7 @@
 | [Gentle](https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr) | [Lennox Cole](https://open.spotify.com/artist/4ZJ87FCTeqG6E14EkGqXpi) | [Gentle](https://open.spotify.com/album/4MVDKPNV0q07arvLobByMW) | 2:12 | 2021-12-07 | 2025-04-10 |
 | [Gentle Grace](https://open.spotify.com/track/7DH8t17K9V6kEZKi6NgGcV) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Gentle Grace](https://open.spotify.com/album/1FPkScSsUj5i22qqsdk2IS) | 2:11 | 2023-06-20 |  |
 | [Glendale Walk](https://open.spotify.com/track/30bKGGrB4CdUU1FrhDbjE8) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Glendale Walk](https://open.spotify.com/album/5foJvhdGbJtArvZjVzl7ER) | 3:07 | 2021-12-07 | 2023-01-27 |
+| [Goodbye Beverlywood](https://open.spotify.com/track/4fJjCw4Uhyx9Orpcgao7pk) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Goodbye Beverlywood](https://open.spotify.com/album/4emsJmeHX6e4AZnt9jRgCb) | 2:04 | 2025-11-05 |  |
 | [Gouttes](https://open.spotify.com/track/6FEpVWSgpAadjPVuKNwCcx) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Gouttes](https://open.spotify.com/album/5Fws3ZQPPNC8m9vcR3H2Yx) | 3:14 | 2021-12-07 | 2022-12-24 |
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-07 | 2023-01-27 |
 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 | 2025-01-14 |  |
@@ -361,6 +363,7 @@
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 | 2024-02-14 |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2021-12-07 | 2022-01-05 |
 | [Nostalgica](https://open.spotify.com/track/0N0Rxym9LnsVtwAdAVcWrQ) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Nostalgica](https://open.spotify.com/album/3zxaNFApLDuAYT2haPRbXq) | 2:06 | 2023-02-21 | 2025-09-18 |
+| [Not meant to be](https://open.spotify.com/track/3uvuDQEnZQIHWQGw2bzFaN) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Not meant to be](https://open.spotify.com/album/6EkArqSeNIiXBHWx72gMsQ) | 2:11 | 2025-11-05 |  |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-02-01 | 2023-07-26 |
 | [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-01 | 2023-03-30 |
 | [November 9th](https://open.spotify.com/track/1ImEbpBXsZD9LYyQ67WXiX) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [November 9th](https://open.spotify.com/album/43sDDJJnnUwrgnCbaYqyZB) | 2:40 | 2022-05-20 | 2024-09-25 |
@@ -506,7 +509,7 @@
 | [Symposium](https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Symposium](https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum) | 2:22 | 2022-02-15 | 2025-01-30 |
 | [Tagliamento](https://open.spotify.com/track/6WjNhHHsG4i2n4dpk8ANrm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Tagliamento](https://open.spotify.com/album/3UvMj1JE5OP9VhMxwEbf5I) | 2:19 | 2025-05-13 |  |
 | [Tagtraum](https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl) | [Lev Monticelli](https://open.spotify.com/artist/2PzaZCyLzfSqZN0Zy01Ys0) | [Im Lärchenwald](https://open.spotify.com/album/6gzewSzvAZpe24mTDvmiNy) | 2:47 | 2022-01-18 | 2025-01-30 |
-| [Taylor River](https://open.spotify.com/track/6GNqGNo4HxzaMsXo36ErsG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Taylor River](https://open.spotify.com/album/7HlwXtNrThDW7yDKT0bMbC) | 2:11 | 2025-08-05 |  |
+| [Taylor River](https://open.spotify.com/track/6GNqGNo4HxzaMsXo36ErsG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Taylor River](https://open.spotify.com/album/7HlwXtNrThDW7yDKT0bMbC) | 2:11 | 2025-08-05 | 2025-11-06 |
 | [Technicolor Dreamscape](https://open.spotify.com/track/3FCvuX0Q89RnHmGsSkZQ5U) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Petit Voyage](https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V) | 3:17 | 2023-01-26 | 2025-01-30 |
 | [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2021-12-07 | 2022-12-24 |
 | [The Ballet Dancer](https://open.spotify.com/track/51Tg7MFrOSdbYnqUCxN20O) | [Krisztian Palmai](https://open.spotify.com/artist/4mqTUYPEd89xIjrv6BPxRm), [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballet Dancer](https://open.spotify.com/album/1pYBBBeg3nEtCc9sIlNc8g) | 1:57 | 2022-09-20 | 2023-03-30 |

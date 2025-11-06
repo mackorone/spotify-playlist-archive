@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Ghost",
-  "num_followers": 427499,
+  "num_followers": 427734,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
+        "name": "The Great Unknown",
+        "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 181956,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
         "name": "The End (feat. BABYMETAL) [2025 VERSION]",
         "url": "https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 222500,
       "name": "The End (feat. BABYMETAL) - 2025 VERSION",
       "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
-        "name": "The Great Unknown",
-        "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 181956,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
-        "name": "God Of Angels Trust",
-        "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Demonic Depression",
-      "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
         "name": "CRUISING TO SELF SOOTHE",
         "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 152613,
       "name": "CRUISING TO SELF SOOTHE",
       "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
+        "name": "God Of Angels Trust",
+        "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Demonic Depression",
+      "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
-        "name": "Chrome Jets",
-        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 216747,
-      "name": "Chrome Jets",
-      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 225871,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
+        "name": "Chrome Jets",
+        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 216747,
+      "name": "Chrome Jets",
+      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -1907,26 +1907,6 @@
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
-        "name": "CONCRETE JUNGLE [THE OST]",
-        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 235092,
-      "name": "ANYTHING > HUMAN",
-      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -1963,6 +1943,26 @@
       "duration_ms": 186068,
       "name": "Fight Like A Girl (feat. K.Flay)",
       "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
+        "name": "CONCRETE JUNGLE [THE OST]",
+        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 235092,
+      "name": "ANYTHING > HUMAN",
+      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN"
-      },
-      "artists": [
-        {
-          "name": "Mammoth",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 213010,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
         "name": "The Death Card",
         "url": "https://open.spotify.com/album/2fcTgvULqmDLlE5nX0GJ5S"
       },
@@ -2099,18 +2083,18 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/05RKwbKlZsCQFapjGm3mWa"
+        "name": "The End",
+        "url": "https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Mammoth",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
         }
       ],
-      "duration_ms": 212750,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/0mNM0k99pox3oMwZQrRYld"
+      "duration_ms": 213010,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -2135,6 +2119,22 @@
       "duration_ms": 150636,
       "name": "One Last Dance (From \"Venom: The Last Dance\")",
       "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/05RKwbKlZsCQFapjGm3mWa"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/0mNM0k99pox3oMwZQrRYld"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
-        "name": "Losing Faith",
-        "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
-      },
-      "artists": [
-        {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
-        }
-      ],
-      "duration_ms": 185569,
-      "name": "Losing Faith",
-      "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
         "name": "No Rain, No Flowers",
         "url": "https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88"
       },
@@ -2243,6 +2227,22 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
+        "name": "Losing Faith",
+        "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 185569,
+      "name": "Losing Faith",
+      "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
         "name": "Worst in You",
         "url": "https://open.spotify.com/album/1vtNfw2wx3CYEenhVJHkU6"
       },
@@ -2255,22 +2255,6 @@
       "duration_ms": 206672,
       "name": "Worst in You",
       "url": "https://open.spotify.com/track/7HhLrUGNVM0mHMoFwHYINb"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
-        "name": "I Really Wanna",
-        "url": "https://open.spotify.com/album/1PrEsymyoO64SFZSe5g0lH"
-      },
-      "artists": [
-        {
-          "name": "Mammoth",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "I Really Wanna",
-      "url": "https://open.spotify.com/track/11x02p5bvdaVdiK1qY3uEC"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -2295,18 +2279,18 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2"
+        "name": "I Really Wanna",
+        "url": "https://open.spotify.com/album/1PrEsymyoO64SFZSe5g0lH"
       },
       "artists": [
         {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+          "name": "Mammoth",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
         }
       ],
-      "duration_ms": 194959,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0"
+      "duration_ms": 197886,
+      "name": "I Really Wanna",
+      "url": "https://open.spotify.com/track/11x02p5bvdaVdiK1qY3uEC"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -2327,6 +2311,22 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 194959,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
       },
@@ -2339,26 +2339,6 @@
       "duration_ms": 220660,
       "name": "Love Is War",
       "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
-        "name": "Say It Again (feat. The Rasmus)",
-        "url": "https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 263571,
-      "name": "Say It Again (feat. The Rasmus)",
-      "url": "https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -2383,6 +2363,26 @@
     {
       "added_at": "2025-10-24 04:00:08",
       "album": {
+        "name": "Say It Again (feat. The Rasmus)",
+        "url": "https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 263571,
+      "name": "Say It Again (feat. The Rasmus)",
+      "url": "https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
         "name": "Enough Is Enough",
         "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
       },
@@ -2395,22 +2395,6 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
-    },
-    {
-      "added_at": "2025-10-24 04:00:08",
-      "album": {
-        "name": "GOD IS AN ANIMAL",
-        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 235745,
-      "name": "GOD IS AN ANIMAL",
-      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
     },
     {
       "added_at": "2025-10-24 04:00:08",
@@ -2447,6 +2431,22 @@
       "duration_ms": 188177,
       "name": "PRAY TO ME",
       "url": "https://open.spotify.com/track/0yBNJ0WpqR0Ck7EwSdkG7j"
+    },
+    {
+      "added_at": "2025-10-24 04:00:08",
+      "album": {
+        "name": "GOD IS AN ANIMAL",
+        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 235745,
+      "name": "GOD IS AN ANIMAL",
+      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
     },
     {
       "added_at": "2025-10-24 04:00:08",

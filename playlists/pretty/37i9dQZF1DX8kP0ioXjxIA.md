@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kP0ioXjxIA.md) - [plain]
 
 > BLACKPINK in our area!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,374,879 likes - 68 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,375,065 likes - 68 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

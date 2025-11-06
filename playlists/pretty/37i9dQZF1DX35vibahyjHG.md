@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 ### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU?si=w4\_Qu\_7\-Q\_i\_HN0ALnkkLA">Nissi</a>
+> Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS?si=Xdh7ZghgSiKfGMZMHeffew">Good Girl LA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,452 likes - 68 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,473 likes - 68 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 67 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
 | 68 | [Motivate \(feat\. Olamide\)](https://open.spotify.com/track/6a0MFMtkaQKYUOnTQrwgBc) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Motivate \(feat\. Olamide\)](https://open.spotify.com/album/7qzGrUBqjkZHjDbdNYMSFv) | 2:45 |
 
-Snapshot ID: `AAAAADzr7YYtC29eYk7PIEHK4SbMALan`
+Snapshot ID: `AAAAAObvvml/EfsIRUqvSBY/gfTLoiWJ`

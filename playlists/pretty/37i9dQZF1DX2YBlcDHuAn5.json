@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33576,
+  "num_followers": 33573,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-10-31 08:57:35",
       "album": {
-        "name": "Highway Queen (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211485,
-      "name": "Highway Queen (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
-    },
-    {
-      "added_at": "2025-10-31 08:57:35",
-      "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
       },
@@ -719,18 +699,38 @@
     {
       "added_at": "2025-10-31 08:57:35",
       "album": {
-        "name": "Everlastingly",
-        "url": "https://open.spotify.com/album/09qQhI75Wea2oUagJtYNJe"
+        "name": "Highway Queen (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
       "artists": [
         {
-          "name": "The Martial",
-          "url": "https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 194175,
-      "name": "Everlastingly",
-      "url": "https://open.spotify.com/track/4adqsG2XY26kxpZlQSLyY4"
+      "duration_ms": 211485,
+      "name": "Highway Queen (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
+    },
+    {
+      "added_at": "2025-10-31 08:57:35",
+      "album": {
+        "name": "One Deep River",
+        "url": "https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 257346,
+      "name": "One Deep River",
+      "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
     },
     {
       "added_at": "2025-10-31 08:57:35",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-10-31 08:57:35",
       "album": {
-        "name": "One Deep River",
-        "url": "https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv"
+        "name": "Everlastingly",
+        "url": "https://open.spotify.com/album/09qQhI75Wea2oUagJtYNJe"
       },
       "artists": [
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "The Martial",
+          "url": "https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L"
         }
       ],
-      "duration_ms": 257346,
-      "name": "One Deep River",
-      "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
+      "duration_ms": 194175,
+      "name": "Everlastingly",
+      "url": "https://open.spotify.com/track/4adqsG2XY26kxpZlQSLyY4"
     },
     {
       "added_at": "2025-10-31 08:57:35",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-10-31 08:57:35",
       "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+      "duration_ms": 213726,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
     }
   ],
   "unique_name": "Country & Americana",

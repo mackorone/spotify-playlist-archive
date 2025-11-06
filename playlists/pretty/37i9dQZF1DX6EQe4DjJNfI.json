@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 184077,
+  "num_followers": 184099,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-10-31 16:27:37",
       "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
         "name": "De Lua",
         "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 192573,
       "name": "De Lua",
       "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
+        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 174417,
+      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
     },
     {
       "added_at": "2025-10-31 16:27:37",
@@ -387,42 +387,6 @@
     {
       "added_at": "2025-10-31 16:27:37",
       "album": {
-        "name": "Jeito Certo",
-        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 190993,
-      "name": "Jeito Certo",
-      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
-        "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-        "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 174417,
-      "name": "Que Confus\u00e3o, Amor - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -443,6 +407,66 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
+        "name": "Jeito Certo",
+        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 190993,
+      "name": "Jeito Certo",
+      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
+        "name": "Deu Fuga",
+        "url": "https://open.spotify.com/album/2xIZo4jHK9XWdUgjQfnrGv"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Deu Fuga",
+      "url": "https://open.spotify.com/track/4MBAPktG4S6jq309xDvnYA"
     },
     {
       "added_at": "2025-10-31 16:27:37",
@@ -487,30 +511,6 @@
       "duration_ms": 225566,
       "name": "Porque Me Responde Ainda",
       "url": "https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
-        "name": "Deu Fuga",
-        "url": "https://open.spotify.com/album/2xIZo4jHK9XWdUgjQfnrGv"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Deu Fuga",
-      "url": "https://open.spotify.com/track/4MBAPktG4S6jq309xDvnYA"
     },
     {
       "added_at": "2025-10-31 16:27:37",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-10-31 16:27:37",
       "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Baficca",
+          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -623,26 +643,6 @@
     {
       "added_at": "2025-10-31 16:27:37",
       "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Baficca",
-          "url": "https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
         "name": "Sonhei com Voc\u00ea",
         "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
@@ -679,6 +679,26 @@
     {
       "added_at": "2025-10-31 16:27:37",
       "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
         "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
         "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2025-10-31 16:27:37",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-10-31 16:27:37",
       "album": {
-        "name": "UNHA DE FOGUINHO",
-        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 165037,
-      "name": "UNHA DE FOGUINHO",
-      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
+        "name": "UNHA DE FOGUINHO",
+        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 165037,
+      "name": "UNHA DE FOGUINHO",
+      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
     },
     {
       "added_at": "2025-10-31 16:27:37",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-10-31 16:27:37",
       "album": {
-        "name": "Tenho Tanto de Voc\u00ea em Mim",
-        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Tenho Tanto de Voc\u00ea em Mim",
-      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
         "name": "TRATO",
         "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 149610,
       "name": "TRATO",
       "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
+        "name": "Tenho Tanto de Voc\u00ea em Mim",
+        "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Tenho Tanto de Voc\u00ea em Mim",
+      "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
     },
     {
       "added_at": "2025-10-31 16:27:37",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-10-31 16:27:37",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
-    },
-    {
-      "added_at": "2025-10-31 16:27:37",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2025-10-31 16:27:37",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2025-10-31 16:27:37",

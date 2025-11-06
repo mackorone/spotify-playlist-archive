@@ -810,7 +810,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 200112,
       "name": "A CABALLO",
       "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
@@ -6830,7 +6830,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 152480,
       "name": "Como Quieres",
       "url": "https://open.spotify.com/track/6KIPOwPtdQ4acvvj37i6Qu"
@@ -14796,7 +14796,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 206197,
       "name": "HIT",
       "url": "https://open.spotify.com/track/6UkwuADvgQgFQbU3LxHufl"
@@ -16912,7 +16912,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 285306,
       "name": "La Melod\u00eda de Dios",
       "url": "https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR"
@@ -19050,7 +19050,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 228923,
       "name": "LUCES EN LA NOCHE",
       "url": "https://open.spotify.com/track/01vsmr8A8gmP9maSOTV50O"
@@ -22481,6 +22481,24 @@
     },
     {
       "album": {
+        "name": "MUEVELOU",
+        "url": "https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR"
+      },
+      "artists": [
+        {
+          "name": "VAD BOYZ",
+          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135659,
+      "name": "MUEVELOU",
+      "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
+    },
+    {
+      "album": {
         "name": "Municiones (Guaracha Remix)",
         "url": "https://open.spotify.com/album/6XFROdE4mopCvzyKssELvL"
       },
@@ -25048,7 +25066,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
@@ -25070,7 +25088,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
@@ -26812,7 +26830,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 154321,
       "name": "plinko",
       "url": "https://open.spotify.com/track/0KIQbzllgifU1zkngYmPto"
@@ -33470,7 +33488,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 84560,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41"

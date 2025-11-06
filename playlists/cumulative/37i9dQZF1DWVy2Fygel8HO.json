@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "afterthought",
+        "url": "https://open.spotify.com/album/3nOqvaMHcDeqlU3pqTlEmP"
+      },
+      "artists": [
+        {
+          "name": "jiel",
+          "url": "https://open.spotify.com/artist/2uCs7S22q8iEg52XCLTzZx"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "afterthought",
+      "url": "https://open.spotify.com/track/4Rr3fUE84z8AjJshTRiCWt"
+    },
+    {
+      "album": {
         "name": "Al f\u00edn",
         "url": "https://open.spotify.com/album/0FjpiJwqP0wFPTdi0tbTs7"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 126816,
       "name": "Breakwater",
       "url": "https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G"
@@ -1212,6 +1230,24 @@
       "duration_ms": 135122,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/5kU6DmZ227JMDs7CuujZSp"
+      },
+      "artists": [
+        {
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137514,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/7yvByTOjJtBTbcyOG0bUtE"
     },
     {
       "album": {
@@ -2361,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "Serenade of Silence",
+        "url": "https://open.spotify.com/album/5786K1EoWZMb17nqKzyFeL"
+      },
+      "artists": [
+        {
+          "name": "Joseph Fina",
+          "url": "https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127313,
+      "name": "Serenade of Silence",
+      "url": "https://open.spotify.com/track/3wmNRYEkBD8NRsnmrtIbeI"
+    },
+    {
+      "album": {
         "name": "Serenade to Veronika",
         "url": "https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM"
       },
@@ -3452,7 +3506,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 160343,
       "name": "\u00c9clat de Brume",
       "url": "https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm"

@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "andetag",
+        "url": "https://open.spotify.com/album/1p6L75ChHvxW9moKajQG9h"
+      },
+      "artists": [
+        {
+          "name": "bomull",
+          "url": "https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191437,
+      "name": "andetag",
+      "url": "https://open.spotify.com/track/6Z0UoyqKy4Bfg6AtV3b8Pd"
+    },
+    {
+      "album": {
         "name": "Anduin",
         "url": "https://open.spotify.com/album/3sCqMRUttYpfs0tEnnFBVb"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 198371,
       "name": "At Ease",
       "url": "https://open.spotify.com/track/0EkXqaHCTYzqJm3rsbYe58"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 251624,
       "name": "Cedar Tree",
       "url": "https://open.spotify.com/track/3eGM7i0W651ugxqdKx9kJj"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 156000,
       "name": "Colorful Wind",
       "url": "https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 150929,
       "name": "Days Off",
       "url": "https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs"
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 132000,
       "name": "Dolce Far Niente",
       "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
@@ -1863,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Glowfall",
+        "url": "https://open.spotify.com/album/6Aszp5YqbWTov0plJQbmsc"
+      },
+      "artists": [
+        {
+          "name": "Stardustara",
+          "url": "https://open.spotify.com/artist/7iIzmOCuv0CRaTzzvGvEsS"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Glowfall",
+      "url": "https://open.spotify.com/track/3MDAGUzIwtNfriGkxJAazG"
+    },
+    {
+      "album": {
         "name": "Green Lane",
         "url": "https://open.spotify.com/album/54GK11ZT8B08WR9FSHSsBD"
       },
@@ -2454,7 +2490,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 198739,
       "name": "Mantra for Piano",
       "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
@@ -2692,7 +2728,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 133483,
       "name": "Moving Mountains",
       "url": "https://open.spotify.com/track/023IPVRBFEpROE1OSRlhHV"
@@ -2872,7 +2908,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 129391,
       "name": "One Path",
       "url": "https://open.spotify.com/track/3ciI0W5tW7zBPWEglpc3fR"
@@ -2962,7 +2998,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 151413,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/3MfwNWRuWAsdT1yIwHtRyz"
@@ -3016,7 +3052,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 176000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/3KXdTDD6oRPF1v54HF4kGB"
@@ -3394,7 +3430,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 157411,
       "name": "Sequioas",
       "url": "https://open.spotify.com/track/0xJfNmsjXXnpF0gkFAISPy"
@@ -3524,7 +3560,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 126857,
       "name": "Sioux",
       "url": "https://open.spotify.com/track/6j6bxCtwV7aw6cQk9HVTor"
@@ -3546,6 +3582,24 @@
       "duration_ms": 133500,
       "name": "Skipping Rocks",
       "url": "https://open.spotify.com/track/6ZGM0mFQi4mJSqTNqruU7s"
+    },
+    {
+      "album": {
+        "name": "Skuggf\u00e4lt",
+        "url": "https://open.spotify.com/album/51YdeUDFqmYGVIwpdsNfYR"
+      },
+      "artists": [
+        {
+          "name": "Freja L\u00f6nn",
+          "url": "https://open.spotify.com/artist/51Cj51rdauVedrbequipzo"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Skuggf\u00e4lt",
+      "url": "https://open.spotify.com/track/1z00ZOyncZVlIjmTNsykuO"
     },
     {
       "album": {
@@ -3596,7 +3650,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 136691,
       "name": "Softly Spoken",
       "url": "https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ"
@@ -3762,6 +3816,24 @@
       "duration_ms": 194823,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v"
+    },
+    {
+      "album": {
+        "name": "Spirit Sencha",
+        "url": "https://open.spotify.com/album/0SMiFHcd0NAUbizmH6uEva"
+      },
+      "artists": [
+        {
+          "name": "Aumira",
+          "url": "https://open.spotify.com/artist/6l3PEm1uU2cBwVV9TfzzMP"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162261,
+      "name": "Spirit Sencha",
+      "url": "https://open.spotify.com/track/4Y3K69pGmiWuivhLnbtw3i"
     },
     {
       "album": {
@@ -4072,7 +4144,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 165306,
       "name": "Tender",
       "url": "https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn"
@@ -4436,7 +4508,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 128084,
       "name": "To Me",
       "url": "https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk"
@@ -5024,10 +5096,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 145349,
       "name": "With Hope",
       "url": "https://open.spotify.com/track/5ROmMRpdkiYdBM26Xt9ea4"
+    },
+    {
+      "album": {
+        "name": "The Oak Tree",
+        "url": "https://open.spotify.com/album/3aldLidvjZLy4jvKwHxfDc"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180814,
+      "name": "Without a Word",
+      "url": "https://open.spotify.com/track/3drmNdjrgJfKscDGivuDyh"
     },
     {
       "album": {

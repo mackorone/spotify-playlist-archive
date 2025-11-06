@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-513 songs - 1 day 17 hr 5 min
+514 songs - 1 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2025-06-07 |
 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 | 2022-12-20 | 2025-07-17 |
 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 | 2025-09-16 |
+| [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 | 2025-11-05 |  |
 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 | 2021-10-06 | 2025-07-17 |
 | [161,1](https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo) | [Ulises Conti](https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV) | [1234,8](https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G) | 5:58 | 2021-10-06 | 2025-07-17 |
 | [1977](https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 5:36 | 2023-04-15 | 2025-08-21 |
@@ -451,7 +452,7 @@
 | [Treks](https://open.spotify.com/track/1EHCRNu1oYe7GqMrFBYgSU) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Treks](https://open.spotify.com/album/6rWKnOwQD3L0usIyzeookh) | 1:52 | 2021-10-06 | 2025-07-17 |
 | [Treks](https://open.spotify.com/track/3LLih0W5lB0xEAQxSxoBW6) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Misplaced](https://open.spotify.com/album/0QppwjRDWUS0SPwD7L1cvS) | 1:52 | 2021-10-06 | 2024-04-19 |
 | [Truffles Sprinkles](https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Truffles Sprinkles](https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS) | 4:11 | 2022-08-03 | 2025-07-17 |
-| [Tulpa](https://open.spotify.com/track/22SsFlXdJtcYKkD9Lx1osr) | [hej motti](https://open.spotify.com/artist/1sVzJA35Mk7QHp1aVh7m6Q) | [Tulpa](https://open.spotify.com/album/5oHddvq6v69uzM00VpgwYJ) | 2:38 | 2025-07-23 |  |
+| [Tulpa](https://open.spotify.com/track/22SsFlXdJtcYKkD9Lx1osr) | [hej motti](https://open.spotify.com/artist/1sVzJA35Mk7QHp1aVh7m6Q) | [Tulpa](https://open.spotify.com/album/5oHddvq6v69uzM00VpgwYJ) | 2:38 | 2025-07-23 | 2025-11-06 |
 | [Turn Back](https://open.spotify.com/track/3Yv2GsNxQdVuK3droJ12nb) | [Sam Bhok](https://open.spotify.com/artist/3o9ubU7gAFiK6xazR6YkTG) | [Turn Back](https://open.spotify.com/album/4pjfd82UQEaGW0fYvX4jAl) | 4:47 | 2025-08-27 |  |
 | [Twilight Sea](https://open.spotify.com/track/4dHxCO4kzAtcoki383YV0v) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/0ivDCaGwBmUHHatP2XDe0Y) | 6:05 | 2021-10-06 | 2024-04-19 |
 | [Twilight Sea](https://open.spotify.com/track/6dO87KnbWYhBaLF4gkRzkf) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Twilight Sea](https://open.spotify.com/album/1EK0o47MPbqz6khTEN4u64) | 6:05 | 2021-10-06 | 2025-07-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Vanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,237 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,238 likes - 59 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 35 | [Miriam](https://open.spotify.com/track/52etM3DAcqcCCtRqJIXi6C) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [Miriam's Praise](https://open.spotify.com/album/2z7ieRKUnROTOfAean3qoN) | 2:56 |
 | 36 | [Law Kan](https://open.spotify.com/track/33tBBo5e8HRqor0EnnXfF8) | [Ibrahim Najada](https://open.spotify.com/artist/0oHkjuDMeDLoh3P4Q1iokm), [Ahmad Farah](https://open.spotify.com/artist/36O893zlNc0heuMSZ1VCQB) | [Law Kan](https://open.spotify.com/album/4BADH5TYKFeJPOXv0Ygtyi) | 5:30 |
 | 37 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
-| 38 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/0rP0kEsDalTTaGHFEDgecg), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
+| 38 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommyy](https://open.spotify.com/artist/35PRYekj0non2I5TjsMUvp), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
 | 39 | [Souf](https://open.spotify.com/track/75dgthlOwHnf7uOmSbC6gL) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Souf](https://open.spotify.com/album/1UaTYGyWIJz42vjz6g2JCo) | 4:02 |
 | 40 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 |
 | 41 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 |
@@ -65,8 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 55 | [Lamma](https://open.spotify.com/track/1R4tXrrsmGQd4Ln1hhkDLn) | [Dany Neville](https://open.spotify.com/artist/25eSvHHBfgPVlQLGN4HPkU), [Yamane](https://open.spotify.com/artist/7BsXUD55kAQCSRVVBiN6wg) | [Lamma](https://open.spotify.com/album/2ikc9ETN452fpEUdtpBUkS) | 3:09 |
 | 56 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
 | 57 | [Nasini \- Remix](https://open.spotify.com/track/73dmjfr0I7RX53SV5zR9gZ) | [Jack Sleiman](https://open.spotify.com/artist/4eewS27bMIhWcXGukOdXAj) | [Nasini \(Remix\)](https://open.spotify.com/album/3vww5Ggqg4LjApE9ik6vEU) | 3:10 |
-| 58 | [El Hob](https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c) | [Pharonic Electronic](https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA) | [El Hob](https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw) | 3:34 |
-| 59 | [Ah Ya Alby \- Tweak Remix](https://open.spotify.com/track/1L96Fjr6LSoBzvrXXm4xa6) | [TWEAK](https://open.spotify.com/artist/44ULaMXIkxkAGmEyXyhefK), [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ah Ya Alby](https://open.spotify.com/album/52IrOu3Aac8zKuPr1bYseE) | 2:50 |
-| 60 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
+| 58 | [Ah Ya Alby \- Tweak Remix](https://open.spotify.com/track/1L96Fjr6LSoBzvrXXm4xa6) | [TWEAK](https://open.spotify.com/artist/44ULaMXIkxkAGmEyXyhefK), [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ah Ya Alby](https://open.spotify.com/album/52IrOu3Aac8zKuPr1bYseE) | 2:50 |
+| 59 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 
-Snapshot ID: `AAAAAJedXtKiqk3A1xCwxouh8LDRGh/Q`
+Snapshot ID: `AAAAAGK3cUAI9m2PoiJJ9erhrPtQJ84p`

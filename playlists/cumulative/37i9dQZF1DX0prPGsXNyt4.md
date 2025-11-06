@@ -90,6 +90,6 @@
 | [Trinta Minutos](https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Hat\-Trick do Tubarão](https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu) | 3:25 | 2022-03-18 |  |
 | [Tudo No Privê](https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tudo No Privê](https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn) | 3:31 | 2022-03-18 |  |
 | [Viciado 2.0](https://open.spotify.com/track/3fNOuAYr2W1EliK0KFFkJf) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [OWL](https://open.spotify.com/album/3xYT4lwBqrfi0W9s7BSYAS) | 2:53 | 2022-04-29 | 2022-05-14 |
-| [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-18 |  |
+| [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 | 2022-03-18 |  |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

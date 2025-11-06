@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Eleni Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,329 likes - 200 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,356 likes - 200 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

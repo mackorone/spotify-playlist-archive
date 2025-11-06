@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 503505,
+  "num_followers": 503496,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAADOrQ+PTPZPbs0C2iWZKqcP",
+  "snapshot_id": "aQlCAAAAAAA9RNXzChIMtpiiB7mnrfbu",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 200666,
       "name": "Be My Husband",
       "url": "https://open.spotify.com/track/4ZFwqrpTFL9dRMDSyIH262"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
     },
     {
       "added_at": null,

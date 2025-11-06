@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 116235,
+  "num_followers": 116243,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAABwWH6n1y3N5D+IJuZpca4j",
+  "snapshot_id": "aQlCAAAAAABIeQNjTbBoq/sAN+yYBqmc",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nunca Me Quisiste",
+        "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 152789,
+      "name": "Nunca Me Quisiste",
+      "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confidencial",
         "url": "https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB"
       },
@@ -207,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Me Quisiste",
-        "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 152789,
-      "name": "Nunca Me Quisiste",
-      "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
+      "duration_ms": 136764,
+      "name": "Ismael",
+      "url": "https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu"
     },
     {
       "added_at": null,
@@ -243,22 +259,6 @@
       "duration_ms": 209157,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 136764,
-      "name": "Ismael",
-      "url": "https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gustoso Y Contento (En Vivo)",
+        "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "Gustoso Y Contento (En Vivo)",
+      "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 161906,
       "name": "Matitas Verdes (En Vivo)",
       "url": "https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gustoso Y Contento (En Vivo)",
-        "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Gustoso Y Contento (En Vivo)",
-      "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
     },
     {
       "added_at": null,

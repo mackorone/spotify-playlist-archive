@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Jaxomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,561 likes - 94 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,569 likes - 94 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 16 | [Don't Look Back](https://open.spotify.com/track/6AyEBibHIiNeMb1Vlkljga) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Don't Look Back](https://open.spotify.com/album/71XVgbeiVpyg9pJYFaP4Yy) | 2:50 |
 | 17 | [Hold On \(feat\. EVIE\)](https://open.spotify.com/track/2RvQ3rzIbzN3OOwefRothl) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [EVIE](https://open.spotify.com/artist/2NLyAz11eTmhTyaj39KLGo) | [Hold On \(feat\. EVIE\)](https://open.spotify.com/album/4cf08XQ3LKfQcjBq6YSUj4) | 3:22 |
 | 18 | [Upside Down \- MORTEN Remix](https://open.spotify.com/track/4JJHk97jJiD5g9FNhgZaOi) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Upside Down \(MORTEN Remix\)](https://open.spotify.com/album/7xoNCDLBa1dcsFCL1JOJR2) | 3:47 |
-| 19 | [Bam Bam \(with Sheridan\)](https://open.spotify.com/track/4b8T2gyeUIQSAa02TVWtTi) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Bam Bam \(with Sheridan\)](https://open.spotify.com/album/2ajx5N6btd6oxEePlGAmTm) | 2:24 |
+| 19 | [Bam Bam \(with Sheridan\)](https://open.spotify.com/track/4b8T2gyeUIQSAa02TVWtTi) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Bam Bam \(with Sheridan\)](https://open.spotify.com/album/2ajx5N6btd6oxEePlGAmTm) | 2:24 |
 | 20 | [Du Du Dum](https://open.spotify.com/track/3n7B0F0EWZ5tHQiD5p2aLm) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Du Du Dum](https://open.spotify.com/album/6WRRAI9MxMu6c8eTfAKSAR) | 3:38 |
 | 21 | [Done Searching](https://open.spotify.com/track/7zVGrJKv5WEDW23z2qvmLR) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Done Searching](https://open.spotify.com/album/6yiWE718oOyYfQqxPl16Ol) | 2:48 |
 | 22 | [Like Fire](https://open.spotify.com/track/4eAYqDMoGWbSSw8ba7XmnF) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Like Fire](https://open.spotify.com/album/6mMKdHzHFhhHfhqo1ZRhtb) | 2:35 |

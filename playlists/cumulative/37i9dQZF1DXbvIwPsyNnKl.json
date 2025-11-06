@@ -261,6 +261,42 @@
     },
     {
       "album": {
+        "name": "8000",
+        "url": "https://open.spotify.com/album/2ltAEUhSHP0AjwWI8j4rIx"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "8000",
+      "url": "https://open.spotify.com/track/2FQz3geAGgd80cQliDSHTT"
+    },
+    {
+      "album": {
+        "name": "8000WABAD",
+        "url": "https://open.spotify.com/album/1IQtE12adwXNpGHbKFO4N5"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Society",
+          "url": "https://open.spotify.com/artist/4WUC1M0EpVDrx7xKILoLy6"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "8000WABAD",
+      "url": "https://open.spotify.com/track/78eX7CPqDn1KY2mdadt1bk"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/3VSQyP9w2j2Z5Q77O6xE0D"
       },
@@ -3070,7 +3106,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 192691,
       "name": "Juice",
       "url": "https://open.spotify.com/track/3UVyGhKsEU7X36ujvNdayr"
@@ -3110,6 +3146,28 @@
       "duration_ms": 238285,
       "name": "Kagome",
       "url": "https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE"
+    },
+    {
+      "album": {
+        "name": "Kahit Umulan",
+        "url": "https://open.spotify.com/album/7hU6i1YfIz58xkrWufl2HW"
+      },
+      "artists": [
+        {
+          "name": "La Mave",
+          "url": "https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx"
+        },
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161257,
+      "name": "Kahit Umulan",
+      "url": "https://open.spotify.com/track/4Efi0EsFc6GnTmEUg8sj2I"
     },
     {
       "album": {
@@ -3552,7 +3610,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 136082,
       "name": "LAPUK",
       "url": "https://open.spotify.com/track/3MCzXzfta0FRfDMSk821A9"
@@ -6088,7 +6146,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 213333,
       "name": "Stop Ball",
       "url": "https://open.spotify.com/track/7xtqTGY8MR8Cbjd7DZBIzY"

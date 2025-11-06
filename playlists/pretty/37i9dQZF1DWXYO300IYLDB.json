@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138816,
+  "num_followers": 138814,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
-      },
-      "artists": [
-        {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
-    },
-    {
-      "added_at": "2025-10-16 15:00:20",
-      "album": {
         "name": "Everywhere, Everything (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
+    },
+    {
+      "added_at": "2025-10-16 15:00:20",
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
       "added_at": "2025-10-16 15:00:20",
@@ -411,18 +411,18 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
-        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 315640,
-      "name": "\u3086\u3081\u3046\u3064\u3064",
-      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
+      "duration_ms": 157373,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
     },
     {
       "added_at": "2025-10-16 15:00:20",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
+        "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
+        "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
       },
       "artists": [
         {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
         }
       ],
-      "duration_ms": 157373,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
+      "duration_ms": 315640,
+      "name": "\u3086\u3081\u3046\u3064\u3064",
+      "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
       "added_at": "2025-10-16 15:00:20",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "Los Angeles / Grandmother",
-        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
-    },
-    {
-      "added_at": "2025-10-16 15:00:20",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 215758,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
+    },
+    {
+      "added_at": "2025-10-16 15:00:20",
+      "album": {
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
     },
     {
       "added_at": "2025-10-16 15:00:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "I Know (A Little)",
-        "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "I Know (A Little)",
-      "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
-    },
-    {
-      "added_at": "2025-10-16 15:00:20",
-      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 176542,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+    },
+    {
+      "added_at": "2025-10-16 15:00:20",
+      "album": {
+        "name": "I Know (A Little)",
+        "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "I Know (A Little)",
+      "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
     },
     {
       "added_at": "2025-10-16 15:00:20",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "Highlights",
-        "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "Highlights",
-      "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
-    },
-    {
-      "added_at": "2025-10-16 15:00:20",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 199595,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
+    },
+    {
+      "added_at": "2025-10-16 15:00:20",
+      "album": {
+        "name": "Highlights",
+        "url": "https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "Highlights",
+      "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
     },
     {
       "added_at": "2025-10-16 15:00:20",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
-    },
-    {
-      "added_at": "2025-10-16 15:00:20",
-      "album": {
         "name": "Dialogue \uff0dMiki Imai Sings Yuming Classics\uff0d",
         "url": "https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 194400,
       "name": "\u5352\u696d\u5199\u771f",
       "url": "https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22"
+    },
+    {
+      "added_at": "2025-10-16 15:00:20",
+      "album": {
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
       "added_at": "2025-10-16 15:00:20",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "\u706f\u53f0 (Live Session)",
-      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
-    },
-    {
-      "added_at": "2025-10-16 15:00:20",
-      "album": {
         "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
         "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 194306,
       "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
       "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
+    },
+    {
+      "added_at": "2025-10-16 15:00:20",
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "\u706f\u53f0 (Live Session)",
+      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
     },
     {
       "added_at": "2025-10-16 15:00:20",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2025-10-16 15:00:20",
       "album": {
-        "name": "Trio & Charm",
-        "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
+        "name": "\u305f\u306e\u3057\u3044\u3072\u3068\u308a",
+        "url": "https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        },
-        {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+          "name": "Yujiro Kudo",
+          "url": "https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA"
         }
       ],
-      "duration_ms": 226585,
-      "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
+      "duration_ms": 151986,
+      "name": "\u305f\u306e\u3057\u3044\u3072\u3068\u308a",
+      "url": "https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P"
     }
   ],
   "unique_name": "Acoustic Melodies Tokyo",

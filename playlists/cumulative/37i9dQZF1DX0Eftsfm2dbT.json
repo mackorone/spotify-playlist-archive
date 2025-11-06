@@ -735,6 +735,32 @@
     },
     {
       "album": {
+        "name": "1day (R)",
+        "url": "https://open.spotify.com/album/2dOjxVcntajWvghmopMNf7"
+      },
+      "artists": [
+        {
+          "name": "FARMHOUSE",
+          "url": "https://open.spotify.com/artist/30zptKpJ1amp2A00OOx3DM"
+        },
+        {
+          "name": "Kee Rooz",
+          "url": "https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh"
+        },
+        {
+          "name": "RhymeTube",
+          "url": "https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "1day (R)",
+      "url": "https://open.spotify.com/track/1Vts9sixN6QUtX6VwguIbm"
+    },
+    {
+      "album": {
         "name": "1drop (feat. ENEL)",
         "url": "https://open.spotify.com/album/3n18XfQMEApcloe2Pr5lRf"
       },
@@ -1315,8 +1341,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "5FEET",
+        "url": "https://open.spotify.com/album/3LzwSTjVRieXoYDh9teRr3"
       },
       "artists": [
         {
@@ -5396,6 +5422,24 @@
       "duration_ms": 91000,
       "name": "BK Suede - Remix",
       "url": "https://open.spotify.com/track/4CZjWQcRCuyWq5TuMjvcTs"
+    },
+    {
+      "album": {
+        "name": "BLACK OUT",
+        "url": "https://open.spotify.com/album/6lx1UIznLuyEMAMRltT1T4"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "BLACK OUT",
+      "url": "https://open.spotify.com/track/76OwItFhjy1L0uFFjnYMbZ"
     },
     {
       "album": {

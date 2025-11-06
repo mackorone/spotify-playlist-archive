@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u5a66\u4eba\u5036\u697d\u90e8 FUJIN CLUB",
-  "num_followers": 65946,
+  "num_followers": 65943,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "SCRATCH",
+        "url": "https://open.spotify.com/album/04VoqlNFJ7aTY4HbaJJEXe"
       },
       "artists": [
         {
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
+        "name": "say my name",
+        "url": "https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "say my name",
+      "url": "https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ"
+    },
+    {
+      "added_at": "2025-11-04 15:00:11",
+      "album": {
         "name": "(AND) NOW I SEE THE LIGHT",
         "url": "https://open.spotify.com/album/6pJHgJfzjiRFrkdEZ4Kgg3"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 222781,
       "name": "(AND) NOW I SEE THE LIGHT",
       "url": "https://open.spotify.com/track/1CedH7KCdaEN322k8zWPU4"
-    },
-    {
-      "added_at": "2025-11-04 15:00:11",
-      "album": {
-        "name": "say my name",
-        "url": "https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "say my name",
-      "url": "https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -455,22 +455,18 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "\u771f\u590f\u306e\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn"
+        "name": "Pea",
+        "url": "https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV"
       },
       "artists": [
         {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
-        },
-        {
-          "name": "Polycat",
-          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+          "name": "Gliiico",
+          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
         }
       ],
-      "duration_ms": 278550,
-      "name": "\u771f\u590f\u306e\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW"
+      "duration_ms": 180466,
+      "name": "Pea",
+      "url": "https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -523,18 +519,22 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "kurayamisaka yori ai wo komete",
-        "url": "https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP"
+        "name": "\u771f\u590f\u306e\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn"
       },
       "artists": [
         {
-          "name": "kurayamisaka",
-          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        },
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
         }
       ],
-      "duration_ms": 238250,
-      "name": "metro",
-      "url": "https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP"
+      "duration_ms": 278550,
+      "name": "\u771f\u590f\u306e\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -619,18 +619,18 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "Funky Lovely Girl",
-        "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
+        "name": "kurayamisaka yori ai wo komete",
+        "url": "https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
         }
       ],
-      "duration_ms": 225354,
-      "name": "Funky Lovely Girl",
-      "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
+      "duration_ms": 238250,
+      "name": "metro",
+      "url": "https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -651,18 +651,18 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "POP OUT! \u2162",
-        "url": "https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts"
+        "name": "Funky Lovely Girl",
+        "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 210470,
-      "name": "\u50d5\u3089\u306e\u884c\u9032\u66f2",
-      "url": "https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E"
+      "duration_ms": 225354,
+      "name": "Funky Lovely Girl",
+      "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS"
+        "name": "POP OUT! \u2162",
+        "url": "https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts"
       },
       "artists": [
         {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 327179,
-      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo"
+      "duration_ms": 210470,
+      "name": "\u50d5\u3089\u306e\u884c\u9032\u66f2",
+      "url": "https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "SILVER",
-        "url": "https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY"
+        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS"
       },
       "artists": [
         {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
         }
       ],
-      "duration_ms": 241433,
-      "name": "\u672a\u77e5",
-      "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
+      "duration_ms": 327179,
+      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
+        "name": "SILVER",
+        "url": "https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
         }
       ],
-      "duration_ms": 190463,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
+      "duration_ms": 241433,
+      "name": "\u672a\u77e5",
+      "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "\u5065\u5fd8\u8005\u305f\u3061",
-        "url": "https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP"
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 226177,
-      "name": "\u5065\u5fd8\u8005\u305f\u3061",
-      "url": "https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2"
+      "duration_ms": 190463,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "\u8d70\u99ac\u706f",
-        "url": "https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV"
+        "name": "\u5065\u5fd8\u8005\u305f\u3061",
+        "url": "https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP"
       },
       "artists": [
         {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 314463,
-      "name": "\u8d70\u99ac\u706f",
-      "url": "https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL"
+      "duration_ms": 226177,
+      "name": "\u5065\u5fd8\u8005\u305f\u3061",
+      "url": "https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -839,6 +839,22 @@
       "duration_ms": 194565,
       "name": "Allegro",
       "url": "https://open.spotify.com/track/5gD9uljiKr46TTKyX1jpP7"
+    },
+    {
+      "added_at": "2025-11-04 15:00:11",
+      "album": {
+        "name": "\u8d70\u99ac\u706f",
+        "url": "https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "duration_ms": 314463,
+      "name": "\u8d70\u99ac\u706f",
+      "url": "https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -863,22 +879,6 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "Moving Still Life",
-        "url": "https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 170199,
-      "name": "Moving Still Life",
-      "url": "https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz"
-    },
-    {
-      "added_at": "2025-11-04 15:00:11",
-      "album": {
         "name": "Naked 4 Satan",
         "url": "https://open.spotify.com/album/2CzjVt14KokXk1Q6vGp925"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 281773,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7LhFZAamVSW35NGGSMxwoZ"
+    },
+    {
+      "added_at": "2025-11-04 15:00:11",
+      "album": {
+        "name": "Moving Still Life",
+        "url": "https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 170199,
+      "name": "Moving Still Life",
+      "url": "https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "\u307e\u306b\u307e\u306b",
-        "url": "https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 198168,
-      "name": "Tiny Mirror",
-      "url": "https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb"
-    },
-    {
-      "added_at": "2025-11-04 15:00:11",
-      "album": {
         "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
         "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 192452,
       "name": "Grown Too Old",
       "url": "https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp"
+    },
+    {
+      "added_at": "2025-11-04 15:00:11",
+      "album": {
+        "name": "\u307e\u306b\u307e\u306b",
+        "url": "https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 198168,
+      "name": "Tiny Mirror",
+      "url": "https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb"
     },
     {
       "added_at": "2025-11-04 15:00:11",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
-        "name": "\u30ec\u30f3\u30bf\u30eb\u795e\u69d8",
-        "url": "https://open.spotify.com/album/0dVFInlao33dyNldqM2bPK"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 147321,
-      "name": "\u30ec\u30f3\u30bf\u30eb\u795e\u69d8",
-      "url": "https://open.spotify.com/track/3XpS5myFyf5fWVhacy5vV1"
-    },
-    {
-      "added_at": "2025-11-04 15:00:11",
-      "album": {
         "name": "\u3044\u3063\u3064\u3082",
         "url": "https://open.spotify.com/album/2ODnboQCXRXoG8r8FeuQLF"
       },
@@ -1195,6 +1195,38 @@
     {
       "added_at": "2025-11-04 15:00:11",
       "album": {
+        "name": "\u30ec\u30f3\u30bf\u30eb\u795e\u69d8",
+        "url": "https://open.spotify.com/album/0dVFInlao33dyNldqM2bPK"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 147321,
+      "name": "\u30ec\u30f3\u30bf\u30eb\u795e\u69d8",
+      "url": "https://open.spotify.com/track/3XpS5myFyf5fWVhacy5vV1"
+    },
+    {
+      "added_at": "2025-11-04 15:00:11",
+      "album": {
+        "name": "Stand up",
+        "url": "https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh"
+      },
+      "artists": [
+        {
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Stand up",
+      "url": "https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02"
+    },
+    {
+      "added_at": "2025-11-04 15:00:11",
+      "album": {
         "name": "SUNDANCE FOR BOTTEGA VENETA",
         "url": "https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR"
       },
@@ -1223,38 +1255,6 @@
       "duration_ms": 215256,
       "name": "DON'T MIND",
       "url": "https://open.spotify.com/track/1FXGYvzEiLNXnZkf6dyLio"
-    },
-    {
-      "added_at": "2025-11-04 15:00:11",
-      "album": {
-        "name": "Stand up",
-        "url": "https://open.spotify.com/album/6Gz0rJdEX32J2VQaDShxAh"
-      },
-      "artists": [
-        {
-          "name": "REJAY",
-          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Stand up",
-      "url": "https://open.spotify.com/track/66p4uyqFsbxVJl7Pqfqj02"
-    },
-    {
-      "added_at": "2025-11-04 15:00:11",
-      "album": {
-        "name": "munasawagi",
-        "url": "https://open.spotify.com/album/3Ela3PqIlOWWchjJbbJi0x"
-      },
-      "artists": [
-        {
-          "name": "E.scene",
-          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
-        }
-      ],
-      "duration_ms": 207472,
-      "name": "munasawagi",
-      "url": "https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1"
     }
   ],
   "unique_name": "Edge!",

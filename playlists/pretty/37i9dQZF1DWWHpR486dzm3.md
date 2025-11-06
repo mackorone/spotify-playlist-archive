@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Antti Autio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,319 likes - 84 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,320 likes - 84 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

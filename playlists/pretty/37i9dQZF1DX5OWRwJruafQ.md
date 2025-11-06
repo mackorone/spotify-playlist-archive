@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,366 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,443 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 7 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 |
 | 8 | [Bhalwaan](https://open.spotify.com/track/6Mbg0za2TsuTNpfGYbFBXi) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ) | [Desi Rockstar 3](https://open.spotify.com/album/4ECLwdMJqkSbrqFNY4Cu1U) | 3:27 |
 | 9 | [Ok Hoye Paye Haan](https://open.spotify.com/track/5gMjDnTV0oGu0isxsdL4BX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Ok Hoye Paye Haan](https://open.spotify.com/album/51Q0HIorwquagt8qbPbh9s) | 2:09 |
-| 10 | [Sanghastyle](https://open.spotify.com/track/0HYEmFPFusPRA8YmiM4eAA) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [INTERSTELLAR](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 3:16 |
+| 10 | [Sanghastyle](https://open.spotify.com/track/0HYEmFPFusPRA8YmiM4eAA) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 3:16 |
 | 11 | [Levels & Graphs](https://open.spotify.com/track/69AjrdgNtObkjqZEsMh15B) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 4:22 |
 | 12 | [KI HAAL AA](https://open.spotify.com/track/6pO0mc6cJ4WucFd84PoJ5z) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [KI HAAL AA](https://open.spotify.com/album/7573uBv6gwUul2QoS94G2J) | 2:35 |
 | 13 | [2MANY](https://open.spotify.com/track/6cxiqJeyXBEFNwgVu3ot5e) | [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45), [Taxsaal](https://open.spotify.com/artist/7hiTkXJusWkbN3YyTFLkjz), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [SPACEBOYS](https://open.spotify.com/album/0rsvvyIkG8Eq8wJiLRYWlD) | 3:17 |

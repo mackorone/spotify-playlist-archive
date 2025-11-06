@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-142 songs - 6 hr 22 min
+147 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 | 2024-02-05 |  |
 | [diamond star \- ambient room mix](https://open.spotify.com/track/1z4saOKqN0itK3mzITCmRv) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:48 | 2023-03-13 | 2025-04-30 |
 | [Distant Rain](https://open.spotify.com/track/4EPGDewzvCS2TWK2URXVNE) | [Haley Rainwater](https://open.spotify.com/artist/0Sn2RT3NZROgbQCKGPihxA) | [Melancholie](https://open.spotify.com/album/0G9IpJZcX6h2xhP323FhpV) | 1:33 | 2023-03-13 | 2023-08-03 |
+| [Driftwood Letters](https://open.spotify.com/track/07kV3dk22L7wWnVge5kaU9) | [Lunea Noire](https://open.spotify.com/artist/38RM8utORSPD2zicPYBdGZ) | [Driftwood Letters](https://open.spotify.com/album/4CrgbrxmIYrTuuSJGGh2I4) | 2:29 | 2025-11-05 |  |
 | [Echoes Of The Forest](https://open.spotify.com/track/55xmZl9vnU0hBA3r3MPdDt) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Echoes Of The Forest](https://open.spotify.com/album/5pfaXhko9DKEet3w3O8h3v) | 2:06 | 2023-03-13 |  |
 | [El Despetar De La Lluvia \(Rain Version\)](https://open.spotify.com/track/7qho93hMk53FqnLGZddjKP) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [El Despetar De La Lluvia](https://open.spotify.com/album/7qSgKvhP8PXU1n5HlVHaVX) | 2:01 | 2023-03-13 |  |
 | [El principio y el fin](https://open.spotify.com/track/0aIDDHxXl9sefiSVwM59wP) | [Catching Clouds](https://open.spotify.com/artist/7L9KGzUHy2qMvjj9qr9vOj) | [Soft Piano on a Rainy Sunday Morning](https://open.spotify.com/album/4CXTLfWu63YyQg526CR9f0) | 2:50 | 2023-03-13 |  |
@@ -59,6 +60,7 @@
 | [Left Behind](https://open.spotify.com/track/4dCze40Fkzx4BQiHyXlfdb) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Left Behind](https://open.spotify.com/album/1gfWJEGN4BjU3HDKVqSRs9) | 2:15 | 2025-09-17 |  |
 | [Like a Rose](https://open.spotify.com/track/6ijewExLv4RQnlQwkNZJef) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:00 | 2023-03-13 | 2025-08-23 |
 | [Lluvia Suave \- Nature](https://open.spotify.com/track/7iKHNnNBUJ8PvWxcH2yUcw) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Lluvia Suave](https://open.spotify.com/album/1ZOvYb0aFVlgXd6vv2Wo1e) | 2:24 | 2025-05-14 |  |
+| [Lueur](https://open.spotify.com/track/4ZOrmb9k5OOYzMJ2twTANK) | [Novielle](https://open.spotify.com/artist/2du0EHVj1RbqO4q7mcL50s) | [Lueur](https://open.spotify.com/album/0XDn73aD1vsCf12A7z61c5) | 2:10 | 2025-11-05 |  |
 | [May We Meet Again](https://open.spotify.com/track/094ycsRYKwaMjTXyJlvOGe) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes Of Rain](https://open.spotify.com/album/43iV5w7TUZunozRVL1Tm0d) | 2:03 | 2023-10-19 | 2024-04-19 |
 | [May We Meet Again](https://open.spotify.com/track/7zn6XN9BFYtjLm730WuDov) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Echoes of Rain](https://open.spotify.com/album/5MhZf2tjvfGklglbYHiPH3) | 2:03 | 2023-03-13 | 2025-01-30 |
 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 | 2023-03-13 |  |
@@ -79,6 +81,7 @@
 | [Night and Day](https://open.spotify.com/track/6JJ7JnW8fJZLrAbMMBkttV) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [Night and Day](https://open.spotify.com/album/22oIgys6iXgc13DKLKkwet) | 2:38 | 2023-03-13 |  |
 | [Night Rain](https://open.spotify.com/track/4NamR3Sy1mmnHWqSr2QHlQ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Night Rain](https://open.spotify.com/album/06oyD2tmjylPYVG9DZx2BL) | 2:43 | 2024-04-17 |  |
 | [Night Rain](https://open.spotify.com/track/6sppRP45WJDlOZHnvhBk7k) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Night Rain](https://open.spotify.com/album/5cQVztFB5SHVpE5ftXoIYo) | 2:43 | 2023-03-13 | 2024-04-19 |
+| [Noctivane](https://open.spotify.com/track/4O1xr0NYGJ7uyhY9ys8nJc) | [Lunea Noire](https://open.spotify.com/artist/38RM8utORSPD2zicPYBdGZ) | [Noctivane](https://open.spotify.com/album/5NreXugBQONBszoPFnnXGn) | 2:27 | 2025-11-05 |  |
 | [October 21st](https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [October 21st](https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC) | 2:24 | 2023-03-13 |  |
 | [One last call](https://open.spotify.com/track/5NJyS0aFGLhFW35NmEnnS8) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:14 | 2023-03-13 |  |
 | [One Step Closer \- Rain Version](https://open.spotify.com/track/1CqQ5ess43IRjD0zpGD8O3) | [Jeick Abrego](https://open.spotify.com/artist/6mKCZrIwfOeiBv3YOAl8Nj) | [One Step Closer \(Rain Version\)](https://open.spotify.com/album/7HlxAPOOZTcS4km3W7skge) | 2:14 | 2023-03-13 | 2023-04-25 |
@@ -94,6 +97,7 @@
 | [portraits \(rain\)](https://open.spotify.com/track/2ITDiZJX8N5tDpPteiqsvW) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [portraits \(rain\)](https://open.spotify.com/album/2e2RKbGI55KjdR3VbZiagA) | 2:18 | 2025-02-25 |  |
 | [Princess Tree](https://open.spotify.com/track/73DDIXHsJa18Z4u1WaFcuT) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 2:40 | 2023-03-13 | 2023-10-20 |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-13 | 2025-04-16 |
+| [Rain outside my window](https://open.spotify.com/track/1jd741WLDBuMsSaZzm7GjA) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Rain outside my window](https://open.spotify.com/album/2cFAabHGPlsXqzHcuwKYSB) | 2:20 | 2025-11-05 |  |
 | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/track/3zfT07rguWfRXdaRFKYsgs) | [Enid Fergus](https://open.spotify.com/artist/7KxS3qdagNb674qAsV0vsA) | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/album/4ZmHYU7lAJr1ygK5KXk7Dp) | 2:37 | 2024-04-17 | 2025-08-23 |
 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 | 2023-03-13 |  |
 | [Rainy Sunday at the Cottage](https://open.spotify.com/track/1nyzEH2nN9UfL3PNVsxQZz) | [Miss Brooke's Cottage](https://open.spotify.com/artist/6wYWLz4TZvuTTtSI2HCcsj) | [Rainy Sunday at the Cottage](https://open.spotify.com/album/75xGNJ1qnFvoJdx8JtS3WI) | 3:45 | 2023-03-13 |  |
@@ -147,6 +151,7 @@
 | [Vivid \(rain\)](https://open.spotify.com/track/65vtpgVu9L3brLPAIFHhLQ) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Vivid \(rain\)](https://open.spotify.com/album/5bfwIagQQosmKHVYnTh9I6) | 2:08 | 2025-05-14 |  |
 | [wading birds \(in the Rain\)](https://open.spotify.com/track/5UGBKcAJDhS8v46nmOBJel) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [wading birds \(in the rain\)](https://open.spotify.com/album/7yJRrU8dhZaHkllqiNthTT) | 2:24 | 2025-03-27 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-13 | 2024-01-10 |
+| [Whispers of Dawn \(in the Rain\)](https://open.spotify.com/track/3tnGrx6JehRtt1Ew0q5DUa) | [Beau Shepherd](https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR) | [Soft and Still \(in the Rain\)](https://open.spotify.com/album/2H9zCYJkCoVtRceIMCi1hE) | 2:33 | 2025-11-05 |  |
 | [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 | 2024-02-05 |  |
 | [Without Words & Gentle Rain](https://open.spotify.com/track/2RvsS6T2zbRyR7cmD6FFy1) | [Leo Zimmerman](https://open.spotify.com/artist/1rXR5cwxxippMLTtaeAa6y) | [Piano & Rain, vol\. I](https://open.spotify.com/album/4qSrjBWuIczggbNAifFfL8) | 2:17 | 2023-03-13 |  |
 | [You're My Favorite Song](https://open.spotify.com/track/1VivWZ7QS8igflqDXZHlCF) | [Oliver Suttcliffe](https://open.spotify.com/artist/4JaYzqOa5URlU6EiMxdlXn) | [See You in a Dream](https://open.spotify.com/album/1c4oQCA62N9ROFj5x97ClR) | 2:36 | 2023-03-13 |  |

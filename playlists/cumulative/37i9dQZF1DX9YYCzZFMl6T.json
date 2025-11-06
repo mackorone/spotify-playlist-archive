@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 256426,
       "name": "Fishing for Christmas",
       "url": "https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 248066,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
@@ -1069,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "The Sweetest Season",
+        "url": "https://open.spotify.com/album/21Pf0DS5gAEkosJmfB3kmj"
+      },
+      "artists": [
+        {
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+        },
+        {
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168565,
+      "name": "The Sweetest Season",
+      "url": "https://open.spotify.com/track/1PdXxmrUn3iOl399I12cku"
+    },
+    {
+      "album": {
         "name": "Trim This Tree",
         "url": "https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm"
       },
@@ -1192,7 +1214,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 183966,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj"

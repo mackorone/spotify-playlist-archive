@@ -4,11 +4,12 @@
 
 > Add dramatic flair to your strategy game.
 
-92 songs - 4 hr 43 min
+94 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A March Across Ancient Land](https://open.spotify.com/track/0l3VuArlNjQnRV1FbkfOHf) | [John Abbot](https://open.spotify.com/artist/2JsmEc5Wm7dLTsTO3JlQTX) | [A March Across Ancient Land](https://open.spotify.com/album/5DOG8ZRsYMAiVQngJynsiZ) | 2:56 | 2022-04-22 |  |
+| [A New Journey](https://open.spotify.com/track/6u4ZcWwmBI6FFpWAA6qCk2) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx) | [FANTASYLAND](https://open.spotify.com/album/6A1a30HNAtsFkxrL1qoblV) | 1:55 | 2025-11-05 |  |
 | [Adventures of the Young Hero](https://open.spotify.com/track/7iirjTnooylfcBG6BmlqYi) | [Grant Newman](https://open.spotify.com/artist/6kmQi7lLCBpa5OORRJpU9s) | [Adventures of the Young Hero](https://open.spotify.com/album/3YufQhwnRqmpOLDXOjiKuH) | 2:59 | 2022-04-22 |  |
 | [Afterlight](https://open.spotify.com/track/2wklH1fCEBMwHyNvKHDLOW) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:17 | 2022-04-22 |  |
 | [Allegiances](https://open.spotify.com/track/2Pibzoc8ihtklVxLGDsczG) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Allegiances](https://open.spotify.com/album/68KKEyqsRqgLeVQFsS4IUi) | 2:13 | 2022-04-22 |  |
@@ -71,6 +72,7 @@
 | [Prescient](https://open.spotify.com/track/6QjRTaRBhYM6odBtNT0vP8) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [The Light from Within](https://open.spotify.com/album/5DeBurv4zuboaQM1uqDgYK) | 2:48 | 2022-04-22 |  |
 | [Progressive Progress](https://open.spotify.com/track/6Marmee2WT50icMbZP31EU) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [The Light from Within](https://open.spotify.com/album/5DeBurv4zuboaQM1uqDgYK) | 2:30 | 2022-04-22 |  |
 | [Refined Enlightenment](https://open.spotify.com/track/2ulSScFSvKVwIBJJrKcNA2) | [Howard Harper\-Barnes](https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe) | [To All the Glory](https://open.spotify.com/album/59IuJfXNv7h6Np4JVKUYWM) | 2:23 | 2022-04-22 |  |
+| [Reminiscence](https://open.spotify.com/track/4dIFda2JcPWkM7Y9WsiMx8) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx) | [FANTASYLAND](https://open.spotify.com/album/6A1a30HNAtsFkxrL1qoblV) | 3:08 | 2025-11-05 |  |
 | [Run with Your Heart](https://open.spotify.com/track/0YNt7VRQwXeDI1HDZne2IM) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Valiant](https://open.spotify.com/album/6PqElyGUMeroZmARx67gXj) | 2:24 | 2022-04-22 |  |
 | [Secunda \(Transcr\. Trifonov for Piano\) \- From "The Elder Scrolls: Skyrim"](https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Soule: Secunda \(Transcr\. Trifonov for Piano\) \[From "The Elder Scrolls: Skyrim"\]](https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9) | 2:27 | 2025-01-07 |  |
 | [Serenade](https://open.spotify.com/track/1CGkaRvGtOqNnRG88VYKdV) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Cristian Măcelaru](https://open.spotify.com/artist/0l1E8XgBTh3P4thHZDzFHr) | [Player 1](https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl) | 3:32 | 2024-11-19 |  |

@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 160680,
       "name": "But I",
       "url": "https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 186106,
       "name": "Don't Mind Me",
       "url": "https://open.spotify.com/track/71TSyrnZGY4fE6b4lh9SVV"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 203518,
       "name": "Eat Sleep Live Repeat",
       "url": "https://open.spotify.com/track/5ZnlLC9fhvw7MAlfa82XLH"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 182633,
       "name": "Finally",
       "url": "https://open.spotify.com/track/2n4IPb5su5yyVarewuw3zF"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 203603,
       "name": "Fxxked Up",
       "url": "https://open.spotify.com/track/3LUpvx1iC0QIb3RvunxUz4"
@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "No, Thanks (Feat. Zion.T)",
+        "url": "https://open.spotify.com/album/1vVPwJYmieA4IgrddBOCcQ"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230947,
+      "name": "No, Thanks (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/2puhFUzrx1DjRJN7guhQoe"
+    },
+    {
+      "album": {
         "name": "NUDUGI HEART RUNNER",
         "url": "https://open.spotify.com/album/35621MM1sYnfoiS9s8tCvp"
       },
@@ -2402,6 +2424,24 @@
       "duration_ms": 228115,
       "name": "SHOUT OUT",
       "url": "https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY"
+    },
+    {
+      "album": {
+        "name": "MY, Lover",
+        "url": "https://open.spotify.com/album/6kJ5z2JLigSboCsfqjyz5h"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/4h2ezCCmEf7OTjun2r3FUN"
     },
     {
       "album": {
@@ -2786,6 +2826,24 @@
       "duration_ms": 192000,
       "name": "You don't need my love?",
       "url": "https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB"
+    },
+    {
+      "album": {
+        "name": "Lion Heart - The 5th Album",
+        "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188608,
+      "name": "You Think",
+      "url": "https://open.spotify.com/track/0FleCid5zJl78Gc4NSpg3s"
     },
     {
       "album": {

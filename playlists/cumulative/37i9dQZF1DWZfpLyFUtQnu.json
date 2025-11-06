@@ -511,24 +511,6 @@
     },
     {
       "album": {
-        "name": "Babacar (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "date_added": "2022-12-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206626,
-      "name": "Evidemment - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
-    },
-    {
-      "album": {
         "name": "Sommeil levant",
         "url": "https://open.spotify.com/album/0NzIv6MIwJiG1FfqxGky7H"
       },
@@ -2050,6 +2032,24 @@
       "duration_ms": 254813,
       "name": "\u00c0 toutes les filles",
       "url": "https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr"
+    },
+    {
+      "album": {
+        "name": "Babacar (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "date_added": "2022-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "\u00c9videmment - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZfpLyFUtQnu"

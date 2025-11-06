@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Trivium
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,734 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,732 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 92 | [WE’RE IN THIS TOGETHER](https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE IN THIS TOGETHER](https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5) | 4:12 |
 | 93 | [Traffic](https://open.spotify.com/track/3gpWJdEl2siwZTran2nhRH) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Keys To The City](https://open.spotify.com/album/6R9JatwRXocbajKarpTqPy) | 3:20 |
 | 94 | [Bleed](https://open.spotify.com/track/43zFnv7sZoIPPuCqrRnlFh) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL), [Broadus](https://open.spotify.com/artist/7CIMNFNrpE8Ta9hMVhE162) | [Bleed](https://open.spotify.com/album/5dVrl003sgWlk2sgSxb8vY) | 2:36 |
-| 95 | [Gyab](https://open.spotify.com/track/2P2c08OY770VZzcalENBt3) | [Lost in Separation](https://open.spotify.com/artist/4cndLBc8ieDlCoknDkeDVn), [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [GYAB](https://open.spotify.com/album/3T0OopXcNcwiIiGVqJY7w6) | 2:18 |
+| 95 | [GYAB](https://open.spotify.com/track/2P2c08OY770VZzcalENBt3) | [Lost in Separation](https://open.spotify.com/artist/4cndLBc8ieDlCoknDkeDVn), [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [GYAB](https://open.spotify.com/album/3T0OopXcNcwiIiGVqJY7w6) | 2:18 |
 | 96 | [LOOKING GLASS](https://open.spotify.com/track/6G8PEZgcf9T4dXUbqlkFxg) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [LOOKING GLASS](https://open.spotify.com/album/13fNcenLSwDh4Re3V2huin) | 2:40 |
 | 97 | [Eternity's Pillars](https://open.spotify.com/track/3sLQeqH2lSweq47Lr9IPA9) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Eternity's Pillars b/w Raise the Chalice & Reverential](https://open.spotify.com/album/5Cc27cEdMtcjzfZKFGod0Q) | 13:53 |
 | 98 | [Fight Or Flight](https://open.spotify.com/track/37amh0QldOgEKh5EsDkuQY) | [Caution Thieves](https://open.spotify.com/artist/0IZfNjNXbYfr3r0l4keSff) | [Fight Or Flight](https://open.spotify.com/album/6W4BQxf2fUZOm4iFAiPzvR) | 3:14 |

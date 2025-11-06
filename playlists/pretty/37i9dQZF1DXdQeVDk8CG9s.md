@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQeVDk8CG9s.md) - [plain]
 
 > Histoires d'horreur pour enfants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 86 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 86 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

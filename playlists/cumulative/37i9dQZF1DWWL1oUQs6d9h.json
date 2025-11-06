@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 195862,
       "name": "9 (feat. Han MinJi)",
       "url": "https://open.spotify.com/track/4BO4lTu9sk1Ypgvqi9x4Xy"
@@ -78,6 +78,28 @@
       "duration_ms": 170000,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/1EDCbUI9jVv66Jbs4u9qSF"
+    },
+    {
+      "album": {
+        "name": "be mine",
+        "url": "https://open.spotify.com/album/4B8OZjKsDfXw9goVMFkRig"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "be mine",
+      "url": "https://open.spotify.com/track/1NbmF6MheA6VlRv7II4rGZ"
     },
     {
       "album": {
@@ -523,6 +545,24 @@
     },
     {
       "album": {
+        "name": "error",
+        "url": "https://open.spotify.com/album/0SkFqjFefiYI9LmEdtDkpI"
+      },
+      "artists": [
+        {
+          "name": "Kuonechan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "error",
+      "url": "https://open.spotify.com/track/1SzinFXFmMYWedGwGZjK2Z"
+    },
+    {
+      "album": {
         "name": "Chaotic & Confused",
         "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
       },
@@ -642,7 +682,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 188734,
       "name": "go easy go",
       "url": "https://open.spotify.com/track/0kWqAA7MfCM0BBZAxbMJ6o"
@@ -1332,7 +1372,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 160586,
       "name": "PATIO",
       "url": "https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP"
@@ -1570,7 +1610,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 203256,
       "name": "Separated",
       "url": "https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4"
@@ -1813,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "the blueprint",
+        "url": "https://open.spotify.com/album/6rnEVluW1Z5CFiC3hDVDtV"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "swan song",
+      "url": "https://open.spotify.com/track/5E9GFYeMdd6asHesvMflaT"
+    },
+    {
+      "album": {
         "name": "Sweet Serotonin",
         "url": "https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK"
       },
@@ -1842,7 +1900,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 174065,
       "name": "Tease",
       "url": "https://open.spotify.com/track/3DjFRyOKEkP8EAQH47Fl3d"
@@ -1889,6 +1947,32 @@
     },
     {
       "album": {
+        "name": "Tight Rope (feat. \u00d8ZI & Karencici)",
+        "url": "https://open.spotify.com/album/6upx31DrV1bP1kLK5dQffv"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Tight Rope (feat. \u00d8ZI & Karencici)",
+      "url": "https://open.spotify.com/track/4USysQAWIJCPYEByrZ4OpS"
+    },
+    {
+      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -1904,6 +1988,24 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "album": {
+        "name": "Too Good to be Bad",
+        "url": "https://open.spotify.com/album/5NQNmJ3Q1PALGrmnl0c22t"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172937,
+      "name": "Too Good to be Bad",
+      "url": "https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3"
     },
     {
       "album": {

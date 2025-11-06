@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 217697,
+  "num_followers": 217739,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Christmas With Brandy",
         "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 234560,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 165453,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/7nWvhavXdp87bFQYrMXr9y"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Christmas in Baltimore",
-        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Favorite Time of Year",
-      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -963,6 +947,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Christmas in Baltimore",
+        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Favorite Time of Year",
+      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Litmas",
         "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 188889,
       "name": "Litmas",
       "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Mrs Clause",
-        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
-      },
-      "artists": [
-        {
-          "name": "NYA",
-          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
-        }
-      ],
-      "duration_ms": 223071,
-      "name": "Mrs Clause",
-      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1023,6 +1007,22 @@
       "duration_ms": 199415,
       "name": "Nothing Like Christmas",
       "url": "https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Mrs Clause",
+        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
+      },
+      "artists": [
+        {
+          "name": "NYA",
+          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "Mrs Clause",
+      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Let it Snow",
-        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 202135,
-      "name": "Let it Snow",
-      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Def The Halls",
         "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 214183,
       "name": "Wrap Me Up",
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Let it Snow",
+        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 202135,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "December Baby",
-        "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
-      },
-      "artists": [
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 237660,
-      "name": "Wishlist (feat. PJ Morton)",
-      "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "In December",
         "url": "https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 227160,
       "name": "Make It Home (feat. PJ Morton & Sevyn Streeter)",
       "url": "https://open.spotify.com/track/3hmJxTHHlEoMeBfH8KUiGU"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "December Baby",
+        "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 237660,
+      "name": "Wishlist (feat. PJ Morton)",
+      "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas, Love And You",
-        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
-      },
-      "artists": [
-        {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Christmas, Love, and You",
-      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
         "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
       },
@@ -1311,22 +1295,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Merry Like This",
-        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Merry Like This",
-      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Def The Halls",
         "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
       },
@@ -1343,22 +1311,34 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki"
+        "name": "Christmas, Love And You",
+        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
       },
       "artists": [
         {
-          "name": "Adam Blackstone",
-          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
-        },
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Christmas Kisses",
-      "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
+      "duration_ms": 261213,
+      "name": "Christmas, Love, and You",
+      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Merry Like This",
+        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Merry Like This",
+      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1399,6 +1379,42 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Christmas Kisses",
+      "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "To: You (a holiday joint)",
         "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
         "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
       },
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
       },
@@ -1499,38 +1515,6 @@
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "This Holiday",
-        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
-      },
-      "artists": [
-        {
-          "name": "WanMor",
-          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "This Holiday",
-      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1555,6 +1539,22 @@
       "duration_ms": 296255,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "This Holiday",
+        "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "This Holiday",
+      "url": "https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmastime is here",
-        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 317847,
-      "name": "Christmastime is here",
-      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "A Faithful Christmas",
         "url": "https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 217626,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Christmastime is here",
+        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 317847,
+      "name": "Christmastime is here",
+      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
     },
     {
       "added_at": "2025-10-24 15:07:41",

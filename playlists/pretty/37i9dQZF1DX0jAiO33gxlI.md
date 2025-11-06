@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto:   Yago Oproprio, LK O Marroquino, Rô Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,603 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,570 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 44 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 |
 | 45 | [Gosto, Textura e Cheiro](https://open.spotify.com/track/1LDm1LTrW3nd201SHBFB4n) | [Beli Remour](https://open.spotify.com/artist/6vtzYhjkFNNnKca9BzC3Tc), [FRAJ](https://open.spotify.com/artist/5PFrgRKXReTvCi2lKyg4ep), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Gosto, Textura e Cheiro](https://open.spotify.com/album/3A3F7IuqSRfvrBPaxqoorv) | 2:47 |
 | 46 | [Quero saber](https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:59 |
-| 47 | [Pelas Ruas da ZN](https://open.spotify.com/track/1ExHP210kLGkJ8CQeG4fgs) | [De Leve](https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn), [André Fialho](https://open.spotify.com/artist/5JerARYf5ZlxkYXSuQyAkZ), [Rafael Lorio](https://open.spotify.com/artist/75viNHJAgvp9DdxDmrDNzA) | [Mantendo o Rap Vivo](https://open.spotify.com/album/7pdwdRfW7DPikHtfQaxsNd) | 3:17 |
+| 47 | [Pelas Ruas da ZN](https://open.spotify.com/track/1ExHP210kLGkJ8CQeG4fgs) | [De Leve](https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Jonis](https://open.spotify.com/artist/12nbzTpTTl5EW9LmNcY7Sn) | [Mantendo o Rap Vivo](https://open.spotify.com/album/7pdwdRfW7DPikHtfQaxsNd) | 3:17 |
 | 48 | [Fortalecido](https://open.spotify.com/track/3SlIe0if0Y0MvjgUUbUGmA) | [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4), [Rapper Gregory](https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS), [LeX\-T](https://open.spotify.com/artist/7sULkCctrLB0TkgOXLgyrX) | [Fortalecido](https://open.spotify.com/album/6nW1HiGB5sXJ8DmQ9Og5FX) | 2:05 |
 | 49 | [Vigia Forte](https://open.spotify.com/track/2eKHBF0BFoVoBlCpEm4cvi) | [Bells](https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vigia Forte](https://open.spotify.com/album/5Zwu7d1KZZ6ObxrnfjvsI4) | 1:45 |
 | 50 | [Forte Abraço](https://open.spotify.com/track/3wk5GFIx6s3GdN4WbgCuh7) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Dona Kelly](https://open.spotify.com/artist/0Xe4H6iA4Pv8xr4r2Glkat) | [Pé no Chão, Mente Nas Nuvens](https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett) | 2:57 |

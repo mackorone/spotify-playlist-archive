@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,560 likes - 102 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,574 likes - 102 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 37 | [Aire](https://open.spotify.com/track/33YIXkbueflRjBkxDAHZwo) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Aire](https://open.spotify.com/album/6yqNx1ROZUgdP3YeLj028W) | 2:30 |
 | 38 | [Perdiendo el brío](https://open.spotify.com/track/2cPyafRfkVylhtmJJJNPZ7) | [Musgö](https://open.spotify.com/artist/0RvtJwcCisaSRZHLhuBAbT) | [Perdiendo el brío](https://open.spotify.com/album/1SPm5wIVWO53kxxuLeBN3A) | 2:47 |
 | 39 | [Fantasma](https://open.spotify.com/track/5ky2inW5srGBriAAYjvCiY) | [Inbal Comedi](https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV) | [Fantasma](https://open.spotify.com/album/6yxNIY4vpe4N6Ovgydn0ug) | 3:48 |
-| 40 | [La tormenta](https://open.spotify.com/track/6shBmnnrW1cUsi0FvRvqNY) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [Cenicientes](https://open.spotify.com/album/0hrLoinvIee57qeBYdeFGE) | 3:27 |
+| 40 | [La tormenta](https://open.spotify.com/track/6shBmnnrW1cUsi0FvRvqNY) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL), [Xosé Ambás](https://open.spotify.com/artist/48pOBVYWMJeyCpk8LAhTge) | [Cenicientes](https://open.spotify.com/album/0hrLoinvIee57qeBYdeFGE) | 3:27 |
 | 41 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 |
 | 42 | [Una mica més](https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3), [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Una mica més](https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l) | 4:21 |
 | 43 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 |

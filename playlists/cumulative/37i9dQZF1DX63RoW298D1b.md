@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-233 songs - 9 hr 51 min
+237 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 | 2024-01-04 |  |
 | [Authentic](https://open.spotify.com/track/79WuHtIUNcbSeDmKrUQKas) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Authentic](https://open.spotify.com/album/7vkO9Ja6IlloWVRk3PzCex) | 2:42 | 2025-01-15 | 2025-09-19 |
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-07 | 2024-11-20 |
+| [Bayou](https://open.spotify.com/track/4n5uhVSaDjV9nSHhfcbJ0B) | [Melvin Hull](https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz) | [Bayou](https://open.spotify.com/album/0WK8UlUY7Q9xNOv5Y6cVkj) | 2:46 | 2025-11-05 |  |
 | [Beautiful](https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Beautiful](https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF) | 2:34 | 2023-05-09 | 2025-02-27 |
 | [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 | 2023-05-09 |  |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2023-05-09 | 2025-03-13 |
@@ -34,6 +35,7 @@
 | [BLUEBIRD WATCHING](https://open.spotify.com/track/6ei0MaDb3lcLdNVcwbMNk5) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [BLUEBIRD WATCHING](https://open.spotify.com/album/3kplDIwUEVyQLGGD01Kz9Q) | 3:05 | 2024-11-06 | 2025-03-13 |
 | [Blåskygger](https://open.spotify.com/track/0MFl5pvlWkWuQ7SoGjpPzG) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Blåskygger](https://open.spotify.com/album/5tzC0Ou8FBUEE9FE4o4ezC) | 2:18 | 2023-05-09 |  |
 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 | 2023-05-09 | 2024-11-07 |
+| [Bridge over calm water](https://open.spotify.com/track/4NRZOuExs9gsimOaHHbWZT) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Bridge over calm water](https://open.spotify.com/album/3oM00uwnpPhkhZOdRExZ4R) | 2:46 | 2025-11-05 |  |
 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 | 2023-05-09 |  |
 | [Calme et Contenance](https://open.spotify.com/track/4gAmmCM6bhlVe4KVI98ASM) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [Calme et Contenance](https://open.spotify.com/album/53Z0IEFddmjPTCgJibGVvj) | 1:55 | 2023-05-09 | 2024-02-03 |
 | [Calming Sky](https://open.spotify.com/track/1A3lmCXtc1NCYmxgPDxnQJ) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Calming Sky](https://open.spotify.com/album/5sF1p2bO9lZne7G6qUepO9) | 3:06 | 2023-05-09 | 2024-11-07 |
@@ -51,6 +53,7 @@
 | [Dahlia](https://open.spotify.com/track/64ovZi9kM3UqPSPgGYaf5l) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Dahlia](https://open.spotify.com/album/78wynCL5BJIJe0utApFZko) | 2:55 | 2023-12-12 |  |
 | [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-07 | 2025-09-19 |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
+| [deux amants](https://open.spotify.com/track/5OkRIoF2qGpLy44bmu8yCR) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [deux amants](https://open.spotify.com/album/0CtPECqSOoqmSpNvnFPeiC) | 2:29 | 2025-11-05 |  |
 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 | 2023-11-13 |  |
 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-04 | 2025-06-11 |
 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 | 2024-05-23 |  |
@@ -226,7 +229,8 @@
 | [Us](https://open.spotify.com/track/7tPR6ChfHJvkYPK0Zy5zkK) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 1:48 | 2023-05-09 | 2024-02-03 |
 | [Vaikne](https://open.spotify.com/track/0hRVNF5ZBfvbRtHKFQItr4) | [Rein Ilves](https://open.spotify.com/artist/1WkXyHkNDesVuoy1Q64ILn) | [Vaikne](https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT) | 2:07 | 2023-05-09 | 2024-10-02 |
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-10 | 2024-11-07 |
-| [verdure](https://open.spotify.com/track/4mA1qC2NeqsAWjxKePQo9P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [verdure](https://open.spotify.com/album/5myFlkfI9Qt4KsHoDWte0T) | 2:36 | 2025-08-05 |  |
+| [verdure](https://open.spotify.com/track/4mA1qC2NeqsAWjxKePQo9P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [verdure](https://open.spotify.com/album/5myFlkfI9Qt4KsHoDWte0T) | 2:36 | 2025-08-05 | 2025-11-06 |
+| [Very Lazy Waltz](https://open.spotify.com/track/2f4PTSN1f1mt93szODqJMj) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Very Lazy Waltz](https://open.spotify.com/album/5RDOReVKYL1YnZ7zFN9Rn9) | 2:12 | 2025-11-05 |  |
 | [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 | 2024-12-17 |  |
 | [Wandering](https://open.spotify.com/track/7gSJbzmfzFPloeDqWPy9eI) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Wandering](https://open.spotify.com/album/2rH60gbQ2dwWisT1yAIWN6) | 2:55 | 2024-12-10 | 2025-05-22 |
 | [Wanderlust](https://open.spotify.com/track/0FWiBmCzyNSuvus2TIoAEw) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Wanderlust](https://open.spotify.com/album/2nVZXTIoztXDPcG6em3MTv) | 2:18 | 2025-06-10 |  |

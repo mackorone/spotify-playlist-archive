@@ -2,9 +2,9 @@
 
 ### [Obama’s Summer Playlist 2025](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
+> The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,416 songs - 12 day 14 hr 33 min
+5,417 songs - 12 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5186,6 +5186,7 @@
 | [When It's Over](https://open.spotify.com/track/5oghg06pi10Z40VOsnyWRN) | [Pai Napple](https://open.spotify.com/artist/2ThmJGkh8s6D3bEu3WCYpU), [The Crushboys](https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z) | [When It's Over](https://open.spotify.com/album/5ZdQo5CNJX979DkqZSJPCh) | 2:21 | 2023-08-27 | 2023-09-26 |
 | [When It's Over](https://open.spotify.com/track/5eFy5YJF9TC4PSRk4hDAlL) | [VYLEM](https://open.spotify.com/artist/4bhKuRZCxmN4nvwjI8vLFh) | [When It's Over](https://open.spotify.com/album/0aTSWICSC7DZyTzXQImxCo) | 5:23 | 2022-11-25 | 2022-12-17 |
 | [When She Lies](https://open.spotify.com/track/23wjPO4mG0AQ7IC6MOfM8t) | [Head Fake](https://open.spotify.com/artist/0Qick9o8t7dbupvl52uB8G) | [EP 4](https://open.spotify.com/album/1CIIOrTJyJIvmbDGNpI4dp) | 3:44 | 2023-06-22 | 2023-07-15 |
+| [When The Beat Carries On](https://open.spotify.com/track/702OtlyxGfqncjSvf8tFas) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [When The Beat Carries On](https://open.spotify.com/album/4eByXUvEBm9IXNY9Pf7I9P) | 4:52 | 2025-11-05 |  |
 | [When the Love Is Gone](https://open.spotify.com/track/0zh5kKuDExaSzb70VJsUiG) | [Darryl C.](https://open.spotify.com/artist/0uxXFTU7dywOZzINO6Z3we) | [Darryl C.](https://open.spotify.com/album/3ZrSggBUh5JtzixISHXLyU) | 5:23 | 2024-05-24 | 2024-06-05 |
 | [When the Time Comes](https://open.spotify.com/track/1DEqOOgLUCUTKF99w5YvEG) | [Jayloid](https://open.spotify.com/artist/4PmT0Z7ZBsJXA6kCyMsiHM) | [When the Time Comes/Blue](https://open.spotify.com/album/0RdLDp7mj0cRvMTXcBQglc) | 4:14 | 2022-04-01 | 2022-04-17 |
 | [When We Come Together](https://open.spotify.com/track/7G5NuNzM7aQyWheKXh7KeL) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW), [Daniel Ellsworth](https://open.spotify.com/artist/4VQ5sT9JP9eOh1kACZUq29) | [When We Come Together](https://open.spotify.com/album/3k0iEpEW3bxVXHkTZK8fe5) | 2:58 | 2023-01-27 | 2023-02-18 |

@@ -1,15 +1,103 @@
 {
   "description": "Be inspired and let the music heal your soul and uplift your spirits.",
-  "num_followers": 47718,
+  "num_followers": 47725,
   "original_name": "Sing His Praises",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEKfs9PVVTKLg5JW6XJ399voxefW",
+  "snapshot_id": "AAAAAOBIDiQBKo4/bFPNYyt6zOBNje3v",
   "tracks": [
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
+      "album": {
+        "name": "The Mire is Where Grace Abounds",
+        "url": "https://open.spotify.com/album/1I0gK1uCdNtg0pF4aZ4L9f"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "The Mire is Where Grace Abounds",
+      "url": "https://open.spotify.com/track/28teLHHWDvP7PtUORZH6Nq"
+    },
+    {
+      "added_at": "2025-11-05 02:39:33",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/1rUDlKyxfGoi5UE45x0TzA"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        },
+        {
+          "name": "Erica Bostick",
+          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/0EckusPy9Mc4aobSknW4Jv"
+    },
+    {
+      "added_at": "2025-11-05 02:39:33",
+      "album": {
+        "name": "Hope in the Precious Cross",
+        "url": "https://open.spotify.com/album/7kv5tgfjmie8WZPU8pucZm"
+      },
+      "artists": [
+        {
+          "name": "Exalt Worship",
+          "url": "https://open.spotify.com/artist/6m9sqt67ut4zHCYq7NHkqc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Hope in the Precious Cross",
+      "url": "https://open.spotify.com/track/55eR7Q8HWBjQ9bXUGkeBiF"
+    },
+    {
+      "added_at": "2025-11-05 02:39:33",
+      "album": {
+        "name": "Back to Bliss",
+        "url": "https://open.spotify.com/album/3nHsVKoPWkXAnkLmZAxtrs"
+      },
+      "artists": [
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
+        }
+      ],
+      "duration_ms": 240131,
+      "name": "Back to Bliss",
+      "url": "https://open.spotify.com/track/7mHWMaBWIEiBaMV0ULgTHI"
+    },
+    {
+      "added_at": "2025-11-05 02:39:33",
+      "album": {
+        "name": "Vessels",
+        "url": "https://open.spotify.com/album/1MsuIPEgUR2Kmaxf6xM5BM"
+      },
+      "artists": [
+        {
+          "name": "Peace Valley Music",
+          "url": "https://open.spotify.com/artist/4fpDXqBFAtvTyD2SDPKcc8"
+        },
+        {
+          "name": "Ferdinand Aragon",
+          "url": "https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk"
+        }
+      ],
+      "duration_ms": 402814,
+      "name": "Vessels",
+      "url": "https://open.spotify.com/track/6OHrgXhZmxx2WuFVrreeja"
+    },
+    {
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Psalms",
         "url": "https://open.spotify.com/album/5cuDMqFOZjvQVNktqakVSb"
@@ -25,7 +113,7 @@
       "url": "https://open.spotify.com/track/56Osa3xRlKRojHvQ09xDMK"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Already Loved",
         "url": "https://open.spotify.com/album/1ZorpEoMuN2FFNN7ELtEyZ"
@@ -45,7 +133,7 @@
       "url": "https://open.spotify.com/track/16edmxRzSwHqdhqiusuKjL"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Ligtas",
         "url": "https://open.spotify.com/album/5AFt9Um6ybLcQ42fAqYlZc"
@@ -61,7 +149,7 @@
       "url": "https://open.spotify.com/track/6c2KsvTX9k7bEOKSP7GVrV"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Free Love",
         "url": "https://open.spotify.com/album/55NZX6AkVkxVck5NWisa2q"
@@ -81,7 +169,7 @@
       "url": "https://open.spotify.com/track/00IoywtcjMMMAHBl5t0thC"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/4ky7gGvkJCP1F09r3CPFi8"
@@ -97,7 +185,7 @@
       "url": "https://open.spotify.com/track/6IMzHMF6ud8hxZTzUewM8C"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Kasama Natin Ang Panginoon",
         "url": "https://open.spotify.com/album/73jPkUS0vvGPesg0AFhWXS"
@@ -113,7 +201,7 @@
       "url": "https://open.spotify.com/track/1ggfrIhNDbWVxbt0cJ6Nfw"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Ililigtas (Rescue Tagalog Version)",
         "url": "https://open.spotify.com/album/1EBDxM3YTt3SSxp1rbuFm1"
@@ -129,7 +217,7 @@
       "url": "https://open.spotify.com/track/4VcCbvd88cB58Qw551ot0h"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "FILLED",
         "url": "https://open.spotify.com/album/65fSdDoYoDFPhv7LsiMn14"
@@ -145,7 +233,7 @@
       "url": "https://open.spotify.com/track/7Mub1GDkbVFpLEkcpLm1oU"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Gather Me",
         "url": "https://open.spotify.com/album/13u9mZRogactITzqK22Ka0"
@@ -165,7 +253,7 @@
       "url": "https://open.spotify.com/track/6t0NE3s4YNiuJkzzcBh57j"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Hanggang Ngayon, Hanggang Dito",
         "url": "https://open.spotify.com/album/5VpMU6ypFMoxj4l4kQB03s"
@@ -185,7 +273,7 @@
       "url": "https://open.spotify.com/track/5zrtiQ9t4lPRh8ux3yBHMn"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "POV",
         "url": "https://open.spotify.com/album/62cPhfF3qAn0exXorm7JAr"
@@ -201,7 +289,7 @@
       "url": "https://open.spotify.com/track/2LEWufPgDxe96ppAqkduOA"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Come Jesus Come",
         "url": "https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G"
@@ -217,7 +305,7 @@
       "url": "https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/2kyARPXzg5HF1ImTd9NoAJ"
@@ -237,7 +325,7 @@
       "url": "https://open.spotify.com/track/3q60BNI2NtyMxRKgx9KW9n"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/28DWS1yYiPx3O7bYy6hpIk"
@@ -253,7 +341,7 @@
       "url": "https://open.spotify.com/track/23uTNfCvpwaV6MOjw7T2bH"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "yet (don't give up)",
         "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
@@ -269,7 +357,7 @@
       "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "The Stand - Tagalog Version",
         "url": "https://open.spotify.com/album/4fIcqN9qa3ZKtTtSeceCyA"
@@ -285,7 +373,7 @@
       "url": "https://open.spotify.com/track/2wx9AwNHqKC0k3eZl6O9T8"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Glory (Live)",
         "url": "https://open.spotify.com/album/168B29cWJJPfcnpwIFKZqr"
@@ -301,7 +389,7 @@
       "url": "https://open.spotify.com/track/2VgXjVDkD8xEX7ybz3rly8"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/2SXI4TazkHtz1tnBQYiNjC"
@@ -317,7 +405,7 @@
       "url": "https://open.spotify.com/track/2mg5cm4IjmTNu0oH9Z1cjg"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Diyos Ng Lahat (Live)",
         "url": "https://open.spotify.com/album/4pIi6jK4UhYvOoe1IQ5SRt"
@@ -333,7 +421,7 @@
       "url": "https://open.spotify.com/track/1J2L0ngJQMyfJJrMEMjbxp"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Ikaw Ay Naroon",
         "url": "https://open.spotify.com/album/5WSwROKZ8ymqcBH5hipozD"
@@ -353,7 +441,7 @@
       "url": "https://open.spotify.com/track/63fzs7wvDfRyXWJ73hk9iA"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Luwalhatiin Ka",
         "url": "https://open.spotify.com/album/12uYoz87cBSxpfw4uHDEa6"
@@ -369,7 +457,7 @@
       "url": "https://open.spotify.com/track/6Z355sSv2atRTrGdjXZ7Rj"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Solid Ground",
         "url": "https://open.spotify.com/album/6d9oiVh4fxqrfTcg0K71nq"
@@ -385,7 +473,7 @@
       "url": "https://open.spotify.com/track/0nC2KvYpqwmQAnyxs0J8Rz"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "So Will I (100 Billion X) - Tagalog Version",
         "url": "https://open.spotify.com/album/0A8z8qDBbWHaTmWGuPKBrF"
@@ -401,7 +489,7 @@
       "url": "https://open.spotify.com/track/739HoayRkqYe8HMIAH3NRA"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Pag-ibig Mo Sa'kin",
         "url": "https://open.spotify.com/album/60YC9Dpcxu8iysvqjEEVRg"
@@ -417,7 +505,7 @@
       "url": "https://open.spotify.com/track/4KZeqaGxg3yr7q69sI9gmv"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Ruthless",
         "url": "https://open.spotify.com/album/0s0we6s5NN9zC6AZAmoUSJ"
@@ -437,7 +525,7 @@
       "url": "https://open.spotify.com/track/3xbG475vtCdss21HWUHQvx"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Sa'Yong Pangalan",
         "url": "https://open.spotify.com/album/7vJyBUneSgoTeQ62UqQMJR"
@@ -453,7 +541,7 @@
       "url": "https://open.spotify.com/track/5msLh4yF85P69GLfSxiGBO"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/0B63cp4uCeJPj3tPwrysDd"
@@ -469,7 +557,7 @@
       "url": "https://open.spotify.com/track/5HDV0tGanBrakCqidZX8Wz"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Mahal Kita Sabi Mo Sa' Kin",
         "url": "https://open.spotify.com/album/3YehbdM8edxUEhy9yaHkBw"
@@ -485,7 +573,7 @@
       "url": "https://open.spotify.com/track/2xLD6OEKCU6E9rZ3qjnDlH"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Pupurihin Ka Sa Awit / Sambahin Ka",
         "url": "https://open.spotify.com/album/0y8fGRfVBnaDFPpcZIHi1C"
@@ -501,7 +589,7 @@
       "url": "https://open.spotify.com/track/5hJrW4Y26qTTy1sOD0Mx8F"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Pintig ng Puso",
         "url": "https://open.spotify.com/album/4AsfutBrRtw4Ha2FVnPT9A"
@@ -517,7 +605,7 @@
       "url": "https://open.spotify.com/track/4WR29G5CT8AqbNxlnuLL0u"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Pagkakaibigan",
         "url": "https://open.spotify.com/album/2weaBN29YP8FEYvAM14ON2"
@@ -533,7 +621,7 @@
       "url": "https://open.spotify.com/track/6socX6ghMZ1wlJcpgPa2Ah"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "YAHWEH TANGGULAN",
         "url": "https://open.spotify.com/album/0qQCr9DmiDfDiksWhZNGKE"
@@ -549,7 +637,7 @@
       "url": "https://open.spotify.com/track/12FR83IoY0xRRrR55GjFvM"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Wonderstruck",
         "url": "https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH"
@@ -565,7 +653,7 @@
       "url": "https://open.spotify.com/track/6LxaXoGSuy4hjTGiKWyfTr"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Jesus Loves Me (Cover)",
         "url": "https://open.spotify.com/album/4wXdd94xj0Ert6tGMFRLwo"
@@ -581,7 +669,7 @@
       "url": "https://open.spotify.com/track/29OA1rxkUBtv2Oh9PqUXOo"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Walang Ibang Tahanan",
         "url": "https://open.spotify.com/album/0YgMzl87hrYfdFfb58dDcM"
@@ -597,7 +685,7 @@
       "url": "https://open.spotify.com/track/7sunmx7KreKSQ7TMY0s5jx"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Tungo Sa'yo",
         "url": "https://open.spotify.com/album/4dMokw1VM5U3OgGJJYkFEZ"
@@ -617,7 +705,7 @@
       "url": "https://open.spotify.com/track/2UodFaBIAVbTvvev04pth1"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "White as Snow",
         "url": "https://open.spotify.com/album/2WceBp8P5cKQKdDa79DkfB"
@@ -633,7 +721,7 @@
       "url": "https://open.spotify.com/track/0rrn33tLZt3IRVedeiZZlz"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Kahit Na Makasalanan",
         "url": "https://open.spotify.com/album/1PRF0SvORp8buuwI9H4qHa"
@@ -657,7 +745,7 @@
       "url": "https://open.spotify.com/track/5xrCq9SdasB4gyAfEX3BpA"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Miraculous Ways",
         "url": "https://open.spotify.com/album/02J8l2kIgdxX3qxPqihX9D"
@@ -673,7 +761,7 @@
       "url": "https://open.spotify.com/track/0V2PDEmsSSAEysUwImGP5S"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Wonderstruck",
         "url": "https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH"
@@ -689,7 +777,7 @@
       "url": "https://open.spotify.com/track/5dPe8ahss4C7NvjP1iiXOI"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Diyos Na Buhay",
         "url": "https://open.spotify.com/album/5d5EUS1qO6YtMKoFomb0hD"
@@ -705,7 +793,7 @@
       "url": "https://open.spotify.com/track/215TyXOze2FWYHqpG0Shpf"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X"
@@ -725,7 +813,7 @@
       "url": "https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Tribes",
         "url": "https://open.spotify.com/album/5ZvBbZGgcqZupaYw7tr1TU"
@@ -741,7 +829,7 @@
       "url": "https://open.spotify.com/track/7A6iCvA36tfeXuMHXa0hLD"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "God Is for Us",
         "url": "https://open.spotify.com/album/0Rpt3UvPDW9ZM7pIzAoYg0"
@@ -761,7 +849,7 @@
       "url": "https://open.spotify.com/track/6eKUToZMHsTv93fm89AGEl"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/2pAe1NvEYYCXlQanspdD17"
@@ -777,7 +865,7 @@
       "url": "https://open.spotify.com/track/2I0Dvi7ujFSb7kirlAG5mF"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Jesus Christ Emmanuel",
         "url": "https://open.spotify.com/album/73ALowPA66Ped9XqRQ3fmG"
@@ -793,7 +881,7 @@
       "url": "https://open.spotify.com/track/5SVfg0ZETYNiOCrqn8Bg3V"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/6tY9D3t5iaNtzrC1a3Q440"
@@ -813,7 +901,7 @@
       "url": "https://open.spotify.com/track/43IbCqMcMvZi1v16LFAE3n"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "U.R.",
         "url": "https://open.spotify.com/album/5B1w6BGv6j1wLtfXWhgaeh"
@@ -833,7 +921,7 @@
       "url": "https://open.spotify.com/track/59RXrifYHhI0ikAa3srRjV"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "A Little Fire (Burn Brighter)",
         "url": "https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o"
@@ -853,7 +941,7 @@
       "url": "https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Another In The Fire (Tagalog Version)",
         "url": "https://open.spotify.com/album/4LDKPpJKiRvtoc4bcyvEcJ"
@@ -869,7 +957,7 @@
       "url": "https://open.spotify.com/track/6ZLglbg4GE5MtjXdNBdnVf"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "By His Name",
         "url": "https://open.spotify.com/album/60GW1rHJVLGhcNSELhlItz"
@@ -885,7 +973,7 @@
       "url": "https://open.spotify.com/track/3WwWLtqmminHSBcuHo8ntX"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Lilim (In Your Shelter)",
         "url": "https://open.spotify.com/album/0ERLfNl2ATWh66pIPIeysD"
@@ -901,7 +989,7 @@
       "url": "https://open.spotify.com/track/43xHLToY9KFqmYAuqZ1xpF"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Wonderstruck",
         "url": "https://open.spotify.com/album/6KfDaZrJx94lkY1mBgxXmH"
@@ -917,7 +1005,7 @@
       "url": "https://open.spotify.com/track/65tspDwHw8StH9eARVUBMp"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "There Is More",
         "url": "https://open.spotify.com/album/0xOWA1rEotFtNPxlj8RDiR"
@@ -933,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3e09OboYspPxZ4OOrAUXss"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Chase Down",
         "url": "https://open.spotify.com/album/6CMYqkG2dZVgepLvtl3gGI"
@@ -949,7 +1037,7 @@
       "url": "https://open.spotify.com/track/4rsoGVQYmhJZaZORJltIeJ"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Showers of Love",
         "url": "https://open.spotify.com/album/49Ednnj5rYeNJZgucYCTne"
@@ -965,7 +1053,7 @@
       "url": "https://open.spotify.com/track/6TCAsOAsWZTwtI1SG22Ah3"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "SAMO",
         "url": "https://open.spotify.com/album/7exJ5yEqzDtyCXwsFy7SA4"
@@ -981,7 +1069,7 @@
       "url": "https://open.spotify.com/track/1dIXJgoo9JsbkmEX6BSCET"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Then, Now, Always",
         "url": "https://open.spotify.com/album/4cISucH8O1icCBeAabgh1r"
@@ -997,7 +1085,7 @@
       "url": "https://open.spotify.com/track/1WaQK866PHOUqFekR2ZCxl"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Beautiful Love",
         "url": "https://open.spotify.com/album/1diPYY5g89OtTxdmEkg7IJ"
@@ -1017,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5kQgNSiqglNC0c5lc4K073"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "MANLILIKHARI",
         "url": "https://open.spotify.com/album/20C1u82pG3ozJxB9SHxawT"
@@ -1033,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2mgegQ1inujns4tBfKiJua"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "KARANGALAN NAMIN",
         "url": "https://open.spotify.com/album/20zRwgyneQvI8ZXHyKvIZM"
@@ -1053,7 +1141,7 @@
       "url": "https://open.spotify.com/track/3nVI3y69ibD4DfgAT30dUv"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
@@ -1069,7 +1157,7 @@
       "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Nothing Is Impossible (Tagalog Version)",
         "url": "https://open.spotify.com/album/3w0EPoqOH21BOPYfZORYwq"
@@ -1085,7 +1173,7 @@
       "url": "https://open.spotify.com/track/5bIfEy5ND1XLIozSI6nY1x"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "SUMASALANGIT",
         "url": "https://open.spotify.com/album/0gbnXnnrDu85LXuMZcXp5o"
@@ -1101,7 +1189,7 @@
       "url": "https://open.spotify.com/track/5SUO3VivayfBeZ4lxOFtBJ"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Take Heart (Again)",
         "url": "https://open.spotify.com/album/4cIDrAPIwTqFLPcdMT16L4"
@@ -1121,7 +1209,7 @@
       "url": "https://open.spotify.com/track/2Ilbv0FdK3FDydyjwLYbz9"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
@@ -1137,7 +1225,7 @@
       "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "O AMING DAKILA",
         "url": "https://open.spotify.com/album/6YaULX1ApjUcL2Otl6wsqo"
@@ -1153,7 +1241,7 @@
       "url": "https://open.spotify.com/track/2vunLy3AxDewz0SQpyuRiq"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
         "url": "https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV"
@@ -1177,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Masdan",
         "url": "https://open.spotify.com/album/0C4oPwJehejJaLwXwwMOz5"
@@ -1197,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0QOIZMsc6tV1UsNEk6Ao9x"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
@@ -1217,7 +1305,7 @@
       "url": "https://open.spotify.com/track/7dF6TYCE35cgOTeVMGmrrC"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "MAPAYAPA (WATERWALK Sessions Version)",
         "url": "https://open.spotify.com/album/6rlAgI26tV91JNQZdWcZXp"
@@ -1237,7 +1325,7 @@
       "url": "https://open.spotify.com/track/2HPehVMri8sxetneSsiI3J"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Sovereign God (Live)",
         "url": "https://open.spotify.com/album/5wXM01i9FEBZLj5jctpG9z"
@@ -1253,7 +1341,7 @@
       "url": "https://open.spotify.com/track/6nbTfLJmS669euyvbaXkRu"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Kay Buti Buti Mo Panginoon",
         "url": "https://open.spotify.com/album/0DJsbDzh4VWj3A8diEbRVe"
@@ -1269,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4USpxYHu8IgXAEfDbz4he5"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "SEARCH ME (WATERWALK Sessions Version)",
         "url": "https://open.spotify.com/album/7khKImIC1jZozSxHyj0Qwh"
@@ -1285,7 +1373,7 @@
       "url": "https://open.spotify.com/track/3EVZnYSGzDsdLdUNiPLJ6V"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "And If Our God Is For Us...",
         "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
@@ -1301,7 +1389,7 @@
       "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "WALANG KATULAD (WATERWALK Sessions Version)",
         "url": "https://open.spotify.com/album/5AHMQnJt5EmLyYmhDlhkz5"
@@ -1317,7 +1405,7 @@
       "url": "https://open.spotify.com/track/2mfF6yRz8D3o1pRE0wSjNe"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "FORTRESS (WATERWALK Sessions Version)",
         "url": "https://open.spotify.com/album/641t7jcTZmxUtlFEugUihJ"
@@ -1333,7 +1421,7 @@
       "url": "https://open.spotify.com/track/6GxQHdGG4k3hsahfNPm4dl"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "PAANO MO KINAYA (WATERWALK Sessions Version)",
         "url": "https://open.spotify.com/album/33uY0RKMoBPf63yOOFtTj3"
@@ -1349,7 +1437,7 @@
       "url": "https://open.spotify.com/track/6NjHzLaJLk8ej0e6o6XqFF"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "WHY DO YOU LOVE ME?",
         "url": "https://open.spotify.com/album/0O14HOBmEPVEcDscQDfaEN"
@@ -1365,7 +1453,7 @@
       "url": "https://open.spotify.com/track/4NEFSN1DzwyV3pIEIGCeU4"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "BUNTONG HININGA",
         "url": "https://open.spotify.com/album/5jxPAqk6GJY9zi83imluw2"
@@ -1381,7 +1469,7 @@
       "url": "https://open.spotify.com/track/61gplnMSMY4WfUZ9tsnmsK"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "All The People Said Amen",
         "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
@@ -1397,7 +1485,7 @@
       "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
         "url": "https://open.spotify.com/album/3ATRZ1qXdv6WPhWAvrDGVw"
@@ -1413,7 +1501,7 @@
       "url": "https://open.spotify.com/track/6AYoOKOpxa6j7OaGZoGWkZ"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Everything You Are",
         "url": "https://open.spotify.com/album/2u37n6yGiFl0UoGkqYwRUq"
@@ -1429,7 +1517,7 @@
       "url": "https://open.spotify.com/track/6NAAoxdiUNwHSQUVj8dOns"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Reliably True",
         "url": "https://open.spotify.com/album/5orPxWSz2Dt4EZ6hUleAml"
@@ -1445,7 +1533,7 @@
       "url": "https://open.spotify.com/track/1rA075SApxdrYCA9cNyRFW"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "blink",
         "url": "https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ"
@@ -1461,7 +1549,7 @@
       "url": "https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "WATERWALK",
         "url": "https://open.spotify.com/album/15VKUmSwQUtEtXhi7XNUM9"
@@ -1477,7 +1565,7 @@
       "url": "https://open.spotify.com/track/3bqym1jA6fn0hpg7CZsUYI"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Sigaw Ng Puso",
         "url": "https://open.spotify.com/album/3houv6BmnMopjWysIRohVd"
@@ -1493,7 +1581,7 @@
       "url": "https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Pagsintang Papuri",
         "url": "https://open.spotify.com/album/2HYoXU1zBTE8up9zx1fSDR"
@@ -1509,7 +1597,7 @@
       "url": "https://open.spotify.com/track/0tccKQmX8sjrqo3xe9eW0d"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "FORTRESS",
         "url": "https://open.spotify.com/album/1ya0fmkQ86Yh1eCqAGpXCV"
@@ -1525,7 +1613,7 @@
       "url": "https://open.spotify.com/track/07PSmpoDsd7gKHov4mGcn1"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "10,000 Reasons / What a Beautiful Name",
         "url": "https://open.spotify.com/album/00rMWiOm3uX2yNcvsvLns4"
@@ -1541,7 +1629,7 @@
       "url": "https://open.spotify.com/track/34r6cLVbeT4UoPgTRSBIE0"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "New Generation",
         "url": "https://open.spotify.com/album/7ehgv9ZB0HgxtcxBmCeQsG"
@@ -1561,7 +1649,7 @@
       "url": "https://open.spotify.com/track/2yFze3Tul0hCB0eBOkz324"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Ako Ay Iyo",
         "url": "https://open.spotify.com/album/0A7pZA6TRRvxO6tu2cwVPT"
@@ -1581,7 +1669,7 @@
       "url": "https://open.spotify.com/track/6zWix26MsK7btzIAJtOsMW"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Hallelujah Instead",
         "url": "https://open.spotify.com/album/7wPnD9GquCu0L6e8nMGqrt"
@@ -1601,7 +1689,7 @@
       "url": "https://open.spotify.com/track/2MjEaqylTvxnJpD4FpjiD6"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "MAPAYAPA (Feat. Hazel Faith)",
         "url": "https://open.spotify.com/album/2SOcTm4yqQLNPUQeTTa8sW"
@@ -1621,7 +1709,7 @@
       "url": "https://open.spotify.com/track/1vTSTbQT9iJbggG47gEwwU"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
@@ -1637,7 +1725,7 @@
       "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Walang Makapaghihiwalay",
         "url": "https://open.spotify.com/album/7MzmxktNuM4dkx8H1TjmTP"
@@ -1653,7 +1741,7 @@
       "url": "https://open.spotify.com/track/0yIRxGBZHdjU6E11sZ6f05"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "ENOUGH",
         "url": "https://open.spotify.com/album/3RyQfb4ouTf4b7clUhSEPY"
@@ -1677,7 +1765,7 @@
       "url": "https://open.spotify.com/track/71LGMpCjCz3k4uhVZkH3f6"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "On This Day on This Hour",
         "url": "https://open.spotify.com/album/4bq1w4dtLOtZ7qNOSJSEb0"
@@ -1693,7 +1781,7 @@
       "url": "https://open.spotify.com/track/3QVdA3isRpwIt6t5KMRNMw"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Never Wanna Go Back",
         "url": "https://open.spotify.com/album/5ZuLfsc8PRhiJj84sC2idX"
@@ -1713,7 +1801,7 @@
       "url": "https://open.spotify.com/track/6CUop28tecrP4AEsnKNpZ3"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5"
@@ -1729,7 +1817,7 @@
       "url": "https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Bagong Buhay",
         "url": "https://open.spotify.com/album/6trSs3g5tU29FEr8yamEI5"
@@ -1745,7 +1833,7 @@
       "url": "https://open.spotify.com/track/33lNaAAd1vfQVi7tJaaACE"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Lord of My Life",
         "url": "https://open.spotify.com/album/3VZHfSoZQBzSqTcuZa6pM1"
@@ -1761,7 +1849,7 @@
       "url": "https://open.spotify.com/track/4KFJJ4Yem7vQQi9W8JlcMK"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Luwalhati",
         "url": "https://open.spotify.com/album/71SeuhNn8MP0QaZ4kHN1is"
@@ -1777,7 +1865,7 @@
       "url": "https://open.spotify.com/track/6bd5SZdEcXXRXdh5DvKTsE"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Let Go and Let God",
         "url": "https://open.spotify.com/album/1K7msly7UcnICxvHCcEDkW"
@@ -1793,7 +1881,7 @@
       "url": "https://open.spotify.com/track/2yjDIpMlli8JJZINM7qgSo"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "AIK",
         "url": "https://open.spotify.com/album/1w1vPLFbFyaSOh2dyzdzS0"
@@ -1809,7 +1897,7 @@
       "url": "https://open.spotify.com/track/00ByIMCGwbb50bOaZNwjQQ"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Sa Krus Iyong Tinapos",
         "url": "https://open.spotify.com/album/6mOIQKIfRHNXZJLgMGa25Q"
@@ -1825,7 +1913,7 @@
       "url": "https://open.spotify.com/track/5WTLqKYllbZjKBdISllks9"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "More of You",
         "url": "https://open.spotify.com/album/1ZuRlofCPYnkEWpq8DPWf9"
@@ -1845,7 +1933,7 @@
       "url": "https://open.spotify.com/track/2FBg070EGrNodMbX3sWIVE"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Dakilang Kaloob",
         "url": "https://open.spotify.com/album/52JCoJKm2RHU6NnUysVoj8"
@@ -1861,7 +1949,7 @@
       "url": "https://open.spotify.com/track/7fTbQWBsJvShgg1wc3L7ta"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Ako\u2019y Lumalapit",
         "url": "https://open.spotify.com/album/1SNoHk5XjONoBFhFaOBpjp"
@@ -1881,7 +1969,7 @@
       "url": "https://open.spotify.com/track/2C9bqXVvshKjjlUznCM2Ex"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Sa'yo O Diyos",
         "url": "https://open.spotify.com/album/74X0rxvPSb0hk01Jj5hL9R"
@@ -1901,7 +1989,7 @@
       "url": "https://open.spotify.com/track/5HFUszHdfrPTPyJfhPcFvS"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/4F0528pvPbAsCswccCm57R"
@@ -1917,7 +2005,7 @@
       "url": "https://open.spotify.com/track/3Sm9RiZX3E5ENZNqMuhE2q"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Never Wanna Go Back",
         "url": "https://open.spotify.com/album/2KoA6hrHiqvWzz6ItlJDhc"
@@ -1937,7 +2025,7 @@
       "url": "https://open.spotify.com/track/1PUvZx8bARsf3ORSdmTxuN"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Maghihilom",
         "url": "https://open.spotify.com/album/7Mpu2umw5scLP0dq7mLwUb"
@@ -1953,7 +2041,7 @@
       "url": "https://open.spotify.com/track/0CxD8FCxanmV0YvxyZySEI"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/7aO5bOCwrYCx33fUzuaKVO"
@@ -1969,7 +2057,7 @@
       "url": "https://open.spotify.com/track/21ECSoDa2Z8NjzNs9133x0"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Kingdom Coming",
         "url": "https://open.spotify.com/album/1iLNh8DaRIhxWv4bTJU3ZK"
@@ -1993,7 +2081,7 @@
       "url": "https://open.spotify.com/track/4tWAElVjppLMaPE6tN52IW"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "I Need You Now",
         "url": "https://open.spotify.com/album/6xYRuoQsypJrrAPpxlDOKi"
@@ -2013,7 +2101,7 @@
       "url": "https://open.spotify.com/track/6WWgbKRm25AUoiaNun07tn"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Ihip ng Trumpeta, Awit ng Papuri",
         "url": "https://open.spotify.com/album/4WRKKj9dhvuxe7gNF8Cz0N"
@@ -2029,7 +2117,7 @@
       "url": "https://open.spotify.com/track/728ZiVcGHHxpTPzgDZYyXR"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Let God",
         "url": "https://open.spotify.com/album/7GaTQ2O0gRXqM8deTXzrOw"
@@ -2045,7 +2133,7 @@
       "url": "https://open.spotify.com/track/5rLxqWMkBul7VvrXKkXNMa"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Together \u2013 EP",
         "url": "https://open.spotify.com/album/54CX7lXUMplryuXFTCjkbM"
@@ -2061,7 +2149,7 @@
       "url": "https://open.spotify.com/track/4kMA31fDbWXxbIO7A5Zd13"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Lubos",
         "url": "https://open.spotify.com/album/3ibXFdy7QhfzDD5qiPOnJu"
@@ -2081,7 +2169,7 @@
       "url": "https://open.spotify.com/track/2jvC5YCDFuw0frV6BKKD6w"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Nasaan Kaya Ako",
         "url": "https://open.spotify.com/album/0rVyPpwmXgnvk7Z7bKYs7B"
@@ -2097,7 +2185,7 @@
       "url": "https://open.spotify.com/track/1ylLUQy3WwGEUJ5p5PAyuJ"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/5WcZ6Do5YLPerJ6F8abx0E"
@@ -2113,7 +2201,7 @@
       "url": "https://open.spotify.com/track/2KCT1NuIYxKHSy8z6WLpgM"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Lighthouse in the Storm",
         "url": "https://open.spotify.com/album/6ASnuC91fC5llmBogdwmg2"
@@ -2129,7 +2217,7 @@
       "url": "https://open.spotify.com/track/4ZNpAwmAFBjIkE49GUqDUm"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/7hTzsUnPyuqCbqWPBH7iYZ"
@@ -2145,7 +2233,7 @@
       "url": "https://open.spotify.com/track/0oBSBvVSq4URqyyxpaM3sy"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/06VVEg6ZKBSdffLW55bLId"
@@ -2161,7 +2249,7 @@
       "url": "https://open.spotify.com/track/6XUH3f6pfvszR8Z9cQGl1D"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "The Lord Is My Strength",
         "url": "https://open.spotify.com/album/3pet4Bt1uQWLf24NsiT93T"
@@ -2177,7 +2265,7 @@
       "url": "https://open.spotify.com/track/5pn6jIp7xDLeqsolqo8xPM"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Zion",
         "url": "https://open.spotify.com/album/4rbOCwVhFYT2yYBmmUsekd"
@@ -2193,7 +2281,7 @@
       "url": "https://open.spotify.com/track/2PDlIgTWeNkVwx3QIAQT0i"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Burst into Songs Ministries",
         "url": "https://open.spotify.com/album/5yZl6gJHmBQ5gJ73gqbzUj"
@@ -2209,7 +2297,7 @@
       "url": "https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Sinasamba Kita",
         "url": "https://open.spotify.com/album/4l55w0haSeiQxv5VlLwZHM"
@@ -2225,7 +2313,7 @@
       "url": "https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Panaginip",
         "url": "https://open.spotify.com/album/6BLaL8oRhm8AXzCQGYbx98"
@@ -2241,7 +2329,7 @@
       "url": "https://open.spotify.com/track/5AzItYJaYpu36CTSK9ZvKj"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4W2GDr3NuuQRfjOJrWTdli"
@@ -2261,7 +2349,7 @@
       "url": "https://open.spotify.com/track/5TjWv28A1YWX0sYC0Ey8Ov"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Make Room",
         "url": "https://open.spotify.com/album/78tYA5dpbLsaD3GYiLZT4U"
@@ -2277,7 +2365,7 @@
       "url": "https://open.spotify.com/track/4irfvqovhqNcmZ6fMfDVCS"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/4OColfyGElToe70XzNKfpm"
@@ -2293,7 +2381,7 @@
       "url": "https://open.spotify.com/track/6nf6Cxq4oHCdbjRRSl4O9x"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/3OEdV5rSGQxZ3BNxX3a7pj"
@@ -2313,7 +2401,7 @@
       "url": "https://open.spotify.com/track/3IKjZWUe8xnV98x17Pehvc"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Lord Speak",
         "url": "https://open.spotify.com/album/71uUBDN7MkIv4EGk2Usad5"
@@ -2329,7 +2417,7 @@
       "url": "https://open.spotify.com/track/20WFxQ4lx4hvxvnuu13FSN"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Kingdom in Me",
         "url": "https://open.spotify.com/album/3bGmWMZ9GCi1duR6IGDYU0"
@@ -2345,7 +2433,7 @@
       "url": "https://open.spotify.com/track/4JtuiiHbqw1ksx6WmN0E6i"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "This Year",
         "url": "https://open.spotify.com/album/5s1UWPJuRes1KBa3ODY8Kv"
@@ -2361,7 +2449,7 @@
       "url": "https://open.spotify.com/track/232GkQUm3vxkug4dFIknAf"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Doxology",
         "url": "https://open.spotify.com/album/5hyGk6hEP0b8MfG6H51YnO"
@@ -2381,7 +2469,7 @@
       "url": "https://open.spotify.com/track/2ya8bak644jckcQP8B8DIi"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Song of Freedom",
         "url": "https://open.spotify.com/album/1XPhZB0bje8woprQRWUcU0"
@@ -2401,7 +2489,7 @@
       "url": "https://open.spotify.com/track/3KuxuZqks50WAxMivImeBq"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Doxology",
         "url": "https://open.spotify.com/album/5hyGk6hEP0b8MfG6H51YnO"
@@ -2421,7 +2509,7 @@
       "url": "https://open.spotify.com/track/4zGK30W3NyFkgDNbGkOPm9"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "TWCN (Dymph Track)",
         "url": "https://open.spotify.com/album/6Wx4Rc1D8R9wb5MEIGfgvk"
@@ -2437,7 +2525,7 @@
       "url": "https://open.spotify.com/track/1nmQkvDfWa5XHycvqz10tJ"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Tahanan",
         "url": "https://open.spotify.com/album/7ADkYzRHMGejbX9NmYlsa4"
@@ -2453,7 +2541,7 @@
       "url": "https://open.spotify.com/track/1BKuNBuBTkBNHvda2vvUve"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Love More",
         "url": "https://open.spotify.com/album/6Piqo6T3fkhtdXbbw6PpqH"
@@ -2469,7 +2557,7 @@
       "url": "https://open.spotify.com/track/00T1wuCx37A8TP4Brl5M3a"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/664weT87LP5crWXjBEs18y"
@@ -2489,7 +2577,7 @@
       "url": "https://open.spotify.com/track/1o9yDhDTHFEQgk88JnnriX"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Ililigtas Ka Niya",
         "url": "https://open.spotify.com/album/0GDeJk432FjFcc5zVW2Wey"
@@ -2505,7 +2593,7 @@
       "url": "https://open.spotify.com/track/7cElhP84PAFlTds4sAxMvk"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "The Good God",
         "url": "https://open.spotify.com/album/2NT0QHJDsW8lupjeCBluL6"
@@ -2521,7 +2609,7 @@
       "url": "https://open.spotify.com/track/13yRKcO7grILliLJxcGqDb"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Worship Companion, Vol. 4",
         "url": "https://open.spotify.com/album/7nd1eTaYnygjSPJew00GNO"
@@ -2537,7 +2625,7 @@
       "url": "https://open.spotify.com/track/0jvPCNYpagyTjKc7PgEZgg"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Are You Listening?",
         "url": "https://open.spotify.com/album/4khy1mvYxpPCFeSmsnUT7A"
@@ -2561,7 +2649,7 @@
       "url": "https://open.spotify.com/track/4H3oOIKGvdpgJsDrF3pdr1"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Doxology",
         "url": "https://open.spotify.com/album/5hyGk6hEP0b8MfG6H51YnO"
@@ -2581,7 +2669,7 @@
       "url": "https://open.spotify.com/track/6z5W85tNkM8BhcZKtXWAVR"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Wala Nang Pipigil",
         "url": "https://open.spotify.com/album/32d4XVfu9ajHIPJYrcWksw"
@@ -2597,7 +2685,7 @@
       "url": "https://open.spotify.com/track/4oQiBasWqTHdwjLCf3Aisu"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Far Greater Love",
         "url": "https://open.spotify.com/album/5SV09W7HxgLw6ETLhNrF6q"
@@ -2617,7 +2705,7 @@
       "url": "https://open.spotify.com/track/0Nx53o4TyKSpnTiQ0MAiEj"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Mountains Move (feat. Caleb Garrard)",
         "url": "https://open.spotify.com/album/59rRx2VhMQBsM0JFfGeNyQ"
@@ -2637,7 +2725,7 @@
       "url": "https://open.spotify.com/track/4IOngFt4l4g9popoFAmzNx"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "You Love Me",
         "url": "https://open.spotify.com/album/0IE9KpCYmg6YYy3jZxJNwE"
@@ -2653,7 +2741,7 @@
       "url": "https://open.spotify.com/track/7g67o2O78IMYMzkmopN2e6"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Trust in You (Renewed)",
         "url": "https://open.spotify.com/album/05fAHM2ARLtd0DEDfXmNmF"
@@ -2669,7 +2757,7 @@
       "url": "https://open.spotify.com/track/4cOAWfJIUmybRvbhX3LHBx"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "I Can Live Again (Reimagined)",
         "url": "https://open.spotify.com/album/7CpXmwCa0CRjBfBTCuse2Y"
@@ -2689,7 +2777,7 @@
       "url": "https://open.spotify.com/track/4BNZyOQEWDrnpltb4IjKjV"
     },
     {
-      "added_at": "2025-04-21 03:11:57",
+      "added_at": "2025-11-05 02:39:33",
       "album": {
         "name": "Remember Me My Lord",
         "url": "https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8"

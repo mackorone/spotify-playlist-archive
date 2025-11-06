@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319394,
+  "num_followers": 319403,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 193191,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "temporal",
         "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 132571,
       "name": "Paga pra Ver",
       "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 193191,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
     }
   ],
   "unique_name": "Rala e Rola",

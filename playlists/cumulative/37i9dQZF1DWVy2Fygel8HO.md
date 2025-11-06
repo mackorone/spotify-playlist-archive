@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-191 songs - 7 hr 55 min
+194 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Quiet Path](https://open.spotify.com/track/4nioqnMP8Y69o4N9NkJBKR) | [Joseph Pichon](https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD) | [A Quiet Path](https://open.spotify.com/album/3NzE9tdT3FRMCJrxXEeCNO) | 2:15 | 2025-09-15 |  |
 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 | 2023-05-09 | 2025-03-05 |
 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-04 |  |
+| [afterthought](https://open.spotify.com/track/4Rr3fUE84z8AjJshTRiCWt) | [jiel](https://open.spotify.com/artist/2uCs7S22q8iEg52XCLTzZx) | [afterthought](https://open.spotify.com/album/3nOqvaMHcDeqlU3pqTlEmP) | 3:00 | 2025-11-05 |  |
 | [Al fín](https://open.spotify.com/track/3F1jev8GAdSB1jyKHuAqhZ) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Al fín](https://open.spotify.com/album/0FjpiJwqP0wFPTdi0tbTs7) | 2:28 | 2023-05-09 |  |
 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 | 2025-01-28 |  |
 | [Another Time](https://open.spotify.com/track/4D3yNko56x9TtQgVBKkxRl) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Another Time](https://open.spotify.com/album/2jeYw4SEjdiEUnCanJ2gIr) | 2:32 | 2023-05-09 | 2025-03-05 |
@@ -28,7 +29,7 @@
 | [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-04 |  |
 | [Barely Awake](https://open.spotify.com/track/7xKLiItra445rJi8Fehifn) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Barely Awake](https://open.spotify.com/album/3SDVYC3KCzaVn6x5cwPytt) | 2:19 | 2023-05-09 |  |
 | [Blanche, Op\. 10](https://open.spotify.com/track/3WIIFZRWbPORTJarz8ozTL) | [Henri de Quengo](https://open.spotify.com/artist/5OgcUeWAFwuAgo9wDWr6hr) | [Blanche, Op\. 10](https://open.spotify.com/album/5AKXt0yEKjmyKE9fdddEdt) | 2:19 | 2023-05-09 | 2025-01-07 |
-| [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 | 2025-02-25 |  |
+| [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 | 2025-02-25 | 2025-11-06 |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2023-05-09 | 2025-04-09 |
 | [Calm Waters](https://open.spotify.com/track/17fzCOVbjCQwxgPaLtAC1h) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Calm Waters](https://open.spotify.com/album/7eskambYbQlDp1H4E6Z6G2) | 2:13 | 2025-06-10 | 2025-09-16 |
 | [Can't Wait](https://open.spotify.com/track/4mv7yv3xb6CFLUEZ0ndowA) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Can't Wait](https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ) | 2:05 | 2023-05-09 | 2025-04-26 |
@@ -75,6 +76,7 @@
 | [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 | 2025-01-17 |  |
 | [Golden Hour](https://open.spotify.com/track/2Df6FcpcajZ02DNjHHEi1Y) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Golden Hour](https://open.spotify.com/album/4quXwctlEiPi3tGCuIKx4p) | 3:31 | 2024-09-30 |  |
 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 | 2024-10-21 |  |
+| [Halo](https://open.spotify.com/track/7yvByTOjJtBTbcyOG0bUtE) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Halo](https://open.spotify.com/album/5kU6DmZ227JMDs7CuujZSp) | 2:17 | 2025-11-05 |  |
 | [Hana, My Love](https://open.spotify.com/track/4OI6jrwpj1xkejfp6R5uj2) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Pale Horizon](https://open.spotify.com/album/4GbaledvjJ39zGpUtwB3pT) | 2:24 | 2023-05-09 | 2025-03-05 |
 | [Heavens Night](https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [Heavens Night](https://open.spotify.com/album/16wm0WGGZlJbAWqOrAraRF) | 2:18 | 2023-05-09 | 2025-02-19 |
 | [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 | 2023-05-09 | 2025-04-26 |
@@ -138,6 +140,7 @@
 | [Schatze](https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Schatze](https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4) | 2:35 | 2023-08-15 |  |
 | [Seamless](https://open.spotify.com/track/1DkHsipoHreKriNWagcghR) | [Fröe](https://open.spotify.com/artist/0OZxzIeQtg2hGlRD4B5gLQ) | [Shapes](https://open.spotify.com/album/63LKKV0199QFc6Je3PYUU1) | 2:22 | 2023-05-09 | 2025-09-16 |
 | [Seasons Flowing](https://open.spotify.com/track/3GF4u2VOhdmr3qTpACIVmm) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Seasons Flowing](https://open.spotify.com/album/7DGbjC2RBWda7hbD8dE1Hj) | 2:30 | 2024-09-30 | 2025-09-16 |
+| [Serenade of Silence](https://open.spotify.com/track/3wmNRYEkBD8NRsnmrtIbeI) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [Serenade of Silence](https://open.spotify.com/album/5786K1EoWZMb17nqKzyFeL) | 2:07 | 2025-11-05 |  |
 | [Serenade to Veronika](https://open.spotify.com/track/2hzwsJaOQLnex8YchKVqOe) | [Ferenc Bognár](https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW) | [Serenade to Veronika](https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM) | 2:36 | 2025-04-23 |  |
 | [Serene Lullaby](https://open.spotify.com/track/6senBBuEDrhyrtq83mNw8K) | [Michele Nobler](https://open.spotify.com/artist/3c77k7JBsnl7h72xlCuaS2) | [A Second Life](https://open.spotify.com/album/4zfzNeWgluMMQfhXxNOft8) | 2:46 | 2023-05-09 | 2025-02-19 |
 | [Serenity](https://open.spotify.com/track/5ul8fmKLEXPOoxI2UB03Cl) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Serenity](https://open.spotify.com/album/3H4nRo9aqyV0W0CK0MyaRo) | 2:38 | 2023-05-09 |  |
@@ -198,6 +201,6 @@
 | [Winterfall](https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Winterfall](https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX) | 2:39 | 2023-05-09 |  |
 | [Woodland Morning](https://open.spotify.com/track/2qcv6Nw5J6ziryDNL5dXW2) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Woodland Morning](https://open.spotify.com/album/5sHCirCOjV2yN49Ak6RM64) | 2:29 | 2025-02-25 | 2025-04-29 |
 | [Your Happiness](https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Happiness](https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5) | 2:27 | 2023-08-15 |  |
-| [Éclat de Brume](https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Éclat de Brume](https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG) | 2:40 | 2023-12-12 |  |
+| [Éclat de Brume](https://open.spotify.com/track/2AID3rEEd5Wd3Le09Ht6Gm) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Éclat de Brume](https://open.spotify.com/album/6O2UnhVcWDP22Nxy1fMcbG) | 2:40 | 2023-12-12 | 2025-11-06 |
 
 \*This playlist was first scraped on 2023-05-24. Prior content cannot be recovered.

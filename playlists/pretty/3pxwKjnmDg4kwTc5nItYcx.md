@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,627 likes - 59 songs - 3 hr 9 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,626 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 57 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
 | 58 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
 | 59 | [The Loneliest I Ever Was](https://open.spotify.com/track/0y7hOVuGBLrlttFeQ3NsgU) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Yours Forever](https://open.spotify.com/album/2dpE9xtpAn2WneiRfxWEN9) | 2:49 |
+| 60 | [Want You Back](https://open.spotify.com/track/47ZgtovCo5c8I5QqAtXKiy) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Want You Back](https://open.spotify.com/album/0E5rDybP5sO4st8biXaOo3) | 3:03 |
 
-Snapshot ID: `AAAHqN+JHP5d5FtDWzR+hE96SQPTYXq/`
+Snapshot ID: `AAAHq5z51/8750QZchgq+ucgDfUJ9r5c`

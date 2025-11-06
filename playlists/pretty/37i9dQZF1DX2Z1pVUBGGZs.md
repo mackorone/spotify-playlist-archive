@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Cat Burns ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,422 likes - 120 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,393 likes - 120 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

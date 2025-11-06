@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Amanda Coronha
 
-872 songs - 1 day 19 hr 34 min
+873 songs - 1 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Fita do Bonfim](https://open.spotify.com/track/4kNU5wb2uvte1e5eig8kZK) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Fita do Bonfim](https://open.spotify.com/album/4j5ZI0aSknpLLfePOUCq37) | 3:25 | 2024-10-11 | 2025-01-18 |
 | [Flor Amarela](https://open.spotify.com/track/4FnrU3thkxYKlnF8TuFGXm) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Flor Amarela](https://open.spotify.com/album/50zdS8nWJJD0ebwieCj75H) | 2:48 | 2023-10-20 | 2023-12-23 |
 | [Flor de Outono](https://open.spotify.com/track/0tUFGtuyiDhhxgw3FBFFZ6) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Flor de Outono](https://open.spotify.com/album/3Pvb6EwXutHUc2LPTlIVBn) | 3:09 | 2024-06-07 | 2024-07-19 |
+| [Flor Do Inverno](https://open.spotify.com/track/4S2KuuKNKKS06twmxWgAob) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Flor Do Inverno](https://open.spotify.com/album/3vzPI8pg9ENhFmUB7PQGTh) | 3:04 | 2025-10-31 |  |
 | [Flores pro inferno](https://open.spotify.com/track/6WRKgKQFhybwMlucl5liHs) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Flores pro inferno](https://open.spotify.com/album/3ZMbYlXfb4zy79Nv6MegvO) | 3:13 | 2022-08-01 | 2022-09-03 |
 | [Flores Que Eu Nunca Dei](https://open.spotify.com/track/1tSRitSlttJ9PGtUz40ZSQ) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Flores Que Eu Nunca Dei](https://open.spotify.com/album/1mM2in7kTBpSLurd8HIjvD) | 3:21 | 2022-12-23 | 2023-01-28 |
 | [Florescer](https://open.spotify.com/track/1jllCeJCsbQwnwHTxKWNEb) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Som de Alma](https://open.spotify.com/album/0icq1nKGnjevXRF3DkaC8T) | 2:19 | 2024-11-22 | 2025-05-17 |
@@ -529,7 +530,7 @@
 | [não suporto viver sem você \(como dói\)](https://open.spotify.com/track/4y9ngr5Wv76VNkpDGfykTi) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Não suporto viver sem você \(como dói\)](https://open.spotify.com/album/7xwGGMQUNbeGsRuWblyc5j) | 2:38 | 2025-03-07 | 2025-04-25 |
 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 | 2022-05-13 | 2022-11-12 |
 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 | 2023-10-20 | 2024-05-25 |
-| [Não Tem Preço](https://open.spotify.com/track/2zbhMAmM6pKn2DKrK6KlIj) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [Não Tem Preço](https://open.spotify.com/album/6PDxExK80OiAXNkdwF1g47) | 2:57 | 2025-10-03 |  |
+| [Não Tem Preço](https://open.spotify.com/track/2zbhMAmM6pKn2DKrK6KlIj) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [Não Tem Preço](https://open.spotify.com/album/6PDxExK80OiAXNkdwF1g47) | 2:57 | 2025-10-03 | 2025-11-06 |
 | [Não Tenha Dó](https://open.spotify.com/track/58Q63qvLRyp6Ftj5GcSHjM) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Não Tenha Dó](https://open.spotify.com/album/0Kt5Bw99SaYI5O1ddptqFZ) | 5:15 | 2025-08-29 | 2025-10-18 |
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2022-10-14 | 2022-10-29 |
 | [Nó de Marinheiro](https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Nó de Marinheiro](https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb) | 3:03 | 2023-07-28 | 2023-11-07 |

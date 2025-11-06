@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de octubre 2025\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,544,842 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,544,849 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 18 | [los 41](https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los 41](https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ) | 3:26 |
 | 19 | [Viendo Estrellitas](https://open.spotify.com/track/4NIppWnkkNYH4CEbRVsPfj) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Viendo Estrellitas](https://open.spotify.com/album/5GhKEqeWPl8fOBRLTY1Ijy) | 2:19 |
 | 20 | [Si Te Vas](https://open.spotify.com/track/2kFU0hbJQVKzbaTK2Dlrvi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Vas](https://open.spotify.com/album/6q86LyVyOH4NzkNnBWAPKw) | 3:18 |
-| 21 | [Ella](https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Ella](https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets) | 4:24 |
+| 21 | [EN LA DE ELLA](https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Ella](https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets) | 4:24 |
 | 22 | [Mejores Jordans 2](https://open.spotify.com/track/6RYsDCdeXeWK2bsCtYXLgy) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans 2](https://open.spotify.com/album/0WbRuSQuG8O7YzQ3jSGdos) | 4:27 |
 | 23 | [SELEDA.](https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SELEDA.](https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq) | 2:11 |
 | 24 | [La Tirana](https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Tirana](https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp) | 4:04 |

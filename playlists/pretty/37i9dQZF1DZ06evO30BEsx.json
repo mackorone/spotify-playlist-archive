@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1725,
+  "num_followers": 1730,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAAByifHR5u7ystdn8dwMnkUo",
+  "snapshot_id": "aQlCAAAAAAB6WU5HFKS6w+XfNZpDPbYY",
   "tracks": [
     {
       "added_at": null,
@@ -24,8 +24,8 @@
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
         }
       ],
       "duration_ms": 339306,
@@ -735,34 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 273826,
-      "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
-      "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
         "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
       },
@@ -787,6 +759,34 @@
       "duration_ms": 387440,
       "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
       "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 273826,
+      "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
+      "url": "https://open.spotify.com/track/20SEyo1jCgiYxgAabS9W7U"
     },
     {
       "added_at": null,
@@ -947,6 +947,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art of the Cello",
+        "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Williams: Main Theme (From \"Schindler's List\")",
+      "url": "https://open.spotify.com/track/4iC0pELAxCXMXwjFupya53"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -1007,30 +1035,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of the Cello",
-        "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
         },
         {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 246480,
-      "name": "Williams: Main Theme (From \"Schindler's List\")",
-      "url": "https://open.spotify.com/track/4iC0pELAxCXMXwjFupya53"
+      "duration_ms": 372066,
+      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
     },
     {
       "added_at": null,
@@ -1087,34 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
-      },
-      "artists": [
-        {
-          "name": "Jules Massenet",
-          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Douglas Boyd",
-          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 372066,
-      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
-      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rachmaninoff & Brahms",
         "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
       },
@@ -1167,6 +1167,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Philippe Sarde",
+          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
+      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations - La vie en rose",
         "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
       },
@@ -1195,30 +1219,6 @@
       "duration_ms": 264013,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Philippe Sarde",
-          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
-      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
     },
     {
       "added_at": null,
@@ -1299,6 +1299,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "La Boh\u00e8me",
+      "url": "https://open.spotify.com/track/6PoC48qnjs0unMECXSyNax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haydn: Cello Concertos",
         "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 397426,
       "name": "Haydn: Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/04aXsPy6G40WjH7qOwYrH6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "La Boh\u00e8me",
-      "url": "https://open.spotify.com/track/6PoC48qnjs0unMECXSyNax"
     },
     {
       "added_at": null,

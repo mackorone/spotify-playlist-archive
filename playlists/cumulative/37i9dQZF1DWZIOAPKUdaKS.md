@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-821 songs - 1 day 11 hr 34 min
+825 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 | 2024-03-20 |
 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 | 2021-12-07 | 2022-10-14 |
 | [Det er noget jeg vil sige](https://open.spotify.com/track/0iuQP7mkmShmff5cY0CURM) | [Amalie Enoksen](https://open.spotify.com/artist/2CBo9D2YNDnwLNS8MH0mky) | [Det er noget jeg vil sige](https://open.spotify.com/album/235lLAG7m4wxHUik8Jpnef) | 2:23 | 2021-12-07 | 2022-10-05 |
+| [deux amants](https://open.spotify.com/track/5OkRIoF2qGpLy44bmu8yCR) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [deux amants](https://open.spotify.com/album/0CtPECqSOoqmSpNvnFPeiC) | 2:29 | 2025-11-05 |  |
 | [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 | 2021-12-07 | 2024-11-07 |
 | [diamond star](https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [midnight dreams & diamond star](https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF) | 2:40 | 2022-08-09 |  |
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2021-12-07 | 2023-04-19 |
@@ -196,6 +197,7 @@
 | [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2021-12-07 | 2024-02-15 |
 | [Eclipse](https://open.spotify.com/track/0Ck0h2BOe48JxLlPQrl1sV) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Eclipse](https://open.spotify.com/album/2tFttOMbr6jYqnsulIqdAy) | 2:17 | 2021-12-07 | 2022-10-05 |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2021-12-07 | 2024-02-03 |
+| [Elsewhere](https://open.spotify.com/track/7GR7a9fe0ZKlUFJSujJX68) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Elsewhere](https://open.spotify.com/album/6vOf4Bk6uT98A0iIUfpEeY) | 2:28 | 2025-11-05 |  |
 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-16 |  |
 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 | 2023-02-21 |  |
 | [Embrace](https://open.spotify.com/track/7uEqmFdTgsMNjW6H2GrwGv) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Embrace](https://open.spotify.com/album/4hw5Kyj5CkPnJ5RtiajIfc) | 2:38 | 2024-02-14 |  |
@@ -423,7 +425,7 @@
 | [Lucidity](https://open.spotify.com/track/4yqiWdxiO7wqyrFbCCIflZ) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Lucidity](https://open.spotify.com/album/57LcyjJDa98LkcEBN7MJ4E) | 2:20 | 2021-12-07 | 2023-10-05 |
 | [Lumina](https://open.spotify.com/track/3ROPBozZCwfK1R8ZO3gcyD) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Lumina](https://open.spotify.com/album/5nyCbLJDlIvZWJ2DJRkSgh) | 2:10 | 2024-04-15 |  |
 | [Luminous](https://open.spotify.com/track/7lPvVD6xk2KjEqyS0VkxM1) | [Lucas van Kesteren](https://open.spotify.com/artist/1nuw1AswgVJaRJLS5IkRTY) | [Luminous](https://open.spotify.com/album/6m4wOlboYm7g0LKsqsRJPG) | 2:15 | 2021-12-07 | 2023-10-05 |
-| [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 | 2025-04-23 |  |
+| [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 | 2025-04-23 | 2025-11-06 |
 | [Lupine](https://open.spotify.com/track/4KvLHsCnVxcRC3JVlU2OdN) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Lupine](https://open.spotify.com/album/1a7kXLdi7MXwpiyYQe033o) | 2:50 | 2024-02-14 |  |
 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 | 2021-12-07 | 2023-10-05 |
 | [Léana](https://open.spotify.com/track/4RjIFSjFbvR43htmAHW6Gf) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Léana](https://open.spotify.com/album/2IFpHSZQyD8Oxn8IBnJ8Ss) | 2:21 | 2021-12-07 | 2023-04-05 |
@@ -444,6 +446,7 @@
 | [Memories](https://open.spotify.com/track/29oFfCDtNaQF9q7ilyLpz9) | [bzur](https://open.spotify.com/artist/0oGuRxr8O9eLnI4MS3pkTt) | [Memories](https://open.spotify.com/album/10jbRX3Xdwagm2xs54Gb4j) | 2:00 | 2022-01-18 | 2024-11-07 |
 | [Memories Of Tomorrow](https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Memories Of Tomorrow](https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC) | 2:19 | 2021-12-07 | 2022-10-25 |
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2021-12-07 | 2024-02-03 |
+| [Merlin](https://open.spotify.com/track/79bolkNkoFeJHyZJtKvO4t) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Merlin](https://open.spotify.com/album/6L9yZGcgZkrG2F2PfKwToh) | 2:33 | 2025-11-05 |  |
 | [Minuit à Paris](https://open.spotify.com/track/4MEQkYg6D715wDzzm5r5K6) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Minuit à Paris](https://open.spotify.com/album/2OxcHeyTYMZ9vFOj2Ktml6) | 2:14 | 2021-12-07 | 2023-10-05 |
 | [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-01-04 | 2022-07-20 |
 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 | 2022-11-24 | 2023-10-03 |
@@ -765,6 +768,7 @@
 | [Until The Blissful Dawn](https://open.spotify.com/track/4XmIwtJO8oy1R202pCKV2n) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Safe In Her Arms](https://open.spotify.com/album/2v0XpYcW0Rj9PyakkzeKUn) | 2:34 | 2023-12-21 | 2024-01-05 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/5QZHUzGvrJqj2WRWGqrvqA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When I Look At You](https://open.spotify.com/album/4Sly3l6x6L6lpwKy1zqgDy) | 2:34 | 2024-03-04 | 2024-03-27 |
 | [Until The Blissful Dawn](https://open.spotify.com/track/5hsIYSyWoanQtI5G1EpPEi) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Until The Blissful Dawn](https://open.spotify.com/album/45UjPgFGq62QWAbmKiNxOM) | 2:34 | 2024-04-15 |  |
+| [Until Tomorrow](https://open.spotify.com/track/0HZeeAL2SxHYJT1Hs4YkOy) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Until Tomorrow](https://open.spotify.com/album/0PoA8WrLTYKVD38cWqzoeB) | 2:38 | 2025-11-05 |  |
 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 | 2021-12-07 | 2022-09-13 |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-04-04 |  |
 | [Vacanza in bicicletta](https://open.spotify.com/track/7insrNcRlTVhOZLKdZPoUq) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Vacanza in bicicletta](https://open.spotify.com/album/2faORdIEcHDe7PqE9R3sjd) | 2:47 | 2021-12-07 | 2024-05-23 |

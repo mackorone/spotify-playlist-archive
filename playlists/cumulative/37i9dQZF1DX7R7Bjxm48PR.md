@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-182 songs - 8 hr 10 min
+183 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-01-26 | 2024-04-19 |
 | [We Will Make It](https://open.spotify.com/track/7yVh5SkxIS6OpNlL8gf2Qx) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [We Will Make It](https://open.spotify.com/album/3XY93ClwPSOcghbPeDkGzr) | 2:08 | 2022-01-19 | 2025-01-30 |
 | [Wengen](https://open.spotify.com/track/4EmOsFxW6Nx84qPs9ACrA5) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Wengen](https://open.spotify.com/album/2BopNtLHRQ1mx5YlamsiEg) | 3:10 | 2022-01-19 | 2024-11-14 |
+| [When Earth Whispers](https://open.spotify.com/track/6YtzGYCIUydA50pbDuPhE8) | [throughfield](https://open.spotify.com/artist/38RdlcwxQGnKfpO1z7pJaQ) | [When Earth Whispers](https://open.spotify.com/album/4QYtWQV3YlroscBoTnbwBs) | 2:36 | 2025-11-05 |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2022-01-19 | 2024-11-14 |
 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2022-01-19 |  |
 | [Wistful](https://open.spotify.com/track/63yPgrn1bfyb12gWzUhRvg) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Wistful](https://open.spotify.com/album/3DelzkmukAbuP0STlZeGds) | 2:15 | 2022-01-19 | 2022-03-04 |

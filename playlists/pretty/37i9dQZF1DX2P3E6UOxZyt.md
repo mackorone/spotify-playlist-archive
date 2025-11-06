@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 慶祝 RADAR 音樂人突破 1000 位！重溫 RADAR 新勢力歷來最受歡迎歌手作品！Cover: 王ADEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,544 likes - 36 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,548 likes - 36 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 22 | [妳和我](https://open.spotify.com/track/7psOmXYhehxe8bssag0vbw) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [妳和我](https://open.spotify.com/album/3yZh7FUS3gRpgzBkvEdPLU) | 3:33 |
 | 23 | [要不要跟我出去走一走](https://open.spotify.com/track/4nNaEmvwoI8IOP0XtnzZJn) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [我其實一點都不酷](https://open.spotify.com/album/5nu65vQRCMjyc47yNLfFKa) | 4:08 |
 | 24 | [渴望你](https://open.spotify.com/track/0W6tav25EnOjhm91IfEKTh) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [LOVE MAZE](https://open.spotify.com/album/67Qjx5KtM3e2NRyzzt3old) | 4:03 |
-| 25 | [You Hurt Me So Bad](https://open.spotify.com/track/3aGNlXxpEflmur1f0m6EDU) | [JUD](https://open.spotify.com/artist/0TLFuIkzBCZUHQ38oeK11R), [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [You Hurt Me So Bad](https://open.spotify.com/album/7stvQ2j6sn2nZ96Vdbwe9F) | 3:07 |
+| 25 | [You Hurt Me So Bad](https://open.spotify.com/track/3aGNlXxpEflmur1f0m6EDU) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro), [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [You Hurt Me So Bad](https://open.spotify.com/album/7stvQ2j6sn2nZ96Vdbwe9F) | 3:07 |
 | 26 | [DJV](https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [DJV](https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W) | 2:46 |
 | 27 | [安全島 Surrender \(Falling and Falling...\)](https://open.spotify.com/track/4GayvHFBnOxznFcbxtLUhw) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [楚門 Dream Sober](https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo) | 3:48 |
 | 28 | [嘴巴閉閉](https://open.spotify.com/track/3ZSAuiIj7fJzNBLKahNLDU) | [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [流水席 Flow's Banquet](https://open.spotify.com/album/4IUVCH0duJjB0wvCSJCaed) | 3:51 |

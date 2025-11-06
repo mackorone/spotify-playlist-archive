@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-295 songs - 12 hr 45 min
+296 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2023-04-03 | 2025-04-26 |
 | [closer](https://open.spotify.com/track/36J08RU5mlBaKPcNdkxLoa) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [closer](https://open.spotify.com/album/44ZRGnsdTom76RKEsCHSkN) | 2:56 | 2024-04-09 | 2024-04-23 |
 | [Cloudberry Fields](https://open.spotify.com/track/0WlvEO2qqQKxCw0gj3YdCC) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Cloudberry Fields](https://open.spotify.com/album/7wCDMTG9yVQhGY8Vb6FyS4) | 2:08 | 2024-02-13 |  |
+| [Coincidences](https://open.spotify.com/track/6LTeyPlB34Vj3jkQ5k3l7Y) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Coincidences](https://open.spotify.com/album/4AvpqF3vABdDNJYO7WvXzd) | 2:45 | 2025-11-05 |  |
 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 | 2023-04-03 | 2023-08-02 |
 | [Collecting Coins](https://open.spotify.com/track/411YPKaT1EFNzLUKttpB1w) | [Jan Os](https://open.spotify.com/artist/2Mr2YOyJj0TQqVYH88gUwf) | [Collecting Coins](https://open.spotify.com/album/5kQBkssjm9tXTw6WInvHYx) | 2:28 | 2023-04-03 |  |
 | [Colours I Have Never Seen](https://open.spotify.com/track/2Bvl6xJMoUeOPPX3iVgKdK) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [Colours I Have Never Seen](https://open.spotify.com/album/1LQn3dB82RyoBFthigd9Ro) | 2:00 | 2023-04-03 |  |
@@ -81,7 +82,7 @@
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2023-04-03 |  |
 | [EA \- Vail Bizier \- Comme tu veux](https://open.spotify.com/track/5ciI7iwMWAT5OpfHUOoDRp) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Comme tu veux](https://open.spotify.com/album/5npx3pFFCHzhZ2UH9yRkaS) | 2:21 | 2023-04-12 | 2023-12-13 |
 | [Eastbound and North](https://open.spotify.com/track/3ZoAuHnyRnb4X0HBfyYGIR) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Eastbound and North](https://open.spotify.com/album/739lH4T8HIvoHWzJ9xOClz) | 2:54 | 2023-04-03 |  |
-| [Easy](https://open.spotify.com/track/6LNFiSpVmqEVftSp9t8lOG) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Easy](https://open.spotify.com/album/5eX6PGC2LjvecY3SKWtSYW) | 2:34 | 2025-04-04 |  |
+| [Easy](https://open.spotify.com/track/6LNFiSpVmqEVftSp9t8lOG) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Easy](https://open.spotify.com/album/5eX6PGC2LjvecY3SKWtSYW) | 2:34 | 2025-04-04 | 2025-11-06 |
 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 | 2023-04-03 |  |
 | [Ember Walk](https://open.spotify.com/track/7Iq0ZUPmHIqREIW6YW1MY8) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Ember Walk](https://open.spotify.com/album/5zvCB2Y4vMviQhVQt3iKFL) | 1:49 | 2023-04-03 | 2023-08-22 |
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2023-04-03 | 2025-04-26 |

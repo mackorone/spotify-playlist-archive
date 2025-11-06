@@ -4,7 +4,7 @@
 
 > for the late nights
 
-101 songs - 5 hr 32 min
+102 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [grab my coat](https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC), [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:37 | 2025-08-07 |  |
 | [Half Full](https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Ugh](https://open.spotify.com/album/5k00fgF5AJavyexoZVB391) | 3:02 | 2025-08-07 |  |
 | [HEARTACHE & CHEST PAINS](https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:35 | 2025-08-07 |  |
-| [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 | 2025-08-07 |  |
+| [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 | 2025-08-07 | 2025-11-06 |
 | [honey lemon tea \(feat\. Jaydonclover\)](https://open.spotify.com/track/7FSlGYVKwVDfi1J1DD8daS) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [honey lemon tea](https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT) | 2:19 | 2025-08-07 |  |
 | [I Like](https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18) | [71A](https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb) | [I Like](https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD) | 3:38 | 2025-08-07 |  |
 | [I Like](https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe) | 3:07 | 2025-08-07 |  |
@@ -99,6 +99,7 @@
 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 | 2025-08-07 |  |
 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 | 2025-08-07 |  |
 | [The Invisible Man](https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [The Invisible Man](https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ) | 6:05 | 2025-08-07 |  |
+| [Took My Heart](https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [Took My Heart](https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8) | 2:52 | 2025-08-07 |  |
 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 | 2025-08-07 |  |
 | [Warmth](https://open.spotify.com/track/2x3u6tY8LnKrZ1EDpJybn1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monifé](https://open.spotify.com/artist/3RJBneQVluxOpfJLEtlNQ0) | [Warmth](https://open.spotify.com/album/4gHQLmvwo9AVpTCEwBsIw5) | 3:03 | 2025-08-07 |  |
 | [West End](https://open.spotify.com/track/3kQ9d2gkLtNT0xkGbefSgH) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0) | [West End](https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa) | 2:34 | 2025-08-07 |  |

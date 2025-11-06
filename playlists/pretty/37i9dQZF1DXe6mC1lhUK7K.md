@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 
 > she's ready for her sequel\. cover: sidney prescott 😱👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,460 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,502 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

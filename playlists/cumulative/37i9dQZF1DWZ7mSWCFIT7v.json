@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "132 TECHNO",
+        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334584,
+      "name": "132 TECHNO",
+      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
+    },
+    {
+      "album": {
         "name": "Long Exposure",
         "url": "https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY"
       },
@@ -8358,7 +8376,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 158823,
       "name": "Tulpa",
       "url": "https://open.spotify.com/track/22SsFlXdJtcYKkD9Lx1osr"

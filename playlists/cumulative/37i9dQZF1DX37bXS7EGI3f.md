@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Battle Beast
 
-697 songs - 2 day 4 hr 56 min
+698 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Dismantling Devotion](https://open.spotify.com/track/55J5F2XC6dlyyjURsYlSyi) | [Daylight Dies](https://open.spotify.com/artist/1Q5tzg3ZO6RcuafA9msCCm) | [Dismantling Devotion](https://open.spotify.com/album/0mc9UjH8nqBXCaXQozH243) | 6:59 | 2022-07-13 | 2022-07-30 |
 | [Dismantling Devotion](https://open.spotify.com/track/5uNhotVqH0lUB7GtHVLC5g) | [Daylight Dies](https://open.spotify.com/artist/1Q5tzg3ZO6RcuafA9msCCm) | [Dismantling Devotion](https://open.spotify.com/album/3EZ0P6xgpoL0oZYGgH0Jil) | 6:59 | 2022-07-13 | 2022-07-28 |
 | [Do or Die](https://open.spotify.com/track/5rBRCcqh5j2fWvB4HTbuqp) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa), [Angela Gossow](https://open.spotify.com/artist/5TClu7BnUh8oXuBC5GiVLQ) | [Do or Die](https://open.spotify.com/album/4otHqvojeryO5SNGgcThP8) | 3:28 | 2024-02-23 | 2024-04-16 |
+| [Don't Go In The Forest](https://open.spotify.com/track/62JAxMtxSgFMUlBgjmi23H) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Don't Go In The Forest](https://open.spotify.com/album/2YMsJDgdWSmK85B2FnvjXh) | 4:50 | 2025-11-05 |  |
 | [Door to Life \(2017\)](https://open.spotify.com/track/2dlXoozZuhnznIe2SbbZBn) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8) | [Mioritual Healing](https://open.spotify.com/album/6dRjjg8Gm0dNFfBhJBVtYc) | 4:24 | 2022-07-13 | 2022-07-25 |
 | [Dopamine \(feat\. Simone Simons\)](https://open.spotify.com/track/0mrHi6us5MaQNM34bHI5F7) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI), [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4) | [Dopamine](https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4) | 3:36 | 2024-07-26 | 2025-04-24 |
 | [Double Helix](https://open.spotify.com/track/3v1yzsIPvmdZqOAA1CiumZ) | [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Cassini](https://open.spotify.com/album/1p5SvTuJXivVEGObbxOmtX) | 5:27 | 2022-07-13 | 2022-07-29 |
@@ -502,7 +503,7 @@
 | [Second Nature](https://open.spotify.com/track/3rVrbisqmkrfOVpfl9Plgj) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature](https://open.spotify.com/album/5rCIMFTGTvS0jLdOAc1Ljx) | 4:36 | 2022-01-21 | 2022-07-28 |
 | [Second Nature](https://open.spotify.com/track/4xMGEdt0h9iONzUsyHrbwI) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/6XcfrSUhi6QPivcula5bpO) | 4:36 | 2022-10-07 | 2023-01-13 |
 | [Second Nature](https://open.spotify.com/track/6aowG3sH4hV3KmX0InI4PR) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Second Nature \(2022 Remastered Version\)](https://open.spotify.com/album/0gWm0MZIxCIjOtY2Gk1xyI) | 4:36 | 2022-07-29 | 2022-10-14 |
-| [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 | 2022-03-18 |  |
+| [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 | 2022-03-18 | 2025-11-06 |
 | [See You In Hell](https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [Chapter I \- Monarchy](https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX) | 3:49 | 2020-11-29\* | 2021-05-28 |
 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 | 2021-04-10 | 2021-09-04 |
 | [Seres \(la macchina ha superato l'uomo\)](https://open.spotify.com/track/5tKSKEsfwZYcS2wmfPA67k) | [Mite](https://open.spotify.com/artist/4sxXIO1eqBhxvhQDd1v8iy) | [Seres \(la macchina ha superato l'uomo\)](https://open.spotify.com/album/1q8LcKvGh4RyY5qkyqAvKk) | 5:25 | 2022-07-13 | 2022-07-25 |

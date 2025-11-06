@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578,462 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,578,376 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 47 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
 | 48 | [Words I should've said](https://open.spotify.com/track/2wj1i3TRlyiMGujUO6Whjd) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [words i should've said](https://open.spotify.com/album/1X5p3avr90meczOk6qY4BY) | 4:19 |
 | 49 | [User Guide](https://open.spotify.com/track/27JAvIc1hxDugIP0Q0wnaq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [W!LD](https://open.spotify.com/album/1gFQ6dGFvpDsHmnr4bPbTV) | 2:01 |
-| 50 | [Bottega Trunks \(feat\. Stove God Cooks\)](https://open.spotify.com/track/4odpFHZoEXcRWVa39LooSX) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Bottega Trunks \(feat\. Stove God Cooks\)](https://open.spotify.com/album/7oAOzlf91Gwe0d7mtKG1uS) | 4:40 |
+| 50 | [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 |
 
 Snapshot ID: `AAAAABuvg0xcyw/MOST+UiIzL4kDognA`

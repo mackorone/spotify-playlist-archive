@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,014 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,030 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 2 | [Sob a luz do seu olhar](https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:36 |
 | 3 | [Nem Tudo São Flores](https://open.spotify.com/track/3zPKgsnvyoRk3G6xhbSiGd) | [ruadois](https://open.spotify.com/artist/1T5hg3seEG39VKTHICTft5), [Well](https://open.spotify.com/artist/2JCYooigSy6wfahpfssCCp), [Mirral ONE](https://open.spotify.com/artist/3a4dqCPvI8aisuZL1XzYN2), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6) | [Sinfonia Marginal](https://open.spotify.com/album/3488Esn3zBGubvP2PyOU0D) | 2:50 |
 | 4 | [Ausência](https://open.spotify.com/track/5rpw3BgEGRVFB8CvCJdeuT) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:11 |
-| 5 | [MÍNIMO](https://open.spotify.com/track/2ooiizTx0ijOSDmi7RZgPE) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Busco Romance Love Show \(Deluxe\)](https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT) | 2:28 |
+| 5 | [MÍNIMO](https://open.spotify.com/track/2ooiizTx0ijOSDmi7RZgPE) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Busco Romance Love Show \(Deluxe\)](https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT) | 2:28 |
 | 6 | [Baby eu não quero outro alguém](https://open.spotify.com/track/2iGsLdWGjSm77oTBJc4SqC) | [MC LV DA BS](https://open.spotify.com/artist/0ARhCNTVWRHFfdqLY5DaUg), [DJ Game Beat](https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi), [Mister Fácil](https://open.spotify.com/artist/7MzZeESOXo7z4gGYztJpfm) | [Baby eu não quero outro alguém](https://open.spotify.com/album/5uim76PcGEw7aJGY4iWxjf) | 1:50 |
 | 7 | [Sem Pressão](https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [ALAKASAM](https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6) | 3:32 |
 | 8 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |

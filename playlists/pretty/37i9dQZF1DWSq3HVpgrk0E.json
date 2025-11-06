@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Young Thug",
-  "num_followers": 273149,
+  "num_followers": 273144,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-10-17 08:56:00",
       "album": {
+        "name": "WTHELLY",
+        "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 137666,
+      "name": "WTHELLY",
+      "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
+    },
+    {
+      "added_at": "2025-10-17 08:56:00",
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 344571,
       "name": "Victory Lap Five",
       "url": "https://open.spotify.com/track/7vV6MiU4BHLuNyu4P87z9k"
-    },
-    {
-      "added_at": "2025-10-17 08:56:00",
-      "album": {
-        "name": "WTHELLY",
-        "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        }
-      ],
-      "duration_ms": 137666,
-      "name": "WTHELLY",
-      "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
     },
     {
       "added_at": "2025-10-17 08:56:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, curated by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,576 likes - 153 songs - 8 hr 16 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,577 likes - 153 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 57 | [Found A Light \(Beale Street\)](https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [Found A Light \(Beale Street\)](https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN) | 7:16 |
 | 58 | [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 |
 | 59 | [Scanners](https://open.spotify.com/track/5p9JMOuMlYLDtfWtzW23v6) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Scanners](https://open.spotify.com/album/6UoOcnOdy6hnb6p63inGC0) | 5:37 |
-| 60 | [Zagga Dat](https://open.spotify.com/track/7gIsmMYCcyuzSPnpMWqD5X) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Zagga Dat](https://open.spotify.com/album/2f9Ojh9Dzjvc3ZB7a3nuhI) | 2:08 |
+| 60 | [ZAGGA DAT](https://open.spotify.com/track/7gIsmMYCcyuzSPnpMWqD5X) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [ZAGGA DAT](https://open.spotify.com/album/2f9Ojh9Dzjvc3ZB7a3nuhI) | 2:08 |
 | 61 | [N.U.M.T.E.](https://open.spotify.com/track/4mOeDBDYPH5gXoqro372dT) | [Lauren Duffus](https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l) | [N.U.M.T.E.](https://open.spotify.com/album/4xX47unKRstG9YzR5ORhvS) | 2:53 |
 | 62 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
 | 63 | [Arquivo](https://open.spotify.com/track/4wqU0nKfH7LTZiP7TPVJqJ) | [Lokowat](https://open.spotify.com/artist/0tQQDxDD4vZvqwsjfOd7Ri) | [DOIS MUNDOS](https://open.spotify.com/album/2dFrabpKDshz8HhBaENq9D) | 2:14 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 72 | [Scat Track](https://open.spotify.com/track/25WzUQLwkuC9FzLtlrkwEj) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [NET WORK](https://open.spotify.com/album/5UCQvtdUxmc5C5H1ltS7ih) | 2:48 |
 | 73 | [Sweden Freestyle](https://open.spotify.com/track/1zcrrLJQERrIpOE1p5gMnH) | [Jawnino](https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj) | [Sweden Freestyle](https://open.spotify.com/album/66m9mWqmRcrctaBjtRavxS) | 1:27 |
 | 74 | [Don't Miss Me Too Much](https://open.spotify.com/track/3R7xljFrixbqNXejpTtEtQ) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [OI!](https://open.spotify.com/album/5STEWFVqkwcmBw6R1g38SN) | 1:55 |
-| 75 | [Flashing Lights](https://open.spotify.com/track/7qw0tMaD5B70EdAAhTox5H) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Flashing Lights](https://open.spotify.com/album/5lWFlqVoxnFc4sIUq3jvnn) | 2:22 |
+| 75 | [FLASHING LIGHTS](https://open.spotify.com/track/7qw0tMaD5B70EdAAhTox5H) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [FLASHING LIGHTS](https://open.spotify.com/album/5lWFlqVoxnFc4sIUq3jvnn) | 2:22 |
 | 76 | [Where You Been \(feat\. Len\)](https://open.spotify.com/track/0XvmJxkm6NCCOM5PYgYBSs) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Where You Been \(feat\. Len\)](https://open.spotify.com/album/3IHvjKxvKVbXLMzGNbmLa1) | 2:26 |
 | 77 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
 | 78 | [TAKE YO PANTIES OFF \(ft\. George Riley\)](https://open.spotify.com/track/1fKq4sqg3a2t2Fhb3GUzAb) | [HiTech](https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [TAKE YO PANTIES OFF \(ft\. George Riley\)](https://open.spotify.com/album/40EulA3eN2C0i96uiLi16Q) | 2:01 |

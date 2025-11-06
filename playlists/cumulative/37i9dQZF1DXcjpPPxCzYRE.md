@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-447 songs - 1 day 1 hr 34 min
+448 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [My Ideal](https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [My Ideal](https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4) | 4:43 | 2025-07-31 |  |
 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-02-08 | 2024-03-05 |
 | [Mándame una señal](https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Mándame una señal](https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r) | 4:20 | 2025-06-02 | 2025-07-19 |
-| [nada que hacer](https://open.spotify.com/track/19NWJQ7pBUTeJ61IwHrSi0) | [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [nada que hacer](https://open.spotify.com/album/1roLXbhc1r9dHh2rmM4Jtd) | 3:45 | 2025-10-24 |  |
+| [nada que hacer](https://open.spotify.com/track/19NWJQ7pBUTeJ61IwHrSi0) | [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [nada que hacer](https://open.spotify.com/album/1roLXbhc1r9dHh2rmM4Jtd) | 3:45 | 2025-10-24 | 2025-11-06 |
 | [Naranja Paraíso](https://open.spotify.com/track/2IMlhZ6Sxse3z7ghzRO7qc) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Naranja Paraíso](https://open.spotify.com/album/60pnmUd6TxVl3cABofrNFI) | 4:18 | 2023-06-09 | 2025-08-01 |
 | [Need The Sun To Break](https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:44 | 2022-11-11 |  |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-23 | 2024-09-25 |
@@ -351,6 +351,7 @@
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-15 | 2024-12-24 |
 | [Saberse Definir](https://open.spotify.com/track/6RmjhswhS9rau9WJbRBYyF) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Saberse Definir](https://open.spotify.com/album/5EpaPoqJvSDNNaoyW9zTcm) | 4:22 | 2025-10-09 |  |
 | [Sanadoras Voluntades](https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Sanadoras Voluntades](https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa) | 2:44 | 2024-04-11 |  |
+| [santo el cielo \(q brilla x nós\)](https://open.spotify.com/track/7bTlEyHjDXbsryF1V1ciRn) | [diego vega](https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [santo el cielo \(q brilla x nós\)](https://open.spotify.com/album/5bN7LBQG2NSeXuHacVzHH0) | 3:06 | 2025-10-30 |  |
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2022-11-11 | 2023-06-10 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-11-11 | 2023-03-18 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 | 2024-05-03 |

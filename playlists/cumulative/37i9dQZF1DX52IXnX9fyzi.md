@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-537 songs - 23 hr 11 min
+540 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Moving on](https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Moving on](https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7) | 2:52 | 2024-05-15 |  |
 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 | 2024-04-15 |  |
 | [My Affliction](https://open.spotify.com/track/49bBnHT2FcuusDAaIfZVLC) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [My Affliction](https://open.spotify.com/album/7mmt3L0Tva5TBR1gJ3fbtY) | 2:19 | 2022-12-22 | 2025-04-05 |
+| [My Only Love](https://open.spotify.com/track/1z49c3xyRnIJ4NyFJlZWJD) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [My Only Love](https://open.spotify.com/album/0Er2kXA6xGLESzdRb5tfZz) | 2:26 | 2025-11-05 |  |
 | [Myrdal\-Flam](https://open.spotify.com/track/7pwOwDFqgz7K8nvka7UCx0) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Myrdal\-Flam](https://open.spotify.com/album/4u6qWwxYpre7Ln3upJ0fwX) | 1:58 | 2022-08-03 | 2024-02-03 |
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2022-04-14 | 2022-05-27 |
 | [Mélange](https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z) | [Helena Roche](https://open.spotify.com/artist/5EJ97hGYe8LfBXYvX2Rfvt) | [Mélange](https://open.spotify.com/album/1p11b4Y3nK9bHNpLfiuC0x) | 1:55 | 2022-04-14 | 2024-02-03 |
@@ -491,6 +492,7 @@
 | [Unfinished](https://open.spotify.com/track/5WOo4d8DeMEBPLdIN3sMiX) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Unfinished](https://open.spotify.com/album/5SwuDGKMqebn7tRnrNQPKg) | 2:21 | 2025-01-22 |  |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-04-14 | 2024-03-05 |
 | [Valina](https://open.spotify.com/track/33ehnplgv1h0aF6rY5uHfe) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Valina](https://open.spotify.com/album/64CPVdeduyZ7GH9frJz60u) | 2:37 | 2024-02-14 |  |
+| [valse de passage](https://open.spotify.com/track/6P8huUjNxF8I3c4eiqbgy7) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [valse de passage](https://open.spotify.com/album/1hmkduNYa6PJkHZ4lPZNcN) | 2:31 | 2025-11-05 |  |
 | [Valse Mélancolie](https://open.spotify.com/track/47L9KRq0WRPYiNs4oeHyFs) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Valse Mélancolie](https://open.spotify.com/album/0vJoclAstkRCim3ou4KEzj) | 3:46 | 2022-04-14 | 2022-10-27 |
 | [Valse nocturne](https://open.spotify.com/track/1KP0DByPauicPF28zb7FMe) | [Guillaume Poncelet](https://open.spotify.com/artist/1tchnux34dr1K8VevCDxPn) | [Haven](https://open.spotify.com/album/1hduHHbXesrfvi8aRCQZ64) | 4:25 | 2022-04-27 | 2022-09-15 |
 | [Van Gogh](https://open.spotify.com/track/7x8jYPX2xdHnm3m8Qke81u) | [Sophie Wendel](https://open.spotify.com/artist/0H6L0sikl86jo2Rpq6kVMZ) | [Van Gogh](https://open.spotify.com/album/5q7aRBlunda6oUEoq5fqQ3) | 3:06 | 2022-04-14 | 2022-09-15 |
@@ -540,6 +542,7 @@
 | [You](https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [You](https://open.spotify.com/album/05ivnxOIaNNAj3zBFFNnpO) | 2:25 | 2023-10-04 |  |
 | [You are the Dawn](https://open.spotify.com/track/4m6BNOOeufJeAElDXDzTrC) | [Nils Holst](https://open.spotify.com/artist/27z0XKKaGHO2Td9eF2lSw2) | [You are the Dawn](https://open.spotify.com/album/08qNZ9PVd4nQZ8zNWudeTA) | 2:01 | 2024-03-04 |  |
 | [You Name It](https://open.spotify.com/track/4eFAsz4mMrJiFRGqgghYPj) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Day](https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM) | 7:43 | 2024-04-03 |  |
+| [Your Dear Letter](https://open.spotify.com/track/0HkRie6VU0dsNf2nCBTnQA) | [Clara Cummins](https://open.spotify.com/artist/7BkqDUSYVXw22jeAJ1ImrJ) | [Your Dear Letter](https://open.spotify.com/album/1N68EK8VdAboywj65G2oi1) | 3:03 | 2025-11-05 |  |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2022-04-14 | 2024-02-15 |
 | [Your Light](https://open.spotify.com/track/5auhyJ35k72qOdy0ETbHEL) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Light](https://open.spotify.com/album/2WTS9IvvLY8JmI8ffkq4e5) | 2:59 | 2025-05-13 |  |
 | [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 | 2024-11-12 |  |

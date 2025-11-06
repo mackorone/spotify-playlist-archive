@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3xsfTJb3Nxow9MaAkfbO2f"
+      },
+      "artists": [
+        {
+          "name": "Lotus Mind",
+          "url": "https://open.spotify.com/artist/4WJQ14cSIRntdUhIbMZ6vh"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181624,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/559FqeO9I9CRpClLNX7xp7"
+    },
+    {
+      "album": {
         "name": "Tibetan Bowls",
         "url": "https://open.spotify.com/album/3TMvm79PL70U27YH1ExMXE"
       },
@@ -992,6 +1010,24 @@
       "duration_ms": 840000,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1CxcMYB5hP79FQRHwP0GcM"
+    },
+    {
+      "album": {
+        "name": "Resonant Ether",
+        "url": "https://open.spotify.com/album/66su6X8NxmomYKv66RN8qA"
+      },
+      "artists": [
+        {
+          "name": "Aureven",
+          "url": "https://open.spotify.com/artist/4YODCeoZBJzlwkh951pbDg"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126037,
+      "name": "Resonant Ether",
+      "url": "https://open.spotify.com/track/00VQUhS3pVqJH2gMeorUCd"
     },
     {
       "album": {

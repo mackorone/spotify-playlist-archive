@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 329364,
+  "num_followers": 329407,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAAB3QOcgWbtlEDVCEMFd2KlH",
+  "snapshot_id": "aQlCAAAAAABEfeV8I4Sjmuj4KsIllYvx",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drunk Right Now (Na Na Na) with Akon",
-        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 198660,
-      "name": "Drunk Right Now (Na Na Na) with Akon",
-      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
+      "duration_ms": 188493,
+      "name": "Hypnotized (feat. Akon)",
+      "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
     },
     {
       "added_at": null,
@@ -327,22 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+        "name": "Drunk Right Now (Na Na Na) with Akon",
+        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
       },
       "artists": [
         {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Hypnotized (feat. Akon)",
-      "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
+      "duration_ms": 198660,
+      "name": "Drunk Right Now (Na Na Na) with Akon",
+      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colby O",
-        "url": "https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3"
-      },
-      "artists": [
-        {
-          "name": "Colby O'Donis",
-          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Curtis",
         "url": "https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 223506,
       "name": "I'll Still Kill",
       "url": "https://open.spotify.com/track/0XV3lm3ZxKUr6FiWVdJuyk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colby O",
+        "url": "https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3"
+      },
+      "artists": [
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ"
     },
     {
       "added_at": null,

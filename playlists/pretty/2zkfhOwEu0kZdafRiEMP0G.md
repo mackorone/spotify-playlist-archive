@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 33 songs - 2 hr 23 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,11 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 31 | [The Challenge](https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:21 |
 | 32 | [Her Embrace](https://open.spotify.com/track/1wIzJvTTrg1LhuYR54BQ4y) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [In The Light Ensemble](https://open.spotify.com/artist/1WD3T0MmoymGX68JUOZUaD) | [In the Light: A Faustian Tale \(Highlights from the World Premiere Studio Cast Recording\)](https://open.spotify.com/album/4HtJ1YiZQlLUtmRaOJj11N) | 3:35 |
 | 33 | [Guns and Ships](https://open.spotify.com/track/7m9XR7FquXLP1FewdAcNS9) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 2:07 |
+| 34 | [It's Like Poetry](https://open.spotify.com/track/13NbMyCBz3TsENTQIgI3RO) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [It's Like Poetry](https://open.spotify.com/album/2E3RkVfAGuFlikwcYLPSFC) | 2:31 |
+| 35 | [Broken Heart](https://open.spotify.com/track/1hNiqmCEOozAghYTQEbQH6) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Broken Heart](https://open.spotify.com/album/6bc1hlrJy9oULH5LnYNkpv) | 3:27 |
+| 36 | [Master and Apprentice](https://open.spotify.com/track/1fUfmJmdubIkIBn2yIctbi) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Master and Apprentice](https://open.spotify.com/album/686otqGNkQF90lL7Ok3GGQ) | 2:13 |
+| 37 | [Without a Tribe](https://open.spotify.com/track/1j6P0usrnbCDKNMvocxgxq) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Without a Tribe](https://open.spotify.com/album/5PLBQ0CHYtWK82jCyquCvb) | 2:14 |
+| 38 | [How Liberty Dies](https://open.spotify.com/track/3JZw17iEok1bdXdmny1Tco) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [How Liberty Dies](https://open.spotify.com/album/6B8JOR5XGQ6X0PyQkqHWP4) | 2:13 |
+| 39 | [Something To Believe In](https://open.spotify.com/track/4kin4clo4ALSnwb33SYsdE) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2eeKB2KD7VwbWtcovqLzpS) | 3:31 |
 
-Snapshot ID: `AAAGTHlTZ7qS/C1pn1nhznqPjLzgb8TW`
+Snapshot ID: `AAAGUoMPnpGCe5fhULc4737nATdKHM0T`

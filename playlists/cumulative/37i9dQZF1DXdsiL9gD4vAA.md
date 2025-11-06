@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-216 songs - 19 hr 14 min
+217 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aasman](https://open.spotify.com/track/4UoghtpFglvrv1UwOiYiz3) | [Deepak Pandit](https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Aasman](https://open.spotify.com/album/7McEMB3Dpdx5aq1vv9GuVg) | 6:24 | 2025-08-08 |  |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2024-02-07 | 2024-04-19 |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/5UlX0IDXTIRSjxoKwA7hua) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log](https://open.spotify.com/album/6GQxHAADW2hxsE4HU10REy) | 4:47 | 2024-04-18 |  |
+| [Ab Chhalakte Hue \(From "Bhoomi 2025"\)](https://open.spotify.com/track/4Ys3cMRAqJDL4XFI3KcTiV) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ali Ahmad Jalili](https://open.spotify.com/artist/18APVUaqAQUzCtPN6xoFJL) | [Ab Chhalakte Hue \(From "Bhoomi 2025"\)](https://open.spotify.com/album/24c4qPeifmKRda1ZMoKuoB) | 5:48 | 2025-11-04 |  |
 | [Ab Ke Jo Baat Hui](https://open.spotify.com/track/2X4UCsahzz3JwvBbkBGf0a) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0GQaL3F3EnwP5chmApJMA9) | 7:08 | 2023-07-25 | 2025-01-01 |
 | [Ab Ke Jo Baat Hui](https://open.spotify.com/track/4AzCXSgvjUiEbkr7mBvpNO) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0AzQXg1jQISWHBnF4SHg3d) | 7:08 | 2023-12-12 | 2024-04-19 |
 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 | 2024-10-25 |  |
@@ -131,7 +132,7 @@
 | [Koi Yeh Kaise Bataye](https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 3:17 | 2021-12-01 | 2023-05-16 |
 | [Kuch Aise Aakar Gira Hai](https://open.spotify.com/track/4BO6XJ59xrkHMoqjHqedvs) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:23 | 2023-09-14 | 2024-04-19 |
 | [Kuch Aise Aakar Gira Hai](https://open.spotify.com/track/7b4T76KOVCaEG2HJNdm9fW) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.1](https://open.spotify.com/album/5EaGDGV9pZhrduNvpxLUoy) | 0:23 | 2024-04-18 | 2025-01-01 |
-| [Kya Main Ik Harf](https://open.spotify.com/track/1EkrybycogZ3e00XgdmgC2) | [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Kya Main Ik Harf](https://open.spotify.com/album/2Xg8iGHNFYZ19s7KIRFsNK) | 3:51 | 2025-09-15 |  |
+| [Kya Main Ik Harf](https://open.spotify.com/track/1EkrybycogZ3e00XgdmgC2) | [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Kya Main Ik Harf](https://open.spotify.com/album/2Xg8iGHNFYZ19s7KIRFsNK) | 3:51 | 2025-09-15 | 2025-11-06 |
 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 | 2023-07-27 |  |
 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 | 2024-02-07 |  |
 | [Main Khayal Hoon](https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD) | [Main Khayal Hoon](https://open.spotify.com/album/2B5fP4yYesVBh1OeHWGld2) | 5:25 | 2024-08-29 | 2025-01-01 |

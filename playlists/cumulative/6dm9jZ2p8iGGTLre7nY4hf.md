@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-487 songs - 1 day 3 hr 30 min
+488 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Leave Me \(Please Don't Leave Me\)](https://open.spotify.com/track/2VuE7OIkz0UiqsRuE7u919) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Leave Me \(Please Don't Leave Me\)](https://open.spotify.com/album/6ek7FcUEtaVb6u3pTtXSIl) | 3:23 | 2025-10-02 |  |
 | [Let Him Go](https://open.spotify.com/track/2Otb6lOHjFXvr0PCFMCsAG) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [They never leave their wives](https://open.spotify.com/album/6HmkYZsG58mPBFenb27ank) | 2:44 | 2023-09-15 | 2025-03-14 |
 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 | 2023-09-15 | 2025-03-14 |
+| [level out](https://open.spotify.com/track/6KmdpMArS0ad5meH19KSws) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [level out](https://open.spotify.com/album/3FjMfYxndHPZhkFpY0lRHn) | 2:56 | 2025-11-05 |  |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2023-09-15 | 2025-03-14 |
 | [Lies \(they never leave their wives\)](https://open.spotify.com/track/68hknrM2vXCWsZjwsS7S0B) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Lies \(they never leave their wives\)](https://open.spotify.com/album/12s9g4tqOZnj1OtGSnMZwy) | 3:26 | 2023-09-15 | 2025-03-14 |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2025-03-26 |  |

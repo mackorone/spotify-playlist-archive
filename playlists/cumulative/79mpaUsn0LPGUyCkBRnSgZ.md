@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-955 songs - 2 day 15 hr 6 min
+957 songs - 2 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,8 @@
 | [Awake on foreign shores](https://open.spotify.com/track/04jsvZ48NlfZPVGXks5kiV) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [New History Warfare Vol\. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI) | 1:30 | 2023-12-16 | 2024-10-11 |
 | [Baby Teeth](https://open.spotify.com/track/0rMUVKJNVdtvfv7X8fmyJQ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Call Of The Wild](https://open.spotify.com/album/04lnbWH0D5eo1RaC2s4uXj) | 8:02 | 2023-12-23 |  |
 | [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 | 2025-08-15 | 2025-08-20 |
+| [Bach, JS: Sonata for Solo Violin No\. 1 in G Minor, BWV 1001: I\. Adagio](https://open.spotify.com/track/3sf6l4HQPrR3lNvaR42Sgy) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Bach: Solo Violin Sonatas](https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj) | 4:27 | 2025-11-05 |  |
+| [Bach, JS: Violin Concerto No\. 2 in E Major, BWV 1042: I\. Allegro](https://open.spotify.com/track/5d4AX3OJIKLgh5sgsb4ikA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Violin Concertos & Double Concerto](https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR) | 9:02 | 2025-11-05 |  |
 | [Back Together](https://open.spotify.com/track/49Y3ZGN5WVjEpKxLO3aywt) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The A&R EP](https://open.spotify.com/album/06hK29dL8feB8al6oMkaa2) | 3:37 | 2024-02-15 |  |
 | [Bad Touch Example](https://open.spotify.com/track/1NHnvlyOUgADYNmdJxaBIQ) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:26 | 2023-03-24 |  |
 | [Bambi](https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:37 | 2023-11-03 |  |

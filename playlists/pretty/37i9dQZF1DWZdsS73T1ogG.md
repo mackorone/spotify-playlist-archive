@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: De La Rose & Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,979 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,086 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 5 | [BOTAPAFO](https://open.spotify.com/track/6MNmlP5YeBIRleseep005A) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 1:58 |
 | 6 | [DIOMEDEZ](https://open.spotify.com/track/6qDTm2QbRSLlSmaUSJE6bF) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [DIOMEDEZ](https://open.spotify.com/album/09RQNQs0rydAfGFXZo53qH) | 3:18 |
 | 7 | [PRIMERA CLASE](https://open.spotify.com/track/411DTYa3rdOors6tscYDSk) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO) | [LA DIRTY HOUSE](https://open.spotify.com/album/0H8xh634nCrEwSpxfxFeFA) | 3:13 |
-| 8 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:56 |
+| 8 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:57 |
 | 9 | [ScattPack](https://open.spotify.com/track/2l8uaEndVVJ6wlXgv4qHYA) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [ScattPack](https://open.spotify.com/album/2ZIICLtPZ2LEgg2rqMPoN4) | 2:26 |
 | 10 | [Likey Likey](https://open.spotify.com/track/7xRvTyw9hlpyLtQZ16K0PU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Likey Likey](https://open.spotify.com/album/1AuXhPCpfvNszFxOinyO6E) | 2:25 |
 | 11 | [VEN ACÁ](https://open.spotify.com/track/67VOcsWPZ38BXFL2NnJWs6) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [VEN ACÁ](https://open.spotify.com/album/28opQKCs6mjHJ7egVgMj60) | 2:14 |

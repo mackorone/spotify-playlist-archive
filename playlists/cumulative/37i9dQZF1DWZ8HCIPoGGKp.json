@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Dreamy Green Noise",
+        "url": "https://open.spotify.com/album/3yeCpbFI2P43Cxs51HHHSB"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dreammaker",
+          "url": "https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY"
+        }
+      ],
+      "date_added": "2025-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143624,
+      "name": "Dreamy Green Noise",
+      "url": "https://open.spotify.com/track/2dk6I3hpHFDV51h1FA772V"
+    },
+    {
+      "album": {
         "name": "Fall Asleep Green Noise",
         "url": "https://open.spotify.com/album/3e5IgyFI6fr04GbUnptvFO"
       },
@@ -4812,7 +4830,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 172000,
       "name": "River Green Noise",
       "url": "https://open.spotify.com/track/4bU9LcQ6jRhTImPhpnn2Yu"

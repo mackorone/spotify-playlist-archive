@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 52222,
+  "num_followers": 52276,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Luvaluvah",
-      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "May 10th",
         "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 166530,
       "name": "May 10th",
       "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Luvaluvah",
+      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Angelina",
-        "url": "https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Dive In",
         "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "Love & Hustle",
+        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 180612,
+      "name": "Princess Treatment",
+      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "Love & Hustle",
-        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 180612,
-      "name": "Princess Treatment",
-      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -959,6 +959,26 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
+        "name": "Namipa",
+        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 141521,
+      "name": "Namipa",
+      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
         "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
         "url": "https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 185739,
       "name": "Vex For U (feat. Fireboy DML & Ayo Maff)",
       "url": "https://open.spotify.com/track/6wN5G9LhuljafQRHzb4K6s"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
-        "name": "Namipa",
-        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 141521,
-      "name": "Namipa",
-      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "SABALI",
-        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 210332,
-      "name": "Mad Oh",
-      "url": "https://open.spotify.com/track/29cqKwAx1roM3IrgfNMYL6"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "O Mahiya",
         "url": "https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 174411,
       "name": "O Mahiya",
       "url": "https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "SABALI",
+        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 210332,
+      "name": "Mad Oh",
+      "url": "https://open.spotify.com/track/29cqKwAx1roM3IrgfNMYL6"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "W2Y",
-        "url": "https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Way2Yung",
-      "url": "https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Yes I Do",
         "url": "https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 173333,
       "name": "Yes I Do",
       "url": "https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "W2Y",
+        "url": "https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Way2Yung",
+      "url": "https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw"
     },
     {
       "added_at": "2025-10-24 09:52:03",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-10-24 09:52:03",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/6AwJzAvfgQPIXuqdtO1zx3"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 130019,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/5pEEoU2pX1LrlXh51WGIyS"
-    },
-    {
-      "added_at": "2025-10-24 09:52:03",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 164026,
       "name": "Chances",
       "url": "https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd"
+    },
+    {
+      "added_at": "2025-10-24 09:52:03",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/6AwJzAvfgQPIXuqdtO1zx3"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 130019,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/5pEEoU2pX1LrlXh51WGIyS"
     },
     {
       "added_at": "2025-10-24 09:52:03",

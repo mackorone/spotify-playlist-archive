@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Siamese Youth, Michael Oakley, PRIZM and more",
+  "description": "With Siamese Youth, Michael Oakley, Gunship and more",
   "name": "The Midnight Radio",
   "tracks": [
     {
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 297272,
       "name": "Alice",
       "url": "https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ"
@@ -3406,6 +3406,28 @@
       "duration_ms": 230813,
       "name": "Bottle It Up",
       "url": "https://open.spotify.com/track/72nWCCcSliRTzYDuQ763DI"
+    },
+    {
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/2RDk1bPISq5hqh7uCDQgKw"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Kids",
+          "url": "https://open.spotify.com/artist/5swU5DPjch0LugnGOAmjgD"
+        },
+        {
+          "name": "Kidburn",
+          "url": "https://open.spotify.com/artist/26ULKfy6zRYeBbsryBZiFk"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/5V9DErUk1hmKKcE0l1qh13"
     },
     {
       "album": {
@@ -5700,7 +5722,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 222315,
       "name": "Dangerous (feat. PRIZM)",
       "url": "https://open.spotify.com/track/5yA7lbHGaER16zBVxyD5ET"
@@ -5928,7 +5950,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 324018,
       "name": "Days of Thunder",
       "url": "https://open.spotify.com/track/28uitw2AXQQIUHvSJW9qy6"
@@ -8896,7 +8918,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 339400,
       "name": "Fatal Obsession (feat. Jupiter Winter)",
       "url": "https://open.spotify.com/track/3GLhmBjqctLj3rP6g8KAvo"
@@ -11158,7 +11180,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 217259,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/51bHjrZNPhtRl0rQCRokwO"
@@ -16762,7 +16784,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 132991,
       "name": "Moon Kiss",
       "url": "https://open.spotify.com/track/0cTAWy8cAzSDFM4BueQfht"
@@ -18580,7 +18602,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 262500,
       "name": "Nothing Beats Like A Heart",
       "url": "https://open.spotify.com/track/3luyxUZhvDs0qLwcIyzj4Y"
@@ -25018,7 +25040,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 186870,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4PqmwtVKncqMsVRm0I3ku4"
@@ -30182,7 +30204,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 274905,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2OVUeLRtxnuyl8whgj840X"

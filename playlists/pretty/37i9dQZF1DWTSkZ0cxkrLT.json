@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 428745,
+  "num_followers": 428747,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-10-24 13:18:02",
       "album": {
-        "name": "b\u00fascame otra vez",
-        "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "b\u00fascame otra vez",
-      "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
-    },
-    {
-      "added_at": "2025-10-24 13:18:02",
-      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
+    },
+    {
+      "added_at": "2025-10-24 13:18:02",
+      "album": {
+        "name": "b\u00fascame otra vez",
+        "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "b\u00fascame otra vez",
+      "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
     },
     {
       "added_at": "2025-10-24 13:18:02",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-10-24 13:18:02",
       "album": {
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2025-10-24 13:18:02",
+      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 264053,
       "name": "Cu\u00eddame",
       "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
-    },
-    {
-      "added_at": "2025-10-24 13:18:02",
-      "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2025-10-24 13:18:02",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-24 13:18:02",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 291008,
-      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
-    },
-    {
-      "added_at": "2025-10-24 13:18:02",
-      "album": {
         "name": "[PAULA] Compilaci\u00f3n VOL 1.",
         "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 66666,
       "name": "Lo que elegiste.",
       "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
+    },
+    {
+      "added_at": "2025-10-24 13:18:02",
+      "album": {
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 291008,
+      "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
     },
     {
       "added_at": "2025-10-24 13:18:02",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-10-24 13:18:02",
       "album": {
-        "name": "Artificio",
-        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Tan temperamental",
-      "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
-    },
-    {
-      "added_at": "2025-10-24 13:18:02",
-      "album": {
         "name": "Modelo Para Armar",
         "url": "https://open.spotify.com/album/4mo9qZYKGJK7Nk2vJr5age"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 260906,
       "name": "Las Cosas Tienen Movimiento",
       "url": "https://open.spotify.com/track/35CG9WjAKJSvUaWRaJr5um"
+    },
+    {
+      "added_at": "2025-10-24 13:18:02",
+      "album": {
+        "name": "Artificio",
+        "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Tan temperamental",
+      "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
     },
     {
       "added_at": "2025-10-24 13:18:02",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-10-24 13:18:02",
       "album": {
+        "name": "Tu Pirata Soy Yo",
+        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Tu Pirata Soy Yo",
+      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
+    },
+    {
+      "added_at": "2025-10-24 13:18:02",
+      "album": {
         "name": "Dos Hemisferios",
         "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2025-10-24 13:18:02",
-      "album": {
-        "name": "Tu Pirata Soy Yo",
-        "url": "https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Tu Pirata Soy Yo",
-      "url": "https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF"
     },
     {
       "added_at": "2025-10-24 13:18:02",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2025-10-24 13:18:02",
       "album": {
+        "name": "Es Broma, En Serio",
+        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Es Broma, En Serio",
+      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
+    },
+    {
+      "added_at": "2025-10-24 13:18:02",
+      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/5GYUFA7GNOu4JfVbXUBO01"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 194906,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/7ontkt96zdqa5SOxdA8xFu"
-    },
-    {
-      "added_at": "2025-10-24 13:18:02",
-      "album": {
-        "name": "Puedo Imaginar",
-        "url": "https://open.spotify.com/album/0oq5McpgKrsCtqtTXqkhsZ"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "San Pedro Bonfim",
-          "url": "https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp"
-        }
-      ],
-      "duration_ms": 288341,
-      "name": "Puedo Imaginar",
-      "url": "https://open.spotify.com/track/2unJSS010j51d6dIaTsSrw"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

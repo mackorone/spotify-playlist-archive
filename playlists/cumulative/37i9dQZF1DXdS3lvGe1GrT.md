@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Beryl
 
-1,927 songs - 4 day 19 hr 7 min
+1,931 songs - 4 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Bitching](https://open.spotify.com/track/4RD4IYglfizYxWjcwJisLU) | [Mirabai Kukathas](https://open.spotify.com/artist/2aZdbP5sayDnR2VbxXb5t8) | [Bitching](https://open.spotify.com/album/7nHKLJuNT4t7qogb9oB59G) | 1:23 | 2023-05-24 | 2023-07-13 |
 | [Bite The Bridle](https://open.spotify.com/track/0JXpD5lU9n90gDarg4cmfO) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Yellow Roses](https://open.spotify.com/album/1lfS72EEXZ2Pz1OIMXdRi0) | 4:16 | 2024-05-08 | 2024-07-11 |
 | [Bitemark](https://open.spotify.com/track/3NE4BCia78MnKm46E9c3Rz) | [Jane Wood](https://open.spotify.com/artist/55pKqOQv3K9np3u3kWhEeR) | [Bitemark](https://open.spotify.com/album/2v7koMf96bG21Rs4pP6CLb) | 3:44 | 2023-06-21 | 2023-08-31 |
+| [Biting On The Hand](https://open.spotify.com/track/0T8SoeiIuVJdolrjISNVAk) | [Clare Perrott](https://open.spotify.com/artist/0NtVBmAaVZ0UDsofolIhel) | [Biting On The Hand](https://open.spotify.com/album/24x7mXYg32zVbRRJPtgasA) | 3:25 | 2025-11-05 |  |
 | [Black & Blue](https://open.spotify.com/track/4mOLUW7Im4QEvBGA3dfbNq) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 3:00 | 2022-05-25 | 2022-08-25 |
 | [Black Is The Color of My True Love's Hair](https://open.spotify.com/track/2VBi7qN5WpRQNXWCcrpGEP) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [With Strings](https://open.spotify.com/album/6wMWkfSxjbNK9dejWAc9n5) | 3:57 | 2023-11-15 | 2023-12-11 |
 | [Black Lake](https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Black Lake](https://open.spotify.com/album/3rAvZ5XEICgTeuyid3dl87) | 2:56 | 2022-05-25 | 2022-07-21 |
@@ -306,6 +307,7 @@
 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 | 2025-07-09 | 2025-10-30 |
 | [Chapters](https://open.spotify.com/track/0pKGktONBSFB7faPMXMcXf) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Chapters](https://open.spotify.com/album/266ym29rkt2PNY7rA3BSQs) | 3:14 | 2023-08-30 | 2023-11-11 |
 | [Chardonnay](https://open.spotify.com/track/35XWfqYojCyXpNEeB5TbId) | [The Namby Pamby](https://open.spotify.com/artist/0bX0QBtGt7PyHCEdZad1Sz) | [Marketplace](https://open.spotify.com/album/4FhY7u29l7rxgK1jUvBwib) | 3:08 | 2022-11-23 | 2024-01-11 |
+| [Charlie](https://open.spotify.com/track/4E4nz30lbjUSweb0XMsD8H) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Charlie](https://open.spotify.com/album/6iVTY7ss3xFXf4mTswtvJq) | 4:07 | 2025-11-05 |  |
 | [charlie](https://open.spotify.com/track/7KSNuSwVTXM624F82het3B) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [blue angels](https://open.spotify.com/album/5sgqFO94iFfjpRc4rA54Eh) | 3:06 | 2025-06-04 | 2025-09-04 |
 | [cheap wine](https://open.spotify.com/track/2PrTZiDCjE80Ul3GXdBV03) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [tallowood sessions vol.1](https://open.spotify.com/album/2gwlZ2GgmLa2IFLtE7vHuX) | 3:20 | 2025-04-09 | 2025-06-12 |
 | [cheerwine](https://open.spotify.com/track/04YjrBd6KH5nd7xNdZ3XfP) | [chrysalis](https://open.spotify.com/artist/26lpJv38Pa4crAQGNsTTsS) | [dog songs](https://open.spotify.com/album/5XnOusiEmfLnjfvSrsKCGI) | 2:33 | 2025-04-09 | 2025-06-19 |
@@ -382,6 +384,7 @@
 | [Cut and Dry](https://open.spotify.com/track/23FogBuJHB3BB13rOZ908W) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/6nVUrCAmuqzGSU3ioNAlpI) | 3:24 | 2023-04-12 | 2023-05-01 |
 | [Cut and Dry](https://open.spotify.com/track/4cbfwZbbQ8n5uLwg4TI8vu) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Could Have Done Anything](https://open.spotify.com/album/7fYSpC2LvK5Xode0pWSpUB) | 3:24 | 2023-05-10 | 2023-06-08 |
 | [Cut and Dry](https://open.spotify.com/track/57QCpNCSAWW8XxZeETOXKd) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Cut and Dry](https://open.spotify.com/album/1plq63GCmfFINEtn9aCUbP) | 3:24 | 2023-04-12 | 2023-05-15 |
+| [Cut Wires](https://open.spotify.com/track/1KE73nFUKCyiISe0Rh83kj) | [Caroline Meade](https://open.spotify.com/artist/5jGbyepZRz1wngPcDKqfrd) | [Something's Burning](https://open.spotify.com/album/76lyYvA2wjsY7DrSY9Cung) | 3:15 | 2025-11-05 |  |
 | [Cycle](https://open.spotify.com/track/6qD6zcjxBsVQotCS2uquHQ) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj), [Horace Bray](https://open.spotify.com/artist/2jIZEoSCmhxiHyA1rMc01u) | [Cycle](https://open.spotify.com/album/5HKaMVfEnGNYJVKrRHo8NZ) | 3:45 | 2022-05-25 | 2022-08-04 |
 | [Cycling](https://open.spotify.com/track/3wT3a0bxTdVbZMfqnOIWO4) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [Blood Ties](https://open.spotify.com/album/6d0woKMlcDuN894rnmqvH4) | 4:21 | 2025-05-07 | 2025-07-24 |
 | [cypress](https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [cypress](https://open.spotify.com/album/34A3HZas24PfzMckyhVKrt) | 4:32 | 2025-05-14 | 2025-07-24 |
@@ -1129,6 +1132,7 @@
 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 | 2022-11-09 | 2022-12-01 |
 | [Merida](https://open.spotify.com/track/6rsdvabOWtm7ZnqiTpqo2W) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Merida](https://open.spotify.com/album/4cI86sAuUiQeVCGomCJHI9) | 3:43 | 2025-07-02 | 2025-10-30 |
 | [Mess In Your Eyes](https://open.spotify.com/track/4MD6izirfGgKzISrvAQToR) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Mess In Your Eyes // Vultures](https://open.spotify.com/album/7oC4ROmKGWdEmFSZmAPyeB) | 3:51 | 2025-07-23 |  |
+| [Meteors](https://open.spotify.com/track/3pXWiiXa85mNEkQPWdYxhs) | [Donna Thompson](https://open.spotify.com/artist/1laWT7gVU1sC5TcVVyHone) | [Meteors](https://open.spotify.com/album/01m5szEnjtUGLKsHbpv358) | 2:25 | 2025-11-05 |  |
 | [Mexico](https://open.spotify.com/track/7q68vzFRLwyWde8xKCDhJd) | [Callan Brown](https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu) | [Mexico](https://open.spotify.com/album/3NDzbsul6n6TAEBNDLqbVL) | 3:06 | 2024-06-26 | 2024-10-10 |
 | [Mhm Okay](https://open.spotify.com/track/7x94AlpzNuSa8oBUp96Cn8) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Mhm Okay](https://open.spotify.com/album/2UBcowpWLqB3KubRglWjBL) | 4:33 | 2023-05-10 | 2023-06-29 |
 | [Michelle](https://open.spotify.com/track/5JLxLpp0XM5UxI7Aq2ApRD) | [Tish Melton](https://open.spotify.com/artist/4r0G11Ag5P3qXSaIlskMvW) | [Michelle](https://open.spotify.com/album/6NXppwCGLyFSRHvxRzlEIo) | 3:45 | 2023-11-08 | 2023-12-11 |

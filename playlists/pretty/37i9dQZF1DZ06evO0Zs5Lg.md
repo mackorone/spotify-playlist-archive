@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,901 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,920 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 14 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 |
 | 15 | [Light Work](https://open.spotify.com/track/2LRLHZKFo7N7diPirNcVjh) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:30 |
 | 16 | [OH SHIT!!!](https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [OH SHIT!!!](https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G) | 3:05 |
-| 17 | [Gone Fishin](https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pants](https://open.spotify.com/artist/3WtAzoVwx7E9AhgLkhrps4) | [Gone Fishin](https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH) | 1:57 |
-| 18 | [Tarzan](https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Tarzan](https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR) | 3:25 |
+| 17 | [Tarzan](https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Tarzan](https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR) | 3:25 |
+| 18 | [Gone Fishin](https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pants](https://open.spotify.com/artist/3WtAzoVwx7E9AhgLkhrps4) | [Gone Fishin](https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH) | 1:57 |
 | 19 | [Andre The Giant](https://open.spotify.com/track/6tiDGVC8HRYf6cdVVRCjox) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:08 |
 | 20 | [Spellbound \(The Beginning\)](https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:16 |
 | 21 | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [All The Colors](https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG) | 3:47 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 40 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 41 | [Cousins](https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cashinova](https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:50 |
 | 42 | [Permission](https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:57 |
-| 43 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 |
-| 44 | [Bawse](https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Survivor's Guilt](https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6) | 3:07 |
+| 43 | [Bawse](https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Survivor's Guilt](https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6) | 3:07 |
+| 44 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 |
 | 45 | [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 |
 | 46 | [Butter \(with Baby Tate\)](https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Butter \(with Baby Tate\)](https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax) | 3:47 |
 | 47 | [Chitty Bang](https://open.spotify.com/track/14EUifm44d6gODebTIEDSn) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi), [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Chitty Bang](https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA) | 3:28 |
 | 48 | [Penny Nickel Dime](https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1) | [Amp Live](https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL), [Anya](https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Headphone Concerto](https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT) | 3:52 |
 | 49 | [Action](https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:36 |
 
-Snapshot ID: `aQfwgAAAAAAV3C9jqUHn1P6srnpTFWZ3`
+Snapshot ID: `aQlCAAAAAADtJsOsGWtlV2qPB4/9JV0C`

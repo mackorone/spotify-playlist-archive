@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Luxembourg.
 
-3,062 songs - 6 day 17 hr 32 min
+3,063 songs - 6 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-02-13 | 2023-02-18 |
 | [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-02-08 | 2024-04-15 |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-15 | 2023-05-27 |
+| [Chabos wissen wer der Babo ist](https://open.spotify.com/track/55M8uEwBvW9VuPjPZJsGnA) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [BABO – DIE HAFTBEFEHL STORY \(Official Soundtrack\)](https://open.spotify.com/album/1BkQ4K6xyfPt4kSfNJ6wpJ) | 2:19 | 2025-11-05 |  |
 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 | 2023-04-30 | 2023-10-14 |
 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 | 2023-10-03 | 2023-10-05 |
 | [Chambre 04](https://open.spotify.com/track/0WouBx1UMK02ZO4br1fgWh) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Attachingboy](https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL) | [Hybride](https://open.spotify.com/album/5KqkXpX9U3tEVKdNJ2MQhw) | 2:09 | 2025-04-08 | 2025-04-11 |
@@ -2760,7 +2761,7 @@
 | [Traitor of the Innocent](https://open.spotify.com/track/0F1nWmyaPLfQ4K3ypBfwv2) | [Aegror](https://open.spotify.com/artist/3EfhASmrHghSWaR7FftZTb) | [Reign of Disease](https://open.spotify.com/album/4QVTzSncEemikmZAAFY1Ev) | 6:04 | 2025-07-04 | 2025-07-06 |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2022-12-03 | 2023-06-16 |
 | [transcendent](https://open.spotify.com/track/6ZteWi8a57gu2RnO3yjY8K) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [transcendent](https://open.spotify.com/album/3jBahezD8L4mE6bv3yRcts) | 2:24 | 2024-05-25 | 2024-05-28 |
-| [Trap House \(feat\. OG Cuicide & Imb Izzy\)](https://open.spotify.com/track/5NXDCGKOoMrqr00T8yptpi) | [Yrkdarapper](https://open.spotify.com/artist/60WIXTX7jzhGJ1XP1YUqQH), [OG Cuicide](https://open.spotify.com/artist/1FcMELPZIGiVE3MgBXyPlA), [IMB Izzy](https://open.spotify.com/artist/6KeDWCdQjwyD3da8VgMNR4) | [Trap House \(feat\. OG Cuicide & Imb Izzy\)](https://open.spotify.com/album/4EDfjZ1M7QWfqXMuFSjTOw) | 3:41 | 2025-11-01 |  |
+| [Trap House \(feat\. OG Cuicide & Imb Izzy\)](https://open.spotify.com/track/5NXDCGKOoMrqr00T8yptpi) | [Yrkdarapper](https://open.spotify.com/artist/60WIXTX7jzhGJ1XP1YUqQH), [OG Cuicide](https://open.spotify.com/artist/1FcMELPZIGiVE3MgBXyPlA), [IMB Izzy](https://open.spotify.com/artist/6KeDWCdQjwyD3da8VgMNR4) | [Trap House \(feat\. OG Cuicide & Imb Izzy\)](https://open.spotify.com/album/4EDfjZ1M7QWfqXMuFSjTOw) | 3:41 | 2025-11-01 | 2025-11-06 |
 | [Traum\_V2](https://open.spotify.com/track/714u8kwDsxE4Jdv5QVmMkt) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Traum\_V2](https://open.spotify.com/album/4eag3eCSJ9p9MLhweWhMdf) | 1:30 | 2023-07-22 | 2023-07-24 |
 | [Treacherous Twins](https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:00 | 2022-11-05 | 2022-11-11 |
 | [Triangle](https://open.spotify.com/track/6OCMokYcMVWaVhBwvBBawn) | [Rubby](https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT) | [Party Phonk](https://open.spotify.com/album/4tpFTM7Ywm5r77kxszPWck) | 1:42 | 2024-05-22 | 2024-06-03 |

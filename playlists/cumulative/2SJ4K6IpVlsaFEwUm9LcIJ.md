@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-794 songs - 1 day 22 hr 41 min
+795 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Lady Blue Eyes](https://open.spotify.com/track/1valXXXGvoolnKX4BbW6ae) | [American Flyer](https://open.spotify.com/artist/2KkFIF79ZjJaNd28LPAtOB) | [American Flyer](https://open.spotify.com/album/3vIOBE6E8vda2ByDObnzjV) | 3:14 | 2025-06-25 | 2025-07-04 |
 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 | 2024-08-08 | 2024-09-08 |
 | [Last Cloud Home](https://open.spotify.com/track/4VX2InnR8V5UvN5pSNTCg4) | [Orange Bicycle](https://open.spotify.com/artist/402ndP5t1fKcS2if8Vw3lD) | [Orange Bicycle](https://open.spotify.com/album/6CRJ3KiM8fPHqhd1k0QTzQ) | 3:05 | 2025-08-24 | 2025-09-11 |
+| [Last Time](https://open.spotify.com/track/3Wvj5QBsofxKCvwqKs9jLh) | [Shungu](https://open.spotify.com/artist/1XIyDif58YyorFor2gNfUF), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Last Time](https://open.spotify.com/album/0VltGG3swfBwkkAAbS4tRa) | 2:26 | 2025-11-05 |  |
 | [Late November](https://open.spotify.com/track/16Y0Ubjxap4dcD5elBeFVJ) | [Sandy Denny](https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ) | [The North Star Grassman And The Ravens \(Remastered\)](https://open.spotify.com/album/6svGCFgSQDt8ooH5x0BrD7) | 4:29 | 2025-02-26 | 2025-03-02 |
 | [Laugh Now \- Re\-Issue](https://open.spotify.com/track/7x2ZsDLoIWvCulm9pJqdtN) | [Little Wings](https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l) | [Magic Wand](https://open.spotify.com/album/2L5aLYeqqcdmPpF6es6XhP) | 4:51 | 2025-04-15 | 2025-05-09 |
 | [Laugh, Laugh](https://open.spotify.com/track/66V3speCvzVe6lUnIezZ0J) | [The Beau Brummels](https://open.spotify.com/artist/4DQj1q0unpi9KF8jO1Wqks) | [Introducing The Beau Brummels](https://open.spotify.com/album/3qWJ6R8Wg3PPCAOToluwPJ) | 2:56 | 2024-10-18 | 2024-11-14 |
@@ -536,7 +537,7 @@
 | [People's Parties](https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:15 | 2025-02-21 | 2025-03-02 |
 | [Pesce Rosso](https://open.spotify.com/track/6QmQiw7NQG4KPaSYjvgsdJ) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Hamra / Red \(Habibi Funk Limited 002\)](https://open.spotify.com/album/3DGLQlAxBPDtsFfb1112NI) | 2:39 | 2024-07-26 | 2024-09-08 |
 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 | 2025-09-19 |  |
-| [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 2:29 | 2025-10-14 |  |
+| [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe), [Advance Base](https://open.spotify.com/artist/4YIMPSc3zZLRwe4Ujaxjce) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 2:29 | 2025-10-14 |  |
 | [Place Where I Go](https://open.spotify.com/track/1ivMAc4gwF8d9mEXFHYcbz) | [Keanu Nelson](https://open.spotify.com/artist/0TUcASMdcppH9mH0PzCpKG) | [Place Where I Go](https://open.spotify.com/album/5AW3X0hzbgB10tZVgk6YMk) | 3:36 | 2025-10-26 |  |
 | [Plans Get Complex](https://open.spotify.com/track/5FEzARoBNBiXHMc0zIwVGY) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:41 | 2024-05-30 | 2024-07-12 |
 | [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 | 2025-08-22 | 2025-09-11 |

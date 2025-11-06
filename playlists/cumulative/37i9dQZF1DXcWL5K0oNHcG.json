@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Sarathy Korwar. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 442113,
       "name": "3454 (thoughts)",
       "url": "https://open.spotify.com/track/5XL10wnNyzuWtlrCrX8wXg"
@@ -2994,6 +2994,24 @@
       "duration_ms": 247286,
       "name": "Beauty & The Bloc",
       "url": "https://open.spotify.com/track/0ZsbE6ZV85uVUugIHAxgKg"
+    },
+    {
+      "album": {
+        "name": "Beauty Doesn't Know What It Looks Like / We Won't Go Searching",
+        "url": "https://open.spotify.com/album/4aeK30hlYgkGq3cro2UR8x"
+      },
+      "artists": [
+        {
+          "name": "Sarathy Korwar",
+          "url": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176003,
+      "name": "Beauty Doesn't Know What It Looks Like",
+      "url": "https://open.spotify.com/track/6F5He29YI85e8MLXVca4JO"
     },
     {
       "album": {
@@ -7758,7 +7776,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 189993,
       "name": "Drive Z",
       "url": "https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45"
@@ -17797,6 +17815,24 @@
     },
     {
       "album": {
+        "name": "Make It Make Sense",
+        "url": "https://open.spotify.com/album/2KL2KR0XhcfcS0golQ8AY8"
+      },
+      "artists": [
+        {
+          "name": "Brintex Collective",
+          "url": "https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345119,
+      "name": "Monson Road",
+      "url": "https://open.spotify.com/track/1ja8uUjSfepMYOPN0kt9pl"
+    },
+    {
+      "album": {
         "name": "Montana",
         "url": "https://open.spotify.com/album/3JoJEaRYQQB31ymbeNilpg"
       },
@@ -18686,6 +18722,24 @@
       "duration_ms": 254642,
       "name": "New Dreams",
       "url": "https://open.spotify.com/track/0aLUSAjoL4NHm6XuqRNzr6"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/6FV3tV80w4WF3MPTUhkGxd"
+      },
+      "artists": [
+        {
+          "name": "Azamiah",
+          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407911,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/1qRP7btviLVpl1fONIMvYt"
     },
     {
       "album": {
@@ -20870,7 +20924,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 240935,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/0yPMvhgfQvXMNsnrF7ScmX"
@@ -27668,7 +27722,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 275480,
       "name": "The Mind's Eye",
       "url": "https://open.spotify.com/track/7gcsYUVLQjfvLkEtaLqC76"
@@ -28576,7 +28630,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 144000,
       "name": "They Call Him El Gato",
       "url": "https://open.spotify.com/track/1zSlF0KD4OOrbfJEIyCHer"
@@ -30250,7 +30304,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 155348,
       "name": "VESPER",
       "url": "https://open.spotify.com/track/14y0d4eiZ6wo3o2t6nTmd5"
@@ -30988,6 +31042,24 @@
       "duration_ms": 264785,
       "name": "We Are One - Saxophone",
       "url": "https://open.spotify.com/track/0YLflG3xqJIOGlB8K92mEn"
+    },
+    {
+      "album": {
+        "name": "Jazz Report from the Hood",
+        "url": "https://open.spotify.com/album/2ys0XCprUDcTOQ0xM2I0mU"
+      },
+      "artists": [
+        {
+          "name": "Omasta",
+          "url": "https://open.spotify.com/artist/1pKSKHYzswJjPo6qLjx1qO"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254670,
+      "name": "We Gonna Make It",
+      "url": "https://open.spotify.com/track/2zCFZsrwN2cMj2ZJ8CXUjP"
     },
     {
       "album": {
@@ -31996,7 +32068,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 266140,
       "name": "Workaholic",
       "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
@@ -32848,6 +32920,24 @@
       "duration_ms": 295722,
       "name": "\u308a\u3093\u3054\u8ffd\u5206",
       "url": "https://open.spotify.com/track/3sL2xabTbPg586o5InU6Lt"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30eb\u30d0\u30e0\u306e\u7d42\u308f\u308a\u306b",
+        "url": "https://open.spotify.com/album/43GwfCKDDJjADDLquas4QF"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159251,
+      "name": "\u30a2\u30eb\u30d0\u30e0\u306e\u7d42\u308f\u308a\u306b",
+      "url": "https://open.spotify.com/track/47gBksZY4KVVI7iT2CflKq"
     },
     {
       "album": {

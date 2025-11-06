@@ -2,9 +2,9 @@
 
 ### [Hot Hits Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8BmpQ9HroVZ)
 
-> The hottest tracks trending in Pakistan 🔥 Cover: Samar Jafri
+> The hottest tracks trending in Pakistan 🔥 Cover: Asim Azhar, JANI
 
-541 songs - 1 day 8 hr 19 min
+542 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Tera Kasoor](https://open.spotify.com/track/3i0NJapaxroNdrS4ffFbDY) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Tera Kasoor](https://open.spotify.com/album/6AoRPYCFmW2Y9VxmDKXY6U) | 3:28 | 2025-09-24 | 2025-10-23 |
 | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm) | 3:28 | 2023-12-11 | 2024-08-10 |
 | [Tere Bin \(Original Score\)](https://open.spotify.com/track/0NzKqxxriSFemELLGwNR1r) | [Shani Arshad](https://open.spotify.com/artist/4uemXiyZXRqUNuVbm0xMTN) | [Tere Bin \(Original Score\)](https://open.spotify.com/album/2ULNjlB3S03rlm4L6EQEa2) | 5:31 | 2023-01-16 | 2023-02-07 |
+| [tere bin nahi lagda](https://open.spotify.com/track/2YzkWubuMxtHcWY17fpMUK) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [tere bin nahi lagda](https://open.spotify.com/album/7ljX7eXQHa1q69s29YISve) | 4:17 | 2025-11-05 |  |
 | [Tere Bina Na Guzara E](https://open.spotify.com/track/4wILHvb65fCykx1BuRlvwa) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Kinza Hashmi](https://open.spotify.com/artist/2Up4MLmBYIJV36ymeT44TF) | [Tere Bina Na Guzara E](https://open.spotify.com/album/0yqDVd940RjJdyIMfAdgBH) | 3:40 | 2024-10-23 | 2024-12-13 |
 | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3) | 5:46 | 2023-04-24 | 2024-01-23 |
 | [Tere Naal](https://open.spotify.com/track/2EU1TUgOHG4NPiVdTlPSQ7) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:58 | 2025-02-10 | 2025-03-29 |

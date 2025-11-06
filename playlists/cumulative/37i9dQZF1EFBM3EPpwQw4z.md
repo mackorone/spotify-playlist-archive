@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-147 songs - 8 hr 34 min
+148 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [FingerTips](https://open.spotify.com/track/4Z7KalmiRUDGlMMcl3vka4) | [Pinkrush](https://open.spotify.com/artist/0iPR0SceBIsSWU7GSF9XaN) | [PRODUCE 101: 35 Girls 5 Concepts](https://open.spotify.com/album/23WQRmPCr2qacsex7NWgkL) | 3:28 | 2023-12-30 |  |
 | [Flight](https://open.spotify.com/track/6JHQwoZDZxsoD15MLd3RVI) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Ember EP](https://open.spotify.com/album/2leC9bFdVDkE4feqKf7xOX) | 3:39 | 2023-12-30 |  |
 | [For Days \- Original Mix](https://open.spotify.com/track/6CEryVwA55qT3Y0Dvm9Vhl) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Panorama Pacifico](https://open.spotify.com/album/3vhWEhXHcD0OpiMjeO8g5O) | 5:45 | 2023-12-30 | 2025-07-24 |
+| [For Myself](https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s) | [Jjoska](https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb) | [For Myself](https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw) | 4:50 | 2025-11-05 |  |
 | [Forever](https://open.spotify.com/track/3ZwfRF6AAbJP0oUYwxjsmc) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [THE SHELL](https://open.spotify.com/album/3LdW3SGS1DixlVsNMHGeui) | 2:41 | 2023-12-30 |  |
 | [Free Again](https://open.spotify.com/track/1h2l9iVrJaiGsfRd2lTJzn) | [Greg Holden](https://open.spotify.com/artist/7Bcr2Bs6phLymt6kdqNNez) | [Chase The Sun](https://open.spotify.com/album/7tUdBBjJl9R46zqIvSa5F6) | 3:11 | 2023-12-30 | 2025-07-24 |
 | [Get Mine](https://open.spotify.com/track/0mHnAMvAv4TnO6ziAZvHRk) | [L\-FRESH The LION](https://open.spotify.com/artist/1pWigxBjUwEk9xH0Ks1r8L) | [Become](https://open.spotify.com/album/2nxWnfXAX1RsdRQUdIxAkz) | 3:21 | 2023-12-30 | 2025-07-18 |

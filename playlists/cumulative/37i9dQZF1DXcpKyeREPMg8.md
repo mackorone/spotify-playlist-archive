@@ -87,6 +87,6 @@
 | [Wonderkid](https://open.spotify.com/track/7C4mpGALsYWPKemjWQig0s) | [Jordy](https://open.spotify.com/artist/7l3zlwcm9aq7yogYA4Xn1p), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Wonderkid](https://open.spotify.com/album/6FhOcSkXbZFUF7ONRbE1nA) | 2:58 | 2025-10-10 |  |
 | [yawn](https://open.spotify.com/track/56CNfi2sGoySvA6onBw8J5) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [yawn](https://open.spotify.com/album/6RsIlpOoQ9egYfuKuLGQ5l) | 3:45 | 2025-10-10 |  |
 | [yeye](https://open.spotify.com/track/0J7azzPuLhuFnucxbnmtUS) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Miles Singleton](https://open.spotify.com/artist/6D2oQFsBu917I9n3KhVXNM) | [yeye](https://open.spotify.com/album/3Oyl3tvtAu0GwbbQ8j7XDB) | 1:56 | 2025-10-10 |  |
-| [Zagga Dat](https://open.spotify.com/track/7gIsmMYCcyuzSPnpMWqD5X) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Zagga Dat](https://open.spotify.com/album/2f9Ojh9Dzjvc3ZB7a3nuhI) | 2:08 | 2025-10-10 |  |
+| [ZAGGA DAT](https://open.spotify.com/track/7gIsmMYCcyuzSPnpMWqD5X) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [ZAGGA DAT](https://open.spotify.com/album/2f9Ojh9Dzjvc3ZB7a3nuhI) | 2:08 | 2025-10-10 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

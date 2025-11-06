@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: CIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,031 likes - 65 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,129 likes - 65 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

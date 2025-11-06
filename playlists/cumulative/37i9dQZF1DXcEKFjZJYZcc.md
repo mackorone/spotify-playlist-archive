@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-346 songs - 14 hr 11 min
+349 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ballerina](https://open.spotify.com/track/4ibQoQQZV6nXlBx3vph9ts) | [Anne Straub](https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent) | [Ballerina](https://open.spotify.com/album/1304CozsNkUvUa0T6VC9jV) | 2:38 | 2021-12-14 | 2025-05-15 |
 | [Beneath the Surface](https://open.spotify.com/track/5JadUKeKPDTwUXQL0p3GwJ) | [Manu Calhu](https://open.spotify.com/artist/11O4mz6CNXZKdNkzguicLf) | [Procession](https://open.spotify.com/album/19M3xeWwJfedsqzR0N8lTX) | 3:17 | 2021-12-14 | 2024-04-04 |
 | [Beyond the Moon](https://open.spotify.com/track/1JREewfvHs3rhxGrjRsOpk) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Beyond the Moon](https://open.spotify.com/album/6WUXMFDNS0eOw8I8uBygaM) | 2:19 | 2025-01-22 |  |
+| [Birds](https://open.spotify.com/track/3twWpjYDzFJDJMm9oyDJtb) | [Haupu](https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0) | [Birds](https://open.spotify.com/album/64XKYsbG6RPZy0imVMvjpN) | 2:24 | 2025-11-05 |  |
 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 | 2021-12-14 | 2024-10-16 |
 | [Blessedness](https://open.spotify.com/track/1cM4gjiaQ8PS0rz1lv75LF) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Blessedness](https://open.spotify.com/album/17HyaDaI7IB2II45VvAT2M) | 2:33 | 2024-03-05 |  |
 | [Blomstre](https://open.spotify.com/track/6QWh1UBcCSxSQikQgVYp1Z) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Blomstre](https://open.spotify.com/album/2JvuwhBuL2ZCUURkQqx0ns) | 2:34 | 2023-04-05 |  |
@@ -197,6 +198,7 @@
 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-03-01 |  |
 | [Oaks Bluffs](https://open.spotify.com/track/0jSUVrvKQ0qF8ee1usL34M) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Heart Open & Oak Bluffs](https://open.spotify.com/album/0WUh561iRu6szlrM5pB2eW) | 1:57 | 2022-12-06 | 2023-09-19 |
 | [Ocean](https://open.spotify.com/track/6EP77Zog3nQuQaOHEpE9cR) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Ocean](https://open.spotify.com/album/6YPiF7Xt7QHDS610MMgyoH) | 1:46 | 2021-12-14 | 2022-01-20 |
+| [Omhuldad](https://open.spotify.com/track/5ReZyYicHocdZ7Po8oAjKs) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Omhuldad](https://open.spotify.com/album/09uuTMxrEjS833kMOD5sMw) | 2:47 | 2025-11-05 |  |
 | [On a summer midnight](https://open.spotify.com/track/68jz5jlpsxs5cL48wGIgqC) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [On a summer midnight](https://open.spotify.com/album/3Nh4RpRM4ZScvXV3Yi78A9) | 2:03 | 2023-08-07 |  |
 | [On My Way Home](https://open.spotify.com/track/4iuGVtUXm2RfdyaGofN5MC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [On My Way Home](https://open.spotify.com/album/0xjLWXYwiERfTpIeBxSPam) | 2:31 | 2022-09-13 |  |
 | [On The Way Home](https://open.spotify.com/track/7MbDQoIYjB1XqRpA8fsIjy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [On The Way Home](https://open.spotify.com/album/16Pa3QL4cWA8svYlH5rBvu) | 2:26 | 2022-10-26 |  |
@@ -228,6 +230,7 @@
 | [Prozatím](https://open.spotify.com/track/3dS8RW1e5gd5rbSmNjDAPe) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Prozatím](https://open.spotify.com/album/4oAdXNNPtmelprKFkP4d6G) | 2:03 | 2021-12-14 | 2024-10-02 |
 | [Pulse of living light](https://open.spotify.com/track/1CYRKw69N0CUGig2uPDvmg) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Pulse of living light](https://open.spotify.com/album/6I7aNxSuPkproqmlGanyKy) | 2:23 | 2023-01-27 |  |
 | [Quiet Beginning](https://open.spotify.com/track/12UkgnkfHjLOI9amTjZwne) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Quiet Beginning](https://open.spotify.com/album/1ndrUSDw5h0uxyY2mlHEUN) | 2:44 | 2025-04-04 |  |
+| [Reflections at Dusk](https://open.spotify.com/track/3kkPEjUVQM8yYZXWmDMW39) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Reflections at Dusk](https://open.spotify.com/album/3O2stAbVyokk8LP4oT8R4u) | 2:32 | 2025-11-05 |  |
 | [Regarde La Danser](https://open.spotify.com/track/3UDMTk71Yc1P4m5SDTFhLZ) | [Christer Karlsson](https://open.spotify.com/artist/67b16EsZVgR75HridsH8PV) | [Regarde La Danser](https://open.spotify.com/album/5WoHF3s6Dc8ha98Yhxj7Nx) | 2:43 | 2023-12-12 |  |
 | [Retreat](https://open.spotify.com/track/1TuCwMUqkSa0keDCiijPY2) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Retreat](https://open.spotify.com/album/6vI6bM5u9nzEYEuDoxgJhe) | 2:40 | 2022-05-20 |  |
 | [Return of the swans](https://open.spotify.com/track/28a8DXnFlTHUSGC9UuTwBM) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Big blue](https://open.spotify.com/album/5v3o9XW3TwgUzfotptkyUS) | 1:43 | 2022-12-06 | 2023-09-19 |

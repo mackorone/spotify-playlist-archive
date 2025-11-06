@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-326 songs - 14 hr 49 min
+329 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bibo No Aozora](https://open.spotify.com/track/2DPCymMTTu2SbGsPe7wPSU) | [evighet.](https://open.spotify.com/artist/2jv3T5ewJ2FaezIjkWEQQz) | [Bibo No Aozora](https://open.spotify.com/album/03Xgef5UP1nAoXxpvLxwYc) | 3:18 | 2020-10-20\* | 2023-09-09 |
 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 | 2022-06-24 | 2023-09-09 |
 | [Birdman](https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:21 | 2020-10-20\* |  |
+| [Birds](https://open.spotify.com/track/3twWpjYDzFJDJMm9oyDJtb) | [Haupu](https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0) | [Birds](https://open.spotify.com/album/64XKYsbG6RPZy0imVMvjpN) | 2:24 | 2025-11-05 |  |
 | [Blessedness](https://open.spotify.com/track/1cM4gjiaQ8PS0rz1lv75LF) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Blessedness](https://open.spotify.com/album/17HyaDaI7IB2II45VvAT2M) | 2:33 | 2024-03-20 |  |
 | [Blue Hour](https://open.spotify.com/track/48P8vOmx5edtkwLqeTvqJn) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Blue Hour](https://open.spotify.com/album/0x3Xq6Lhchktl3cksHTRfm) | 2:24 | 2025-03-11 |  |
 | [bonhomie](https://open.spotify.com/track/3TpeNOYVDlFqn61LCrYFyg) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [peaceful imperfect places](https://open.spotify.com/album/1w5SsfBmi2VNitVBp0PcXe) | 2:30 | 2023-09-08 |  |
@@ -118,6 +119,7 @@
 | [Frontiers Are Where You Find Them](https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:13 | 2022-07-22 | 2023-09-09 |
 | [Gare De Lyon](https://open.spotify.com/track/00hnPMMlA2V0bCKlI8yChO) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Gare De Lyon](https://open.spotify.com/album/7BDOuo6yevp1PSgntKUxs0) | 2:35 | 2023-09-26 |  |
 | [Gentle Echoes](https://open.spotify.com/track/5jDgTThGe4uXCTYAA3r8VR) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Gentle Echoes](https://open.spotify.com/album/4C8mLv9Eb6sKKNHObI867q) | 2:04 | 2025-02-20 |  |
+| [Gentle Rain](https://open.spotify.com/track/4i752Jsn4oHtKWgeynuhBJ) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [Gentle Rain](https://open.spotify.com/album/6fJWGy6aB5DgyaanfVcCOn) | 1:53 | 2025-11-05 |  |
 | [Gone Day](https://open.spotify.com/track/2SSOF3vAlTd3FqWupkuQBt) | [Jonas Kvarnström](https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx) | [Gone Day](https://open.spotify.com/album/41k94jymMWGvYhBAcWgeb2) | 4:10 | 2022-07-22 | 2023-09-09 |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2020-10-20\* |  |
 | [Greetings from Belize](https://open.spotify.com/track/5nhS7fj2S3Td2HIDCpcmVb) | [Lixol](https://open.spotify.com/artist/4wXk0BFjhLlkvvnizwEUGR) | [Greetings from Belize](https://open.spotify.com/album/6HzK0TGQenShzRupoyc9x5) | 2:43 | 2022-02-24 | 2023-09-09 |
@@ -228,6 +230,7 @@
 | [Presence](https://open.spotify.com/track/6E2Exlnv16ImuHjrzKeIKQ) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Presence](https://open.spotify.com/album/7Bxtw05NhQJ7Iz1jwG6B2a) | 2:25 | 2025-08-05 |  |
 | [Raining Stars](https://open.spotify.com/track/3KGGxiUIIsoiGLmSKCu0RS) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Raining Stars](https://open.spotify.com/album/365qk1heQP6e6IGmaZycSe) | 2:39 | 2024-07-29 |  |
 | [Reality](https://open.spotify.com/track/6610gii04R3zRuWpa38XzY) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:06 | 2020-10-20\* | 2023-09-09 |
+| [Reflections at Dusk](https://open.spotify.com/track/3kkPEjUVQM8yYZXWmDMW39) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Reflections at Dusk](https://open.spotify.com/album/3O2stAbVyokk8LP4oT8R4u) | 2:32 | 2025-11-05 |  |
 | [Reiu](https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Reiu](https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu) | 2:04 | 2023-09-26 |  |
 | [Reprieve](https://open.spotify.com/track/1UTyE3P7cQ2de4dwLNyt58) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Inner Emotions](https://open.spotify.com/album/360SVaUkXUu24nh4hlNLia) | 3:04 | 2020-10-20\* | 2022-07-08 |
 | [Resilient](https://open.spotify.com/track/3qcqLrOeFOaWzpHK7GK6Qo) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Resilient](https://open.spotify.com/album/0uETRAhCKO0BjQHHxtW4YP) | 3:26 | 2020-10-20\* | 2024-07-30 |

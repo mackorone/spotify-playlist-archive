@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAAD+M+m88TwLrZQGSwT5zHLs",
+  "snapshot_id": "aQlCAAAAAAALJu+ia8G6hVoGhHsz0FfI",
   "tracks": [
     {
       "added_at": null,
@@ -278,11 +278,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 252653,
-      "name": "Numero Uno",
-      "url": "https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK"
+      "duration_ms": 178493,
+      "name": "Mr Popular (feat. Smino)",
+      "url": "https://open.spotify.com/track/215MkXd23lFtFD1lUeRuGF"
     },
     {
       "added_at": null,
@@ -354,15 +358,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Mr Popular (feat. Smino)",
-      "url": "https://open.spotify.com/track/215MkXd23lFtFD1lUeRuGF"
+      "duration_ms": 252653,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Los Cafres.",
-  "num_followers": 1183181,
+  "num_followers": 1183079,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "Obvio S\u00ed",
+        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
+      },
+      "artists": [
+        {
+          "name": "Rastacuando",
+          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
+        }
+      ],
+      "duration_ms": 177536,
+      "name": "El Seis",
+      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "El Sonido Real",
         "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Obvio S\u00ed",
-        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
-      },
-      "artists": [
-        {
-          "name": "Rastacuando",
-          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
-        }
-      ],
-      "duration_ms": 177536,
-      "name": "El Seis",
-      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Ay Coraz\u00f3n!",
-        "url": "https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 219059,
-      "name": "Ay Coraz\u00f3n!",
-      "url": "https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
       },
@@ -1419,22 +1403,18 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Pupilas Lejanas",
-        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
+        "name": "Ay Coraz\u00f3n!",
+        "url": "https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+      "duration_ms": 219059,
+      "name": "Ay Coraz\u00f3n!",
+      "url": "https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1451,6 +1431,26 @@
       "duration_ms": 159832,
       "name": "C\u00f3mo Te Hago Entender",
       "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
+        "name": "Pupilas Lejanas",
+        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 248780,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "La Tierra del Desencanto",
         "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 249542,
       "name": "La Tierra del Desencanto",
       "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "Si T\u00fa Me Quieres",
-        "url": "https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 248780,
-      "name": "Si T\u00fa Me Quieres",
-      "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
     },
     {
       "added_at": "2025-10-17 03:00:27",

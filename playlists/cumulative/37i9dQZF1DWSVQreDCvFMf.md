@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: juan karlos ft\. Flow G
 
-588 songs - 1 day 12 hr 43 min
+591 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Aking Mithiin](https://open.spotify.com/track/4E6SCQoYgnOr8U9RwtdRzQ) | [Shane G](https://open.spotify.com/artist/1lFT4J66bALlo4lCHqIYzZ) | [Aking Mithiin](https://open.spotify.com/album/0Cqq7saYapa5si8rmeF3bK) | 3:56 | 2025-05-12 | 2025-07-19 |
 | [Ako Lang](https://open.spotify.com/track/4fyGUG2NUY5LCrEP7TgAC0) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ako Lang](https://open.spotify.com/album/1k2tHZmTuKFI31xPt0RZ9n) | 2:15 | 2025-09-12 |  |
 | [Ako Na Lang](https://open.spotify.com/track/6qvHdIO3la7MIDr6IX4S3S) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Ako Na Lang](https://open.spotify.com/album/0GJLUa9eKNwUM3Fd8XG77U) | 2:59 | 2025-08-08 |  |
+| [ako na lang!](https://open.spotify.com/track/0MZgT6KumGDZ7BsEle1Lkb) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx) | [ako na lang!](https://open.spotify.com/album/4v8YTiUdpfYOPOZGtqzP5Y) | 2:49 | 2025-11-05 |  |
 | [Ako nalang](https://open.spotify.com/track/3Ujf4wZ44Yx4MAcnQnufUN) | [NIO](https://open.spotify.com/artist/3xkS4OmxFVJbJ3IlAv30qH), [Dream Seven](https://open.spotify.com/artist/5kaDk3ytlVTNa6cj1Zv2ne) | [Ako nalang](https://open.spotify.com/album/1VD9Ud7e7xPFmLUXucqLy8) | 3:41 | 2024-12-25 | 2025-04-16 |
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-14 |  |
 | [Alipin](https://open.spotify.com/track/4M58QFY0zKnt2V2IPKsoy5) | [Khel Pangilinan](https://open.spotify.com/artist/39ZvrXAretQWcY8yDoWAtP) | [Alipin](https://open.spotify.com/album/4AD5QC9YS6u0flPv458gtE) | 3:55 | 2024-11-20 | 2025-02-26 |
@@ -94,6 +95,7 @@
 | [Buwan](https://open.spotify.com/track/1xBx7Cp6LdR4cOLFxeBzXH) | [Kitchie Nadal](https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY) | [Drama Queen TV](https://open.spotify.com/album/0sdkv7teigvtyJgI9wj6CH) | 4:48 | 2025-07-12 |  |
 | [Buwan](https://open.spotify.com/track/0LAr7DfFFxErJoceSRgoNk) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV) | [Buwan](https://open.spotify.com/album/0MUOfn9BcQoToenOYdYlQT) | 4:11 | 2025-01-31 | 2025-04-16 |
 | [Cake](https://open.spotify.com/track/3gw2lEKB2hlaOHDwJJx5gn) | [Any Name's Okay](https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e) | [Cake](https://open.spotify.com/album/4ghNBLqhyuIOAlldSzmt5k) | 4:36 | 2025-02-28 | 2025-05-12 |
+| [Chemistry](https://open.spotify.com/track/529drn8X80TyoPS3GdL3Le) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Chemistry](https://open.spotify.com/album/2hjrQmqKGiD2S69mTkNVR8) | 3:17 | 2025-11-05 |  |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-12 | 2024-11-09 |
 | [Close To You](https://open.spotify.com/track/0AMDUYytQTD9pyyZBNDsI6) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Close To You](https://open.spotify.com/album/1YFcJp3QzuuQDzoxYXECv4) | 3:33 | 2025-02-14 | 2025-05-20 |
 | [Closer to Your Heart](https://open.spotify.com/track/7KRc40Yw9QmzKYcjTWkm92) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Closer to Your Heart](https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef) | 2:40 | 2024-09-26 | 2024-12-17 |
@@ -573,6 +575,7 @@
 | [Unimaginable](https://open.spotify.com/track/339SFBs6VUjYdvDRrK8yCn) | [Klarisse](https://open.spotify.com/artist/1Imlf2KHeVnyY2bkZe1bNC) | [Unimaginable](https://open.spotify.com/album/6ojC0sFbE9CcsEFgLbxPD8) | 2:48 | 2025-09-19 |  |
 | [Vibrate](https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Vibrate](https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb) | 2:52 | 2025-10-14 |  |
 | [Wag Ako](https://open.spotify.com/track/4eEvkWe9r5qoXGYXuC8qQg) | [Rocksteddy](https://open.spotify.com/artist/2uSQi2dS9WLbu4IlzTPLKr) | [INTERGALACTIC ADIKINSANE](https://open.spotify.com/album/7BHkuFACzaTl1MgyNTA8sv) | 4:49 | 2025-09-19 |  |
+| [Wag Na Pls](https://open.spotify.com/track/3kfg59gvxrqLexSZYiutiX) | [DaivJstn](https://open.spotify.com/artist/5j1gxsK1zOS8kQNzKTH7as) | [Wag Na Pls](https://open.spotify.com/album/6DpWlPMo6KC8AXdIXiIx0w) | 2:39 | 2025-11-05 |  |
 | [Wait](https://open.spotify.com/track/3aVN1nyimXo5waQ8M6o8j2) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Wait](https://open.spotify.com/album/2QiFJDsku1Yl67JjRAacaN) | 4:01 | 2025-09-26 |  |
 | [Wala Na Bang Pag\-ibig](https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RD Covers \(Live\)](https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT) | 4:36 | 2025-10-31 |  |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-07-26 | 2024-11-09 |

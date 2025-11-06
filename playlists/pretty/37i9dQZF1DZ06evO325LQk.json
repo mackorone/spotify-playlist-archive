@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37823,
+  "num_followers": 37821,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAACS1xw1s9RrDFqC8ZscCs46",
+  "snapshot_id": "aQlCAAAAAAB9TCoMRDKfSp31Vi+7BHkZ",
   "tracks": [
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "Forever - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
         "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 210250,
       "name": "Whole New World (Sophie and Doss Remix)",
       "url": "https://open.spotify.com/track/00iumuIHzIc3rDViE1Vh8U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 219212,
+      "name": "Forever - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Transnation",
+        "url": "https://open.spotify.com/album/6xV8XV6JaRJudXN09zm9hW"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 161535,
+      "name": "Transnation",
+      "url": "https://open.spotify.com/track/5shQ1DVs0Kjg0zmcFJcN9b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHEETAH BEND",
         "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Transnation",
-        "url": "https://open.spotify.com/album/6xV8XV6JaRJudXN09zm9hW"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 161535,
-      "name": "Transnation",
-      "url": "https://open.spotify.com/track/5shQ1DVs0Kjg0zmcFJcN9b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
         "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
       },
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 191949,
-      "name": "XTC Acid",
-      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
+      "duration_ms": 327093,
+      "name": "Push Emission (Whore Moans)",
+      "url": "https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 327093,
-      "name": "Push Emission (Whore Moans)",
-      "url": "https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF"
+      "duration_ms": 191949,
+      "name": "XTC Acid",
+      "url": "https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI"
     },
     {
       "added_at": null,

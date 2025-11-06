@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAAD+ZjZ36Pvn5e4onBCTZOvi",
+  "snapshot_id": "aQlCAAAAAADdX687lxWSwNlJh3/VLOZ4",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
+        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
+      },
+      "artists": [
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
+      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus and John Wayne",
         "url": "https://open.spotify.com/album/6cL8bwrPovKoz1omsUCwKd"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 242625,
       "name": "Jesus and John Wayne",
       "url": "https://open.spotify.com/track/6okV8XV4EFSxpVnP0zM2vF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
-        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
-      },
-      "artists": [
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 197474,
-      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
-      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
     },
     {
       "added_at": null,

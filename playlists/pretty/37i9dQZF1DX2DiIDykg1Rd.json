@@ -279,6 +279,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/16bHRxM89ue0TiCKARYbRp"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 217828,
       "name": "HOUSTONFORNICATION",
       "url": "https://open.spotify.com/track/58TaFP5j5i9swOf584yon2"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/16bHRxM89ue0TiCKARYbRp"
     },
     {
       "added_at": "2023-01-01 05:00:00",

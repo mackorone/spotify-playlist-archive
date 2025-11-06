@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Coincidences",
+        "url": "https://open.spotify.com/album/4AvpqF3vABdDNJYO7WvXzd"
+      },
+      "artists": [
+        {
+          "name": "Ella Davies",
+          "url": "https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165812,
+      "name": "Coincidences",
+      "url": "https://open.spotify.com/track/6LTeyPlB34Vj3jkQ5k3l7Y"
+    },
+    {
+      "album": {
         "name": "cold embrace",
         "url": "https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF"
       },

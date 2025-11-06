@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 306 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 307 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -278,8 +278,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 268 | [Louco por Tu \(Ao Vivo\)](https://open.spotify.com/track/3rRgb24SWRECGFNoXNQPh8) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:41 |
 | 269 | [RASCUNHO](https://open.spotify.com/track/4VtB2ZsC23wIgWITyOL66J) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek) | 2:43 |
 | 270 | [Danada](https://open.spotify.com/track/5ui61h8GkLT5PtjAF8Evom) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Energia Não Mente \(Parte 2\)](https://open.spotify.com/album/1GnUPjZMaci3M6fV4cyem0) | 2:18 |
-| 271 | [Solterência](https://open.spotify.com/track/2pEuFV37eGKMDxYRFzr3WB) | [Jardel Santos](https://open.spotify.com/artist/5ll70vhv9FCvHFGPamZtsd), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Solterência](https://open.spotify.com/album/0zGPgaqp2CnSnmsf0etO5h) | 2:47 |
-| 272 | [Meu Mundo E Voce](https://open.spotify.com/track/6f3dG2tqxZM5MuSUXbu31a) | [Marcos & Fernando](https://open.spotify.com/artist/0cHeelq87RR6yX2ttH6MTg) | [Marcos E Fernando](https://open.spotify.com/album/4VXqWRr0tDpgKb0Gc0O8NI) | 3:21 |
+| 271 | [Meu Mundo E Voce](https://open.spotify.com/track/6f3dG2tqxZM5MuSUXbu31a) | [Marcos & Fernando](https://open.spotify.com/artist/0cHeelq87RR6yX2ttH6MTg) | [Marcos E Fernando](https://open.spotify.com/album/4VXqWRr0tDpgKb0Gc0O8NI) | 3:21 |
+| 272 | [Solterência](https://open.spotify.com/track/2pEuFV37eGKMDxYRFzr3WB) | [Jardel Santos](https://open.spotify.com/artist/5ll70vhv9FCvHFGPamZtsd), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Solterência](https://open.spotify.com/album/0zGPgaqp2CnSnmsf0etO5h) | 2:47 |
 | 273 | [Dia D \- Ao Vivo](https://open.spotify.com/track/2x27qfjs2LHNDFCgdbBusn) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2 \(Ao Vivo\)](https://open.spotify.com/album/2BsZHZMyJKhfMMiFb3348T) | 2:49 |
 | 274 | [Recadinho para Você](https://open.spotify.com/track/7t6jt692pPcwua3IZx9ipI) | [Ingrid Mantovani](https://open.spotify.com/artist/2TjJZ2XYZGbGnnjD6k1hWg) | [Recadinho para Você](https://open.spotify.com/album/4KC8323hXv1uYuNi4zWkXR) | 2:24 |
 | 275 | [Calvin Klein](https://open.spotify.com/track/3ahdCDpGyEYA4Ge4f3Owpk) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/7i0xjs2vl16ulILFpBCVek) | 2:34 |
@@ -306,13 +306,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 296 | [Quinta Madrugada](https://open.spotify.com/track/1Lc35gHpuYS7VwKCTKkfDT) | [Kelvin Araújo](https://open.spotify.com/artist/467sfSm4OytxDNQ6z9XgHt) | [Quinta Madrugada](https://open.spotify.com/album/0O8DA2g6jSoaSyW0nHS6bh) | 2:40 |
 | 297 | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/track/6sBvtoUiXy3fhgTvkln643) | [Raquel Carvalho](https://open.spotify.com/artist/5tTn59AuiKbHOo5KhGPUtk) | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/album/2gDRclbyCiPaXZ8A6zfMpc) | 2:40 |
 | 298 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
-| 299 | [Estilo American Pie](https://open.spotify.com/track/5FmOh7w0DHBGOkBkApgwc4) | [Ruann Veras](https://open.spotify.com/artist/50pcuS0C1MrFnGNhvg8zEI) | [O Don Ruann](https://open.spotify.com/album/1wrp0dovGTUP1JaC4tPJlv) | 2:47 |
-| 300 | [Pra Ser Feliz](https://open.spotify.com/track/14KCFn9ofLiEqfDvuUwYVL) | [PEL Diferentão](https://open.spotify.com/artist/2T1MA1Z6AdqBBnnud019tR) | [Pra Ser Feliz](https://open.spotify.com/album/5ZMfQ5KRHtgL5oV6ObEB7o) | 2:52 |
+| 299 | [Pra Ser Feliz](https://open.spotify.com/track/14KCFn9ofLiEqfDvuUwYVL) | [PEL Diferentão](https://open.spotify.com/artist/2T1MA1Z6AdqBBnnud019tR) | [Pra Ser Feliz](https://open.spotify.com/album/5ZMfQ5KRHtgL5oV6ObEB7o) | 2:52 |
+| 300 | [Estilo American Pie](https://open.spotify.com/track/5FmOh7w0DHBGOkBkApgwc4) | [Ruann Veras](https://open.spotify.com/artist/50pcuS0C1MrFnGNhvg8zEI) | [O Don Ruann](https://open.spotify.com/album/1wrp0dovGTUP1JaC4tPJlv) | 2:47 |
 | 301 | [Mala \- Ao Vivo](https://open.spotify.com/track/4RD4bpPwBzJu3hZUHiDVFy) | [Nathy Alvarenga](https://open.spotify.com/artist/5CQJ9yWbOGVKCeEKY6LNDo) | [Mais um Rolê \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/5qV8s3v3V275RY8E3SiAiv) | 2:29 |
 | 302 | [Pra Fazer Ciúmes](https://open.spotify.com/track/5DdgXA3qkKkG7SwXGA1SMS) | [Jenny Ribeiro](https://open.spotify.com/artist/4l6IjRWjYxmJUCZhFkVoYs) | [Jenny Ribeiro](https://open.spotify.com/album/43IZe8bBl72CMSdqlzqtJC) | 2:24 |
 | 303 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
 | 304 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 305 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 306 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
+| 307 | [Tem a Senha](https://open.spotify.com/track/2XFlvQgefJIMVGkcZfMyW2) | [Artthurzinho](https://open.spotify.com/artist/0MHUejZdGYlArcSqjUsJ8q) | [Tem a Senha](https://open.spotify.com/album/7LkNcS5pEwLDMOeRAUmceh) | 2:39 |
 
-Snapshot ID: `AcAuBgAAAAAZv3OIyemT6OsCaFFxh57J`
+Snapshot ID: `AcAzpgAAAABG4Hn9aDrHix6iarUgx2aN`

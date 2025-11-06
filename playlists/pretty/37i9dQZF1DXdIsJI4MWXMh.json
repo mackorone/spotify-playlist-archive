@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 77204,
+  "num_followers": 77222,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "De Padre Desconocido",
         "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 154266,
       "name": "Ni Por Mil Pu\u00f1ados De Oro",
       "url": "https://open.spotify.com/track/1Xo6UbLWD2INjx1vMT7FUh"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Lo Mejor 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
-      },
-      "artists": [
-        {
-          "name": "Rene Inostroza",
-          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
-        }
-      ],
-      "duration_ms": 154746,
-      "name": "La Guaracha del Fay Fay",
-      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -595,22 +579,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "La Nueva Cumbia del Pueblo",
-        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
+        "name": "Lo Mejor 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
       },
       "artists": [
         {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+          "name": "Rene Inostroza",
+          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
         }
       ],
-      "duration_ms": 202400,
-      "name": "Mar\u00eda Elena",
-      "url": "https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv"
+      "duration_ms": 154746,
+      "name": "La Guaracha del Fay Fay",
+      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -635,18 +615,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Hecho y Derecho",
-        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
+        "name": "La Nueva Cumbia del Pueblo",
+        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
       },
       "artists": [
         {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Con Quien Te Olvido",
-      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
+      "duration_ms": 202400,
+      "name": "Mar\u00eda Elena",
+      "url": "https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -667,6 +651,22 @@
       "duration_ms": 268053,
       "name": "Vamos a Amarla los Dos",
       "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Hecho y Derecho",
+        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
+      },
+      "artists": [
+        {
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Con Quien Te Olvido",
+      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "En 3d y a Todo Color",
-        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
-      },
-      "artists": [
-        {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
-        }
-      ],
-      "duration_ms": 223085,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 210693,
       "name": "Mil Cantinas",
       "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "En 3d y a Todo Color",
+        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
+      },
+      "artists": [
+        {
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+        }
+      ],
+      "duration_ms": 223085,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "La Carta N\u00b0 3",
+        "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Bustos",
+          "url": "https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "La Carta N\u00b03 - 1986 Digital Remaster",
+      "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "El Intruso",
         "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 205746,
       "name": "El Intruso",
       "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "La Carta N\u00b0 3",
-        "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Bustos",
-          "url": "https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "La Carta N\u00b03 - 1986 Digital Remaster",
-      "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "12 A\u00f1os de Historia",
-        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbieros",
-          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "La Rumbera",
-      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Alma Enamorada",
         "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 182317,
       "name": "M\u00e1tame a Besos",
       "url": "https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "12 A\u00f1os de Historia",
+        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
+      },
+      "artists": [
+        {
+          "name": "Los Cumbieros",
+          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "La Rumbera",
+      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Cumbias Campesinas",
-        "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        }
-      ],
-      "duration_ms": 237975,
-      "name": "Guaijirito",
-      "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Somos Infieles",
         "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 199527,
       "name": "Somos Infieles",
       "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Cumbias Campesinas",
+        "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 237975,
+      "name": "Guaijirito",
+      "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Me Voy a Emborrachar",
-        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Rimac",
-          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Tarjetita de Invitaci\u00f3n",
         "url": "https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 224328,
       "name": "Tarjetita de Invitacion",
       "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Me Voy a Emborrachar",
+        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Rimac",
+          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
     },
     {
       "added_at": "2025-09-18 20:11:00",

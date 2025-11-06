@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 17630,
+  "num_followers": 17690,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-10-24 06:08:23",
       "album": {
+        "name": "Full Train / Light on the Hill",
+        "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "duration_ms": 353124,
+      "name": "Full Train",
+      "url": "https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf"
+    },
+    {
+      "added_at": "2025-10-24 06:08:23",
+      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 163255,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
-    },
-    {
-      "added_at": "2025-10-24 06:08:23",
-      "album": {
-        "name": "Full Train / Light on the Hill",
-        "url": "https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4"
-      },
-      "artists": [
-        {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
-        }
-      ],
-      "duration_ms": 353124,
-      "name": "Full Train",
-      "url": "https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf"
     },
     {
       "added_at": "2025-10-24 06:08:23",

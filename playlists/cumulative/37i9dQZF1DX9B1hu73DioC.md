@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-986 songs - 2 day 10 hr 32 min
+987 songs - 2 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Coffee For Dinner](https://open.spotify.com/track/4ymyaSXpC2qZuavMX4GrzR) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:52 | 2020-10-05\* | 2022-04-17 |
 | [Coffee In The Morning](https://open.spotify.com/track/3d1USIeQb0IGcOc8MatxAp) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Coffee in the Morning](https://open.spotify.com/album/0lO0JNz7Rz94RoSi8pW65l) | 1:23 | 2025-02-07 | 2025-03-10 |
 | [Coffee's on Me](https://open.spotify.com/track/5UeYwxG6CXk8uMC7aGcRsn) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/1BwY5tsTSAZu1UZFUWyW9K) | 3:42 | 2021-08-27 | 2022-04-10 |
-| [Cold Heart](https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Cold Heart](https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU) | 3:45 | 2025-05-01 |  |
+| [Cold Heart](https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Cold Heart](https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU) | 3:45 | 2025-05-01 | 2025-11-06 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2020-10-16 | 2023-05-06 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2020-10-20 | 2023-09-16 |
 | [Collarbones](https://open.spotify.com/track/4FykZvoH6CPfO9PT4S6qc9) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Topograph](https://open.spotify.com/album/4p4wYF1OGj7Mm5qPcKIXkT) | 2:53 | 2021-03-14 | 2022-04-05 |
@@ -993,6 +993,7 @@
 | [You're the Best](https://open.spotify.com/track/139i2wb3YFaxNgC94nA8JA) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [You're the Best](https://open.spotify.com/album/4xWqmTIYhQs17R9X5nZkve) | 2:58 | 2020-10-16 | 2022-04-15 |
 | [Young](https://open.spotify.com/track/3OP8UeYimRl9HCNxMg7Ihl) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Vibes](https://open.spotify.com/album/58Zq3iYZFzaW4sm5Z8iwyt) | 3:09 | 2021-10-15 | 2022-04-20 |
 | [Your Own](https://open.spotify.com/track/3axNvNVXW11vfhQrNdbCOV) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Forever & Ever](https://open.spotify.com/album/7MEH4LcjNvaLRMh27yxABB) | 2:57 | 2020-10-05\* | 2022-04-18 |
+| [Zombies](https://open.spotify.com/track/6nCDvoALdUsjb2lTJqJLsu) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa) | 3:11 | 2025-10-24 |  |
 | [蓋なしの彼](https://open.spotify.com/track/7MzKmI0Ep4dFRfTeQ9RtpZ) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Sway](https://open.spotify.com/album/1JNUJFzL4rVRcCD9EhezeH) | 3:50 | 2025-02-28 |  |
 
 \*This playlist was first scraped on 2020-10-05. Prior content cannot be recovered.

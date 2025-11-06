@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 33943,
+  "num_followers": 33971,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-10-14 09:28:19",
       "album": {
+        "name": "Pinnak",
+        "url": "https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx"
+      },
+      "artists": [
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        }
+      ],
+      "duration_ms": 390321,
+      "name": "Pinnak",
+      "url": "https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19"
+    },
+    {
+      "added_at": "2025-10-14 09:28:19",
+      "album": {
         "name": "Chandramukhi",
         "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 249444,
       "name": "Malhar",
       "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
-    },
-    {
-      "added_at": "2025-10-14 09:28:19",
-      "album": {
-        "name": "Pinnak",
-        "url": "https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx"
-      },
-      "artists": [
-        {
-          "name": "SAMBATA",
-          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
-        }
-      ],
-      "duration_ms": 390321,
-      "name": "Pinnak",
-      "url": "https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19"
     },
     {
       "added_at": "2025-10-14 09:28:19",

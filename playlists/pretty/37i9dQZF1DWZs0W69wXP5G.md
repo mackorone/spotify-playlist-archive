@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,132 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,146 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 66 | [The Night\-Time Sky's Got Nothing on You](https://open.spotify.com/track/6NLdEVaTnMouAcIOM2hlnE) | [Chris Wood](https://open.spotify.com/artist/5yM1DQUmKUfdc4FRpgp4Cx), [Solea Pfeiffer](https://open.spotify.com/artist/2crTNLaQdRWk74CNuccUOs), [Original Broadway Cast of Almost Famous \- The Musical](https://open.spotify.com/artist/7ybNybQQDnJoGOP2Y9JyHG) | [The Night\-Time Sky's Got Nothing on You](https://open.spotify.com/album/48ybZa5Klu3naTjFcZMxC3) | 3:35 |
 | 67 | [People](https://open.spotify.com/track/7i49kMKvaJM0TMoeAEMA8x) | [Julie Benko](https://open.spotify.com/artist/2VxiprvyXzmROUx8sObjkO), [Jason Yeager](https://open.spotify.com/artist/2R0IYswtBomFBfEHX0KFEk) | [Hand in Hand](https://open.spotify.com/album/1iP7Fdly3Zc1PwBFCLmFHY) | 3:35 |
 | 68 | [No One Is Alone \- From "Good Trouble"](https://open.spotify.com/track/5kxNp4IRdENMSh9HfzgZZl) | [Emma Hunton](https://open.spotify.com/artist/2AaAHKo5kfPhzIrSFFZhVs) | [No One Is Alone \(From "Good Trouble"\)](https://open.spotify.com/album/15FrGIi7i0fefNUiUHAPeW) | 2:31 |
-| 69 | [Woman Is \- from Lempicka \- Original Cast Recording](https://open.spotify.com/track/7tLpL9Ja10DDoY7LWGUgO5) | [Eden Espinosa](https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X) | [Woman Is \(from Lempicka \- Original Cast Recording\)](https://open.spotify.com/album/21y0TDnXUpf5D0fa2MFQ7g) | 4:52 |
+| 69 | [Woman Is \- from Lempicka \- Original Cast Recording](https://open.spotify.com/track/7tLpL9Ja10DDoY7LWGUgO5) | [Eden Espinosa](https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X) | [Woman Is \(2022 Sessions\)](https://open.spotify.com/album/21y0TDnXUpf5D0fa2MFQ7g) | 4:52 |
 | 70 | [Drag Is Expensive](https://open.spotify.com/track/6dG6aRB6ldz3XgdCayRBx3) | [Nick Adams](https://open.spotify.com/artist/0HY3GE5ZIVvA76aObgPviV), [Max Von Essen](https://open.spotify.com/artist/74YVw9S41bO4eb7Zd2Nsjv), [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Divina De Campo](https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9), [Lagoona Bloo](https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp) | [DRAG: The Musical \(The Studio Recording\)](https://open.spotify.com/album/6ozegwO34a67mkDh0gjZ6m) | 3:56 |
 | 71 | [Meant to Be Yours](https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF) | [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn), [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Michelle Duffy](https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:25 |
 | 72 | [Alyssa Greene](https://open.spotify.com/track/57Bd0IGmgkDMoEMGrAg6bx) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Matthew Sklar](https://open.spotify.com/artist/5w8oPW6pTURpSkr6PSIjzI) | [The Prom \(Music from the Netflix Film\)](https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN) | 2:20 |

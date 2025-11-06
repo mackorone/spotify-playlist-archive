@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: FIFTY FIFTY
 
-1,603 songs - 3 day 13 hr 2 min
+1,604 songs - 3 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-10 | 2023-10-07 |
 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv) | 2:53 | 2023-09-21 | 2023-11-10 |
 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2025-03-06 | 2025-04-16 |
+| [CYNICAL](https://open.spotify.com/track/39AbBWHLGckfng4J8b9h4Z) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [HEART MAID](https://open.spotify.com/album/3VTC0g2EGSIksMcUB4ajFN) | 2:35 | 2025-11-05 |  |
 | [D.I.M.M.](https://open.spotify.com/track/1MvwnK5nm6l6dMyHFcwwJb) | [VVS](https://open.spotify.com/artist/48I72itlO50Fhw7BImZ1XJ) | [D.I.M.M.](https://open.spotify.com/album/4mUUO0bk73wCbKyg3yTdci) | 3:48 | 2025-05-19 | 2025-05-26 |
 | [Daisy](https://open.spotify.com/track/6jql35WDVQEgTRHvUTPOrd) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 2:56 | 2022-09-06 | 2022-12-16 |
 | [DALLA DALLA \- Japanese ver.](https://open.spotify.com/track/0OvHs9ccBYfv0447jwWTxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 3:19 | 2021-12-23 | 2022-03-11 |
@@ -1135,7 +1136,7 @@
 | [Season of Memories](https://open.spotify.com/track/6QHWOhx5fYFKtI3LhgLrqM) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories \(Special Album\)](https://open.spotify.com/album/3RKQHq3qRjvC1haI9WxOKM) | 3:06 | 2025-01-17 | 2025-05-03 |
 | [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-07 | 2025-01-18 |
 | [Second](https://open.spotify.com/track/06airWVL4vpd8lNKQP9wMx) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 3:38 | 2022-05-16 | 2022-07-20 |
-| [Secret Quest](https://open.spotify.com/track/6c1O24cKJUobRYCUcTsoOw) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Pokémon \| Secret Quest](https://open.spotify.com/album/5R9Sb1iPJzh9kfShyNTTjm) | 3:30 | 2025-11-05 |  |
+| [Secret Quest](https://open.spotify.com/track/6c1O24cKJUobRYCUcTsoOw) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Pokémon \| Secret Quest \(Original Soundtrack\)](https://open.spotify.com/album/5R9Sb1iPJzh9kfShyNTTjm) | 3:30 | 2025-11-05 |  |
 | [See that?](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:02 | 2024-08-23 | 2024-11-12 |
 | [See you in hell](https://open.spotify.com/track/0ho6WKE45zywTVph0deBpq) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [I Did: Bloom \(Deluxe\)](https://open.spotify.com/album/2haRGdLvimDfNlDBW1LAt1) | 3:13 | 2025-01-17 | 2025-04-04 |
 | [Selfish](https://open.spotify.com/track/2stDO2K4MFsZmGJKN17oB3) | [Nicole](https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS) | [Selfish](https://open.spotify.com/album/7JV69xualLezqeKOIkoP7k) | 3:35 | 2023-05-09 | 2023-05-31 |

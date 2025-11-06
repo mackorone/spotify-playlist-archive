@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1382321,
+  "num_followers": 1382420,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+        "name": "Que Te Vaya Mal",
+        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
       },
       "artists": [
         {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+          "name": "Grupo Kachimba",
+          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
         }
       ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+      "duration_ms": 327253,
+      "name": "Ven a Mi",
+      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -683,38 +683,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Que Te Vaya Mal",
-        "url": "https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6"
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
       "artists": [
         {
-          "name": "Grupo Kachimba",
-          "url": "https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS"
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 327253,
-      "name": "Ven a Mi",
-      "url": "https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Coraz\u00f3n Enamorado",
-        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -751,18 +731,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+        "name": "Coraz\u00f3n Enamorado",
+        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+      "duration_ms": 300840,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -779,6 +763,22 @@
       "duration_ms": 254640,
       "name": "Cosas Bonitas",
       "url": "https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Lo Mas Ka-Bron Sonidero",
-        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
-      },
-      "artists": [
-        {
-          "name": "Kual",
-          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
-        }
-      ],
-      "duration_ms": 300906,
-      "name": "Soy Maraquero",
-      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Sus Mejores Exitos",
         "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 195946,
       "name": "Ca\u00f1ita Ca\u00f1averal",
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Lo Mas Ka-Bron Sonidero",
+        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
+      },
+      "artists": [
+        {
+          "name": "Kual",
+          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
+        }
+      ],
+      "duration_ms": 300906,
+      "name": "Soy Maraquero",
+      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q"
-      },
-      "artists": [
-        {
-          "name": "Grupo Konfusion",
-          "url": "https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4"
-        }
-      ],
-      "duration_ms": 271461,
-      "name": "Tu y yo",
-      "url": "https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Locura De Amor",
         "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 234140,
       "name": "Nuestra Historia Termino",
       "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q"
+      },
+      "artists": [
+        {
+          "name": "Grupo Konfusion",
+          "url": "https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4"
+        }
+      ],
+      "duration_ms": 271461,
+      "name": "Tu y yo",
+      "url": "https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
+      "duration_ms": 235293,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/6z4LGme7tL991yvpk1gURW"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Sigueme",
-        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
       },
       "artists": [
         {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
+      "duration_ms": 247946,
+      "name": "Pobre Corazon",
+      "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1180,25 +1180,25 @@
           "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/6z4LGme7tL991yvpk1gURW"
+      "duration_ms": 180533,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
     },
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+        "name": "Sigueme",
+        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
       },
       "artists": [
         {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
         }
       ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
+      "duration_ms": 202666,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Black Power",
         "url": "https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 247946,
-      "name": "Pobre Corazon",
-      "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "T\u00fa Eres La Raz\u00f3n (Electrocumbia Remake)",
         "url": "https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 195440,
       "name": "T\u00fa Eres La Raz\u00f3n - Electrocumbia Remake",
       "url": "https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "El Toque Tropical del Barrio Vol. 3",
         "url": "https://open.spotify.com/album/6TWE8uxJLDv912MqhXnxP1"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Dos en Uno",
-        "url": "https://open.spotify.com/album/62IIfBRz6IlMviHqNs1lNt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Macao de Alex y Jhonny",
-          "url": "https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z"
-        }
-      ],
-      "duration_ms": 313740,
-      "name": "Dos en Uno",
-      "url": "https://open.spotify.com/track/6z9FyLFLp1lLeRg3h0hPPU"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
         "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 366503,
       "name": "Pa' La Paloma",
       "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Dos en Uno",
+        "url": "https://open.spotify.com/album/62IIfBRz6IlMviHqNs1lNt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Macao de Alex y Jhonny",
+          "url": "https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z"
+        }
+      ],
+      "duration_ms": 313740,
+      "name": "Dos en Uno",
+      "url": "https://open.spotify.com/track/6z9FyLFLp1lLeRg3h0hPPU"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Cumbias de Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 243986,
-      "name": "So\u00f1e Contigo",
-      "url": "https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Gran Encuentro",
         "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
       },
@@ -1451,18 +1435,34 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Vaya Que Sabor!!",
-        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
+        "name": "Cumbias de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw"
       },
       "artists": [
         {
-          "name": "Pepe Gomez Jr. y su Grupo Union 82",
-          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
         }
       ],
-      "duration_ms": 199999,
-      "name": "Embrujo de Cumbia",
-      "url": "https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD"
+      "duration_ms": 243986,
+      "name": "So\u00f1e Contigo",
+      "url": "https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Espacial",
+        "url": "https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Espacial",
+      "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Espacial",
-        "url": "https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ"
+        "name": "Vaya Que Sabor!!",
+        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Pepe Gomez Jr. y su Grupo Union 82",
+          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Espacial",
-      "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
+      "duration_ms": 199999,
+      "name": "Embrujo de Cumbia",
+      "url": "https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD"
     },
     {
       "added_at": "2025-05-16 06:00:15",

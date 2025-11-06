@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 97 | [What I Got](https://open.spotify.com/track/2dSwYx6yx7wBuQcQMyXFTQ) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4), [ATHANASIA](https://open.spotify.com/artist/56sUrWqaCdTyKmSs4glQ7N) | [Waiting \- EP](https://open.spotify.com/album/3amD749bBCslLZkXzOb9Ji) | 3:12 |
 | 98 | [I Know](https://open.spotify.com/track/5OdmwBCqwtOXfYpLXocxxP) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Alter EP](https://open.spotify.com/album/1cNtoofX8TnCb3ExzRg86J) | 3:18 |
 | 99 | [Before Goodbyes](https://open.spotify.com/track/6pUAlW0yIC8ySMNSaPpJZp) | [Dainty](https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr) | [Before Goodbyes](https://open.spotify.com/album/2STzRQPDd5oukOCsvy11jP) | 3:21 |
-| 100 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
+| 100 | [For Myself](https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s) | [Jjoska](https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb) | [For Myself](https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw) | 4:50 |
+| 101 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 
-Snapshot ID: `AcAt8gAAAAA1pBym2q+ApbCgMBJHWgp6`
+Snapshot ID: `AcAzpgAAAACIAnlG0Y5S/j5/CnDBdsC6`

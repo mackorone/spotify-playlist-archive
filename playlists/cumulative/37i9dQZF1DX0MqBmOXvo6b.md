@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-749 songs - 1 day 7 hr 47 min
+754 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2022-06-07 | 2024-02-15 |
 | [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
-| [Before](https://open.spotify.com/track/0Rmf7MkhUZt3XEK4Lkv2oz) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Before](https://open.spotify.com/album/2mdHbqLrOSTnXiw3C6OOVm) | 2:18 | 2025-07-07 |  |
+| [Before](https://open.spotify.com/track/0Rmf7MkhUZt3XEK4Lkv2oz) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Before](https://open.spotify.com/album/2mdHbqLrOSTnXiw3C6OOVm) | 2:18 | 2025-07-07 | 2025-11-06 |
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2022-06-07 | 2023-08-16 |
 | [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-03-05 | 2025-04-26 |
 | [Belonging](https://open.spotify.com/track/6RQo40Vh1f5NCn14I04Kpp) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Belonging](https://open.spotify.com/album/4xFCnNBnu0rDejXyJa6P89) | 3:38 | 2022-06-07 | 2023-04-06 |
@@ -100,6 +100,7 @@
 | [Calm and Free](https://open.spotify.com/track/6CpfrXki7I0NzaMIoE740P) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Calm and Free](https://open.spotify.com/album/6lsQoXThAFoOrdSPGvenzI) | 2:27 | 2024-05-07 | 2025-04-26 |
 | [Calm Skies](https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Calm Skies](https://open.spotify.com/album/3Z6ejTSGeCcThfOjvv5sP4) | 2:07 | 2022-06-07 | 2024-05-08 |
 | [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 | 2024-11-20 |
+| [Caluna](https://open.spotify.com/track/4YT5ttzgRx4171gCPf0kxM) | [Henry Diamante](https://open.spotify.com/artist/3bBg4n36HaffB9ZolP3pl7) | [Caluna](https://open.spotify.com/album/0EN5rl3uMWuiR5fD3iQrLw) | 2:11 | 2025-11-05 |  |
 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 | 2024-04-17 |  |
 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 | 2023-07-24 |  |
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2022-06-07 | 2024-11-08 |
@@ -413,6 +414,7 @@
 | [Noapte](https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Noapte](https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4) | 3:19 | 2025-04-28 |  |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2022-06-07 | 2022-09-24 |
 | [Nocté](https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7) | [Van Kahloo](https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn) | [Nocté](https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK) | 2:21 | 2024-05-01 |  |
+| [Noema](https://open.spotify.com/track/2po93qcAxZJzlIjgRjhvsM) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Noema](https://open.spotify.com/album/5AAOABJQW2ufjJCmAz95MD) | 2:31 | 2025-11-05 |  |
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-02-06 |  |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2022-06-07 | 2024-12-12 |
 | [Nostrella](https://open.spotify.com/track/0LH9FWqGcPXzwZ3yTDhjXS) | [Henry Diamante](https://open.spotify.com/artist/3bBg4n36HaffB9ZolP3pl7) | [Nostrella](https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB) | 2:36 | 2025-09-24 |  |
@@ -478,7 +480,9 @@
 | [Qui n’avance pas, recule](https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Qui n’avance pas, recule](https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU) | 2:20 | 2022-06-07 | 2024-05-08 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2022-06-07 | 2022-09-24 |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
+| [Quiet Steps](https://open.spotify.com/track/7hYeMmEdabacQXrhNvnJJK) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Quiet Steps](https://open.spotify.com/album/5MvMdWhiBnZj815YxnQvqP) | 2:46 | 2025-11-05 |  |
 | [Quiet Suns](https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Quiet Suns](https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc) | 2:11 | 2025-01-21 |  |
+| [Quietude](https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Quietude](https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA) | 2:36 | 2025-11-05 |  |
 | [Radožda](https://open.spotify.com/track/2zgdofZUkshZvKAWCEpRp5) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Radožda](https://open.spotify.com/album/183bZYoRCXy29ZX35mxFOR) | 2:25 | 2022-06-07 | 2022-09-24 |
 | [Raindrops](https://open.spotify.com/track/6w2FKNd3zDRJGJ0krZxWPi) | [Giné](https://open.spotify.com/artist/6qMTH7WqDOK4qBW2w2g5ws) | [Raindrops](https://open.spotify.com/album/4B0q3wDobd2jeXO5vmf8Qm) | 1:54 | 2022-06-07 | 2022-09-24 |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2022-06-07 | 2024-10-02 |
@@ -699,6 +703,7 @@
 | [Van Gogh](https://open.spotify.com/track/1r7u0P8riC2vByLBR9aTcl) | [Emma Czaplica](https://open.spotify.com/artist/6h7OQW56Ckjwk8kbA1cxqF) | [Van Gogh](https://open.spotify.com/album/3pdsKk5JDvyNzZM8nFeKup) | 2:58 | 2022-06-07 | 2022-07-20 |
 | [Vanishing](https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Vanishing](https://open.spotify.com/album/7wzFXVYTTkez9YZSRPQBnm) | 3:31 | 2022-06-07 | 2023-10-18 |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-19 | 2023-07-25 |
+| [Veiled Memory](https://open.spotify.com/track/56owYDwyHyN0211FP8X9UD) | [Herman Schirmer](https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm) | [Veiled Memory](https://open.spotify.com/album/5uaz6CNRu055gCdLSJVLEt) | 2:15 | 2025-11-05 |  |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2022-06-07 | 2022-09-15 |
 | [Velora Hearts](https://open.spotify.com/track/20OBs0J1ajLj4FgdjOANbh) | [Klara Ericsson](https://open.spotify.com/artist/0p6O1VFehc49qi21Rb7fXO) | [Velora Hearts](https://open.spotify.com/album/7AxEOdbYtQJHUkhD5idtoI) | 2:31 | 2025-03-21 | 2025-04-26 |
 | [Veloura](https://open.spotify.com/track/3LkQZrx4ozjCE1RxHON6Bc) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Veloura](https://open.spotify.com/album/18pNyU9wkPCB0P4AuTmIvG) | 2:26 | 2025-08-12 |  |

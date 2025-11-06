@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-840 songs - 1 day 12 hr 18 min
+847 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Close](https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Close](https://open.spotify.com/album/1xEqzwfnOa644zQG71fg1n) | 2:36 | 2022-04-15 | 2024-02-03 |
 | [Clouds like birds](https://open.spotify.com/track/6XvQ90cDCjLdeaQGrqciuh) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Clouds like birds](https://open.spotify.com/album/4oYnziQxx6W6qndNYE4B9W) | 2:18 | 2025-02-19 |  |
 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 | 2022-04-15 | 2023-08-15 |
+| [Coincidences](https://open.spotify.com/track/6LTeyPlB34Vj3jkQ5k3l7Y) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Coincidences](https://open.spotify.com/album/4AvpqF3vABdDNJYO7WvXzd) | 2:45 | 2025-11-05 |  |
 | [Color Me Blue](https://open.spotify.com/track/1PYVWMwBocquvlCpYzwwxA) | [Akane](https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR) | [Color Me Blue](https://open.spotify.com/album/1OKTvmPzUpW1j3elbz89EF) | 3:10 | 2022-04-15 | 2022-05-14 |
 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-04-15 | 2024-02-03 |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2022-04-15 | 2022-05-14 |
@@ -147,6 +148,7 @@
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2022-04-15 | 2024-02-28 |
 | [Das Versprechen](https://open.spotify.com/track/1QCpwaFTWdn52B1MybBmGJ) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Das Versprechen](https://open.spotify.com/album/0LgaZhljzonHcCWXVV8zF5) | 2:26 | 2022-04-15 | 2024-03-26 |
 | [Dawn's reflection](https://open.spotify.com/track/15LkUIJWsiQI54VJlQj0tM) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [Dawn's reflection](https://open.spotify.com/album/4wkFYgDToH6x1vglr148A7) | 2:13 | 2025-07-08 |  |
+| [Days and Days](https://open.spotify.com/track/3LkBP7gC3g8cUWQpArGKAB) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Days and Days](https://open.spotify.com/album/3aEYmntr19JNHcZrz6YkGB) | 2:12 | 2025-11-05 |  |
 | [Days Of Roses](https://open.spotify.com/track/3QDpj4QuN10FOJXdCQOwOP) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Days Of Roses](https://open.spotify.com/album/1h8q1h380zEY9QYpPOckSr) | 2:00 | 2022-10-14 | 2024-10-23 |
 | [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 | 2022-12-22 | 2025-03-19 |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-04-15 | 2024-02-03 |
@@ -207,6 +209,7 @@
 | [Expansion](https://open.spotify.com/track/1tEVoDKgao9fpj3zcek1rE) | [Amalgamare](https://open.spotify.com/artist/4AEnX03LhdOeqIShZkZLvt) | [Expansion](https://open.spotify.com/album/69SHDDj1s8QjzzZ2PmTZdU) | 2:32 | 2022-08-09 | 2022-11-19 |
 | [Fable](https://open.spotify.com/track/5peqXtg8QfwrtkAVsX0hrf) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Fable](https://open.spotify.com/album/2bqm0uelNOxlsZUPlBYIf3) | 2:29 | 2023-09-25 | 2025-08-20 |
 | [Factotum](https://open.spotify.com/track/1q0ulJeANOQ8X77jcahMnf) | [Vincent Lundman](https://open.spotify.com/artist/2KzGQ3sjqj6YWyIUM4DcVh) | [Factotum](https://open.spotify.com/album/3CvtrccdoHvlNi3tVHJDQa) | 3:16 | 2022-04-15 | 2024-04-04 |
+| [Faded letters](https://open.spotify.com/track/5qs4TMl2rXLWxWFtXkcvMD) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Faded letters](https://open.spotify.com/album/63elNP6pt6oMZjh2HpaNft) | 2:16 | 2025-11-05 |  |
 | [Fading Embers](https://open.spotify.com/track/2zlwHdQh0b72gUeMhkRwkR) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Fading Embers](https://open.spotify.com/album/67QrN8t6R2s5wydrWNg62g) | 2:42 | 2023-12-12 | 2025-07-09 |
 | [Fading Memories](https://open.spotify.com/track/2Wl7eARO5COsvP4dNYDV9Q) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Fading Memories](https://open.spotify.com/album/7oGS56kXMWPPHV0wslzNPc) | 2:20 | 2024-02-02 | 2025-05-22 |
 | [Fairfield](https://open.spotify.com/track/2sc04X1Z2uVblrt7zqHSYS) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Fairfield](https://open.spotify.com/album/0OPzIpVpQ6uYoIOnB7Mwv8) | 2:08 | 2022-04-15 | 2022-04-23 |
@@ -359,6 +362,7 @@
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-04-15 | 2023-08-08 |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2022-04-15 | 2022-11-19 |
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-08-29 | 2025-05-22 |
+| [Lantern in the Fog](https://open.spotify.com/track/5WYzwJcAqTUcjji61rvkGI) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [Lantern in the Fog](https://open.spotify.com/album/0032D67SiKhUZwo02xt5gZ) | 2:15 | 2025-11-05 |  |
 | [Larae](https://open.spotify.com/track/0afdVLpxfG1ZogyBWK6t7I) | [Isobel Noble](https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq) | [Larae](https://open.spotify.com/album/2wBwCs72RrhJ69U9dvScL3) | 2:29 | 2022-04-15 | 2022-05-14 |
 | [Late Winter](https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Stories](https://open.spotify.com/album/01PVhzdLyFu2b2XNuZ1qKC) | 2:24 | 2022-04-15 | 2022-06-08 |
 | [Layer by layer](https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Layer by layer](https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts) | 2:28 | 2025-02-26 |  |
@@ -465,9 +469,11 @@
 | [Noir et Blanc](https://open.spotify.com/track/043N3wUhBlPT5otTLE0kIz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Noir et Blanc](https://open.spotify.com/album/4Xz5rzsmXAxIoqYZwllQZ9) | 2:29 | 2023-10-09 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2022-04-15 | 2022-05-14 |
 | [Nostalgia](https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Nostalgia](https://open.spotify.com/album/4tradG5YoXryCru3ftThli) | 2:12 | 2023-09-25 |  |
+| [Not meant to be](https://open.spotify.com/track/3uvuDQEnZQIHWQGw2bzFaN) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Not meant to be](https://open.spotify.com/album/6EkArqSeNIiXBHWx72gMsQ) | 2:11 | 2025-11-05 |  |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-04-15 | 2023-07-25 |
 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2022-04-15 | 2022-11-19 |
 | [Nous deux](https://open.spotify.com/track/2GLiH4byzaERkAbslclCoV) | [Gilbert Lécuyer](https://open.spotify.com/artist/239jUZAPmk38sV6d9o12xR) | [Nous deux](https://open.spotify.com/album/5CXGNp2IVTltB5YN5XLbDk) | 2:25 | 2022-04-15 | 2022-04-23 |
+| [Nouvelle Histoire](https://open.spotify.com/track/0N7culW5eQZEBnwSJNsnqc) | [Liam Löw](https://open.spotify.com/artist/6CiDC06djcdXP8uJl0LXKz) | [Nouvelle Histoire](https://open.spotify.com/album/5Og52TJ9BhyJWmotg5AmK6) | 2:33 | 2025-11-05 |  |
 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 | 2022-12-22 | 2024-10-16 |
 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 | 2022-04-15 | 2022-05-27 |
 | [Nádherný deň](https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Nádherný deň](https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI) | 1:59 | 2022-09-20 | 2023-07-25 |
@@ -502,6 +508,7 @@
 | [Outside Lit Windows With You](https://open.spotify.com/track/14QoAqrZEbEilcN1DVVKYn) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Outside Lit Windows With You](https://open.spotify.com/album/57PiHhu4kdVfRoRnHtaI4L) | 3:00 | 2023-02-13 | 2025-03-19 |
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2022-04-15 | 2024-03-26 |
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2022-04-15 | 2022-05-27 |
+| [Pages Lost to the Wind](https://open.spotify.com/track/7kT08GH3sOiPbfO4FjBUKC) | [Atlas Orson](https://open.spotify.com/artist/359p54G5Nn0vRDnD2Wrm16) | [Pages Lost to the Wind](https://open.spotify.com/album/1XmOgh2k3mJkfwPaDI8e48) | 2:47 | 2025-11-05 |  |
 | [Pajaros blancos](https://open.spotify.com/track/3r82q3kloSXj8ybjRNroLN) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Pajaros blancos](https://open.spotify.com/album/3szBCrDbDK5ethdxGuXMiO) | 2:04 | 2025-01-15 |  |
 | [Pale Azalea](https://open.spotify.com/track/2XaNQHBIDnxxS3GfMi3M1Y) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Pale Azalea](https://open.spotify.com/album/1BjqE4POSXPgbkc2oYjVOa) | 2:29 | 2025-08-19 |  |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2022-04-15 | 2024-03-26 |

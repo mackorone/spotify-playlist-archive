@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday🔥 ROSALÍA is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,583 likes - 20 songs - 53 min 7 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,495 likes - 20 songs - 53 min 8 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

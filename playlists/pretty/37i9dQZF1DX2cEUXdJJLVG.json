@@ -1,12 +1,12 @@
 {
   "description": "Funky & groovy tunes for poolside chilling.",
-  "num_followers": 82664,
+  "num_followers": 82663,
   "original_name": "Poolside Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALvEyFHBn1d5FvASxnnERUHAP9MW",
+  "snapshot_id": "AAAAAG6sxQG/o0/U2VCKGUf79pr3zXLU",
   "tracks": [
     {
       "added_at": "2025-10-09 22:00:26",
@@ -87,6 +87,26 @@
       "duration_ms": 184133,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/3LfWQjsfzBbMrK1XsKvky4"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+        },
+        {
+          "name": "MAX RAD",
+          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
+        }
+      ],
+      "duration_ms": 170753,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/3I1I8GRmCd2MOm3cdL7wOb"
     },
     {
       "added_at": "2025-10-09 22:00:26",
@@ -1403,26 +1423,6 @@
       "duration_ms": 168500,
       "name": "Poster Child",
       "url": "https://open.spotify.com/track/2L6eFClqVJy62RkW8FEAQx"
-    },
-    {
-      "added_at": "2025-10-09 22:00:26",
-      "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/3LfWQjsfzBbMrK1XsKvky4"
-      },
-      "artists": [
-        {
-          "name": "ISHA",
-          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
-        },
-        {
-          "name": "MAX RAD",
-          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
-        }
-      ],
-      "duration_ms": 170753,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/3I1I8GRmCd2MOm3cdL7wOb"
     },
     {
       "added_at": "2025-10-09 22:00:26",

@@ -1,12 +1,12 @@
 {
   "description": "\u0643\u0627\u0641\u064a\u0627\u0631 \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0645\u062d\u0644\u0651\u064a",
-  "num_followers": 39382,
+  "num_followers": 39391,
   "original_name": "\u0647\u064a\u0628 \u0647\u0648\u0628\u0646\u0627",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFa+107VM/Pxe7mHkzGyvscXA91b",
+  "snapshot_id": "AAAAAFdpgq62rCWM3i9JyCVAvcFBne3m",
   "tracks": [
     {
       "added_at": "2025-10-02 08:53:38",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/7e7XGcxSyirmCyxsGYvyQT"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2025-11-05 05:29:05",
       "album": {
-        "name": "Drb Almahalik",
-        "url": "https://open.spotify.com/album/3PveDVWQRW4vBfMuTDeCUP"
+        "name": "Armalat Al-Alpha",
+        "url": "https://open.spotify.com/album/4DQ6r2s7uCG9I1Xfy2RAtG"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw"
         }
       ],
-      "duration_ms": 244897,
-      "name": "Drb Almahalik",
-      "url": "https://open.spotify.com/track/3DBLrqr306UI8Lp7Z48n64"
+      "duration_ms": 366896,
+      "name": "Armalat Al-Alpha",
+      "url": "https://open.spotify.com/track/7paqmrCBmNEM6frYHCd8GL"
     },
     {
       "added_at": "2025-07-15 07:06:38",
@@ -95,6 +95,26 @@
     {
       "added_at": "2025-07-15 07:06:38",
       "album": {
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
+      },
+      "artists": [
+        {
+          "name": "Blvxb",
+          "url": "https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT"
+        },
+        {
+          "name": "Ruhmvn",
+          "url": "https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Miyat 3een",
+      "url": "https://open.spotify.com/track/3Jg5wpauPWxfXA0uP2XJ8B"
+    },
+    {
+      "added_at": "2025-07-15 07:06:38",
+      "album": {
         "name": "Batn Al Shaer",
         "url": "https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 148500,
       "name": "Mashi El Hal",
       "url": "https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb"
-    },
-    {
-      "added_at": "2025-07-15 07:06:38",
-      "album": {
-        "name": "Valhalla",
-        "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
-      },
-      "artists": [
-        {
-          "name": "Blvxb",
-          "url": "https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT"
-        },
-        {
-          "name": "Ruhmvn",
-          "url": "https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Miyat 3een",
-      "url": "https://open.spotify.com/track/3Jg5wpauPWxfXA0uP2XJ8B"
     },
     {
       "added_at": "2025-07-15 07:06:38",

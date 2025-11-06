@@ -2,7 +2,7 @@
 
 ### [90s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX1rVvRgjX59F)
 
-> These songs rocked the 90s\. Cover: Radiohead
+> These songs rocked the 90s\. Cover: Oasis
 
 164 songs - 11 hr 19 min
 

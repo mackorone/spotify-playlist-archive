@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-248 songs - 11 hr 43 min
+251 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 | 2023-09-29 | 2025-08-06 |
 | [closer](https://open.spotify.com/track/36J08RU5mlBaKPcNdkxLoa) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [closer](https://open.spotify.com/album/44ZRGnsdTom76RKEsCHSkN) | 2:56 | 2024-04-09 |  |
 | [Cloudberry Fields](https://open.spotify.com/track/0WlvEO2qqQKxCw0gj3YdCC) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Cloudberry Fields](https://open.spotify.com/album/7wCDMTG9yVQhGY8Vb6FyS4) | 2:08 | 2024-02-05 |  |
+| [Coincidences](https://open.spotify.com/track/6LTeyPlB34Vj3jkQ5k3l7Y) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Coincidences](https://open.spotify.com/album/4AvpqF3vABdDNJYO7WvXzd) | 2:45 | 2025-11-05 |  |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2023-09-29 | 2025-05-17 |
 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 | 2025-05-13 |  |
 | [Currents](https://open.spotify.com/track/5pDfqYDr6sOiYcUqReOqV0) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Currents](https://open.spotify.com/album/6Le87TgUSamNkbE8DLOXx0) | 2:04 | 2023-02-28 |  |
@@ -67,7 +68,7 @@
 | [Due tramonti](https://open.spotify.com/track/1Zv6RyHM08gyC4qvOlCZUL) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Passaggio](https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ) | 4:27 | 2021-11-09 | 2023-12-12 |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2023-09-29 |  |
 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 | 2022-02-21 |  |
-| [Echoes of the Past](https://open.spotify.com/track/1x18v7FSsW2HCxkw0BKpOw) | [Anna Kúsmierska](https://open.spotify.com/artist/7KSL6D4AfN958LTmv0jyXd) | [Echoes of the Past](https://open.spotify.com/album/0yRcUh3eA552gKjMEHfkiw) | 2:12 | 2025-09-25 |  |
+| [Echoes of the Past](https://open.spotify.com/track/1x18v7FSsW2HCxkw0BKpOw) | [Anna Kúsmierska](https://open.spotify.com/artist/7KSL6D4AfN958LTmv0jyXd) | [Echoes of the Past](https://open.spotify.com/album/0yRcUh3eA552gKjMEHfkiw) | 2:12 | 2025-09-25 | 2025-11-06 |
 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-24 | 2025-05-17 |
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2022-02-21 | 2025-05-17 |
 | [Enfantillages pittoresques: II\. Berceuse](https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Satie: Complete Piano Works, Vol\. 2/2](https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex) | 1:17 | 2021-11-09 | 2023-10-25 |
@@ -191,6 +192,7 @@
 | [Saint\-Saëns / Transcr\. Vidal: Le carnaval des animaux: XIII\. Le cygne](https://open.spotify.com/track/40IvETLq2Y1Su1Z0GWumRF) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Douglas Boyd](https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Intuition](https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW) | 3:28 | 2022-06-21 | 2023-09-30 |
 | [saman](https://open.spotify.com/track/5RqKo9P4DLA0bVyY70cWkr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [re:member](https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG) | 2:11 | 2021-11-09 | 2025-02-27 |
 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 | 2023-09-29 |  |
+| [Serenade of Silence](https://open.spotify.com/track/3wmNRYEkBD8NRsnmrtIbeI) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [Serenade of Silence](https://open.spotify.com/album/5786K1EoWZMb17nqKzyFeL) | 2:07 | 2025-11-05 |  |
 | [Shaman](https://open.spotify.com/track/1BpmW0DUzzFCsDmBtcGY2k) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Shaman](https://open.spotify.com/album/0mGr21i3WKYLlEouTu8lae) | 2:18 | 2024-10-21 | 2025-05-29 |
 | [Shroud of Night](https://open.spotify.com/track/55gJzsjaRb0nSv8ZyuUBqC) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Shroud of Night](https://open.spotify.com/album/5jIsBJGqv1y994K54N1QTp) | 3:19 | 2023-02-28 | 2024-01-03 |
 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 | 2024-03-11 |  |
@@ -217,6 +219,7 @@
 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 | 2021-11-09 | 2022-01-25 |
 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 | 2023-03-17 |  |
 | [The Gift](https://open.spotify.com/track/0PCduL4v5QEEKqeRUv7TEC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK) | 3:45 | 2021-11-09 | 2022-02-01 |
+| [The Lane](https://open.spotify.com/track/1bEhr0SSWwKz2ofFAloVFO) | [Semeru](https://open.spotify.com/artist/1kqm2oGEbEPjIQZnSecVks) | [The Lane](https://open.spotify.com/album/7AtgWgNqh9o2EubSrF0PcK) | 2:37 | 2025-11-05 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-09-29 | 2025-05-17 |
 | [The Quiet Room](https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Quiet Room](https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu) | 2:28 | 2025-01-17 |  |
 | [The Return](https://open.spotify.com/track/5wlUjXNwN62wxhAZWddA6B) | [Library Tapes](https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7) | [The Return](https://open.spotify.com/album/4nZ4sclyQYkBT2SlKBXvcJ) | 2:18 | 2021-11-09 | 2025-05-17 |

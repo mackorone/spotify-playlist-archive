@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Chuniri",
+        "url": "https://open.spotify.com/album/4vyu0GGbcX0ISQFG7Jh2GU"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170487,
+      "name": "Chuniri",
+      "url": "https://open.spotify.com/track/7gxGO2SFjrFz0rRuESbxSB"
+    },
+    {
+      "album": {
         "name": "CLICK BOOM!",
         "url": "https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l"
       },
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 224666,
       "name": "DUOMO",
       "url": "https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL"
@@ -1816,6 +1834,32 @@
       "duration_ms": 157168,
       "name": "Fino All'Alba",
       "url": "https://open.spotify.com/track/5nvVV6XRIWs4DNVAQfxElX"
+    },
+    {
+      "album": {
+        "name": "Hustle Mixtape Vol. 2",
+        "url": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "Floyd Mayweather (feat. Papa V e Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/3xrtjStNBOWioe7CN7YMDy"
     },
     {
       "album": {
@@ -5044,7 +5088,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 180863,
       "name": "VVS CARTIER",
       "url": "https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR"

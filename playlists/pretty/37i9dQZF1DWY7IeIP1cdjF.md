@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Maluma & Maisak, Bad Bunny, Feid and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,530,943 likes - 67 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,529,483 likes - 67 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 24 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 |
 | 25 | [Princesa](https://open.spotify.com/track/0CyZIh9olFTztxvyHJ4LwP) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Princesa](https://open.spotify.com/album/5Kr3hR7TsGPf8uetmcRNYV) | 3:08 |
 | 26 | [Dejala Caer \(with Ñengo Flow\)](https://open.spotify.com/track/4tMSB7gzZQJsKTaOfr80Qv) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Underwater](https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y) | 2:24 |
-| 27 | [Ella](https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Ella](https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets) | 4:24 |
+| 27 | [EN LA DE ELLA](https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Ella](https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets) | 4:24 |
 | 28 | [Mami Tú \(Remix\)](https://open.spotify.com/track/3DtlIQT5OBoGa0D1xYT0Yx) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Mami Tú \(Remix\)](https://open.spotify.com/album/189TkvvDE5eIIqUnjDrIcH) | 4:17 |
 | 29 | [Relojito Cartier](https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 2:41 |
 | 30 | [30 Mil Pies](https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [30 Mil Pies](https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU) | 3:07 |

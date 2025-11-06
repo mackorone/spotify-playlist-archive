@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 832821,
+  "num_followers": 832974,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGbY9fbqZ4897irMJAqMnNvL/mdx",
+  "snapshot_id": "AAAAAH36JDeU/vLrIDToWC06BV5NeJNI",
   "tracks": [
     {
       "added_at": "2025-10-03 16:37:43",
@@ -211,6 +211,26 @@
       "duration_ms": 130821,
       "name": "Cole Palmer",
       "url": "https://open.spotify.com/track/4E84CmRo1olaWA9Uk3dD9W"
+    },
+    {
+      "added_at": "2025-11-05 10:26:29",
+      "album": {
+        "name": "Love D'une Tana",
+        "url": "https://open.spotify.com/album/77YmSqZ7y8WSA2rZdWO0nD"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Love D'une Tana",
+      "url": "https://open.spotify.com/track/4Rb0eNuQLKe1OvdrLtQKO7"
     },
     {
       "added_at": "2025-10-17 12:57:08",
@@ -1555,22 +1575,6 @@
       "duration_ms": 147248,
       "name": "BTC",
       "url": "https://open.spotify.com/track/3q01Lk0VjsTJcj0Epr19nW"
-    },
-    {
-      "added_at": "2025-10-17 12:57:08",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a"
     },
     {
       "added_at": "2025-10-17 12:57:08",

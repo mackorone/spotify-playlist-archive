@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 04 Nov 19:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 Nov 04:04 UTC.
 
-5,774 songs - 13 day 9 hr 18 min
+5,777 songs - 13 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2552,7 +2552,7 @@
 | [In The Air Tonight](https://open.spotify.com/track/1u9iHwttLc4aRzBPAXnuHk) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [In The Air Tonight](https://open.spotify.com/album/0Z4E3iA6Z8V5LitVUXTKz4) | 5:01 | 2025-04-18 | 2025-04-27 |
 | [In The Cut](https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [In The Cut](https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM) | 2:47 | 2024-09-06 | 2024-09-12 |
 | [In The Dark](https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [In The Dark](https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl) | 4:18 | 2024-07-31 | 2024-08-02 |
-| [In The Dark](https://open.spotify.com/track/36cqRPZYjuy3LSbVSpMF1B) | [Yunggoth✰](https://open.spotify.com/artist/2Wpsydr0xZekaBFNQ0OSKd) | [In The Dark](https://open.spotify.com/album/1gIEqHodh2lVQZxjPyF7tr) | 2:57 | 2025-10-25 |  |
+| [In The Dark](https://open.spotify.com/track/36cqRPZYjuy3LSbVSpMF1B) | [Yunggoth✰](https://open.spotify.com/artist/2Wpsydr0xZekaBFNQ0OSKd) | [In The Dark](https://open.spotify.com/album/1gIEqHodh2lVQZxjPyF7tr) | 2:57 | 2025-10-25 | 2025-11-06 |
 | [IN THE FLESH](https://open.spotify.com/track/4Pml3YWGV50kbYfkty80WY) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [IN THE FLESH](https://open.spotify.com/album/3Cqafp2K6qY1TSslQRfAqo) | 1:54 | 2025-06-25 | 2025-07-03 |
 | [In The Grey](https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [In The Grey](https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0) | 3:38 | 2024-12-06 | 2024-12-11 |
 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 | 2024-10-08 | 2024-10-11 |
@@ -2919,7 +2919,7 @@
 | [Like Love](https://open.spotify.com/track/5S6ES4NNFABuAhyvxSuZOx) | [Ball Park Music](https://open.spotify.com/artist/1ououJVWgWsHWMYDLvT7sH) | [Like Love](https://open.spotify.com/album/1XrgOA2sbxiAHu1kIgemDA) | 2:54 | 2024-10-24 | 2024-10-26 |
 | [LIKE U](https://open.spotify.com/track/78e6hprIgJm3rMWjOmeXbA) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [LIKE U](https://open.spotify.com/album/4BME1fpCdQrJeeKu8dD1np) | 2:25 | 2025-07-23 | 2025-08-02 |
 | [Like You Did Before](https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Like You Did Before](https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg) | 3:07 | 2024-12-10 | 2024-12-13 |
-| [Likey](https://open.spotify.com/track/3D6YXcLKUp78mWf7jaXko1) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Likey](https://open.spotify.com/album/0BcGPJJp1PRbpeSNCtqLqB) | 1:54 | 2025-10-29 |  |
+| [Likey](https://open.spotify.com/track/3D6YXcLKUp78mWf7jaXko1) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Likey](https://open.spotify.com/album/0BcGPJJp1PRbpeSNCtqLqB) | 1:54 | 2025-10-29 | 2025-11-06 |
 | [LIL BIT OF HOT](https://open.spotify.com/track/7HWNRsfg2fOcEq3M8cAydE) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [LIL BIT OF HOT](https://open.spotify.com/album/5FXPbFrm9ACHyqKKBg8jLG) | 3:13 | 2024-09-12 | 2024-09-14 |
 | [Lil Mega Minion](https://open.spotify.com/track/4iTY4faTQSkScwbk2F1FUs) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Mega Minion](https://open.spotify.com/album/3EwNJwsIUmfOG7oZhcWVcY) | 1:51 | 2024-06-24 | 2024-06-26 |
 | [Lil O The Impaler](https://open.spotify.com/track/1bR6wx1XbLqqU3dQ2xgrpY) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [grails](https://open.spotify.com/album/7rMhfh9sfFiaE8ITYlAU9F) | 1:35 | 2025-05-21 | 2025-05-31 |
@@ -3718,6 +3718,7 @@
 | [Own Lane](https://open.spotify.com/track/5J0JMQtHObPqSy04UHuX8d) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Own Lane](https://open.spotify.com/album/2BnHWc2Qd2bCRfBHASeZUv) | 2:40 | 2024-08-07 | 2024-08-10 |
 | [Oxygen](https://open.spotify.com/track/0ncGg1FsXkT3VDEjC229IU) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Oxygen](https://open.spotify.com/album/28zqInXXqTsVDImavH3zyT) | 3:45 | 2024-10-02 | 2024-10-05 |
 | [Oyster Beds](https://open.spotify.com/track/59HjwstLsJRTHFku9kmDIB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Oyster Beds](https://open.spotify.com/album/0AYFSRHcPQkXwoHIJxA3N3) | 2:09 | 2024-08-23 | 2024-08-29 |
+| [P.O.L.O.](https://open.spotify.com/track/0LfU4PlA0TbNqXOPkEBjZ0) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [P.O.L.O.](https://open.spotify.com/album/7gwPUI70LAatDbDWrDFcgV) | 1:55 | 2025-11-06 |  |
 | [P90X](https://open.spotify.com/track/4dFyrftNQrUMb6TZyVgjKb) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [P90X](https://open.spotify.com/album/6Zqym74TRacxX660x3oQn8) | 1:54 | 2024-12-04 | 2024-12-07 |
 | [pa \- en vivo](https://open.spotify.com/track/5gAmzs2tUclDJl25mOH2x4) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [pa \(en vivo\)](https://open.spotify.com/album/6usoVQ8nyp9JzHy3gzIWug) | 3:32 | 2024-07-30 | 2024-08-01 |
 | [pacifico](https://open.spotify.com/track/2UKsvC3OHquxXYSibXWlCG) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [pacifico](https://open.spotify.com/album/6y22za0YpLupKqMyvfbFu9) | 3:18 | 2025-05-23 | 2025-05-31 |
@@ -5198,6 +5199,7 @@
 | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B) | 3:43 | 2025-08-16 | 2025-08-29 |
 | [TRUST!](https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [TRUST!](https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep) | 2:51 | 2024-10-18 | 2024-10-22 |
 | [Truth](https://open.spotify.com/track/49R2pACDtDsu9qmSXVDf7U) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Truth](https://open.spotify.com/album/2qVPJjKwwaBaeNfFver9d8) | 5:06 | 2025-03-16 | 2025-03-22 |
+| [Try To Love](https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Try To Love](https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5) | 2:23 | 2025-11-05 |  |
 | [TRYNA MAKE SURE](https://open.spotify.com/track/02VGZtwmrNLpTPW6Ei6sgh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/5bUzYt9BzLZy5Yud08Sd3Z) | 2:46 | 2024-05-03 | 2024-05-06 |
 | [TS3](https://open.spotify.com/track/3UOkWxI8Dm8j0coa7oE5Pv) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [TS3](https://open.spotify.com/album/4uPHXwQukvX8nesUKFiFTO) | 3:09 | 2024-12-21 | 2025-01-11 |
 | [Tsuki \(Lunatic\)](https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Tsuki \(Lunatic\)](https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc) | 3:16 | 2024-08-07 | 2024-08-09 |
@@ -5402,7 +5404,7 @@
 | [WATCH THE BODY DROP](https://open.spotify.com/track/0p0rMY8y45ogIbZLp03O8H) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [OG Keemo](https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE) | [WATCH THE BODY DROP](https://open.spotify.com/album/4tQMTcWWLTGfN449sM5jrO) | 2:37 | 2024-10-18 | 2024-10-22 |
 | [Water](https://open.spotify.com/track/3ebSIk0NkIExw1II0trZOs) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Water](https://open.spotify.com/album/1XYw1cdFZRfr6cgmM8GENC) | 3:53 | 2024-10-04 | 2024-10-08 |
 | [WAVE](https://open.spotify.com/track/0sVDqxhQaHPhMll6TddKq7) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [WAVE](https://open.spotify.com/album/3a37GVxKenh2BxpgCdMP7c) | 3:04 | 2024-10-15 | 2024-10-18 |
-| [Wavy Lyke Africa](https://open.spotify.com/track/4hBPYVun9c7xbDFUWwTF1F) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [Wavy Lyke Africa](https://open.spotify.com/album/2OQPn6xWdOvsxUyD4T9QQR) | 3:47 | 2025-10-28 |  |
+| [Wavy Lyke Africa](https://open.spotify.com/track/4hBPYVun9c7xbDFUWwTF1F) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [Wavy Lyke Africa](https://open.spotify.com/album/2OQPn6xWdOvsxUyD4T9QQR) | 3:47 | 2025-10-28 | 2025-11-06 |
 | [Wavy Navy University](https://open.spotify.com/track/3U5eiVoVoTMIA0VGOLon45) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Wavy Navy University](https://open.spotify.com/album/4MNyohrffBggOjMf5xRHVa) | 2:00 | 2024-09-09 | 2024-09-13 |
 | [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 | 2024-10-17 | 2024-10-19 |
 | [WAY 2A HEAD](https://open.spotify.com/track/4vEI1sDxqzjteNYL9JYkUi) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q), [Simo Cell](https://open.spotify.com/artist/4KxpqghQTX2FlkzsbG3ENk) | [WAY 2A HEAD](https://open.spotify.com/album/3x8aXahCFZYQHASo5vhe42) | 3:05 | 2024-09-25 | 2024-09-28 |
@@ -5691,6 +5693,7 @@
 | [Your New Place](https://open.spotify.com/track/27G7xkS9uc18t1FgTr89Pl) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Your New Place](https://open.spotify.com/album/0X2GVJ31G9U0rrbw4kneBa) | 7:32 | 2025-07-13 | 2025-07-19 |
 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 | 2024-10-25 | 2024-10-31 |
 | [your wedding](https://open.spotify.com/track/1mrwfndSc4xemZcavXuJFq) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [your wedding](https://open.spotify.com/album/26D68txe714qfGvzXi6ZXu) | 3:36 | 2024-11-13 | 2024-11-26 |
+| [YOUTUBE](https://open.spotify.com/track/6vb12ndiXPFYuaSxGYB5Pm) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [YOUTUBE](https://open.spotify.com/album/44EKKblmLAv6dnK2xYIto8) | 2:03 | 2025-11-05 |  |
 | [You’re So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 | 2024-06-03 | 2024-06-06 |
 | [Z\-Vor!](https://open.spotify.com/track/7J6NvmIvN6FJPMH2qVxYNg) | [Kanonenfieber](https://open.spotify.com/artist/5VI8SBEX7uSvoHsdI5xNVJ) | [Z\-Vor!](https://open.spotify.com/album/5rzilYGkiHSgRWwSVKr5pQ) | 3:54 | 2025-08-15 | 2025-08-22 |
 | [Zaman](https://open.spotify.com/track/5wyQumnnSMDLZSIkM2W4vV) | [Ra'is](https://open.spotify.com/artist/6tekmZkCK5xHTIwWeqyr0i) | [Zaman](https://open.spotify.com/album/2m0suQNdoE9ToZLnBheBgr) | 2:21 | 2024-08-09 | 2024-08-13 |

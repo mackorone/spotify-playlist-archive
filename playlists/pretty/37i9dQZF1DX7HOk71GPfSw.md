@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaive shoots, he scores ⚽⚽⚽⚽⚽⚽
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,326 likes - 200 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,373 likes - 200 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 30 | [MILF](https://open.spotify.com/track/5d2OldvCLCLssaPFtafz9j) | [RIZHA](https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI) | [GOD LOVES LATINAS](https://open.spotify.com/album/0XtueVYOVJmYqOeNM6Fd6p) | 2:49 |
 | 31 | [stuck in my brain](https://open.spotify.com/track/49ls67w00Aua7tcB0c8n7v) | [syris](https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE) | [stuck in my brain](https://open.spotify.com/album/0x5NrRwTqcJ8kvkYYLV5KL) | 2:40 |
 | 32 | [2NITEE](https://open.spotify.com/track/2QCsOTuZFLqrNrQ21OREdk) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [2NITEE / GONE](https://open.spotify.com/album/0PJu9ZzT3wXY5EEOAMnEAa) | 2:54 |
-| 33 | [You Got It For Me](https://open.spotify.com/track/02s2r1FrMEfrYRqoyz3PvW) | [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21) | [You Got It For Me](https://open.spotify.com/album/08mDyPLm9fKQOZfB9Uqxea) | 2:42 |
+| 33 | [You Got It For Me](https://open.spotify.com/track/02s2r1FrMEfrYRqoyz3PvW) | [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [You Got It For Me](https://open.spotify.com/album/08mDyPLm9fKQOZfB9Uqxea) | 2:42 |
 | 34 | [backseat](https://open.spotify.com/track/00RetYeQapE5uN9qpgpiSQ) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH), [Christian Cherry](https://open.spotify.com/artist/6rmnezB7LuaNkZ8OKeB3tK) | [backseat](https://open.spotify.com/album/3RmcyLL4Dh6QW7Qf7xcqIM) | 1:47 |
 | 35 | [ride or die](https://open.spotify.com/track/1rLdDdCgKA1oWhzvm3cDb3) | [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [ride or die](https://open.spotify.com/album/1AzPfd0Wg2QRNA73ue7WY5) | 2:47 |
 | 36 | [Tongue](https://open.spotify.com/track/38oHqKpGqxHkl6jR5CTqVT) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 2:41 |

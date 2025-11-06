@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,363 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,362 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 27 | [цветы](https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [мрачные треды](https://open.spotify.com/album/7CQpALyPsLg8aXe6sHxiMx) | 1:38 |
 | 28 | [Каждый раз](https://open.spotify.com/track/4IjiY0sShCYUEEoOSEwsgY) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Раскраски для взрослых](https://open.spotify.com/album/5dyKK0BGb0LrmIQVdB0ssA) | 3:28 |
 | 29 | [Сидр](https://open.spotify.com/track/3XXsFfSWeKX9Gy1YeXgmaa) | [Бонд с кнопкой](https://open.spotify.com/artist/2JrtkA0Z0JxBfEmxL25cP6) | [Дом](https://open.spotify.com/album/7KdfN3YUxLTuMLdlqvqThI) | 2:05 |
-| 30 | [Casino](https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/6bT5SWbxuKHfzZGmnkIqCi) | 1:57 |
+| 30 | [Casino](https://open.spotify.com/track/15AvaqwdQNlozX2RTVk9yx) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/75aK5xBLi3LqXuUrHU0RCr) | 1:57 |
 | 31 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
 | 32 | [миниюбка](https://open.spotify.com/track/4c8cveMq2r70IVDbJIUwxv) | [emoslut666](https://open.spotify.com/artist/4UYmYu83rr6K8XKURSLeYn) | [страшные следы](https://open.spotify.com/album/54tDpjtDrO6R5VF8qO5fJb) | 1:18 |
 | 33 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [мило материшься](https://open.spotify.com/track/4clWtg8OzmLO0TFBY7FGRm) | [volhey](https://open.spotify.com/artist/6BHwpXJsWpRi3aIzmAgGu8) | [мило материшься](https://open.spotify.com/album/3IpbEXtKfc8REXAFwKN642) | 2:00 |
 | 50 | [кхм\-кхм](https://open.spotify.com/track/0wJ36WwGpJAf40q4Mq95NK) | [плм](https://open.spotify.com/artist/2QGVa5v5FvgZGAUCqpXnqx) | [позорники в прямом эфире](https://open.spotify.com/album/44mQdLVKDecTvpO7NwpKMK) | 2:02 |
 
-Snapshot ID: `MJ1ueAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MJ6/+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

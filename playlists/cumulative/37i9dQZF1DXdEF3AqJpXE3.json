@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "beautiful disaster",
+        "url": "https://open.spotify.com/album/5p10dXl0Ydb49Yb5VnsqId"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204583,
+      "name": "beautiful disaster",
+      "url": "https://open.spotify.com/track/1LMYoMkISpBuySn4NCwmCO"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -6296,7 +6314,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 198450,
       "name": "P Ramlee Saloma",
       "url": "https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i"
@@ -9362,7 +9380,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
@@ -10808,6 +10826,28 @@
       "duration_ms": 268000,
       "name": "\u843d\u82b1\u5982\u96e8 (\u65b0\u4f20\u5a92\u620f\u5267\u300a\u5c0f\u5a18\u60f9\u4e4b\u7fe1\u7fe0\u5c71\u300b\u4e3b\u9898\u66f2)",
       "url": "https://open.spotify.com/track/0yej2N8lQ1HQMgzSzkRilc"
+    },
+    {
+      "album": {
+        "name": "\u8ddf\u60b2\u50b7\u7d50\u4e86\u5e33",
+        "url": "https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183462,
+      "name": "\u8ddf\u60b2\u50b7\u7d50\u4e86\u5e33",
+      "url": "https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD"
     },
     {
       "album": {

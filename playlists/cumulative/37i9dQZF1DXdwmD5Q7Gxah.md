@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter w/ Audrey Hobert is live 🪿</a> Cover: Oklou
 
-3,603 songs - 8 day 5 hr 6 min
+3,606 songs - 8 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,6 +837,7 @@
 | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-11-20 | 2022-01-08 |
 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 | 2021-07-31 | 2021-08-12 |
 | [dnd](https://open.spotify.com/track/4kFHZepxfNcgnR5TzY2Eqx) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 2:17 | 2020-11-20 | 2021-03-19 |
+| [Do It](https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Do It](https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg) | 3:33 | 2025-11-05 |  |
 | [do re mi](https://open.spotify.com/track/0V90Q0ubClSBrxpAmxEytl) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [do re mi](https://open.spotify.com/album/4xBH1ldoCiXeiYwKf7rwRe) | 1:17 | 2020-06-19 | 2020-06-29 |
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2021-03-25 | 2021-06-05 |
 | [Do U See Me?](https://open.spotify.com/track/3JDQPEYY8bxEo3pTXdhncy) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Do U See Me?](https://open.spotify.com/album/3VQ9KDQUYrOPSy8RMdeIFS) | 2:47 | 2025-03-28 | 2025-04-05 |
@@ -3460,6 +3461,7 @@
 | [Who Did You Touch?](https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7) | 3:28 | 2024-05-31 | 2024-08-20 |
 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 | 2022-04-15 | 2022-06-10 |
 | [Who Is Afraid Of Blue](https://open.spotify.com/track/6XMPzkE6lxZm9ZyejFbbgC) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 4:35 | 2023-06-07 | 2023-08-12 |
+| [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 | 2025-11-05 |  |
 | [Why](https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 2:19 | 2020-08-04 | 2022-03-18 |
 | [Why Can't I?](https://open.spotify.com/track/4z4PB23xYTg1oANmyZovsw) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Liz Phair](https://open.spotify.com/album/0rbgxvTKe3Y4VRar4sIYzT) | 3:28 | 2021-03-06 | 2021-03-14 |
 | [Why can’t you see](https://open.spotify.com/track/3yukgMnqGxj1FGak12DHVu) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Why can’t you see](https://open.spotify.com/album/2RReJH34G2ccyySp3DIYr3) | 2:29 | 2024-11-26 | 2025-01-31 |
@@ -3556,6 +3558,7 @@
 | [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 | 2025-09-12 | 2025-10-18 |
 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 | 2023-10-06 | 2024-01-11 |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-19 |  |
+| [You got time and I got money \- VVTZJ EDIT](https://open.spotify.com/track/5mLchLWTDgVPJPOjmDoeAx) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [VVTZJ](https://open.spotify.com/artist/2gJxIQspPPFPuNt5RFCtsw) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 5:22 | 2025-11-05 |  |
 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 | 2022-05-23 | 2022-07-30 |
 | [You Know](https://open.spotify.com/track/62Z3cSNVcHgUwlXPfOQTHU) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Suburbia](https://open.spotify.com/album/6tgqWECqtuTsbMXoEHCkwI) | 3:17 | 2022-10-21 | 2022-12-08 |
 | [You Lose!](https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [You Lose!](https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh) | 3:24 | 2021-09-21 | 2021-11-13 |

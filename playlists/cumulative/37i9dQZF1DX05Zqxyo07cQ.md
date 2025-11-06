@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-853 songs - 1 day 17 hr 17 min
+854 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Moment of Awareness](https://open.spotify.com/track/6zaiKqdrDS2xZuMY48k76k) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Moment of Awareness](https://open.spotify.com/album/2IbgyoRJX0YMKAoSn8Yfso) | 3:13 | 2025-09-23 |  |
 | [Moments](https://open.spotify.com/track/09gam7W4R7EnINv1m1j3Pi) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Moments](https://open.spotify.com/album/3v2iN5hsEJ2UlS2ECAtJbN) | 2:25 | 2025-03-27 | 2025-06-13 |
 | [Moments of Stillness](https://open.spotify.com/track/6m9JbPIC8saBo8pVm08x0j) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Moments Of Stillness](https://open.spotify.com/album/4nikff5wMmknaIkoqtzQrz) | 3:02 | 2023-03-23 | 2024-02-09 |
+| [Momentum](https://open.spotify.com/track/5dyewd2qoO14myEIrjR9xr) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Momentum](https://open.spotify.com/album/46ydE0IFCcL8SAS0pPiR1q) | 2:38 | 2025-10-08 |  |
 | [Moonblossom](https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Moonblossom](https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4) | 2:22 | 2025-01-22 |  |
 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 | 2023-03-23 | 2024-03-21 |
 | [Mox](https://open.spotify.com/track/4baX3QPYxpxQN6EZb8xhDq) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Mox](https://open.spotify.com/album/76GrBfBf4wY5mUXiKD1qbQ) | 2:54 | 2024-06-18 | 2025-01-23 |
@@ -708,7 +709,7 @@
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 | 2025-04-26 |
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2023-03-23 | 2023-05-06 |
 | [Somnolence](https://open.spotify.com/track/0tC5fBzBASYQGoMtIZJ38I) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Somnolence](https://open.spotify.com/album/2Jsc7fJFeqZMFMoNw5OBfN) | 2:47 | 2025-07-09 |  |
-| [Somnolent Mori](https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Somnolent Mori](https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz) | 3:39 | 2025-04-09 |  |
+| [Somnolent Mori](https://open.spotify.com/track/7dl6vG0X75fB9J5l7b494p) | [Umi no Yume](https://open.spotify.com/artist/2CbTni1UIAt2eoi6jMWaaQ) | [Somnolent Mori](https://open.spotify.com/album/1czqzODAZjH1TClXpW61qz) | 3:39 | 2025-04-09 | 2025-11-06 |
 | [Sona](https://open.spotify.com/track/685glMCresRk1Yvy50O1wO) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Sona](https://open.spotify.com/album/5eCtu7zfvFUWQyqp63NDHu) | 2:30 | 2023-03-23 | 2024-05-05 |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2023-03-23 | 2024-01-18 |
 | [Soñando contigo](https://open.spotify.com/track/1i08QuMuJk5RPROZkCkt8k) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Soñando contigo](https://open.spotify.com/album/1Ht1ElfGVwAe4CUmCKKCoa) | 3:19 | 2023-03-23 | 2024-02-09 |

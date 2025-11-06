@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-770 songs - 1 day 8 hr 58 min
+775 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 | 2025-04-24 |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 | 2023-01-27 |
 | [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
-| [Before](https://open.spotify.com/track/0Rmf7MkhUZt3XEK4Lkv2oz) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Before](https://open.spotify.com/album/2mdHbqLrOSTnXiw3C6OOVm) | 2:18 | 2025-07-07 |  |
+| [Before](https://open.spotify.com/track/0Rmf7MkhUZt3XEK4Lkv2oz) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Before](https://open.spotify.com/album/2mdHbqLrOSTnXiw3C6OOVm) | 2:18 | 2025-07-07 | 2025-11-06 |
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2021-12-07 | 2024-04-19 |
 | [Before You Leave](https://open.spotify.com/track/5r4tOJk4xR3J4SQS52GO4l) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [Before You Leave](https://open.spotify.com/album/59XlugrAgS9ZEQ8UsZ5zPd) | 2:08 | 2024-03-05 | 2025-05-31 |
 | [Bellevue](https://open.spotify.com/track/40z1F06SK2TWTrozGft2vp) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Bellevue](https://open.spotify.com/album/3PY8KrpMXFaTfy2hhYBXJk) | 2:00 | 2021-12-07 | 2024-11-13 |
@@ -113,6 +113,7 @@
 | [Calm after the Storm](https://open.spotify.com/track/3FTGaPHBo9p6fce4rYOfxT) | [Nicolai Bertoli](https://open.spotify.com/artist/1A6h4GZEr6PJvIuqcWYFBI) | [Calm after the Storm](https://open.spotify.com/album/3y7x47zbzfA3pd6C0zjnoE) | 2:09 | 2021-12-07 | 2022-07-16 |
 | [Calm and Free](https://open.spotify.com/track/6CpfrXki7I0NzaMIoE740P) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Calm and Free](https://open.spotify.com/album/6lsQoXThAFoOrdSPGvenzI) | 2:27 | 2024-01-09 | 2024-07-24 |
 | [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
+| [Caluna](https://open.spotify.com/track/4YT5ttzgRx4171gCPf0kxM) | [Henry Diamante](https://open.spotify.com/artist/3bBg4n36HaffB9ZolP3pl7) | [Caluna](https://open.spotify.com/album/0EN5rl3uMWuiR5fD3iQrLw) | 2:11 | 2025-11-05 |  |
 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 | 2024-04-17 |  |
 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 | 2023-07-24 | 2024-12-12 |
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-07 | 2024-08-10 |
@@ -458,6 +459,7 @@
 | [Noapte](https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Noapte](https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4) | 3:19 | 2025-04-28 |  |
 | [Nocturne](https://open.spotify.com/track/6rotz7JFg3WMGt3fRBewPo) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Nocturne](https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A) | 2:25 | 2021-12-07 | 2022-07-16 |
 | [Nocté](https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7) | [Van Kahloo](https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn) | [Nocté](https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK) | 2:21 | 2024-05-01 |  |
+| [Noema](https://open.spotify.com/track/2po93qcAxZJzlIjgRjhvsM) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Noema](https://open.spotify.com/album/5AAOABJQW2ufjJCmAz95MD) | 2:31 | 2025-11-05 |  |
 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 | 2021-12-07 | 2024-04-04 |
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-02-06 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-12-07 | 2025-02-19 |
@@ -530,7 +532,9 @@
 | [Quantum Leap](https://open.spotify.com/track/5rhEwaIiy4GVfJIb9G5SOU) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [Quantum Leap](https://open.spotify.com/album/5j8trqbZklxLUHbB6liH7r) | 1:48 | 2022-07-15 | 2023-07-25 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2021-12-07 | 2022-04-08 |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
+| [Quiet Steps](https://open.spotify.com/track/7hYeMmEdabacQXrhNvnJJK) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Quiet Steps](https://open.spotify.com/album/5MvMdWhiBnZj815YxnQvqP) | 2:46 | 2025-11-05 |  |
 | [Quiet Suns](https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Quiet Suns](https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc) | 2:11 | 2025-01-21 |  |
+| [Quietude](https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Quietude](https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA) | 2:36 | 2025-11-05 |  |
 | [Rain In July](https://open.spotify.com/track/6VWXXegvaYsNkEZdKRNtlE) | [Noah Evans](https://open.spotify.com/artist/3s8VDnYnPvSLjhI9B2W1Ou) | [Rain In July](https://open.spotify.com/album/0BHNEQXEvfQBzpCo3a07jp) | 2:50 | 2022-04-07 | 2025-02-27 |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2021-12-07 | 2024-11-06 |
 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 | 2021-12-07 | 2024-09-03 |
@@ -718,6 +722,7 @@
 | [Valverde](https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Duality](https://open.spotify.com/album/3dE84iT1GkIHixshI0twdV) | 2:04 | 2021-12-07 | 2023-01-27 |
 | [Vanishing](https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Vanishing](https://open.spotify.com/album/7wzFXVYTTkez9YZSRPQBnm) | 3:31 | 2021-12-07 | 2024-04-04 |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-07-15 | 2023-07-25 |
+| [Veiled Memory](https://open.spotify.com/track/56owYDwyHyN0211FP8X9UD) | [Herman Schirmer](https://open.spotify.com/artist/3jyv8lrOBakKhajNDnxoJm) | [Veiled Memory](https://open.spotify.com/album/5uaz6CNRu055gCdLSJVLEt) | 2:15 | 2025-11-05 |  |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2021-12-07 | 2022-07-16 |
 | [Vellichor](https://open.spotify.com/track/6wHTJ1Bx98S9qILhLsgeQO) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Vellichor](https://open.spotify.com/album/5VbKExVj5IMx2M4ABGZCN7) | 2:37 | 2021-12-07 | 2022-09-15 |
 | [Velora Hearts](https://open.spotify.com/track/20OBs0J1ajLj4FgdjOANbh) | [Klara Ericsson](https://open.spotify.com/artist/0p6O1VFehc49qi21Rb7fXO) | [Velora Hearts](https://open.spotify.com/album/7AxEOdbYtQJHUkhD5idtoI) | 2:31 | 2025-03-21 | 2025-05-31 |

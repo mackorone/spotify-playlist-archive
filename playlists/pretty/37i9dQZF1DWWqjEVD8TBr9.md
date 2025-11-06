@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,776,690 likes - 249 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,776,700 likes - 249 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,11 +128,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 | 118 | [\#LoveSTAY](https://open.spotify.com/track/44dZ49nRlFPSmX6A80rKB1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:17 |
 | 119 | [ZONE \(Bang Chan, Changbin, HAN\)](https://open.spotify.com/track/56ZpFy1kLsXwtbHWX1CgJ4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:32 |
 | 120 | [Close \(HAN\)](https://open.spotify.com/track/7jcpg7osgYWffx9LmLEoZ4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:46 |
-| 121 | [Streetlight \(Changbin\)](https://open.spotify.com/track/1Z6NmeYIfN4e8TuEYLFTKL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Bang Chan](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:09 |
+| 121 | [Streetlight \(Changbin\)](https://open.spotify.com/track/1Z6NmeYIfN4e8TuEYLFTKL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:09 |
 | 122 | [i hate to admit \(Bang Chan\)](https://open.spotify.com/track/0XABJLloqjHsF4mY4tGIOH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:50 |
 | 123 | [I GOT IT \(HAN\)](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:50 |
 | 124 | [miss you \(Hyunjin\)](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:08 |
-| 125 | [Maknae On Top \(I.N\)](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Bang Chan](https://open.spotify.com/artist/4qy7HANJDOZRObts4Z0KSV), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:33 |
+| 125 | [Maknae On Top \(I.N\)](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:33 |
 | 126 | [Alien \(HAN\)](https://open.spotify.com/track/3czfvJgfEDfBT5OKA5qAU5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:19 |
 | 127 | [Because \(Changbin, Felix\)](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:18 |
 | 128 | [Piece of a Puzzle \(Changbin, Seungmin\)](https://open.spotify.com/track/56uBQujWiOiFMFg1R3TZUJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:53 |

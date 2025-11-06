@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-107 songs - 7 hr 28 min
+108 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Just a Word](https://open.spotify.com/track/19WtCpTdybCtlBoWQhQksl) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:29 | 2024-05-01 |  |
 | [KEEPER](https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:42 | 2025-10-25 |  |
 | [Lee & Lovie \(with reggie\)](https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:51 | 2024-05-01 |  |
+| [Let's Go Fall In Love](https://open.spotify.com/track/52UFSjPk1yjxexLYcx9LUD) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 2:37 | 2025-11-05 |  |
 | [Look at the Bright Side](https://open.spotify.com/track/6OayOjfbGTWL498FQl7ENx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 7:46 | 2024-05-01 |  |
 | [Love Will Find a Way](https://open.spotify.com/track/6ZQkqX0aZK5gFkzv6iS4vZ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Love Will Find a Way](https://open.spotify.com/album/4isROWy1SFzZ5jSFp2pKEC) | 5:32 | 2024-05-01 |  |
 | [Miss Purty](https://open.spotify.com/track/3leGXxXO1gVejwDfW8G6uJ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:24 | 2024-05-01 |  |

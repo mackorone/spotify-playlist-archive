@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Protek Illasheva
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,203 likes - 121 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,202 likes - 121 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

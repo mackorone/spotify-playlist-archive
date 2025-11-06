@@ -16661,6 +16661,24 @@
     },
     {
       "album": {
+        "name": "State Of Emergency",
+        "url": "https://open.spotify.com/album/1h4IElYGVPnku0hM7C1JPw"
+      },
+      "artists": [
+        {
+          "name": "Smith & Sorren",
+          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245625,
+      "name": "State Of Emergency",
+      "url": "https://open.spotify.com/track/39Bz1AM2z7s6wCeJ6KEpRr"
+    },
+    {
+      "album": {
         "name": "State of Mind",
         "url": "https://open.spotify.com/album/4A8mUMRR5w7HoUALgYy0Pk"
       },

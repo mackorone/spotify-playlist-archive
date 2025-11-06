@@ -1075,6 +1075,36 @@
     },
     {
       "album": {
+        "name": "La Danza de Helmut",
+        "url": "https://open.spotify.com/album/6Kks2IU2J1pb2nZ6sCpjck"
+      },
+      "artists": [
+        {
+          "name": "Luri Molina",
+          "url": "https://open.spotify.com/artist/6SEMxEhkjIX6zwedFrLv0n"
+        },
+        {
+          "name": "Diego Franco",
+          "url": "https://open.spotify.com/artist/54unEwVLwrdvfz638XHDzY"
+        },
+        {
+          "name": "Juan Ale S\u00e1enz",
+          "url": "https://open.spotify.com/artist/46lGzSjHcC3I4JOUVpriOa"
+        },
+        {
+          "name": "Roberto Ver\u00e1stegui",
+          "url": "https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238039,
+      "name": "La Danza de Helmut",
+      "url": "https://open.spotify.com/track/3XIuXL9FZBfoQe0KK7tdqc"
+    },
+    {
+      "album": {
         "name": "Tlapaler\u00eda Don Chuy",
         "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
       },
@@ -1452,7 +1482,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 304213,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"

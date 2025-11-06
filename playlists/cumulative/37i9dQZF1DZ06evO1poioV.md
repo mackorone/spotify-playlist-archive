@@ -4,7 +4,7 @@
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-111 songs - 7 hr 18 min
+113 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,9 @@
 | [A Beautiful Noise](https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A Beautiful Noise](https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU) | 3:19 | 2022-09-16 | 2023-05-21 |
 | [A Little Light](https://open.spotify.com/track/5FCdNyA2VICUVsvbWkSDo2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 4:22 | 2025-04-07 | 2025-07-12 |
 | [A Long Goodbye](https://open.spotify.com/track/77tp1Yy4gys1k5bDtUygfu) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:47 | 2025-10-27 | 2025-11-01 |
-| [A War With Time](https://open.spotify.com/track/68BFqpvYMNQFtOw0C9zb2s) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A War With Time](https://open.spotify.com/album/6hHSLpzxyhvw8gzfhURIYd) | 4:02 | 2025-10-09 |  |
+| [A War With Time](https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:02 | 2025-11-06 |  |
+| [A War With Time](https://open.spotify.com/track/68BFqpvYMNQFtOw0C9zb2s) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A War With Time](https://open.spotify.com/album/6hHSLpzxyhvw8gzfhURIYd) | 4:02 | 2025-10-09 | 2025-11-06 |
+| [A War With Time \- Commentary](https://open.spotify.com/track/6XunPPuCAKfdS0wCfHR1yq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 0:36 | 2025-11-06 |  |
 | [A Woman Oversees](https://open.spotify.com/track/2r5eNCbdI19jEkHSq9IbgM) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:26 | 2025-10-26 |  |
 | [Already Home \(with Brandi Carlile\)](https://open.spotify.com/track/6lYOxpP2BB48oEsX06Ini0) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Habitación Doble](https://open.spotify.com/album/4DfVCpHDW9AN1DEw5nvssI) | 4:01 | 2022-09-16 | 2022-10-15 |
 | [Angel From Montgomery](https://open.spotify.com/track/3JZRzBdRPCo2j8hXKGK0vZ) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Cayamo Sessions At Sea](https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF) | 4:47 | 2022-09-16 | 2024-04-30 |
@@ -59,7 +61,7 @@
 | [I Remember Everything](https://open.spotify.com/track/7Gx9IYUjSClP29kCeMruVu) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70) | 2:36 | 2025-01-18 | 2025-04-06 |
 | [If She Ever Leaves Me](https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:13 | 2022-09-16 |  |
 | [If There Was No You](https://open.spotify.com/track/4GBw1ipeO6q1OrBpZrXF8f) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Give Up The Ghost](https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv) | 2:39 | 2023-02-15 | 2023-12-14 |
-| [Joni](https://open.spotify.com/track/2Z2XYJrksBXf6sfPeUWOML) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:08 | 2025-10-26 |  |
+| [Joni](https://open.spotify.com/track/2Z2XYJrksBXf6sfPeUWOML) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:08 | 2025-10-26 | 2025-11-06 |
 | [Josephine](https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:02 | 2022-09-16 |  |
 | [Keep Your Heart Young](https://open.spotify.com/track/102LKbpOsGAXWYQx9sEd5e) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:20 | 2023-04-30 | 2025-03-06 |
 | [Late Morning Lullaby](https://open.spotify.com/track/3vhaMxyoEBA0WhBXWIP3b6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:27 | 2022-09-16 | 2025-11-03 |

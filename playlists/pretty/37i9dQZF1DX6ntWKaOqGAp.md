@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: レトロリロン Retroriron
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,780 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,775 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 4 | [I](https://open.spotify.com/track/4fZg2tFkmln0lraBWvpCzV) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [I](https://open.spotify.com/album/2hTHXj7Y8adzK3Z49kKqbr) | 4:06 |
 | 5 | [wasurerumaeni](https://open.spotify.com/track/4gUjQJheIwz5ALZyeGXHXo) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [wasurerumaeni](https://open.spotify.com/album/0YEgYchI5FGy7g2zqrdsjF) | 4:02 |
 | 6 | [My Answer](https://open.spotify.com/track/5sb1ngao5lKvPfGBiBsQW8) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [My Answer](https://open.spotify.com/album/0P2qYoVgXNwR6zsxSYhyn8) | 3:32 |
-| 7 | [Bon Voyage](https://open.spotify.com/track/2KwSdAqBpDcIYEeqrG6JmT) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [](https://open.spotify.com/album/null) | 3:29 |
+| 7 | [Bon Voyage](https://open.spotify.com/track/2KwSdAqBpDcIYEeqrG6JmT) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2) | 3:29 |
 | 8 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |
-| 9 | [感情的侵略](https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [](https://open.spotify.com/album/null) | 2:43 |
+| 9 | [感情的侵略](https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [glauben](https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4) | 2:43 |
 | 10 | [Kiseki Wo Mattetatte](https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Kiseki Wo Mattetatte](https://open.spotify.com/album/6NsaIlN1RzWWPj8jhgPrcQ) | 5:19 |
 | 11 | [Beatnik \-Horse\-](https://open.spotify.com/track/06v7ABINEkCwhMkSZqzYRv) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Beatnik](https://open.spotify.com/album/1Z50IdCsoZ9cushB3oRimV) | 3:09 |
 | 12 | [FMP](https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FMP](https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK) | 3:24 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 27 | [BLUE DIVER](https://open.spotify.com/track/3n07Xv1MuzLx76mmHn0lly) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUE DIVER](https://open.spotify.com/album/7y1qT6eKNtrlMs3QbCJ3db) | 5:28 |
 | 28 | [CRYSTAL](https://open.spotify.com/track/64bR2sgtk2RsxfvuiTGJVM) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 3:51 |
 | 29 | [Shion](https://open.spotify.com/track/5RLXDp8XH7mkZcO77ySKjR) | [Yukiguni](https://open.spotify.com/artist/0N5NrI3hIGrAF4dBOXHYM7) | [shion](https://open.spotify.com/album/1QgD5p6RIf71mh4UrbdXxL) | 10:18 |
-| 30 | [言葉の先](https://open.spotify.com/track/6r9AjPVYzjMpKQJpU1EbRJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [](https://open.spotify.com/album/null) | 4:24 |
+| 30 | [言葉の先](https://open.spotify.com/track/6r9AjPVYzjMpKQJpU1EbRJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [SCRATCH](https://open.spotify.com/album/04VoqlNFJ7aTY4HbaJJEXe) | 4:24 |
 | 31 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 |
 | 32 | [欠片](https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [欠片](https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt) | 2:40 |
 | 33 | [Droopy Eyes](https://open.spotify.com/track/0e6gFVDT07RdwGOxBXcwAg) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Just Punk Rock!](https://open.spotify.com/album/5EfZIqlCrpsWAO7PBXLxv3) | 3:56 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 95 | [Bassist](https://open.spotify.com/track/7GeDYKAkry82mtSv9J13AG) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Bassist](https://open.spotify.com/album/1HOYHSTo3KTyFK3ZudeSGs) | 3:11 |
 | 96 | [SCARY MONSTER](https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SCARY MONSTERS EP](https://open.spotify.com/album/3mWJos5NX3yC9QnpdCjvxD) | 3:04 |
 | 97 | [Maybe!!!](https://open.spotify.com/track/2Zij3UXR4C7W9eJiDzlsaA) | [hasirikomis](https://open.spotify.com/artist/28bJGbQ7LynOhMZYD2ctdv) | [Friends Orchestra](https://open.spotify.com/album/213wnWSBArOoDBCcmGV1dD) | 3:42 |
-| 98 | [Darekano Kanojoni Nattemo](https://open.spotify.com/track/1XsHTkn4Kwc6UuuKySRI25) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [](https://open.spotify.com/album/null) | 3:01 |
+| 98 | [Darekano Kanojoni Nattemo](https://open.spotify.com/track/1XsHTkn4Kwc6UuuKySRI25) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Hibino Kakera](https://open.spotify.com/album/3Mi31WVLVQGd0sBV1NyCKX) | 3:01 |
 | 99 | [DIXI](https://open.spotify.com/track/2eSbg5OjSg6jvdLPtmD6ns) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [DIXI](https://open.spotify.com/album/16yB1i3ieiP44WhueENulT) | 2:22 |
 | 100 | [Tropic/熱帯](https://open.spotify.com/track/4SCqVwS0N2MWB93M97e6Yx) | [Zoobombs](https://open.spotify.com/artist/207YH7vqVsMSqZGXtDAb96) | [UMA LAND](https://open.spotify.com/album/7uNj1PBupfbymXq3bir4Qg) | 4:49 |
 

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Library Card
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,986 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,018 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Days of Clay](https://open.spotify.com/track/2Krzlio8cLKGyJk8lKzvPM) | [Library Card](https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT), [Axender](https://open.spotify.com/artist/6n2JuOcyeutWrxWQH5CsmL) | [Art School / Days of Clay](https://open.spotify.com/album/6ueyr4PrJyuzAv7DNQXEh7) | 5:15 |
-| 2 | [GOLDEN RULES // GUILTY PLEASURES](https://open.spotify.com/track/54GFxpHAtEGbUly8Nd9lbn) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [FUZZY TEETH](https://open.spotify.com/album/6k1m2uDuCrhSKrxObUnrE3) | 2:26 |
-| 3 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
-| 4 | [Talk To Me Too](https://open.spotify.com/track/7zA1fsKcnaiKmPDGjBTj3s) | [L'orne](https://open.spotify.com/artist/2ZmFjOdUp704kwT939D2Uy) | [Talk To Me Too](https://open.spotify.com/album/5R8K5hptHyhmlBlPhOGPAa) | 6:31 |
-| 5 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
-| 6 | [I Know](https://open.spotify.com/track/0PBo3D8IEzTDdD1W5uPAfA) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone \(Deluxe Edition\)](https://open.spotify.com/album/7Bt2EAQTWCd95yI8fml15a) | 3:09 |
-| 7 | [Hole In The Ground](https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Hole In The Ground](https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK) | 3:44 |
-| 8 | [MONKEY SEE MONKEY DO](https://open.spotify.com/track/3L4JKn0quzxs56myjLjmZG) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [MONKEY SEE MONKEY DO](https://open.spotify.com/album/3rS0r5DrE8YClu1jM0a9pw) | 1:49 |
+| 2 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
+| 3 | [Talk To Me Too](https://open.spotify.com/track/7zA1fsKcnaiKmPDGjBTj3s) | [L'orne](https://open.spotify.com/artist/2ZmFjOdUp704kwT939D2Uy) | [Talk To Me Too](https://open.spotify.com/album/5R8K5hptHyhmlBlPhOGPAa) | 6:31 |
+| 4 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 |
+| 5 | [Latter Days](https://open.spotify.com/track/2CRnmDhG6LAy9qYg4fId01) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM), [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Latter Days \(Deluxe Version\)](https://open.spotify.com/album/1ALJaB4HB3VGNPb7r9wlQB) | 2:54 |
+| 6 | [GOLDEN RULES // GUILTY PLEASURES](https://open.spotify.com/track/54GFxpHAtEGbUly8Nd9lbn) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [FUZZY TEETH](https://open.spotify.com/album/6k1m2uDuCrhSKrxObUnrE3) | 2:26 |
+| 7 | [I Know](https://open.spotify.com/track/0PBo3D8IEzTDdD1W5uPAfA) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone \(Deluxe Edition\)](https://open.spotify.com/album/7Bt2EAQTWCd95yI8fml15a) | 3:09 |
+| 8 | [Hole In The Ground](https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Hole In The Ground](https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK) | 3:44 |
 | 9 | [The Future Is Cancelled](https://open.spotify.com/track/63RRBZLduS3iKJkzzlHnp0) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [The Future Is Cancelled](https://open.spotify.com/album/5NqBxIPIZ6Fm9x6X7QafoU) | 3:27 |
-| 10 | [Nothing's Right](https://open.spotify.com/track/0OMw1vsXODqI7Gt7RU5k8l) | [B O I](https://open.spotify.com/artist/0WiWO8olpTnc1FXkxZHLln) | [Nothing’s Right](https://open.spotify.com/album/1G62jPXkrBfvflK4gKcBMb) | 3:39 |
-| 11 | [Heaven Now](https://open.spotify.com/track/6Nntk8wxOfW76lpyKkIx54) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Heaven Now](https://open.spotify.com/album/18lWqRdSb8tBLm09nwHRKM) | 3:05 |
-| 12 | [Latter Days](https://open.spotify.com/track/2CRnmDhG6LAy9qYg4fId01) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM), [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Latter Days \(Deluxe Version\)](https://open.spotify.com/album/1ALJaB4HB3VGNPb7r9wlQB) | 2:54 |
+| 10 | [MONKEY SEE MONKEY DO](https://open.spotify.com/track/3L4JKn0quzxs56myjLjmZG) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [MONKEY SEE MONKEY DO](https://open.spotify.com/album/3rS0r5DrE8YClu1jM0a9pw) | 1:49 |
+| 11 | [Nothing's Right](https://open.spotify.com/track/0OMw1vsXODqI7Gt7RU5k8l) | [B O I](https://open.spotify.com/artist/0WiWO8olpTnc1FXkxZHLln) | [Nothing’s Right](https://open.spotify.com/album/1G62jPXkrBfvflK4gKcBMb) | 3:39 |
+| 12 | [Heaven Now](https://open.spotify.com/track/6Nntk8wxOfW76lpyKkIx54) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Heaven Now](https://open.spotify.com/album/18lWqRdSb8tBLm09nwHRKM) | 3:05 |
 | 13 | [Q&A with Myself](https://open.spotify.com/track/66mONQljiV3pMzODY62f5Q) | [Admiral Freebee](https://open.spotify.com/artist/4FmTFdAid9vZwCqOFedhD4) | [⁠⁠Q&A with Myself](https://open.spotify.com/album/2CpsLBoJm2fNEeHVmJjrG9) | 2:47 |
 | 14 | [Miss Parfaite](https://open.spotify.com/track/7zCFZ8DzmxVwEhAGdeCJZt) | [Millie Hopes](https://open.spotify.com/artist/1hP8tQdv3owcEOG057QzyE) | [Miss Parfaite](https://open.spotify.com/album/5ZFdWHW9FogsfUJ0Di0r9O) | 3:10 |
 | 15 | [The Show](https://open.spotify.com/track/1BCa4RGfJLudmiqJ2fuGKq) | [High Hi](https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M) | [The Show](https://open.spotify.com/album/6dtGHJ6aU8kqQ8FvZyGAx9) | 3:45 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 89 | [Good Grace](https://open.spotify.com/track/5vuC4HzdniJMs7BgEoSPnN) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Good Grace](https://open.spotify.com/album/3S3qdKVbRMRIoj76d1SAtv) | 2:53 |
 | 90 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 
-Snapshot ID: `AAAAAJg9lp1mIlhbonNkwCG4Q3Y/fHUB`
+Snapshot ID: `AAAAACLIMJn0hxt/r6cgQhUBid5w7ySD`

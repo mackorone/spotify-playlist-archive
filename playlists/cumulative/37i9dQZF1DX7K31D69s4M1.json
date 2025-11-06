@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 162938,
       "name": "An Inward Stillness",
       "url": "https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug"
@@ -5812,7 +5812,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 159341,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w"
@@ -6154,7 +6154,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 146346,
       "name": "Despacio",
       "url": "https://open.spotify.com/track/2Lyef8a69eh4OdGXLXEoI2"
@@ -9103,6 +9103,24 @@
     },
     {
       "album": {
+        "name": "For You, Always",
+        "url": "https://open.spotify.com/album/12FNL4B3LnynoQhDRAOlcs"
+      },
+      "artists": [
+        {
+          "name": "Della Valle",
+          "url": "https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131310,
+      "name": "For You, Always",
+      "url": "https://open.spotify.com/track/1OuTYp2kAzw6B12hgAREvZ"
+    },
+    {
+      "album": {
         "name": "foraar",
         "url": "https://open.spotify.com/album/4IOPTDSAreOC75d1Auv5yf"
       },
@@ -9828,6 +9846,24 @@
       "duration_ms": 196624,
       "name": "Gennaro",
       "url": "https://open.spotify.com/track/5Yy65e9mJNEQtGThIxYzWE"
+    },
+    {
+      "album": {
+        "name": "Gentle Rain",
+        "url": "https://open.spotify.com/album/6fJWGy6aB5DgyaanfVcCOn"
+      },
+      "artists": [
+        {
+          "name": "Antoine Faur\u00e9",
+          "url": "https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113134,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/4i752Jsn4oHtKWgeynuhBJ"
     },
     {
       "album": {
@@ -10832,7 +10868,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 134482,
       "name": "Heron",
       "url": "https://open.spotify.com/track/1KHv34fVmVie0NLPeWtEZe"
@@ -14202,7 +14238,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 126760,
       "name": "Landet",
       "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
@@ -16680,6 +16716,24 @@
       "duration_ms": 124361,
       "name": "Meltwater",
       "url": "https://open.spotify.com/track/4BG2ZezVv6JF9Wf8i86Oaz"
+    },
+    {
+      "album": {
+        "name": "Melyon",
+        "url": "https://open.spotify.com/album/0nqmkSYvVmtmUBWHohz73E"
+      },
+      "artists": [
+        {
+          "name": "Waylen Orson",
+          "url": "https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130608,
+      "name": "Melyon",
+      "url": "https://open.spotify.com/track/3EQjUH8iADfKYqmX27MeYo"
     },
     {
       "album": {
@@ -19748,6 +19802,24 @@
       "duration_ms": 125183,
       "name": "Ombre",
       "url": "https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I"
+    },
+    {
+      "album": {
+        "name": "Omhuldad",
+        "url": "https://open.spotify.com/album/09uuTMxrEjS833kMOD5sMw"
+      },
+      "artists": [
+        {
+          "name": "Andreas Bj\u00f6rkstrand",
+          "url": "https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167125,
+      "name": "Omhuldad",
+      "url": "https://open.spotify.com/track/5ReZyYicHocdZ7Po8oAjKs"
     },
     {
       "album": {

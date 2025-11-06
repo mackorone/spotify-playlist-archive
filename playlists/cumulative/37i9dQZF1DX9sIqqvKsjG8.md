@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-956 songs - 1 day 16 hr 52 min
+960 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Espérer](https://open.spotify.com/track/41tIf2rMJfYKpsZpU0Mj5M) | [Lunete Guillory](https://open.spotify.com/artist/77ZgHWAR9tmBMgQ759Qxgg) | [Espérer](https://open.spotify.com/album/7erovFp7Y94PfsNwDhYcJm) | 2:19 | 2021-12-07 | 2023-01-27 |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2021-12-07 | 2024-04-04 |
 | [Etc...](https://open.spotify.com/track/5h4x9rXrsUALN1eYzY611B) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Hymnus Faunus](https://open.spotify.com/album/3jKzoIOYPUKxduucDofbCh) | 2:42 | 2021-12-07 | 2022-02-15 |
+| [Eternal Calm](https://open.spotify.com/track/7vcFleHortFAKdqGn7J9aV) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [Eternal Calm](https://open.spotify.com/album/0TsH9Zqw0dXj8RbRzh9I9S) | 2:21 | 2025-11-05 |  |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2021-12-07 | 2023-03-09 |
 | [Evanescent](https://open.spotify.com/track/3pnSEFUzTsRZtb57Pv98vC) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Evanescent](https://open.spotify.com/album/6SbFSRoB4pTDzMafHkzStk) | 2:38 | 2025-03-05 | 2025-09-18 |
 | [Evening](https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no) | [Sakkari](https://open.spotify.com/artist/6vdV4uIfIEB62qFn9KqE2I) | [Evening](https://open.spotify.com/album/2ghCnGPfjGW3P11ZQuyF8A) | 1:37 | 2022-10-24 | 2023-07-19 |
@@ -423,6 +424,7 @@
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-12-07 | 2023-04-26 |
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-08-29 | 2025-05-17 |
 | [Landscaped bodies](https://open.spotify.com/track/4OVImwWsGcCMCv3oN8CATY) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Landscaped bodies](https://open.spotify.com/album/2V9gtkKKMgT5ogwTR1CUft) | 2:13 | 2024-10-08 |  |
+| [Lantern in the Fog](https://open.spotify.com/track/5WYzwJcAqTUcjji61rvkGI) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [Lantern in the Fog](https://open.spotify.com/album/0032D67SiKhUZwo02xt5gZ) | 2:15 | 2025-11-05 |  |
 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 | 2022-03-16 | 2023-09-23 |
 | [Larae](https://open.spotify.com/track/0afdVLpxfG1ZogyBWK6t7I) | [Isobel Noble](https://open.spotify.com/artist/36XAjwbcbVkRdcd2uEuVTq) | [Larae](https://open.spotify.com/album/2wBwCs72RrhJ69U9dvScL3) | 2:29 | 2021-12-07 | 2022-10-14 |
 | [Lasciare Andare](https://open.spotify.com/track/7k6BmWDRLOip7YGUg48SVp) | [Gino Delafiori](https://open.spotify.com/artist/2mLwZnRXgqPqosokl8VjwF) | [Umbria](https://open.spotify.com/album/3lhm2pyVEJihYdBmxgjgDL) | 3:27 | 2021-12-07 | 2023-01-27 |
@@ -522,6 +524,7 @@
 | [My love](https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF) | [Maxime Verdoni](https://open.spotify.com/artist/5jKR9zUiwVSlHO8N5JYu6e) | [My love](https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC) | 2:50 | 2024-05-07 |  |
 | [My Love](https://open.spotify.com/track/5mAh6K7L5uhQQ07HQINFxw) | [Tavio Rinaldi](https://open.spotify.com/artist/6C7X78ertvtY3ahgz0TLnA) | [My Love](https://open.spotify.com/album/0yv3RghWMMRT6G1fNMUoIY) | 2:42 | 2025-04-16 | 2025-04-24 |
 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-12-07 | 2022-07-20 |
+| [My Only Love](https://open.spotify.com/track/1z49c3xyRnIJ4NyFJlZWJD) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [My Only Love](https://open.spotify.com/album/0Er2kXA6xGLESzdRb5tfZz) | 2:26 | 2025-11-05 |  |
 | [Mysa](https://open.spotify.com/track/4nXPDQcgsGu4DUKDsS93AA) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Mysa](https://open.spotify.com/album/4Bgu4hE3kSBRILnx0DXL0D) | 2:14 | 2021-12-07 | 2022-05-06 |
 | [Mère bien\-aimée](https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Mère bien\-aimée](https://open.spotify.com/album/6l6nZMFvZ8SYslMUPvuOdr) | 2:16 | 2021-12-07 | 2022-02-15 |
 | [Mélange](https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z) | [Helena Roche](https://open.spotify.com/artist/5EJ97hGYe8LfBXYvX2Rfvt) | [Mélange](https://open.spotify.com/album/1p11b4Y3nK9bHNpLfiuC0x) | 1:55 | 2021-12-07 | 2023-07-26 |
@@ -623,6 +626,7 @@
 | [Pécs](https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Pécs](https://open.spotify.com/album/6V5jrMp0lHNVOqmspzTaOg) | 2:03 | 2022-01-04 | 2024-04-04 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2021-12-07 | 2022-05-06 |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
+| [Quietude](https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Quietude](https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA) | 2:36 | 2025-11-05 |  |
 | [Rain In July](https://open.spotify.com/track/6VWXXegvaYsNkEZdKRNtlE) | [Noah Evans](https://open.spotify.com/artist/3s8VDnYnPvSLjhI9B2W1Ou) | [Rain In July](https://open.spotify.com/album/0BHNEQXEvfQBzpCo3a07jp) | 2:50 | 2022-04-08 | 2023-09-26 |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2021-12-07 | 2022-10-25 |
 | [Raindrops](https://open.spotify.com/track/1mqHvYzzVkt8GK1AaaCJCf) | [Lucas Robbins](https://open.spotify.com/artist/0KqohW5FPXyC5nrrT3HEpt) | [Raindrops](https://open.spotify.com/album/6w92D77uejw4Y474Z6lllZ) | 2:37 | 2021-12-07 | 2023-01-27 |
@@ -808,7 +812,7 @@
 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 | 2024-03-15 |  |
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2022-06-07 | 2022-10-25 |
 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-03 |  |
-| [The Limestone](https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [The Limestone](https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0) | 2:24 | 2025-04-30 |  |
+| [The Limestone](https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [The Limestone](https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0) | 2:24 | 2025-04-30 | 2025-11-06 |
 | [The Man On The Lake](https://open.spotify.com/track/4l6a4lOsu8cxKCiOYnLE26) | [Callum Dario](https://open.spotify.com/artist/00qmK5h2yaGcGAlaNxtp3q) | [The Man On The Lake](https://open.spotify.com/album/5R554mydlc3OcL0nZEQeeu) | 2:28 | 2025-05-21 |  |
 | [The Melody](https://open.spotify.com/track/39HNrbxhyNy6v4pp48qxEf) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [The Melody](https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo) | 2:22 | 2023-03-06 |  |
 | [The Melting Sun](https://open.spotify.com/track/1fFEpC7OcocrA4zqrWMSlP) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [The Melting Sun](https://open.spotify.com/album/4YqdTFxhcRMEWdYoNPjCcO) | 2:07 | 2024-11-05 | 2025-09-18 |

@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,069 songs - 3 day 8 hr 4 min
+2,071 songs - 3 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Euphoria](https://open.spotify.com/track/4ljI7MR9RmhuyML65YWQAp) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Euphoria](https://open.spotify.com/album/0ilUOQTMsh0nGPpzREboYF) | 2:35 | 2022-12-02 | 2023-10-20 |
 | [Euphorie](https://open.spotify.com/track/3nfGBv0j5NYMMSmpSv10Ik) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [Bonafide](https://open.spotify.com/album/1Lv6bpArExNLTqtyIYyDPi) | 3:11 | 2024-05-13 | 2024-11-15 |
 | [Evening Walk](https://open.spotify.com/track/0M5UurbUntOyAWboXeYAp3) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Here and Now](https://open.spotify.com/album/2q7hkNQMnJWZiwM07Gb40O) | 2:08 | 2024-09-27 | 2025-08-21 |
+| [Evenings](https://open.spotify.com/track/3L6REEaOHHguItfa4RgYfx) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Evenings](https://open.spotify.com/album/69TWnZEGKfjfGDzIS39J1R) | 2:30 | 2025-11-05 |  |
 | [Evenings](https://open.spotify.com/track/3jSslE7Fop3jOjiPYDpVD0) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Now / Again](https://open.spotify.com/album/2B35M85zMrnWhnsV8mW7i0) | 2:49 | 2021-12-07 | 2022-07-29 |
 | [ever blue](https://open.spotify.com/track/7d0DmSAJVElWp2IIETkvU9) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [ever blue](https://open.spotify.com/album/6psy4QbaG6TO43T4MqVuXZ) | 2:24 | 2023-06-05 | 2023-10-06 |
 | [Everluv](https://open.spotify.com/track/6xbWtSRDzwBsdcSXIbwM2R) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Everluv](https://open.spotify.com/album/6JSjxjopZ6f8AzAVaal9ey) | 1:33 | 2022-02-18 | 2022-07-15 |
@@ -1225,7 +1226,7 @@
 | [Moonlight](https://open.spotify.com/track/1TVP2LElNtQaU0a2IUOSz6) | [$imba](https://open.spotify.com/artist/6ZPRXOOs0K9EipFamTz2YP) | [Moonlight](https://open.spotify.com/album/0w6fP71W3WP5ZwTdC3glpm) | 1:58 | 2022-09-02 | 2023-02-18 |
 | [Moonlight](https://open.spotify.com/track/6a4QbR0fVvpRXMBtMODtj3) | [Steve's Job](https://open.spotify.com/artist/0i7jR8gaZn2uNAQtHf6XTK), [Kokolade](https://open.spotify.com/artist/6zIbaCbw6J2aX1FyuG2HBD), [Max Delay](https://open.spotify.com/artist/15gPdec3pd66AUV1d2OJLp) | [Moonlight](https://open.spotify.com/album/2gdNZcxk0vCNyC65CV8c3b) | 2:27 | 2022-12-16 | 2023-11-11 |
 | [Moonlight Kite](https://open.spotify.com/track/0s1qfJj2RT5O5FKXYWpcKu) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Low Gear](https://open.spotify.com/album/37c24i7QFE72G8Aj1g1hWK) | 2:37 | 2021-12-07 | 2022-09-23 |
-| [moonlit](https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [moonlit](https://open.spotify.com/album/2ntDYVJXXyuI2K8y9ud2lZ) | 2:42 | 2025-05-23 |  |
+| [moonlit](https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [moonlit](https://open.spotify.com/album/2ntDYVJXXyuI2K8y9ud2lZ) | 2:42 | 2025-05-23 | 2025-11-06 |
 | [Moonstone](https://open.spotify.com/track/2KJJtIw5ZgC0850dBApYlg) | [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd), [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [Moonstone](https://open.spotify.com/album/4AhMd2fEgi2ajeykRqY3iW) | 2:36 | 2022-07-15 | 2022-07-22 |
 | [Morning Beat](https://open.spotify.com/track/4tJfuf60LLTh39AS2qP75y) | [Keyness](https://open.spotify.com/artist/3OQLdQRrZza9IgJI5egQqw), [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Morning Beat](https://open.spotify.com/album/0U73PrTQcQLqyiileGtwIc) | 2:35 | 2024-05-13 | 2024-08-10 |
 | [Morning Commute](https://open.spotify.com/track/0zLVQCUBX5uirgi9PMoeuK) | [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER), [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [Morning Commute](https://open.spotify.com/album/1CezjA0bJPpXR3LEb2E5uj) | 2:24 | 2022-09-16 | 2022-12-24 |
@@ -1389,9 +1390,10 @@
 | [Phobia](https://open.spotify.com/track/5KURpSGFPfnYuDLOBxtSwn) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [Phobia](https://open.spotify.com/album/2H5jmEE6LTjdZCSYJr6mN6) | 3:01 | 2021-12-07 | 2022-04-08 |
 | [Pick Up Your Phone Please](https://open.spotify.com/track/2BGgpYR3jw1WtdJXiNupRm) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Pick Up Your Phone Please](https://open.spotify.com/album/0pZatCRgjMHMddIYmc5L7o) | 2:20 | 2022-06-24 | 2022-09-17 |
 | [Picture Of You](https://open.spotify.com/track/1LZMjHboXQs1sIRXseh39G) | [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5), [her.story](https://open.spotify.com/artist/6C8MeXJkwcF5AiHVMFNPoO), [eiji](https://open.spotify.com/artist/1wzqhHInXSYezJHke90Jeo) | [Picture Of You](https://open.spotify.com/album/3pGdLE1T1U0BWIcsqfnoST) | 1:42 | 2022-10-14 | 2023-01-20 |
-| [Piece Of Mind](https://open.spotify.com/track/63yUqUFLVbDQRKR8rQXdsD) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Piece Of Mind](https://open.spotify.com/album/36V4L35fwzJoSChXYJceYT) | 2:06 | 2024-07-19 |  |
+| [Piece Of Mind](https://open.spotify.com/track/63yUqUFLVbDQRKR8rQXdsD) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Piece Of Mind](https://open.spotify.com/album/36V4L35fwzJoSChXYJceYT) | 2:06 | 2024-07-19 | 2025-11-06 |
 | [Pieces](https://open.spotify.com/track/1qDa9mCKZLRjBZqqYISfPX) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Pieces](https://open.spotify.com/album/3lxV2gRJjYy6OWJEJZvesD) | 1:40 | 2023-01-20 | 2024-06-06 |
 | [pillow dreams](https://open.spotify.com/track/3VolXPYyNr222J89OHl8u0) | [evelina mist](https://open.spotify.com/artist/0AUIG5gLgUZhMGeCNBLfcr) | [pillow dreams](https://open.spotify.com/album/5vaW6YNNd77zXYVrAAVTpL) | 2:01 | 2024-03-22 |  |
+| [pillow talk](https://open.spotify.com/track/4qL9fcs4P32CNNnlMxbqiV) | [Mumblo](https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z) | [pillow talk](https://open.spotify.com/album/3hKcu1kVswp3V6r4Ku09MS) | 2:21 | 2025-11-05 |  |
 | [pillowloop](https://open.spotify.com/track/55mSGigZFY4BETnc0pJoKM) | [Analogue Alf](https://open.spotify.com/artist/4FVJdMWSQhn3zO1NKxMHAi) | [pillowloop](https://open.spotify.com/album/29UbrqkB8YmNXEXYSF0IQj) | 1:54 | 2025-09-05 |  |
 | [Pines](https://open.spotify.com/track/3TMx3pq2zJKPKYxEkhwAra) | [enjo](https://open.spotify.com/artist/0diyNvnhXZMJZiLaV25Lc4) | [The Forest](https://open.spotify.com/album/1uRTMdwaKmXO3sW7yGdCTn) | 1:44 | 2022-12-02 | 2023-10-20 |
 | [pink dawn](https://open.spotify.com/track/3a5drO67gyZUWtswFKvcMT) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [pink dawn](https://open.spotify.com/album/67SmpfkjjRmXJzWXS9pZOc) | 3:06 | 2023-12-08 | 2025-03-22 |

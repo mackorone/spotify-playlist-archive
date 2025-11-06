@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175023,
+  "num_followers": 175021,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "You For A Reason (Stripped)",
-        "url": "https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 182843,
-      "name": "You For A Reason - Stripped",
-      "url": "https://open.spotify.com/track/6yUnirR9J0haRtyziEujVR"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "I'm Not Prettier",
         "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 178191,
       "name": "I'm Not Pretty - Acoustic",
       "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "You For A Reason (Stripped)",
+        "url": "https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 182843,
+      "name": "You For A Reason - Stripped",
+      "url": "https://open.spotify.com/track/6yUnirR9J0haRtyziEujVR"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Little More Be Alright",
         "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 215721,
       "name": "Little More Be Alright",
       "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
-      },
-      "artists": [
-        {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Gonna Love You (Alternate Versions)",
         "url": "https://open.spotify.com/album/2LyGE0JPXYK4ygkYPyk3uX"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
         }
       ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 191400,
       "name": "Some Girls - Acoustic",
       "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "What If I Never Get Over You (Piano Version)",
+        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 204639,
+      "name": "What If I Never Get Over You - Piano Version",
+      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "What If I Never Get Over You (Piano Version)",
-        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 204639,
-      "name": "What If I Never Get Over You - Piano Version",
-      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "She Had Me At Heads Carolina (Acoustic)",
         "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 196306,
       "name": "She Had Me at Heads Carolina - Acoustic",
       "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1479,6 +1463,22 @@
       "duration_ms": 201653,
       "name": "Heart Shut (feat. Tenille Townes)",
       "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2025-10-10 04:00:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra escuela es la calle\. Pirlo en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,603 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,599 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 42 | [Mi Psique](https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [AleexBeat](https://open.spotify.com/artist/5PbplyZA0CGKWULBPfXMaY) | [Mi Psique](https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T) | 3:17 |
 | 43 | [Le Falta la Forty](https://open.spotify.com/track/18hTjSSkgVhK4AHMrMe6qE) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Le Falta la Forty](https://open.spotify.com/album/7h07MPO9K6uJNIzdkwOQue) | 2:57 |
 | 44 | [Candela](https://open.spotify.com/track/6QgZMzRigLCwQZfEBgRDoU) | [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Candela](https://open.spotify.com/album/1iUBAs3SCKHSI3n5tnTq7j) | 2:51 |
-| 45 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 |
+| 45 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59/66](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59/66](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 |
 | 46 | [Enemigo de las Leyes](https://open.spotify.com/track/5NnlIpnudDfVZ76j5e2pea) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6) | [Enemigo de las Leyes](https://open.spotify.com/album/7LPAiVJnr8g9HCPHCnkZzi) | 3:20 |
 | 47 | [Silencio En El Callejon](https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Silencio En El Callejon](https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG) | 3:00 |
 | 48 | [Estilo Bélico](https://open.spotify.com/track/4N2QWDCHXmLNQX94TxUc8s) | [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Estilo Bélico](https://open.spotify.com/album/2b3HWNfnGhehOzAdz9QEGh) | 4:22 |

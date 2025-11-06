@@ -1,12 +1,12 @@
 {
   "description": "Waktu Indonesia bagian mager dan dengar lagu-lagu enak.",
-  "num_followers": 356011,
+  "num_followers": 355995,
   "original_name": "Mager Parah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObGCfUDOKdqWnNiR17k4gQVoNM5",
+  "snapshot_id": "AAAAAD+iH2vxvXSe/DyeZAYzONKl+1xA",
   "tracks": [
     {
       "added_at": "2025-11-04 09:30:47",
@@ -331,6 +331,26 @@
       "duration_ms": 308497,
       "name": "Pancarona - Piano Version",
       "url": "https://open.spotify.com/track/2lMGYUdqWBdFajrHASFj6Z"
+    },
+    {
+      "added_at": "2025-11-05 04:11:03",
+      "album": {
+        "name": "Saat Denganmu",
+        "url": "https://open.spotify.com/album/3Mv029bGvz7oJVRqLr1t2e"
+      },
+      "artists": [
+        {
+          "name": "Chandra Satria",
+          "url": "https://open.spotify.com/artist/4ot1BWOW743fMmTrCNufAm"
+        },
+        {
+          "name": "Sheila Majid",
+          "url": "https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Saat Denganmu",
+      "url": "https://open.spotify.com/track/4Y5HdGbvGiyQCd7GjlyD1V"
     },
     {
       "added_at": "2025-11-04 09:30:47",
@@ -731,6 +751,22 @@
     {
       "added_at": "2025-11-04 09:30:47",
       "album": {
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
+    },
+    {
+      "added_at": "2025-11-04 09:30:47",
+      "album": {
         "name": "her",
         "url": "https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx"
       },
@@ -763,22 +799,6 @@
     {
       "added_at": "2025-11-04 09:30:47",
       "album": {
-        "name": "Origins (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 260773,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
-    },
-    {
-      "added_at": "2025-11-04 09:30:47",
-      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -807,22 +827,6 @@
       "duration_ms": 293453,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6"
-    },
-    {
-      "added_at": "2025-11-04 09:30:47",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     }
   ],
   "unique_name": "Mager Parah",

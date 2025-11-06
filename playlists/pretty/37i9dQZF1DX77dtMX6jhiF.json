@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 16592,
+  "num_followers": 16598,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Potato Salad",
         "url": "https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 182493,
       "name": "Potato Salad",
       "url": "https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/4xRxYWgAtL6pzRz94GlZlA"
     },
     {
       "added_at": "2022-10-01 16:57:49",

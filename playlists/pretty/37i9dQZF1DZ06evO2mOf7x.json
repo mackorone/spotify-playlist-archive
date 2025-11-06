@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46671,
+  "num_followers": 46680,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAADtGzO3LJYC/TcPlVaJczvf",
+  "snapshot_id": "aQlCAAAAAAB+PjwbqBvSk/Jxa5bf3/BN",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189309,
-      "name": "Que Poca",
-      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Decisi\u00f3n",
         "url": "https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 199440,
       "name": "Quise Olvidar",
       "url": "https://open.spotify.com/track/4Eg8RVgfkWEcmaYfLKFetA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189309,
+      "name": "Que Poca",
+      "url": "https://open.spotify.com/track/17XOZ99cghYPO4oDiTrBNQ"
     },
     {
       "added_at": null,
@@ -407,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIDA...",
+        "url": "https://open.spotify.com/album/2HFHpZvlhuCotOkAQaclQj"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 225154,
+      "name": "Cuento de Nunca Acabar",
+      "url": "https://open.spotify.com/track/1vxvWCbWnvVOmRKh3OGlUh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bordado a Mano",
         "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
       },
@@ -447,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIDA...",
-        "url": "https://open.spotify.com/album/2HFHpZvlhuCotOkAQaclQj"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 225154,
-      "name": "Cuento de Nunca Acabar",
-      "url": "https://open.spotify.com/track/1vxvWCbWnvVOmRKh3OGlUh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 239031,
-      "name": "El Consejo",
-      "url": "https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mentiras Bonitas",
         "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 188644,
       "name": "Mentiras Bonitas",
       "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 239031,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo"
     },
     {
       "added_at": null,
@@ -999,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Atrapar\u00e9 Bandido",
-        "url": "https://open.spotify.com/album/5QJ3kG3mo6fISj1apYFke2"
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/3eeHqf4SVkFhjGsy0lBUSd"
+      "duration_ms": 230493,
+      "name": "Y Siempre",
+      "url": "https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul"
     }
   ],
   "unique_name": "This Is Ana B\u00e1rbara",

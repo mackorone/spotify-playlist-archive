@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,108 songs - 2 day 13 hr 58 min
+1,109 songs - 2 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Hit the Ground](https://open.spotify.com/track/1jZ4irbZ1NSFdaoz2MjQtK) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [I Contain Flashing Images](https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER) | 4:22 | 2024-05-30 | 2024-08-21 |
 | [Hold Up](https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Hold Up](https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ) | 2:59 | 2022-01-28 | 2022-04-13 |
 | [Holding On Is Human](https://open.spotify.com/track/6ws7SG03iSjzEJmG1JroFB) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Familiar Faces](https://open.spotify.com/album/1mEJclhYTF4tn0UdC5VSey) | 4:15 | 2023-11-14 | 2024-02-28 |
+| [Holy](https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Holy](https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b) | 3:04 | 2025-11-05 |  |
 | [Home](https://open.spotify.com/track/0OprknYuyOUDWdEPY1aSDN) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Home](https://open.spotify.com/album/6HKKBO75lKYdWJPdW76Gmp) | 3:27 | 2025-03-11 | 2025-06-04 |
 | [Honey Water](https://open.spotify.com/track/6UNPW2DYLu0j2PInw98KXo) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Honey Water](https://open.spotify.com/album/3DKQOnlXdHWQaX2Br1evcw) | 3:40 | 2024-11-28 | 2025-03-08 |
 | [Hope](https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Hope](https://open.spotify.com/album/4orkNzqYfSdlJYDBjCC4kT) | 3:20 | 2022-08-10 | 2022-10-21 |

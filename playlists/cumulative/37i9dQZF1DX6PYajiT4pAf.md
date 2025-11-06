@@ -4,7 +4,7 @@
 
 > Amaia,  ROSALÍA x Björk x Yves Tumor, Dani Martín, María Becerra y más novedades de la semana.
 
-3,682 songs - 7 day 19 hr 35 min
+3,683 songs - 7 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 | 2025-02-14 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-10-24 | 2024-11-01 |
 | [borondo](https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [borondo](https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF) | 2:21 | 2025-05-08 | 2025-05-16 |
+| [Borrachita](https://open.spotify.com/track/4E3ihSragyHUAWO8U2wYvT) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps) | [Borrachita](https://open.spotify.com/album/30ZemzzxYLS3swSmao8rVY) | 3:06 | 2025-10-30 |  |
 | [Borracho](https://open.spotify.com/track/1eCrKOW4cahShebQ5VdLlY) | [Big Lois](https://open.spotify.com/artist/6SSd8YlAkq26bt11sct3Uo), [Angeliyo El Blanco](https://open.spotify.com/artist/44eG7dPD6scjhUJAMN0rFp), [Liderj](https://open.spotify.com/artist/4oFwW8GNt4Seyt1dK3ij2S) | [Borracho](https://open.spotify.com/album/0tlZuhCuTwJObjy1vSEH0t) | 3:48 | 2024-11-21 | 2024-11-29 |
 | [Borracho El Corazón](https://open.spotify.com/track/0E8PgtjWyQCBmuw9wa0E7N) | [Pascal](https://open.spotify.com/artist/2fuu7gBnfDhgJNt1Yr4ERu), [Polo Nandez](https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM) | [Borracho El Corazón](https://open.spotify.com/album/58ynqJvVF8Rb6aYK4w5Kqp) | 2:47 | 2024-10-24 | 2024-11-01 |
 | [BORRACHO Y FINO](https://open.spotify.com/track/02RRggERgkX5M4U3JDOJsT) | [Funzo](https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo) | [BORRACHO Y FINO](https://open.spotify.com/album/7EFaD2wOGonUpjvGBtUM2W) | 2:33 | 2025-06-12 | 2025-06-20 |
@@ -1097,7 +1098,7 @@
 | [Enamorá](https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Enamorá](https://open.spotify.com/album/70Rb9d3ty7Fg6PEU9TNjyl) | 2:52 | 2025-03-13 | 2025-03-21 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-24 | 2025-08-01 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 | 2025-04-11 |
-| [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:56 | 2025-10-30 |  |
+| [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:57 | 2025-10-30 |  |
 | [Enemigos](https://open.spotify.com/track/25XT2E9iIbe0O1PqahMFub) | [Delarue](https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe), [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz) | [Enemigos](https://open.spotify.com/album/7CEMApMOroPogMhzFc08Y7) | 2:21 | 2025-08-07 | 2025-08-15 |
 | [ENEMY](https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt) | 2:41 | 2025-08-01 | 2025-08-09 |
 | [ENERO CRUE1](https://open.spotify.com/track/5V6JORdYBdcQYi7ixL6dLS) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Fragmentos](https://open.spotify.com/album/3CAniIj3rwX0rA4jZ8Gwl7) | 1:15 | 2025-03-06 | 2025-03-14 |
@@ -2491,7 +2492,7 @@
 | [Paralice](https://open.spotify.com/track/4ZlNfyVGs1YKmDXNpaZlxo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Paralice](https://open.spotify.com/album/2B1vSMxFNKWaKQMdmQ21Q8) | 2:49 | 2025-06-19 | 2025-06-27 |
 | [PARANOIA.](https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PARANOIA.](https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU) | 3:06 | 2025-05-22 | 2025-05-30 |
 | [paranormal](https://open.spotify.com/track/5sNJ4okiWlOOYP4I66Qhuv) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares+](https://open.spotify.com/album/7vS5TDQ9oUakyWAtBqlldL) | 2:55 | 2025-05-15 | 2025-05-23 |
-| [Paraules D'Amor](https://open.spotify.com/track/2uW0L7iEX9DZReb6iucOnD) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34), [Maria Pascual](https://open.spotify.com/artist/3AIvKx542oZzRrAWimbm3H) | [Paraules D'Amor](https://open.spotify.com/album/4G1MiF9hMkizqjvtvBvzvR) | 3:21 | 2025-10-30 |  |
+| [Paraules D'Amor](https://open.spotify.com/track/2uW0L7iEX9DZReb6iucOnD) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34), [Maria Pascual](https://open.spotify.com/artist/3AIvKx542oZzRrAWimbm3H) | [Paraules D'Amor](https://open.spotify.com/album/4G1MiF9hMkizqjvtvBvzvR) | 3:23 | 2025-10-30 |  |
 | [Paraíso](https://open.spotify.com/track/5cvandpXHjQuHBstLJEWsV) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [Paraíso](https://open.spotify.com/album/0Imiuj0wc89WIj2toYiB60) | 3:06 | 2025-10-23 | 2025-10-30 |
 | [Paraíso](https://open.spotify.com/track/7Dc5DzOED3vQXPPhS4TONK) | [Suave](https://open.spotify.com/artist/0b4DkhqzNopg5GYxYU4tJ9), [DAYTXNA](https://open.spotify.com/artist/1o8nqi3epUyvBIqDohc7Xh) | [Paraíso](https://open.spotify.com/album/1VHAz2tI8qan44IfEtmUBj) | 2:49 | 2025-08-15 | 2025-08-22 |
 | [PARAÍSO](https://open.spotify.com/track/6yY0C8LboksEg1UCG7CUuu) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea) | [PARAÍSO](https://open.spotify.com/album/4mgR8HoLINJCOoClm8ijar) | 2:51 | 2025-05-22 | 2025-05-30 |

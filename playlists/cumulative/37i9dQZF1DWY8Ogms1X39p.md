@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-323 songs - 18 hr 8 min
+324 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Right Now](https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2022-12-13 | 2025-10-21 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-01-19 | 2023-03-31 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-12-13 | 2023-03-18 |
+| [Saat Denganmu](https://open.spotify.com/track/4Y5HdGbvGiyQCd7GjlyD1V) | [Chandra Satria](https://open.spotify.com/artist/4ot1BWOW743fMmTrCNufAm), [Sheila Majid](https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl) | [Saat Denganmu](https://open.spotify.com/album/3Mv029bGvz7oJVRqLr1t2e) | 4:07 | 2025-11-05 |  |
 | [Salam](https://open.spotify.com/track/6y1sE7uY5b1Gce5eTBpBEk) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Benzooloo](https://open.spotify.com/artist/1XoYv8r7rCgzBSgMWCsnzR) | [Salam](https://open.spotify.com/album/1DyCwG7jeFjHtCxqB2SD7c) | 3:11 | 2025-06-16 | 2025-07-28 |
 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 | 2023-08-30 |  |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-05-08 |  |

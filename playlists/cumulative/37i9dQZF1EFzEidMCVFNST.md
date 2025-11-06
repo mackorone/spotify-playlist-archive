@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-545 songs - 1 day 1 hr 57 min
+546 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Só Uma Moralzinha](https://open.spotify.com/track/4DOP0kRotd1jtUSeKDRotB) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Só Uma Moralzinha](https://open.spotify.com/album/2qiGFLK06pAcMXaZ28AA4x) | 2:38 | 2024-01-29 | 2025-06-28 |
 | [Taca a Rabona \(Remix\)](https://open.spotify.com/track/2v90SY7eV1I7oArFwWiMOK) | [Dreysson Rodrigues](https://open.spotify.com/artist/5rtzvT3hqgWbiXrvywjQFR), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Taca a Rabona \(Remix\)](https://open.spotify.com/album/0J4HcCQmeC7kMYFbfCAzZQ) | 2:26 | 2024-01-29 |  |
 | [Te Esqueci de Vez \- Ao Vivo](https://open.spotify.com/track/4AG7wimElqkZEYx0E8MRRe) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \(Ao Vivo\)](https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ) | 2:33 | 2024-01-29 |  |
+| [Tem a Senha](https://open.spotify.com/track/2XFlvQgefJIMVGkcZfMyW2) | [Artthurzinho](https://open.spotify.com/artist/0MHUejZdGYlArcSqjUsJ8q) | [Tem a Senha](https://open.spotify.com/album/7LkNcS5pEwLDMOeRAUmceh) | 2:39 | 2025-11-05 |  |
 | [Tem Que Ter Você \- Ao Vivo](https://open.spotify.com/track/4kGsTk6pmppL1k0HYq4a5H) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Ao Vivo Em São Paulo \(Deluxe\)](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 3:18 | 2024-01-29 |  |
 | [Temperatura](https://open.spotify.com/track/6sUcv0hrmhYyNsdAlxHHee) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 3:00 | 2025-03-29 |  |
 | [Temperatura \- Ao Vivo](https://open.spotify.com/track/0xYdUxzk58txwPsUe98wRj) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Hipnose Ao Vivo \- Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:00 | 2024-01-29 | 2024-08-19 |

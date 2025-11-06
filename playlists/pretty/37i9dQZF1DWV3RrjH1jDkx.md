@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Julie Bergan & Ruben, Chris Holsten og Søte & Rare og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,452 likes - 98 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,454 likes - 98 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 41 | [Sorg City](https://open.spotify.com/track/6ambzVxiubm1aaGnQ9safD) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Sorg City](https://open.spotify.com/album/2kBeAmYdk5ZpVqdJzw9oHz) | 3:10 |
 | 42 | [Du Vet Jeg Liker \(Ali G’s\)](https://open.spotify.com/track/5P6gZswmKxIoPgIIj0hWCB) | [KANSELLERT](https://open.spotify.com/artist/3R1yZ8cIqiJC8mUAFQFy2z) | [Du Vet Jeg Liker \(Ali G’s\)](https://open.spotify.com/album/7oMa7JVOX2F89aGkylkIFp) | 2:42 |
 | 43 | [Wrong](https://open.spotify.com/track/43sMxCCuNs2swri9wmmQSe) | [rxxmer](https://open.spotify.com/artist/1E5EhZVxQ6IuMO68eh2j91) | [Wrong](https://open.spotify.com/album/6w6Mv3m6A6w4xU1q2VwnQ9) | 3:34 |
-| 44 | [Vulnerable](https://open.spotify.com/track/1l2Zf3jkgopV1Hn3DhTS2U) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [Echoes](https://open.spotify.com/album/76eXMrbmPQ6mxklmbEYkun) | 2:35 |
+| 44 | [Vulnerable](https://open.spotify.com/track/1l2Zf3jkgopV1Hn3DhTS2U) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Echoes](https://open.spotify.com/album/76eXMrbmPQ6mxklmbEYkun) | 2:35 |
 | 45 | [H.A.P.P.Y](https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [H.A.P.P.Y](https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB) | 2:29 |
 | 46 | [Afterlife Glitch](https://open.spotify.com/track/3FgGmVopcdhwZfmD30HnAN) | [THEGOD01](https://open.spotify.com/artist/359oxZhkhinpdgyQicivC5) | [Reverb of The Gone EP](https://open.spotify.com/album/0iDd0g3h2VQMh0CfRxXPAX) | 5:51 |
 | 47 | [Addicted to You](https://open.spotify.com/track/4VgCZKrXW61sSNOeds3OtL) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Addicted to You](https://open.spotify.com/album/4ZHNfVAydH0AOBOrSZudvn) | 3:22 |

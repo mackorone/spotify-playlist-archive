@@ -492,6 +492,24 @@
     {
       "album": {
         "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608760,
+      "name": "Black Lake",
+      "url": "https://open.spotify.com/track/5qfJSItAIEndephCzfQ6Nu"
+    },
+    {
+      "album": {
+        "name": "Vulnicura",
         "url": "https://open.spotify.com/album/6sJTyQHzjefi0GgknYCgBf"
       },
       "artists": [
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 237346,
       "name": "Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)",
       "url": "https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb"

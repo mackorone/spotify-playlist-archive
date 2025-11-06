@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,272 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,283 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 49 | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu) | 2:41 |
 | 50 | [Paint The Town Blue \(Bloodpop Remix\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1je4F9zMDWbrYhvvzOaXsB) | [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Paint The Town Blue \(BloodPop Remix\) \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3pNj0EY1p6xNPOODxyDuQp) | 1:53 |
 
-Snapshot ID: `aQfwgAAAAABkjc3q7Z0A6JiR2hXSVJuE`
+Snapshot ID: `aQlCAAAAAABQxstx7Elfet02Q5qerM3H`

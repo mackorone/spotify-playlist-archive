@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "FANTASYLAND",
+        "url": "https://open.spotify.com/album/6A1a30HNAtsFkxrL1qoblV"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "A New Journey",
+      "url": "https://open.spotify.com/track/6u4ZcWwmBI6FFpWAA6qCk2"
+    },
+    {
+      "album": {
         "name": "Adventures of the Young Hero",
         "url": "https://open.spotify.com/album/3YufQhwnRqmpOLDXOjiKuH"
       },
@@ -1180,6 +1198,24 @@
       "duration_ms": 143353,
       "name": "Refined Enlightenment",
       "url": "https://open.spotify.com/track/2ulSScFSvKVwIBJJrKcNA2"
+    },
+    {
+      "album": {
+        "name": "FANTASYLAND",
+        "url": "https://open.spotify.com/album/6A1a30HNAtsFkxrL1qoblV"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188932,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/4dIFda2JcPWkM7Y9WsiMx8"
     },
     {
       "album": {

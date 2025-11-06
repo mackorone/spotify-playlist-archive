@@ -4,7 +4,7 @@
 
 > The best tunes in Jazz history.
 
-371 songs - 1 day 8 hr 11 min
+372 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Autumn Leaves](https://open.spotify.com/track/1QlTNF43OyKK9BorIRsJ8o) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Jazz Moods \- Cool](https://open.spotify.com/album/3Cnj43AyRQy21WQWsngNDs) | 7:02 | 2022-08-09 | 2024-04-19 |
 | [Autumn Leaves](https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 7:03 | 2021-12-02 |  |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2021-12-02 |  |
+| [Back At The Chicken Shack](https://open.spotify.com/track/0bv5vUJCvXM9G0cbjeikyY) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Back At The Chicken Shack](https://open.spotify.com/album/6YhvR14clg0yibdTKB5aBv) | 8:03 | 2025-11-05 |  |
 | [Bags' Groove](https://open.spotify.com/track/1ewQUavRnFAEwPqqwKQ0nF) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Milt Jackson With John Lewis, Percy Heath, Kenny Clarke, Lou Donaldson And The Thelonious Monk Quintet \(Expanded Edition\)](https://open.spotify.com/album/3rEExGtWJZ5uRXNKaCgKDl) | 3:06 | 2022-06-28 | 2024-04-19 |
 | [Bags' Groove \- Rudy Van Gelder 2001 \- Remaster](https://open.spotify.com/track/5TGGsgsY7WS5Q1w8N581wD) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [100 Best Of Blue Note](https://open.spotify.com/album/0lcdc9pUe5p7FQZsOpE3gG) | 3:05 | 2021-12-02 | 2025-05-28 |
 | [Besame Mucho](https://open.spotify.com/track/1GZD0TZJHmdQaZsucHBmWT) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [On Time](https://open.spotify.com/album/5LiPzuR79DTTmyROUm2luC) | 5:54 | 2021-12-02 |  |
@@ -370,7 +371,7 @@
 | [Windows](https://open.spotify.com/track/0m8tSPLHhjhGToD6LW0RPp) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [The Best Of Chick Corea](https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus) | 3:11 | 2021-12-02 |  |
 | [Witch Hunt \- Remastered1998/Rudy Van Gelder Edition](https://open.spotify.com/track/6fw1b1bCVNY5EVurncxIss) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 8:11 | 2023-06-13 | 2025-05-30 |
 | [Yams](https://open.spotify.com/track/57B6gMEI1E4E3kKLKvfX3U) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:00 | 2022-01-04 |  |
-| [Yes Or No \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:39 | 2022-01-04 |  |
+| [Yes Or No \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:39 | 2022-01-04 | 2025-11-06 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/3341eBppSCetzo507uJU06) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 2:58 | 2021-12-02 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:48 | 2021-12-02 | 2025-09-18 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/2TPRvPvUotVn4tGHAWWcog) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 4:05 | 2021-12-02 |  |

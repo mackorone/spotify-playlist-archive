@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "The Action",
+        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/25JImJVprKvTOZEJnPHJEP"
+    },
+    {
+      "album": {
         "name": "BDBD",
         "url": "https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6"
       },
@@ -1023,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Lazy!",
+        "url": "https://open.spotify.com/album/2uihBcB1iN1qGfl1D63bSW"
+      },
+      "artists": [
+        {
+          "name": "Kimfunny",
+          "url": "https://open.spotify.com/artist/6hQihzOAkoYx8DWP4iIkqM"
+        }
+      ],
+      "date_added": "2025-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195754,
+      "name": "Lazy!",
+      "url": "https://open.spotify.com/track/12rmCtdt4CjZ7Y1hG8bkjp"
+    },
+    {
+      "album": {
         "name": "Hello, Then Goodbye",
         "url": "https://open.spotify.com/album/6rEo5ut1ZaiKXi6NtRlyZY"
       },
@@ -1274,7 +1310,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 179666,
       "name": "Night in Seogyo",
       "url": "https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG"
@@ -1560,7 +1596,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-06",
       "duration_ms": 129666,
       "name": "SK8 KID (feat. JJANGYOU)",
       "url": "https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX"

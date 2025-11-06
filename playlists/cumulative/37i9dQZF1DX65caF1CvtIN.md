@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-265 songs - 11 hr 42 min
+268 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [As i am will you be](https://open.spotify.com/track/58tFQyiBY6BHf7mHerYEfW) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [As i am will you be](https://open.spotify.com/album/3Vg1bpN6C9kBEmZyYot5u7) | 2:31 | 2022-08-03 |  |
 | [At Dawn](https://open.spotify.com/track/55H4GT7iLma7fJyBhS7o4R) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:00 | 2022-08-03 | 2024-10-01 |
 | [Bastille](https://open.spotify.com/track/7BHadNj1tyvcUUtwAyaQMJ) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Bastille](https://open.spotify.com/album/3mIBkkGxrGtbHmCgKvDnDa) | 2:15 | 2022-08-03 | 2023-06-21 |
+| [Bayou](https://open.spotify.com/track/4n5uhVSaDjV9nSHhfcbJ0B) | [Melvin Hull](https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz) | [Bayou](https://open.spotify.com/album/0WK8UlUY7Q9xNOv5Y6cVkj) | 2:46 | 2025-11-05 |  |
 | [Beauté](https://open.spotify.com/track/6nDc5i9kdQP7gCt8hk3Ib3) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Forlorn](https://open.spotify.com/album/6aMnSCguHOdoJsrvaz6rii) | 3:12 | 2022-08-03 |  |
 | [Before and After](https://open.spotify.com/track/1qdF4ws4FoTuQ9ojY4vQOg) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Before and After](https://open.spotify.com/album/3s7nEIScJqXvt99fB5kMGR) | 2:19 | 2023-02-21 |  |
 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 | 2024-09-09 |  |
@@ -108,6 +109,7 @@
 | [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-08-03 | 2024-07-30 |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2022-10-04 | 2025-04-09 |
 | [Holunder](https://open.spotify.com/track/5Aki6jU7ZhW2ChqPYULD6W) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Holunder](https://open.spotify.com/album/3Xmq3Xkg8QTkn9ObMIKyoz) | 2:30 | 2023-02-21 |  |
+| [Homecoming](https://open.spotify.com/track/5egFj05le4qVXAHywhilm2) | [Junius Clyde](https://open.spotify.com/artist/0RvljygdcU5lXCCnNMwAGU) | [Homecoming](https://open.spotify.com/album/1dRS9iEmb0RwjmcIKzesmt) | 2:37 | 2025-11-05 |  |
 | [hope](https://open.spotify.com/track/6MI1zRSrHQVCXPQ9QkrHue) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [hope](https://open.spotify.com/album/3OvVqq5lE0CpAxbQm9P1k8) | 3:10 | 2022-08-03 |  |
 | [How it Used to Be](https://open.spotify.com/track/75erFAUKLzeaRHhaIOrTGM) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [How it Used to Be](https://open.spotify.com/album/7mSlDiBarb6ZuUScqXK9nz) | 2:06 | 2023-01-26 |  |
 | [Hues](https://open.spotify.com/track/69liE6Bhwv1vDcUyYuLlTn) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Dave Lewis](https://open.spotify.com/artist/11oTVF7PmAEYQKcD4HdBQ3) | [Hues](https://open.spotify.com/album/1TEVz8WnwhUyBB2KaJCoEH) | 2:45 | 2022-08-03 | 2024-09-03 |
@@ -160,6 +162,7 @@
 | [Moon Glow](https://open.spotify.com/track/2lGO4YrvkZQqSHIwMZQm6c) | [Brackwhit](https://open.spotify.com/artist/7DR5iew6NBX4QmYl4ULooZ) | [Moon Glow](https://open.spotify.com/album/2XqesbTK95SoVv7T7f5xnj) | 2:29 | 2022-08-03 |  |
 | [Mundo Flotante](https://open.spotify.com/track/0SCWfuvd3vqNmUM3rJvGoK) | [Sergio Díaz De Rojas](https://open.spotify.com/artist/0dhkL5V7ldKvybgSy3ps27) | [Mundo Flotante](https://open.spotify.com/album/0hdsXfp4q6bVkqu7mnzYLH) | 2:24 | 2022-08-03 | 2024-10-01 |
 | [My Beloved Twin Flame...](https://open.spotify.com/track/0h7S5ygplBgAWP990wIRs6) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 2:47 | 2022-08-03 | 2025-01-22 |
+| [My Only Love](https://open.spotify.com/track/1z49c3xyRnIJ4NyFJlZWJD) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [My Only Love](https://open.spotify.com/album/0Er2kXA6xGLESzdRb5tfZz) | 2:26 | 2025-11-05 |  |
 | [Nayarit](https://open.spotify.com/track/1LPwD2EN0JPd8JcQze7TlP) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Nayarit](https://open.spotify.com/album/2Rf5sGCzqXeeQZMn98orMF) | 2:55 | 2025-01-14 |  |
 | [No borders](https://open.spotify.com/track/6O9LAJMUgbtw2z8AdAiTin) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [No borders](https://open.spotify.com/album/2vjcO7FPmXU1NQeVltwZKi) | 2:36 | 2024-11-12 |  |
 | [No More Goodbyes](https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:23 | 2022-12-21 |  |

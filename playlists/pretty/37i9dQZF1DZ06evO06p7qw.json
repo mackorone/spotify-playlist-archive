@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 187085,
+  "num_followers": 187160,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aQfwgAAAAADmtjXEe8LOaFOtCd3LQ9QU",
+  "snapshot_id": "aQlCAAAAAACMjGNRKTdRN55cyaG7g285",
   "tracks": [
     {
       "added_at": null,
@@ -947,6 +947,26 @@
       "duration_ms": 204493,
       "name": "Aut\u00e9ntica",
       "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amen (Spanglish Version)",
+        "url": "https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD"
+      },
+      "artists": [
+        {
+          "name": "Stereo Jane",
+          "url": "https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 196619,
+      "name": "Amen - Spanglish Version",
+      "url": "https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F"
     }
   ],
   "unique_name": "This Is Manuel Medrano",
